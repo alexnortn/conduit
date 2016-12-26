@@ -1,0 +1,1 @@
+for (var i=0; i < panels.length; i++) { var links = panels[i].getElementsByClassName("linkRow"); console.log(links); }
