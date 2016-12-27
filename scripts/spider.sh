@@ -1,6 +1,6 @@
 #!/bin/bash
 sitedomain=http://www.middleborough.com/
-wget --spider --recursive --level=inf --no-verbose --output-file=linklist.txt $sitedomain
+wget -q --spider --recursive --level=inf --no-verbose --show-progress --wait=0.1 -e robots=off --output-file=linklist.txt $sitedomain
 grep -i URL linklist.txt | awk -F 'URL:' '{print $2}' | awk '{$1=$1};1' | awk '{print $1}' | sort -u | sed '/^$/d' > sortedurls.txt
 header='<?xml version="1.0" encoding="UTF-8"?><urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"

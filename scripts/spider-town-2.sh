@@ -1,0 +1,1 @@
+cut -d, -f2 ../data/townNames/massachusetts-town.csv | xargs wget --user=NEXUSER --password=""
