@@ -1,0 +1,629 @@
+2016-12-27 14:59:12 URL:http://town.buckland.ma.us/ [21290] -> "../data/townSites/Buckland/town.buckland.ma.us/index.html" [1]
+2016-12-27 14:59:12 URL:http://town.buckland.ma.us/robots.txt [865/865] -> "../data/townSites/Buckland/town.buckland.ma.us/robots.txt" [1]
+2016-12-27 14:59:12 URL: http://town.buckland.ma.us/component/search/?format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 14:59:13 URL:http://b.tgx.pw/ [21268] -> "../data/townSites/Buckland/town.buckland.ma.us/index.php" [1]
+2016-12-27 14:59:14 URL:http://town.buckland.ma.us/town-hall.html [9995] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall.html" [1]
+2016-12-27 14:59:14 URL:http://town.buckland.ma.us/town-hall/when-and-where.html [10655] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/when-and-where.html" [1]
+2016-12-27 14:59:15 URL:http://town.buckland.ma.us/town-hall/accountant.html [9723] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/accountant.html" [1]
+2016-12-27 14:59:16 URL:http://town.buckland.ma.us/town-hall/assessors.html [10954] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/assessors.html" [1]
+2016-12-27 14:59:17 URL:http://town.buckland.ma.us/town-hall/collector.html [26009] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/collector.html" [1]
+2016-12-27 14:59:18 URL:http://town.buckland.ma.us/town-hall/finance-committee.html [13368] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/finance-committee.html" [1]
+2016-12-27 14:59:19 URL:http://town.buckland.ma.us/town-hall/selectboard.html [26230] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/selectboard.html" [1]
+2016-12-27 14:59:20 URL:http://town.buckland.ma.us/town-hall/town-clerk.html [19030] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/town-clerk.html" [1]
+2016-12-27 14:59:20 URL:http://town.buckland.ma.us/town-hall/town-admin.html [9790] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/town-admin.html" [1]
+2016-12-27 14:59:21 URL:http://town.buckland.ma.us/boards-comms.html [10226] -> "../data/townSites/Buckland/town.buckland.ma.us/boards-comms.html" [1]
+2016-12-27 14:59:22 URL:http://town.buckland.ma.us/boards-comms/agricultural-commission.html [10052] -> "../data/townSites/Buckland/town.buckland.ma.us/boards-comms/agricultural-commission.html" [1]
+2016-12-27 14:59:22 URL:http://town.buckland.ma.us/boards-comms/board-of-health.html [12403] -> "../data/townSites/Buckland/town.buckland.ma.us/boards-comms/board-of-health.html" [1]
+2016-12-27 14:59:23 URL:http://town.buckland.ma.us/boards-comms/conservation-commission.html [10053] -> "../data/townSites/Buckland/town.buckland.ma.us/boards-comms/conservation-commission.html" [1]
+2016-12-27 14:59:23 URL:http://town.buckland.ma.us/boards-comms/council-on-aging.html [11352] -> "../data/townSites/Buckland/town.buckland.ma.us/boards-comms/council-on-aging.html" [1]
+2016-12-27 14:59:24 URL:http://town.buckland.ma.us/boards-comms/cultural-council.html [18987] -> "../data/townSites/Buckland/town.buckland.ma.us/boards-comms/cultural-council.html" [1]
+2016-12-27 14:59:25 URL:http://town.buckland.ma.us/boards-comms/energy-committee.html [9881] -> "../data/townSites/Buckland/town.buckland.ma.us/boards-comms/energy-committee.html" [1]
+2016-12-27 14:59:26 URL:http://town.buckland.ma.us/boards-comms/personnel-committee.html [10033] -> "../data/townSites/Buckland/town.buckland.ma.us/boards-comms/personnel-committee.html" [1]
+2016-12-27 14:59:27 URL:http://town.buckland.ma.us/boards-comms/planning-board.html [12167] -> "../data/townSites/Buckland/town.buckland.ma.us/boards-comms/planning-board.html" [1]
+2016-12-27 14:59:28 URL:http://town.buckland.ma.us/boards-comms/zoning-board-of-appeals.html [9932] -> "../data/townSites/Buckland/town.buckland.ma.us/boards-comms/zoning-board-of-appeals.html" [1]
+2016-12-27 14:59:29 URL:http://town.buckland.ma.us/departments.html [10312] -> "../data/townSites/Buckland/town.buckland.ma.us/departments.html" [1]
+2016-12-27 14:59:29 URL:http://town.buckland.ma.us/departments/animal-control.html [9373] -> "../data/townSites/Buckland/town.buckland.ma.us/departments/animal-control.html" [1]
+2016-12-27 14:59:30 URL:http://town.buckland.ma.us/departments/building-inspector.html [10101] -> "../data/townSites/Buckland/town.buckland.ma.us/departments/building-inspector.html" [1]
+2016-12-27 14:59:31 URL:http://town.buckland.ma.us/departments/highway-refuse-department.html [13671] -> "../data/townSites/Buckland/town.buckland.ma.us/departments/highway-refuse-department.html" [1]
+2016-12-27 14:59:32 URL:http://town.buckland.ma.us/departments/library.html [10801] -> "../data/townSites/Buckland/town.buckland.ma.us/departments/library.html" [1]
+2016-12-27 14:59:32 URL:http://town.buckland.ma.us/departments/emergency-management.html [19010] -> "../data/townSites/Buckland/town.buckland.ma.us/departments/emergency-management.html" [1]
+2016-12-27 14:59:33 URL:http://town.buckland.ma.us/departments/fire-department.html [9809] -> "../data/townSites/Buckland/town.buckland.ma.us/departments/fire-department.html" [1]
+2016-12-27 14:59:34 URL:http://town.buckland.ma.us/departments/police-department.html [13955] -> "../data/townSites/Buckland/town.buckland.ma.us/departments/police-department.html" [1]
+2016-12-27 14:59:35 URL:http://town.buckland.ma.us/departments/rec-committee.html [11940] -> "../data/townSites/Buckland/town.buckland.ma.us/departments/rec-committee.html" [1]
+2016-12-27 14:59:35 URL:http://town.buckland.ma.us/departments/schools.html [9822] -> "../data/townSites/Buckland/town.buckland.ma.us/departments/schools.html" [1]
+2016-12-27 14:59:36 URL:http://town.buckland.ma.us/departments/veterans-services.html [11306] -> "../data/townSites/Buckland/town.buckland.ma.us/departments/veterans-services.html" [1]
+2016-12-27 14:59:37 URL:http://town.buckland.ma.us/departments/wastewater-treatment.html [9290] -> "../data/townSites/Buckland/town.buckland.ma.us/departments/wastewater-treatment.html" [1]
+2016-12-27 14:59:38 URL:http://town.buckland.ma.us/about-buckland.html [11914] -> "../data/townSites/Buckland/town.buckland.ma.us/about-buckland.html" [1]
+2016-12-27 14:59:39 URL:http://town.buckland.ma.us/about-buckland/about-buckland.html [12018] -> "../data/townSites/Buckland/town.buckland.ma.us/about-buckland/about-buckland.html" [1]
+2016-12-27 14:59:40 URL:http://town.buckland.ma.us/about-buckland/business.html [11281] -> "../data/townSites/Buckland/town.buckland.ma.us/about-buckland/business.html" [1]
+2016-12-27 14:59:41 URL:http://town.buckland.ma.us/about-buckland/town-meetings-calendar.html [7070] -> "../data/townSites/Buckland/town.buckland.ma.us/about-buckland/town-meetings-calendar.html" [1]
+2016-12-27 14:59:41 URL:http://town.buckland.ma.us/about-buckland/state-and-federal-representatives.html [11519] -> "../data/townSites/Buckland/town.buckland.ma.us/about-buckland/state-and-federal-representatives.html" [1]
+2016-12-27 14:59:42 URL:http://town.buckland.ma.us/index.php?option=com_tw&view=meetings&id=4396 [10346] -> "../data/townSites/Buckland/town.buckland.ma.us/index.php?option=com_tw&view=meetings&id=4396" [1]
+2016-12-27 14:59:43 URL:http://town.buckland.ma.us/?tmpl=component&print=1&page= [13619] -> "../data/townSites/Buckland/town.buckland.ma.us/index.html?tmpl=component&print=1&page=" [1]
+2016-12-27 14:59:43 URL:http://town.buckland.ma.us/8-news/bulletins/199-draft-buckland-housing-plan.html [10308] -> "../data/townSites/Buckland/town.buckland.ma.us/8-news/bulletins/199-draft-buckland-housing-plan.html" [1]
+2016-12-27 14:59:43 URL: http://town.buckland.ma.us/documents/HousingPlanCommittee/Buckland_HousingPlan_PublicReviewDraft_Dec2016.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 14:59:44 URL:http://town.buckland.ma.us/8-news/bulletins/198-the-buckland-recreation-area-pool.html [12133] -> "../data/townSites/Buckland/town.buckland.ma.us/8-news/bulletins/198-the-buckland-recreation-area-pool.html" [1]
+2016-12-27 14:59:45 URL:http://town.buckland.ma.us/8-news/bulletins/197-website-maintenance.html [9574] -> "../data/townSites/Buckland/town.buckland.ma.us/8-news/bulletins/197-website-maintenance.html" [1]
+2016-12-27 14:59:46 URL:http://town.buckland.ma.us/8-news/bulletins/196-public-meeting-notice.html [12009] -> "../data/townSites/Buckland/town.buckland.ma.us/8-news/bulletins/196-public-meeting-notice.html" [1]
+2016-12-27 14:59:46 URL:http://town.buckland.ma.us/8-news/bulletins/195-winter-parking-ban-begins-december-1-2016.html [9890] -> "../data/townSites/Buckland/town.buckland.ma.us/8-news/bulletins/195-winter-parking-ban-begins-december-1-2016.html" [1]
+2016-12-27 14:59:47 URL:http://town.buckland.ma.us/8-news/bulletins/194-apple-valley-rd-closure.html [9904] -> "../data/townSites/Buckland/town.buckland.ma.us/8-news/bulletins/194-apple-valley-rd-closure.html" [1]
+2016-12-27 14:59:48 URL:http://town.buckland.ma.us/8-news/bulletins/174-bulky-waste.html [10740] -> "../data/townSites/Buckland/town.buckland.ma.us/8-news/bulletins/174-bulky-waste.html" [1]
+2016-12-27 14:59:49 URL:http://town.buckland.ma.us/8-news/bulletins/67-donate-to-the-buckland-beautification-fund.html [9838] -> "../data/townSites/Buckland/town.buckland.ma.us/8-news/bulletins/67-donate-to-the-buckland-beautification-fund.html" [1]
+2016-12-27 14:59:50 URL:http://town.buckland.ma.us/archived-news.html [14278] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news.html" [1]
+2016-12-27 14:59:53 URL:http://town.buckland.ma.us/townpersonnel.html [10271] -> "../data/townSites/Buckland/town.buckland.ma.us/townpersonnel.html" [1]
+2016-12-27 14:59:53 URL:http://town.buckland.ma.us/disc.html [12198] -> "../data/townSites/Buckland/town.buckland.ma.us/disc.html" [1]
+2016-12-27 14:59:54 URL: http://town.buckland.ma.us/component/search/?Itemid=103&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 14:59:54 URL:http://town.buckland.ma.us/town-hall.html?tmpl=component&print=1&page= [2513] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall.html?tmpl=component&print=1&page=" [1]
+2016-12-27 14:59:55 URL: http://town.buckland.ma.us/component/search/?Itemid=166&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 14:59:55 URL:http://town.buckland.ma.us/town-hall/index.php?option=com_tw&view=meetings&id=4396 [10361] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/index.php?option=com_tw&view=meetings&id=4396" [1]
+2016-12-27 14:59:56 URL:http://town.buckland.ma.us/town-hall/when-and-where.html?tmpl=component&print=1&page= [3079] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/when-and-where.html?tmpl=component&print=1&page=" [1]
+2016-12-27 14:59:56 URL: http://town.buckland.ma.us/component/search/?Itemid=173&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 14:59:57 URL:http://town.buckland.ma.us/town-hall/accountant.html?tmpl=component&print=1&page= [2155] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/accountant.html?tmpl=component&print=1&page=" [1]
+2016-12-27 14:59:57 URL: http://town.buckland.ma.us/component/search/?Itemid=150&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 14:59:58 URL:http://town.buckland.ma.us/town-hall/assessors.html?tmpl=component&print=1&page= [3388] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/assessors.html?tmpl=component&print=1&page=" [1]
+2016-12-27 14:59:58 URL: http://town.buckland.ma.us/documents/BoardofAssessors/Jan%205%202012%20minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 14:59:58 URL: http://town.buckland.ma.us/component/search/?Itemid=104&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 14:59:59 URL:http://town.buckland.ma.us/town-hall/collector.html?tmpl=component&print=1&page= [18443] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/collector.html?tmpl=component&print=1&page=" [1]
+2016-12-27 14:59:59 URL: http://town.buckland.ma.us/component/search/?Itemid=155&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:00 URL:http://town.buckland.ma.us/town-hall/finance-committee.html?tmpl=component&print=1&page= [5786] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/finance-committee.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:00 URL: http://town.buckland.ma.us/documents/FinanceCommittee/Finance0715_001.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:00 URL: http://town.buckland.ma.us/documents/FinanceCommittee/1857_FinanceCommitteeminutesMay182015.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:00 URL: http://town.buckland.ma.us/documents/FinanceCommittee/FinanceCommitteeATMMemo.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:00 URL: http://town.buckland.ma.us/documents/FinanceCommittee/FinanceCommMinutesApril1320152.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:00 URL: http://town.buckland.ma.us/documents/FinanceCommittee/FinanceCommitteeminutesMay182015.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:00 URL: http://town.buckland.ma.us/documents/FinanceCommittee/FinanceCommitteeMarch92015minutes.docx 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:00 URL: http://town.buckland.ma.us/documents/FinanceCommittee/FinanceCommMinutesMarch220153.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:00 URL: http://town.buckland.ma.us/documents/FinanceCommittee/FinanceCommMinutesFebruary162015.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:00 URL: http://town.buckland.ma.us/documents/FinanceCommittee/FinanceCommitteeNovember172014minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:00 URL: http://town.buckland.ma.us/documents/FinanceCommittee/FinanceCommMinutesOct202014.doc 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:00 URL: http://town.buckland.ma.us/documents/FinanceCommittee/5892_FinanceCommMtgMin2April2014.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:00 URL: http://town.buckland.ma.us/documents/FinanceCommittee/FinanceCommMinutesJuly92014.pdf.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:00 URL: http://town.buckland.ma.us/documents/FinanceCommittee/FinanceCommitteeMinutesApril222015.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:00 URL: http://town.buckland.ma.us/component/search/?Itemid=157&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:01 URL:http://town.buckland.ma.us/town-hall/selectboard.html?tmpl=component&print=1&page= [18660] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/selectboard.html?tmpl=component&print=1&page=" [1]
+http://town.buckland.ma.us/administration/town-admin.html:
+Remote file does not exist -- broken link!!!
+2016-12-27 15:00:02 URL: http://town.buckland.ma.us/documents/SelectBoard/October2520160705_001.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:02 URL: http://town.buckland.ma.us/documents/SelectBoard/0652_0012.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:02 URL: http://town.buckland.ma.us/documents/SelectBoard/September272016Minutes0651_001.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:02 URL: http://town.buckland.ma.us/documents/SelectBoard/September132016minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:02 URL: http://town.buckland.ma.us/documents/SelectBoard/August132016MeetingMinutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:02 URL: http://town.buckland.ma.us/documents/SelectBoard/August92016Minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:02 URL: http://town.buckland.ma.us/documents/SelectBoard/July262016Minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:02 URL: http://town.buckland.ma.us/documents/SelectBoard/July122016Minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:02 URL: http://town.buckland.ma.us/documents/SelectBoard/June282016Minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:02 URL: http://town.buckland.ma.us/documents/SelectBoard/jUNE142016Minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:02 URL: http://town.buckland.ma.us/documents/SelectBoard/May242016Minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:02 URL: http://town.buckland.ma.us/documents/SelectBoard/May102016Minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:02 URL: http://town.buckland.ma.us/documents/SelectBoard/April262016.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:02 URL: http://town.buckland.ma.us/documents/SelectBoard/April122016Minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:02 URL: http://town.buckland.ma.us/documents/SelectBoard/March262016.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:02 URL: http://town.buckland.ma.us/documents/SelectBoard/March82016SelectmenMeetingMinutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:02 URL: http://town.buckland.ma.us/documents/SelectBoard/February232016Minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:02 URL: http://town.buckland.ma.us/documents/SelectBoard/February92016Minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:02 URL: http://town.buckland.ma.us/documents/SelectBoard/January262016Minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:02 URL: http://town.buckland.ma.us/documents/SelectBoard/January122016Minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:02 URL: http://town.buckland.ma.us/documents/SelectBoard/December222015Minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/December82015Minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/November242015Minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/October272015Minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/October132015Minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/August27.2015Minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/August112015Minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/July282015Minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/July142015Minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/July92015.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/June232015Minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/June92015Minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/May262015Minutes.com_20150715_103404.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/May122015Minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/April282015MeetingMinutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/April142015MeetingMinutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/April92015Minutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/March242015MeetingMinutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/March102015MeetingMinutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/January282015.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/January132015MeetingMinutes.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/February%20282012.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/February%2016%202012.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/January%2024%202012.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/January%2010%202012.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/TMNotesFY17SchoolHandout.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/FY2017Budget003Handout.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/BudgetMemorandum2016.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/RegionalDistrictAgreementProposedChanges.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/TownReport2013.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/FY15FinanceCommitteeMemo.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/TOWNREPORTFINALPRINTERCOPY2012.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/FinanceCommittee/FY2014BUDGETSPREADSHEET.xls 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/FY14MemoFinaldoc.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/FY2013BUDGETSPREADSHEETTMHO.xls 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:03 URL: http://town.buckland.ma.us/documents/SelectBoard/Final_FY13_Memo_April_24.doc 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:04 URL: http://town.buckland.ma.us/documents/SelectBoard/General_Bylaws.doc 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:04 URL: http://town.buckland.ma.us/documents/SelectBoard/Town%20Report%20Body%20February%207%202012.doc 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:04 URL: http://town.buckland.ma.us/documents/TownHallForms/SidewalkUsePermit.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:04 URL: http://town.buckland.ma.us/documents/TownHallForms/ParadePermit.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:04 URL: http://town.buckland.ma.us/documents/TownHallForms/Town_Hall_Use_ProceduresFebruary_82012.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:04 URL: http://town.buckland.ma.us/documents/TownHallForms/Town_Hall_Use_Application_FormApril_2008.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:04 URL: http://town.buckland.ma.us/component/search/?Itemid=102&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:05 URL:http://town.buckland.ma.us/town-hall/town-clerk.html?tmpl=component&print=1&page= [11462] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/town-clerk.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:05 URL: http://town.buckland.ma.us/documents/TownClerk/ATMwarrantsigned.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:05 URL: http://town.buckland.ma.us/documents/TownClerk/STMWarrant_032416.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:05 URL: http://town.buckland.ma.us/documents/TownClerk/ResultsATM2015.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:05 URL: http://town.buckland.ma.us/documents/TownClerk/STM_Warrant_Jan16.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:05 URL: http://town.buckland.ma.us/documents/TownClerk/STM_Warrant_Aug2015.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:05 URL: http://town.buckland.ma.us/documents/TownClerk/BucklandSTMWarrant_0715.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:05 URL: http://town.buckland.ma.us/documents/TownClerk/ATMWarrant2015.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:05 URL: http://town.buckland.ma.us/documents/TownClerk/STM2242015Warrant.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:05 URL: http://town.buckland.ma.us/documents/TownClerk/stm_warrant_sept14.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:05 URL: http://town.buckland.ma.us/documents/TownClerk/SignedAnnualTownMeetingWarrant2014.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:05 URL: http://town.buckland.ma.us/documents/TownClerk/ResultsATMMay82013.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:05 URL: http://town.buckland.ma.us/documents/TownClerk/ResultsSTMMAY82013.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:05 URL: http://town.buckland.ma.us/documents/TownClerk/STMMAY82013.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:05 URL: http://town.buckland.ma.us/documents/TownClerk/ATM2013warrant.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:05 URL: http://town.buckland.ma.us/documents/TownClerk/ATE2013warrant.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:05 URL: http://town.buckland.ma.us/documents/TownClerk/2013Apr30SPECSTATEELEC.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:05 URL: http://town.buckland.ma.us/documents/TownClerk/ResultsATM2012.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:05 URL: http://town.buckland.ma.us/documents/TownClerk/ResultsSTMMay92012.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:05 URL: http://town.buckland.ma.us/documents/TownClerk/ResultsSTMSeptember122011.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:05 URL: http://town.buckland.ma.us/documents/TownClerk/ResultsATM2011.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:05 URL: http://town.buckland.ma.us/documents/SelectBoard/STMsignedwarrant.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:05 URL: http://town.buckland.ma.us/documents/SelectBoard/ATMsignedwarrant.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:06 URL:http://town.buckland.ma.us/town-hall/town-clerk/dog-licences.html [10773] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/town-clerk/dog-licences.html" [1]
+2016-12-27 15:00:07 URL:http://town.buckland.ma.us/town-hall/town-clerk/marriage-licenses.html [12431] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/town-clerk/marriage-licenses.html" [1]
+2016-12-27 15:00:07 URL:http://town.buckland.ma.us/town-hall/town-clerk/voting-and-elections.html [12503] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/town-clerk/voting-and-elections.html" [1]
+2016-12-27 15:00:08 URL:http://town.buckland.ma.us/town-hall/town-clerk/business-certificates.html [11025] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/town-clerk/business-certificates.html" [1]
+2016-12-27 15:00:09 URL:http://town.buckland.ma.us/town-hall/town-clerk/absentee-voting.html [11683] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/town-clerk/absentee-voting.html" [1]
+2016-12-27 15:00:09 URL: http://town.buckland.ma.us/component/search/?Itemid=158&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:10 URL:http://town.buckland.ma.us/town-hall/town-admin.html?tmpl=component&print=1&page= [2222] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/town-admin.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:10 URL: http://town.buckland.ma.us/component/search/?Itemid=149&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:10 URL:http://town.buckland.ma.us/boards-comms.html?tmpl=component&print=1&page= [2738] -> "../data/townSites/Buckland/town.buckland.ma.us/boards-comms.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:11 URL: http://town.buckland.ma.us/component/search/?Itemid=154&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:11 URL:http://town.buckland.ma.us/boards-comms/index.php?option=com_tw&view=meetings&id=4396 [10382] -> "../data/townSites/Buckland/town.buckland.ma.us/boards-comms/index.php?option=com_tw&view=meetings&id=4396" [1]
+2016-12-27 15:00:12 URL:http://town.buckland.ma.us/boards-comms/agricultural-commission.html?tmpl=component&print=1&page= [2434] -> "../data/townSites/Buckland/town.buckland.ma.us/boards-comms/agricultural-commission.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:12 URL: http://town.buckland.ma.us/component/search/?Itemid=159&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:13 URL:http://town.buckland.ma.us/boards-comms/board-of-health.html?tmpl=component&print=1&page= [4801] -> "../data/townSites/Buckland/town.buckland.ma.us/boards-comms/board-of-health.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:13 URL: http://town.buckland.ma.us/documents/BoardofHealth/BOH_Tobacco_Regs.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:13 URL: http://town.buckland.ma.us/documents/BoardofHealth/BOH_REGS.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:13 URL: http://town.buckland.ma.us/documents/BoardofHealth/Bucklandemploymentofoutsideconsultantsfinal41812.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:13 URL: http://town.buckland.ma.us/documents/BoardofHealth/FinalBucklandPrivateWellRegs8812.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:13 URL: http://town.buckland.ma.us/documents/BoardofHealth/Bucklandworkplacesmokingreg61312.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:13 URL: http://town.buckland.ma.us/documents/BoardofHealth/BucklandSepticRegulations4182012.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:13 URL: http://town.buckland.ma.us/documents/BoardofHealth/BucklandFormalFoodInspPolicy4182012.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:14 URL: http://town.buckland.ma.us/component/search/?Itemid=152&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:14 URL:http://town.buckland.ma.us/boards-comms/conservation-commission.html?tmpl=component&print=1&page= [2435] -> "../data/townSites/Buckland/town.buckland.ma.us/boards-comms/conservation-commission.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:14 URL: http://town.buckland.ma.us/component/search/?Itemid=200&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:15 URL:http://town.buckland.ma.us/boards-comms/council-on-aging.html?tmpl=component&print=1&page= [3748] -> "../data/townSites/Buckland/town.buckland.ma.us/boards-comms/council-on-aging.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:15 URL: http://town.buckland.ma.us/component/search/?Itemid=194&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:16 URL:http://town.buckland.ma.us/boards-comms/cultural-council.html?tmpl=component&print=1&page= [11383] -> "../data/townSites/Buckland/town.buckland.ma.us/boards-comms/cultural-council.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:16 URL: http://town.buckland.ma.us/component/search/?Itemid=162&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:17 URL:http://town.buckland.ma.us/boards-comms/energy-committee.html?tmpl=component&print=1&page= [2277] -> "../data/townSites/Buckland/town.buckland.ma.us/boards-comms/energy-committee.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:17 URL: http://town.buckland.ma.us/component/search/?Itemid=168&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:18 URL:http://town.buckland.ma.us/boards-comms/personnel-committee.html?tmpl=component&print=1&page= [2423] -> "../data/townSites/Buckland/town.buckland.ma.us/boards-comms/personnel-committee.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:18 URL:http://town.buckland.ma.us/boards-comms/personnel-committee/personnel-committee.html [9902] -> "../data/townSites/Buckland/town.buckland.ma.us/boards-comms/personnel-committee/personnel-committee.html" [1]
+2016-12-27 15:00:19 URL: http://town.buckland.ma.us/component/search/?Itemid=151&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:19 URL:http://town.buckland.ma.us/boards-comms/planning-board.html?tmpl=component&print=1&page= [4567] -> "../data/townSites/Buckland/town.buckland.ma.us/boards-comms/planning-board.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:19 URL: http://town.buckland.ma.us/documents/PlanningBoard/SitePlanReviewSolarQuestions121615.doc 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:19 URL: http://town.buckland.ma.us/documents/PlanningBoard/BucklandSitePlanReviewApplicationForm022316.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:19 URL: http://town.buckland.ma.us/documents/PlanningBoard/Groundmountedsolarguidancedocument010816.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:19 URL: http://town.buckland.ma.us/documents/PlanningBoard/BucklandHazardMitigationPlanFinal090512.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:19 URL: http://town.buckland.ma.us/documents/PlanningBoard/Buckland2010OSRPFinalPlan091313.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:19 URL: http://town.buckland.ma.us/documents/PlanningBoard/BucklandLargeScaleSolarBylawPublicHearingIIwithTownCounselComments91313.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:19 URL: http://town.buckland.ma.us/documents/PlanningBoard/zoningbylawsUPDATED9252014.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:20 URL: http://town.buckland.ma.us/component/search/?Itemid=153&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:20 URL:http://town.buckland.ma.us/boards-comms/zoning-board-of-appeals.html?tmpl=component&print=1&page= [2314] -> "../data/townSites/Buckland/town.buckland.ma.us/boards-comms/zoning-board-of-appeals.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:21 URL: http://town.buckland.ma.us/component/search/?Itemid=161&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:21 URL:http://town.buckland.ma.us/departments.html?tmpl=component&print=1&page= [2826] -> "../data/townSites/Buckland/town.buckland.ma.us/departments.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:21 URL: http://town.buckland.ma.us/component/search/?Itemid=197&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:22 URL:http://town.buckland.ma.us/departments/index.php?option=com_tw&view=meetings&id=4396 [10367] -> "../data/townSites/Buckland/town.buckland.ma.us/departments/index.php?option=com_tw&view=meetings&id=4396" [1]
+2016-12-27 15:00:23 URL:http://town.buckland.ma.us/departments/animal-control.html?tmpl=component&print=1&page= [1789] -> "../data/townSites/Buckland/town.buckland.ma.us/departments/animal-control.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:23 URL: http://town.buckland.ma.us/component/search/?Itemid=172&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:24 URL:http://town.buckland.ma.us/departments/building-inspector.html?tmpl=component&print=1&page= [2509] -> "../data/townSites/Buckland/town.buckland.ma.us/departments/building-inspector.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:24 URL: http://town.buckland.ma.us/component/search/?Itemid=164&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:25 URL:http://town.buckland.ma.us/departments/highway-refuse-department.html?tmpl=component&print=1&page= [6065] -> "../data/townSites/Buckland/town.buckland.ma.us/departments/highway-refuse-department.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:25 URL: http://town.buckland.ma.us/component/search/?Itemid=167&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:26 URL:http://town.buckland.ma.us/departments/library.html?tmpl=component&print=1&page= [3231] -> "../data/townSites/Buckland/town.buckland.ma.us/departments/library.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:26 URL: http://town.buckland.ma.us/component/search/?Itemid=177&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:27 URL:http://town.buckland.ma.us/departments/emergency-management.html?tmpl=component&print=1&page= [11182] -> "../data/townSites/Buckland/town.buckland.ma.us/departments/emergency-management.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:28 URL:http://town.buckland.ma.us/departments/emergency-management/blackboard-connect.html [10948] -> "../data/townSites/Buckland/town.buckland.ma.us/departments/emergency-management/blackboard-connect.html" [1]
+2016-12-27 15:00:28 URL: http://town.buckland.ma.us/component/search/?Itemid=170&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:29 URL:http://town.buckland.ma.us/departments/fire-department.html?tmpl=component&print=1&page= [2223] -> "../data/townSites/Buckland/town.buckland.ma.us/departments/fire-department.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:29 URL: http://town.buckland.ma.us/component/search/?Itemid=171&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:29 URL:http://town.buckland.ma.us/departments/police-department.html?tmpl=component&print=1&page= [6365] -> "../data/townSites/Buckland/town.buckland.ma.us/departments/police-department.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:30 URL: http://town.buckland.ma.us/component/search/?Itemid=163&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:30 URL:http://town.buckland.ma.us/departments/rec-committee.html?tmpl=component&print=1&page= [4358] -> "../data/townSites/Buckland/town.buckland.ma.us/departments/rec-committee.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:30 URL: http://town.buckland.ma.us/documents/RecreationCommittee/PAVILIONRESERVATIONFORM2016.doc 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:30 URL: http://town.buckland.ma.us/documents/RecreationCommittee/SWIMLESSONREGISTRATIONFORM2016No.doc 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:30 URL: http://town.buckland.ma.us/documents/RecreationCommittee/PoolPassApplicationForm2016.doc 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:31 URL: http://town.buckland.ma.us/component/search/?Itemid=169&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:31 URL:http://town.buckland.ma.us/departments/schools.html?tmpl=component&print=1&page= [2252] -> "../data/townSites/Buckland/town.buckland.ma.us/departments/schools.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:31 URL: http://town.buckland.ma.us/component/search/?Itemid=300&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:32 URL:http://town.buckland.ma.us/departments/veterans-services.html?tmpl=component&print=1&page= [3716] -> "../data/townSites/Buckland/town.buckland.ma.us/departments/veterans-services.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:32 URL: http://town.buckland.ma.us/component/search/?Itemid=266&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:33 URL:http://town.buckland.ma.us/departments/wastewater-treatment.html?tmpl=component&print=1&page= [1694] -> "../data/townSites/Buckland/town.buckland.ma.us/departments/wastewater-treatment.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:33 URL: http://town.buckland.ma.us/component/search/?Itemid=156&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:34 URL:http://town.buckland.ma.us/about-buckland/about-buckland.html?tmpl=component&print=1&page= [4431] -> "../data/townSites/Buckland/town.buckland.ma.us/about-buckland/about-buckland.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:34 URL: http://town.buckland.ma.us/component/search/?Itemid=196&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:35 URL:http://town.buckland.ma.us/about-buckland/index.php?option=com_tw&view=meetings&id=4396 [10367] -> "../data/townSites/Buckland/town.buckland.ma.us/about-buckland/index.php?option=com_tw&view=meetings&id=4396" [1]
+2016-12-27 15:00:35 URL: http://town.buckland.ma.us/component/search/?Itemid=176&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:36 URL:http://town.buckland.ma.us/gsfba.html?tmpl=component&print=1&page= [4250] -> "../data/townSites/Buckland/town.buckland.ma.us/gsfba.html?tmpl=component&print=1&page=" [1]
+http://town.buckland.ma.us/www.gsfaba.org:
+Remote file does not exist -- broken link!!!
+http://town.buckland.ma.us/www.shelburnefalls.com:
+Remote file does not exist -- broken link!!!
+2016-12-27 15:00:36 URL: http://town.buckland.ma.us/component/search/?Itemid=258&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:36 URL:http://town.buckland.ma.us/about-buckland/state-and-federal-representatives.html?tmpl=component&print=1&page= [3894] -> "../data/townSites/Buckland/town.buckland.ma.us/about-buckland/state-and-federal-representatives.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:37 URL: http://town.buckland.ma.us/component/search/?id=4396&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:37 URL: http://town.buckland.ma.us/component/search/?Itemid=101&catid=8&id=199&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:38 URL:http://town.buckland.ma.us/8-news/bulletins/index.php?option=com_tw&view=meetings&id=4396 [10617] -> "../data/townSites/Buckland/town.buckland.ma.us/8-news/bulletins/index.php?option=com_tw&view=meetings&id=4396" [1]
+2016-12-27 15:00:38 URL:http://town.buckland.ma.us/8-news/bulletins/199-draft-buckland-housing-plan.html?tmpl=component&print=1&page= [2546] -> "../data/townSites/Buckland/town.buckland.ma.us/8-news/bulletins/199-draft-buckland-housing-plan.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:39 URL: http://town.buckland.ma.us/component/search/?Itemid=101&catid=8&id=198&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:39 URL:http://town.buckland.ma.us/8-news/bulletins/198-the-buckland-recreation-area-pool.html?tmpl=component&print=1&page= [4365] -> "../data/townSites/Buckland/town.buckland.ma.us/8-news/bulletins/198-the-buckland-recreation-area-pool.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:39 URL: http://town.buckland.ma.us/component/search/?Itemid=101&catid=8&id=197&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:40 URL:http://town.buckland.ma.us/8-news/bulletins/197-website-maintenance.html?tmpl=component&print=1&page= [1820] -> "../data/townSites/Buckland/town.buckland.ma.us/8-news/bulletins/197-website-maintenance.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:40 URL: http://town.buckland.ma.us/component/search/?Itemid=101&catid=8&id=196&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:41 URL:http://town.buckland.ma.us/8-news/bulletins/196-public-meeting-notice.html?tmpl=component&print=1&page= [4253] -> "../data/townSites/Buckland/town.buckland.ma.us/8-news/bulletins/196-public-meeting-notice.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:41 URL: http://town.buckland.ma.us/component/search/?Itemid=101&catid=8&id=195&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:42 URL:http://town.buckland.ma.us/8-news/bulletins/195-winter-parking-ban-begins-december-1-2016.html?tmpl=component&print=1&page= [2114] -> "../data/townSites/Buckland/town.buckland.ma.us/8-news/bulletins/195-winter-parking-ban-begins-december-1-2016.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:42 URL: http://town.buckland.ma.us/component/search/?Itemid=101&catid=8&id=194&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:43 URL:http://town.buckland.ma.us/8-news/bulletins/194-apple-valley-rd-closure.html?tmpl=component&print=1&page= [2146] -> "../data/townSites/Buckland/town.buckland.ma.us/8-news/bulletins/194-apple-valley-rd-closure.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:43 URL: http://town.buckland.ma.us/component/search/?Itemid=101&catid=8&id=174&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:44 URL:http://town.buckland.ma.us/8-news/bulletins/174-bulky-waste.html?tmpl=component&print=1&page= [2994] -> "../data/townSites/Buckland/town.buckland.ma.us/8-news/bulletins/174-bulky-waste.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:44 URL: http://town.buckland.ma.us/component/search/?Itemid=101&catid=8&id=67&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:45 URL:http://town.buckland.ma.us/8-news/bulletins/67-donate-to-the-buckland-beautification-fund.html?tmpl=component&print=1&page= [2063] -> "../data/townSites/Buckland/town.buckland.ma.us/8-news/bulletins/67-donate-to-the-buckland-beautification-fund.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:45 URL: http://town.buckland.ma.us/component/search/?Itemid=265&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:46 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/48-annual-town-meeting-and-election-results.html [9856] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/48-annual-town-meeting-and-election-results.html" [1]
+2016-12-27 15:00:46 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/184-buckland-housing-survey.html [10170] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/184-buckland-housing-survey.html" [1]
+2016-12-27 15:00:47 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/51-buckland-quilt.html [9984] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/51-buckland-quilt.html" [1]
+2016-12-27 15:00:47 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/62-chimney-sweep-repair-scam.html [11103] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/62-chimney-sweep-repair-scam.html" [1]
+2016-12-27 15:00:48 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/57-clesson-brook-and-upper-buckland-repairs.html [12247] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/57-clesson-brook-and-upper-buckland-repairs.html" [1]
+2016-12-27 15:00:49 URL:http://town.buckland.ma.us/archived-news.html?start=5 [14359] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news.html?start=5" [1]
+2016-12-27 15:00:49 URL:http://town.buckland.ma.us/archived-news.html?start=10 [13698] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news.html?start=10" [1]
+2016-12-27 15:00:50 URL: http://town.buckland.ma.us/component/search/?Itemid=138&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:50 URL:http://town.buckland.ma.us/townpersonnel.html?view=reset [10962] -> "../data/townSites/Buckland/town.buckland.ma.us/townpersonnel.html?view=reset" [1]
+2016-12-27 15:00:51 URL:http://town.buckland.ma.us/townpersonnel.html?view=remind [10803] -> "../data/townSites/Buckland/town.buckland.ma.us/townpersonnel.html?view=remind" [1]
+2016-12-27 15:00:51 URL: http://town.buckland.ma.us/component/search/?Itemid=195&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:52 URL:http://town.buckland.ma.us/disc.html?tmpl=component&print=1&page= [4748] -> "../data/townSites/Buckland/town.buckland.ma.us/disc.html?tmpl=component&print=1&page=" [1]
+http://town.buckland.ma.us/town-hall/index.php:
+Remote file does not exist -- broken link!!!
+2016-12-27 15:00:53 URL: http://town.buckland.ma.us/component/search/?Itemid=183&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:53 URL:http://town.buckland.ma.us/town-hall/town-clerk/index.php?option=com_tw&view=meetings&id=4396 [10448] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/town-clerk/index.php?option=com_tw&view=meetings&id=4396" [1]
+2016-12-27 15:00:54 URL:http://town.buckland.ma.us/town-hall/town-clerk/dog-licences.html?tmpl=component&print=1&page= [3121] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/town-clerk/dog-licences.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:54 URL: http://town.buckland.ma.us/component/search/?Itemid=184&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:55 URL:http://town.buckland.ma.us/town-hall/town-clerk/marriage-licenses.html?tmpl=component&print=1&page= [4769] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/town-clerk/marriage-licenses.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:55 URL: http://town.buckland.ma.us/component/search/?Itemid=186&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:56 URL:http://town.buckland.ma.us/town-hall/town-clerk/voting-and-elections.html?tmpl=component&print=1&page= [4835] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/town-clerk/voting-and-elections.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:56 URL: http://town.buckland.ma.us/component/search/?Itemid=185&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:57 URL:http://town.buckland.ma.us/town-hall/town-clerk/business-certificates.html?tmpl=component&print=1&page= [3355] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/town-clerk/business-certificates.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:00:57 URL: http://town.buckland.ma.us/component/search/?Itemid=187&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:58 URL:http://town.buckland.ma.us/town-hall/town-clerk/absentee-voting.html?tmpl=component&print=1&page= [4025] -> "../data/townSites/Buckland/town.buckland.ma.us/town-hall/town-clerk/absentee-voting.html?tmpl=component&print=1&page=" [1]
+http://town.buckland.ma.us/boards-comms/index.php:
+Remote file does not exist -- broken link!!!
+2016-12-27 15:00:58 URL: http://town.buckland.ma.us/component/search/?Itemid=247&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:00:59 URL:http://town.buckland.ma.us/boards-comms/personnel-committee/index.php?option=com_tw&view=meetings&id=4396 [10495] -> "../data/townSites/Buckland/town.buckland.ma.us/boards-comms/personnel-committee/index.php?option=com_tw&view=meetings&id=4396" [1]
+2016-12-27 15:01:00 URL:http://town.buckland.ma.us/boards-comms/personnel-committee/personnel-committee.html?tmpl=component&print=1&page= [2177] -> "../data/townSites/Buckland/town.buckland.ma.us/boards-comms/personnel-committee/personnel-committee.html?tmpl=component&print=1&page=" [1]
+http://town.buckland.ma.us/departments/index.php:
+Remote file does not exist -- broken link!!!
+2016-12-27 15:01:00 URL: http://town.buckland.ma.us/component/search/?Itemid=199&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:01 URL:http://town.buckland.ma.us/departments/emergency-management/index.php?option=com_tw&view=meetings&id=4396 [10718] -> "../data/townSites/Buckland/town.buckland.ma.us/departments/emergency-management/index.php?option=com_tw&view=meetings&id=4396" [1]
+2016-12-27 15:01:01 URL:http://town.buckland.ma.us/departments/emergency-management/blackboard-connect.html?tmpl=component&print=1&page= [3002] -> "../data/townSites/Buckland/town.buckland.ma.us/departments/emergency-management/blackboard-connect.html?tmpl=component&print=1&page=" [1]
+http://town.buckland.ma.us/about-buckland/index.php:
+Remote file does not exist -- broken link!!!
+2016-12-27 15:01:02 URL: http://town.buckland.ma.us/component/search/?id=8&Itemid=101&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:03 URL:http://town.buckland.ma.us/8-news/bulletins/index.php [19682] -> "../data/townSites/Buckland/town.buckland.ma.us/8-news/bulletins/index.php" [1]
+2016-12-27 15:01:03 URL: http://town.buckland.ma.us/component/search/?Itemid=265&catid=8&id=48&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:04 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/index.php?option=com_tw&view=meetings&id=4396 [10377] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/index.php?option=com_tw&view=meetings&id=4396" [1]
+2016-12-27 15:01:04 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/48-annual-town-meeting-and-election-results.html?tmpl=component&print=1&page= [2305] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/48-annual-town-meeting-and-election-results.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:01:05 URL: http://town.buckland.ma.us/component/search/?Itemid=265&catid=8&id=184&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:05 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/184-buckland-housing-survey.html?tmpl=component&print=1&page= [2634] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/184-buckland-housing-survey.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:01:05 URL: http://town.buckland.ma.us/component/search/?Itemid=265&catid=8&id=51&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:06 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/51-buckland-quilt.html?tmpl=component&print=1&page= [2459] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/51-buckland-quilt.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:01:06 URL: http://town.buckland.ma.us/component/search/?Itemid=265&catid=8&id=62&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:07 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/62-chimney-sweep-repair-scam.html?tmpl=component&print=1&page= [3567] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/62-chimney-sweep-repair-scam.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:01:07 URL: http://town.buckland.ma.us/component/search/?Itemid=265&catid=8&id=57&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:08 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/57-clesson-brook-and-upper-buckland-repairs.html?tmpl=component&print=1&page= [4696] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/57-clesson-brook-and-upper-buckland-repairs.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:01:08 URL: http://town.buckland.ma.us/documents/FEMADocuments/Clesson_FEMA_PlansToTown.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:08 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/71-election-town-meeting-information.html [10374] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/71-election-town-meeting-information.html" [1]
+2016-12-27 15:01:09 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/109-f-w-wells-trust-committee.html [11104] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/109-f-w-wells-trust-committee.html" [1]
+2016-12-27 15:01:10 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/73-filming-in-buckland-and-surrounding-areas.html [11648] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/73-filming-in-buckland-and-surrounding-areas.html" [1]
+2016-12-27 15:01:10 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/50-movie-filming-downtown.html [11418] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/50-movie-filming-downtown.html" [1]
+2016-12-27 15:01:11 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/49-pool-passes.html [9712] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/49-pool-passes.html" [1]
+2016-12-27 15:01:12 URL:http://town.buckland.ma.us/archived-news.html?limitstart=0 [14295] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news.html?limitstart=0" [1]
+2016-12-27 15:01:12 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/66-sustainable-franklin-county.html [9749] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/66-sustainable-franklin-county.html" [1]
+2016-12-27 15:01:13 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/107-voter-registration.html [9861] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/107-voter-registration.html" [1]
+2016-12-27 15:01:14 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/7-welcome-to-bucklands-website.html [9923] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/7-welcome-to-bucklands-website.html" [1]
+2016-12-27 15:01:14 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/88-winter-parking-ban.html [10897] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/88-winter-parking-ban.html" [1]
+http://town.buckland.ma.us/town-hall/town-clerk/index.php:
+Remote file does not exist -- broken link!!!
+http://town.buckland.ma.us/boards-comms/personnel-committee/index.php:
+Remote file does not exist -- broken link!!!
+http://town.buckland.ma.us/departments/emergency-management/index.php:
+Remote file does not exist -- broken link!!!
+2016-12-27 15:01:15 URL: http://town.buckland.ma.us/8-news/bulletins.feed?type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:16 URL: http://town.buckland.ma.us/8-news/bulletins.feed?type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:16 URL: http://town.buckland.ma.us/component/search/?Itemid=101&id=8&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:17 URL:http://town.buckland.ma.us/7-news.html [9517] -> "../data/townSites/Buckland/town.buckland.ma.us/7-news.html" [1]
+2016-12-27 15:01:17 URL: http://town.buckland.ma.us/component/search/?id=8&Itemid=265&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:17 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/index.php [20634] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/index.php" [1]
+2016-12-27 15:01:18 URL: http://town.buckland.ma.us/component/search/?Itemid=265&catid=8&id=71&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:18 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/71-election-town-meeting-information.html?tmpl=component&print=1&page= [2830] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/71-election-town-meeting-information.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:01:19 URL: http://town.buckland.ma.us/component/search/?Itemid=265&catid=8&id=109&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:19 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/109-f-w-wells-trust-committee.html?tmpl=component&print=1&page= [3566] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/109-f-w-wells-trust-committee.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:01:19 URL: http://town.buckland.ma.us/component/search/?Itemid=265&catid=8&id=73&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:20 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/73-filming-in-buckland-and-surrounding-areas.html?tmpl=component&print=1&page= [4096] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/73-filming-in-buckland-and-surrounding-areas.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:01:20 URL: http://town.buckland.ma.us/component/search/?Itemid=265&catid=8&id=50&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:21 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/50-movie-filming-downtown.html?tmpl=component&print=1&page= [3885] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/50-movie-filming-downtown.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:01:21 URL: http://town.buckland.ma.us/documents/Film_Notification_Letter_Labor%20Day_6-15-2012.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:21 URL: http://town.buckland.ma.us/component/search/?Itemid=265&catid=8&id=49&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:22 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/49-pool-passes.html?tmpl=component&print=1&page= [2190] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/49-pool-passes.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:01:22 URL: http://town.buckland.ma.us/component/search/?limitstart=0&Itemid=265&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:22 URL: http://town.buckland.ma.us/component/search/?Itemid=265&catid=8&id=66&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:23 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/66-sustainable-franklin-county.html?tmpl=component&print=1&page= [2211] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/66-sustainable-franklin-county.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:01:23 URL: http://town.buckland.ma.us/documents/OpenHouseFlyer_MAR2013.pdf 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:23 URL: http://town.buckland.ma.us/component/search/?Itemid=265&catid=8&id=107&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:24 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/107-voter-registration.html?tmpl=component&print=1&page= [2330] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/107-voter-registration.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:01:24 URL: http://town.buckland.ma.us/component/search/?Itemid=265&catid=8&id=7&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:25 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/7-welcome-to-bucklands-website.html?tmpl=component&print=1&page= [2386] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/7-welcome-to-bucklands-website.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:01:25 URL: http://town.buckland.ma.us/component/search/?Itemid=265&catid=8&id=88&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:25 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/88-winter-parking-ban.html?tmpl=component&print=1&page= [3368] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/88-winter-parking-ban.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:01:26 URL: http://town.buckland.ma.us/7-news.feed?type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:26 URL: http://town.buckland.ma.us/7-news.feed?type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:26 URL: http://town.buckland.ma.us/component/search/?Itemid=101&id=7&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:27 URL:http://town.buckland.ma.us/8-news/bulletins.html [19677] -> "../data/townSites/Buckland/town.buckland.ma.us/8-news/bulletins.html" [1]
+2016-12-27 15:01:27 URL: http://town.buckland.ma.us/archived-news/8-news/bulletins.feed?type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:28 URL: http://town.buckland.ma.us/archived-news/8-news/bulletins.feed?type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:28 URL: http://town.buckland.ma.us/component/search/?Itemid=265&id=8&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:28 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/194-apple-valley-rd-closure.html [10085] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/194-apple-valley-rd-closure.html" [1]
+2016-12-27 15:01:29 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/194-apple-valley-rd-closure.html?tmpl=component&print=1&page= [2549] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/194-apple-valley-rd-closure.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:01:30 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/174-bulky-waste.html [10889] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/174-bulky-waste.html" [1]
+2016-12-27 15:01:30 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/174-bulky-waste.html?tmpl=component&print=1&page= [3365] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/174-bulky-waste.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:01:31 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/199-draft-buckland-housing-plan.html [10491] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/199-draft-buckland-housing-plan.html" [1]
+2016-12-27 15:01:31 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/199-draft-buckland-housing-plan.html?tmpl=component&print=1&page= [2951] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/199-draft-buckland-housing-plan.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:01:32 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/67-donate-to-the-buckland-beautification-fund.html [10051] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/67-donate-to-the-buckland-beautification-fund.html" [1]
+2016-12-27 15:01:33 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/67-donate-to-the-buckland-beautification-fund.html?tmpl=component&print=1&page= [2498] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/67-donate-to-the-buckland-beautification-fund.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:01:33 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/196-public-meeting-notice.html [12181] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/196-public-meeting-notice.html" [1]
+2016-12-27 15:01:34 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/196-public-meeting-notice.html?tmpl=component&print=1&page= [4647] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/196-public-meeting-notice.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:01:35 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins.html?start=5 [9036] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins.html?start=5" [1]
+2016-12-27 15:01:35 URL:http://town.buckland.ma.us/8-news/index.php?option=com_tw&view=meetings&id=4396 [10654] -> "../data/townSites/Buckland/town.buckland.ma.us/8-news/index.php?option=com_tw&view=meetings&id=4396" [1]
+2016-12-27 15:01:36 URL: http://town.buckland.ma.us/component/search/?Itemid=265&catid=8&id=194&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:36 URL: http://town.buckland.ma.us/component/search/?Itemid=265&catid=8&id=174&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:36 URL: http://town.buckland.ma.us/component/search/?Itemid=265&catid=8&id=199&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:36 URL: http://town.buckland.ma.us/component/search/?Itemid=265&catid=8&id=67&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:37 URL: http://town.buckland.ma.us/component/search/?Itemid=265&catid=8&id=196&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:37 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins.html [20488] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins.html" [1]
+2016-12-27 15:01:38 URL:http://town.buckland.ma.us/archived-news/8-news/index.php?option=com_tw&view=meetings&id=4396 [10367] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/index.php?option=com_tw&view=meetings&id=4396" [1]
+2016-12-27 15:01:39 URL:http://town.buckland.ma.us/8-news/index.php [19672] -> "../data/townSites/Buckland/town.buckland.ma.us/8-news/index.php" [1]
+2016-12-27 15:01:39 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/198-the-buckland-recreation-area-pool.html [12333] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/198-the-buckland-recreation-area-pool.html" [1]
+2016-12-27 15:01:40 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/197-website-maintenance.html [9742] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/197-website-maintenance.html" [1]
+2016-12-27 15:01:41 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/195-winter-parking-ban-begins-december-1-2016.html [10109] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/195-winter-parking-ban-begins-december-1-2016.html" [1]
+2016-12-27 15:01:42 URL:http://town.buckland.ma.us/archived-news/8-news/index.php [20483] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/index.php" [1]
+2016-12-27 15:01:42 URL: http://town.buckland.ma.us/component/search/?Itemid=265&catid=8&id=198&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:42 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/198-the-buckland-recreation-area-pool.html?tmpl=component&print=1&page= [4787] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/198-the-buckland-recreation-area-pool.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:01:43 URL: http://town.buckland.ma.us/component/search/?Itemid=265&catid=8&id=197&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:43 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/197-website-maintenance.html?tmpl=component&print=1&page= [2210] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/197-website-maintenance.html?tmpl=component&print=1&page=" [1]
+2016-12-27 15:01:43 URL: http://town.buckland.ma.us/component/search/?Itemid=265&catid=8&id=195&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 15:01:44 URL:http://town.buckland.ma.us/archived-news/8-news/bulletins/195-winter-parking-ban-begins-december-1-2016.html?tmpl=component&print=1&page= [2555] -> "../data/townSites/Buckland/town.buckland.ma.us/archived-news/8-news/bulletins/195-winter-parking-ban-begins-december-1-2016.html?tmpl=component&print=1&page=" [1]
+Found 10 broken links.
+
+http://town.buckland.ma.us/www.gsfaba.org
+http://town.buckland.ma.us/town-hall/index.php
+http://town.buckland.ma.us/about-buckland/index.php
+http://town.buckland.ma.us/departments/emergency-management/index.php
+http://town.buckland.ma.us/boards-comms/personnel-committee/index.php
+http://town.buckland.ma.us/town-hall/town-clerk/index.php
+http://town.buckland.ma.us/www.shelburnefalls.com
+http://town.buckland.ma.us/boards-comms/index.php
+http://town.buckland.ma.us/administration/town-admin.html
+http://town.buckland.ma.us/departments/index.php
+
+FINISHED --2016-12-27 15:01:44--
+Total wall clock time: 2m 33s
+Downloaded: 177 files, 1.5M in 0.8s (1.94 MB/s)

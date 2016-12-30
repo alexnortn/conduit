@@ -1,0 +1,900 @@
+2016-12-27 16:44:25 URL:http://www.erving-ma.org/ [41510] -> "../data/townSites/Erving/www.erving-ma.org/index.html" [1]
+2016-12-27 16:44:25 URL:http://www.erving-ma.org/robots.txt [881/881] -> "../data/townSites/Erving/www.erving-ma.org/robots.txt" [1]
+2016-12-27 16:44:25 URL: http://www.erving-ma.org/?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:44:25 URL: http://www.erving-ma.org/?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:44:25 URL: http://www.erving-ma.org/component/search/?format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:44:26 URL:http://www.erving-ma.org/site-map [34356] -> "../data/townSites/Erving/www.erving-ma.org/site-map" [1]
+2016-12-27 16:44:27 URL:http://www.erving-ma.org/calendar [68794] -> "../data/townSites/Erving/www.erving-ma.org/calendar" [1]
+2016-12-27 16:44:27 URL:http://www.erving-ma.org/contact-us [29783] -> "../data/townSites/Erving/www.erving-ma.org/contact-us" [1]
+2016-12-27 16:44:28 URL:http://www.erving-ma.org/projects [14600] -> "../data/townSites/Erving/www.erving-ma.org/projects" [1]
+2016-12-27 16:44:28 URL:http://www.erving-ma.org/erving-police [13683] -> "../data/townSites/Erving/www.erving-ma.org/erving-police" [1]
+2016-12-27 16:44:28 URL:http://www.erving-ma.org/erving-police/download-forms [12899] -> "../data/townSites/Erving/www.erving-ma.org/erving-police/download-forms" [1]
+2016-12-27 16:44:29 URL:http://www.erving-ma.org/erving-police/news-articles [17735] -> "../data/townSites/Erving/www.erving-ma.org/erving-police/news-articles" [1]
+2016-12-27 16:44:29 URL:http://www.erving-ma.org/erving-police/online-resources [12930] -> "../data/townSites/Erving/www.erving-ma.org/erving-police/online-resources" [1]
+2016-12-27 16:44:30 URL:http://www.erving-ma.org/erving-police/police-contact-form [29687] -> "../data/townSites/Erving/www.erving-ma.org/erving-police/police-contact-form" [1]
+2016-12-27 16:44:31 URL:http://www.erving-ma.org/job-opportunities [42104] -> "../data/townSites/Erving/www.erving-ma.org/job-opportunities" [1]
+2016-12-27 16:44:31 URL:http://www.erving-ma.org/town-government [25374] -> "../data/townSites/Erving/www.erving-ma.org/town-government" [1]
+2016-12-27 16:44:31 URL:http://www.erving-ma.org/town-government/legal-notices-agendas [16665] -> "../data/townSites/Erving/www.erving-ma.org/town-government/legal-notices-agendas" [1]
+2016-12-27 16:44:32 URL:http://www.erving-ma.org/town-government/minutes [35249] -> "../data/townSites/Erving/www.erving-ma.org/town-government/minutes" [1]
+2016-12-27 16:44:32 URL:http://www.erving-ma.org/town-government/committees-boards-vacancies [14279] -> "../data/townSites/Erving/www.erving-ma.org/town-government/committees-boards-vacancies" [1]
+2016-12-27 16:44:33 URL:http://www.erving-ma.org/town-government/elections-warrants [13628] -> "../data/townSites/Erving/www.erving-ma.org/town-government/elections-warrants" [1]
+2016-12-27 16:44:33 URL:http://www.erving-ma.org/town-government/events-announcements [16754] -> "../data/townSites/Erving/www.erving-ma.org/town-government/events-announcements" [1]
+2016-12-27 16:44:34 URL:http://www.erving-ma.org/forms [14934] -> "../data/townSites/Erving/www.erving-ma.org/forms" [1]
+2016-12-27 16:44:34 URL:http://www.erving-ma.org/forms/recreation-commission [12966] -> "../data/townSites/Erving/www.erving-ma.org/forms/recreation-commission" [1]
+2016-12-27 16:44:35 URL:http://www.erving-ma.org/forms/exemption-and-abatement-forms [15022] -> "../data/townSites/Erving/www.erving-ma.org/forms/exemption-and-abatement-forms" [1]
+2016-12-27 16:44:35 URL:http://www.erving-ma.org/forms/board-of-health [14533] -> "../data/townSites/Erving/www.erving-ma.org/forms/board-of-health" [1]
+2016-12-27 16:44:36 URL:http://www.erving-ma.org/forms/treasurer-forms [16068] -> "../data/townSites/Erving/www.erving-ma.org/forms/treasurer-forms" [1]
+2016-12-27 16:44:36 URL:http://www.erving-ma.org/forms/dog-tags-and-bylaw-information [13444] -> "../data/townSites/Erving/www.erving-ma.org/forms/dog-tags-and-bylaw-information" [1]
+2016-12-27 16:44:36 URL:http://www.erving-ma.org/forms/employment [12430] -> "../data/townSites/Erving/www.erving-ma.org/forms/employment" [1]
+2016-12-27 16:44:37 URL:http://www.erving-ma.org/tourism [16630] -> "../data/townSites/Erving/www.erving-ma.org/tourism" [1]
+2016-12-27 16:44:37 URL:http://www.erving-ma.org/businesses [41500] -> "../data/townSites/Erving/www.erving-ma.org/businesses" [1]
+2016-12-27 16:44:38 URL:http://www.erving-ma.org/schools [15556] -> "../data/townSites/Erving/www.erving-ma.org/schools" [1]
+2016-12-27 16:44:38 URL:http://www.erving-ma.org/publications [13357] -> "../data/townSites/Erving/www.erving-ma.org/publications" [1]
+2016-12-27 16:44:39 URL:http://www.erving-ma.org/publications/town-reports [13058] -> "../data/townSites/Erving/www.erving-ma.org/publications/town-reports" [1]
+2016-12-27 16:44:39 URL:http://www.erving-ma.org/publications/around-town-community-newsletter [14193] -> "../data/townSites/Erving/www.erving-ma.org/publications/around-town-community-newsletter" [1]
+2016-12-27 16:44:40 URL:http://www.erving-ma.org/publications/water-and-sewer [13037] -> "../data/townSites/Erving/www.erving-ma.org/publications/water-and-sewer" [1]
+2016-12-27 16:44:40 URL:http://www.erving-ma.org/publications/zoning-bylaws [12791] -> "../data/townSites/Erving/www.erving-ma.org/publications/zoning-bylaws" [1]
+2016-12-27 16:44:40 URL:http://www.erving-ma.org/publications/cemetery [12322] -> "../data/townSites/Erving/www.erving-ma.org/publications/cemetery" [1]
+2016-12-27 16:44:41 URL:http://www.erving-ma.org/publications/dog-regulations [13434] -> "../data/townSites/Erving/www.erving-ma.org/publications/dog-regulations" [1]
+2016-12-27 16:44:41 URL:http://www.erving-ma.org/publications/erving-master-plan [12970] -> "../data/townSites/Erving/www.erving-ma.org/publications/erving-master-plan" [1]
+2016-12-27 16:44:42 URL:http://www.erving-ma.org/publications/assessors-maps [13605] -> "../data/townSites/Erving/www.erving-ma.org/publications/assessors-maps" [1]
+2016-12-27 16:44:42 URL:http://www.erving-ma.org/faqs [18459] -> "../data/townSites/Erving/www.erving-ma.org/faqs" [1]
+2016-12-27 16:44:43 URL:http://www.erving-ma.org/town-directory/tree-warden [12275] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/tree-warden" [1]
+2016-12-27 16:44:43 URL:http://www.erving-ma.org/town-directory/veteran-services [12622] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/veteran-services" [1]
+2016-12-27 16:44:44 URL:http://www.erving-ma.org/town-directory/animal-control [14087] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/animal-control" [1]
+2016-12-27 16:44:44 URL:http://www.erving-ma.org/town-directory/assessor [14132] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/assessor" [1]
+2016-12-27 16:44:44 URL:http://www.erving-ma.org/town-directory/board-of-health [17947] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/board-of-health" [1]
+2016-12-27 16:44:45 URL:http://www.erving-ma.org/town-directory/board-of-selectman [13407] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/board-of-selectman" [1]
+2016-12-27 16:44:45 URL:http://www.erving-ma.org/town-directory/building-inspector [15571] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/building-inspector" [1]
+2016-12-27 16:44:46 URL:http://www.erving-ma.org/town-directory/erving-center-cemetery [12497] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/erving-center-cemetery" [1]
+2016-12-27 16:44:46 URL:http://www.erving-ma.org/town-directory/conservation-commission [12488] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/conservation-commission" [1]
+2016-12-27 16:44:46 URL:http://www.erving-ma.org/town-directory/senior-center-council-on-aging [21194] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/senior-center-council-on-aging" [1]
+2016-12-27 16:44:47 URL:http://www.erving-ma.org/town-directory/cultural-council [22152] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/cultural-council" [1]
+2016-12-27 16:44:47 URL:http://www.erving-ma.org/town-directory/highway-department [16305] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/highway-department" [1]
+2016-12-27 16:44:48 URL:http://www.erving-ma.org/town-directory/emergency-management [14948] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/emergency-management" [1]
+2016-12-27 16:44:49 URL:http://www.erving-ma.org/town-directory/historical-commission [23131] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/historical-commission" [1]
+2016-12-27 16:44:49 URL:http://www.erving-ma.org/town-directory/erving-school-committee [13738] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/erving-school-committee" [1]
+2016-12-27 16:44:49 URL:http://www.erving-ma.org/town-directory/finance-committee [13011] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/finance-committee" [1]
+2016-12-27 16:44:50 URL:http://www.erving-ma.org/town-directory/fire-department [17607] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/fire-department" [1]
+2016-12-27 16:44:50 URL:http://www.erving-ma.org/town-directory/library [20718] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/library" [1]
+2016-12-27 16:44:51 URL:http://www.erving-ma.org/town-directory/municipal-clerk [12080] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/municipal-clerk" [1]
+2016-12-27 16:44:51 URL:http://www.erving-ma.org/town-directory/planning-board [13314] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/planning-board" [1]
+2016-12-27 16:44:51 URL:http://www.erving-ma.org/town-directory/potw1 [12639] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/potw1" [1]
+2016-12-27 16:44:52 URL:http://www.erving-ma.org/town-directory/police-department [15749] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/police-department" [1]
+2016-12-27 16:44:52 URL:http://www.erving-ma.org/town-directory/recreation-commission [15253] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/recreation-commission" [1]
+2016-12-27 16:44:53 URL:http://www.erving-ma.org/town-directory/administrative-coordinator [12959] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/administrative-coordinator" [1]
+2016-12-27 16:44:53 URL:http://www.erving-ma.org/town-directory/tax-collector [18399] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/tax-collector" [1]
+2016-12-27 16:44:54 URL:http://www.erving-ma.org/town-directory/accountant [12051] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/accountant" [1]
+2016-12-27 16:44:54 URL:http://www.erving-ma.org/town-directory/town-clerk [17967] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/town-clerk" [1]
+2016-12-27 16:44:54 URL:http://www.erving-ma.org/town-directory/treasurer [13614] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/treasurer" [1]
+2016-12-27 16:44:55 URL:http://www.erving-ma.org/town-directory/water-department [17250] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/water-department" [1]
+2016-12-27 16:44:55 URL:http://www.erving-ma.org/town-directory/zoning-board [12523] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/zoning-board" [1]
+2016-12-27 16:44:57 URL:http://www.erving-ma.org/trash-collection [22090] -> "../data/townSites/Erving/www.erving-ma.org/trash-collection" [1]
+2016-12-27 16:44:57 URL:http://www.erving-ma.org/calendar/month.calendar/2016/11/01/- [76978] -> "../data/townSites/Erving/www.erving-ma.org/calendar/month.calendar/2016/11/01/-" [1]
+2016-12-27 16:44:58 URL:http://www.erving-ma.org/calendar/week.listevents/2016/10/30/- [26385] -> "../data/townSites/Erving/www.erving-ma.org/calendar/week.listevents/2016/10/30/-" [1]
+2016-12-27 16:44:59 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/01/- [21979] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/01/-" [1]
+2016-12-27 16:44:59 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/02/- [22617] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/02/-" [1]
+2016-12-27 16:45:00 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/03/- [21989] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/03/-" [1]
+2016-12-27 16:45:00 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/04/- [21372] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/04/-" [1]
+2016-12-27 16:45:01 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/05/- [21063] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/05/-" [1]
+2016-12-27 16:45:01 URL:http://www.erving-ma.org/calendar/week.listevents/2016/11/6/- [27217] -> "../data/townSites/Erving/www.erving-ma.org/calendar/week.listevents/2016/11/6/-" [1]
+2016-12-27 16:45:02 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/06/- [21059] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/06/-" [1]
+2016-12-27 16:45:03 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/07/- [22090] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/07/-" [1]
+2016-12-27 16:45:03 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/08/- [21958] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/08/-" [1]
+2016-12-27 16:45:04 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/09/- [22103] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/09/-" [1]
+2016-12-27 16:45:04 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/10/- [22654] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/10/-" [1]
+2016-12-27 16:45:05 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/11/- [21443] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/11/-" [1]
+2016-12-27 16:45:05 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/12/- [21063] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/12/-" [1]
+2016-12-27 16:45:06 URL:http://www.erving-ma.org/calendar/week.listevents/2016/11/13/- [24972] -> "../data/townSites/Erving/www.erving-ma.org/calendar/week.listevents/2016/11/13/-" [1]
+2016-12-27 16:45:07 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/13/- [21059] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/13/-" [1]
+2016-12-27 16:45:07 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/14/- [22605] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/14/-" [1]
+2016-12-27 16:45:08 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/15/- [21471] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/15/-" [1]
+2016-12-27 16:45:08 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/16/- [21508] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/16/-" [1]
+2016-12-27 16:45:09 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/17/- [21394] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/17/-" [1]
+2016-12-27 16:45:09 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/18/- [21059] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/18/-" [1]
+2016-12-27 16:45:10 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/19/- [21063] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/19/-" [1]
+2016-12-27 16:45:10 URL:http://www.erving-ma.org/calendar/week.listevents/2016/11/20/- [23796] -> "../data/townSites/Erving/www.erving-ma.org/calendar/week.listevents/2016/11/20/-" [1]
+2016-12-27 16:45:11 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/20/- [21059] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/20/-" [1]
+2016-12-27 16:45:11 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/21/- [22133] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/21/-" [1]
+2016-12-27 16:45:12 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/22/- [21498] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/22/-" [1]
+2016-12-27 16:45:13 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/23/- [21065] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/23/-" [1]
+2016-12-27 16:45:13 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/24/- [21454] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/24/-" [1]
+2016-12-27 16:45:14 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/25/- [21059] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/25/-" [1]
+2016-12-27 16:45:14 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/26/- [21063] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/26/-" [1]
+2016-12-27 16:45:15 URL:http://www.erving-ma.org/calendar/week.listevents/2016/11/27/- [24101] -> "../data/townSites/Erving/www.erving-ma.org/calendar/week.listevents/2016/11/27/-" [1]
+2016-12-27 16:45:15 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/27/- [21059] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/27/-" [1]
+2016-12-27 16:45:16 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/28/- [21881] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/28/-" [1]
+2016-12-27 16:45:17 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/29/- [21942] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/29/-" [1]
+2016-12-27 16:45:17 URL:http://www.erving-ma.org/calendar/day.listevents/2016/11/30/- [21493] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/11/30/-" [1]
+2016-12-27 16:45:18 URL:http://www.erving-ma.org/calendar/month.calendar/2016/12/27/- [68968] -> "../data/townSites/Erving/www.erving-ma.org/calendar/month.calendar/2016/12/27/-" [1]
+2016-12-27 16:45:19 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/01/- [21063] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/01/-" [1]
+2016-12-27 16:45:20 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/02/- [21059] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/02/-" [1]
+2016-12-27 16:45:20 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/03/- [21063] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/03/-" [1]
+2016-12-27 16:45:21 URL:http://www.erving-ma.org/calendar/week.listevents/2016/12/4/- [25336] -> "../data/townSites/Erving/www.erving-ma.org/calendar/week.listevents/2016/12/4/-" [1]
+2016-12-27 16:45:22 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/04/- [21059] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/04/-" [1]
+2016-12-27 16:45:22 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/05/- [23232] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/05/-" [1]
+2016-12-27 16:45:23 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/06/- [21491] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/06/-" [1]
+2016-12-27 16:45:23 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/07/- [22064] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/07/-" [1]
+2016-12-27 16:45:24 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/08/- [21063] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/08/-" [1]
+2016-12-27 16:45:24 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/09/- [21059] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/09/-" [1]
+2016-12-27 16:45:25 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/10/- [21063] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/10/-" [1]
+2016-12-27 16:45:26 URL:http://www.erving-ma.org/calendar/week.listevents/2016/12/11/- [26010] -> "../data/townSites/Erving/www.erving-ma.org/calendar/week.listevents/2016/12/11/-" [1]
+2016-12-27 16:45:26 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/11/- [21519] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/11/-" [1]
+2016-12-27 16:45:27 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/12/- [22686] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/12/-" [1]
+2016-12-27 16:45:27 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/13/- [21061] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/13/-" [1]
+2016-12-27 16:45:28 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/14/- [23315] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/14/-" [1]
+2016-12-27 16:45:28 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/15/- [21063] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/15/-" [1]
+2016-12-27 16:45:29 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/16/- [21059] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/16/-" [1]
+2016-12-27 16:45:29 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/17/- [21063] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/17/-" [1]
+2016-12-27 16:45:30 URL:http://www.erving-ma.org/calendar/week.listevents/2016/12/18/- [25412] -> "../data/townSites/Erving/www.erving-ma.org/calendar/week.listevents/2016/12/18/-" [1]
+2016-12-27 16:45:30 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/18/- [21447] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/18/-" [1]
+2016-12-27 16:45:31 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/19/- [22530] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/19/-" [1]
+2016-12-27 16:45:32 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/20/- [22069] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/20/-" [1]
+2016-12-27 16:45:32 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/21/- [21442] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/21/-" [1]
+2016-12-27 16:45:33 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/22/- [21063] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/22/-" [1]
+2016-12-27 16:45:33 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/23/- [21059] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/23/-" [1]
+2016-12-27 16:45:34 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/24/- [21063] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/24/-" [1]
+2016-12-27 16:45:34 URL:http://www.erving-ma.org/calendar/week.listevents/2016/12/25/- [22485] -> "../data/townSites/Erving/www.erving-ma.org/calendar/week.listevents/2016/12/25/-" [1]
+2016-12-27 16:45:35 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/25/- [21059] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/25/-" [1]
+2016-12-27 16:45:35 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/26/- [21453] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/26/-" [1]
+2016-12-27 16:45:36 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/27/- [21061] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/27/-" [1]
+2016-12-27 16:45:36 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/28/- [21065] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/28/-" [1]
+2016-12-27 16:45:37 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/29/- [21063] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/29/-" [1]
+2016-12-27 16:45:38 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/30/- [21529] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/30/-" [1]
+2016-12-27 16:45:38 URL:http://www.erving-ma.org/calendar/day.listevents/2016/12/31/- [21063] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2016/12/31/-" [1]
+2016-12-27 16:45:39 URL:http://www.erving-ma.org/calendar/month.calendar/2017/01/01/- [45371] -> "../data/townSites/Erving/www.erving-ma.org/calendar/month.calendar/2017/01/01/-" [1]
+2016-12-27 16:45:39 URL:http://www.erving-ma.org/calendar/week.listevents/2017/01/1/- [21725] -> "../data/townSites/Erving/www.erving-ma.org/calendar/week.listevents/2017/01/1/-" [1]
+2016-12-27 16:45:40 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/01/- [21057] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/01/-" [1]
+2016-12-27 16:45:40 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/02/- [21057] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/02/-" [1]
+2016-12-27 16:45:41 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/03/- [21522] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/03/-" [1]
+2016-12-27 16:45:41 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/04/- [21063] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/04/-" [1]
+2016-12-27 16:45:42 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/05/- [21061] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/05/-" [1]
+2016-12-27 16:45:42 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/06/- [21057] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/06/-" [1]
+2016-12-27 16:45:43 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/07/- [21061] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/07/-" [1]
+2016-12-27 16:45:44 URL:http://www.erving-ma.org/calendar/week.listevents/2017/01/8/- [21075] -> "../data/townSites/Erving/www.erving-ma.org/calendar/week.listevents/2017/01/8/-" [1]
+2016-12-27 16:45:44 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/08/- [21057] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/08/-" [1]
+2016-12-27 16:45:45 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/09/- [21057] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/09/-" [1]
+2016-12-27 16:45:45 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/10/- [21059] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/10/-" [1]
+2016-12-27 16:45:46 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/11/- [21063] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/11/-" [1]
+2016-12-27 16:45:46 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/12/- [21061] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/12/-" [1]
+2016-12-27 16:45:47 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/13/- [21057] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/13/-" [1]
+2016-12-27 16:45:47 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/14/- [21061] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/14/-" [1]
+2016-12-27 16:45:48 URL:http://www.erving-ma.org/calendar/week.listevents/2017/01/15/- [21081] -> "../data/townSites/Erving/www.erving-ma.org/calendar/week.listevents/2017/01/15/-" [1]
+2016-12-27 16:45:48 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/15/- [21057] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/15/-" [1]
+2016-12-27 16:45:49 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/16/- [21057] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/16/-" [1]
+2016-12-27 16:45:49 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/17/- [21059] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/17/-" [1]
+2016-12-27 16:45:50 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/18/- [21063] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/18/-" [1]
+2016-12-27 16:45:50 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/19/- [21061] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/19/-" [1]
+2016-12-27 16:45:51 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/20/- [21057] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/20/-" [1]
+2016-12-27 16:45:51 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/21/- [21061] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/21/-" [1]
+2016-12-27 16:45:52 URL:http://www.erving-ma.org/calendar/week.listevents/2017/01/22/- [21081] -> "../data/townSites/Erving/www.erving-ma.org/calendar/week.listevents/2017/01/22/-" [1]
+2016-12-27 16:45:52 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/22/- [21057] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/22/-" [1]
+2016-12-27 16:45:53 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/23/- [21057] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/23/-" [1]
+2016-12-27 16:45:53 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/24/- [21059] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/24/-" [1]
+2016-12-27 16:45:54 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/25/- [21063] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/25/-" [1]
+2016-12-27 16:45:54 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/26/- [21061] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/26/-" [1]
+2016-12-27 16:45:55 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/27/- [21057] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/27/-" [1]
+2016-12-27 16:45:56 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/28/- [21061] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/28/-" [1]
+2016-12-27 16:45:56 URL:http://www.erving-ma.org/calendar/week.listevents/2017/01/29/- [21083] -> "../data/townSites/Erving/www.erving-ma.org/calendar/week.listevents/2017/01/29/-" [1]
+2016-12-27 16:45:57 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/29/- [21057] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/29/-" [1]
+2016-12-27 16:45:57 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/30/- [21057] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/30/-" [1]
+2016-12-27 16:45:58 URL:http://www.erving-ma.org/calendar/day.listevents/2017/01/31/- [21059] -> "../data/townSites/Erving/www.erving-ma.org/calendar/day.listevents/2017/01/31/-" [1]
+2016-12-27 16:45:58 URL: http://www.erving-ma.org/component/search/?Itemid=30&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:45:58 URL:http://www.erving-ma.org/login [13545] -> "../data/townSites/Erving/www.erving-ma.org/login" [1]
+2016-12-27 16:45:59 URL:http://www.erving-ma.org/component/content/article/230-uncategorised/36-welcome-to-the-town-of-erving-website [12914] -> "../data/townSites/Erving/www.erving-ma.org/component/content/article/230-uncategorised/36-welcome-to-the-town-of-erving-website" [1]
+2016-12-27 16:45:59 URL:http://www.erving-ma.org/projects/201-riverfront-park-project [12608] -> "../data/townSites/Erving/www.erving-ma.org/projects/201-riverfront-park-project" [1]
+2016-12-27 16:45:59 URL:http://www.erving-ma.org/projects/200-route-63-sidewalk-project [12894] -> "../data/townSites/Erving/www.erving-ma.org/projects/200-route-63-sidewalk-project" [1]
+2016-12-27 16:46:00 URL:http://www.erving-ma.org/911-emergency [12738] -> "../data/townSites/Erving/www.erving-ma.org/911-emergency" [1]
+2016-12-27 16:46:00 URL:http://www.erving-ma.org/sex-offender-information [14520] -> "../data/townSites/Erving/www.erving-ma.org/sex-offender-information" [1]
+2016-12-27 16:46:01 URL:http://www.erving-ma.org/pistol-permit-fid-information [14445] -> "../data/townSites/Erving/www.erving-ma.org/pistol-permit-fid-information" [1]
+2016-12-27 16:46:01 URL:http://www.erving-ma.org/town-government/legal-notices-agendas/116-legal-notices-meeting-agendas [15961] -> "../data/townSites/Erving/www.erving-ma.org/town-government/legal-notices-agendas/116-legal-notices-meeting-agendas" [1]
+2016-12-27 16:46:02 URL:http://www.erving-ma.org/town-government/minutes/193-library [18275] -> "../data/townSites/Erving/www.erving-ma.org/town-government/minutes/193-library" [1]
+2016-12-27 16:46:02 URL:http://www.erving-ma.org/town-government/minutes/161-recreation-commission-minutes [14665] -> "../data/townSites/Erving/www.erving-ma.org/town-government/minutes/161-recreation-commission-minutes" [1]
+2016-12-27 16:46:03 URL:http://www.erving-ma.org/town-government/minutes/132-finance-committee-minutes [12876] -> "../data/townSites/Erving/www.erving-ma.org/town-government/minutes/132-finance-committee-minutes" [1]
+2016-12-27 16:46:03 URL:http://www.erving-ma.org/town-government/minutes/126-council-of-aging-minutes [13557] -> "../data/townSites/Erving/www.erving-ma.org/town-government/minutes/126-council-of-aging-minutes" [1]
+2016-12-27 16:46:03 URL:http://www.erving-ma.org/town-government/minutes/125-historical-commission-minutes [13709] -> "../data/townSites/Erving/www.erving-ma.org/town-government/minutes/125-historical-commission-minutes" [1]
+2016-12-27 16:46:04 URL:http://www.erving-ma.org/town-government/minutes/123-planning-board-minutes [14469] -> "../data/townSites/Erving/www.erving-ma.org/town-government/minutes/123-planning-board-minutes" [1]
+2016-12-27 16:46:04 URL:http://www.erving-ma.org/town-government/minutes/119-usher-mill-re-use-committee-minutes [15619] -> "../data/townSites/Erving/www.erving-ma.org/town-government/minutes/119-usher-mill-re-use-committee-minutes" [1]
+2016-12-27 16:46:05 URL:http://www.erving-ma.org/town-government/minutes/111-board-of-selectmen-minutes [18766] -> "../data/townSites/Erving/www.erving-ma.org/town-government/minutes/111-board-of-selectmen-minutes" [1]
+2016-12-27 16:46:05 URL:http://www.erving-ma.org/town-government/committees-boards-vacancies/25-boards-committees-members-wanted [13633] -> "../data/townSites/Erving/www.erving-ma.org/town-government/committees-boards-vacancies/25-boards-committees-members-wanted" [1]
+2016-12-27 16:46:06 URL:http://www.erving-ma.org/town-government/elections-warrants/2-elections-warrants [12901] -> "../data/townSites/Erving/www.erving-ma.org/town-government/elections-warrants/2-elections-warrants" [1]
+2016-12-27 16:46:06 URL:http://www.erving-ma.org/town-government/events-announcements/169-announcements [15287] -> "../data/townSites/Erving/www.erving-ma.org/town-government/events-announcements/169-announcements" [1]
+2016-12-27 16:46:06 URL:http://www.erving-ma.org/town-government/events-announcements/168-upcoming-events [13353] -> "../data/townSites/Erving/www.erving-ma.org/town-government/events-announcements/168-upcoming-events" [1]
+2016-12-27 16:46:07 URL:http://www.erving-ma.org/forms/recreation-commission/68-recreation-commission [12224] -> "../data/townSites/Erving/www.erving-ma.org/forms/recreation-commission/68-recreation-commission" [1]
+2016-12-27 16:46:07 URL:http://www.erving-ma.org/forms/exemption-and-abatement-forms/3-exemption-and-abatement-forms [14287] -> "../data/townSites/Erving/www.erving-ma.org/forms/exemption-and-abatement-forms/3-exemption-and-abatement-forms" [1]
+2016-12-27 16:46:08 URL:http://www.erving-ma.org/forms/board-of-health/69-board-of-health [13784] -> "../data/townSites/Erving/www.erving-ma.org/forms/board-of-health/69-board-of-health" [1]
+2016-12-27 16:46:08 URL:http://www.erving-ma.org/forms/treasurer-forms/118-treasurers-forms [15381] -> "../data/townSites/Erving/www.erving-ma.org/forms/treasurer-forms/118-treasurers-forms" [1]
+2016-12-27 16:46:08 URL:http://www.erving-ma.org/publications/dog-regulations/128-dog-tag-information [12522] -> "../data/townSites/Erving/www.erving-ma.org/publications/dog-regulations/128-dog-tag-information" [1]
+2016-12-27 16:46:09 URL:http://www.erving-ma.org/publications/dog-regulations/65-dog-bylaws [11829] -> "../data/townSites/Erving/www.erving-ma.org/publications/dog-regulations/65-dog-bylaws" [1]
+2016-12-27 16:46:09 URL:http://www.erving-ma.org/forms/employment/166-employment-forms [11751] -> "../data/townSites/Erving/www.erving-ma.org/forms/employment/166-employment-forms" [1]
+2016-12-27 16:46:10 URL:http://www.erving-ma.org/forms/284-recreation-commission [12433] -> "../data/townSites/Erving/www.erving-ma.org/forms/284-recreation-commission" [1]
+2016-12-27 16:46:10 URL:http://www.erving-ma.org/forms/285-exemptions-and-abatement-forms [12469] -> "../data/townSites/Erving/www.erving-ma.org/forms/285-exemptions-and-abatement-forms" [1]
+2016-12-27 16:46:10 URL:http://www.erving-ma.org/forms/287-board-of-health [12409] -> "../data/townSites/Erving/www.erving-ma.org/forms/287-board-of-health" [1]
+2016-12-27 16:46:11 URL:http://www.erving-ma.org/forms/286-treasurer-forms [12409] -> "../data/townSites/Erving/www.erving-ma.org/forms/286-treasurer-forms" [1]
+2016-12-27 16:46:11 URL:http://www.erving-ma.org/tourism/108-interesting-places-to-visit [16254] -> "../data/townSites/Erving/www.erving-ma.org/tourism/108-interesting-places-to-visit" [1]
+2016-12-27 16:46:12 URL:http://www.erving-ma.org/businesses/6-businesses [13372] -> "../data/townSites/Erving/www.erving-ma.org/businesses/6-businesses" [1]
+2016-12-27 16:46:12 URL:http://www.erving-ma.org/businesses/6-businesses/79-websites [12533] -> "../data/townSites/Erving/www.erving-ma.org/businesses/6-businesses/79-websites" [1]
+2016-12-27 16:46:13 URL:http://www.erving-ma.org/businesses/111-civil-engineering-services [12579] -> "../data/townSites/Erving/www.erving-ma.org/businesses/111-civil-engineering-services" [1]
+2016-12-27 16:46:13 URL:http://www.erving-ma.org/businesses/110-photography [13281] -> "../data/townSites/Erving/www.erving-ma.org/businesses/110-photography" [1]
+2016-12-27 16:46:13 URL:http://www.erving-ma.org/businesses/110-photography/98-photography [12447] -> "../data/townSites/Erving/www.erving-ma.org/businesses/110-photography/98-photography" [1]
+2016-12-27 16:46:14 URL:http://www.erving-ma.org/businesses/109-pallets [13237] -> "../data/townSites/Erving/www.erving-ma.org/businesses/109-pallets" [1]
+2016-12-27 16:46:14 URL:http://www.erving-ma.org/businesses/109-pallets/97-pallets [12399] -> "../data/townSites/Erving/www.erving-ma.org/businesses/109-pallets/97-pallets" [1]
+2016-12-27 16:46:15 URL:http://www.erving-ma.org/businesses/108-sewing-machine-repair [13469] -> "../data/townSites/Erving/www.erving-ma.org/businesses/108-sewing-machine-repair" [1]
+2016-12-27 16:46:15 URL:http://www.erving-ma.org/businesses/108-sewing-machine-repair/96-sewing-machine-repair [12645] -> "../data/townSites/Erving/www.erving-ma.org/businesses/108-sewing-machine-repair/96-sewing-machine-repair" [1]
+2016-12-27 16:46:16 URL:http://www.erving-ma.org/businesses/106-landscapers-a-yard-services [13544] -> "../data/townSites/Erving/www.erving-ma.org/businesses/106-landscapers-a-yard-services" [1]
+2016-12-27 16:46:16 URL:http://www.erving-ma.org/businesses/106-landscapers-a-yard-services/94-landscapers-a-yard-work [12722] -> "../data/townSites/Erving/www.erving-ma.org/businesses/106-landscapers-a-yard-services/94-landscapers-a-yard-work" [1]
+2016-12-27 16:46:16 URL:http://www.erving-ma.org/businesses/105-snow-plowing [13296] -> "../data/townSites/Erving/www.erving-ma.org/businesses/105-snow-plowing" [1]
+2016-12-27 16:46:17 URL:http://www.erving-ma.org/businesses/105-snow-plowing/93-snow-plowing [12463] -> "../data/townSites/Erving/www.erving-ma.org/businesses/105-snow-plowing/93-snow-plowing" [1]
+2016-12-27 16:46:17 URL:http://www.erving-ma.org/businesses/104-convenience-store [13639] -> "../data/townSites/Erving/www.erving-ma.org/businesses/104-convenience-store" [1]
+2016-12-27 16:46:18 URL:http://www.erving-ma.org/businesses/104-convenience-store/92-convenience-stores [12825] -> "../data/townSites/Erving/www.erving-ma.org/businesses/104-convenience-store/92-convenience-stores" [1]
+2016-12-27 16:46:18 URL:http://www.erving-ma.org/businesses/112-real-estate [13321] -> "../data/townSites/Erving/www.erving-ma.org/businesses/112-real-estate" [1]
+2016-12-27 16:46:18 URL:http://www.erving-ma.org/businesses/112-real-estate/100-real-estate-investments-sales-a-management [12520] -> "../data/townSites/Erving/www.erving-ma.org/businesses/112-real-estate/100-real-estate-investments-sales-a-management" [1]
+2016-12-27 16:46:19 URL:http://www.erving-ma.org/businesses/113-rv-a-trailer-storage-a-repair [13549] -> "../data/townSites/Erving/www.erving-ma.org/businesses/113-rv-a-trailer-storage-a-repair" [1]
+2016-12-27 16:46:19 URL:http://www.erving-ma.org/businesses/113-rv-a-trailer-storage-a-repair/101-rv-a-trailer-storage-a-repair [12765] -> "../data/townSites/Erving/www.erving-ma.org/businesses/113-rv-a-trailer-storage-a-repair/101-rv-a-trailer-storage-a-repair" [1]
+2016-12-27 16:46:20 URL:http://www.erving-ma.org/businesses/129-storage-facilities [13343] -> "../data/townSites/Erving/www.erving-ma.org/businesses/129-storage-facilities" [1]
+2016-12-27 16:46:20 URL:http://www.erving-ma.org/businesses/129-storage-facilities/114-storage-facilities [12573] -> "../data/townSites/Erving/www.erving-ma.org/businesses/129-storage-facilities/114-storage-facilities" [1]
+2016-12-27 16:46:21 URL:http://www.erving-ma.org/businesses/128-automotive-and-truck-sales [13713] -> "../data/townSites/Erving/www.erving-ma.org/businesses/128-automotive-and-truck-sales" [1]
+2016-12-27 16:46:21 URL:http://www.erving-ma.org/businesses/128-automotive-and-truck-sales/113-automotive-and-truck-sales [12951] -> "../data/townSites/Erving/www.erving-ma.org/businesses/128-automotive-and-truck-sales/113-automotive-and-truck-sales" [1]
+2016-12-27 16:46:22 URL:http://www.erving-ma.org/businesses/119-wood-products- [13472] -> "../data/townSites/Erving/www.erving-ma.org/businesses/119-wood-products-" [1]
+2016-12-27 16:46:22 URL:http://www.erving-ma.org/businesses/119-wood-products-/107-wood-products [12642] -> "../data/townSites/Erving/www.erving-ma.org/businesses/119-wood-products-/107-wood-products" [1]
+2016-12-27 16:46:22 URL:http://www.erving-ma.org/businesses/117-banquet-facilities-a-caterers [13710] -> "../data/townSites/Erving/www.erving-ma.org/businesses/117-banquet-facilities-a-caterers" [1]
+2016-12-27 16:46:23 URL:http://www.erving-ma.org/businesses/117-banquet-facilities-a-caterers/105-banquet-facilities-a-caterers [12904] -> "../data/townSites/Erving/www.erving-ma.org/businesses/117-banquet-facilities-a-caterers/105-banquet-facilities-a-caterers" [1]
+2016-12-27 16:46:23 URL:http://www.erving-ma.org/businesses/116-renewal-energy [13411] -> "../data/townSites/Erving/www.erving-ma.org/businesses/116-renewal-energy" [1]
+2016-12-27 16:46:24 URL:http://www.erving-ma.org/businesses/116-renewal-energy/104-renewable-energy [12588] -> "../data/townSites/Erving/www.erving-ma.org/businesses/116-renewal-energy/104-renewable-energy" [1]
+2016-12-27 16:46:24 URL:http://www.erving-ma.org/businesses/115-maple-syrup [13686] -> "../data/townSites/Erving/www.erving-ma.org/businesses/115-maple-syrup" [1]
+2016-12-27 16:46:24 URL:http://www.erving-ma.org/businesses/115-maple-syrup/103-maple-products [12863] -> "../data/townSites/Erving/www.erving-ma.org/businesses/115-maple-syrup/103-maple-products" [1]
+2016-12-27 16:46:25 URL:http://www.erving-ma.org/businesses/103-hotels-and-motels [13340] -> "../data/townSites/Erving/www.erving-ma.org/businesses/103-hotels-and-motels" [1]
+2016-12-27 16:46:25 URL:http://www.erving-ma.org/businesses/103-hotels-and-motels/91-hotels-and-motels [12512] -> "../data/townSites/Erving/www.erving-ma.org/businesses/103-hotels-and-motels/91-hotels-and-motels" [1]
+2016-12-27 16:46:26 URL:http://www.erving-ma.org/businesses/102-building-and-carpentery-services [13722] -> "../data/townSites/Erving/www.erving-ma.org/businesses/102-building-and-carpentery-services" [1]
+2016-12-27 16:46:26 URL:http://www.erving-ma.org/businesses/102-building-and-carpentery-services/60-carpentry-services [12893] -> "../data/townSites/Erving/www.erving-ma.org/businesses/102-building-and-carpentery-services/60-carpentry-services" [1]
+2016-12-27 16:46:27 URL:http://www.erving-ma.org/businesses/91-entertainment-dj-karoke [15024] -> "../data/townSites/Erving/www.erving-ma.org/businesses/91-entertainment-dj-karoke" [1]
+2016-12-27 16:46:27 URL:http://www.erving-ma.org/businesses/91-entertainment-dj-karoke/80-entertainment-disc-jockeys-a-karaoke [14252] -> "../data/townSites/Erving/www.erving-ma.org/businesses/91-entertainment-dj-karoke/80-entertainment-disc-jockeys-a-karaoke" [1]
+2016-12-27 16:46:28 URL:http://www.erving-ma.org/businesses/87-consulting-services [14905] -> "../data/townSites/Erving/www.erving-ma.org/businesses/87-consulting-services" [1]
+2016-12-27 16:46:28 URL:http://www.erving-ma.org/businesses/87-consulting-services/76-business-consulting-services [14107] -> "../data/townSites/Erving/www.erving-ma.org/businesses/87-consulting-services/76-business-consulting-services" [1]
+2016-12-27 16:46:29 URL:http://www.erving-ma.org/businesses/86-bowling-centers [14186] -> "../data/townSites/Erving/www.erving-ma.org/businesses/86-bowling-centers" [1]
+2016-12-27 16:46:29 URL:http://www.erving-ma.org/businesses/86-bowling-centers/75-bowling-centers [13357] -> "../data/townSites/Erving/www.erving-ma.org/businesses/86-bowling-centers/75-bowling-centers" [1]
+2016-12-27 16:46:29 URL:http://www.erving-ma.org/businesses/85-automotive-truck-boat-repair-services [14095] -> "../data/townSites/Erving/www.erving-ma.org/businesses/85-automotive-truck-boat-repair-services" [1]
+2016-12-27 16:46:30 URL:http://www.erving-ma.org/businesses/85-automotive-truck-boat-repair-services/18-automotive-and-truck-repair-services [13300] -> "../data/townSites/Erving/www.erving-ma.org/businesses/85-automotive-truck-boat-repair-services/18-automotive-and-truck-repair-services" [1]
+2016-12-27 16:46:30 URL:http://www.erving-ma.org/businesses/84-apartments [13321] -> "../data/townSites/Erving/www.erving-ma.org/businesses/84-apartments" [1]
+2016-12-27 16:46:32 URL:http://www.erving-ma.org/businesses/84-apartments/15-apartments [12487] -> "../data/townSites/Erving/www.erving-ma.org/businesses/84-apartments/15-apartments" [1]
+2016-12-27 16:46:32 URL:http://www.erving-ma.org/businesses/83-antiques [13312] -> "../data/townSites/Erving/www.erving-ma.org/businesses/83-antiques" [1]
+2016-12-27 16:46:33 URL:http://www.erving-ma.org/businesses/83-antiques/14-antiques [12477] -> "../data/townSites/Erving/www.erving-ma.org/businesses/83-antiques/14-antiques" [1]
+2016-12-27 16:46:33 URL:http://www.erving-ma.org/businesses/92-churches [14050] -> "../data/townSites/Erving/www.erving-ma.org/businesses/92-churches" [1]
+2016-12-27 16:46:33 URL:http://www.erving-ma.org/businesses/92-churches/78-churches [13214] -> "../data/townSites/Erving/www.erving-ma.org/businesses/92-churches/78-churches" [1]
+2016-12-27 16:46:34 URL:http://www.erving-ma.org/businesses/101-gift-shops [13365] -> "../data/townSites/Erving/www.erving-ma.org/businesses/101-gift-shops" [1]
+2016-12-27 16:46:34 URL:http://www.erving-ma.org/businesses/101-gift-shops/90-gift-shops [12530] -> "../data/townSites/Erving/www.erving-ma.org/businesses/101-gift-shops/90-gift-shops" [1]
+2016-12-27 16:46:35 URL:http://www.erving-ma.org/businesses/100-cafes-and-taverns [13664] -> "../data/townSites/Erving/www.erving-ma.org/businesses/100-cafes-and-taverns" [1]
+2016-12-27 16:46:35 URL:http://www.erving-ma.org/businesses/100-cafes-and-taverns/89-cafe-and-taverns [12833] -> "../data/townSites/Erving/www.erving-ma.org/businesses/100-cafes-and-taverns/89-cafe-and-taverns" [1]
+2016-12-27 16:46:36 URL:http://www.erving-ma.org/businesses/99-excavating-services [13353] -> "../data/townSites/Erving/www.erving-ma.org/businesses/99-excavating-services" [1]
+2016-12-27 16:46:36 URL:http://www.erving-ma.org/businesses/99-excavating-services/88-excavating-services [12528] -> "../data/townSites/Erving/www.erving-ma.org/businesses/99-excavating-services/88-excavating-services" [1]
+2016-12-27 16:46:37 URL:http://www.erving-ma.org/businesses/98-furniture-manufacturers-a-retailers [13614] -> "../data/townSites/Erving/www.erving-ma.org/businesses/98-furniture-manufacturers-a-retailers" [1]
+2016-12-27 16:46:37 URL:http://www.erving-ma.org/businesses/98-furniture-manufacturers-a-retailers/87-furniture-manufacturers [12769] -> "../data/townSites/Erving/www.erving-ma.org/businesses/98-furniture-manufacturers-a-retailers/87-furniture-manufacturers" [1]
+2016-12-27 16:46:37 URL:http://www.erving-ma.org/businesses/97-diners-pizza-and-restaurants [14031] -> "../data/townSites/Erving/www.erving-ma.org/businesses/97-diners-pizza-and-restaurants" [1]
+2016-12-27 16:46:38 URL:http://www.erving-ma.org/businesses/97-diners-pizza-and-restaurants/86-restaurants-diners-and-pizza [13216] -> "../data/townSites/Erving/www.erving-ma.org/businesses/97-diners-pizza-and-restaurants/86-restaurants-diners-and-pizza" [1]
+2016-12-27 16:46:38 URL:http://www.erving-ma.org/businesses/96-farm-machinery-a-equipment [13404] -> "../data/townSites/Erving/www.erving-ma.org/businesses/96-farm-machinery-a-equipment" [1]
+2016-12-27 16:46:39 URL:http://www.erving-ma.org/businesses/96-farm-machinery-a-equipment/85-farm-machinery-and-equipment [12592] -> "../data/townSites/Erving/www.erving-ma.org/businesses/96-farm-machinery-a-equipment/85-farm-machinery-and-equipment" [1]
+2016-12-27 16:46:39 URL:http://www.erving-ma.org/businesses/95-farm-stands [13855] -> "../data/townSites/Erving/www.erving-ma.org/businesses/95-farm-stands" [1]
+2016-12-27 16:46:39 URL:http://www.erving-ma.org/businesses/95-farm-stands/84-farms-and-farm-stands [13032] -> "../data/townSites/Erving/www.erving-ma.org/businesses/95-farm-stands/84-farms-and-farm-stands" [1]
+2016-12-27 16:46:40 URL:http://www.erving-ma.org/businesses/279-firearms-instruction [13469] -> "../data/townSites/Erving/www.erving-ma.org/businesses/279-firearms-instruction" [1]
+2016-12-27 16:46:40 URL:http://www.erving-ma.org/businesses/279-firearms-instruction/162-firearms-instructing [12701] -> "../data/townSites/Erving/www.erving-ma.org/businesses/279-firearms-instruction/162-firearms-instructing" [1]
+2016-12-27 16:46:41 URL:http://www.erving-ma.org/schools/12-schools [14828] -> "../data/townSites/Erving/www.erving-ma.org/schools/12-schools" [1]
+2016-12-27 16:46:41 URL:http://www.erving-ma.org/publications/town-reports/192-future-community-development [11849] -> "../data/townSites/Erving/www.erving-ma.org/publications/town-reports/192-future-community-development" [1]
+2016-12-27 16:46:42 URL:http://www.erving-ma.org/publications/town-reports/127-town-reports [12221] -> "../data/townSites/Erving/www.erving-ma.org/publications/town-reports/127-town-reports" [1]
+2016-12-27 16:46:42 URL:http://www.erving-ma.org/publications/around-town-community-newsletter/38-around-town-ervings-community-newsletter [13528] -> "../data/townSites/Erving/www.erving-ma.org/publications/around-town-community-newsletter/38-around-town-ervings-community-newsletter" [1]
+2016-12-27 16:46:42 URL:http://www.erving-ma.org/publications/water-and-sewer/121-water-a-sewer-regulations-and-reports [12412] -> "../data/townSites/Erving/www.erving-ma.org/publications/water-and-sewer/121-water-a-sewer-regulations-and-reports" [1]
+2016-12-27 16:46:43 URL:http://www.erving-ma.org/publications/zoning-bylaws/67-zoning [12027] -> "../data/townSites/Erving/www.erving-ma.org/publications/zoning-bylaws/67-zoning" [1]
+2016-12-27 16:46:43 URL:http://www.erving-ma.org/publications/cemetery/64-cemetery-rules-and-regulations [11625] -> "../data/townSites/Erving/www.erving-ma.org/publications/cemetery/64-cemetery-rules-and-regulations" [1]
+2016-12-27 16:46:44 URL:http://www.erving-ma.org/publications/erving-master-plan/164-master-plan-documents [12283] -> "../data/townSites/Erving/www.erving-ma.org/publications/erving-master-plan/164-master-plan-documents" [1]
+2016-12-27 16:46:44 URL:http://www.erving-ma.org/publications/assessors-maps/170-assessors-maps [12923] -> "../data/townSites/Erving/www.erving-ma.org/publications/assessors-maps/170-assessors-maps" [1]
+2016-12-27 16:46:45 URL:http://www.erving-ma.org/faqs/120-assessors [18390] -> "../data/townSites/Erving/www.erving-ma.org/faqs/120-assessors" [1]
+2016-12-27 16:46:45 URL:http://www.erving-ma.org/faqs/120-assessors/70-assessors [14388] -> "../data/townSites/Erving/www.erving-ma.org/faqs/120-assessors/70-assessors" [1]
+2016-12-27 16:46:45 URL:http://www.erving-ma.org/faqs/120-assessors/73-municipal-clerk [15380] -> "../data/townSites/Erving/www.erving-ma.org/faqs/120-assessors/73-municipal-clerk" [1]
+2016-12-27 16:46:46 URL:http://www.erving-ma.org/faqs/120-assessors/72-planning-board [12388] -> "../data/townSites/Erving/www.erving-ma.org/faqs/120-assessors/72-planning-board" [1]
+2016-12-27 16:46:46 URL:http://www.erving-ma.org/trash-collection/202-trash-collection-information [13310] -> "../data/townSites/Erving/www.erving-ma.org/trash-collection/202-trash-collection-information" [1]
+2016-12-27 16:46:47 URL:http://www.erving-ma.org/trash-collection/198-container-recycling [14503] -> "../data/townSites/Erving/www.erving-ma.org/trash-collection/198-container-recycling" [1]
+2016-12-27 16:46:47 URL:http://www.erving-ma.org/trash-collection/34-paper [15474] -> "../data/townSites/Erving/www.erving-ma.org/trash-collection/34-paper" [1]
+2016-12-27 16:46:48 URL:http://www.erving-ma.org/trash-collection/197-recycling-information [16527] -> "../data/townSites/Erving/www.erving-ma.org/trash-collection/197-recycling-information" [1]
+2016-12-27 16:46:48 URL: http://www.erving-ma.org/component/search/?Itemid=22&format=opensearch 200 OK
+unlink: No such file or directory
+http://www.erving-ma.org/'+captcha_file+':
+Remote file does not exist -- broken link!!!
+2016-12-27 16:46:48 URL: http://www.erving-ma.org/projects?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:48 URL: http://www.erving-ma.org/projects?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:49 URL:http://www.erving-ma.org/school-bus-safety [12541] -> "../data/townSites/Erving/www.erving-ma.org/school-bus-safety" [1]
+2016-12-27 16:46:49 URL: http://www.erving-ma.org/erving-police/news-articles?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:49 URL: http://www.erving-ma.org/erving-police/news-articles?format=feed&type=atom 200 OK
+unlink: No such file or directory
+http://www.erving-ma.org/erving-police/'+captcha_file+':
+Remote file does not exist -- broken link!!!
+2016-12-27 16:46:50 URL: http://www.erving-ma.org/component/search/?Itemid=2&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:50 URL:http://www.erving-ma.org/town-directory/board-of-selectman/60-town-directory/board-of-selectman/199-senior-work-off-program [14481] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/board-of-selectman/60-town-directory/board-of-selectman/199-senior-work-off-program" [1]
+2016-12-27 16:46:50 URL: http://www.erving-ma.org/town-government?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:50 URL: http://www.erving-ma.org/town-government?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:51 URL: http://www.erving-ma.org/component/search/?Itemid=91&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:51 URL: http://www.erving-ma.org/town-government/legal-notices-agendas?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:51 URL: http://www.erving-ma.org/town-government/legal-notices-agendas?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:51 URL: http://www.erving-ma.org/town-government/minutes?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:51 URL: http://www.erving-ma.org/town-government/minutes?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:51 URL: http://www.erving-ma.org/component/search/?Itemid=101&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:52 URL: http://www.erving-ma.org/town-government/committees-boards-vacancies?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:52 URL: http://www.erving-ma.org/town-government/committees-boards-vacancies?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:52 URL: http://www.erving-ma.org/component/search/?Itemid=32&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:52 URL: http://www.erving-ma.org/town-government/elections-warrants?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:52 URL: http://www.erving-ma.org/town-government/elections-warrants?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:52 URL: http://www.erving-ma.org/component/search/?Itemid=93&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:53 URL: http://www.erving-ma.org/town-government/events-announcements?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:53 URL: http://www.erving-ma.org/town-government/events-announcements?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:53 URL: http://www.erving-ma.org/component/search/?Itemid=102&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:53 URL: http://www.erving-ma.org/forms?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:53 URL: http://www.erving-ma.org/forms?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:53 URL: http://www.erving-ma.org/component/search/?Itemid=10&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:54 URL: http://www.erving-ma.org/forms/recreation-commission?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:54 URL: http://www.erving-ma.org/forms/recreation-commission?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:54 URL: http://www.erving-ma.org/forms/exemption-and-abatement-forms?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:54 URL: http://www.erving-ma.org/forms/exemption-and-abatement-forms?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:54 URL: http://www.erving-ma.org/forms/board-of-health?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:54 URL: http://www.erving-ma.org/forms/board-of-health?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:55 URL: http://www.erving-ma.org/forms/treasurer-forms?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:55 URL: http://www.erving-ma.org/forms/treasurer-forms?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:55 URL: http://www.erving-ma.org/forms/dog-tags-and-bylaw-information?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:55 URL: http://www.erving-ma.org/forms/dog-tags-and-bylaw-information?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:55 URL: http://www.erving-ma.org/forms/employment?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:55 URL: http://www.erving-ma.org/forms/employment?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:56 URL: http://www.erving-ma.org/component/search/?Itemid=21&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:56 URL: http://www.erving-ma.org/businesses?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:56 URL: http://www.erving-ma.org/businesses?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:56 URL: http://www.erving-ma.org/component/search/?Itemid=23&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:56 URL: http://www.erving-ma.org/schools?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:56 URL: http://www.erving-ma.org/schools?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:57 URL: http://www.erving-ma.org/component/search/?Itemid=37&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:57 URL: http://www.erving-ma.org/publications?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:57 URL: http://www.erving-ma.org/publications?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:57 URL: http://www.erving-ma.org/component/search/?Itemid=54&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:57 URL: http://www.erving-ma.org/publications/town-reports?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:57 URL: http://www.erving-ma.org/publications/town-reports?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:58 URL: http://www.erving-ma.org/publications/around-town-community-newsletter?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:58 URL: http://www.erving-ma.org/publications/around-town-community-newsletter?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:58 URL: http://www.erving-ma.org/publications/water-and-sewer?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:58 URL: http://www.erving-ma.org/publications/water-and-sewer?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:58 URL: http://www.erving-ma.org/publications/zoning-bylaws?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:59 URL: http://www.erving-ma.org/publications/zoning-bylaws?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:59 URL: http://www.erving-ma.org/publications/cemetery?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:59 URL: http://www.erving-ma.org/publications/cemetery?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:59 URL: http://www.erving-ma.org/publications/dog-regulations?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:59 URL: http://www.erving-ma.org/publications/dog-regulations?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:46:59 URL: http://www.erving-ma.org/publications/erving-master-plan?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:00 URL: http://www.erving-ma.org/publications/erving-master-plan?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:00 URL: http://www.erving-ma.org/publications/assessors-maps?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:00 URL: http://www.erving-ma.org/publications/assessors-maps?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:00 URL: http://www.erving-ma.org/faqs?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:00 URL: http://www.erving-ma.org/faqs?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:01 URL: http://www.erving-ma.org/component/search/?Itemid=94&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:01 URL:http://www.erving-ma.org/forms/3-assessors-forms [15144] -> "../data/townSites/Erving/www.erving-ma.org/forms/3-assessors-forms" [1]
+2016-12-27 16:47:01 URL:http://www.erving-ma.org/forms/2-forms/69-board-of-health [14688] -> "../data/townSites/Erving/www.erving-ma.org/forms/2-forms/69-board-of-health" [1]
+2016-12-27 16:47:02 URL:http://www.erving-ma.org/FORMS/2-FORMS/69-BOARD-OF-HEALTH [14688] -> "../data/townSites/Erving/www.erving-ma.org/FORMS/2-FORMS/69-BOARD-OF-HEALTH" [1]
+2016-12-27 16:47:03 URL:http://www.erving-ma.org/town-government/town-meeting-minutes/111-board-of-selectmen-minutes [18748] -> "../data/townSites/Erving/www.erving-ma.org/town-government/town-meeting-minutes/111-board-of-selectmen-minutes" [1]
+2016-12-27 16:47:03 URL:http://www.erving-ma.org/town-directory/board-of-selectman/60-town-directory/board-of-selectman/203-fy2017-brownfields-cleanup-grant-proposal [13026] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/board-of-selectman/60-town-directory/board-of-selectman/203-fy2017-brownfields-cleanup-grant-proposal" [1]
+2016-12-27 16:47:03 URL:http://www.erving-ma.org/town-directory/police-department/297-police-department [23621] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/police-department/297-police-department" [1]
+2016-12-27 16:47:04 URL:http://www.erving-ma.org/forms/68-recreation-commission [13116] -> "../data/townSites/Erving/www.erving-ma.org/forms/68-recreation-commission" [1]
+2016-12-27 16:47:04 URL:http://www.erving-ma.org/town-directory/zoning-board/250-publications [21121] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/zoning-board/250-publications" [1]
+2016-12-27 16:47:05 URL: http://www.erving-ma.org/trash-collection?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:05 URL: http://www.erving-ma.org/trash-collection?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:06 URL: http://www.erving-ma.org/component/search/?Itemid=53&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:06 URL: http://www.erving-ma.org/component/search/?Itemid=77&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:06 URL:http://www.erving-ma.org/login?view=reset [14439] -> "../data/townSites/Erving/www.erving-ma.org/login?view=reset" [1]
+2016-12-27 16:47:07 URL:http://www.erving-ma.org/login?view=remind [14280] -> "../data/townSites/Erving/www.erving-ma.org/login?view=remind" [1]
+2016-12-27 16:47:07 URL: http://www.erving-ma.org/component/search/?Itemid=101&catid=290&id=193&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:07 URL: http://www.erving-ma.org/component/search/?Itemid=101&catid=290&id=161&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:07 URL: http://www.erving-ma.org/component/search/?Itemid=101&catid=290&id=132&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:07 URL: http://www.erving-ma.org/component/search/?Itemid=101&catid=290&id=126&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:07 URL: http://www.erving-ma.org/component/search/?Itemid=101&catid=290&id=125&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:08 URL: http://www.erving-ma.org/component/search/?Itemid=101&catid=290&id=123&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:08 URL: http://www.erving-ma.org/component/search/?Itemid=101&catid=290&id=119&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:08 URL: http://www.erving-ma.org/component/search/?Itemid=101&catid=290&id=111&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:08 URL: http://www.erving-ma.org/component/search/?Itemid=32&catid=291&id=25&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:08 URL: http://www.erving-ma.org/component/search/?Itemid=93&catid=296&id=2&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:08 URL: http://www.erving-ma.org/component/search/?Itemid=102&catid=293&id=169&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:08 URL: http://www.erving-ma.org/component/search/?Itemid=102&catid=293&id=168&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:09 URL: http://www.erving-ma.org/forms/284-recreation-commission?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:09 URL: http://www.erving-ma.org/forms/284-recreation-commission?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:09 URL: http://www.erving-ma.org/component/search/?Itemid=10&id=284&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:09 URL: http://www.erving-ma.org/forms/285-exemptions-and-abatement-forms?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:09 URL: http://www.erving-ma.org/forms/285-exemptions-and-abatement-forms?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:09 URL: http://www.erving-ma.org/component/search/?Itemid=10&id=285&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:10 URL: http://www.erving-ma.org/forms/287-board-of-health?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:10 URL: http://www.erving-ma.org/forms/287-board-of-health?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:10 URL: http://www.erving-ma.org/component/search/?Itemid=10&id=287&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:10 URL: http://www.erving-ma.org/forms/286-treasurer-forms?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:10 URL: http://www.erving-ma.org/forms/286-treasurer-forms?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:10 URL: http://www.erving-ma.org/component/search/?Itemid=10&id=286&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:11 URL: http://www.erving-ma.org/component/search/?Itemid=21&catid=82&id=108&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:11 URL: http://www.erving-ma.org/businesses/6-businesses?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:11 URL: http://www.erving-ma.org/businesses/6-businesses?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:11 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=6&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:11 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=6&id=79&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:11 URL: http://www.erving-ma.org/businesses/111-civil-engineering-services?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:12 URL: http://www.erving-ma.org/businesses/111-civil-engineering-services?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:12 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=111&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:12 URL: http://www.erving-ma.org/businesses/110-photography?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:12 URL: http://www.erving-ma.org/businesses/110-photography?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:12 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=110&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:13 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=110&id=98&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:13 URL: http://www.erving-ma.org/businesses/109-pallets?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:13 URL: http://www.erving-ma.org/businesses/109-pallets?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:14 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=109&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:14 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=109&id=97&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:14 URL: http://www.erving-ma.org/businesses/108-sewing-machine-repair?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:14 URL: http://www.erving-ma.org/businesses/108-sewing-machine-repair?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:14 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=108&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:14 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=108&id=96&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:14 URL: http://www.erving-ma.org/businesses/106-landscapers-a-yard-services?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:15 URL: http://www.erving-ma.org/businesses/106-landscapers-a-yard-services?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:15 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=106&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:15 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=106&id=94&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:15 URL: http://www.erving-ma.org/businesses/105-snow-plowing?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:16 URL: http://www.erving-ma.org/businesses/105-snow-plowing?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:16 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=105&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:16 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=105&id=93&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:16 URL: http://www.erving-ma.org/businesses/104-convenience-store?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:16 URL: http://www.erving-ma.org/businesses/104-convenience-store?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:17 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=104&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:17 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=104&id=92&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:17 URL: http://www.erving-ma.org/businesses/112-real-estate?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:17 URL: http://www.erving-ma.org/businesses/112-real-estate?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:17 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=112&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:17 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=112&id=100&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:18 URL: http://www.erving-ma.org/businesses/113-rv-a-trailer-storage-a-repair?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:18 URL: http://www.erving-ma.org/businesses/113-rv-a-trailer-storage-a-repair?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:18 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=113&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:18 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=113&id=101&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:18 URL: http://www.erving-ma.org/businesses/129-storage-facilities?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:18 URL: http://www.erving-ma.org/businesses/129-storage-facilities?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:19 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=129&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:19 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=129&id=114&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:19 URL: http://www.erving-ma.org/businesses/128-automotive-and-truck-sales?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:19 URL: http://www.erving-ma.org/businesses/128-automotive-and-truck-sales?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:19 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=128&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:19 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=128&id=113&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:20 URL: http://www.erving-ma.org/businesses/119-wood-products-?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:20 URL: http://www.erving-ma.org/businesses/119-wood-products-?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:20 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=119&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:20 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=119&id=107&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:20 URL: http://www.erving-ma.org/businesses/117-banquet-facilities-a-caterers?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:20 URL: http://www.erving-ma.org/businesses/117-banquet-facilities-a-caterers?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:20 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=117&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:21 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=117&id=105&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:21 URL: http://www.erving-ma.org/businesses/116-renewal-energy?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:21 URL: http://www.erving-ma.org/businesses/116-renewal-energy?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:21 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=116&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:21 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=116&id=104&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:21 URL: http://www.erving-ma.org/businesses/115-maple-syrup?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:22 URL: http://www.erving-ma.org/businesses/115-maple-syrup?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:22 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=115&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:22 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=115&id=103&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:22 URL: http://www.erving-ma.org/businesses/103-hotels-and-motels?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:22 URL: http://www.erving-ma.org/businesses/103-hotels-and-motels?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:22 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=103&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:22 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=103&id=91&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:23 URL: http://www.erving-ma.org/businesses/102-building-and-carpentery-services?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:23 URL: http://www.erving-ma.org/businesses/102-building-and-carpentery-services?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:23 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=102&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:23 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=102&id=60&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:23 URL: http://www.erving-ma.org/businesses/91-entertainment-dj-karoke?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:23 URL: http://www.erving-ma.org/businesses/91-entertainment-dj-karoke?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:24 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=91&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:24 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=91&id=80&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:24 URL: http://www.erving-ma.org/businesses/87-consulting-services?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:24 URL: http://www.erving-ma.org/businesses/87-consulting-services?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:24 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=87&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:24 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=87&id=76&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:25 URL: http://www.erving-ma.org/businesses/86-bowling-centers?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:25 URL: http://www.erving-ma.org/businesses/86-bowling-centers?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:25 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=86&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:25 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=86&id=75&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:25 URL: http://www.erving-ma.org/businesses/85-automotive-truck-boat-repair-services?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:25 URL: http://www.erving-ma.org/businesses/85-automotive-truck-boat-repair-services?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:26 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=85&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:26 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=85&id=18&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:26 URL: http://www.erving-ma.org/businesses/84-apartments?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:26 URL: http://www.erving-ma.org/businesses/84-apartments?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:26 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=84&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:26 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=84&id=15&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:27 URL: http://www.erving-ma.org/businesses/83-antiques?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:27 URL: http://www.erving-ma.org/businesses/83-antiques?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:27 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=83&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:27 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=83&id=14&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:27 URL: http://www.erving-ma.org/businesses/92-churches?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:27 URL: http://www.erving-ma.org/businesses/92-churches?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:28 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=92&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:28 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=92&id=78&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:29 URL: http://www.erving-ma.org/businesses/101-gift-shops?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:30 URL: http://www.erving-ma.org/businesses/101-gift-shops?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:30 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=101&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:30 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=101&id=90&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:31 URL: http://www.erving-ma.org/businesses/100-cafes-and-taverns?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:31 URL: http://www.erving-ma.org/businesses/100-cafes-and-taverns?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:31 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=100&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:31 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=100&id=89&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:31 URL: http://www.erving-ma.org/businesses/99-excavating-services?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:31 URL: http://www.erving-ma.org/businesses/99-excavating-services?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:32 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=99&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:32 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=99&id=88&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:32 URL: http://www.erving-ma.org/businesses/98-furniture-manufacturers-a-retailers?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:32 URL: http://www.erving-ma.org/businesses/98-furniture-manufacturers-a-retailers?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:32 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=98&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:33 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=98&id=87&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:33 URL: http://www.erving-ma.org/businesses/97-diners-pizza-and-restaurants?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:33 URL: http://www.erving-ma.org/businesses/97-diners-pizza-and-restaurants?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:33 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=97&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:33 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=97&id=86&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:34 URL: http://www.erving-ma.org/businesses/96-farm-machinery-a-equipment?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:34 URL: http://www.erving-ma.org/businesses/96-farm-machinery-a-equipment?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:34 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=96&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:34 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=96&id=85&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:34 URL: http://www.erving-ma.org/businesses/95-farm-stands?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:35 URL: http://www.erving-ma.org/businesses/95-farm-stands?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:35 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=95&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:35 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=95&id=84&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:35 URL: http://www.erving-ma.org/businesses/279-firearms-instruction?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:35 URL: http://www.erving-ma.org/businesses/279-firearms-instruction?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:35 URL: http://www.erving-ma.org/component/search/?Itemid=23&id=279&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:36 URL: http://www.erving-ma.org/component/search/?Itemid=23&catid=279&id=162&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:36 URL: http://www.erving-ma.org/component/search/?Itemid=37&catid=5&id=12&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:36 URL: http://www.erving-ma.org/faqs/120-assessors?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:36 URL: http://www.erving-ma.org/faqs/120-assessors?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:36 URL: http://www.erving-ma.org/component/search/?Itemid=94&id=120&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:37 URL: http://www.erving-ma.org/component/search/?Itemid=94&catid=120&id=70&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:37 URL: http://www.erving-ma.org/component/search/?Itemid=94&catid=120&id=73&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:37 URL: http://www.erving-ma.org/component/search/?Itemid=94&catid=120&id=72&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:37 URL: http://www.erving-ma.org/component/search/?Itemid=53&catid=249&id=202&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:37 URL: http://www.erving-ma.org/component/search/?Itemid=53&catid=249&id=198&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:37 URL: http://www.erving-ma.org/component/search/?Itemid=53&catid=249&id=34&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:37 URL: http://www.erving-ma.org/component/search/?Itemid=53&catid=249&id=197&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:38 URL:http://www.erving-ma.org/school-bus-safety/297-police-department/180-bicycle-safety [14319] -> "../data/townSites/Erving/www.erving-ma.org/school-bus-safety/297-police-department/180-bicycle-safety" [1]
+2016-12-27 16:47:39 URL:http://www.erving-ma.org/town-directory/board-of-selectman/266-town-directory [97810] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/board-of-selectman/266-town-directory" [1]
+2016-12-27 16:47:39 URL:http://www.erving-ma.org/town-directory/board-of-selectman/60-town-directory/board-of-selectman [16539] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/board-of-selectman/60-town-directory/board-of-selectman.1" [1]
+2016-12-27 16:47:39 URL: http://www.erving-ma.org/component/search/?Itemid=10&catid=3&id=3&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:40 URL:http://www.erving-ma.org/forms/266-town-directory [98238] -> "../data/townSites/Erving/www.erving-ma.org/forms/266-town-directory" [1]
+2016-12-27 16:47:40 URL: http://www.erving-ma.org/component/search/?Itemid=10&catid=2&id=69&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:40 URL: http://www.erving-ma.org/component/search/?Itemid=91&id=111&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:41 URL: http://www.erving-ma.org/town-directory/police-department/297-police-department?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:41 URL: http://www.erving-ma.org/town-directory/police-department/297-police-department?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:41 URL: http://www.erving-ma.org/component/search/?Itemid=10&catid=54&id=68&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:41 URL: http://www.erving-ma.org/town-directory/zoning-board/250-publications?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:42 URL: http://www.erving-ma.org/town-directory/zoning-board/250-publications?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:42 URL:http://www.erving-ma.org/school-bus-safety/297-police-department [23899] -> "../data/townSites/Erving/www.erving-ma.org/school-bus-safety/297-police-department.1" [1]
+2016-12-27 16:47:43 URL: http://www.erving-ma.org/town-directory/board-of-selectman/266-town-directory?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:43 URL: http://www.erving-ma.org/town-directory/board-of-selectman/266-town-directory?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:44 URL:http://www.erving-ma.org/town-directory/board-of-selectman/250-publications [21175] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/board-of-selectman/250-publications" [1]
+2016-12-27 16:47:44 URL:http://www.erving-ma.org/town-directory/board-of-selectman/297-police-department [23447] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/board-of-selectman/297-police-department" [1]
+2016-12-27 16:47:45 URL:http://www.erving-ma.org/town-directory/board-of-selectman/3-town-directory/police-department [13726] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/board-of-selectman/3-town-directory/police-department" [1]
+2016-12-27 16:47:45 URL:http://www.erving-ma.org/town-directory/board-of-selectman/300-town-directory/veteran-services [13803] -> "../data/townSites/Erving/www.erving-ma.org/town-directory/board-of-selectman/300-town-directory/veteran-services" [1]
+2016-12-27 16:47:45 URL: http://www.erving-ma.org/town-directory/board-of-selectman/60-town-directory/board-of-selectman?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:45 URL: http://www.erving-ma.org/town-directory/board-of-selectman/60-town-directory/board-of-selectman?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:46 URL: http://www.erving-ma.org/forms/266-town-directory?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:46 URL: http://www.erving-ma.org/forms/266-town-directory?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:46 URL: http://www.erving-ma.org/component/search/?Itemid=10&id=266&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:47 URL:http://www.erving-ma.org/forms/250-publications [21799] -> "../data/townSites/Erving/www.erving-ma.org/forms/250-publications" [1]
+2016-12-27 16:47:47 URL:http://www.erving-ma.org/forms/297-police-department [24071] -> "../data/townSites/Erving/www.erving-ma.org/forms/297-police-department" [1]
+2016-12-27 16:47:48 URL:http://www.erving-ma.org/forms/60-town-directory/board-of-selectman/203-fy2017-brownfields-cleanup-grant-proposal [13866] -> "../data/townSites/Erving/www.erving-ma.org/forms/60-town-directory/board-of-selectman/203-fy2017-brownfields-cleanup-grant-proposal" [1]
+2016-12-27 16:47:48 URL:http://www.erving-ma.org/forms/60-town-directory/board-of-selectman/199-senior-work-off-program [15339] -> "../data/townSites/Erving/www.erving-ma.org/forms/60-town-directory/board-of-selectman/199-senior-work-off-program" [1]
+2016-12-27 16:47:49 URL:http://www.erving-ma.org/forms/60-town-directory/board-of-selectman [17134] -> "../data/townSites/Erving/www.erving-ma.org/forms/60-town-directory/board-of-selectman.1" [1]
+2016-12-27 16:47:49 URL:http://www.erving-ma.org/forms/3-town-directory/police-department [14320] -> "../data/townSites/Erving/www.erving-ma.org/forms/3-town-directory/police-department" [1]
+2016-12-27 16:47:50 URL:http://www.erving-ma.org/forms/300-town-directory/veteran-services [14399] -> "../data/townSites/Erving/www.erving-ma.org/forms/300-town-directory/veteran-services" [1]
+2016-12-27 16:47:50 URL: http://www.erving-ma.org/school-bus-safety/297-police-department?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:50 URL: http://www.erving-ma.org/school-bus-safety/297-police-department?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:50 URL: http://www.erving-ma.org/town-directory/board-of-selectman/250-publications?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:50 URL: http://www.erving-ma.org/town-directory/board-of-selectman/250-publications?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:51 URL: http://www.erving-ma.org/town-directory/board-of-selectman/297-police-department?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:51 URL: http://www.erving-ma.org/town-directory/board-of-selectman/297-police-department?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:51 URL: http://www.erving-ma.org/town-directory/board-of-selectman/3-town-directory/police-department?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:51 URL: http://www.erving-ma.org/town-directory/board-of-selectman/3-town-directory/police-department?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:51 URL: http://www.erving-ma.org/town-directory/board-of-selectman/300-town-directory/veteran-services?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:51 URL: http://www.erving-ma.org/town-directory/board-of-selectman/300-town-directory/veteran-services?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:52 URL: http://www.erving-ma.org/forms/250-publications?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:52 URL: http://www.erving-ma.org/forms/250-publications?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:52 URL: http://www.erving-ma.org/component/search/?Itemid=10&id=250&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:52 URL: http://www.erving-ma.org/forms/297-police-department?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:52 URL: http://www.erving-ma.org/forms/297-police-department?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:53 URL: http://www.erving-ma.org/component/search/?Itemid=10&id=297&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:53 URL: http://www.erving-ma.org/component/search/?Itemid=10&catid=60&id=203&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:53 URL: http://www.erving-ma.org/component/search/?Itemid=10&catid=60&id=199&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:53 URL: http://www.erving-ma.org/forms/60-town-directory/board-of-selectman?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:53 URL: http://www.erving-ma.org/forms/60-town-directory/board-of-selectman?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:53 URL: http://www.erving-ma.org/component/search/?Itemid=10&id=60&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:53 URL: http://www.erving-ma.org/forms/3-town-directory/police-department?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:54 URL: http://www.erving-ma.org/forms/3-town-directory/police-department?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:54 URL: http://www.erving-ma.org/component/search/?Itemid=10&id=3&format=opensearch 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:54 URL: http://www.erving-ma.org/forms/300-town-directory/veteran-services?format=feed&type=rss 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:54 URL: http://www.erving-ma.org/forms/300-town-directory/veteran-services?format=feed&type=atom 200 OK
+unlink: No such file or directory
+2016-12-27 16:47:54 URL: http://www.erving-ma.org/component/search/?Itemid=10&id=300&format=opensearch 200 OK
+unlink: No such file or directory
+Found 2 broken links.
+
+http://www.erving-ma.org/'+captcha_file+'
+http://www.erving-ma.org/erving-police/'+captcha_file+'
+
+FINISHED --2016-12-27 16:47:54--
+Total wall clock time: 3m 31s
+Downloaded: 320 files, 5.6M in 5.7s (1009 KB/s)

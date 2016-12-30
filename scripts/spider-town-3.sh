@@ -21,7 +21,7 @@ do
 	# Clear the URL of carridge returns
 	url=$(echo $url|tr -d '\r')
 
-	wget --spider --recursive --level=inf --no-verbose --show-progress -e robots=off --directory-prefix=$baseDir --output-file=$linklist "$url"
+	wget --spider --recursive --level=inf --no-verbose --show-progress --wait=0.25 --random-wait=on -e robots=off -U mozilla --no-cookies --reject=.rss,.gif,.png,.jpg,.css,.js,.txt --directory-prefix=$baseDir --output-file=$linklist "$url"
 	grep -i URL $linklist | awk -F 'URL:' '{print $2}' | awk '{$1=$1};1' | awk '{print $1}' | sort -u | sed '/^$/d' > $sortedurls
 	
 	header='<?xml version="1.0" encoding="UTF-8"?><urlset
