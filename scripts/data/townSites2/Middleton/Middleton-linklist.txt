@@ -1,0 +1,60 @@
+2017-01-02 02:04:45 URL:http://www.townofmiddleton.org/ [1213] -> "../data/townSites2/Middleton/www.townofmiddleton.org/index.html" [1]
+2017-01-02 02:04:55 URL:http://www.townofmiddleton.org/Pages/index [59279] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/index" [1]
+2017-01-02 02:04:57 URL:http://www.townofmiddleton.org/Pages/residents [45874] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/residents" [1]
+2017-01-02 02:04:59 URL:http://www.townofmiddleton.org/Pages/businesses [41832] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/businesses" [1]
+2017-01-02 02:05:00 URL:http://www.townofmiddleton.org/Pages/visitors [35304] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/visitors" [1]
+2017-01-02 02:05:02 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_WebDocs/about [36409] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_WebDocs/about" [1]
+2017-01-02 02:05:04 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_WebDocs/departments [39069] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_WebDocs/departments" [1]
+2017-01-02 02:05:06 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_BComm/index [36646] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_BComm/index" [1]
+2017-01-02 02:05:08 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_WebDocs/calendars [31648] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_WebDocs/calendars" [1]
+2017-01-02 02:05:09 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_WebDocs/events [39018] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_WebDocs/events" [1]
+2017-01-02 02:05:11 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_WebDocs/commlinks [38772] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_WebDocs/commlinks" [1]
+2017-01-02 02:05:13 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_WebDocs/licenses [42293] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_WebDocs/licenses" [1]
+2017-01-02 02:05:15 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_WebDocs/contact [40043] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_WebDocs/contact" [1]
+2017-01-02 02:05:16 URL:http://www.townofmiddleton.org/subscriber [44994] -> "../data/townSites2/Middleton/www.townofmiddleton.org/subscriber" [1]
+2017-01-02 02:05:18 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_Admin/masterplan [32727] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_Admin/masterplan" [1]
+2017-01-02 02:05:20 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_WebDocs/office-hours [44171] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_WebDocs/office-hours" [1]
+2017-01-02 02:05:21 URL:http://www.townofmiddleton.org/Pages/makeapayment [37772] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/makeapayment" [1]
+2017-01-02 02:05:24 URL:http://www.townofmiddleton.org/pages/videos/vod [64294] -> "../data/townSites2/Middleton/www.townofmiddleton.org/pages/videos/vod" [1]
+2017-01-02 02:05:24 URL: http://www.townofmiddleton.org/Pages/MiddletonMA_WebDocs/wcpromo.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:05:25 URL: http://www.townofmiddleton.org/Icons/0 200 OK
+unlink: No such file or directory
+2017-01-02 02:05:26 URL:http://www.townofmiddleton.org/pages/videos/pb1214 [29954] -> "../data/townSites2/Middleton/www.townofmiddleton.org/pages/videos/pb1214" [1]
+2017-01-02 02:05:29 URL:http://www.townofmiddleton.org/pages/videos/sm122016 [29976] -> "../data/townSites2/Middleton/www.townofmiddleton.org/pages/videos/sm122016" [1]
+2017-01-02 02:05:31 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_News/ [40756] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_News/index.html" [1]
+2017-01-02 02:05:33 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_News/02521B59-000F8513 [30613] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_News/02521B59-000F8513" [1]
+2017-01-02 02:05:35 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_News/0251F5AB-000F8513 [125312/125312] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_News/0251F5AB-000F8513" [1]
+2017-01-02 02:05:37 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_News/0251EEFA-000F8513 [31554] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_News/0251EEFA-000F8513" [1]
+2017-01-02 02:05:39 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_News/0251D9E7-000F8513 [33264] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_News/0251D9E7-000F8513" [1]
+2017-01-02 02:05:41 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_News/0251D22A-000F8513 [30622] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_News/0251D22A-000F8513" [1]
+2017-01-02 02:05:43 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_News/0250DB2D-000F8513 [127467/127467] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_News/0250DB2D-000F8513" [1]
+2017-01-02 02:05:44 URL: http://www.townofmiddleton.org/Pages/MiddletonMA_News/02506822-000F8513 200 OK
+unlink: No such file or directory
+2017-01-02 02:05:46 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_News/02505F4B-000F8513 [30377] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_News/02505F4B-000F8513" [1]
+2017-01-02 02:05:47 URL: http://www.townofmiddleton.org/Pages/MiddletonMA_News/02505BA2-000F8513 200 OK
+unlink: No such file or directory
+2017-01-02 02:05:49 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_News/024E8472-000F8513 [31441] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_News/024E8472-000F8513" [1]
+2017-01-02 02:05:51 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_News/02490B2F-000F8513 [30390] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_News/02490B2F-000F8513" [1]
+2017-01-02 02:05:53 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_News/0247816A-000F8513 [30447] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_News/0247816A-000F8513" [1]
+2017-01-02 02:05:56 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_Police/index [55139] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_Police/index" [1]
+2017-01-02 02:05:57 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_Fire/index [43067] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_Fire/index" [1]
+2017-01-02 02:05:59 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_Health/index [53247] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_Health/index" [1]
+2017-01-02 02:06:03 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_CommunityCalendar/ [44696] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_CommunityCalendar/index.html" [1]
+2017-01-02 02:06:05 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_Recreation/index [45266] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_Recreation/index" [1]
+2017-01-02 02:06:07 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_WebDocs/manda [37683] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_WebDocs/manda" [1]
+2017-01-02 02:06:07 URL: http://www.townofmiddleton.org/Pages/MiddletonMA_WebDocs/Tri-TownCommunityResources.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:06:09 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_DPW/transferstation [41497] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_DPW/transferstation" [1]
+2017-01-02 02:06:11 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_Clerk/town-report/ [31229] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_Clerk/town-report/index.html" [1]
+2017-01-02 02:06:11 URL: http://www.townofmiddleton.org/Pages/MiddletonMA_WebDocs/PSA.mp4 200 OK
+unlink: No such file or directory
+2017-01-02 02:06:14 URL:http://www.townofmiddleton.org/Pages/MIddletonMA_COA/pantry [51646] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MIddletonMA_COA/pantry" [1]
+2017-01-02 02:06:16 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_WebDocs/volunteers [43119] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_WebDocs/volunteers" [1]
+2017-01-02 02:06:17 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_WebDocs/disclaimer [31995] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_WebDocs/disclaimer" [1]
+2017-01-02 02:06:20 URL:http://www.townofmiddleton.org/Pages/MiddletonMA_WebDocs/privacy [40318] -> "../data/townSites2/Middleton/www.townofmiddleton.org/Pages/MiddletonMA_WebDocs/privacy" [1]
+Found no broken links.
+
+FINISHED --2017-01-02 02:06:20--
+Total wall clock time: 1m 36s
+Downloaded: 43 files, 1.7M in 31s (58.3 KB/s)

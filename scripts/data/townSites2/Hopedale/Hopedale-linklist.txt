@@ -1,0 +1,1354 @@
+2017-01-01 23:21:33 URL:http://www.hopedale-ma.gov/ [88799] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/index.html" [1]
+2017-01-01 23:21:33 URL: http://www.hopedale-ma.gov/sites/hopedalema/themes/vts/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-01 23:21:36 URL:http://www.hopedale-ma.gov/welcome-hopedale [69848] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/welcome-hopedale" [1]
+2017-01-01 23:21:38 URL:http://www.hopedale-ma.gov/about-us/pages/history-hopedale [72138] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/about-us/pages/history-hopedale" [1]
+2017-01-01 23:21:41 URL:http://www.hopedale-ma.gov/home/pages/town-code-bylaws-and-zoning-bylaws [65436] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/welcome-hopedale/links/bylaws-ordinances" [1]
+2017-01-01 23:21:44 URL:http://www.hopedale-ma.gov/about-us/webforms/citizen-comment-form [78927/78927] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/about-us/webforms/citizen-comment-form" [1]
+2017-01-01 23:21:46 URL:http://www.hopedale-ma.gov/about-us/pages/community-links [72992] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/about-us/pages/community-links" [1]
+2017-01-01 23:21:48 URL:http://www.hopedale-ma.gov/employment-volunteer [66577] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/welcome-hopedale/links/employment-volunteer" [1]
+2017-01-01 23:21:51 URL:http://www.hopedale-ma.gov/subscribe [70041/70041] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/welcome-hopedale/links/subscribe-news" [1]
+2017-01-01 23:21:53 URL:http://www.hopedale-ma.gov/calendar [129575] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/welcome-hopedale/links/town-calendar" [1]
+2017-01-01 23:21:57 URL:http://www.hopedale-ma.gov/departments [77736] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/welcome-hopedale/links/town-directory" [1]
+2017-01-01 23:22:01 URL:http://www.hopedale-ma.gov/node/1/news [67611] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/welcome-hopedale/links/town-news" [1]
+2017-01-01 23:22:04 URL:http://www.hopedale-ma.gov/departments [77736] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/departments" [1]
+2017-01-01 23:22:07 URL:http://www.hopedale-ma.gov/accounting-department [71224] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/accounting-department" [1]
+2017-01-01 23:22:11 URL:http://www.hopedale-ma.gov/administrator-selectmen [91435/91435] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/administrator-selectmen" [1]
+2017-01-01 23:22:14 URL:http://www.hopedale-ma.gov/administrator-selectmen/pages/bidsrfp [69188/69188] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/administrator-selectmen/pages/bidsrfp" [1]
+2017-01-01 23:22:16 URL:http://www.hopedale-ma.gov/administrator-selectmen/webforms/common-victualler-license-application [71345/71345] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/administrator-selectmen/webforms/common-victualler-license-application" [1]
+2017-01-01 23:22:17 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/public_body_checklist_for_creating_and_approving_meeting_minutes_-_adopted_aug_15_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:22:18 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/car_dealers_license_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:22:19 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/public_body_checklist_for_entering_into_executive_session_-_adopted_aug_15_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:22:21 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/meeting_schedule_july_2015_-_june_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:22:24 URL:http://www.hopedale-ma.gov/administrator-selectmen/webforms/new-and-used-car-license-application [76232/76232] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/administrator-selectmen/webforms/new-and-used-car-license-application" [1]
+2017-01-01 23:22:26 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/public_body_checklist_for_posting_a_meeting_notice_-_adopted_aug_15_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:22:28 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/remote_policy_bos_agenda_adopted_11-10-2016_meeting.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:22:29 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/town_administrator_-_responsibilities_and_duties.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:22:32 URL:http://www.hopedale-ma.gov/assessors [91265] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/assessors" [1]
+2017-01-01 23:22:33 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/2016_meeting_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:22:36 URL:http://www.hopedale-ma.gov/assessors/pages/commonly-used-forms [70067] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/assessors/pages/commonly-used-forms" [1]
+2017-01-01 23:22:37 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/r_e_value_report_for_fy2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:22:38 URL:http://www.hopedale-ma.gov/assessors/pages/hopedale-town-maps [71462] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/assessors/pages/hopedale-town-maps" [1]
+2017-01-01 23:22:40 URL:http://www.sec.state.ma.us/cis/cisexc/excidx.htm [89946/89946] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/assessors/links/motor-vehicle-excise-tax-questions" [1]
+2017-01-01 23:22:42 URL:http://hopedale.patriotproperties.com/default.asp?br=exp&vr=6 [1131/1131] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/assessors/links/property-record-cards" [1]
+2017-01-01 23:22:44 URL:http://www.hopedale-ma.gov/assessors/pages/taxpayers-guide-brochures [70697] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/assessors/pages/taxpayers-guide-brochures" [1]
+2017-01-01 23:22:46 URL:http://www.hopedale-ma.gov/assessors/pages/zoning-regulations [69417] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/assessors/pages/zoning-regulations" [1]
+2017-01-01 23:22:49 URL:http://www.hopedale-ma.gov/building-department [75128] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/building-department" [1]
+2017-01-01 23:22:52 URL:http://www.hopedale-ma.gov/building-department/pages/building-dept-informational-guides [69610] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/building-department/pages/building-dept-informational-guides" [1]
+2017-01-01 23:22:54 URL:http://www.hopedale-ma.gov/building-department/pages/building-permit-applications [69478] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/building-department/pages/building-permit-applications" [1]
+2017-01-01 23:22:55 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/building_permit_fee_schedule_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:22:57 URL:http://www.hopedale-ma.gov/building-department/pages/electrical-services [69467] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/building-department/pages/electrical-services" [1]
+2017-01-01 23:23:00 URL:http://www.hopedale-ma.gov/building-department/pages/plumbing-gas-services [69595] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/building-department/pages/plumbing-gas-services" [1]
+2017-01-01 23:23:01 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/pool_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:23:02 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/building_department_-_resident_complaint_-_violation_form_must_be_completed_in_full.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:23:03 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/sheet_metal_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:23:04 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/wood_pellet_coal_stove_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:23:06 URL:http://www.hopedale-ma.gov/council-aging [89973] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/council-aging" [1]
+2017-01-01 23:23:08 URL:http://www.hopedale-ma.gov/fire-department [84067] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/fire-department" [1]
+2017-01-01 23:23:10 URL:http://www.hopedale-ma.gov/fire-department/pages/call-firefighter-positions [73357] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/fire-department/pages/call-firefighter-positions" [1]
+2017-01-01 23:23:11 URL:http://www.hopedale-ma.gov/fire-department/pages/codered-emergency-notifications [69402] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/fire-department/pages/codered-emergency-notifications" [1]
+2017-01-01 23:23:12 URL:http://www.hopedale-ma.gov/fire-department/pages/emergency-management [68352] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/fire-department/pages/emergency-management" [1]
+2017-01-01 23:23:14 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/permit_fees-aug_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:23:14 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/oil_burner_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:23:15 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/open_burning_safety_tips_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:23:16 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/new_welding_permit-_aug_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:23:18 URL:http://www.hopedale-ma.gov/board-health [95232] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/board-health" [1]
+2017-01-01 23:23:20 URL:http://www.hopedale-ma.gov/highway-department [84547] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/highway-department" [1]
+2017-01-01 23:23:22 URL:http://www.hopedale-ma.gov/road-commissioners [77645] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/road-commissioners" [1]
+2017-01-01 23:23:25 URL:http://www.hopedale-ma.gov/bancroft-memorial-library [102236] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library" [1]
+2017-01-01 23:23:27 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/adult-programs-events [71396] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/adult-programs-events" [1]
+2017-01-01 23:23:28 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/blackstone-river-valley-national-historical-park [71578] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/blackstone-river-valley-national-historical-park" [1]
+2017-01-01 23:23:31 URL:http://bark.cwmars.org/eg/opac/home?loc=53 [116422] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/links/catalog" [1]
+2017-01-01 23:23:32 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/childrens-department [75687] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/childrens-department" [1]
+2017-01-01 23:23:34 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/digital-downloads [70830] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/digital-downloads" [1]
+2017-01-01 23:23:36 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/friends-library [73652] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/friends-library" [1]
+2017-01-01 23:23:37 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/library-policies [70475] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/library-policies" [1]
+2017-01-01 23:23:39 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/links-helpful-websites [71549] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/links-helpful-websites" [1]
+2017-01-01 23:23:41 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/museum-passes-available [71641] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/museum-passes-available" [1]
+2017-01-01 23:23:42 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/new-books-music-dvds [70055] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/new-books-music-dvds" [1]
+2017-01-01 23:23:44 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/newsletters [71365] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/newsletters" [1]
+2017-01-01 23:23:45 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/online-reference-databases [72763] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/online-reference-databases" [1]
+2017-01-01 23:23:47 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/periodicals-magazines [74411] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/periodicals-magazines" [1]
+2017-01-01 23:23:48 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/request-materials-home [73083] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/request-materials-home" [1]
+2017-01-01 23:23:50 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/teens [71046] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/teens" [1]
+2017-01-01 23:23:53 URL:http://www.hopedale-ma.gov/library-trustees [84613] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/links/trustees" [1]
+2017-01-01 23:23:56 URL:http://www.hopedale-ma.gov/parks-recreation [97468] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/parks-recreation" [1]
+http://www.hopedalepolice.com/:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:24:00 URL:http://www.hopedaleschools.org/ [41841] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/school-department" [1]
+2017-01-01 23:24:02 URL:http://www.hopedale-ma.gov/town-clerk [83938] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/town-clerk" [1]
+2017-01-01 23:24:03 URL:http://www.sec.state.ma.us/ele/eleifv/howabs.htm [71761/71761] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/town-clerk/links/absentee-ballots" [1]
+2017-01-01 23:24:05 URL:http://www.hopedale-ma.gov/town-clerk/pages/birth-death-certificates [71261] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/town-clerk/pages/birth-death-certificates" [1]
+2017-01-01 23:24:06 URL:http://www.hopedale-ma.gov/town-clerk/pages/board-registrars [69905] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/town-clerk/pages/board-registrars" [1]
+2017-01-01 23:24:08 URL:http://www.hopedale-ma.gov/town-clerk/pages/business-certificate [69605] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/town-clerk/pages/business-certificate" [1]
+2017-01-01 23:24:09 URL:http://www.hopedale-ma.gov/town-clerk/pages/clone-birth-death-certificates [71296] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/town-clerk/pages/clone-birth-death-certificates" [1]
+2017-01-01 23:24:10 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/dog_registration_form_-_2015_blank.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:24:14 URL:http://www.mass.gov/eea/agencies/dfg/licensing/ [168647] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/town-clerk/links/hunting-fishing-licenses" [1]
+2017-01-01 23:24:15 URL:http://www.hopedale-ma.gov/town-clerk/pages/marriage-licenses [69947] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/town-clerk/pages/marriage-licenses" [1]
+2017-01-01 23:24:18 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/stm_warrant_november_29_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:24:19 URL:http://www.hopedale-ma.gov/town-clerk/pages/town-meetings [69746] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/town-clerk/pages/town-meetings" [1]
+2017-01-01 23:24:23 URL:http://www.sec.state.ma.us/ele/eleifv/howreg.htm [68525/68525] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/town-clerk/links/voter-registration" [1]
+2017-01-01 23:24:25 URL:http://www.hopedale-ma.gov/town-clerk/pages/zoning-board-appeal-hearing-application [69694] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/town-clerk/pages/zoning-board-appeal-hearing-application" [1]
+2017-01-01 23:24:26 URL:http://www.hopedale-ma.gov/treasurer-collector [89506] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/treasurer-collector" [1]
+2017-01-01 23:24:28 URL:http://www.hopedale-ma.gov/treasurer-collector/pages/deputy-tax-collector [69007] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/treasurer-collector/pages/deputy-tax-collector" [1]
+2017-01-01 23:24:32 URL:http://www.sec.state.ma.us/cis/cisexc/excidx.htm [89946/89946] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/treasurer-collector/links/motor-vehicle-excise-tax-questions" [1]
+2017-01-01 23:24:35 URL:http://www.hopedale-ma.gov/treasurer-collector/pages/municipal-lien-certificate-request-info [70821] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/treasurer-collector/pages/municipal-lien-certificate-request-info" [1]
+2017-01-01 23:24:38 URL:https://unipaygold.unibank.com/default.aspx [101065/101065] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/treasurer-collector/links/online-payments" [1]
+2017-01-01 23:24:40 URL:http://www.hopedale-ma.gov/council-aging [89973] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/treasurer-collector/links/senior-tax-credit" [1]
+2017-01-01 23:24:41 URL:http://www.hopedale-ma.gov/treasurer-collector/pages/town-fees [68821] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/treasurer-collector/pages/town-fees" [1]
+2017-01-01 23:24:45 URL:http://www.hopedale-ma.gov/tree-warden-walter-swift [71273] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/tree-warden-walter-swift" [1]
+2017-01-01 23:24:47 URL:http://www.hopedale-ma.gov/tree-warden/pages/applications-forms [68468] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/tree-warden/pages/applications-forms" [1]
+2017-01-01 23:24:49 URL:http://www.hopedale-ma.gov/tree-warden/pages/insect-watch [68015] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/tree-warden/pages/insect-watch" [1]
+2017-01-01 23:24:52 URL:http://www.hopedale-ma.gov/veterans-services-patrick-morris [73339] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/veterans-services-patrick-morris" [1]
+2017-01-01 23:24:54 URL:http://www.hopedale-ma.gov/veterans-services/pages/bonus-applications-now-available [69833] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/veterans-services/pages/bonus-applications-now-available" [1]
+2017-01-01 23:24:56 URL:http://www.hopedale-ma.gov/veterans-services/pages/honor-roll [69141] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/veterans-services/pages/honor-roll" [1]
+2017-01-01 23:24:58 URL:http://www.hopedale-ma.gov/veterans-services/pages/post-9-11-gi-bill [68947] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/veterans-services/pages/post-9-11-gi-bill" [1]
+2017-01-01 23:24:59 URL:http://www.hopedale-ma.gov/veterans-services/pages/serving-our-veterans-law [68831] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/veterans-services/pages/serving-our-veterans-law" [1]
+2017-01-01 23:25:01 URL:http://www.hopedale-ma.gov/veterans-services/pages/solicitation [69862] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/veterans-services/pages/solicitation" [1]
+2017-01-01 23:25:03 URL:http://www.hopedale-ma.gov/veterans-services/pages/veterans-bill-rights [70694] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/veterans-services/pages/veterans-bill-rights" [1]
+2017-01-01 23:25:05 URL:http://www.hopedale-ma.gov/veterans-services/pages/war-dates [69400] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/veterans-services/pages/war-dates" [1]
+2017-01-01 23:25:10 URL:http://www.hopedale-ma.gov/water-sewer-department [85099] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/water-sewer-department" [1]
+2017-01-01 23:25:12 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/2015_water_quality_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:25:14 URL:http://www.hopedale-ma.gov/water-sewer-department/pages/2016-sanitary-sewer-lining-project [70961] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/water-sewer-department/pages/2016-sanitary-sewer-lining-project" [1]
+2017-01-01 23:25:15 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/flushing_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:25:19 URL:http://www.mass.gov/eea/agencies/massdep/ [216422] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/water-department/links/madep-website" [1]
+2017-01-01 23:25:32 URL:https://unipaygold.unibank.com/default.aspx [101065/101065] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/water-sewer-department/links/online-payments" [1]
+2017-01-01 23:25:33 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/other_billing_information.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:25:35 URL:http://www.hopedale-ma.gov/water-sewer-department/pages/town-hopedale-rates [71057] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/water-sewer-department/pages/town-hopedale-rates" [1]
+2017-01-01 23:25:38 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/tier_1_violation.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:25:46 URL:http://www.hopedale-ma.gov/water-sewer-commissioners [84367] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/water-sewer-commissioners" [1]
+2017-01-01 23:25:50 URL:http://www.hopedale-ma.gov/water-department/pages/water-use-restriction-law [76314] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/water-department/pages/water-use-restriction-law" [1]
+2017-01-01 23:25:53 URL:http://www.hopedale-ma.gov/boards [77335] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/boards" [1]
+2017-01-01 23:25:55 URL:http://www.hopedale-ma.gov/board-health/pages/animal-control-officer [70419] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/board-health/pages/animal-control-officer" [1]
+2017-01-01 23:25:59 URL:http://www.hopedale-ma.gov/board-health/pages/applications-fees [70872] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/board-health/pages/applications-fees" [1]
+2017-01-01 23:26:02 URL:http://www.cmdart.org/ [39236/39236] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/board-health/links/central-massachusetts-disaster-animal-response-team" [1]
+2017-01-01 23:26:04 URL:http://www.hopedale-ma.gov/board-health/pages/dog-regulations [70070] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/board-health/pages/dog-regulations" [1]
+2017-01-01 23:26:05 URL: http://www.mass.gov/eohhs/docs/dph/cdc/rabies/bat-capturing.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:26:09 URL:http://www.humanesociety.org/about/departments/disaster_preparedness.html [102351] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/board-health/links/humane-society-disaster-preparedness-brochures" [1]
+2017-01-01 23:26:11 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/important_recycling_center_fee_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:26:12 URL:https://www.mesotheliomaprognosis.com/mesothelioma/ [101598] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/board-health/links/mesothelioma-prognosis-network" [1]
+2017-01-01 23:26:14 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/mosquito_control_project.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:26:18 URL:http://www.hopedale-ma.gov/board-health/pages/recycling-trash-information [72718] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/board-health/pages/recycling-trash-information" [1]
+2017-01-01 23:26:19 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/recycling_information_and_schedule_2016_2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:26:21 URL:http://www.hopedale-ma.gov/board-health/pages/septic-inspection-requirements [70411] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/board-health/pages/septic-inspection-requirements" [1]
+2017-01-01 23:26:22 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/street_listing_for_trash_pickup.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:26:23 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/used_needle_and_sharps_disposal.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:26:24 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/dph-zika-advisory-8-8-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:26:27 URL:http://www.hopedale-ma.gov/conservation-commission [85147] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/conservation-commission" [1]
+2017-01-01 23:26:29 URL:http://www.hopedale-ma.gov/council-aging/pages/assistance-heating-your-home [70748] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/council-aging/pages/assistance-heating-your-home" [1]
+2017-01-01 23:26:31 URL:http://www.hopedale-ma.gov/council-aging/pages/coa-programs-seniors [70680] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/council-aging/pages/coa-programs-seniors" [1]
+2017-01-01 23:26:33 URL:http://www.hopedale-ma.gov/home/pages/food-stamp-application-assistance [65749] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/home/pages/food-stamp-application-assistance" [1]
+2017-01-01 23:26:35 URL:http://www.hopedale-ma.gov/council-aging/pages/friends-elders [69828] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/council-aging/pages/friends-elders" [1]
+2017-01-01 23:26:37 URL:http://www.sec.state.ma.us/rod/rodhom/homidx.htm [65244/65244] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/council-aging/links/homestead-declaration" [1]
+2017-01-01 23:26:39 URL:http://www.hopedale-ma.gov/council-aging/pages/hopedale-senior-newsletter [69826] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/council-aging/pages/hopedale-senior-newsletter" [1]
+2017-01-01 23:26:44 URL:http://www.hopedale-ma.gov/assessors/pages/taxpayers-guide-brochures [70697] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/council-aging/links/real-estate-tax-relief" [1]
+2017-01-01 23:26:47 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/january2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:26:50 URL:http://www.hopedale-ma.gov/council-aging/pages/storm-assistance-registry [70576] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/council-aging/pages/storm-assistance-registry" [1]
+2017-01-01 23:26:52 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/skmbt_36316092323170.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:26:55 URL:http://www.hopedale-ma.gov/council-aging/pages/tax-credit-program [70282] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/council-aging/pages/tax-credit-program" [1]
+2017-01-01 23:26:57 URL:http://www.hopedale-ma.gov/council-aging/pages/transportation-services [71978] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/council-aging/pages/transportation-services" [1]
+2017-01-01 23:27:00 URL:http://www.hopedale-ma.gov/cultural-council [82922] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/cultural-council" [1]
+2017-01-01 23:27:02 URL:http://www.hopedale-ma.gov/cultural-council/files/day-park-art-entry-form-page-2 [68745] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/cultural-council/files/day-park-art-entry-form-page-2" [1]
+2017-01-01 23:27:06 URL:http://www.hopedale-ma.gov/cultural-council/files/day-park-art-exhibit-page-1 [68722] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/cultural-council/files/day-park-art-exhibit-page-1" [1]
+2017-01-01 23:27:07 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/hcc_day_in_the_park_2016.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:27:13 URL:http://massculturalcouncil.org/ [40316/40316] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/cultural-council/links/massachusetts-cultural-council-website" [1]
+2017-01-01 23:27:16 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/hcc_gentlemansl_theater_trip.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:27:28 URL:http://www.hopedale-ma.gov/employment-volunteer/pages/volunteer-opportunities [66210] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/cultural-council/links/volunteer-opportunities" [1]
+2017-01-01 23:27:32 URL:http://www.hopedale-ma.gov/disabilities-commission [80824] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/disabilities-commission" [1]
+2017-01-01 23:27:37 URL:http://www.hopedale-ma.gov/employment-volunteer/pages/volunteer-opportunities [66210] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/disabilities-commission/links/volunteer-opportunities" [1]
+2017-01-01 23:27:43 URL:http://www.hopedale-ma.gov/finance-committee [83268] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/finance-committee" [1]
+2017-01-01 23:27:50 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/2011_budget_letter.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:27:54 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/2011_budget_summary.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:28:00 URL:http://www.hopedale-ma.gov/finance-committee/pages/town-department-budgets [69996] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/finance-committee/pages/town-department-budgets" [1]
+2017-01-01 23:28:04 URL:http://www.hopedale-ma.gov/employment-volunteer/pages/volunteer-opportunities [66210] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/finance-committee/links/volunteer-opportunities" [1]
+2017-01-01 23:28:08 URL:http://www.hopedale-ma.gov/historical-commission [89589] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/historical-commission" [1]
+2017-01-01 23:28:11 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/hopedale_heritage_landscape_map.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:28:14 URL:http://www.hopedale-ma.gov/employment-volunteer/pages/volunteer-opportunities [66210] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/historical-commission/links/volunteer-opportunities" [1]
+2017-01-01 23:28:16 URL:http://www.hopedale-ma.gov/housing-authority [85822] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/housing-authority" [1]
+2017-01-01 23:28:28 URL:http://www.lowincomehousing.us/MA/hopedale.html [54687] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/housing-authority/links/lowincomehousingus" [1]
+2017-01-01 23:28:31 URL:http://www.hopedale-ma.gov/library-trustees [84613] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/library-trustees" [1]
+2017-01-01 23:28:35 URL:http://www.hopedale-ma.gov/bancroft-memorial-library [102236] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/board-trustees-bancroft-memorial-library/links/bancroft-memorial-library-homepage" [1]
+2017-01-01 23:28:37 URL:http://www.hopedale-ma.gov/library-trustees/pages/meeting-schedule [68991] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/library-trustees/pages/meeting-schedule" [1]
+2017-01-01 23:28:44 URL:http://www.hopedale-ma.gov/node/71/events/month [137047] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/library-trustees/links/public-library-calendar" [1]
+2017-01-01 23:28:51 URL:http://www.hopedale-ma.gov/node/71/news [76363] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/library-trustees/links/public-library-news" [1]
+2017-01-01 23:28:56 URL:http://www.hopedale-ma.gov/parks-recreation/pages/2016-tennis-program [73160] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/parks-recreation/pages/2016-tennis-program" [1]
+2017-01-01 23:28:58 URL:http://www.hopedale-ma.gov/park-commission/pages/downloadable-forms [70066] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/pages/downloadable-forms" [1]
+2017-01-01 23:29:02 URL:http://www.hopedale-ma.gov/parks-recreation/pages/facilities-fields-reservations [130396] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/parks-recreation/pages/facilities-fields-reservations" [1]
+2017-01-01 23:29:08 URL:http://www.hopedale-ma.gov/parks-recreation/pages/fin-and-feather-events-2016 [70313] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/parks-recreation/pages/fin-and-feather-events-2016" [1]
+2017-01-01 23:29:18 URL:https://www.facebook.com/HopedaleParksCommission [437650] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/links/find-us-facebook" [1]
+2017-01-01 23:29:28 URL:http://www.hopedale-ma.gov/park-commission/pages/hopedale-links-and-cool-stuff [71622] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/pages/hopedale-links-and-cool-stuff" [1]
+2017-01-01 23:29:35 URL:http://www.hopedale-ma.gov/parks-recreation/pages/hopedale-pond-and-parklands [71484] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/parks-recreation/pages/hopedale-pond-and-parklands" [1]
+2017-01-01 23:29:40 URL:http://www.hopedale-ma.gov/park-commission/pages/meeting-schedule-and-minutes [70364] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/pages/meeting-schedule-and-minutes" [1]
+2017-01-01 23:30:14 URL:http://www.hopedale-ma.gov/park-commission/pages/photos-slideshows [69292] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/pages/photos-slideshows" [1]
+2017-01-01 23:30:39 URL:http://www.hopedale-ma.gov/park-commission/pages/rules-regulations [70014] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/pages/rules-regulations" [1]
+2017-01-01 23:30:44 URL:http://www.hopedale-ma.gov/park-commission/pages/time-capsule [70004] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/pages/time-capsule" [1]
+2017-01-01 23:30:54 URL:http://www.hopedale-ma.gov/planning-board [86403] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/planning-board" [1]
+2017-01-01 23:30:57 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/master_plan_-_community_development_chapter.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:30:59 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/master_plan_-_town_government_chapter.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:31:01 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/planning_hopedale_-_fee_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:31:08 URL:http://www.hopedaleschools.org/information/school-committee/member-information [31037] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/school-committee" [1]
+2017-01-01 23:31:13 URL:http://www.hopedale-ma.gov/zoning-board-appeals [88376] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/zoning-board-appeals" [1]
+2017-01-01 23:31:15 URL:http://www.hopedale-ma.gov/zoning-board-appeals/pages/meeting-decisions [69801] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/zoning-board-appeals/pages/meeting-decisions" [1]
+2017-01-01 23:31:42 URL:http://www.hopedale-ma.gov/node/736/minutes [63883] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/zoning-board/links/meeting-minutes" [1]
+2017-01-01 23:31:47 URL:http://www.hopedale-ma.gov/node/736/agenda [63942] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/zoning-board/links/meeting-postings" [1]
+2017-01-01 23:31:50 URL:http://www.hopedale-ma.gov/subscribe [70041/70041] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/subscribe" [1]
+2017-01-01 23:31:54 URL:http://www.hopedale-ma.gov/where [84151] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/where" [1]
+2017-01-01 23:31:59 URL:http://www.hopedale-ma.gov/parks-recreation [97468] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission.1" [1]
+2017-01-01 23:32:02 URL:http://www.hopedale-ma.gov/welcome-hopedale [69848] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/about-us.1" [1]
+2017-01-01 23:32:10 URL:http://www.hopedale-ma.gov/about-us/webforms/citizen-comment-form [78927/78927] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/home/webforms/contact-us" [1]
+2017-01-01 23:32:13 URL:http://www.hopedale-ma.gov/employment-volunteer [66577] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/employment-volunteer" [1]
+2017-01-01 23:32:15 URL:http://www.hopedale-ma.gov/faqs [68527] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/faqs" [1]
+2017-01-01 23:32:20 URL:http://www.hopedale-ma.gov/home/news/board-health-meeting-cancelled-december-29-2016 [65174] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/home/news/board-health-meeting-cancelled-december-29-2016" [1]
+2017-01-01 23:32:22 URL:http://www.hopedale-ma.gov/home/news/housing-rehabilitation-program-assistance [66089] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/home/news/housing-rehabilitation-program-assistance" [1]
+2017-01-01 23:32:25 URL:http://www.hopedale-ma.gov/home/news/holiday-closing-town-hall-will-be-closed-january-2-2017 [65503] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/home/news/holiday-closing-town-hall-will-be-closed-january-2-2017" [1]
+2017-01-01 23:32:27 URL:http://www.hopedale-ma.gov/home/news/2016-hopedale-hazard-mitigation-plan-draft-click-link-below [65555] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/home/news/2016-hopedale-hazard-mitigation-plan-draft-click-link-below" [1]
+2017-01-01 23:32:29 URL:http://www.hopedale-ma.gov/home/news/election-results [65969] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/home/news/election-results" [1]
+2017-01-01 23:32:30 URL:http://www.hopedale-ma.gov/node/1/news [67611] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/1/news" [1]
+2017-01-01 23:32:32 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16%2B20%2B17%2B19/day/2017-01-02 [69821] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16+20+17+19/day/2017-01-02" [1]
+2017-01-01 23:32:34 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/events/21983 [69865] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/events/21983" [1]
+2017-01-01 23:32:36 URL:http://www.hopedale-ma.gov/home/events/23593 [65391] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/home/events/23593" [1]
+2017-01-01 23:32:38 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16%2B20%2B17%2B19/day/2017-01-03 [70121] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16+20+17+19/day/2017-01-03" [1]
+2017-01-01 23:32:40 URL:http://www.hopedale-ma.gov/home/events/23403 [68623] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/home/events/23403" [1]
+2017-01-01 23:32:41 URL:http://www.hopedale-ma.gov/home/events/23443 [68634] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/home/events/23443" [1]
+2017-01-01 23:32:44 URL:http://www.hopedale-ma.gov/administrator-selectmen/events/22123 [72374/72374] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/administrator-selectmen/events/22123" [1]
+2017-01-01 23:32:46 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16%2B20%2B17%2B19/day/2017-01-04 [69821] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16+20+17+19/day/2017-01-04" [1]
+2017-01-01 23:32:48 URL:http://www.hopedale-ma.gov/planning-board/events/23493 [71223] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/planning-board/events/23493" [1]
+2017-01-01 23:32:50 URL:http://www.hopedale-ma.gov/highway-department/events/23523 [71030] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/highway-department/events/23523" [1]
+2017-01-01 23:32:52 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16%2B20%2B17%2B19/day/2017-01-05 [69496] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16+20+17+19/day/2017-01-05" [1]
+2017-01-01 23:32:54 URL:http://www.hopedale-ma.gov/historical-commission/events/23553 [71094] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/historical-commission/events/23553" [1]
+2017-01-01 23:32:56 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16%2B20%2B17%2B19/day/2017-01-17 [69496] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16+20+17+19/day/2017-01-17" [1]
+2017-01-01 23:32:58 URL:http://www.hopedale-ma.gov/administrator-selectmen/events/22133 [68791/68791] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/administrator-selectmen/events/22133" [1]
+2017-01-01 23:33:00 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16%2B20%2B17%2B19/day/2017-01-18 [69514] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16+20+17+19/day/2017-01-18" [1]
+2017-01-01 23:33:02 URL:http://www.hopedale-ma.gov/zoning-board-appeals/events/23573 [71399] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/zoning-board-appeals/events/23573" [1]
+2017-01-01 23:33:04 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16%2B20%2B17%2B19/day/2017-01-19 [69811] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16+20+17+19/day/2017-01-19" [1]
+2017-01-01 23:33:06 URL:http://www.hopedale-ma.gov/council-aging/events/23603 [72487] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/council-aging/events/23603" [1]
+2017-01-01 23:33:08 URL:http://www.hopedale-ma.gov/home/events/23463 [68733] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/home/events/23463" [1]
+2017-01-01 23:33:10 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16%2B20%2B17%2B19/month [130639] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16+20+17+19/month" [1]
+2017-01-01 23:33:12 URL:http://www.hopedale-ma.gov/calendar-by-event-type/20 [86717] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/20" [1]
+2017-01-01 23:33:14 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16 [116400] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16" [1]
+2017-01-01 23:33:16 URL:http://www.hopedale-ma.gov/node/711/events [85689] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/711/events" [1]
+2017-01-01 23:33:18 URL:http://www.hopedale-ma.gov/minutes-and-agendas [69609] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/minutes-and-agendas" [1]
+2017-01-01 23:33:20 URL:http://www.hopedale-ma.gov/files [84959] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/files" [1]
+2017-01-01 23:33:21 URL:http://www.hopedale-ma.gov/home/pages/town-code-bylaws-and-zoning-bylaws [65436] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/home/pages/town-code-bylaws-and-zoning-bylaws" [1]
+2017-01-01 23:33:23 URL:http://www.hopedale-ma.gov/home/pages/website-disclaimer [64963] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/home/pages/website-disclaimer" [1]
+2017-01-01 23:33:25 URL:http://www.hopedale-ma.gov/home/pages/privacy-statement [64964] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/home/pages/privacy-statement" [1]
+2017-01-01 23:33:26 URL:http://www.hopedale-ma.gov/welcome-hopedale [69848] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/81" [1]
+2017-01-01 23:33:28 URL:http://www.hopedale-ma.gov/print/81 [7501] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/81" [1]
+2017-01-01 23:33:28 URL: http://www.hopedale-ma.gov/node/81/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:33:30 URL:http://www.hopedale-ma.gov/about-us/pages/history-hopedale [72138] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/106" [1]
+2017-01-01 23:33:31 URL:http://www.hopedale-ma.gov/print/106 [9599] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/106" [1]
+2017-01-01 23:33:32 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/ballouadin.jpg 200 OK
+unlink: No such file or directory
+2017-01-01 23:33:34 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/ballouadin.jpg 200 OK
+unlink: No such file or directory
+2017-01-01 23:33:35 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/eben_draper_0.jpg 200 OK
+unlink: No such file or directory
+2017-01-01 23:33:37 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/eben_draper_0.jpg 200 OK
+unlink: No such file or directory
+2017-01-01 23:33:40 URL:http://www.hopedale-ma.gov/about-us/webforms/citizen-comment-form [78927/78927] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/2" [1]
+2017-01-01 23:33:42 URL:http://www.hopedale-ma.gov/print/2 [16649/16649] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/2" [1]
+2017-01-01 23:33:43 URL:http://www.hopedale-ma.gov/about-us/pages/community-links [72992] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/126" [1]
+2017-01-01 23:33:45 URL:http://www.hopedale-ma.gov/print/126 [10537] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/126" [1]
+2017-01-01 23:33:46 URL: http://www.hopedale-ma.gov/calendar/feed/2017-01 200 OK
+unlink: No such file or directory
+2017-01-01 23:33:48 URL:http://www.hopedale-ma.gov/calendar/month [129620] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar/month" [1]
+2017-01-01 23:33:50 URL:http://www.hopedale-ma.gov/calendar/week [69433] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar/week" [1]
+2017-01-01 23:33:52 URL:http://www.hopedale-ma.gov/calendar/day [69422] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar/day" [1]
+2017-01-01 23:33:55 URL:http://www.hopedale-ma.gov/calendar/year [175867] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar/year" [1]
+2017-01-01 23:33:56 URL:http://www.hopedale-ma.gov/calendar/upcoming [79731] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar/upcoming" [1]
+2017-01-01 23:33:59 URL:http://www.hopedale-ma.gov/calendar/month/2016-12 [233075] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar/month/2016-12" [1]
+2017-01-01 23:34:01 URL:http://www.hopedale-ma.gov/calendar/month/2017-02 [94317] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar/month/2017-02" [1]
+2017-01-01 23:34:03 URL:http://www.hopedale-ma.gov/calendar/day/2017-01-02 [70233] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar/day/2017-01-02" [1]
+2017-01-01 23:34:05 URL:http://www.hopedale-ma.gov/calendar/day/2017-01-03 [70533] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar/day/2017-01-03" [1]
+2017-01-01 23:34:06 URL:http://www.hopedale-ma.gov/calendar/day/2017-01-04 [70233] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar/day/2017-01-04" [1]
+2017-01-01 23:34:09 URL:http://www.hopedale-ma.gov/calendar/day/2017-01-05 [69908] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar/day/2017-01-05" [1]
+2017-01-01 23:34:10 URL:http://www.hopedale-ma.gov/calendar/day/2017-01-17 [69908] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar/day/2017-01-17" [1]
+2017-01-01 23:34:13 URL:http://www.hopedale-ma.gov/calendar/day/2017-01-18 [69926] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar/day/2017-01-18" [1]
+2017-01-01 23:34:15 URL:http://www.hopedale-ma.gov/calendar/day/2017-01-19 [70223] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar/day/2017-01-19" [1]
+2017-01-01 23:34:17 URL:http://www.hopedale-ma.gov/accounting-department [71224] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/591" [1]
+2017-01-01 23:34:19 URL:http://www.hopedale-ma.gov/print/591 [7515] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/591" [1]
+2017-01-01 23:34:22 URL:http://www.hopedale-ma.gov/user/221/contact [67702] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/221/contact" [1]
+2017-01-01 23:34:25 URL:http://www.hopedale-ma.gov/user/126/contact [67728] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/126/contact" [1]
+2017-01-01 23:34:25 URL: http://www.hopedale-ma.gov/node/591/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:34:27 URL:http://www.hopedale-ma.gov/news [68487] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/news" [1]
+2017-01-01 23:34:29 URL:http://www.hopedale-ma.gov/news/1 [68501] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/news/1" [1]
+2017-01-01 23:34:33 URL:http://www.hopedale-ma.gov/administrator-selectmen [91435/91435] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/731" [1]
+2017-01-01 23:34:34 URL:http://www.hopedale-ma.gov/print/731 [8297] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/731" [1]
+2017-01-01 23:34:36 URL:http://www.hopedale-ma.gov/user/156/contact [67678] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/156/contact" [1]
+2017-01-01 23:34:39 URL:http://www.hopedale-ma.gov/user/161/contact [67692] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/161/contact" [1]
+2017-01-01 23:34:41 URL:http://www.hopedale-ma.gov/user/171/contact [67678] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/171/contact" [1]
+2017-01-01 23:34:44 URL:http://www.hopedale-ma.gov/user/176/contact [67692] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/176/contact" [1]
+2017-01-01 23:34:46 URL:http://www.hopedale-ma.gov/user/613/contact [67694] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/613/contact" [1]
+2017-01-01 23:34:48 URL: http://www.hopedale-ma.gov/node/731/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:34:50 URL:http://www.hopedale-ma.gov/node/731/news [65876] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/731/news" [1]
+2017-01-01 23:34:53 URL:http://www.hopedale-ma.gov/administrator-selectmen/news/board-selectmen-policies [69475/69475] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/administrator-selectmen/news/board-selectmen-policies" [1]
+2017-01-01 23:34:55 URL:http://www.hopedale-ma.gov/node/731/events/month [93392] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/731/events/month" [1]
+2017-01-01 23:34:57 URL:http://www.hopedale-ma.gov/node/731/events/day/2017-01-03 [69032] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/731/events/day/2017-01-03" [1]
+2017-01-01 23:34:59 URL:http://www.hopedale-ma.gov/node/731/events/day/2017-01-17 [69033] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/731/events/day/2017-01-17" [1]
+2017-01-01 23:35:01 URL:http://www.hopedale-ma.gov/node/731/events/month/2017-01 [93449] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/731/events/month/2017-01" [1]
+2017-01-01 23:35:03 URL:http://www.hopedale-ma.gov/node/731/agenda [65596] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/731/agenda" [1]
+2017-01-01 23:35:06 URL:http://www.hopedale-ma.gov/administrator-selectmen/agenda/board-selectmen-9 [69725/69725] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/administrator-selectmen/agenda/board-selectmen-9" [1]
+2017-01-01 23:35:09 URL:http://www.hopedale-ma.gov/administrator-selectmen/agenda/board-selectmen-8 [69720/69720] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/administrator-selectmen/agenda/board-selectmen-8" [1]
+2017-01-01 23:35:12 URL:http://www.hopedale-ma.gov/administrator-selectmen/agenda/board-selectmen-6 [69744/69744] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/administrator-selectmen/agenda/board-selectmen-6" [1]
+2017-01-01 23:35:16 URL:http://www.hopedale-ma.gov/administrator-selectmen/agenda/board-selectmen-5 [69780/69780] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/administrator-selectmen/agenda/board-selectmen-5" [1]
+2017-01-01 23:35:20 URL:http://www.hopedale-ma.gov/administrator-selectmen/agenda/board-selectmen-3 [69206/69206] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/administrator-selectmen/agenda/board-selectmen-3" [1]
+2017-01-01 23:35:22 URL:http://www.hopedale-ma.gov/node/731/minutes [65540] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/731/minutes" [1]
+2017-01-01 23:35:24 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/bos_regular_minutes_12-5-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:35:25 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/bos_regular_minutes_tax_classification_12-1-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:35:27 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/bos_minutes_11-10-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:35:28 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/bos_regular_meeting_10-13-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:35:29 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/selectmen_minutes_10-3-2016_approved_10-13-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:35:32 URL:http://www.hopedale-ma.gov/administrator-selectmen/pages/bidsrfp [69188/69188] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/11833" [1]
+2017-01-01 23:35:33 URL:http://www.hopedale-ma.gov/print/11833 [6345] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/11833" [1]
+2017-01-01 23:35:36 URL:http://www.hopedale-ma.gov/water-sewer-department/pages/2016-sanitary-sewer-lining-project [70961] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/home/pages/2016-sanitary-sewer-lining-project" [1]
+2017-01-01 23:35:39 URL:http://www.hopedale-ma.gov/administrator-selectmen/webforms/common-victualler-license-application [71345/71345] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/17913" [1]
+2017-01-01 23:35:40 URL:http://www.hopedale-ma.gov/print/17913 [8643] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/17913" [1]
+2017-01-01 23:35:44 URL:http://www.hopedale-ma.gov/user/login?destination=node/17923 [65048] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/administrator-selectmen/files/common-victualler-license-application" [1]
+2017-01-01 23:35:48 URL:http://www.hopedale-ma.gov/administrator-selectmen/webforms/new-and-used-car-license-application [76232/76232] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/17953" [1]
+2017-01-01 23:35:49 URL:http://www.hopedale-ma.gov/print/17953 [13327] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/17953" [1]
+2017-01-01 23:35:52 URL:http://www.hopedale-ma.gov/assessors [91265] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/601" [1]
+2017-01-01 23:35:53 URL:http://www.hopedale-ma.gov/print/601 [8776] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/601" [1]
+2017-01-01 23:35:56 URL:http://www.hopedale-ma.gov/user/231/contact [67708] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/231/contact" [1]
+2017-01-01 23:35:59 URL:http://www.hopedale-ma.gov/user/236/contact [67726] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/236/contact" [1]
+2017-01-01 23:36:01 URL: http://www.hopedale-ma.gov/node/601/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:36:03 URL:http://www.hopedale-ma.gov/node/601/events/month [85149] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/601/events/month" [1]
+2017-01-01 23:36:07 URL:http://www.hopedale-ma.gov/node/601/events/month/2017-01 [85206] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/601/events/month/2017-01" [1]
+2017-01-01 23:36:10 URL:http://www.hopedale-ma.gov/node/601/agenda [64588] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/601/agenda" [1]
+2017-01-01 23:36:13 URL:http://www.hopedale-ma.gov/assessors/agenda/board-assessors-8 [69504] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/assessors/agenda/board-assessors-8" [1]
+2017-01-01 23:36:16 URL:http://www.hopedale-ma.gov/assessors/agenda/board-assessors-7 [69502] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/assessors/agenda/board-assessors-7" [1]
+2017-01-01 23:36:18 URL:http://www.hopedale-ma.gov/assessors/agenda/board-assessors-6 [69520] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/assessors/agenda/board-assessors-6" [1]
+2017-01-01 23:36:20 URL:http://www.hopedale-ma.gov/assessors/agenda/board-assessors-4 [69264] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/assessors/agenda/board-assessors-4" [1]
+2017-01-01 23:36:22 URL:http://www.hopedale-ma.gov/assessors/agenda/board-assessors-5 [69505] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/assessors/agenda/board-assessors-5" [1]
+2017-01-01 23:36:23 URL:http://www.hopedale-ma.gov/node/601/minutes [64732] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/601/minutes" [1]
+2017-01-01 23:36:24 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/meeting_minutes_10-31-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:36:26 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/meeting_minutes_9-19-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:36:27 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/meeting_minutes_6-6-16_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:36:29 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/skmbt_22316063008580.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:36:30 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/skmbt_22316063008560.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:36:33 URL:http://www.hopedale-ma.gov/assessors/pages/commonly-used-forms [70067] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/1461" [1]
+2017-01-01 23:36:34 URL:http://www.hopedale-ma.gov/print/1461 [7430] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/1461" [1]
+2017-01-01 23:36:36 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/form_of_list_2mt.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:36:37 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/form_of_list_12-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:36:39 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/3abc.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:36:40 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/abatement_application_for_real_or_personal_property_tax.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:36:41 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/mvabateshort.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:36:42 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/abutters_list_9-19-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:36:43 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/change_of_address_9-19-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:36:45 URL:http://www.hopedale-ma.gov/assessors/pages/hopedale-town-maps [71462] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/1456" [1]
+2017-01-01 23:36:46 URL:http://www.hopedale-ma.gov/print/1456 [8846] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/1456" [1]
+2017-01-01 23:36:48 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/m138_assessorindex_32x35.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:36:49 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/map_01.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:36:50 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/map_02.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:36:51 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/map_03.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:36:53 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/map_04.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:36:54 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/map_05.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:36:55 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/map_06.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:36:57 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/map_07.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:36:58 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/m138_assessormaps_32x34_8.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:36:59 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/map_09.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:00 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/m138_assessormaps_32x34_10.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:01 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/m138_assessormaps_32x34_11.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:02 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/map_12.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:04 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/map_13.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:05 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/m138_assessormaps_32x34_14.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:06 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/map_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:08 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/map_16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:09 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/m138_assessormaps_32x34_17.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:10 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/m138_assessormaps_32x34_18.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:12 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/map_19.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:13 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/map_20.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:14 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/map_21.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:16 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/m138_assessormaps_32x34_22.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:17 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/map_23.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:18 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/m138_assessormaps_32x34_24.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:19 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/m138_assessormaps_32x34_25.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:21 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/map_26.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:22 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/m138_assessormaps_32x34_27.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:24 URL:http://www.hopedale-ma.gov/assessors/pages/taxpayers-guide-brochures [70697] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/1466" [1]
+2017-01-01 23:37:25 URL:http://www.hopedale-ma.gov/print/1466 [8042] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/1466" [1]
+2017-01-01 23:37:26 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/summary_tax_programs.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:28 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/qualifying_veterans_9-19-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:30 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/clause_17d_9-19-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:32 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/blind_37a_9-19-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:34 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/clause_41c_9-19-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:36 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/clause_41a_9-19-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:38 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/appeals.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:39 URL:http://www.hopedale-ma.gov/assessors/pages/zoning-regulations [69417] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/1311" [1]
+2017-01-01 23:37:40 URL:http://www.hopedale-ma.gov/print/1311 [6745] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/1311" [1]
+2017-01-01 23:37:41 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/section_11_use_dimensional_and_intensity_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:43 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/section_12_prohibited_uses.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:44 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/zoning_-_table_of_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:45 URL:http://www.hopedale-ma.gov/building-department [75128] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/606" [1]
+2017-01-01 23:37:47 URL:http://www.hopedale-ma.gov/print/606 [8512] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/606" [1]
+2017-01-01 23:37:50 URL:http://www.hopedale-ma.gov/user/241/contact [67694] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/241/contact" [1]
+2017-01-01 23:37:50 URL: http://www.hopedale-ma.gov/node/606/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:52 URL:http://www.hopedale-ma.gov/building-department/pages/building-dept-informational-guides [69610] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/13293" [1]
+2017-01-01 23:37:53 URL:http://www.hopedale-ma.gov/print/13293 [6684] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/13293" [1]
+2017-01-01 23:37:54 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/deck_guidelines.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:54 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/finished_basement_guide.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:55 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/pool_guidelines.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:37:56 URL:http://www.hopedale-ma.gov/building-department/pages/building-permit-applications [69478] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/1641" [1]
+2017-01-01 23:37:57 URL:http://www.hopedale-ma.gov/print/1641 [6538] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/1641" [1]
+2017-01-01 23:37:59 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/application_to_build-alter.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:38:00 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/application_for_new_construction.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:38:01 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/demo_requirements.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:38:02 URL:http://www.hopedale-ma.gov/building-department/pages/electrical-services [69467] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/7643" [1]
+2017-01-01 23:38:03 URL:http://www.hopedale-ma.gov/print/7643 [6493] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/7643" [1]
+2017-01-01 23:38:05 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/electrical_permit_application_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:38:07 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/electrical_permit_fees_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:38:09 URL:http://www.hopedale-ma.gov/building-department/pages/plumbing-gas-services [69595] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/616" [1]
+2017-01-01 23:38:10 URL:http://www.hopedale-ma.gov/print/616 [6630] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/616" [1]
+2017-01-01 23:38:11 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/plumbing_permit_application_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:38:12 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/gas_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:38:14 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/plumbing_and_gas_permit_fee_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:38:16 URL:http://www.hopedale-ma.gov/council-aging [89973] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/681" [1]
+2017-01-01 23:38:17 URL:http://www.hopedale-ma.gov/print/681 [9165] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/681" [1]
+2017-01-01 23:38:19 URL:http://www.hopedale-ma.gov/user/319/contact [67684] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/319/contact" [1]
+2017-01-01 23:38:21 URL: http://www.hopedale-ma.gov/node/681/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:38:23 URL:http://www.hopedale-ma.gov/node/681/news [65681] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/681/news" [1]
+2017-01-01 23:38:24 URL:http://www.hopedale-ma.gov/council-aging/news/housing-rehabilitation-assistance-bellingham-hopedale-franklin-housing [69720] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/council-aging/news/housing-rehabilitation-assistance-bellingham-hopedale-franklin-housing" [1]
+2017-01-01 23:38:27 URL:http://www.hopedale-ma.gov/node/681/events/month [89541] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/681/events/month" [1]
+2017-01-01 23:38:28 URL:http://www.hopedale-ma.gov/node/681/events/day/2017-01-19 [68989] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/681/events/day/2017-01-19" [1]
+2017-01-01 23:38:30 URL:http://www.hopedale-ma.gov/node/681/events/month/2017-01 [89598] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/681/events/month/2017-01" [1]
+2017-01-01 23:38:32 URL:http://www.hopedale-ma.gov/node/681/agenda [65372] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/681/agenda" [1]
+2017-01-01 23:38:33 URL:http://www.hopedale-ma.gov/council-aging/agenda/council-aging-1 [70055] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/council-aging/agenda/council-aging-1" [1]
+2017-01-01 23:38:35 URL:http://www.hopedale-ma.gov/council-aging/agenda/council-aging [69769] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/council-aging/agenda/council-aging" [1]
+2017-01-01 23:38:37 URL:http://www.hopedale-ma.gov/council-aging/agenda/council-aging-0 [70059] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/council-aging/agenda/council-aging-0" [1]
+2017-01-01 23:38:39 URL:http://www.hopedale-ma.gov/council-aging/agenda/coa-agenda-0 [70028] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/council-aging/agenda/coa-agenda-0" [1]
+2017-01-01 23:38:41 URL:http://www.hopedale-ma.gov/council-aging/agenda/coa-agenda [69981] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/council-aging/agenda/coa-agenda" [1]
+2017-01-01 23:38:43 URL:http://www.hopedale-ma.gov/fire-department [84067] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/626" [1]
+2017-01-01 23:38:43 URL:http://www.hopedale-ma.gov/print/626 [8883] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/626" [1]
+2017-01-01 23:38:47 URL:http://www.hopedale-ma.gov/user/363/contact [67684] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/363/contact" [1]
+2017-01-01 23:38:47 URL: http://www.hopedale-ma.gov/node/626/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:38:49 URL:http://www.hopedale-ma.gov/node/626/news [64924] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/626/news" [1]
+2017-01-01 23:38:51 URL:http://www.hopedale-ma.gov/fire-department/news/note-%C2%A0oil-burner-permits [68979] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/fire-department/news/note- oil-burner-permits" [1]
+2017-01-01 23:38:55 URL:http://www.hopedale-ma.gov/node/626/events/month [85077] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/626/events/month" [1]
+2017-01-01 23:38:57 URL:http://www.hopedale-ma.gov/node/626/events/month/2017-01 [85134] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/626/events/month/2017-01" [1]
+2017-01-01 23:38:59 URL:http://www.hopedale-ma.gov/fire-department/pages/call-firefighter-positions [73357] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/7813" [1]
+2017-01-01 23:39:00 URL:http://www.hopedale-ma.gov/print/7813 [11093] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/7813" [1]
+2017-01-01 23:39:04 URL:http://www.hopedale-ma.gov/user/login?destination=node/1171 [65045] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/fire-department/files/fire-department-employment-application" [1]
+2017-01-01 23:39:06 URL:http://www.hopedale-ma.gov/employment-volunteer/pages/employment-opportunities [66035] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/employment-volunteer/pages/employment-opportunities" [1]
+2017-01-01 23:39:06 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/pages/application_-_call_firefighter.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:39:08 URL:http://www.hopedale-ma.gov/fire-department/pages/codered-emergency-notifications [69402] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/3441" [1]
+2017-01-01 23:39:09 URL:http://www.hopedale-ma.gov/print/3441 [6793] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/3441" [1]
+2017-01-01 23:39:10 URL:http://www.hopedale-ma.gov/fire-department/pages/emergency-management [68352] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/3991" [1]
+2017-01-01 23:39:11 URL:http://www.hopedale-ma.gov/print/3991 [5888] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/3991" [1]
+2017-01-01 23:39:14 URL:http://www.hopedale-ma.gov/board-health [95232] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/61" [1]
+2017-01-01 23:39:15 URL:http://www.hopedale-ma.gov/print/61 [10309] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/61" [1]
+2017-01-01 23:39:17 URL:http://www.hopedale-ma.gov/user/106/contact [67678] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/106/contact" [1]
+2017-01-01 23:39:18 URL: http://www.hopedale-ma.gov/node/61/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:39:21 URL:http://www.hopedale-ma.gov/node/61/faq [66588] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/61/faq" [1]
+2017-01-01 23:39:23 URL:http://www.hopedale-ma.gov/board-health/faq/do-i-need-pre-purchase-recycling-sticker-bring-items-recycling-center-saturdays [70269] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/board-health/faq/do-i-need-pre-purchase-recycling-sticker-bring-items-recycling-center-saturdays" [1]
+2017-01-01 23:39:25 URL:http://www.hopedale-ma.gov/board-health/faq/how-do-i-arrange-large-item-tv-computer-furniture-be-picked-republic-waste [70593] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/board-health/faq/how-do-i-arrange-large-item-tv-computer-furniture-be-picked-republic-waste" [1]
+2017-01-01 23:39:28 URL:http://www.hopedale-ma.gov/node/61/news [67410] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/61/news" [1]
+2017-01-01 23:39:30 URL:http://www.hopedale-ma.gov/board-health/news/additional-location-drop-used-needles-and-sharps-disposal-hopedale-fire-station [70132] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/board-health/news/additional-location-drop-used-needles-and-sharps-disposal-hopedale-fire-station" [1]
+2017-01-01 23:39:32 URL:http://www.hopedale-ma.gov/board-health/news/new-recycling-schedule-now-available-2016-2017 [70215] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/board-health/news/new-recycling-schedule-now-available-2016-2017" [1]
+2017-01-01 23:39:34 URL:http://www.hopedale-ma.gov/board-health/news/recycling-center-permits-now-available [70193] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/board-health/news/recycling-center-permits-now-available" [1]
+2017-01-01 23:39:36 URL:http://www.hopedale-ma.gov/node/61/events/month [86537] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/61/events/month" [1]
+2017-01-01 23:39:39 URL:http://www.hopedale-ma.gov/node/61/events/month/2017-01 [86594] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/61/events/month/2017-01" [1]
+2017-01-01 23:39:41 URL:http://www.hopedale-ma.gov/node/61/agenda [65976] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/61/agenda" [1]
+2017-01-01 23:39:43 URL:http://www.hopedale-ma.gov/board-health/agenda/board-health-1 [70707] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/board-health/agenda/board-health-1" [1]
+2017-01-01 23:39:45 URL:http://www.hopedale-ma.gov/board-health/agenda/board-health-0 [70710] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/board-health/agenda/board-health-0" [1]
+2017-01-01 23:39:48 URL:http://www.hopedale-ma.gov/board-health/agenda/board-health [70704] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/board-health/agenda/board-health" [1]
+2017-01-01 23:39:50 URL:http://www.hopedale-ma.gov/board-health/agenda/boh-agenda-1 [70356] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/board-health/agenda/boh-agenda-1" [1]
+2017-01-01 23:39:53 URL:http://www.hopedale-ma.gov/board-health/agenda/boh-agenda-0 [70641] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/board-health/agenda/boh-agenda-0" [1]
+2017-01-01 23:39:55 URL:http://www.hopedale-ma.gov/node/61/minutes [65984] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/61/minutes" [1]
+2017-01-01 23:39:57 URL:http://www.hopedale-ma.gov/board-health/minutes/boh-meeting-cancelled [70118] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/board-health/minutes/boh-meeting-cancelled" [1]
+2017-01-01 23:39:59 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/boh_minutes_june_9_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:40:00 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/boh_minutes_4.21.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:40:01 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/boh_minutes_february_10_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:40:03 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/boh_minutes_january_28_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:40:05 URL:http://www.hopedale-ma.gov/highway-department [84547] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/631" [1]
+2017-01-01 23:40:06 URL:http://www.hopedale-ma.gov/print/631 [7186] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/631" [1]
+2017-01-01 23:40:09 URL:http://www.hopedale-ma.gov/user/111/contact [67700] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/111/contact" [1]
+2017-01-01 23:40:10 URL: http://www.hopedale-ma.gov/node/631/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:40:13 URL:http://www.hopedale-ma.gov/node/631/events/month [87934] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/631/events/month" [1]
+2017-01-01 23:40:15 URL:http://www.hopedale-ma.gov/node/631/events/day/2017-01-04 [67250] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/631/events/day/2017-01-04" [1]
+2017-01-01 23:40:18 URL:http://www.hopedale-ma.gov/node/631/events/month/2017-01 [87995] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/631/events/month/2017-01" [1]
+2017-01-01 23:40:20 URL:http://www.hopedale-ma.gov/node/631/agenda [63615] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/631/agenda" [1]
+2017-01-01 23:40:22 URL:http://www.hopedale-ma.gov/highway-department/agenda/board-road-commissioners-3 [68616] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/highway-department/agenda/board-road-commissioners-3" [1]
+2017-01-01 23:40:24 URL:http://www.hopedale-ma.gov/highway-department/agenda/board-road-commissioners-2 [68643] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/highway-department/agenda/board-road-commissioners-2" [1]
+2017-01-01 23:40:26 URL:http://www.hopedale-ma.gov/highway-department/agenda/board-road-commissioners-1 [68620] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/highway-department/agenda/board-road-commissioners-1" [1]
+2017-01-01 23:40:28 URL:http://www.hopedale-ma.gov/highway-department/agenda/board-road-commissioners-0 [68608] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/highway-department/agenda/board-road-commissioners-0" [1]
+2017-01-01 23:40:30 URL:http://www.hopedale-ma.gov/highway-department/agenda/board-road-commissioners [68615] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/highway-department/agenda/board-road-commissioners" [1]
+2017-01-01 23:40:31 URL:http://www.hopedale-ma.gov/road-commissioners [77645] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/721" [1]
+2017-01-01 23:40:32 URL:http://www.hopedale-ma.gov/print/721 [5942] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/721" [1]
+2017-01-01 23:40:33 URL: http://www.hopedale-ma.gov/node/721/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:40:35 URL:http://www.hopedale-ma.gov/node/721/events/month [83551] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/721/events/month" [1]
+2017-01-01 23:40:37 URL:http://www.hopedale-ma.gov/node/721/events/month/2017-01 [83608] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/721/events/month/2017-01" [1]
+2017-01-01 23:40:38 URL:http://www.hopedale-ma.gov/bancroft-memorial-library [102236] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/71" [1]
+2017-01-01 23:40:39 URL:http://www.hopedale-ma.gov/print/71 [12693] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/71" [1]
+2017-01-01 23:40:41 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/about-library [71305] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/about-library" [1]
+2017-01-01 23:40:44 URL:http://www.hopedale-ma.gov/user/61/contact [67671] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/61/contact" [1]
+2017-01-01 23:40:46 URL:http://www.hopedale-ma.gov/user/66/contact [67685] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/66/contact" [1]
+2017-01-01 23:40:51 URL: http://www.hopedale-ma.gov/node/71/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:40:53 URL:http://www.hopedale-ma.gov/node/71/faq [66128] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/71/faq" [1]
+2017-01-01 23:40:55 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/faq/public-library-faqs [76553] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/faq/public-library-faqs" [1]
+2017-01-01 23:40:56 URL:http://www.hopedale-ma.gov/node/71/news [76363] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/71/news" [1]
+2017-01-01 23:40:58 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/news/holiday-hours [70136] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/news/holiday-hours" [1]
+2017-01-01 23:41:01 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/news/library-closed-today [69922] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/news/library-closed-today" [1]
+2017-01-01 23:41:03 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/news/holiday-shopping-and-more [70662] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/news/holiday-shopping-and-more" [1]
+2017-01-01 23:41:05 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/news/cookie-swap [71011] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/news/cookie-swap" [1]
+2017-01-01 23:41:07 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/news/visit-library-during-hopedale-holiday-stroll [70275] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/news/visit-library-during-hopedale-holiday-stroll" [1]
+2017-01-01 23:41:08 URL:http://www.hopedale-ma.gov/node/71/events/month [137047] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/71/events/month" [1]
+2017-01-01 23:41:10 URL:http://www.hopedale-ma.gov/node/71/events/day/2017-01-02 [69719] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/71/events/day/2017-01-02" [1]
+2017-01-01 23:41:12 URL:http://www.hopedale-ma.gov/node/71/events/day/2017-01-03 [69734] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/71/events/day/2017-01-03" [1]
+2017-01-01 23:41:14 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/events/23743 [69898] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/events/23743" [1]
+2017-01-01 23:41:15 URL:http://www.hopedale-ma.gov/node/71/events/day/2017-01-09 [69718] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/71/events/day/2017-01-09" [1]
+2017-01-01 23:41:17 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/events/22943 [69868] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/events/22943" [1]
+2017-01-01 23:41:19 URL:http://www.hopedale-ma.gov/node/71/events/day/2017-01-10 [69935] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/71/events/day/2017-01-10" [1]
+2017-01-01 23:41:21 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/events/23253 [70095] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/events/23253" [1]
+2017-01-01 23:41:23 URL:http://www.hopedale-ma.gov/node/71/events/day/2017-01-12 [69920] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/71/events/day/2017-01-12" [1]
+2017-01-01 23:41:25 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/events/23313 [70062] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/events/23313" [1]
+2017-01-01 23:41:27 URL:http://www.hopedale-ma.gov/node/71/events/day/2017-01-16 [69720] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/71/events/day/2017-01-16" [1]
+2017-01-01 23:41:29 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/events/23003 [69921] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/events/23003" [1]
+2017-01-01 23:41:31 URL:http://www.hopedale-ma.gov/node/71/events/day/2017-01-17 [69935] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/71/events/day/2017-01-17" [1]
+2017-01-01 23:41:33 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/events/23203 [70095] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/events/23203" [1]
+2017-01-01 23:41:34 URL:http://www.hopedale-ma.gov/node/71/events/day/2017-01-19 [69920] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/71/events/day/2017-01-19" [1]
+2017-01-01 23:41:36 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/events/23263 [70062] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/events/23263" [1]
+2017-01-01 23:41:38 URL:http://www.hopedale-ma.gov/node/71/events/day/2017-01-24 [69935] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/71/events/day/2017-01-24" [1]
+2017-01-01 23:41:39 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/events/23213 [70095] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/events/23213" [1]
+2017-01-01 23:41:41 URL:http://www.hopedale-ma.gov/node/71/events/day/2017-01-25 [69714] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/71/events/day/2017-01-25" [1]
+2017-01-01 23:41:43 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/events/23323 [71061] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/events/23323" [1]
+2017-01-01 23:41:45 URL:http://www.hopedale-ma.gov/node/71/events/day/2017-01-26 [69920] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/71/events/day/2017-01-26" [1]
+2017-01-01 23:41:47 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/events/23273 [70062] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/events/23273" [1]
+2017-01-01 23:41:49 URL:http://www.hopedale-ma.gov/node/71/events/day/2017-01-31 [69935] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/71/events/day/2017-01-31" [1]
+2017-01-01 23:41:51 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/events/23223 [70095] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/events/23223" [1]
+2017-01-01 23:41:54 URL:http://www.hopedale-ma.gov/node/71/events/month/2017-01 [137120] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/71/events/month/2017-01" [1]
+2017-01-01 23:41:56 URL:http://www.hopedale-ma.gov/node/71/agenda [66028] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/71/agenda" [1]
+2017-01-01 23:41:58 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/agenda/library-trustees-meeting-0 [70843] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/agenda/library-trustees-meeting-0" [1]
+2017-01-01 23:42:00 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/agenda/library-trustees-meeting [70837] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/agenda/library-trustees-meeting" [1]
+2017-01-01 23:42:02 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/adult-programs-events [71396] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/371" [1]
+2017-01-01 23:42:03 URL:http://www.hopedale-ma.gov/print/371 [7346] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/371" [1]
+2017-01-01 23:42:05 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/helen-symonds-book-club [71723] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/helen-symonds-book-club" [1]
+2017-01-01 23:42:07 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/ongoing-book-sale [70455] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/ongoing-book-sale" [1]
+2017-01-01 23:42:09 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/knovel-knitters [70780] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/knovel-knitters" [1]
+2017-01-01 23:42:11 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/color-relaxation [70539] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/color-relaxation" [1]
+2017-01-01 23:42:12 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/cookbook-club [70761] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/cookbook-club" [1]
+2017-01-01 23:42:14 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/blackstone-river-valley-national-historical-park [71578] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/19043" [1]
+2017-01-01 23:42:16 URL:http://www.hopedale-ma.gov/print/19043 [7845] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/19043" [1]
+2017-01-01 23:42:18 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/childrens-department [75687] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/401" [1]
+2017-01-01 23:42:19 URL:http://www.hopedale-ma.gov/print/401 [11898] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/401" [1]
+2017-01-01 23:42:21 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/storytimes [72614] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/storytimes" [1]
+2017-01-01 23:42:23 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/owl-moon-0 [70775] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/owl-moon-0" [1]
+2017-01-01 23:42:24 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/homework-help [70863] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/homework-help" [1]
+2017-01-01 23:42:27 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/safe-child-policy [72111] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/safe-child-policy" [1]
+2017-01-01 23:42:29 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/slideshows/childrens-department-slideshow [73945] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/slideshows/childrens-department-slideshow" [1]
+2017-01-01 23:42:31 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/digital-downloads [70830] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/506" [1]
+2017-01-01 23:42:33 URL:http://www.hopedale-ma.gov/print/506 [6991] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/506" [1]
+2017-01-01 23:42:34 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/friends-library [73652] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/466" [1]
+2017-01-01 23:42:35 URL:http://www.hopedale-ma.gov/print/466 [9560] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/466" [1]
+2017-01-01 23:42:37 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/friend_of_library_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:38 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/friends_events_2014_2015_presentation.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:40 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/library-policies [70475] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/481" [1]
+2017-01-01 23:42:41 URL:http://www.hopedale-ma.gov/print/481 [6635] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/481" [1]
+2017-01-01 23:42:43 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/solicitations-and-sales [71177] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/solicitations-and-sales" [1]
+2017-01-01 23:42:45 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/internet-policy [73034] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/internet-policy" [1]
+2017-01-01 23:42:47 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/meeting-room-policy [74614] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/meeting-room-policy" [1]
+2017-01-01 23:42:49 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/bulletin-board-policy [71277] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/bulletin-board-policy" [1]
+2017-01-01 23:42:51 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/links-helpful-websites [71549] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/516" [1]
+2017-01-01 23:42:52 URL:http://www.hopedale-ma.gov/print/516 [7740] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/516" [1]
+2017-01-01 23:42:54 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/links-local-history-information [71570] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/links-local-history-information" [1]
+2017-01-01 23:42:56 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/links-government-legal-business [71269] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/links-government-legal-business" [1]
+2017-01-01 23:42:58 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/links-consumer-info-just-fun [70283] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/links-consumer-info-just-fun" [1]
+2017-01-01 23:43:00 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/links-help-jobseekers [69939] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/links-help-jobseekers" [1]
+2017-01-01 23:43:02 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/links-medical-health-information [70415] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/links-medical-health-information" [1]
+2017-01-01 23:43:04 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/links-help-writers-readers [71814] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/links-help-writers-readers" [1]
+2017-01-01 23:43:06 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/links-genealogy-links [69949] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/links-genealogy-links" [1]
+2017-01-01 23:43:07 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/museum-passes-available [71641] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/451" [1]
+2017-01-01 23:43:08 URL:http://www.hopedale-ma.gov/print/451 [7826] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/451" [1]
+2017-01-01 23:43:10 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/new-books-music-dvds [70055] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/566" [1]
+2017-01-01 23:43:11 URL:http://www.hopedale-ma.gov/print/566 [6261] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/566" [1]
+2017-01-01 23:43:13 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/newsletters [71365] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/561" [1]
+2017-01-01 23:43:14 URL:http://www.hopedale-ma.gov/print/561 [7508] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/561" [1]
+2017-01-01 23:43:15 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/january2017newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:16 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/december2016newsletter_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:17 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/november2016_newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:18 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/october2016newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:20 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/september2016newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:21 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/august2016newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:22 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/july2016newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:24 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/june2016newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:25 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/may2016newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:27 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/online-reference-databases [72763] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/416" [1]
+2017-01-01 23:43:28 URL:http://www.hopedale-ma.gov/print/416 [9016] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/416" [1]
+2017-01-01 23:43:30 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/periodicals-magazines [74411] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/571" [1]
+2017-01-01 23:43:31 URL:http://www.hopedale-ma.gov/print/571 [10657] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/571" [1]
+2017-01-01 23:43:33 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/request-materials-home [73083] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/511" [1]
+2017-01-01 23:43:34 URL:http://www.hopedale-ma.gov/print/511 [9239] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/511" [1]
+2017-01-01 23:43:36 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/teens [71046] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/436" [1]
+2017-01-01 23:43:37 URL:http://www.hopedale-ma.gov/print/436 [7081] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/436" [1]
+2017-01-01 23:43:39 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/play-chess-online [70535] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/play-chess-online" [1]
+2017-01-01 23:43:41 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/pages/teen-time [70237] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/pages/teen-time" [1]
+2017-01-01 23:43:43 URL:http://www.hopedale-ma.gov/parks-recreation [97468] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/711.1" [1]
+2017-01-01 23:43:44 URL:http://www.hopedale-ma.gov/print/711 [12953] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/711" [1]
+2017-01-01 23:43:46 URL:http://www.hopedale-ma.gov/park-commission/pages/vision-becomes-reality [71936] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/pages/vision-becomes-reality" [1]
+2017-01-01 23:43:49 URL:http://www.hopedale-ma.gov/user/251/contact [67762] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/251/contact" [1]
+2017-01-01 23:43:53 URL: http://www.hopedale-ma.gov/node/711/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:55 URL:http://www.hopedale-ma.gov/node/711/faq [72869] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/711/faq" [1]
+2017-01-01 23:43:57 URL:http://www.hopedale-ma.gov/park-commission/faq/we-hear-theres-effort-underway-park-dept-findcreate-new-play-fields-town-whats [69609] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/faq/we-hear-theres-effort-underway-park-dept-findcreate-new-play-fields-town-whats" [1]
+2017-01-01 23:43:59 URL:http://www.hopedale-ma.gov/park-commission/faq/how-come-parklands-remain-closed-vehicles [70360] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/faq/how-come-parklands-remain-closed-vehicles" [1]
+2017-01-01 23:44:01 URL:http://www.hopedale-ma.gov/park-commission/faq/hopedale-pond-abuts-old-draper-plant-how-can-it-not-be-contaminated-it-some-way [69429] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/faq/hopedale-pond-abuts-old-draper-plant-how-can-it-not-be-contaminated-it-some-way" [1]
+2017-01-01 23:44:02 URL:http://www.hopedale-ma.gov/park-commission/faq/have-geese-fouled-waters-hopedale-pond [69847] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/faq/have-geese-fouled-waters-hopedale-pond" [1]
+2017-01-01 23:44:04 URL:http://www.hopedale-ma.gov/park-commission/faq/hopedale-pond-polluted [70005] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/faq/hopedale-pond-polluted" [1]
+2017-01-01 23:44:06 URL:http://www.hopedale-ma.gov/node/711/news [71178] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/711/news" [1]
+2017-01-01 23:44:08 URL:http://www.hopedale-ma.gov/parks-recreation/news/special-meeting-scheduled-16-may-2016 [68862] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/parks-recreation/news/special-meeting-scheduled-16-may-2016" [1]
+2017-01-01 23:44:10 URL:http://www.hopedale-ma.gov/parks-recreation/news/welcome-john-waswill [69117] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/parks-recreation/news/welcome-john-waswill" [1]
+2017-01-01 23:44:11 URL:http://www.hopedale-ma.gov/park-commission/news/july-17-2014-commission-updates [69488] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/news/july-17-2014-commission-updates" [1]
+2017-01-01 23:44:13 URL:http://www.hopedale-ma.gov/park-commission/news/april-14-2013-commission-updates [70310] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/news/april-14-2013-commission-updates" [1]
+2017-01-01 23:44:15 URL:http://www.hopedale-ma.gov/park-commission/news/december-23-2012-meeting-schedule-now-online [69258] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/news/december-23-2012-meeting-schedule-now-online" [1]
+2017-01-01 23:44:17 URL:http://www.hopedale-ma.gov/node/711/events/month [85745] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/711/events/month" [1]
+2017-01-01 23:44:19 URL:http://www.hopedale-ma.gov/node/711/events/month/2017-01 [85802] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/711/events/month/2017-01" [1]
+2017-01-01 23:44:20 URL:http://www.hopedale-ma.gov/node/711/agenda [65162] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/711/agenda" [1]
+2017-01-01 23:44:22 URL:http://www.hopedale-ma.gov/parks-recreation/agenda/park-commission [69984] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/parks-recreation/agenda/park-commission" [1]
+2017-01-01 23:44:24 URL:http://www.hopedale-ma.gov/parks-recreation/agenda/hpc-agenda-11172016 [69739] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/parks-recreation/agenda/hpc-agenda-11172016" [1]
+2017-01-01 23:44:26 URL:http://www.hopedale-ma.gov/parks-recreation/agenda/hpc-agenda-9152016 [69999] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/parks-recreation/agenda/hpc-agenda-9152016" [1]
+2017-01-01 23:44:27 URL:http://www.hopedale-ma.gov/parks-recreation/agenda/hpc-agenda-8252016 [69948] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/parks-recreation/agenda/hpc-agenda-8252016" [1]
+2017-01-01 23:44:29 URL:http://www.hopedale-ma.gov/parks-recreation/agenda/hpc-agenda-6252016 [69688] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/parks-recreation/agenda/hpc-agenda-6252016" [1]
+2017-01-01 23:44:31 URL:http://www.hopedale-ma.gov/node/711/minutes [65306] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/711/minutes" [1]
+2017-01-01 23:44:32 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/meetingminutes_201601020.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:44:33 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/meetingminutes_20160915.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:44:34 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/meetingminutes_20160825_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:44:35 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/meetingminutes_20160625.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:44:36 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/meetingminutes_20160616.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:44:38 URL:http://www.hopedale-ma.gov/town-clerk [83938] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/9" [1]
+2017-01-01 23:44:39 URL:http://www.hopedale-ma.gov/print/9 [8560] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/9" [1]
+2017-01-01 23:44:41 URL:http://www.hopedale-ma.gov/user/553/contact [67694] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/553/contact" [1]
+2017-01-01 23:44:42 URL: http://www.hopedale-ma.gov/node/9/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:44:44 URL:http://www.hopedale-ma.gov/node/9/events/month [85764] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/9/events/month" [1]
+2017-01-01 23:44:46 URL:http://www.hopedale-ma.gov/node/9/events/month/2017-01 [85821] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/9/events/month/2017-01" [1]
+2017-01-01 23:44:48 URL:http://www.hopedale-ma.gov/town-clerk/pages/birth-death-certificates [71261] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/1031" [1]
+2017-01-01 23:44:49 URL:http://www.hopedale-ma.gov/print/1031 [7932] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/1031" [1]
+2017-01-01 23:44:50 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/vital_records_appl.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:44:52 URL:http://www.hopedale-ma.gov/town-clerk/pages/board-registrars [69905] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/3963" [1]
+2017-01-01 23:44:53 URL:http://www.hopedale-ma.gov/print/3963 [6608] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/3963" [1]
+2017-01-01 23:44:55 URL:http://www.hopedale-ma.gov/town-clerk/pages/business-certificate [69605] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/1076" [1]
+2017-01-01 23:44:56 URL:http://www.hopedale-ma.gov/print/1076 [6265] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/1076" [1]
+2017-01-01 23:44:58 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/business_certifiacte_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:45:00 URL:http://www.hopedale-ma.gov/town-clerk/pages/clone-birth-death-certificates [71296] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/12413" [1]
+2017-01-01 23:45:01 URL:http://www.hopedale-ma.gov/print/12413 [7993] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/12413" [1]
+2017-01-01 23:45:03 URL:http://www.hopedale-ma.gov/town-clerk/pages/marriage-licenses [69947] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/1066" [1]
+2017-01-01 23:45:04 URL:http://www.hopedale-ma.gov/print/1066 [6596] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/1066" [1]
+2017-01-01 23:45:06 URL:http://www.hopedale-ma.gov/town-clerk/pages/town-meetings [69746] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/1041" [1]
+2017-01-01 23:45:08 URL:http://www.hopedale-ma.gov/print/1041 [6520] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/1041" [1]
+2017-01-01 23:45:09 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/atm_stm_may_20_2008.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:45:10 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/atm_minutes_may_19_2009.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:45:12 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/may_17_2016_annual_town_meeting_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:45:14 URL:http://www.hopedale-ma.gov/town-clerk/pages/zoning-board-appeal-hearing-application [69694] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/22043" [1]
+2017-01-01 23:45:15 URL:http://www.hopedale-ma.gov/print/22043 [6914] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/22043" [1]
+2017-01-01 23:45:16 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/pages/zba_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:45:18 URL:http://www.hopedale-ma.gov/treasurer-collector [89506] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/651" [1]
+2017-01-01 23:45:19 URL:http://www.hopedale-ma.gov/print/651 [14350] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/651" [1]
+2017-01-01 23:45:22 URL:http://www.hopedale-ma.gov/user/201/contact [67720] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/201/contact" [1]
+2017-01-01 23:45:24 URL:http://www.hopedale-ma.gov/user/206/contact [67700] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/206/contact" [1]
+2017-01-01 23:45:27 URL:http://www.hopedale-ma.gov/user/211/contact [67698] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/211/contact" [1]
+2017-01-01 23:45:28 URL: http://www.hopedale-ma.gov/node/651/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:45:30 URL:http://www.hopedale-ma.gov/node/651/events/month [84990] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/651/events/month" [1]
+2017-01-01 23:45:32 URL:http://www.hopedale-ma.gov/node/651/events/month/2017-01 [85047] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/651/events/month/2017-01" [1]
+2017-01-01 23:45:33 URL:http://www.hopedale-ma.gov/treasurer-collector/pages/deputy-tax-collector [69007] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/1186" [1]
+2017-01-01 23:45:34 URL:http://www.hopedale-ma.gov/print/1186 [6606] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/1186" [1]
+2017-01-01 23:45:35 URL:http://www.hopedale-ma.gov/treasurer-collector/pages/municipal-lien-certificate-request-info [70821] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/14743" [1]
+2017-01-01 23:45:36 URL:http://www.hopedale-ma.gov/print/14743 [8523] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/14743" [1]
+2017-01-01 23:45:37 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/pages/mlc_request_form_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:45:38 URL:http://www.hopedale-ma.gov/treasurer-collector/pages/town-fees [68821] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/1181" [1]
+2017-01-01 23:45:40 URL:http://www.hopedale-ma.gov/print/1181 [6286] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/1181" [1]
+2017-01-01 23:45:42 URL:http://www.hopedale-ma.gov/tree-warden-walter-swift [71273] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/656" [1]
+2017-01-01 23:45:43 URL:http://www.hopedale-ma.gov/print/656 [7400] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/656" [1]
+2017-01-01 23:45:44 URL: http://www.hopedale-ma.gov/node/656/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:45:46 URL:http://www.hopedale-ma.gov/tree-warden/pages/applications-forms [68468] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/3461" [1]
+2017-01-01 23:45:46 URL:http://www.hopedale-ma.gov/print/3461 [6719] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/3461" [1]
+2017-01-01 23:45:47 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/permission_to_plant_a_tree_in_a_public_way.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:45:49 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/permission_to_prune_a_public_tree.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:45:50 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/public_shade_tree_removal_application.2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:45:51 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/tree_planting_permission_and_agreement_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:45:53 URL:http://www.hopedale-ma.gov/tree-warden/pages/insect-watch [68015] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/3471" [1]
+2017-01-01 23:45:54 URL:http://www.hopedale-ma.gov/print/3471 [6147] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/3471" [1]
+2017-01-01 23:45:56 URL:http://www.hopedale-ma.gov/veterans-services-patrick-morris [73339] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/661" [1]
+2017-01-01 23:45:57 URL:http://www.hopedale-ma.gov/print/661 [8653] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/661" [1]
+2017-01-01 23:46:00 URL:http://www.hopedale-ma.gov/veterans-services/pages/about-veterans-services-department [75828] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/veterans-services/pages/about-veterans-services" [1]
+2017-01-01 23:46:02 URL:http://www.hopedale-ma.gov/user/116/contact [67694] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/116/contact" [1]
+2017-01-01 23:46:03 URL: http://www.hopedale-ma.gov/node/661/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:46:05 URL:http://www.hopedale-ma.gov/veterans-services/pages/bonus-applications-now-available [69833] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/816" [1]
+2017-01-01 23:46:06 URL:http://www.hopedale-ma.gov/print/816 [7390] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/816" [1]
+2017-01-01 23:46:07 URL:http://www.hopedale-ma.gov/veterans-services/pages/honor-roll [69141] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/2096" [1]
+2017-01-01 23:46:08 URL:http://www.hopedale-ma.gov/print/2096 [6576] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/2096" [1]
+2017-01-01 23:46:10 URL:http://www.hopedale-ma.gov/veterans-services-patrick-morris [73339] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/veterans-services.1" [1]
+2017-01-01 23:46:13 URL:http://www.hopedale-ma.gov/veterans-services/pages/spanish-american-war [69548] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/veterans-services/pages/spanish-american-war" [1]
+2017-01-01 23:46:14 URL:http://www.hopedale-ma.gov/veterans-services/pages/post-9-11-gi-bill [68947] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/791" [1]
+2017-01-01 23:46:15 URL:http://www.hopedale-ma.gov/print/791 [6396] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/791" [1]
+2017-01-01 23:46:17 URL:http://www.hopedale-ma.gov/veterans-services/pages/serving-our-veterans-law [68831] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/806" [1]
+2017-01-01 23:46:18 URL:http://www.hopedale-ma.gov/print/806 [6317] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/806" [1]
+2017-01-01 23:46:20 URL:http://www.hopedale-ma.gov/veterans-services/pages/solicitation [69862] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/811" [1]
+2017-01-01 23:46:21 URL:http://www.hopedale-ma.gov/print/811 [7205] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/811" [1]
+2017-01-01 23:46:22 URL:http://www.hopedale-ma.gov/veterans-services/pages/veterans-bill-rights [70694] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/801" [1]
+2017-01-01 23:46:23 URL:http://www.hopedale-ma.gov/print/801 [8255] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/801" [1]
+2017-01-01 23:46:25 URL:http://www.hopedale-ma.gov/veterans-services/pages/war-dates [69400] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/796" [1]
+2017-01-01 23:46:26 URL:http://www.hopedale-ma.gov/print/796 [6873] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/796" [1]
+2017-01-01 23:46:28 URL:http://www.hopedale-ma.gov/water-sewer-department [85099] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/666" [1]
+2017-01-01 23:46:29 URL:http://www.hopedale-ma.gov/print/666 [8495] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/666" [1]
+2017-01-01 23:46:32 URL:http://www.hopedale-ma.gov/user/309/contact [67694] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/309/contact" [1]
+2017-01-01 23:46:34 URL:http://www.hopedale-ma.gov/user/310/contact [67694] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/310/contact" [1]
+2017-01-01 23:46:35 URL: http://www.hopedale-ma.gov/node/666/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:46:37 URL:http://www.hopedale-ma.gov/node/666/events/month [85607] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/666/events/month" [1]
+2017-01-01 23:46:39 URL:http://www.hopedale-ma.gov/node/666/events/month/2017-01 [85664] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/666/events/month/2017-01" [1]
+2017-01-01 23:46:41 URL:http://www.hopedale-ma.gov/water-sewer-department/pages/2016-sanitary-sewer-lining-project [70961] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/15593" [1]
+2017-01-01 23:46:42 URL:http://www.hopedale-ma.gov/print/15593 [7567] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/15593" [1]
+2017-01-01 23:46:43 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/2016_sewer_lining_-_bid_documents_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:46:45 URL:http://www.hopedale-ma.gov/water-sewer-department/pages/town-hopedale-rates [71057] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/3586" [1]
+2017-01-01 23:46:46 URL:http://www.hopedale-ma.gov/print/3586 [7763] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/3586" [1]
+2017-01-01 23:46:47 URL:http://www.hopedale-ma.gov/water-sewer-commissioners [84367] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/3992" [1]
+2017-01-01 23:46:48 URL:http://www.hopedale-ma.gov/print/3992 [6371] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/3992" [1]
+2017-01-01 23:46:50 URL: http://www.hopedale-ma.gov/node/3992/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:46:52 URL:http://www.hopedale-ma.gov/node/3992/events/month [83645] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/3992/events/month" [1]
+2017-01-01 23:46:54 URL:http://www.hopedale-ma.gov/node/3992/events/month/2017-01 [83702] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/3992/events/month/2017-01" [1]
+2017-01-01 23:46:56 URL:http://www.hopedale-ma.gov/node/3992/agenda [63032] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/3992/agenda" [1]
+2017-01-01 23:46:58 URL:http://www.hopedale-ma.gov/water-sewer-commissioners/agenda/water-and-sewer-commission-0 [66498] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/water-sewer-commissioners/agenda/water-and-sewer-commission-0" [1]
+2017-01-01 23:47:00 URL:http://www.hopedale-ma.gov/water-sewer-commissioners/agenda/water-and-sewer-commission [66498] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/water-sewer-commissioners/agenda/water-and-sewer-commission" [1]
+2017-01-01 23:47:01 URL:http://www.hopedale-ma.gov/node/3992/minutes [63247] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/3992/minutes" [1]
+2017-01-01 23:47:03 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/april_2016_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:47:04 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/march_2016_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:47:05 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/feb._2016_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:47:06 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/01-14-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:47:07 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/12-10-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:47:09 URL:http://www.hopedale-ma.gov/water-department/pages/water-use-restriction-law [76314] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/3582" [1]
+2017-01-01 23:47:10 URL:http://www.hopedale-ma.gov/print/3582 [12984] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/3582" [1]
+2017-01-01 23:47:11 URL:http://www.hopedale-ma.gov/board-health/pages/animal-control-officer [70419] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/12543" [1]
+2017-01-01 23:47:12 URL:http://www.hopedale-ma.gov/print/12543 [6528] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/12543" [1]
+2017-01-01 23:47:15 URL:http://www.hopedale-ma.gov/board-health/pages/applications-fees [70872] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/3451" [1]
+2017-01-01 23:47:16 URL:http://www.hopedale-ma.gov/print/3451 [7025] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/3451" [1]
+2017-01-01 23:47:17 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/application_for_disposal_system_construction_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:47:19 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/application_for_local_upgrade_approval_form_9a.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:47:20 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/local_upgrade_approval_form_9b.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:47:21 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/certificate_of_compliance_form_3.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:47:23 URL:http://www.hopedale-ma.gov/board-health/pages/construction-and-demolition-fee-schedule [70522] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/board-health/pages/construction-and-demolition-fee-schedule" [1]
+2017-01-01 23:47:25 URL:http://www.hopedale-ma.gov/board-health/pages/dog-regulations [70070] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/3456" [1]
+2017-01-01 23:47:26 URL:http://www.hopedale-ma.gov/print/3456 [6251] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/3456" [1]
+2017-01-01 23:47:27 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/dog_reglations_-_disposal_of_canine_wast.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:47:28 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/dog_regulations_-_unleashed_dogs.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:47:30 URL:http://www.hopedale-ma.gov/board-health/pages/recycling-trash-information [72718] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/66" [1]
+2017-01-01 23:47:31 URL:http://www.hopedale-ma.gov/print/66 [8717] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/66" [1]
+2017-01-01 23:47:33 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/recycling_center_fee_schedule.pdf 200 OK
+unlink: No such file or directory
+http://www.hopedale-ma.gov/board-health/pages/construction-and-demolition-recycling-center-fee-schedule:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:47:36 URL:http://www.hopedale-ma.gov/board-health/pages/septic-inspection-requirements [70411] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/1701" [1]
+2017-01-01 23:47:37 URL:http://www.hopedale-ma.gov/print/1701 [6512] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/1701" [1]
+2017-01-01 23:47:38 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/soil_test_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:47:39 URL:http://www.hopedale-ma.gov/conservation-commission [85147] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/676" [1]
+2017-01-01 23:47:40 URL:http://www.hopedale-ma.gov/print/676 [7844] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/676" [1]
+2017-01-01 23:47:43 URL:http://www.hopedale-ma.gov/user/181/contact [67712] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/181/contact" [1]
+2017-01-01 23:47:44 URL: http://www.hopedale-ma.gov/node/676/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:47:46 URL:http://www.hopedale-ma.gov/node/676/events/month [83586] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/676/events/month" [1]
+2017-01-01 23:47:48 URL:http://www.hopedale-ma.gov/node/676/events/month/2017-01 [83643] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/676/events/month/2017-01" [1]
+2017-01-01 23:47:50 URL:http://www.hopedale-ma.gov/node/676/agenda [62997] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/676/agenda" [1]
+2017-01-01 23:47:52 URL:http://www.hopedale-ma.gov/conservation-commission/agenda/conservation-commission [68143] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/conservation-commission/agenda/conservation-commission" [1]
+2017-01-01 23:47:54 URL:http://www.hopedale-ma.gov/conservation-commission/agenda/conservation-agenda-2 [68103] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/conservation-commission/agenda/conservation-agenda-2" [1]
+2017-01-01 23:47:56 URL:http://www.hopedale-ma.gov/conservation-commission/agenda/conservation-agenda-1 [68133] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/conservation-commission/agenda/conservation-agenda-1" [1]
+2017-01-01 23:47:59 URL:http://www.hopedale-ma.gov/conservation-commission/agenda/conservation-agenda-abutters-notice-date-change [68327] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/conservation-commission/agenda/conservation-agenda-abutters-notice-date-change" [1]
+2017-01-01 23:48:00 URL:http://www.hopedale-ma.gov/conservation-commission/agenda/conservation-agenda-0 [67985] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/conservation-commission/agenda/conservation-agenda-0" [1]
+2017-01-01 23:48:02 URL:http://www.hopedale-ma.gov/council-aging/pages/assistance-heating-your-home [70748] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/3974" [1]
+2017-01-01 23:48:03 URL:http://www.hopedale-ma.gov/print/3974 [7407] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/3974" [1]
+2017-01-01 23:48:05 URL:http://www.hopedale-ma.gov/council-aging/pages/coa-programs-seniors [70680] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/3968" [1]
+2017-01-01 23:48:06 URL:http://www.hopedale-ma.gov/print/3968 [7297] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/3968" [1]
+2017-01-01 23:48:07 URL:http://www.hopedale-ma.gov/home/pages/food-stamp-application-assistance [65749] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/18083" [1]
+2017-01-01 23:48:08 URL:http://www.hopedale-ma.gov/print/18083 [6289] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/18083" [1]
+2017-01-01 23:48:10 URL:http://www.hopedale-ma.gov/council-aging/pages/friends-elders [69828] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/3975" [1]
+2017-01-01 23:48:11 URL:http://www.hopedale-ma.gov/print/3975 [6623] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/3975" [1]
+2017-01-01 23:48:13 URL:http://www.hopedale-ma.gov/council-aging/pages/hopedale-senior-newsletter [69826] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/3978" [1]
+2017-01-01 23:48:14 URL:http://www.hopedale-ma.gov/print/3978 [6707] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/3978" [1]
+2017-01-01 23:48:15 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/hopedale_sr._news_january_2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:48:17 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/seniornewsdecember2016_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:48:19 URL:http://www.hopedale-ma.gov/council-aging/pages/newsletter-archives-2015 [69200] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/council-aging/pages/newsletter-archives-2015" [1]
+2017-01-01 23:48:21 URL:http://www.hopedale-ma.gov/council-aging/pages/newsletter-archives-2014 [69202] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/council-aging/pages/newsletter-archives-2014" [1]
+2017-01-01 23:48:23 URL:http://www.hopedale-ma.gov/council-aging/pages/newsletter-archives-2013 [69191] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/council-aging/pages/newsletter-archives-2013" [1]
+2017-01-01 23:48:25 URL:http://www.hopedale-ma.gov/council-aging/pages/newsletter-archives-2012 [69101] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/council-aging/pages/newsletter-archives-2012" [1]
+2017-01-01 23:48:27 URL:http://www.hopedale-ma.gov/council-aging/pages/storm-assistance-registry [70576] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/3967" [1]
+2017-01-01 23:48:28 URL:http://www.hopedale-ma.gov/print/3967 [7222] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/3967" [1]
+2017-01-01 23:48:30 URL:http://www.hopedale-ma.gov/council-aging/pages/tax-credit-program [70282] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/3972" [1]
+2017-01-01 23:48:31 URL:http://www.hopedale-ma.gov/print/3972 [7224] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/3972" [1]
+2017-01-01 23:48:33 URL:http://www.hopedale-ma.gov/people/carole-mullen [70155] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/people/carole-mullen" [1]
+2017-01-01 23:48:34 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/pages/tax_credit_policy_2017_2.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:48:35 URL:http://www.hopedale-ma.gov/council-aging/pages/transportation-services [71978] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/3971" [1]
+2017-01-01 23:48:36 URL:http://www.hopedale-ma.gov/print/3971 [8778] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/3971" [1]
+2017-01-01 23:48:38 URL:http://www.hopedale-ma.gov/cultural-council [82922] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/686" [1]
+2017-01-01 23:48:39 URL:http://www.hopedale-ma.gov/print/686 [7502] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/686" [1]
+2017-01-01 23:48:42 URL:http://www.hopedale-ma.gov/user/191/contact [67692] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/191/contact" [1]
+2017-01-01 23:48:42 URL: http://www.hopedale-ma.gov/node/686/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:48:44 URL:http://www.hopedale-ma.gov/node/686/news [65830] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/686/news" [1]
+2017-01-01 23:48:46 URL:http://www.hopedale-ma.gov/cultural-council/news/new-2016-2017-grant-process [69431] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/cultural-council/news/new-2016-2017-grant-process" [1]
+2017-01-01 23:48:48 URL:http://www.hopedale-ma.gov/cultural-council/news/2016-family-fun-night [68661] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/cultural-council/news/2016-family-fun-night" [1]
+2017-01-01 23:48:50 URL:http://www.hopedale-ma.gov/cultural-council/news/2016-summer-band-concert-series [68709] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/cultural-council/news/2016-summer-band-concert-series" [1]
+2017-01-01 23:48:52 URL:http://www.hopedale-ma.gov/cultural-council/news/2016-hopedale-day-park [68949] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/cultural-council/news/2016-hopedale-day-park" [1]
+2017-01-01 23:48:55 URL:http://www.hopedale-ma.gov/node/686/events/month [85059] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/686/events/month" [1]
+2017-01-01 23:48:56 URL:http://www.hopedale-ma.gov/node/686/events/month/2017-01 [85116] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/686/events/month/2017-01" [1]
+2017-01-01 23:48:58 URL:http://www.hopedale-ma.gov/cultural-council/files/day-park-art-entry-form-page-2 [68745] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/12483" [1]
+2017-01-01 23:48:59 URL:http://www.hopedale-ma.gov/print/12483 [6555] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/12483" [1]
+2017-01-01 23:48:59 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/dip_artentryform_2016_page_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:49:01 URL:http://www.hopedale-ma.gov/cultural-council/files/day-park-art-exhibit-page-1 [68722] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/12473" [1]
+2017-01-01 23:49:01 URL:http://www.hopedale-ma.gov/print/12473 [6520] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/12473" [1]
+2017-01-01 23:49:02 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/dip_art_exhibit_page_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:49:03 URL:http://www.hopedale-ma.gov/employment-volunteer/pages/volunteer-opportunities [66210] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/3528" [1]
+2017-01-01 23:49:05 URL:http://www.hopedale-ma.gov/print/3528 [6782] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/3528" [1]
+2017-01-01 23:49:06 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/vacancies_on_committees-commissions_07-19-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:49:07 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/committee-commission_descriptions_07-19-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:49:09 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/talent_bank_form_updated_07-19-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:49:10 URL:http://www.hopedale-ma.gov/disabilities-commission [80824] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/691" [1]
+2017-01-01 23:49:12 URL:http://www.hopedale-ma.gov/print/691 [7457] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/691" [1]
+2017-01-01 23:49:14 URL:http://www.hopedale-ma.gov/user/151/contact [67678] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/151/contact" [1]
+2017-01-01 23:49:15 URL: http://www.hopedale-ma.gov/node/691/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:49:17 URL:http://www.hopedale-ma.gov/node/691/events/month [84217] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/691/events/month" [1]
+2017-01-01 23:49:19 URL:http://www.hopedale-ma.gov/node/691/events/month/2017-01 [84274] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/691/events/month/2017-01" [1]
+2017-01-01 23:49:21 URL:http://www.hopedale-ma.gov/finance-committee [83268] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/696" [1]
+2017-01-01 23:49:22 URL:http://www.hopedale-ma.gov/print/696 [7044] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/696" [1]
+2017-01-01 23:49:23 URL: http://www.hopedale-ma.gov/node/696/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:49:26 URL:http://www.hopedale-ma.gov/node/696/events/month [84625] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/696/events/month" [1]
+2017-01-01 23:49:28 URL:http://www.hopedale-ma.gov/node/696/events/month/2017-01 [84682] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/696/events/month/2017-01" [1]
+2017-01-01 23:49:30 URL:http://www.hopedale-ma.gov/node/696/agenda [64048] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/696/agenda" [1]
+2017-01-01 23:49:32 URL:http://www.hopedale-ma.gov/finance-committee/agenda/finance-comm-capital-planning-0 [68936] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/finance-committee/agenda/finance-comm-capital-planning-0" [1]
+2017-01-01 23:49:34 URL:http://www.hopedale-ma.gov/finance-committee/agenda/finance-comm-capital-planning [68931] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/finance-committee/agenda/finance-comm-capital-planning" [1]
+2017-01-01 23:49:36 URL:http://www.hopedale-ma.gov/finance-committee/pages/town-department-budgets [69996] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/2146" [1]
+2017-01-01 23:49:37 URL:http://www.hopedale-ma.gov/print/2146 [8044] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/2146" [1]
+2017-01-01 23:49:39 URL:http://www.hopedale-ma.gov/finance-committee/pages/accountant-budgets [68004] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/finance-committee/pages/accountant-budgets" [1]
+2017-01-01 23:49:40 URL:http://www.hopedale-ma.gov/finance-committee/pages/ambulance-budgets [68020] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/finance-committee/pages/ambulance-budgets" [1]
+2017-01-01 23:49:42 URL:http://www.hopedale-ma.gov/finance-committee/pages/assessors-budgets [68020] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/finance-committee/pages/assessors-budgets" [1]
+2017-01-01 23:49:43 URL:http://www.hopedale-ma.gov/finance-committee/pages/building-inspector-budgets [68074] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/finance-committee/pages/building-inspector-budgets" [1]
+2017-01-01 23:49:45 URL:http://www.hopedale-ma.gov/finance-committee/pages/school-department-budgets [68068] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/finance-committee/pages/school-department-budgets" [1]
+2017-01-01 23:49:47 URL:http://www.hopedale-ma.gov/finance-committee/pages/fire-department-budgets [68056] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/finance-committee/pages/fire-department-budgets" [1]
+2017-01-01 23:49:49 URL:http://www.hopedale-ma.gov/finance-committee/pages/police-dispatch-budgets [68068] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/finance-committee/pages/police-dispatch-budgets" [1]
+2017-01-01 23:49:51 URL:http://www.hopedale-ma.gov/finance-committee/pages/highway-budgets [68008] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/finance-committee/pages/highway-budgets" [1]
+2017-01-01 23:49:53 URL:http://www.hopedale-ma.gov/finance-committee/pages/treasurer-budgets [68020] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/finance-committee/pages/treasurer-budgets" [1]
+2017-01-01 23:49:55 URL:http://www.hopedale-ma.gov/finance-committee/pages/parks-department-budgets [68062] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/finance-committee/pages/parks-department-budgets" [1]
+2017-01-01 23:49:57 URL:http://www.hopedale-ma.gov/finance-committee/pages/library-budgets [68008] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/finance-committee/pages/library-budgets" [1]
+2017-01-01 23:49:59 URL:http://www.hopedale-ma.gov/finance-committee/pages/town-coordinators-budgets [68066] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/finance-committee/pages/town-coordinators-budgets" [1]
+2017-01-01 23:50:01 URL:http://www.hopedale-ma.gov/finance-committee/pages/town-clerk-budgets [68026] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/finance-committee/pages/town-clerk-budgets" [1]
+2017-01-01 23:50:03 URL:http://www.hopedale-ma.gov/finance-committee/pages/council-aging-budgets [68030] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/finance-committee/pages/council-aging-budgets" [1]
+2017-01-01 23:50:05 URL:http://www.hopedale-ma.gov/finance-committee/pages/board-health-budgets [68026] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/finance-committee/pages/board-health-budgets" [1]
+2017-01-01 23:50:07 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/fiscal_year_2009_spreadsheet.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:50:09 URL:http://www.hopedale-ma.gov/historical-commission [89589] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/701" [1]
+2017-01-01 23:50:11 URL:http://www.hopedale-ma.gov/print/701 [7594] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/701" [1]
+2017-01-01 23:50:12 URL: http://www.hopedale-ma.gov/node/701/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:50:14 URL:http://www.hopedale-ma.gov/node/701/events/month [88150] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/701/events/month" [1]
+2017-01-01 23:50:16 URL:http://www.hopedale-ma.gov/node/701/events/day/2017-01-05 [67495] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/701/events/day/2017-01-05" [1]
+2017-01-01 23:50:19 URL:http://www.hopedale-ma.gov/node/701/events/month/2017-01 [88207] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/701/events/month/2017-01" [1]
+2017-01-01 23:50:21 URL:http://www.hopedale-ma.gov/node/701/agenda [63861] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/701/agenda" [1]
+2017-01-01 23:50:23 URL:http://www.hopedale-ma.gov/historical-commission/agenda/historical-commission-0 [68676] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/historical-commission/agenda/historical-commission-0" [1]
+2017-01-01 23:50:24 URL:http://www.hopedale-ma.gov/historical-commission/agenda/historical-commission [68676] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/historical-commission/agenda/historical-commission" [1]
+2017-01-01 23:50:27 URL:http://www.hopedale-ma.gov/historical-commission/agenda/hhc-agenda-4 [68427] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/historical-commission/agenda/hhc-agenda-4" [1]
+2017-01-01 23:50:28 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/agendas/hhc_agenda_05-04-2016.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:50:31 URL:http://www.hopedale-ma.gov/historical-commission/agenda/hhc-agenda-2 [68420] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/historical-commission/agenda/hhc-agenda-2" [1]
+2017-01-01 23:50:33 URL:http://www.hopedale-ma.gov/node/701/minutes [63802] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/701/minutes" [1]
+2017-01-01 23:50:35 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/hhc_meeting_minutes_05-04-2016.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:50:36 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/hhc_meeting_minutes_04-06-2016.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:50:37 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/hhc_meeting_minutes_03-02-2016.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:50:38 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/hhc_meeting_minutes_02-03-2016.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:50:40 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/hhc_meeting_minutes_01-06-2016.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:50:41 URL:http://www.hopedale-ma.gov/housing-authority [85822] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/706" [1]
+2017-01-01 23:50:43 URL:http://www.hopedale-ma.gov/print/706 [8244] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/706" [1]
+2017-01-01 23:50:45 URL:http://www.hopedale-ma.gov/user/146/contact [67754] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/146/contact" [1]
+2017-01-01 23:50:46 URL: http://www.hopedale-ma.gov/node/706/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:50:48 URL:http://www.hopedale-ma.gov/node/706/events/month [84161] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/706/events/month" [1]
+2017-01-01 23:50:51 URL:http://www.hopedale-ma.gov/node/706/events/month/2017-01 [84218] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/706/events/month/2017-01" [1]
+2017-01-01 23:50:52 URL:http://www.hopedale-ma.gov/node/706/agenda [63584] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/706/agenda" [1]
+2017-01-01 23:50:54 URL:http://www.hopedale-ma.gov/housing-authority/agenda/hopedale-housing-authority-2 [68683] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/housing-authority/agenda/hopedale-housing-authority-2" [1]
+2017-01-01 23:50:56 URL:http://www.hopedale-ma.gov/housing-authority/agenda/hopedale-housing-authority [68687] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/housing-authority/agenda/hopedale-housing-authority" [1]
+2017-01-01 23:50:59 URL:http://www.hopedale-ma.gov/housing-authority/agenda/housing-authority-agenda-0 [68644] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/housing-authority/agenda/housing-authority-agenda-0" [1]
+2017-01-01 23:51:00 URL:http://www.hopedale-ma.gov/housing-authority/agenda/housing-authority-agenda [68657] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/housing-authority/agenda/housing-authority-agenda" [1]
+2017-01-01 23:51:02 URL:http://www.hopedale-ma.gov/library-trustees [84613] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/141" [1]
+2017-01-01 23:51:03 URL:http://www.hopedale-ma.gov/print/141 [9504] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/141" [1]
+2017-01-01 23:51:05 URL: http://www.hopedale-ma.gov/node/141/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:51:07 URL:http://www.hopedale-ma.gov/node/141/events/month [84680] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/141/events/month" [1]
+2017-01-01 23:51:09 URL:http://www.hopedale-ma.gov/node/141/events/month/2017-01 [84737] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/141/events/month/2017-01" [1]
+2017-01-01 23:51:11 URL:http://www.hopedale-ma.gov/node/141/agenda [64105] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/141/agenda" [1]
+2017-01-01 23:51:12 URL:http://www.hopedale-ma.gov/library-trustees/agenda/library-trustees-meeting [70061] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/library-trustees/agenda/library-trustees-meeting" [1]
+2017-01-01 23:51:14 URL:http://www.hopedale-ma.gov/library-trustees/pages/meeting-schedule [68991] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/171" [1]
+2017-01-01 23:51:15 URL:http://www.hopedale-ma.gov/print/171 [6788] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/171" [1]
+2017-01-01 23:51:18 URL:http://www.hopedale-ma.gov/parks-recreation/pages/2016-tennis-program [73160] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/1986" [1]
+2017-01-01 23:51:19 URL:http://www.hopedale-ma.gov/print/1986 [9896] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/1986" [1]
+2017-01-01 23:51:20 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/2016_park_department_tennis_registration_-_updated.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:51:22 URL:http://www.hopedale-ma.gov/park-commission/pages/downloadable-forms [70066] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/1791" [1]
+2017-01-01 23:51:23 URL:http://www.hopedale-ma.gov/print/1791 [6967] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/1791" [1]
+2017-01-01 23:51:26 URL:http://www.hopedale-ma.gov/parks-recreation/pages/field-and-facility-information [71962] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/pages/field-and-facility-schedules" [1]
+2017-01-01 23:51:28 URL:http://www.hopedale-ma.gov/park-commission/pages/usage-guidelines [73395] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/pages/usage-guidelines" [1]
+2017-01-01 23:51:30 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/2016_facility_use_application_-_updated.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:51:32 URL:http://www.hopedale-ma.gov/parks-recreation/pages/facilities-fields-reservations [130396] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/3642" [1]
+2017-01-01 23:51:34 URL:http://www.hopedale-ma.gov/print/3642 [67091] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/3642" [1]
+2017-01-01 23:51:37 URL:http://www.hopedale-ma.gov/parks-recreation/pages/how-reserve-field-facility [70913] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/pages/how-reserve-field-facility" [1]
+2017-01-01 23:51:39 URL:http://www.hopedale-ma.gov/calendar-by-event-type/27/month [86812] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/27/month" [1]
+2017-01-01 23:51:41 URL:http://www.hopedale-ma.gov/calendar-by-event-type/31/month [86812] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/31/month" [1]
+2017-01-01 23:51:43 URL:http://www.hopedale-ma.gov/calendar-by-event-type/30/month [86828] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/30/month" [1]
+2017-01-01 23:51:47 URL:http://www.hopedale-ma.gov/calendar-by-event-type/28/month [86812] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/28/month" [1]
+2017-01-01 23:51:49 URL:http://www.hopedale-ma.gov/calendar-by-event-type/26/month [86832] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/26/month" [1]
+2017-01-01 23:51:51 URL:http://www.hopedale-ma.gov/calendar-by-event-type/29/month [86928] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/29/month" [1]
+2017-01-01 23:51:53 URL:http://www.hopedale-ma.gov/parks-recreation/pages/fin-and-feather-events-2016 [70313] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/3998" [1]
+2017-01-01 23:51:54 URL:http://www.hopedale-ma.gov/print/3998 [7172] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/3998" [1]
+2017-01-01 23:51:55 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/outdoor_adventures_2016_overview.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:51:57 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/outdoor_adventures_2016_registration_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:51:58 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/blackstone_valley_fishing_derby_2016_overview.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:51:59 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/blackstone_valley_fishing_derby_entry_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:52:01 URL:http://www.hopedale-ma.gov/park-commission/pages/hopedale-links-and-cool-stuff [71622] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/2026" [1]
+2017-01-01 23:52:03 URL:http://www.hopedale-ma.gov/print/2026 [8552] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/2026" [1]
+2017-01-01 23:52:04 URL:http://www.hopedale-ma.gov/parks-recreation/pages/hopedale-pond-and-parklands [71484] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/1971" [1]
+2017-01-01 23:52:06 URL:http://www.hopedale-ma.gov/print/1971 [8280] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/1971" [1]
+2017-01-01 23:52:07 URL:http://www.hopedale-ma.gov/park-commission/pages/pond-cleanup-project [70305] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/pages/pond-cleanup-project" [1]
+2017-01-01 23:52:09 URL:http://www.hopedale-ma.gov/park-commission/pages/meeting-schedule-and-minutes [70364] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/1976" [1]
+2017-01-01 23:52:11 URL:http://www.hopedale-ma.gov/print/1976 [7206] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/1976" [1]
+2017-01-01 23:52:12 URL:http://www.hopedale-ma.gov/park-commission/pages/photos-slideshows [69292] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/3643" [1]
+2017-01-01 23:52:13 URL:http://www.hopedale-ma.gov/print/3643 [6242] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/3643" [1]
+2017-01-01 23:52:15 URL:http://www.hopedale-ma.gov/park-commission/pages/photo-scrapbook [69528] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/pages/photo-scrapbook" [1]
+2017-01-01 23:52:17 URL:http://www.hopedale-ma.gov/park-commission/slideshows/pictures-town [71610] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/slideshows/pictures-town" [1]
+2017-01-01 23:52:19 URL:http://www.hopedale-ma.gov/park-commission/pages/rules-regulations [70014] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/1796" [1]
+2017-01-01 23:52:21 URL:http://www.hopedale-ma.gov/print/1796 [6952] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/1796" [1]
+2017-01-01 23:52:23 URL:http://www.hopedale-ma.gov/park-commission/pages/dog-policies [69087] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/pages/dog-policies" [1]
+2017-01-01 23:52:25 URL:http://www.hopedale-ma.gov/park-commission/pages/parklands-rules-regulations [72055] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/pages/parklands-rules-regulations" [1]
+2017-01-01 23:52:27 URL:http://www.hopedale-ma.gov/park-commission/pages/phillips-field-rules-and-regulations [73058] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/pages/phillips-field-rules-and-regulations" [1]
+2017-01-01 23:52:29 URL:http://www.hopedale-ma.gov/park-commission/pages/town-beach-information [69615] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/pages/town-beach-information" [1]
+2017-01-01 23:52:32 URL:http://www.hopedale-ma.gov/park-commission/pages/town-park-rules-and-regulations [77769] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/pages/town-park-rules-and-regulations" [1]
+2017-01-01 23:52:34 URL:http://www.hopedale-ma.gov/park-commission/pages/sign-posting-policy [72420] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/pages/sign-posting-policy" [1]
+2017-01-01 23:52:36 URL:http://www.hopedale-ma.gov/park-commission/pages/zero-tolerance-policy-vandalism [70590] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/pages/zero-tolerance-policy-vandalism" [1]
+2017-01-01 23:52:38 URL:http://www.hopedale-ma.gov/park-commission/pages/time-capsule [70004] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/2011" [1]
+2017-01-01 23:52:39 URL:http://www.hopedale-ma.gov/print/2011 [6938] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/2011" [1]
+2017-01-01 23:52:42 URL:http://www.hopedale-ma.gov/park-commission/pages/park-commissioners-through-years [72975] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/pages/park-commissioners-through-years" [1]
+2017-01-01 23:52:44 URL:http://www.hopedale-ma.gov/park-commission/pages/vision-becomes-reality-0 [71685] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/park-commission/pages/vision-becomes-reality-0" [1]
+2017-01-01 23:52:45 URL:http://www.hopedale-ma.gov/planning-board [86403] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/716" [1]
+2017-01-01 23:52:47 URL:http://www.hopedale-ma.gov/print/716 [7683] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/716" [1]
+2017-01-01 23:52:49 URL:http://www.hopedale-ma.gov/user/216/contact [67682] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/216/contact" [1]
+2017-01-01 23:52:50 URL: http://www.hopedale-ma.gov/node/716/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:52:52 URL:http://www.hopedale-ma.gov/node/716/events/month [88190] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/716/events/month" [1]
+2017-01-01 23:52:54 URL:http://www.hopedale-ma.gov/node/716/events/day/2017-01-04 [67646] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/716/events/day/2017-01-04" [1]
+2017-01-01 23:52:57 URL:http://www.hopedale-ma.gov/node/716/events/month/2017-01 [88251] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/716/events/month/2017-01" [1]
+2017-01-01 23:52:58 URL:http://www.hopedale-ma.gov/node/716/agenda [64031] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/716/agenda" [1]
+2017-01-01 23:53:00 URL:http://www.hopedale-ma.gov/planning-board/agenda/planning-board-agenda-2 [68062] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/planning-board/agenda/planning-board-agenda-2" [1]
+2017-01-01 23:53:02 URL:http://www.hopedale-ma.gov/planning-board/agenda/planning-board-agenda-3 [68842] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/planning-board/agenda/planning-board-agenda-3" [1]
+2017-01-01 23:53:04 URL:http://www.hopedale-ma.gov/planning-board/agenda/planning-board-0 [68815] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/planning-board/agenda/planning-board-0" [1]
+2017-01-01 23:53:06 URL:http://www.hopedale-ma.gov/planning-board/agenda/planning-board [68820] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/planning-board/agenda/planning-board" [1]
+2017-01-01 23:53:08 URL:http://www.hopedale-ma.gov/planning-board/agenda/planning-board-agenda-1 [68812] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/planning-board/agenda/planning-board-agenda-1" [1]
+2017-01-01 23:53:10 URL:http://www.hopedale-ma.gov/zoning-board-appeals [88376] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/736" [1]
+2017-01-01 23:53:11 URL:http://www.hopedale-ma.gov/print/736 [8433] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/736" [1]
+2017-01-01 23:53:14 URL:http://www.hopedale-ma.gov/user/373/contact [67682] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/user/373/contact" [1]
+2017-01-01 23:53:15 URL: http://www.hopedale-ma.gov/node/736/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:53:17 URL:http://www.hopedale-ma.gov/node/736/events/month [88397] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/736/events/month" [1]
+2017-01-01 23:53:19 URL:http://www.hopedale-ma.gov/node/736/events/day/2017-01-18 [67596] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/736/events/day/2017-01-18" [1]
+2017-01-01 23:53:22 URL:http://www.hopedale-ma.gov/node/736/events/month/2017-01 [88458] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/736/events/month/2017-01" [1]
+2017-01-01 23:53:23 URL:http://www.hopedale-ma.gov/node/736/agenda [63942] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/736/agenda" [1]
+2017-01-01 23:53:25 URL:http://www.hopedale-ma.gov/zoning-board-appeals/agenda/zoning-board-appeals-public-hearing-0 [68959] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/zoning-board-appeals/agenda/zoning-board-appeals-public-hearing-0" [1]
+2017-01-01 23:53:27 URL:http://www.hopedale-ma.gov/zoning-board-appeals/agenda/zoning-board-appeals-public-hearing [68961] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/zoning-board-appeals/agenda/zoning-board-appeals-public-hearing" [1]
+2017-01-01 23:53:29 URL:http://www.hopedale-ma.gov/zoning-board-appeals/agenda/zba-public-hearing [68534] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/zoning-board-appeals/agenda/zba-public-hearing" [1]
+2017-01-01 23:53:31 URL:http://www.hopedale-ma.gov/zoning-board/agenda/zba-agenda-public-hearing [68849] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/zoning-board/agenda/zba-agenda-public-hearing" [1]
+2017-01-01 23:53:32 URL:http://www.hopedale-ma.gov/node/736/minutes [63883] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/736/minutes" [1]
+2017-01-01 23:53:33 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/october_19_2016_zba_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:53:34 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/minutes/june_22_2016_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:53:36 URL:http://www.hopedale-ma.gov/zoning-board-appeals/pages/meeting-decisions [69801] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/3588" [1]
+2017-01-01 23:53:37 URL:http://www.hopedale-ma.gov/print/3588 [8055] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/3588" [1]
+2017-01-01 23:53:38 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/pages/wassarman_decision_june_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:53:38 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/pages/costa_decision_june_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:53:39 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/pages/pessotti_decision_oct_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:53:39 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/pages/cumberland_farms_decision_oct_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:53:41 URL:http://www.hopedale-ma.gov/where/2 [66514] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/where/2" [1]
+2017-01-01 23:53:43 URL:http://www.hopedale-ma.gov/where/a [67077] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/where/a" [1]
+2017-01-01 23:53:45 URL:http://www.hopedale-ma.gov/where/b [67224] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/where/b" [1]
+2017-01-01 23:53:47 URL:http://www.hopedale-ma.gov/where/c [67553] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/where/c" [1]
+2017-01-01 23:53:49 URL:http://www.hopedale-ma.gov/where/d [68201] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/where/d" [1]
+2017-01-01 23:53:51 URL:http://www.hopedale-ma.gov/where/e [66977] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/where/e" [1]
+2017-01-01 23:53:52 URL:http://www.hopedale-ma.gov/where/f [66771] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/where/f" [1]
+2017-01-01 23:53:55 URL:http://www.hopedale-ma.gov/where/g [66475] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/where/g" [1]
+2017-01-01 23:53:57 URL:http://www.hopedale-ma.gov/where/h [66728] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/where/h" [1]
+2017-01-01 23:53:59 URL:http://www.hopedale-ma.gov/where/i [66501] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/where/i" [1]
+2017-01-01 23:54:01 URL:http://www.hopedale-ma.gov/where/m [67043] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/where/m" [1]
+2017-01-01 23:54:03 URL:http://www.hopedale-ma.gov/where/o [67228] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/where/o" [1]
+2017-01-01 23:54:05 URL:http://www.hopedale-ma.gov/where/p [68081] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/where/p" [1]
+2017-01-01 23:54:07 URL:http://www.hopedale-ma.gov/where/r [67068] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/where/r" [1]
+2017-01-01 23:54:09 URL:http://www.hopedale-ma.gov/where/s [66737] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/where/s" [1]
+2017-01-01 23:54:11 URL:http://www.hopedale-ma.gov/where/t [67700] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/where/t" [1]
+2017-01-01 23:54:13 URL:http://www.hopedale-ma.gov/where/u [66496] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/where/u" [1]
+2017-01-01 23:54:15 URL:http://www.hopedale-ma.gov/where/v [66478] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/where/v" [1]
+2017-01-01 23:54:16 URL:http://www.hopedale-ma.gov/where/w [67003] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/where/w" [1]
+2017-01-01 23:54:18 URL:http://www.hopedale-ma.gov/where/z [66713] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/where/z" [1]
+2017-01-01 23:54:20 URL:http://www.hopedale-ma.gov/home/faq/where-do-i-go-apply-common-victualler-license [66148] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/home/faq/where-do-i-go-apply-common-victualler-license" [1]
+2017-01-01 23:54:21 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/deck_guidelines.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:54:22 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/demo_requirements.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:54:23 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/finished_basement_guide.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:54:24 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/may_17_2016_annual_town_meeting_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:54:26 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/pool_guidelines.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:54:27 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/talent_bank_form_updated_05-17-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:54:29 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/hopedale_zoning_by_laws_v2.0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:54:30 URL:http://www.hopedale-ma.gov/employment-volunteer [66577] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/3527" [1]
+2017-01-01 23:54:31 URL:http://www.hopedale-ma.gov/print/3527 [6533] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/3527" [1]
+2017-01-01 23:54:32 URL: http://www.hopedale-ma.gov/node/3527/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:54:35 URL:http://www.hopedale-ma.gov/home/faq/where-can-i-find-information-bellingham-hopedale-franklin-housing-rehabilitation-program [65606] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/home/faq/where-can-i-find-information-bellingham-hopedale-franklin-housing-rehabilitation-program" [1]
+2017-01-01 23:54:37 URL:http://www.hopedale-ma.gov/home/faq/where-do-i-go-if-i-am-interested-volunteering-board-or-committee [65986] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/home/faq/where-do-i-go-if-i-am-interested-volunteering-board-or-committee" [1]
+2017-01-01 23:54:39 URL:http://www.hopedale-ma.gov/home/news/board-health-meeting-cancelled-december-29-2016 [65174] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/23623" [1]
+2017-01-01 23:54:40 URL:http://www.hopedale-ma.gov/print/23623 [5992] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/23623" [1]
+2017-01-01 23:54:42 URL:http://www.hopedale-ma.gov/home/news/housing-rehabilitation-program-assistance [66089] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/22873" [1]
+2017-01-01 23:54:44 URL:http://www.hopedale-ma.gov/print/22873 [7003] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/22873" [1]
+2017-01-01 23:54:44 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/news/combined_outreach_docs_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:54:46 URL:http://www.hopedale-ma.gov/home/news/holiday-closing-town-hall-will-be-closed-january-2-2017 [65503] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/19233" [1]
+2017-01-01 23:54:47 URL:http://www.hopedale-ma.gov/print/19233 [6358] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/19233" [1]
+2017-01-01 23:54:49 URL:http://www.hopedale-ma.gov/home/news/2016-hopedale-hazard-mitigation-plan-draft-click-link-below [65555] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/19163" [1]
+2017-01-01 23:54:50 URL:http://www.hopedale-ma.gov/print/19163 [6329] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/19163" [1]
+2017-01-01 23:54:52 URL:http://www.hopedale-ma.gov/home/news/election-results [65969] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/18643" [1]
+2017-01-01 23:54:53 URL:http://www.hopedale-ma.gov/print/18643 [6905] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/18643" [1]
+2017-01-01 23:54:54 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/news/2016-11-08_general_election_results_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:54:54 URL: http://www.hopedale-ma.gov/node/1/news/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:54:56 URL:http://www.hopedale-ma.gov/home/news/supplemental-fuel-assistance [65764] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/home/news/supplemental-fuel-assistance" [1]
+2017-01-01 23:54:58 URL:http://www.hopedale-ma.gov/home/news/freedom-street-bridge-work-continues-please-check-back-further-details [65536] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/home/news/freedom-street-bridge-work-continues-please-check-back-further-details" [1]
+2017-01-01 23:55:00 URL:http://www.hopedale-ma.gov/home/news/national-grid-verizon-contact-numbers [66288] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/home/news/national-grid-verizon-contact-numbers" [1]
+2017-01-01 23:55:02 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16%2B20%2B17%2B19 [130551] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16+20+17+19.1" [1]
+2017-01-01 23:55:04 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16%2B20%2B17%2B19/day [68987] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16+20+17+19/day.1" [1]
+2017-01-01 23:55:06 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16%2B20%2B17%2B19/week [68998] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16+20+17+19/week" [1]
+2017-01-01 23:55:10 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16%2B20%2B17%2B19/year [181290] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16+20+17+19/year" [1]
+2017-01-01 23:55:12 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16%2B20%2B17%2B19/day/2017-01-01 [69080] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16+20+17+19/day/2017-01-01" [1]
+2017-01-01 23:55:14 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/events/21983 [69865] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/21983" [1]
+2017-01-01 23:55:16 URL:http://www.hopedale-ma.gov/print/21983 [6141] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/21983" [1]
+2017-01-01 23:55:18 URL:http://www.hopedale-ma.gov/home/events/23593 [65391] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/23593" [1]
+2017-01-01 23:55:20 URL:http://www.hopedale-ma.gov/print/23593 [6272] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/23593" [1]
+2017-01-01 23:55:21 URL:http://www.hopedale-ma.gov/home/events/23403 [68623] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/23403" [1]
+2017-01-01 23:55:22 URL:http://www.hopedale-ma.gov/print/23403 [9616] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/23403" [1]
+2017-01-01 23:55:25 URL:http://www.hopedale-ma.gov/home/agenda/school-committee-3 [66252] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/home/agenda/school-committee-3" [1]
+2017-01-01 23:55:25 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/agendas/20170103school.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:55:27 URL:http://www.hopedale-ma.gov/home/events/23443 [68634] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/23443" [1]
+2017-01-01 23:55:29 URL:http://www.hopedale-ma.gov/print/23443 [9629] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/23443" [1]
+2017-01-01 23:55:31 URL:http://www.hopedale-ma.gov/home/agenda/bvt-school-council-2 [66267] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/home/agenda/bvt-school-council-2" [1]
+2017-01-01 23:55:32 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/agendas/20170103bvtcouncil.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:55:36 URL:http://www.hopedale-ma.gov/administrator-selectmen/events/22123 [72374/72374] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/22123" [1]
+2017-01-01 23:55:38 URL:http://www.hopedale-ma.gov/print/22123 [9871] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/22123" [1]
+2017-01-01 23:55:38 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/agendas/20170103bosrev.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:55:40 URL:http://www.hopedale-ma.gov/planning-board/events/23493 [71223] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/23493" [1]
+2017-01-01 23:55:41 URL:http://www.hopedale-ma.gov/print/23493 [9686] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/23493" [1]
+2017-01-01 23:55:42 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/agendas/20170104pb.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:55:43 URL:http://www.hopedale-ma.gov/highway-department/events/23523 [71030] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/23523" [1]
+2017-01-01 23:55:45 URL:http://www.hopedale-ma.gov/print/23523 [9792] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/23523" [1]
+2017-01-01 23:55:45 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/agendas/20170104road.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:55:47 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16%2B20%2B17%2B19/day/2017-01-06 [69080] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16+20+17+19/day/2017-01-06" [1]
+2017-01-01 23:55:49 URL:http://www.hopedale-ma.gov/historical-commission/events/23553 [71094] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/23553" [1]
+2017-01-01 23:55:50 URL:http://www.hopedale-ma.gov/print/23553 [9774] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/23553" [1]
+2017-01-01 23:55:50 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/agendas/20170105hist.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:55:53 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16%2B20%2B17%2B19/day/2017-01-16 [69081] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16+20+17+19/day/2017-01-16" [1]
+2017-01-01 23:55:56 URL:http://www.hopedale-ma.gov/administrator-selectmen/events/22133 [68791/68791] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/22133" [1]
+2017-01-01 23:55:58 URL:http://www.hopedale-ma.gov/print/22133 [6154] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/22133" [1]
+2017-01-01 23:56:00 URL:http://www.hopedale-ma.gov/zoning-board-appeals/events/23573 [71399] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/23573" [1]
+2017-01-01 23:56:01 URL:http://www.hopedale-ma.gov/print/23573 [9915] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/23573" [1]
+2017-01-01 23:56:02 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/agendas/20170118zone_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:56:03 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16%2B20%2B17%2B19/day/2017-01-20 [69081] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16+20+17+19/day/2017-01-20" [1]
+2017-01-01 23:56:05 URL:http://www.hopedale-ma.gov/council-aging/events/23603 [72487] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/23603" [1]
+2017-01-01 23:56:07 URL:http://www.hopedale-ma.gov/print/23603 [9707] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/23603" [1]
+2017-01-01 23:56:07 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/agendas/20170119coa.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:56:09 URL:http://www.hopedale-ma.gov/home/events/23463 [68733] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/23463" [1]
+2017-01-01 23:56:10 URL:http://www.hopedale-ma.gov/print/23463 [9754] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/23463" [1]
+2017-01-01 23:56:12 URL:http://www.hopedale-ma.gov/home/agenda/bvt-policy-subcommittee-meeting-2 [66325] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/home/agenda/bvt-policy-subcommittee-meeting-2" [1]
+2017-01-01 23:56:13 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/agendas/20170119bvtpol.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:56:14 URL: http://www.hopedale-ma.gov/calendar-by-event-type/feed/16%2B20%2B17%2B19/2017-01 200 OK
+unlink: No such file or directory
+2017-01-01 23:56:17 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16%2B20%2B17%2B19/month/2016-12 [235271] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16+20+17+19/month/2016-12" [1]
+2017-01-01 23:56:19 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16%2B20%2B17%2B19/month/2017-02 [94861] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16+20+17+19/month/2017-02" [1]
+2017-01-01 23:56:20 URL: http://www.hopedale-ma.gov/calendar-by-event-type/feed/20/2017-01 200 OK
+unlink: No such file or directory
+2017-01-01 23:56:22 URL:http://www.hopedale-ma.gov/calendar-by-event-type/20/month [86784] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/20/month" [1]
+2017-01-01 23:56:24 URL:http://www.hopedale-ma.gov/calendar-by-event-type/20/week [68735] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/20/week" [1]
+2017-01-01 23:56:26 URL:http://www.hopedale-ma.gov/calendar-by-event-type/20/day [68724] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/20/day" [1]
+2017-01-01 23:56:29 URL:http://www.hopedale-ma.gov/calendar-by-event-type/20/year [169187] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/20/year" [1]
+2017-01-01 23:56:32 URL:http://www.hopedale-ma.gov/calendar-by-event-type/20/month/2016-12 [86727] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/20/month/2016-12" [1]
+2017-01-01 23:56:34 URL:http://www.hopedale-ma.gov/calendar-by-event-type/20/month/2017-02 [86969] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/20/month/2017-02" [1]
+2017-01-01 23:56:35 URL: http://www.hopedale-ma.gov/calendar-by-event-type/feed/16/2017-01 200 OK
+unlink: No such file or directory
+2017-01-01 23:56:38 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16/month [116475] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16/month" [1]
+2017-01-01 23:56:40 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16/week [68732] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16/week" [1]
+2017-01-01 23:56:43 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16/day [68721] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16/day" [1]
+2017-01-01 23:56:46 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16/year [179292] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16/year" [1]
+2017-01-01 23:56:48 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16/month/2016-12 [167153] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16/month/2016-12" [1]
+2017-01-01 23:56:50 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16/month/2017-02 [94520] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16/month/2017-02" [1]
+2017-01-01 23:56:52 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16/day/2017-01-03 [69220] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16/day/2017-01-03" [1]
+2017-01-01 23:56:55 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16/day/2017-01-04 [69546] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16/day/2017-01-04" [1]
+2017-01-01 23:56:57 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16/day/2017-01-05 [69221] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16/day/2017-01-05" [1]
+2017-01-01 23:56:59 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16/day/2017-01-17 [69221] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16/day/2017-01-17" [1]
+2017-01-01 23:57:01 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16/day/2017-01-18 [69239] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16/day/2017-01-18" [1]
+2017-01-01 23:57:04 URL:http://www.hopedale-ma.gov/calendar-by-event-type/16/day/2017-01-19 [69536] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/calendar-by-event-type/16/day/2017-01-19" [1]
+2017-01-01 23:57:04 URL: http://www.hopedale-ma.gov/node/711/events/feed/rss.xml/2017-01 200 OK
+unlink: No such file or directory
+2017-01-01 23:57:07 URL:http://www.hopedale-ma.gov/node/711/events/week [68318] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/711/events/week" [1]
+2017-01-01 23:57:09 URL:http://www.hopedale-ma.gov/node/711/events/day [68307] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/711/events/day" [1]
+2017-01-01 23:57:13 URL:http://www.hopedale-ma.gov/node/711/events/year [164424] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/711/events/year" [1]
+2017-01-01 23:57:15 URL:http://www.hopedale-ma.gov/node/711/events/upcoming [65756] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/711/events/upcoming" [1]
+2017-01-01 23:57:18 URL:http://www.hopedale-ma.gov/node/711/events/month/2016-12 [92817] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/711/events/month/2016-12" [1]
+2017-01-01 23:57:20 URL:http://www.hopedale-ma.gov/node/711/events/month/2017-02 [85919] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/711/events/month/2017-02" [1]
+2017-01-01 23:57:22 URL:http://www.hopedale-ma.gov/node/726/agenda [62962] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/726/agenda" [1]
+2017-01-01 23:57:24 URL:http://www.hopedale-ma.gov/node/601/files [69961] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/601/files" [1]
+2017-01-01 23:57:28 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/files/hopedale-application [70035] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/files/hopedale-application" [1]
+2017-01-01 23:57:30 URL:http://www.hopedale-ma.gov/bancroft-memorial-library/files/library-assistant-job-description [70125] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/bancroft-memorial-library/files/library-assistant-job-description" [1]
+2017-01-01 23:57:32 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/monthly_savings_calculator.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:57:33 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/meeting_room_reservation_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:57:35 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/meeting_room_policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:57:38 URL:http://www.hopedale-ma.gov/node/71/files [67520] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/71/files" [1]
+2017-01-01 23:57:41 URL:http://www.hopedale-ma.gov/node/61/files [69710] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/61/files" [1]
+2017-01-01 23:57:42 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/electrical_permit_fees_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:57:45 URL:http://www.hopedale-ma.gov/node/606/files [69094] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/606/files" [1]
+2017-01-01 23:57:47 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/may2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:57:49 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/blithewold2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:57:50 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/vacancies_on_committees-commissions_05-17-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:57:51 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/committee-commission_descriptions_atm_05-17-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:57:53 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/acct_asst_posting_2_may_25_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:57:54 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/boh_fiscal_year_2009.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:57:56 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/boh_fiscal_year_2008.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:57:57 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/coa_fiscal_year_2009.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:57:59 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/coa_fiscal_year_2008.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:58:02 URL:http://www.hopedale-ma.gov/node/696/files [69544] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/696/files" [1]
+2017-01-01 23:58:03 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/hopedale_design-mapping-sampling_report_2015-10-01.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:58:05 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/hopedale_weed_mapping_proposal_2015-09-30.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:58:06 URL: http://www.hopedale-ma.gov/sites/hopedalema/files/uploads/grant_application_narrative.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:58:08 URL:http://www.hopedale-ma.gov/node/711/files [67784] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/711/files" [1]
+2017-01-01 23:58:10 URL:http://www.hopedale-ma.gov/node/9/files [66626] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/9/files" [1]
+2017-01-01 23:58:12 URL:http://www.hopedale-ma.gov/home/pages/town-code-bylaws-and-zoning-bylaws [65436] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/14093" [1]
+2017-01-01 23:58:13 URL:http://www.hopedale-ma.gov/print/14093 [6188] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/14093" [1]
+2017-01-01 23:58:15 URL:http://www.hopedale-ma.gov/home/pages/website-disclaimer [64963] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/16" [1]
+2017-01-01 23:58:16 URL:http://www.hopedale-ma.gov/print/16 [5741] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/16" [1]
+2017-01-01 23:58:18 URL:http://www.hopedale-ma.gov/home/pages/privacy-statement [64964] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/node/136" [1]
+2017-01-01 23:58:19 URL:http://www.hopedale-ma.gov/print/136 [5734] -> "../data/townSites2/Hopedale/www.hopedale-ma.gov/print/136" [1]
+Found 2 broken links.
+
+http://www.hopedalepolice.com/
+http://www.hopedale-ma.gov/board-health/pages/construction-and-demolition-recycling-center-fee-schedule
+
+FINISHED --2017-01-01 23:58:19--
+Total wall clock time: 36m 51s
+Downloaded: 836 files, 52M in 6m 46s (131 KB/s)

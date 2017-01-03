@@ -1,0 +1,68 @@
+2017-01-01 22:03:23 URL:http://town.holland.ma.us/ [1154] -> "../data/townSites2/Holland/town.holland.ma.us/index.html" [1]
+2017-01-01 22:03:25 URL:http://town.holland.ma.us/Pages/index [47748] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/index" [1]
+2017-01-01 22:03:26 URL:http://town.holland.ma.us/Pages/HollandMA_WebDocs/directory [29648] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_WebDocs/directory" [1]
+2017-01-01 22:03:28 URL:http://town.holland.ma.us/Pages/HollandMA_WebDocs/online [21893] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_WebDocs/online" [1]
+2017-01-01 22:03:30 URL:http://town.holland.ma.us/Pages/HollandMA_MeetCal/ [42654] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_MeetCal" [1]
+2017-01-01 22:03:31 URL:http://town.holland.ma.us/Pages/HollandMA_WebDocs/forms [28005] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_WebDocs/forms" [1]
+2017-01-01 22:03:32 URL:http://town.holland.ma.us/Pages/HollandMA_WebDocs/faqs [31274] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_WebDocs/faqs" [1]
+2017-01-01 22:03:34 URL:http://town.holland.ma.us/Pages/HollandMA_WebDocs/sites [24576] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_WebDocs/sites" [1]
+2017-01-01 22:03:36 URL:http://town.holland.ma.us/Pages/HollandMA_WebDocs/contact [26339] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_WebDocs/contact" [1]
+2017-01-01 22:03:37 URL:http://town.holland.ma.us/subscriber [29773] -> "../data/townSites2/Holland/town.holland.ma.us/subscriber" [1]
+2017-01-01 22:03:39 URL:http://town.holland.ma.us/Pages/HollandMA_LakeInfo/index [39654] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_LakeInfo/index" [1]
+2017-01-01 22:03:41 URL:http://town.holland.ma.us/Pages/HollandMA_News/ [22834] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_News/index.html" [1]
+2017-01-01 22:03:41 URL: http://town.holland.ma.us/Pages/HollandMA_News/05852424-000F8513 200 OK
+unlink: No such file or directory
+2017-01-01 22:03:42 URL: http://town.holland.ma.us/Pages/HollandMA_News/0585190F-000F8513 200 OK
+unlink: No such file or directory
+2017-01-01 22:03:43 URL: http://town.holland.ma.us/Pages/HollandMA_News/0581833E-000F8513 200 OK
+unlink: No such file or directory
+2017-01-01 22:03:44 URL:http://town.holland.ma.us/Pages/HollandMA_News/05818310-000F8513 [19241] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_News/05818310-000F8513" [1]
+2017-01-01 22:03:46 URL:http://town.holland.ma.us/Pages/HollandMA_News/05772A33-000F8513 [17706] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_News/05772A33-000F8513" [1]
+2017-01-01 22:03:50 URL:http://town.holland.ma.us/Pages/search [42385] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/search" [1]
+2017-01-01 22:03:52 URL:http://town.holland.ma.us/Pages/HollandMA_WebDocs/disclaimer [20615] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_WebDocs/disclaimer" [1]
+2017-01-01 22:03:52 URL: http://town.holland.ma.us/Icons/0 200 OK
+unlink: No such file or directory
+2017-01-01 22:03:53 URL: http://town.holland.ma.us/Pages/HollandMA_WebDocs/directions.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:03:53 URL: http://town.holland.ma.us/Pages/HollandMA_BOS/finalHMP.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:03:55 URL:http://town.holland.ma.us/Pages/HollandMA_WebDocs/permits [20515] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_WebDocs/permits" [1]
+2017-01-01 22:03:57 URL:http://town.holland.ma.us/Pages/HollandMA_RecCal/ [31391] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_RecCal" [1]
+2017-01-01 22:03:59 URL:http://town.holland.ma.us/Pages/HollandMA_tax/taxinfo [20212] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_tax/taxinfo" [1]
+2017-01-01 22:04:02 URL:http://town.holland.ma.us/Pages/HollandMA_WebDocs/bylaws [19920] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_WebDocs/bylaws" [1]
+2017-01-01 22:04:12 URL:http://town.holland.ma.us/Pages/HollandMA_Transfer/index [26675] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_Transfer/index" [1]
+2017-01-01 22:04:14 URL:http://town.holland.ma.us/Pages/HollandMA_COA/index [32577] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_COA/index" [1]
+2017-01-01 22:04:16 URL:http://town.holland.ma.us/Pages/HollandMA_WebDocs/safety [20296] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_WebDocs/safety" [1]
+2017-01-01 22:04:17 URL:http://town.holland.ma.us/Pages/HollandMA_WebDocs/minutes [22691] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_WebDocs/minutes" [1]
+2017-01-01 22:04:19 URL:http://town.holland.ma.us/Pages/HollandMA_Jobs/ [19007] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_Jobs" [1]
+2017-01-01 22:04:21 URL:http://town.holland.ma.us/Pages/HollandMA_WebDocs/HWFE [20307] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_WebDocs/HWFE" [1]
+2017-01-01 22:04:22 URL:http://town.holland.ma.us/Pages/HollandMA_Outreach/oilheatcares [18422] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_Outreach/oilheatcares" [1]
+http://town.holland.ma.us/Pages/HollandMA_News/0574E437-000F8513:
+Remote file does not exist -- broken link!!!
+2017-01-01 22:04:23 URL: http://town.holland.ma.us/Pages/HollandMA_BOS/Guide_to_Town_Meetings.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:04:24 URL:http://town.holland.ma.us/Pages/HollandMA_WebDocs/trash [19422] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_WebDocs/trash" [1]
+2017-01-01 22:04:26 URL:http://town.holland.ma.us/Pages/HollandMA_Health/index [37844] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_Health/index" [1]
+2017-01-01 22:04:28 URL:http://town.holland.ma.us/Pages/HollandMA_WebDocs/services [19025] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_WebDocs/services" [1]
+2017-01-01 22:04:30 URL:http://town.holland.ma.us/Pages/HollandMA_Clerk/votereg [18449] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_Clerk/votereg" [1]
+2017-01-01 22:04:32 URL:http://town.holland.ma.us/Pages/HollandMA_School/index [25414] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_School/index" [1]
+2017-01-01 22:04:34 URL:http://town.holland.ma.us/Pages/HollandMA_Building/index [32241] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_Building/index" [1]
+2017-01-01 22:04:35 URL:http://town.holland.ma.us/Pages/HollandMA_Assessor/changerequest [29229] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_Assessor/changerequest" [1]
+2017-01-01 22:04:37 URL:http://town.holland.ma.us/Pages/HollandMA_Tax/new [29249] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_Tax/new" [1]
+2017-01-01 22:04:39 URL:http://town.holland.ma.us/Pages/HollandMA_StateNews/ [21368] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_StateNews" [1]
+2017-01-01 22:04:40 URL:http://town.holland.ma.us/Pages/HollandMA_Library/index [30179] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_Library/index" [1]
+2017-01-01 22:04:42 URL:http://town.holland.ma.us/Pages/HollandMA_Tax/index [31943] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_Tax/index" [1]
+2017-01-01 22:04:44 URL:http://town.holland.ma.us/Pages/HollandMA_Clerk/elected [47724] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_Clerk/elected" [1]
+2017-01-01 22:04:45 URL:http://town.holland.ma.us/Pages/HollandMA_WebDocs/maps [18451] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_WebDocs/maps" [1]
+2017-01-01 22:04:46 URL:http://town.holland.ma.us/Pages/HollandMA_WebDocs/townhistory [19315] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_WebDocs/townhistory" [1]
+2017-01-01 22:04:47 URL:http://town.holland.ma.us/Pages/HollandMA_Conservation/Wetlands [18089] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_Conservation/Wetlands" [1]
+2017-01-01 22:04:49 URL:http://town.holland.ma.us/Pages/HollandMA_finance/budget [19893] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_finance/budget" [1]
+2017-01-01 22:04:50 URL:http://town.holland.ma.us/Pages/HollandMA_Community/index [33195] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_Community/index" [1]
+2017-01-01 22:04:52 URL:http://town.holland.ma.us/Pages/HollandMA_Recreation/opps [20621] -> "../data/townSites2/Holland/town.holland.ma.us/Pages/HollandMA_Recreation/opps" [1]
+Found 1 broken link.
+
+http://town.holland.ma.us/Pages/HollandMA_News/0574E437-000F8513
+
+FINISHED --2017-01-01 22:04:52--
+Total wall clock time: 1m 30s
+Downloaded: 45 files, 1.1M in 31s (37.0 KB/s)

@@ -1,0 +1,632 @@
+2017-01-02 01:01:36 URL:http://colrain-ma.gov/ [49169] -> "../data/townSites2/Colrain/colrain-ma.gov/index.html" [1]
+2017-01-02 01:01:37 URL: http://colrain-ma.gov/templates/townwebsites_colrain2/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 01:01:39 URL:http://colrain-ma.gov/ [49169] -> "../data/townSites2/Colrain/colrain-ma.gov/index.php" [1]
+2017-01-02 01:01:40 URL:http://colrain-ma.gov/town-office.html [10854] -> "../data/townSites2/Colrain/colrain-ma.gov/town-office.html" [1]
+2017-01-02 01:01:41 URL:http://colrain-ma.gov/town-office/town-accountant.html [15793] -> "../data/townSites2/Colrain/colrain-ma.gov/town-office/town-accountant.html" [1]
+2017-01-02 01:01:43 URL:http://colrain-ma.gov/town-office/collector-treasurer.html [24330] -> "../data/townSites2/Colrain/colrain-ma.gov/town-office/collector-treasurer.html" [1]
+2017-01-02 01:01:45 URL:http://colrain-ma.gov/town-office/treasurer.html [11034] -> "../data/townSites2/Colrain/colrain-ma.gov/town-office/treasurer.html" [1]
+2017-01-02 01:01:46 URL:http://colrain-ma.gov/town-office/town-coordinator.html [12038] -> "../data/townSites2/Colrain/colrain-ma.gov/town-office/town-coordinator.html" [1]
+2017-01-02 01:01:48 URL:http://colrain-ma.gov/town-office/town-clerk.html [20216] -> "../data/townSites2/Colrain/colrain-ma.gov/town-office/town-clerk.html" [1]
+2017-01-02 01:01:50 URL:http://colrain-ma.gov/town-office/assessors.html [11283] -> "../data/townSites2/Colrain/colrain-ma.gov/town-office/assessors.html" [1]
+2017-01-02 01:01:51 URL:http://colrain-ma.gov/about.html [10541] -> "../data/townSites2/Colrain/colrain-ma.gov/about.html" [1]
+2017-01-02 01:01:52 URL:http://colrain-ma.gov/about/hours-and-directions.html [11613] -> "../data/townSites2/Colrain/colrain-ma.gov/about/hours-and-directions.html" [1]
+2017-01-02 01:01:54 URL:http://colrain-ma.gov/about/about-colrain.html [12174] -> "../data/townSites2/Colrain/colrain-ma.gov/about/about-colrain.html" [1]
+2017-01-02 01:01:56 URL:http://colrain-ma.gov/about/dairy-farms.html [10459] -> "../data/townSites2/Colrain/colrain-ma.gov/about/dairy-farms.html" [1]
+2017-01-02 01:01:57 URL:http://colrain-ma.gov/boards.html [11047] -> "../data/townSites2/Colrain/colrain-ma.gov/boards.html" [1]
+2017-01-02 01:01:58 URL:http://colrain-ma.gov/boards/board-of-health.html [11281] -> "../data/townSites2/Colrain/colrain-ma.gov/boards/board-of-health.html" [1]
+2017-01-02 01:01:59 URL:http://colrain-ma.gov/boards/conservation-commission.html [12101] -> "../data/townSites2/Colrain/colrain-ma.gov/boards/conservation-commission.html" [1]
+2017-01-02 01:02:01 URL:http://colrain-ma.gov/boards/council-on-aging.html [14783] -> "../data/townSites2/Colrain/colrain-ma.gov/boards/council-on-aging.html" [1]
+2017-01-02 01:02:02 URL:http://colrain-ma.gov/boards/finance-committee.html [14623] -> "../data/townSites2/Colrain/colrain-ma.gov/boards/finance-committee.html" [1]
+2017-01-02 01:02:04 URL:http://colrain-ma.gov/boards/personnel-committee.html [11046] -> "../data/townSites2/Colrain/colrain-ma.gov/boards/personnel-committee.html" [1]
+2017-01-02 01:02:05 URL:http://colrain-ma.gov/boards/planning-board.html [12556] -> "../data/townSites2/Colrain/colrain-ma.gov/boards/planning-board.html" [1]
+2017-01-02 01:02:07 URL:http://colrain-ma.gov/boards/select-board.html [48890] -> "../data/townSites2/Colrain/colrain-ma.gov/boards/select-board.html" [1]
+2017-01-02 01:02:08 URL:http://colrain-ma.gov/boards/zoning-board-of-appeals.html [11200] -> "../data/townSites2/Colrain/colrain-ma.gov/boards/zoning-board-of-appeals.html" [1]
+2017-01-02 01:02:09 URL:http://colrain-ma.gov/departments.html [11193] -> "../data/townSites2/Colrain/colrain-ma.gov/departments.html" [1]
+2017-01-02 01:02:10 URL:http://colrain-ma.gov/departments/police.html [11697] -> "../data/townSites2/Colrain/colrain-ma.gov/departments/police.html" [1]
+2017-01-02 01:02:12 URL:http://colrain-ma.gov/departments/schools.html [10938] -> "../data/townSites2/Colrain/colrain-ma.gov/departments/schools.html" [1]
+2017-01-02 01:02:13 URL:http://colrain-ma.gov/departments/animal-inspector-control.html [10896] -> "../data/townSites2/Colrain/colrain-ma.gov/departments/animal-inspector-control.html" [1]
+2017-01-02 01:02:14 URL:http://colrain-ma.gov/departments/building-inspector.html [12071] -> "../data/townSites2/Colrain/colrain-ma.gov/departments/building-inspector.html" [1]
+2017-01-02 01:02:16 URL:http://colrain-ma.gov/departments/electrical-inspector.html [11225] -> "../data/townSites2/Colrain/colrain-ma.gov/departments/electrical-inspector.html" [1]
+2017-01-02 01:02:17 URL:http://colrain-ma.gov/departments/plumbing-inspector.html [12023] -> "../data/townSites2/Colrain/colrain-ma.gov/departments/plumbing-inspector.html" [1]
+2017-01-02 01:02:19 URL:http://colrain-ma.gov/departments/emd.html [11094] -> "../data/townSites2/Colrain/colrain-ma.gov/departments/emd.html" [1]
+2017-01-02 01:02:20 URL:http://colrain-ma.gov/departments/fire.html [18327] -> "../data/townSites2/Colrain/colrain-ma.gov/departments/fire.html" [1]
+2017-01-02 01:02:21 URL:http://colrain-ma.gov/departments/highway-transfer-station.html [13899] -> "../data/townSites2/Colrain/colrain-ma.gov/departments/highway-transfer-station.html" [1]
+2017-01-02 01:02:23 URL:http://colrain-ma.gov/departments/library.html [13998] -> "../data/townSites2/Colrain/colrain-ma.gov/departments/library.html" [1]
+2017-01-02 01:02:24 URL:http://colrain-ma.gov/meetings-calendar.html [6575] -> "../data/townSites2/Colrain/colrain-ma.gov/meetings-calendar.html" [1]
+2017-01-02 01:02:25 URL:http://colrain-ma.gov/11-news/bulletins/170-griswold-memorial-library.html [11962] -> "../data/townSites2/Colrain/colrain-ma.gov/11-news/bulletins/170-griswold-memorial-library.html" [1]
+2017-01-02 01:02:27 URL:http://colrain-ma.gov/11-news/bulletins/169-legal-notice.html [13091] -> "../data/townSites2/Colrain/colrain-ma.gov/11-news/bulletins/169-legal-notice.html" [1]
+2017-01-02 01:02:28 URL:http://colrain-ma.gov/11-news/bulletins/165-tri-town-agriculture-survey.html [11728] -> "../data/townSites2/Colrain/colrain-ma.gov/11-news/bulletins/165-tri-town-agriculture-survey.html" [1]
+2017-01-02 01:02:30 URL:http://colrain-ma.gov/11-news/bulletins/168-master-road-scholar.html [12053] -> "../data/townSites2/Colrain/colrain-ma.gov/11-news/bulletins/168-master-road-scholar.html" [1]
+2017-01-02 01:02:31 URL:http://colrain-ma.gov/11-news/bulletins/167-making-a-request-for-public-records-in-massachusetts.html [16853] -> "../data/townSites2/Colrain/colrain-ma.gov/11-news/bulletins/167-making-a-request-for-public-records-in-massachusetts.html" [1]
+2017-01-02 01:02:32 URL:http://colrain-ma.gov/11-news/bulletins/160-broadband-update.html [11852] -> "../data/townSites2/Colrain/colrain-ma.gov/11-news/bulletins/160-broadband-update.html" [1]
+2017-01-02 01:02:34 URL:http://colrain-ma.gov/11-news/bulletins/159-colrain-broadband-update-3.html [13611] -> "../data/townSites2/Colrain/colrain-ma.gov/11-news/bulletins/159-colrain-broadband-update-3.html" [1]
+2017-01-02 01:02:36 URL:http://colrain-ma.gov/11-news/bulletins/157-property-cards-now-available-online.html [11385] -> "../data/townSites2/Colrain/colrain-ma.gov/11-news/bulletins/157-property-cards-now-available-online.html" [1]
+2017-01-02 01:02:37 URL:http://colrain-ma.gov/11-news/bulletins/156-proposed-highway-garage-reconstruction.html [12798] -> "../data/townSites2/Colrain/colrain-ma.gov/11-news/bulletins/156-proposed-highway-garage-reconstruction.html" [1]
+2017-01-02 01:02:37 URL: http://colrain-ma.gov/documents/ColrainSchematicDesign_withsitecontext.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:39 URL:http://colrain-ma.gov/11-news/bulletins/155-colrain-broadband-update-2.html [18577] -> "../data/townSites2/Colrain/colrain-ma.gov/11-news/bulletins/155-colrain-broadband-update-2.html" [1]
+2017-01-02 01:02:41 URL:http://colrain-ma.gov/11-news/bulletins/152-colrain-broadband-update.html [22283] -> "../data/townSites2/Colrain/colrain-ma.gov/11-news/bulletins/152-colrain-broadband-update.html" [1]
+2017-01-02 01:02:43 URL:http://colrain-ma.gov/11-news/bulletins/151-wired-west-refund-information.html [12494] -> "../data/townSites2/Colrain/colrain-ma.gov/11-news/bulletins/151-wired-west-refund-information.html" [1]
+2017-01-02 01:02:45 URL:http://colrain-ma.gov/11-news/bulletins/142-battery-recycling-and-proper-disposal.html [13564] -> "../data/townSites2/Colrain/colrain-ma.gov/11-news/bulletins/142-battery-recycling-and-proper-disposal.html" [1]
+2017-01-02 01:02:46 URL:http://colrain-ma.gov/11-news/bulletins/137-preliminary-village-center-intersection-design.html [13029] -> "../data/townSites2/Colrain/colrain-ma.gov/11-news/bulletins/137-preliminary-village-center-intersection-design.html" [1]
+2017-01-02 01:02:48 URL:http://colrain-ma.gov/11-news/bulletins/113-fact-sheet-on-proposed-village-center-sewer-system.html [12845] -> "../data/townSites2/Colrain/colrain-ma.gov/11-news/bulletins/113-fact-sheet-on-proposed-village-center-sewer-system.html" [1]
+2017-01-02 01:02:49 URL: http://colrain-ma.gov/documents/Sewer/ColrainProposedVillageCenterSewerSystem.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:51 URL:http://colrain-ma.gov/archived-news.html [61739] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news.html" [1]
+2017-01-02 01:02:52 URL:http://colrain-ma.gov/townpersonnel.html [10771] -> "../data/townSites2/Colrain/colrain-ma.gov/townpersonnel.html" [1]
+http://colrain-ma.gov/disclaimer.html:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:02:53 URL: http://colrain-ma.gov/documents/Accountant/ReimbursementPolicy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:54 URL: http://colrain-ma.gov/documents/Accountant/ElectronicInvoicePolicy121812.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:54 URL: http://colrain-ma.gov/documents/Accountant/BlankFormW9.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:54 URL: http://colrain-ma.gov/documents/Accountant/WorkersCompensationInsuranceAffidavit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:55 URL: http://colrain-ma.gov/documents/Accountant/MileageReimbursementForm2015.doc 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:55 URL: http://colrain-ma.gov/attachments/article/17/Colrain_July2016Final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:56 URL: http://colrain-ma.gov/attachments/article/17/Colrain_August2016Final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:56 URL: http://colrain-ma.gov/attachments/article/17/Colrain_September2016_Prelim.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:57 URL: http://colrain-ma.gov/attachments/article/17/Colrain_October2016_Prelim.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:57 URL: http://colrain-ma.gov/attachments/article/17/Colrain_November2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:58 URL: http://colrain-ma.gov/attachments/article/13/3%20Price%20Quote%20Tally%20Sheet%20(1).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:58 URL: http://colrain-ma.gov/documents/TownClerk/STM92712FY13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:58 URL: http://colrain-ma.gov/documents/TownClerk/STM82812FY13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:59 URL: http://colrain-ma.gov/documents/TownClerk/STM42513FY13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:59 URL: http://colrain-ma.gov/documents/TownClerk/ATE43013FY14WARRANT.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:59 URL: http://colrain-ma.gov/documents/TownClerk/ATMFY14WARRANT.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:00 URL: http://colrain-ma.gov/documents/TownClerk/ATMFY15WARRANT.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:00 URL: http://colrain-ma.gov/documents/TownClerk/ATMFY15asvoted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:00 URL: http://colrain-ma.gov/documents/TownClerk/nov2warrantSTM.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:00 URL: http://colrain-ma.gov/documents/TownClerk/STMFY17102016asvoted2ndmeeting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:01 URL: http://colrain-ma.gov/documents/TownClerk/businesscertificate.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:01 URL: http://colrain-ma.gov/documents/TownClerkDocumentsandForms/TownMeetingCitizensArticle.doc 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:02 URL:http://colrain-ma.gov/assessor-maps.html [20583] -> "../data/townSites2/Colrain/colrain-ma.gov/assessor-maps.html" [1]
+2017-01-02 01:03:03 URL: http://colrain-ma.gov/documents/BoardofHealth/septicsystemprocedures.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:03 URL: http://colrain-ma.gov/documents/CouncilonAging/COAMinutes122214.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:03 URL: http://colrain-ma.gov/documents/CouncilonAging/COAMinutes82514.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:03 URL: http://colrain-ma.gov/documents/CouncilonAging/COAminutes72814.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:04 URL: http://colrain-ma.gov/documents/CouncilonAging/COAMinutes51914.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:04 URL: http://colrain-ma.gov/documents/CouncilonAging/June2014newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:05 URL: http://colrain-ma.gov/documents/CouncilonAging/September2014newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:05 URL: http://colrain-ma.gov/documents/CouncilonAging/December2014newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:05 URL: http://colrain-ma.gov/documents/CouncilonAging/January2015newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:06 URL: http://colrain-ma.gov/documents/CouncilonAging/April2015Newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:06 URL: http://colrain-ma.gov/documents/CouncilonAging/August2015NewsLetter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:06 URL: http://colrain-ma.gov/documents/CouncilonAging/October2015NewsLetter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:07 URL: http://colrain-ma.gov/attachments/article/15/Request%20For%20Transfer%20From%20The%20Reserve%20Fund,%20Dec%2019,%202001.doc 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:07 URL: http://colrain-ma.gov/documents/PlanningBoard/CompleteColrainZoningBylaws_TownMeetingApproved_5912_withouttracking_incl.Sec.XIV_61812.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:07 URL: http://colrain-ma.gov/documents/PlanningBoard/ColrainSitePlanReviewapplicationapproved6612.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:08 URL: http://colrain-ma.gov/attachments/article/30/Complete%20Colrain%20Zoning%20Bylaws%205-6-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:08 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins112116.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:08 URL: http://colrain-ma.gov/documents/SelectBoard/selectmensminutes11916.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:09 URL: http://colrain-ma.gov/documents/SelectBoard/SelectmensMinutes101916.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:09 URL: http://colrain-ma.gov/documents/SelectBoard/SelectmensMinutes81016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:10 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins101216.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:10 URL: http://colrain-ma.gov/documents/SelectBoard/SelectmensMinutes92816.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:10 URL: http://colrain-ma.gov/documents/SelectBoard/830_Selectmensmins51916.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:11 URL: http://colrain-ma.gov/documents/SelectBoard/SelectmensMinutes91416.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:11 URL: http://colrain-ma.gov/documents/SelectBoard/selectmensmeetingminutes83116.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:11 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins82416.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:12 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins72716.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:12 URL: http://colrain-ma.gov/documents/SelectBoard/selectmensmeetingminutes71316.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:12 URL: http://colrain-ma.gov/documents/SelectBoard/9129_selectmensmeetingminutes71316.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:12 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins62016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:13 URL: http://colrain-ma.gov/documents/SelectBoard/SelectmensMeeting6616.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:13 URL: http://colrain-ma.gov/documents/SelectBoard/SelectmensMinutes61516final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:13 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins52316.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:14 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins51916.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:14 URL: http://colrain-ma.gov/documents/SelectBoard/SelectmensMinutes41916.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:14 URL: http://colrain-ma.gov/documents/SelectBoard/SelectmensMeetingMinutes4416.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:15 URL: http://colrain-ma.gov/documents/SelectBoard/BOSfinancemeeting32816.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:15 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins32116.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:15 URL: http://colrain-ma.gov/documents/SelectBoard/selectmensmeetingminutes316162.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:16 URL: http://colrain-ma.gov/documents/SelectBoard/BOSFinmeeting31416.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:16 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins22916.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:16 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins222162.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:17 URL: http://colrain-ma.gov/documents/SelectBoard/BOSfinancemeeting21715.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:17 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins2816.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:17 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins2116.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:18 URL: http://colrain-ma.gov/documents/SelectBoard/selectmensmeetingminutes12516.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:18 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins11916.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:18 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins10416.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:19 URL: http://colrain-ma.gov/documents/SelectBoard/selectmensmeetingminutes12715final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:19 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins112315.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:19 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins11915.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:20 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins102815.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:20 URL: http://colrain-ma.gov/documents/SelectBoard/selectmensMinutes101915.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:20 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins92915.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:21 URL: http://colrain-ma.gov/documents/SelectBoard/6037_Selectmensmins92915.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:21 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins92115.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:22 URL: http://colrain-ma.gov/documents/SelectBoard/8215_Selectmensmins92115.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:22 URL: http://colrain-ma.gov/documents/SelectBoard/8654_SelectmensMinutes91415workingcopyf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:22 URL: http://colrain-ma.gov/documents/SelectBoard/SelectmensMinutes91415workingcopyf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:23 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins82415.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:23 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins81015workingcopy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:23 URL: http://colrain-ma.gov/documents/SelectBoard/7419_Selectmensmins72015workingcopy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:24 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins72015workingcopy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:24 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins62215workingcopy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:24 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins682015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:27 URL: http://colrain-ma.gov/documents/SelectBoard/selectmensmins51815workingdocument.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:27 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins41315.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:28 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins4615final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:28 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins32315.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:28 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins3232015finalcopy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:29 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins3915.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:29 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins3215.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:30 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins3215workingdocument.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:30 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins12615.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:30 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins22315.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:31 URL: http://colrain-ma.gov/documents/SelectBoard/2246_Selectmensmins12615.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:31 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins81814.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:31 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins8414.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:32 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins72114.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:32 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins7714.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:32 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins63014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:33 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins62414.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:33 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins61614.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:33 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins6214.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:33 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins51914.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:34 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins5514.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:34 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins42814.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:34 URL: http://colrain-ma.gov/documents/SelectBoard/2604_Selectmensminutes4172014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:35 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins41414.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:35 URL: http://colrain-ma.gov/documents/SelectBoard/4330_Selectmensmins4714.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:35 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins31714.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:36 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins3314.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:36 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins22414.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:36 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins21014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:37 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins2314.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:37 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins12714.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:37 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins12114.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:37 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins1714.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:38 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins1614.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:38 URL: http://colrain-ma.gov/documents/SelectBoard/4036_Selectmensmins1614.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:38 URL: http://colrain-ma.gov/documents/SelectBoard/4708_Selectmensmins123013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:39 URL: http://colrain-ma.gov/documents/SelectBoard/7478_Selectmensmins121613.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:39 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins12213.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:39 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins111813.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:40 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins111313.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:40 URL: http://colrain-ma.gov/documents/SelectBoard/3209_Selectmensmins11413.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:40 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins102813.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:41 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins102113.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:41 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins101513.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:41 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins10713.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:41 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins92613.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:42 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins92313.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:42 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins91713.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:42 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins9913.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:43 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins81913.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:43 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins8513.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:43 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins72913.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:43 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins61713.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:44 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins6313.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:44 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins52013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:44 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins5613.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:44 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins42213.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:45 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins4813.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:45 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins4113.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:46 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins32513.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:46 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins31813.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:46 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins31113.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:46 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins3413.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:47 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins22513.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:47 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins22013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:48 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins21113.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:48 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins2413.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:48 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins13113.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:48 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins12313.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:48 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins11413.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:49 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins1713.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:49 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins12312.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:49 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensminutes111912.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:50 URL: http://colrain-ma.gov/documents/SelectBoard/ColrainSelectmensminutes11512.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:50 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensminutes101512.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:50 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensminutes10112.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:51 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensminutes92412.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:51 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensminutes91012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:51 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensminutes82812.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:52 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensminutes82012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:52 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensmins81312.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:52 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensminutes8612.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:52 URL: http://colrain-ma.gov/documents/SelectBoard/Selectmensminutes73012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:53 URL: http://colrain-ma.gov/documents/SelectBoard/mtgmins071612.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:53 URL: http://colrain-ma.gov/documents/SelectBoard/mtgmins070212.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:53 URL: http://colrain-ma.gov/documents/SelectBoard/mtgmins062512.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:53 URL: http://colrain-ma.gov/documents/SelectBoard/mtgmins061812.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:54 URL: http://colrain-ma.gov/documents/SelectBoard/mtgmins061112.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:54 URL: http://colrain-ma.gov/documents/SelectBoard/mtgmins060412.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:54 URL: http://colrain-ma.gov/documents/SelectBoard/mtgmins052112.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:55 URL: http://colrain-ma.gov/documents/SelectBoard/mtgmins051412.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:55 URL: http://colrain-ma.gov/documents/SelectBoard/mtgmins050712.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:55 URL: http://colrain-ma.gov/documents/SelectBoard/mtgmins042312.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:56 URL: http://colrain-ma.gov/documents/SelectBoard/mtgmins041912.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:56 URL: http://colrain-ma.gov/documents/SelectBoard/mtgmins040912.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:56 URL: http://colrain-ma.gov/documents/SelectBoard/mtgmins040212.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:57 URL: http://colrain-ma.gov/documents/SelectBoard/mtgmins032612.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:57 URL: http://colrain-ma.gov/documents/SelectBoard/mtgmins031912.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:57 URL: http://colrain-ma.gov/documents/SelectBoard/mtgmins031512.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:58 URL: http://colrain-ma.gov/documents/SelectBoard/mtgmins030512.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:58 URL: http://colrain-ma.gov/documents/SelectBoard/mtgmins022712.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:58 URL: http://colrain-ma.gov/documents/SelectBoard/mtgmins022212.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:59 URL: http://colrain-ma.gov/documents/SelectBoard/mtgmins021312.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:59 URL: http://colrain-ma.gov/documents/SelectBoard/mtgmins020612.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:59 URL: http://colrain-ma.gov/documents/SelectBoard/mtgmins013012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:00 URL: http://colrain-ma.gov/documents/SelectBoard/mtgmins011812.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:00 URL: http://colrain-ma.gov/documents/SelectBoard/mtgmins010912.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:00 URL: http://colrain-ma.gov/documents/SelectBoard/SolicitationPolicyrevision110311.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:00 URL: http://colrain-ma.gov/documents/SelectBoard/BYLAWSGENERAL.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:01 URL: http://colrain-ma.gov/documents/TownReports/Colrain2013AnnualReport.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:01 URL: http://colrain-ma.gov/documents/ZoningMaps/zoning_colr_5_8_12_reduced.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:02 URL: http://colrain-ma.gov/documents/BuildingInspector/appforpermittoinstroofing.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:03 URL: http://colrain-ma.gov/documents/BuildingInspector/applicationfordemopermit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:03 URL: http://colrain-ma.gov/documents/BuildingInspector/buildingpermitprocedure.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:03 URL: http://colrain-ma.gov/documents/BuildingInspector/workerscompensationaff.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:03 URL: http://colrain-ma.gov/documents/BuildingInspector/zoningbylawinfractioncomplaint.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:04 URL: http://colrain-ma.gov/documents/BuildingInspector/zoninigandconservationissues.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:04 URL: http://colrain-ma.gov/documents/BuildingInspector/ColrainOfficialZoning_5812_11x17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:04 URL: http://colrain-ma.gov/documents/BuildingInspector/7388_ApplicationforSolidFuelStoveChimneyorFireplace.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:05 URL: http://colrain-ma.gov/documents/BuildingInspector/applicationforbuildingpermit.doc 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:05 URL: http://colrain-ma.gov/attachments/article/31/Code%20Red%20Letter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:05 URL: http://colrain-ma.gov/attachments/article/21/Jan%20through%20March%2014%20call%20log%20(1).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:06 URL: http://colrain-ma.gov/attachments/article/21/April%2014%20Call%20Log.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:06 URL: http://colrain-ma.gov/attachments/article/21/May%2014%20Call%20Log.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:06 URL: http://colrain-ma.gov/attachments/article/21/June%202014%20Call%20Log.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:07 URL: http://colrain-ma.gov/attachments/article/21/July%2014%20call%20log.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:07 URL: http://colrain-ma.gov/attachments/article/21/August%2014%20Call%20Log.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:07 URL: http://colrain-ma.gov/attachments/article/21/September%2014%20Call%20Log.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:08 URL: http://colrain-ma.gov/attachments/article/21/October%2014%20Call%20Log.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:08 URL: http://colrain-ma.gov/attachments/article/21/Nov%2014%20Call%20Log.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:08 URL: http://colrain-ma.gov/documents/HighwayandRefuseDepartment/APPLICATIONFORCURBCUTPERMIT.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:09 URL: http://colrain-ma.gov/attachments/article/16/Colrain%20Transfer%20Station%20Info.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:09 URL: http://colrain-ma.gov/attachments/article/16/bulky%20item%20fee.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:09 URL: http://colrain-ma.gov/attachments/article/16/hazardous%20waste%20day2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:10 URL: http://colrain-ma.gov/documents/FireDepartment/rulesandregulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:10 URL: http://colrain-ma.gov/attachments/article/20/Did%20you%20know%20that%20you%20can%20borrow%20an%20eReader%20from%20this%20library.doc 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:10 URL: http://colrain-ma.gov/attachments/article/20/SummerFlyer2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:10 URL: http://colrain-ma.gov/attachments/article/20/Fun%20with%20LEGOS.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:11 URL: http://colrain-ma.gov/attachments/article/170/Annual%20Fund%20Flyer%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:12 URL: http://colrain-ma.gov/attachments/article/169/Morningstar%20Sealed%20Bid%20Terms%20and%20Conditions%20(002).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:12 URL: http://colrain-ma.gov/attachments/article/168/Master%20Road%20Scholar.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:12 URL: http://colrain-ma.gov/attachments/article/160/MBI%20Readiness%20Evaluation.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:12 URL: http://colrain-ma.gov/attachments/article/159/Bond%20Counsel%20letters.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:13 URL: http://colrain-ma.gov/attachments/article/156/SitePlan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:13 URL: http://colrain-ma.gov/attachments/article/142/All%20town%20BATTERY%20graphic%202014%20events.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:13 URL: http://colrain-ma.gov/attachments/article/142/FCSWMD.02.22.16.town%20newsletters.doc 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:14 URL: http://colrain-ma.gov/attachments/article/137/View%20from%20Above.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:14 URL: http://colrain-ma.gov/attachments/article/137/View%20from%20Main%20Road%20and%20Greenfield%20Road.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:14 URL: http://colrain-ma.gov/attachments/article/113/Fact%20Sheet%20on%20Proposed%20Village%20Center%20Sewer%20System.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:15 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/37-2013-gsfaba-scholarship.html [11940] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/37-2013-gsfaba-scholarship.html" [1]
+2017-01-02 01:04:17 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/110-2014-state-primary-remeber-to-vote.html [11524] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/110-2014-state-primary-remeber-to-vote.html" [1]
+2017-01-02 01:04:18 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/57-animal-invaders-sharing-spaces-program.html [11073] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/57-animal-invaders-sharing-spaces-program.html" [1]
+2017-01-02 01:04:19 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/58-annual-household-hazardous-waste-collection.html [11232] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/58-annual-household-hazardous-waste-collection.html" [1]
+2017-01-02 01:04:22 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/149-annual-household-hazardous-waste-collection-event.html [12642] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/149-annual-household-hazardous-waste-collection-event.html" [1]
+2017-01-02 01:04:23 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/125-annual-town-election-and-absentee-ballots.html [11213] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/125-annual-town-election-and-absentee-ballots.html" [1]
+2017-01-02 01:04:25 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/146-annual-town-meeting-warrant.html [13633] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/146-annual-town-meeting-warrant.html" [1]
+2017-01-02 01:04:26 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/124-annual-town-warrant-2015.html [11530] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/124-annual-town-warrant-2015.html" [1]
+2017-01-02 01:04:27 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/60-assessor-s-office-closed.html [10681] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/60-assessor-s-office-closed.html" [1]
+2017-01-02 01:04:29 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/69-assessors-maps.html [10672] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/69-assessors-maps.html" [1]
+2017-01-02 01:04:30 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/95-auction-of-property-town-of-colrain.html [12275] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/95-auction-of-property-town-of-colrain.html" [1]
+2017-01-02 01:04:32 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/70-building-inspector-s-hours.html [10767] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/70-building-inspector-s-hours.html" [1]
+2017-01-02 01:04:33 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/119-building-inspector-s-office-closed.html [10889] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/119-building-inspector-s-office-closed.html" [1]
+2017-01-02 01:04:34 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/115-bulky-waste-clean-sweep-collection.html [12170] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/115-bulky-waste-clean-sweep-collection.html" [1]
+2017-01-02 01:04:36 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/111-center-village-master-plan-visioning-session-2.html [14365] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/111-center-village-master-plan-visioning-session-2.html" [1]
+2017-01-02 01:04:37 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/40-chimney-sweep-repair-scam.html [12851] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/40-chimney-sweep-repair-scam.html" [1]
+2017-01-02 01:04:39 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/134-colrain-awarded-community-development-block-grant.html [11155] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/134-colrain-awarded-community-development-block-grant.html" [1]
+2017-01-02 01:04:40 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/61-colrain-earns-insurance-premium-credits-through-miia-rewards-program.html [12030] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/61-colrain-earns-insurance-premium-credits-through-miia-rewards-program.html" [1]
+2017-01-02 01:04:41 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/131-colrain-fire-and-ambulance-open-house.html [11147] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/131-colrain-fire-and-ambulance-open-house.html" [1]
+2017-01-02 01:04:43 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/90-pancake-breakfast-april-12-2014.html [12342] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/90-pancake-breakfast-april-12-2014.html" [1]
+2017-01-02 01:04:44 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/136-colrain-highway-facility-designer-services-rfq.html [11801] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/136-colrain-highway-facility-designer-services-rfq.html" [1]
+2017-01-02 01:04:46 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/71-colrain-highway-superintendent-completes-baystate-roads-scholar-program.html [11107] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/71-colrain-highway-superintendent-completes-baystate-roads-scholar-program.html" [1]
+2017-01-02 01:04:47 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/80-colrain-telephone-alert-system.html [12308] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/80-colrain-telephone-alert-system.html" [1]
+2017-01-02 01:04:48 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/77-colrain-town-center-sewer-study.html [11105] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/77-colrain-town-center-sewer-study.html" [1]
+2017-01-02 01:04:49 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/79-colrain-volunteer-ambulance-association-inc.html [11928] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/79-colrain-volunteer-ambulance-association-inc.html" [1]
+2017-01-02 01:04:51 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/123-community-development-block-grant-meeting-for-the-proposed-church-street-project.html [13070] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/123-community-development-block-grant-meeting-for-the-proposed-church-street-project.html" [1]
+2017-01-02 01:04:52 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/73-community-development-survey.html [11036] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/73-community-development-survey.html" [1]
+2017-01-02 01:04:53 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/91-community-partnership-meetings.html [11889] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/91-community-partnership-meetings.html" [1]
+2017-01-02 01:04:55 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/87-congratulations-to-our-assistant-assessor.html [10820] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/87-congratulations-to-our-assistant-assessor.html" [1]
+2017-01-02 01:04:56 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/68-congratulations-well-wishes-and-thanks-to-leah-coburn.html [11269] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/68-congratulations-well-wishes-and-thanks-to-leah-coburn.html" [1]
+2017-01-02 01:04:57 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/63-could-you-use-a-hot-meal-or-help-with-groceries.html [10870] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/63-could-you-use-a-hot-meal-or-help-with-groceries.html" [1]
+2017-01-02 01:04:59 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/106-dinner-on-the-covered-bridge.html [10965] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/106-dinner-on-the-covered-bridge.html" [1]
+2017-01-02 01:05:00 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/59-fall-clean-sweep-bulky-waste-collection.html [11392] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/59-fall-clean-sweep-bulky-waste-collection.html" [1]
+2017-01-02 01:05:02 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/105-federal-funding-for-community-improvements.html [12130] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/105-federal-funding-for-community-improvements.html" [1]
+2017-01-02 01:05:03 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/92-fire-department-call-log.html [13776] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/92-fire-department-call-log.html" [1]
+2017-01-02 01:05:05 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/114-fluvial-geomorphic-and-habitat-assessment-update-meeting.html [11808] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/114-fluvial-geomorphic-and-habitat-assessment-update-meeting.html" [1]
+2017-01-02 01:05:07 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/153-for-safety-sake-please-number-your-home.html [13500] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/153-for-safety-sake-please-number-your-home.html" [1]
+2017-01-02 01:05:08 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/148-franklin-county-clean-sweep-collections.html [11478] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/148-franklin-county-clean-sweep-collections.html" [1]
+2017-01-02 01:05:09 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/118-governor-patrick-announces-31-new-infrastructure-projects-funded.html [11805] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/118-governor-patrick-announces-31-new-infrastructure-projects-funded.html" [1]
+2017-01-02 01:05:12 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/109-hazardous-waste-collection-day-september-20th.html [12172] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/109-hazardous-waste-collection-day-september-20th.html" [1]
+2017-01-02 01:05:14 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/94-bridge-closed.html [10922] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/94-bridge-closed.html" [1]
+2017-01-02 01:05:15 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/75-home-for-the-holidays-auction.html [11928] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/75-home-for-the-holidays-auction.html" [1]
+2017-01-02 01:05:16 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/102-invitation-to-bid.html [13693] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/102-invitation-to-bid.html" [1]
+2017-01-02 01:05:19 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/88-jacksonville-road-bridge-project-notice-of-public-hearing.html [11957] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/88-jacksonville-road-bridge-project-notice-of-public-hearing.html" [1]
+2017-01-02 01:05:20 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/96-last-day-for-voter-registration.html [11604] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/96-last-day-for-voter-registration.html" [1]
+2017-01-02 01:05:22 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/93-library-news-did-you-know.html [11902] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/93-library-news-did-you-know.html" [1]
+2017-01-02 01:05:23 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/126-mbi-broadband-last-mile-project-guide.html [14478] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/126-mbi-broadband-last-mile-project-guide.html" [1]
+2017-01-02 01:05:25 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/85-new-highway-truck.html [10998] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/85-new-highway-truck.html" [1]
+2017-01-02 01:05:26 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/103-new-kithchen-compost-pails-available.html [12120] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/103-new-kithchen-compost-pails-available.html" [1]
+2017-01-02 01:05:27 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/66-north-river-project.html [12534] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/66-north-river-project.html" [1]
+2017-01-02 01:05:28 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/139-north-river-restoration-projects-grant-opportunity.html [12884] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/139-north-river-restoration-projects-grant-opportunity.html" [1]
+2017-01-02 01:05:30 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/138-office-closed-wednesday-november-25-2015.html [10875] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/138-office-closed-wednesday-november-25-2015.html" [1]
+2017-01-02 01:05:31 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/121-online-payment-notice.html [10881] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/121-online-payment-notice.html" [1]
+2017-01-02 01:05:32 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/62-pancake-breakfast.html [10868] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/62-pancake-breakfast.html" [1]
+2017-01-02 01:05:34 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/145-tax-title-march-25-2016.html [12770] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/145-tax-title-march-25-2016.html" [1]
+2017-01-02 01:05:35 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/133-public-meeting-village-center-intersection-redesign.html [11747] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/133-public-meeting-village-center-intersection-redesign.html" [1]
+2017-01-02 01:05:36 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/128-public-notice-jacksonville-road-project.html [11135] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/128-public-notice-jacksonville-road-project.html" [1]
+2017-01-02 01:05:38 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/45-rabies-clinic.html [11006] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/45-rabies-clinic.html" [1]
+2017-01-02 01:05:39 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/89-rabies-clinic-march-29-2014.html [11422] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/89-rabies-clinic-march-29-2014.html" [1]
+2017-01-02 01:05:40 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/122-real-estate-auction.html [11392] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/122-real-estate-auction.html" [1]
+2017-01-02 01:05:42 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/116-recycling-collection-day.html [11732] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/116-recycling-collection-day.html" [1]
+2017-01-02 01:05:43 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/81-representative-paul-mark-holds-office-hours.html [10967] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/81-representative-paul-mark-holds-office-hours.html" [1]
+2017-01-02 01:05:44 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/86-river-street-reconstruction-project-walking-tour.html [12787] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/86-river-street-reconstruction-project-walking-tour.html" [1]
+2017-01-02 01:05:46 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/112-road-improvements-underway.html [12373] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/112-road-improvements-underway.html" [1]
+2017-01-02 01:05:47 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/154-selectmen-seeking-candidates.html [11169] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/154-selectmen-seeking-candidates.html" [1]
+2017-01-02 01:05:48 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/147-selectmen-s-meeting-change.html [10750] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/147-selectmen-s-meeting-change.html" [1]
+2017-01-02 01:05:49 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/107-selectmen-s-meeting-with-senator-rosenberg-and-representative-mark.html [11101] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/107-selectmen-s-meeting-with-senator-rosenberg-and-representative-mark.html" [1]
+2017-01-02 01:05:51 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/144-solarize-mass-shelburne-colrain-conway.html [13020] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/144-solarize-mass-shelburne-colrain-conway.html" [1]
+2017-01-02 01:05:52 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/150-solarize-mass-meet-the-installers.html [11496] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/150-solarize-mass-meet-the-installers.html" [1]
+2017-01-02 01:05:54 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/120-special-town-meeting-nov2014.html [11387] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/120-special-town-meeting-nov2014.html" [1]
+2017-01-02 01:05:56 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/82-special-town-meeting.html [11578] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/82-special-town-meeting.html" [1]
+2017-01-02 01:05:57 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/135-special-town-meeting-10-5-2015.html [11472] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/135-special-town-meeting-10-5-2015.html" [1]
+2017-01-02 01:05:59 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/161-special-town-meeting-11-2-16.html [11583] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/161-special-town-meeting-11-2-16.html" [1]
+2017-01-02 01:06:00 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/129-special-town-meeting-fy-16.html [11856] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/129-special-town-meeting-fy-16.html" [1]
+2017-01-02 01:06:02 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/158-stm-10-20-16.html [11628] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/158-stm-10-20-16.html" [1]
+2017-01-02 01:06:04 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/99-special-town-warrant-and-annual-town-warrant.html [12130] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/99-special-town-warrant-and-annual-town-warrant.html" [1]
+2017-01-02 01:06:05 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/98-spring-hours-begin-at-the-transfer-station.html [10911] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/98-spring-hours-begin-at-the-transfer-station.html" [1]
+2017-01-02 01:06:07 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/65-summer-hours-end-at-transfer-station.html [10813] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/65-summer-hours-end-at-transfer-station.html" [1]
+2017-01-02 01:06:08 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/130-summer-reading-events.html [13879] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/130-summer-reading-events.html" [1]
+2017-01-02 01:06:10 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/56-tax-collector-treasurers-notice.html [10763] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/56-tax-collector-treasurers-notice.html" [1]
+2017-01-02 01:06:11 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/8-taxes-due-november-1st.html [11248] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/8-taxes-due-november-1st.html" [1]
+2017-01-02 01:06:13 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/104-thank-you-to-jack-cavolick-animal-control-officer-scott-sullivan-highway-superintendent-and-colrain-fire-department.html [12868] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/104-thank-you-to-jack-cavolick-animal-control-officer-scott-sullivan-highway-superintendent-and-colrain-fire-department.html" [1]
+2017-01-02 01:06:14 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/84-the-carl-h-nilman-scholarship-fund.html [11451] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/84-the-carl-h-nilman-scholarship-fund.html" [1]
+2017-01-02 01:06:16 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/143-the-massachusetts-department-of-environmental-protections-damage-assessment-grant-application-and-announcement.html [14998] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/143-the-massachusetts-department-of-environmental-protections-damage-assessment-grant-application-and-announcement.html" [1]
+2017-01-02 01:06:17 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/83-the-transfer-station-will-be-closed-january-4-2014.html [10854] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/83-the-transfer-station-will-be-closed-january-4-2014.html" [1]
+2017-01-02 01:06:18 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/64-town-hall-has-been-painted.html [10894] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/64-town-hall-has-been-painted.html" [1]
+2017-01-02 01:06:20 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/97-town-report-2013.html [10680] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/97-town-report-2013.html" [1]
+2017-01-02 01:06:21 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/76-transcanada-donates-1-000-to-the-colrain-fire-department.html [11295] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/76-transcanada-donates-1-000-to-the-colrain-fire-department.html" [1]
+2017-01-02 01:06:22 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/108-transfer-station-hours.html [11041] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/108-transfer-station-hours.html" [1]
+2017-01-02 01:06:24 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/141-veterans-town-hall-health-and-benefits.html [11087] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/141-veterans-town-hall-health-and-benefits.html" [1]
+2017-01-02 01:06:25 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/140-voter-registration-information.html [14591] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/140-voter-registration-information.html" [1]
+2017-01-02 01:06:26 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/27-wired-west-survey.html [11404] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/27-wired-west-survey.html" [1]
+2017-01-02 01:06:28 URL:http://colrain-ma.gov/archived-news/11-news/bulletins/117-wood-pellet-bag-recycling-program.html [11622] -> "../data/townSites2/Colrain/colrain-ma.gov/archived-news/11-news/bulletins/117-wood-pellet-bag-recycling-program.html" [1]
+Found 1 broken link.
+
+http://colrain-ma.gov/disclaimer.html
+
+FINISHED --2017-01-02 01:06:28--
+Total wall clock time: 4m 53s
+Downloaded: 145 files, 1.8M in 2.2s (855 KB/s)

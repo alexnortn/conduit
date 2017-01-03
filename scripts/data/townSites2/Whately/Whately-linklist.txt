@@ -1,0 +1,978 @@
+2017-01-02 06:37:11 URL:http://www.whately.org/ [83981] -> "../data/townSites2/Whately/www.whately.org/index.html" [1]
+2017-01-02 06:37:11 URL: http://www.whately.org/sites/whatelyma/themes/vts/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 06:37:13 URL:http://www.whately.org/about-whately [57400] -> "../data/townSites2/Whately/www.whately.org/about-whately" [1]
+2017-01-02 06:37:14 URL:http://www.whately.org/about-whately/pages/attractions [53277] -> "../data/townSites2/Whately/www.whately.org/about-whately/pages/attractions" [1]
+2017-01-02 06:37:15 URL:http://www.whately.org/about-whately/pages/business-directory [55601] -> "../data/townSites2/Whately/www.whately.org/about-whately/pages/business-directory" [1]
+2017-01-02 06:37:18 URL:http://www.whately.org/town-administrator-selectboard/pages/employment [51400] -> "../data/townSites2/Whately/www.whately.org/about-whately/links/employment" [1]
+2017-01-02 06:37:19 URL:http://www.whately.org/about-whately/pages/notify-me [52740] -> "../data/townSites2/Whately/www.whately.org/about-whately/pages/notify-me" [1]
+2017-01-02 06:37:22 URL:http://www.whately.org/calendar [96449] -> "../data/townSites2/Whately/www.whately.org/about-whately/links/town-calendar" [1]
+2017-01-02 06:37:23 URL:http://www.whately.org/about-whately/pages/useful-links [55590] -> "../data/townSites2/Whately/www.whately.org/about-whately/pages/useful-links" [1]
+2017-01-02 06:37:24 URL:http://www.whately.org/departments [61069] -> "../data/townSites2/Whately/www.whately.org/departments" [1]
+2017-01-02 06:37:26 URL:http://www.whately.org/animal-control [53870] -> "../data/townSites2/Whately/www.whately.org/animal-control" [1]
+2017-01-02 06:37:30 URL:http://fcrdogkennel.org/ [54026] -> "../data/townSites2/Whately/www.whately.org/animal-control/links/franklin-county-sheriffs-office-regional-dog-shelter-website" [1]
+2017-01-02 06:37:32 URL:http://www.whately.org/assessors [68861] -> "../data/townSites2/Whately/www.whately.org/assessors" [1]
+2017-01-02 06:37:33 URL: http://www.whately.org/sites/whatelyma/files/uploads/chapter_acknowledgement._61.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:37:35 URL:http://www.stanrosenberg.com/article/15th-anniversary-circuit-breaker-tax-relief-massachusetts-senior-citizens [6563/6563] -> "../data/townSites2/Whately/www.whately.org/assessors/links/information-circuit-breaker-tax-credit-seniors" [1]
+2017-01-02 06:37:37 URL:https://www.axisgis.com/WhatelyMA/ [24693/24693] -> "../data/townSites2/Whately/www.whately.org/assessors/links/online-maps-property-cards" [1]
+2017-01-02 06:37:39 URL:http://www.whately.org/building-inspector [56921] -> "../data/townSites2/Whately/www.whately.org/building-inspector" [1]
+2017-01-02 06:37:41 URL:http://www.whately.org/council-aging [69868] -> "../data/townSites2/Whately/www.whately.org/council-aging" [1]
+2017-01-02 06:37:43 URL:http://www.whately.org/council-aging/pages/newsletter [51378] -> "../data/townSites2/Whately/www.whately.org/council-aging/pages/newsletter" [1]
+2017-01-02 06:37:44 URL:http://www.whately.org/council-aging/pages/other-resources [52414] -> "../data/townSites2/Whately/www.whately.org/council-aging/pages/other-resources" [1]
+2017-01-02 06:37:45 URL:http://www.whately.org/council-aging/pages/senior-center-daily-activities [53722] -> "../data/townSites2/Whately/www.whately.org/council-aging/pages/senior-center-daily-activities" [1]
+2017-01-02 06:37:47 URL:http://www.whately.org/cemeteries [66498] -> "../data/townSites2/Whately/www.whately.org/cemeteries" [1]
+2017-01-02 06:37:49 URL:http://www.whately.org/cemeteries/pages/commissions-blog [50597] -> "../data/townSites2/Whately/www.whately.org/cemeteries/pages/commissions-blog" [1]
+2017-01-02 06:37:50 URL:http://www.whately.org/cemeteries/pages/whately-cemetery-guidelines [50427] -> "../data/townSites2/Whately/www.whately.org/cemeteries/pages/whately-cemetery-guidelines" [1]
+2017-01-02 06:37:52 URL:http://www.whately.org/emergency-management [64783] -> "../data/townSites2/Whately/www.whately.org/emergency-management" [1]
+2017-01-02 06:37:54 URL:http://frcog.org/boards-committees/franklin-county-emergency-communications-system-oversight-committee/ [45067] -> "../data/townSites2/Whately/www.whately.org/emergency-management/links/franklin-county-emergency-communications-system-fcecs-oversight-committee" [1]
+2017-01-02 06:37:57 URL:http://frcog.org/boards-committees/franklin-county-regional-emergency-planning-committee/ [57168] -> "../data/townSites2/Whately/www.whately.org/emergency-management/links/franklin-county-regional-emergency-planning-committee" [1]
+2017-01-02 06:38:00 URL:http://frcog.org/multi-hazard-mitigation-planning/ [42486] -> "../data/townSites2/Whately/www.whately.org/emergency-management/links/multi-hazard-mitigation-planning" [1]
+2017-01-02 06:38:02 URL:http://www.whately.org/fire-department [67871] -> "../data/townSites2/Whately/www.whately.org/fire-department" [1]
+2017-01-02 06:38:03 URL:http://www.whately.org/fire-department/pages/burn-permits [51807] -> "../data/townSites2/Whately/www.whately.org/fire-department/pages/burn-permits" [1]
+2017-01-02 06:38:05 URL:http://www.whately.org/board-healthfoothills-health-district [71700] -> "../data/townSites2/Whately/www.whately.org/board-healthfoothills-health-district" [1]
+2017-01-02 06:38:07 URL:http://www.whately.org/highway-department [55034] -> "../data/townSites2/Whately/www.whately.org/highway-department" [1]
+2017-01-02 06:38:08 URL:http://www.whately.org/highway-department/pages/forms-documents [52049] -> "../data/townSites2/Whately/www.whately.org/highway-department/pages/forms-documents" [1]
+2017-01-02 06:38:09 URL:http://www.whately.org/library [74534] -> "../data/townSites2/Whately/www.whately.org/library" [1]
+2017-01-02 06:38:10 URL: http://www.whately.org/sites/whatelyma/files/uploads/events_11-18.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:38:12 URL: http://www.whately.org/sites/whatelyma/files/uploads/friends_membership.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:38:13 URL:http://www.whately.org/library/pages/friends-library [53637] -> "../data/townSites2/Whately/www.whately.org/library/pages/friends-library" [1]
+2017-01-02 06:38:15 URL:http://www.whately.org/library/pages/museum-and-park-passes [52419] -> "../data/townSites2/Whately/www.whately.org/library/pages/museum-and-park-passes" [1]
+2017-01-02 06:38:17 URL:http://bark.cwmars.org/eg/opac/home [116363] -> "../data/townSites2/Whately/www.whately.org/library/links/online-catalogue" [1]
+2017-01-02 06:38:18 URL:http://mblc.state.ma.us/grants/licenses/links/links.php?locid=mlin_w_swhite [59655] -> "../data/townSites2/Whately/www.whately.org/library/links/online-databases" [1]
+2017-01-02 06:38:20 URL:http://www.whately.org/library/pages/use-library-facilities [53635] -> "../data/townSites2/Whately/www.whately.org/library/pages/use-library-facilities" [1]
+2017-01-02 06:38:22 URL:http://www.whately.org/police-department [59006] -> "../data/townSites2/Whately/www.whately.org/police-department" [1]
+2017-01-02 06:38:23 URL:http://www.whately.org/police-department/pages/additional-links [53250] -> "../data/townSites2/Whately/www.whately.org/police-department/pages/additional-links" [1]
+2017-01-02 06:38:26 URL:http://www.whately.org/police-department/webforms/contact-police-department [66655/66655] -> "../data/townSites2/Whately/www.whately.org/police-department/webforms/contact-police-department" [1]
+2017-01-02 06:38:27 URL:http://www.whately.org/police-department/pages/firearms-information [56839] -> "../data/townSites2/Whately/www.whately.org/police-department/pages/firearms-information" [1]
+2017-01-02 06:38:29 URL:http://www.whately.org/police-department/pages/forms-applications [53038] -> "../data/townSites2/Whately/www.whately.org/police-department/pages/forms-applications" [1]
+2017-01-02 06:38:30 URL:http://www.whately.org/police-department/slideshows/gallery [54738] -> "../data/townSites2/Whately/www.whately.org/police-department/slideshows/gallery" [1]
+2017-01-02 06:38:32 URL:http://www.whately.org/police-department/pages/kids-corner [53901] -> "../data/townSites2/Whately/www.whately.org/police-department/pages/kids-corner" [1]
+2017-01-02 06:38:33 URL:http://www.whately.org/police-department/pages/northwestern-district-attorney-office [52962] -> "../data/townSites2/Whately/www.whately.org/police-department/pages/northwestern-district-attorney-office" [1]
+2017-01-02 06:38:35 URL:http://www.whately.org/police-department/pages/whats-new [53036] -> "../data/townSites2/Whately/www.whately.org/police-department/pages/whats-new" [1]
+2017-01-02 06:38:37 URL:http://www.whately.org/schools-and-school-committees [68456] -> "../data/townSites2/Whately/www.whately.org/schools-and-school-committees" [1]
+2017-01-02 06:38:38 URL:http://www.whately.org/schools-and-school-committees/pages/district-information [55358] -> "../data/townSites2/Whately/www.whately.org/schools-and-school-committees/pages/district-information" [1]
+2017-01-02 06:38:40 URL:http://www.fcts.org/ [64407/64407] -> "../data/townSites2/Whately/www.whately.org/schools-and-school-committees/links/schools-franklin-regional-technical-school" [1]
+2017-01-02 06:38:41 URL:http://www.whately.org/schools-and-school-committees/pages/schools-frontier-regional [56742] -> "../data/townSites2/Whately/www.whately.org/schools-and-school-committees/pages/schools-frontier-regional" [1]
+2017-01-02 06:38:43 URL:http://www.whately.org/schools-and-school-committees/pages/schools-whately-elementary [55986] -> "../data/townSites2/Whately/www.whately.org/schools-and-school-committees/pages/schools-whately-elementary" [1]
+2017-01-02 06:38:44 URL:http://www.whately.org/schools-and-school-committees/pages/useful-links-resources [52572] -> "../data/townSites2/Whately/www.whately.org/schools-and-school-committees/pages/useful-links-resources" [1]
+2017-01-02 06:38:46 URL:http://www.whately.org/town-accountant [54597] -> "../data/townSites2/Whately/www.whately.org/town-accountant" [1]
+2017-01-02 06:38:47 URL:http://www.whately.org/town-administrator-selectboard [73371] -> "../data/townSites2/Whately/www.whately.org/town-administrator-selectboard" [1]
+2017-01-02 06:38:48 URL:http://www.whately.org/town-administrator-selectboard/pages/employment [51400] -> "../data/townSites2/Whately/www.whately.org/town-administrator-selectboard/pages/employment" [1]
+2017-01-02 06:38:49 URL:http://www.whately.org/town-administrator-selectboard/pages/forms-documents [51263] -> "../data/townSites2/Whately/www.whately.org/town-administrator-selectboard/pages/forms-documents" [1]
+2017-01-02 06:38:51 URL:http://www.whately.org/town-clerkboard-registrars [71592] -> "../data/townSites2/Whately/www.whately.org/town-clerkboard-registrars" [1]
+2017-01-02 06:38:53 URL:http://www.whately.org/town-clerk/pages/2016-town-election-calendar [52899] -> "../data/townSites2/Whately/www.whately.org/town-clerk/pages/2016-town-election-calendar" [1]
+2017-01-02 06:38:54 URL:http://www.whately.org/town-clerk/pages/annual-town-reports [53025] -> "../data/townSites2/Whately/www.whately.org/town-clerk/pages/annual-town-reports" [1]
+2017-01-02 06:38:56 URL:http://www.whately.org/town-clerk/pages/dog-licenses-vital-records [52646] -> "../data/townSites2/Whately/www.whately.org/town-clerk/pages/dog-licenses-vital-records" [1]
+2017-01-02 06:38:57 URL:http://www.whately.org/town-clerkboard-registrars/pages/election-warrants-results [56107] -> "../data/townSites2/Whately/www.whately.org/town-clerkboard-registrars/pages/election-warrants-results" [1]
+2017-01-02 06:38:58 URL:http://www.whately.org/town-clerk/pages/elections-registration-information [53566] -> "../data/townSites2/Whately/www.whately.org/town-clerk/pages/elections-registration-information" [1]
+2017-01-02 06:39:00 URL:http://www.whately.org/town-clerk/pages/fishing-hunting-or-sporting-licenses [52654] -> "../data/townSites2/Whately/www.whately.org/town-clerk/pages/fishing-hunting-or-sporting-licenses" [1]
+2017-01-02 06:39:01 URL:http://www.whately.org/town-clerkboard-registrars/pages/forms-applications [53114] -> "../data/townSites2/Whately/www.whately.org/town-clerkboard-registrars/pages/forms-applications" [1]
+2017-01-02 06:39:03 URL:http://www.whately.org/town-clerkboard-registrars/pages/town-meeting-warrants [55693] -> "../data/townSites2/Whately/www.whately.org/town-clerkboard-registrars/pages/town-meeting-warrants" [1]
+2017-01-02 06:39:05 URL:http://www.whately.org/transfer-station [56133] -> "../data/townSites2/Whately/www.whately.org/transfer-station" [1]
+2017-01-02 06:39:06 URL:http://www.franklincountywastedistrict.org/ [73636/73636] -> "../data/townSites2/Whately/www.whately.org/transfer-station/links/franklin-county-solid-waste-management-district" [1]
+2017-01-02 06:39:07 URL:http://www.whately.org/transfer-station/pages/household-hazardous-waste-collections [52472] -> "../data/townSites2/Whately/www.whately.org/transfer-station/pages/household-hazardous-waste-collections" [1]
+2017-01-02 06:39:09 URL:http://www.whately.org/transfer-station/pages/sharps-collection [52890] -> "../data/townSites2/Whately/www.whately.org/transfer-station/pages/sharps-collection" [1]
+2017-01-02 06:39:09 URL: http://www.whately.org/sites/whatelyma/files/uploads/do_and_not_of_recyling.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:39:11 URL:http://www.masslive.com/living/index.ssf/2013/07/whately_bear_path_farm_mark_10th_anniversary_of_successful_municipal_compost_program.html [103844] -> "../data/townSites2/Whately/www.whately.org/transfer-station/links/whatelys-municipal-compost-program" [1]
+2017-01-02 06:39:12 URL:http://www.whately.org/treasurer-collector [55902] -> "../data/townSites2/Whately/www.whately.org/treasurer-collector" [1]
+2017-01-02 06:39:14 URL:http://www.stanrosenberg.com/article/15th-anniversary-circuit-breaker-tax-relief-massachusetts-senior-citizens [784/784] -> "../data/townSites2/Whately/www.whately.org/treasurer-collector/links/information-circuit-breaker-tax-credit-seniors" [1]
+2017-01-02 06:39:17 URL:https://unipaygold.unibank.com/default.aspx [101065/101065] -> "../data/townSites2/Whately/www.whately.org/treasurer-collector/links/online-tax-payments" [1]
+2017-01-02 06:39:19 URL:http://www.whately.org/water-department [72460] -> "../data/townSites2/Whately/www.whately.org/water-department" [1]
+2017-01-02 06:39:21 URL:http://www.whately.org/water-department/pages/water-department-consumer-awareness-reports [52442] -> "../data/townSites2/Whately/www.whately.org/water-department/pages/water-department-consumer-awareness-reports" [1]
+2017-01-02 06:39:22 URL:http://www.whately.org/boards [61445] -> "../data/townSites2/Whately/www.whately.org/boards" [1]
+2017-01-02 06:39:24 URL:http://www.whately.org/agriculture-commission [64880] -> "../data/townSites2/Whately/www.whately.org/agriculture-commission" [1]
+2017-01-02 06:39:26 URL:http://www.whately.org/board-health/pages/forms-applications [52374] -> "../data/townSites2/Whately/www.whately.org/board-health/pages/forms-applications" [1]
+2017-01-02 06:39:27 URL:http://www.whately.org/board-health/pages/mosquito-west-nile-virus-and-eee-information [52326] -> "../data/townSites2/Whately/www.whately.org/board-health/pages/mosquito-west-nile-virus-and-eee-information" [1]
+2017-01-02 06:39:29 URL:http://www.whately.org/board-health/pages/regulation-governing-outdoor-wood-burning-furnaces [53128] -> "../data/townSites2/Whately/www.whately.org/board-health/pages/regulation-governing-outdoor-wood-burning-furnaces" [1]
+2017-01-02 06:39:30 URL: http://www.whately.org/sites/whatelyma/files/uploads/whately_tobacco_sales2012-final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:39:32 URL:http://www.whately.org/budget-planning [72620] -> "../data/townSites2/Whately/www.whately.org/budget-planning" [1]
+2017-01-02 06:39:34 URL:http://www.whately.org/community-preservation-committee [69588] -> "../data/townSites2/Whately/www.whately.org/community-preservation-committee" [1]
+2017-01-02 06:39:35 URL: http://www.whately.org/sites/whatelyma/files/uploads/cpa_application_december2015_rev.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:39:36 URL: http://www.whately.org/sites/whatelyma/files/uploads/project_history_11-16rev.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:39:37 URL: http://www.whately.org/sites/whatelyma/files/uploads/community_preservation_plan_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:39:39 URL:http://communitypreservation.org/content/chart-allowable-uses [28771] -> "../data/townSites2/Whately/www.whately.org/community-preservation-committee/links/our-project-allowable" [1]
+2017-01-02 06:39:40 URL: http://www.whately.org/sites/whatelyma/files/uploads/whately_cpa_overview_8-16b.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:39:41 URL: http://www.whately.org/sites/whatelyma/files/uploads/whately_cpa_overview_8-16b_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:39:43 URL:http://www.whately.org/conservation-commission [66741] -> "../data/townSites2/Whately/www.whately.org/conservation-commission" [1]
+2017-01-02 06:39:45 URL:http://www.whately.org/cultural-council [55564] -> "../data/townSites2/Whately/www.whately.org/cultural-council" [1]
+2017-01-02 06:39:48 URL:http://www.whately.org/energy-committee [62997] -> "../data/townSites2/Whately/www.whately.org/energy-committee" [1]
+2017-01-02 06:39:49 URL:http://www.whately.org/energy-committee/pages/masssave-home-energy-audits [50315] -> "../data/townSites2/Whately/www.whately.org/energy-committee/pages/masssave-home-energy-audits" [1]
+2017-01-02 06:39:51 URL:http://www.whately.org/franklin-regional-council-governments [62783] -> "../data/townSites2/Whately/www.whately.org/franklin-regional-council-governments" [1]
+2017-01-02 06:39:53 URL:http://www.whately.org/historical-commission [71160] -> "../data/townSites2/Whately/www.whately.org/historical-commission" [1]
+2017-01-02 06:39:55 URL:http://www.whately.org/historical-commission/pages/useful-links [50623] -> "../data/townSites2/Whately/www.whately.org/historical-commission/pages/useful-links" [1]
+2017-01-02 06:39:56 URL:http://www.whately.org/historical-commission/pages/whately-national-register-districts [50411] -> "../data/townSites2/Whately/www.whately.org/historical-commission/pages/whately-national-register-districts" [1]
+2017-01-02 06:39:58 URL:http://www.whately.org/housing-committee [69514] -> "../data/townSites2/Whately/www.whately.org/housing-committee" [1]
+2017-01-02 06:39:58 URL: http://www.whately.org/sites/whatelyma/files/uploads/housing-fact-sheet-2-22-16r.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:40:00 URL:http://www.whately.org/municipal-building-committee [71698] -> "../data/townSites2/Whately/www.whately.org/municipal-building-committee" [1]
+2017-01-02 06:40:03 URL:http://www.whately.org/municipal-building-committee/pages/town-hall-rehabilitation [50580] -> "../data/townSites2/Whately/www.whately.org/municipal-building-committee/pages/town-hall-rehabilitation" [1]
+2017-01-02 06:40:06 URL:http://www.whately.org/planning-board [69373] -> "../data/townSites2/Whately/www.whately.org/planning-board" [1]
+2017-01-02 06:40:08 URL:http://www.whately.org/planning-board/pages/application-forms [51572] -> "../data/townSites2/Whately/www.whately.org/planning-board/pages/application-forms" [1]
+2017-01-02 06:40:09 URL: http://www.whately.org/sites/whatelyma/files/uploads/farmstand_questionnaire3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:40:10 URL: http://www.whately.org/sites/whatelyma/files/uploads/subdivision_regulations_adopted9-23-03final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:40:11 URL: http://www.whately.org/sites/whatelyma/files/uploads/2014_2_11_zoning_map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:40:12 URL: http://www.whately.org/sites/whatelyma/files/uploads/2014_4-29_atm_zoning_bylaws.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:40:15 URL:http://www.whately.org/recreation-commission [70027] -> "../data/townSites2/Whately/www.whately.org/recreation-commission" [1]
+2017-01-02 06:40:17 URL:http://www.whately.org/recreation-commission/pages/facility-rentals [50981] -> "../data/townSites2/Whately/www.whately.org/recreation-commission/pages/facility-rentals" [1]
+https://calendar.google.com/calendar/embed?src=dl5cbmt8fb0fs0r0ol5k593alc%40group.calendar.google.com&ctz=America/New_York%20:
+Remote file does not exist -- broken link!!!
+2017-01-02 06:40:19 URL: http://www.whately.org/sites/whatelyma/files/uploads/uniform_usage_agreement.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:40:21 URL:http://www.whately.org/recreation-commission/pages/volunteer-opportunities [50727] -> "../data/townSites2/Whately/www.whately.org/recreation-commission/pages/volunteer-opportunities" [1]
+2017-01-02 06:40:23 URL:http://www.whately.org/tri-town-boards-committees [63076] -> "../data/townSites2/Whately/www.whately.org/tri-town-boards-committees" [1]
+2017-01-02 06:40:25 URL:http://www.whately.org/zoning-board-appeals [67817] -> "../data/townSites2/Whately/www.whately.org/zoning-board-appeals" [1]
+2017-01-02 06:40:27 URL:http://www.whately.org/zoning-board-appeals/pages/forms-applications [50558] -> "../data/townSites2/Whately/www.whately.org/zoning-board-appeals/pages/forms-applications" [1]
+2017-01-02 06:40:29 URL: http://www.whately.org/sites/whatelyma/files/uploads/subdivision_regulations_adopted9-23-03final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:40:30 URL: http://www.whately.org/sites/whatelyma/files/uploads/2014_2_11_zoning_map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:40:31 URL: http://www.whately.org/sites/whatelyma/files/uploads/2014_4-29_atm_zoning_bylaws.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:40:32 URL: http://www.whately.org/sites/whatelyma/files/uploads/zoning_rules_and_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:40:34 URL:http://www.whately.org/residents [61765] -> "../data/townSites2/Whately/www.whately.org/residents" [1]
+2017-01-02 06:40:36 URL:http://www.whately.org/where [58000] -> "../data/townSites2/Whately/www.whately.org/where" [1]
+2017-01-02 06:40:37 URL:http://www.whately.org/schools-and-school-committees [68456] -> "../data/townSites2/Whately/www.whately.org/schools-and-school-committee" [1]
+2017-01-02 06:40:38 URL:http://www.whately.org/town-clerkboard-registrars [71592] -> "../data/townSites2/Whately/www.whately.org/town-clerk.1" [1]
+2017-01-02 06:40:40 URL:http://www.whately.org/home/webforms/contact-us [57491/57491] -> "../data/townSites2/Whately/www.whately.org/home/webforms/contact-us" [1]
+2017-01-02 06:40:42 URL:http://www.whately.org/about-whately/webforms/business-listing-request-form [59731/59731] -> "../data/townSites2/Whately/www.whately.org/about-whately/webforms/business-listing-request-form" [1]
+2017-01-02 06:40:43 URL:http://www.whately.org/calendar [96449] -> "../data/townSites2/Whately/www.whately.org/calendar" [1]
+2017-01-02 06:40:45 URL:http://www.whately.org/open-procurements-0 [51735] -> "../data/townSites2/Whately/www.whately.org/open-procurements-1" [1]
+2017-01-02 06:40:47 URL:http://www.whately.org/public-records-information [53586] -> "../data/townSites2/Whately/www.whately.org/public-records-information" [1]
+2017-01-02 06:40:48 URL:http://www.whately.org/home/news/whately-town-offices-closed-holiday-0 [49460] -> "../data/townSites2/Whately/www.whately.org/home/news/whately-town-offices-closed-holiday-0" [1]
+2017-01-02 06:40:49 URL:http://www.whately.org/home/news/notice-penalties-illegal-open-burning [49606] -> "../data/townSites2/Whately/www.whately.org/home/news/notice-penalties-illegal-open-burning" [1]
+2017-01-02 06:40:51 URL:http://www.whately.org/home/news/transfer-station-holiday-hours [49325] -> "../data/townSites2/Whately/www.whately.org/home/news/transfer-station-holiday-hours" [1]
+2017-01-02 06:40:53 URL:http://www.whately.org/node/1/news [49622] -> "../data/townSites2/Whately/www.whately.org/node/1/news" [1]
+2017-01-02 06:40:54 URL:http://www.whately.org/calendar-by-event-type/16%2B17%2B19/day/2017-01-03 [53799] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/16+17+19/day/2017-01-03" [1]
+2017-01-02 06:40:55 URL:http://www.whately.org/home/events/10043 [54753] -> "../data/townSites2/Whately/www.whately.org/home/events/10043" [1]
+2017-01-02 06:40:57 URL:http://www.whately.org/home/events/10003 [52791] -> "../data/townSites2/Whately/www.whately.org/home/events/10003" [1]
+2017-01-02 06:40:58 URL:http://www.whately.org/calendar-by-event-type/16%2B17%2B19/day/2017-01-05 [53753] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/16+17+19/day/2017-01-05" [1]
+2017-01-02 06:41:00 URL:http://www.whately.org/home/events/10013 [52536] -> "../data/townSites2/Whately/www.whately.org/home/events/10013" [1]
+2017-01-02 06:41:01 URL:http://www.whately.org/home/events/9973 [52502] -> "../data/townSites2/Whately/www.whately.org/home/events/9973" [1]
+2017-01-02 06:41:02 URL:http://www.whately.org/calendar-by-event-type/16%2B17%2B19/day/2017-01-25 [53407] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/16+17+19/day/2017-01-25" [1]
+2017-01-02 06:41:04 URL:http://www.whately.org/home/events/3453 [49204] -> "../data/townSites2/Whately/www.whately.org/home/events/3453" [1]
+2017-01-02 06:41:05 URL:http://www.whately.org/calendar-by-event-type/16%2B17%2B19/month [90111] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/16+17+19/month" [1]
+2017-01-02 06:41:07 URL:http://www.whately.org/calendar-by-event-type/20/day/2017-01-09 [53236] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/20/day/2017-01-09" [1]
+2017-01-02 06:41:08 URL:http://www.whately.org/home/events/3353 [49262] -> "../data/townSites2/Whately/www.whately.org/home/events/3353" [1]
+2017-01-02 06:41:10 URL:http://www.whately.org/calendar-by-event-type/20/day/2017-01-25 [53217] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/20/day/2017-01-25" [1]
+2017-01-02 06:41:11 URL:http://www.whately.org/home/events/4423 [48993] -> "../data/townSites2/Whately/www.whately.org/home/events/4423" [1]
+2017-01-02 06:41:13 URL:http://www.whately.org/calendar-by-event-type/20/month [78333] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/20/month" [1]
+2017-01-02 06:41:14 URL:http://www.whately.org/home/events/3363 [49264] -> "../data/townSites2/Whately/www.whately.org/home/events/3363" [1]
+2017-01-02 06:41:16 URL:http://www.whately.org/home/events/4433 [48994] -> "../data/townSites2/Whately/www.whately.org/home/events/4433" [1]
+2017-01-02 06:41:17 URL:http://www.whately.org/home/events/3373 [49261] -> "../data/townSites2/Whately/www.whately.org/home/events/3373" [1]
+2017-01-02 06:41:19 URL:http://www.whately.org/home/pages/bylaws-regulations [49322] -> "../data/townSites2/Whately/www.whately.org/home/pages/bylaws-regulations" [1]
+2017-01-02 06:41:20 URL:http://www.whately.org/faqs [47051] -> "../data/townSites2/Whately/www.whately.org/faqs" [1]
+2017-01-02 06:41:23 URL:http://www.whately.org/files [65521] -> "../data/townSites2/Whately/www.whately.org/files" [1]
+2017-01-02 06:41:24 URL:http://www.whately.org/minutes-and-agendas [54149] -> "../data/townSites2/Whately/www.whately.org/minutes-and-agendas" [1]
+2017-01-02 06:41:25 URL:http://www.whately.org/about-whately/pages/notify-me [52740] -> "../data/townSites2/Whately/www.whately.org/subscribe" [1]
+2017-01-02 06:41:27 URL:http://www.whately.org/home/pages/disclaimer [49143] -> "../data/townSites2/Whately/www.whately.org/home/pages/disclaimer" [1]
+2017-01-02 06:41:28 URL:http://www.whately.org/about-whately [57400] -> "../data/townSites2/Whately/www.whately.org/node/19" [1]
+2017-01-02 06:41:29 URL:http://www.whately.org/print/19 [8406] -> "../data/townSites2/Whately/www.whately.org/print/19" [1]
+2017-01-02 06:41:30 URL:http://www.whately.org/about-whately/pages/historical-whately [54848] -> "../data/townSites2/Whately/www.whately.org/about-whately/pages/historical-whately" [1]
+2017-01-02 06:41:31 URL:http://www.whately.org/about-whately/pages/whately-today [54665] -> "../data/townSites2/Whately/www.whately.org/about-whately/pages/whately-today" [1]
+2017-01-02 06:41:32 URL: http://www.whately.org/node/19/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:41:33 URL:http://www.whately.org/news [50715] -> "../data/townSites2/Whately/www.whately.org/news" [1]
+2017-01-02 06:41:35 URL:http://www.whately.org/home/news/help-whatelys-grant-funding-prospects [50055] -> "../data/townSites2/Whately/www.whately.org/home/news/help-whatelys-grant-funding-prospects" [1]
+2017-01-02 06:41:36 URL:http://www.whately.org/home/news/major-projects-presentations-available-online [49499] -> "../data/townSites2/Whately/www.whately.org/home/news/major-projects-presentations-available-online" [1]
+2017-01-02 06:41:37 URL:http://www.whately.org/news/1 [50729] -> "../data/townSites2/Whately/www.whately.org/news/1" [1]
+2017-01-02 06:41:38 URL:http://www.whately.org/about-whately/pages/attractions [53277] -> "../data/townSites2/Whately/www.whately.org/node/55" [1]
+2017-01-02 06:41:39 URL:http://www.whately.org/print/55 [6999] -> "../data/townSites2/Whately/www.whately.org/print/55" [1]
+2017-01-02 06:41:40 URL:http://www.whately.org/about-whately/pages/business-directory [55601] -> "../data/townSites2/Whately/www.whately.org/node/54" [1]
+2017-01-02 06:41:41 URL:http://www.whately.org/print/54 [9381] -> "../data/townSites2/Whately/www.whately.org/print/54" [1]
+2017-01-02 06:41:42 URL:http://www.whately.org/about-whately/pages/notify-me [52740] -> "../data/townSites2/Whately/www.whately.org/node/364" [1]
+2017-01-02 06:41:43 URL:http://www.whately.org/print/364 [6646] -> "../data/townSites2/Whately/www.whately.org/print/364" [1]
+2017-01-02 06:41:44 URL: http://www.whately.org/sites/whatelyma/files/uploads/connect_cty_faqs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:41:45 URL:http://www.whately.org/about-whately/pages/useful-links [55590] -> "../data/townSites2/Whately/www.whately.org/node/56" [1]
+2017-01-02 06:41:46 URL:http://www.whately.org/print/56 [9421] -> "../data/townSites2/Whately/www.whately.org/print/56" [1]
+2017-01-02 06:41:47 URL:http://www.whately.org/animal-control [53870] -> "../data/townSites2/Whately/www.whately.org/node/20" [1]
+2017-01-02 06:41:48 URL:http://www.whately.org/print/20 [6936] -> "../data/townSites2/Whately/www.whately.org/print/20" [1]
+2017-01-02 06:41:50 URL:http://www.whately.org/people/richard-adamcek [52408] -> "../data/townSites2/Whately/www.whately.org/people/richard-adamcek" [1]
+2017-01-02 06:41:50 URL: http://www.whately.org/node/20/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:41:52 URL:http://www.whately.org/node/20/news [47676] -> "../data/townSites2/Whately/www.whately.org/node/20/news" [1]
+2017-01-02 06:41:53 URL:http://www.whately.org/animal-control/news/barn-inspections [51354] -> "../data/townSites2/Whately/www.whately.org/animal-control/news/barn-inspections" [1]
+2017-01-02 06:41:54 URL:http://www.whately.org/assessors [68861] -> "../data/townSites2/Whately/www.whately.org/node/16" [1]
+2017-01-02 06:41:55 URL:http://www.whately.org/print/16 [8407] -> "../data/townSites2/Whately/www.whately.org/print/16" [1]
+2017-01-02 06:41:57 URL:http://www.whately.org/user/83/contact [51380] -> "../data/townSites2/Whately/www.whately.org/user/83/contact" [1]
+2017-01-02 06:41:58 URL: http://www.whately.org/node/16/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:41:59 URL:http://www.whately.org/node/16/news [47974] -> "../data/townSites2/Whately/www.whately.org/node/16/news" [1]
+2017-01-02 06:42:00 URL:http://www.whately.org/assessors/news/chapter-61-forms-are-due-october-4-2016-can-be-emailed-directly [51666] -> "../data/townSites2/Whately/www.whately.org/assessors/news/chapter-61-forms-are-due-october-4-2016-can-be-emailed-directly" [1]
+2017-01-02 06:42:01 URL:http://www.whately.org/node/16/events/month [67801] -> "../data/townSites2/Whately/www.whately.org/node/16/events/month" [1]
+2017-01-02 06:42:03 URL:http://www.whately.org/node/16/events/month/2017-01 [67858] -> "../data/townSites2/Whately/www.whately.org/node/16/events/month/2017-01" [1]
+2017-01-02 06:42:04 URL:http://www.whately.org/node/16/agenda [47617] -> "../data/townSites2/Whately/www.whately.org/node/16/agenda" [1]
+2017-01-02 06:42:06 URL:http://www.whately.org/assessors/agenda/board-assessors-6 [52650] -> "../data/townSites2/Whately/www.whately.org/assessors/agenda/board-assessors-6" [1]
+2017-01-02 06:42:07 URL:http://www.whately.org/assessors/agenda/board-assessors-5 [52633] -> "../data/townSites2/Whately/www.whately.org/assessors/agenda/board-assessors-5" [1]
+2017-01-02 06:42:09 URL:http://www.whately.org/assessors/agenda/board-assessors-4 [52622] -> "../data/townSites2/Whately/www.whately.org/assessors/agenda/board-assessors-4" [1]
+2017-01-02 06:42:11 URL:http://www.whately.org/assessors/agenda/board-assessors-3 [52643] -> "../data/townSites2/Whately/www.whately.org/assessors/agenda/board-assessors-3" [1]
+2017-01-02 06:42:12 URL:http://www.whately.org/assessors/agenda/board-assessors-10-25-16 [52686] -> "../data/townSites2/Whately/www.whately.org/assessors/agenda/board-assessors-10-25-16" [1]
+2017-01-02 06:42:13 URL:http://www.whately.org/building-inspector [56921] -> "../data/townSites2/Whately/www.whately.org/node/21" [1]
+2017-01-02 06:42:14 URL:http://www.whately.org/print/21 [7707] -> "../data/townSites2/Whately/www.whately.org/print/21" [1]
+2017-01-02 06:42:14 URL: http://www.whately.org/node/21/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:42:16 URL:http://www.whately.org/council-aging [69868] -> "../data/townSites2/Whately/www.whately.org/node/23" [1]
+2017-01-02 06:42:17 URL:http://www.whately.org/print/23 [11738] -> "../data/townSites2/Whately/www.whately.org/print/23" [1]
+2017-01-02 06:42:17 URL: http://www.whately.org/node/23/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:42:19 URL:http://www.whately.org/node/23/events/month [67761] -> "../data/townSites2/Whately/www.whately.org/node/23/events/month" [1]
+2017-01-02 06:42:21 URL:http://www.whately.org/node/23/events/month/2017-01 [67818] -> "../data/townSites2/Whately/www.whately.org/node/23/events/month/2017-01" [1]
+2017-01-02 06:42:22 URL:http://www.whately.org/node/23/agenda [47563] -> "../data/townSites2/Whately/www.whately.org/node/23/agenda" [1]
+2017-01-02 06:42:23 URL:http://www.whately.org/council-aging/agenda/south-county-senior-center-board-oversight-1 [52888] -> "../data/townSites2/Whately/www.whately.org/council-aging/agenda/south-county-senior-center-board-oversight-1" [1]
+2017-01-02 06:42:24 URL:http://www.whately.org/council-aging/agenda/south-county-senior-center-board-oversight-0 [52872] -> "../data/townSites2/Whately/www.whately.org/council-aging/agenda/south-county-senior-center-board-oversight-0" [1]
+2017-01-02 06:42:26 URL:http://www.whately.org/council-aging/agenda/south-county-senior-center-board-oversight [52107] -> "../data/townSites2/Whately/www.whately.org/council-aging/agenda/south-county-senior-center-board-oversight" [1]
+2017-01-02 06:42:27 URL:http://www.whately.org/council-aging/pages/newsletter [51378] -> "../data/townSites2/Whately/www.whately.org/node/369" [1]
+2017-01-02 06:42:28 URL:http://www.whately.org/print/369 [5669] -> "../data/townSites2/Whately/www.whately.org/print/369" [1]
+2017-01-02 06:42:29 URL:http://www.whately.org/council-aging/pages/other-resources [52414] -> "../data/townSites2/Whately/www.whately.org/node/206" [1]
+2017-01-02 06:42:29 URL:http://www.whately.org/print/206 [6582] -> "../data/townSites2/Whately/www.whately.org/print/206" [1]
+2017-01-02 06:42:30 URL:http://www.whately.org/council-aging/pages/senior-center-daily-activities [53722] -> "../data/townSites2/Whately/www.whately.org/node/205" [1]
+2017-01-02 06:42:31 URL:http://www.whately.org/print/205 [7987] -> "../data/townSites2/Whately/www.whately.org/print/205" [1]
+2017-01-02 06:42:32 URL:http://www.whately.org/cemeteries [66498] -> "../data/townSites2/Whately/www.whately.org/node/22" [1]
+2017-01-02 06:42:33 URL:http://www.whately.org/print/22 [9535] -> "../data/townSites2/Whately/www.whately.org/print/22" [1]
+2017-01-02 06:42:35 URL:http://www.whately.org/user/41/contact [51352] -> "../data/townSites2/Whately/www.whately.org/user/41/contact" [1]
+2017-01-02 06:42:36 URL: http://www.whately.org/node/22/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:42:38 URL:http://www.whately.org/node/22/events/month [67574] -> "../data/townSites2/Whately/www.whately.org/node/22/events/month" [1]
+2017-01-02 06:42:39 URL:http://www.whately.org/node/22/events/month/2017-01 [67631] -> "../data/townSites2/Whately/www.whately.org/node/22/events/month/2017-01" [1]
+2017-01-02 06:42:40 URL:http://www.whately.org/node/22/minutes [47396] -> "../data/townSites2/Whately/www.whately.org/node/22/minutes" [1]
+2017-01-02 06:42:41 URL: http://www.whately.org/sites/whatelyma/files/minutes/meeting_minutes_2015-04-09.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:42:42 URL:http://www.whately.org/cemeteries/pages/commissions-blog [50597] -> "../data/townSites2/Whately/www.whately.org/node/366" [1]
+2017-01-02 06:42:43 URL:http://www.whately.org/print/366 [6382] -> "../data/townSites2/Whately/www.whately.org/print/366" [1]
+2017-01-02 06:42:44 URL:http://www.whately.org/cemeteries/pages/whately-cemetery-guidelines [50427] -> "../data/townSites2/Whately/www.whately.org/node/365" [1]
+2017-01-02 06:42:45 URL:http://www.whately.org/print/365 [6268] -> "../data/townSites2/Whately/www.whately.org/print/365" [1]
+2017-01-02 06:42:46 URL:http://www.whately.org/emergency-management [64783] -> "../data/townSites2/Whately/www.whately.org/node/24" [1]
+2017-01-02 06:42:47 URL:http://www.whately.org/print/24 [6351] -> "../data/townSites2/Whately/www.whately.org/print/24" [1]
+2017-01-02 06:42:49 URL:http://www.whately.org/user/29/contact [51356] -> "../data/townSites2/Whately/www.whately.org/user/29/contact" [1]
+2017-01-02 06:42:49 URL: http://www.whately.org/node/24/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:42:51 URL:http://www.whately.org/node/24/events/month [68008] -> "../data/townSites2/Whately/www.whately.org/node/24/events/month" [1]
+2017-01-02 06:42:52 URL:http://www.whately.org/node/24/events/month/2017-01 [68065] -> "../data/townSites2/Whately/www.whately.org/node/24/events/month/2017-01" [1]
+2017-01-02 06:42:54 URL:http://www.whately.org/fire-department [67871] -> "../data/townSites2/Whately/www.whately.org/node/25" [1]
+2017-01-02 06:42:54 URL:http://www.whately.org/print/25 [8716] -> "../data/townSites2/Whately/www.whately.org/print/25" [1]
+2017-01-02 06:42:56 URL:http://www.whately.org/fire-department/pages/visit-fire-department [51905] -> "../data/townSites2/Whately/www.whately.org/fire-department/pages/visit-fire-department" [1]
+2017-01-02 06:42:57 URL:http://www.whately.org/user/30/contact [51356] -> "../data/townSites2/Whately/www.whately.org/user/30/contact" [1]
+2017-01-02 06:42:58 URL: http://www.whately.org/node/25/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:42:59 URL:http://www.whately.org/node/25/events/month [67441] -> "../data/townSites2/Whately/www.whately.org/node/25/events/month" [1]
+2017-01-02 06:43:00 URL:http://www.whately.org/node/25/events/month/2017-01 [67498] -> "../data/townSites2/Whately/www.whately.org/node/25/events/month/2017-01" [1]
+2017-01-02 06:43:02 URL:http://www.whately.org/fire-department/pages/burn-permits [51807] -> "../data/townSites2/Whately/www.whately.org/node/212" [1]
+2017-01-02 06:43:02 URL:http://www.whately.org/print/212 [6048] -> "../data/townSites2/Whately/www.whately.org/print/212" [1]
+2017-01-02 06:43:03 URL:http://www.whately.org/board-healthfoothills-health-district [71700] -> "../data/townSites2/Whately/www.whately.org/node/36" [1]
+2017-01-02 06:43:04 URL:http://www.whately.org/print/36 [11831] -> "../data/townSites2/Whately/www.whately.org/print/36" [1]
+2017-01-02 06:43:05 URL: http://www.whately.org/node/36/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:43:07 URL:http://www.whately.org/node/36/events/month [68159] -> "../data/townSites2/Whately/www.whately.org/node/36/events/month" [1]
+2017-01-02 06:43:08 URL:http://www.whately.org/node/36/events/month/2017-01 [68216] -> "../data/townSites2/Whately/www.whately.org/node/36/events/month/2017-01" [1]
+2017-01-02 06:43:09 URL:http://www.whately.org/node/36/agenda [47911] -> "../data/townSites2/Whately/www.whately.org/node/36/agenda" [1]
+2017-01-02 06:43:11 URL:http://www.whately.org/board-healthfoothills-health-district/agenda/board-health-0 [52745] -> "../data/townSites2/Whately/www.whately.org/board-healthfoothills-health-district/agenda/board-health-0" [1]
+2017-01-02 06:43:12 URL:http://www.whately.org/board-healthfoothills-health-district/agenda/foothills-health-district-personnel-committee [53033] -> "../data/townSites2/Whately/www.whately.org/board-healthfoothills-health-district/agenda/foothills-health-district-personnel-committee" [1]
+2017-01-02 06:43:14 URL:http://www.whately.org/board-healthfoothills-health-district/agenda/foothills-health-district-1 [52915] -> "../data/townSites2/Whately/www.whately.org/board-healthfoothills-health-district/agenda/foothills-health-district-1" [1]
+2017-01-02 06:43:15 URL:http://www.whately.org/board-healthfoothills-health-district/agenda/foothills-health-district-0 [52935] -> "../data/townSites2/Whately/www.whately.org/board-healthfoothills-health-district/agenda/foothills-health-district-0" [1]
+2017-01-02 06:43:17 URL:http://www.whately.org/board-healthfoothills-health-district/agenda/board-health [52968] -> "../data/townSites2/Whately/www.whately.org/board-healthfoothills-health-district/agenda/board-health" [1]
+2017-01-02 06:43:18 URL:http://www.whately.org/highway-department [55034] -> "../data/townSites2/Whately/www.whately.org/node/26" [1]
+2017-01-02 06:43:19 URL:http://www.whately.org/print/26 [7433] -> "../data/townSites2/Whately/www.whately.org/print/26" [1]
+2017-01-02 06:43:21 URL:http://www.whately.org/user/31/contact [51430] -> "../data/townSites2/Whately/www.whately.org/user/31/contact" [1]
+2017-01-02 06:43:21 URL: http://www.whately.org/node/26/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:43:22 URL:http://www.whately.org/highway-department/pages/forms-documents [52049] -> "../data/townSites2/Whately/www.whately.org/node/631" [1]
+2017-01-02 06:43:23 URL:http://www.whately.org/print/631 [6505] -> "../data/townSites2/Whately/www.whately.org/print/631" [1]
+2017-01-02 06:43:24 URL: http://www.whately.org/sites/whatelyma/files/uploads/driveway_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:43:25 URL: http://www.whately.org/sites/whatelyma/files/uploads/trench_permit_3-09.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:43:26 URL: http://www.whately.org/sites/whatelyma/files/uploads/trench_permit_2-09_application_streets-sidewalks.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:43:26 URL: http://www.whately.org/sites/whatelyma/files/uploads/trench_permit_2-09_streets-sidewalks.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:43:27 URL:http://www.whately.org/library [74534] -> "../data/townSites2/Whately/www.whately.org/node/27" [1]
+2017-01-02 06:43:28 URL:http://www.whately.org/print/27 [9536] -> "../data/townSites2/Whately/www.whately.org/print/27" [1]
+2017-01-02 06:43:29 URL: http://www.whately.org/node/27/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:43:31 URL:http://www.whately.org/node/27/events/month [68233] -> "../data/townSites2/Whately/www.whately.org/node/27/events/month" [1]
+2017-01-02 06:43:32 URL:http://www.whately.org/node/27/events/month/2017-01 [68290] -> "../data/townSites2/Whately/www.whately.org/node/27/events/month/2017-01" [1]
+2017-01-02 06:43:34 URL:http://www.whately.org/node/27/agenda [48053] -> "../data/townSites2/Whately/www.whately.org/node/27/agenda" [1]
+2017-01-02 06:43:35 URL:http://www.whately.org/library/agenda/library-board-trustees-8 [52914] -> "../data/townSites2/Whately/www.whately.org/library/agenda/library-board-trustees-8" [1]
+2017-01-02 06:43:36 URL:http://www.whately.org/library/agenda/library-board-trustees-7 [53044] -> "../data/townSites2/Whately/www.whately.org/library/agenda/library-board-trustees-7" [1]
+2017-01-02 06:43:38 URL:http://www.whately.org/library/agenda/library-board-trustees-6 [53255] -> "../data/townSites2/Whately/www.whately.org/library/agenda/library-board-trustees-6" [1]
+2017-01-02 06:43:39 URL:http://www.whately.org/library/agenda/library-board-trustees-5 [53040] -> "../data/townSites2/Whately/www.whately.org/library/agenda/library-board-trustees-5" [1]
+2017-01-02 06:43:41 URL:http://www.whately.org/library/agenda/library-board-trustees-4 [53198] -> "../data/townSites2/Whately/www.whately.org/library/agenda/library-board-trustees-4" [1]
+2017-01-02 06:43:42 URL:http://www.whately.org/library/pages/friends-library [53637] -> "../data/townSites2/Whately/www.whately.org/node/2793" [1]
+2017-01-02 06:43:42 URL:http://www.whately.org/print/2793 [7136] -> "../data/townSites2/Whately/www.whately.org/print/2793" [1]
+2017-01-02 06:43:43 URL: http://www.whately.org/sites/whatelyma/files/uploads/friends_membership.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:43:44 URL:http://www.whately.org/library/pages/museum-and-park-passes [52419] -> "../data/townSites2/Whately/www.whately.org/node/229" [1]
+2017-01-02 06:43:46 URL:http://www.whately.org/print/229 [6032] -> "../data/townSites2/Whately/www.whately.org/print/229" [1]
+2017-01-02 06:43:47 URL:http://www.whately.org/library/pages/use-library-facilities [53635] -> "../data/townSites2/Whately/www.whately.org/node/634" [1]
+2017-01-02 06:43:48 URL:http://www.whately.org/print/634 [7419] -> "../data/townSites2/Whately/www.whately.org/print/634" [1]
+2017-01-02 06:43:48 URL: http://www.whately.org/sites/whatelyma/files/uploads/application_for_use_of_library_3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:43:50 URL:http://www.whately.org/police-department [59006] -> "../data/townSites2/Whately/www.whately.org/node/28" [1]
+2017-01-02 06:43:50 URL:http://www.whately.org/print/28 [9949] -> "../data/townSites2/Whately/www.whately.org/print/28" [1]
+2017-01-02 06:43:52 URL:http://www.whately.org/user/33/contact [51374] -> "../data/townSites2/Whately/www.whately.org/user/33/contact" [1]
+2017-01-02 06:43:53 URL: http://www.whately.org/node/28/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:43:54 URL:http://www.whately.org/police-department/pages/additional-links [53250] -> "../data/townSites2/Whately/www.whately.org/node/243" [1]
+2017-01-02 06:43:55 URL:http://www.whately.org/print/243 [6419] -> "../data/townSites2/Whately/www.whately.org/print/243" [1]
+2017-01-02 06:43:58 URL:http://www.whately.org/police-department/webforms/contact-police-department [66655/66655] -> "../data/townSites2/Whately/www.whately.org/node/687" [1]
+2017-01-02 06:43:59 URL:http://www.whately.org/print/687 [20125/20125] -> "../data/townSites2/Whately/www.whately.org/print/687" [1]
+2017-01-02 06:44:00 URL:http://www.whately.org/police-department/pages/firearms-information [56839] -> "../data/townSites2/Whately/www.whately.org/node/236" [1]
+2017-01-02 06:44:01 URL:http://www.whately.org/print/236 [9846] -> "../data/townSites2/Whately/www.whately.org/print/236" [1]
+2017-01-02 06:44:02 URL: http://www.whately.org/sites/whatelyma/files/uploads/key-changes-to-the-massachusetts-gun-laws-august-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:44:03 URL: http://www.whately.org/sites/whatelyma/files/uploads/fid_parent_permission.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:44:04 URL: http://www.whately.org/sites/whatelyma/files/uploads/change-of-address-notification-rev-01-05-09.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:44:05 URL:http://www.whately.org/police-department/pages/forms-applications [53038] -> "../data/townSites2/Whately/www.whately.org/node/637" [1]
+2017-01-02 06:44:06 URL:http://www.whately.org/print/637 [6224] -> "../data/townSites2/Whately/www.whately.org/print/637" [1]
+2017-01-02 06:44:07 URL: http://www.whately.org/sites/whatelyma/files/uploads/motor_vehicle_crash_operator_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:44:08 URL: http://www.whately.org/sites/whatelyma/files/uploads/police_employment_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:44:09 URL:http://www.whately.org/police-department/slideshows/gallery [54738] -> "../data/townSites2/Whately/www.whately.org/node/793" [1]
+2017-01-02 06:44:10 URL:http://www.whately.org/print/793 [8037] -> "../data/townSites2/Whately/www.whately.org/print/793" [1]
+2017-01-02 06:44:11 URL:http://www.whately.org/police-department/pages/kids-corner [53901] -> "../data/townSites2/Whately/www.whately.org/node/235" [1]
+2017-01-02 06:44:12 URL:http://www.whately.org/print/235 [6966] -> "../data/townSites2/Whately/www.whately.org/print/235" [1]
+2017-01-02 06:44:13 URL:http://www.whately.org/police-department/pages/northwestern-district-attorney-office [52962] -> "../data/townSites2/Whately/www.whately.org/node/233" [1]
+2017-01-02 06:44:14 URL:http://www.whately.org/print/233 [6335] -> "../data/townSites2/Whately/www.whately.org/print/233" [1]
+2017-01-02 06:44:15 URL:http://www.whately.org/police-department/pages/whats-new [53036] -> "../data/townSites2/Whately/www.whately.org/node/234" [1]
+2017-01-02 06:44:16 URL:http://www.whately.org/print/234 [6227] -> "../data/townSites2/Whately/www.whately.org/print/234" [1]
+2017-01-02 06:44:17 URL:http://www.whately.org/schools-and-school-committees [68456] -> "../data/townSites2/Whately/www.whately.org/node/48" [1]
+2017-01-02 06:44:18 URL:http://www.whately.org/print/48 [9297] -> "../data/townSites2/Whately/www.whately.org/print/48" [1]
+2017-01-02 06:44:19 URL: http://www.whately.org/node/48/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:44:21 URL:http://www.whately.org/node/48/events/month [68308] -> "../data/townSites2/Whately/www.whately.org/node/48/events/month" [1]
+2017-01-02 06:44:22 URL:http://www.whately.org/node/48/events/month/2017-01 [68365] -> "../data/townSites2/Whately/www.whately.org/node/48/events/month/2017-01" [1]
+2017-01-02 06:44:24 URL:http://www.whately.org/node/48/agenda [48150] -> "../data/townSites2/Whately/www.whately.org/node/48/agenda" [1]
+2017-01-02 06:44:25 URL:http://www.whately.org/schools-and-school-committees/agenda/frontier-regional-budget-subcommittee-1 [53392] -> "../data/townSites2/Whately/www.whately.org/schools-and-school-committees/agenda/frontier-regional-budget-subcommittee-1" [1]
+2017-01-02 06:44:27 URL:http://www.whately.org/schools-and-school-committees/agenda/franklin-county-technical-school-policy-subcommittee-1 [53442] -> "../data/townSites2/Whately/www.whately.org/schools-and-school-committees/agenda/franklin-county-technical-school-policy-subcommittee-1" [1]
+2017-01-02 06:44:28 URL:http://www.whately.org/schools-and-school-committees/agenda/franklin-county-technical-school-district-committee-2 [53450] -> "../data/townSites2/Whately/www.whately.org/schools-and-school-committees/agenda/franklin-county-technical-school-district-committee-2" [1]
+2017-01-02 06:44:30 URL:http://www.whately.org/schools-and-school-committees/agenda/franklin-county-technical-school-building-grounds-subcommitte-3 [53543] -> "../data/townSites2/Whately/www.whately.org/schools-and-school-committees/agenda/franklin-county-technical-school-building-grounds-subcommitte-3" [1]
+2017-01-02 06:44:31 URL:http://www.whately.org/schools-and-school-committees/agenda/frontier-regional-school-committee-1 [53350] -> "../data/townSites2/Whately/www.whately.org/schools-and-school-committees/agenda/frontier-regional-school-committee-1" [1]
+2017-01-02 06:44:32 URL:http://www.whately.org/schools-and-school-committees/pages/district-information [55358] -> "../data/townSites2/Whately/www.whately.org/node/833" [1]
+2017-01-02 06:44:33 URL:http://www.whately.org/print/833 [8901] -> "../data/townSites2/Whately/www.whately.org/print/833" [1]
+2017-01-02 06:44:34 URL:http://www.whately.org/schools-and-school-committees/pages/schools-frontier-regional [56742] -> "../data/townSites2/Whately/www.whately.org/node/823" [1]
+2017-01-02 06:44:35 URL:http://www.whately.org/print/823 [10199] -> "../data/townSites2/Whately/www.whately.org/print/823" [1]
+http://www.whately.org/www.edline.net/pages/Frontier_Regional:
+Remote file does not exist -- broken link!!!
+2017-01-02 06:44:37 URL:http://www.whately.org/schools-and-school-committees/pages/schools-whately-elementary [55986] -> "../data/townSites2/Whately/www.whately.org/node/813" [1]
+2017-01-02 06:44:38 URL:http://www.whately.org/print/813 [9556] -> "../data/townSites2/Whately/www.whately.org/print/813" [1]
+2017-01-02 06:44:38 URL:http://www.whately.org/schools-and-school-committees/pages/useful-links-resources [52572] -> "../data/townSites2/Whately/www.whately.org/node/803" [1]
+2017-01-02 06:44:39 URL:http://www.whately.org/print/803 [6145] -> "../data/townSites2/Whately/www.whately.org/print/803" [1]
+2017-01-02 06:44:40 URL:http://www.whately.org/town-accountant [54597] -> "../data/townSites2/Whately/www.whately.org/node/29" [1]
+2017-01-02 06:44:42 URL:http://www.whately.org/print/29 [7510] -> "../data/townSites2/Whately/www.whately.org/print/29" [1]
+2017-01-02 06:44:42 URL: http://www.whately.org/node/29/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:44:43 URL:http://www.whately.org/town-administrator-selectboard [73371] -> "../data/townSites2/Whately/www.whately.org/node/49" [1]
+2017-01-02 06:44:44 URL:http://www.whately.org/print/49 [8007] -> "../data/townSites2/Whately/www.whately.org/print/49" [1]
+2017-01-02 06:44:46 URL:http://www.whately.org/user/42/contact [51352] -> "../data/townSites2/Whately/www.whately.org/user/42/contact" [1]
+2017-01-02 06:44:47 URL:http://www.whately.org/user/43/contact [51376] -> "../data/townSites2/Whately/www.whately.org/user/43/contact" [1]
+2017-01-02 06:44:49 URL: http://www.whately.org/node/49/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:44:50 URL:http://www.whately.org/node/49/events/month [67731] -> "../data/townSites2/Whately/www.whately.org/node/49/events/month" [1]
+2017-01-02 06:44:52 URL:http://www.whately.org/node/49/events/month/2017-01 [67788] -> "../data/townSites2/Whately/www.whately.org/node/49/events/month/2017-01" [1]
+2017-01-02 06:44:53 URL:http://www.whately.org/node/49/agenda [47501] -> "../data/townSites2/Whately/www.whately.org/node/49/agenda" [1]
+2017-01-02 06:44:54 URL:http://www.whately.org/town-administrator-selectboard/agenda/selectboard-13 [51726] -> "../data/townSites2/Whately/www.whately.org/town-administrator-selectboard/agenda/selectboard-13" [1]
+2017-01-02 06:44:56 URL:http://www.whately.org/town-administrator-selectboard/agenda/joint-finance-committeehistorical-commissionselectboard [52166] -> "../data/townSites2/Whately/www.whately.org/town-administrator-selectboard/agenda/joint-finance-committeehistorical-commissionselectboard" [1]
+2017-01-02 06:44:57 URL:http://www.whately.org/town-administrator-selectboard/agenda/selectboard-12 [51709] -> "../data/townSites2/Whately/www.whately.org/town-administrator-selectboard/agenda/selectboard-12" [1]
+2017-01-02 06:44:59 URL:http://www.whately.org/town-administrator-selectboard/agenda/selectboard-11 [52835] -> "../data/townSites2/Whately/www.whately.org/town-administrator-selectboard/agenda/selectboard-11" [1]
+2017-01-02 06:45:00 URL:http://www.whately.org/town-administrator-selectboard/agenda/selectboard-10 [51958] -> "../data/townSites2/Whately/www.whately.org/town-administrator-selectboard/agenda/selectboard-10" [1]
+2017-01-02 06:45:02 URL:http://www.whately.org/node/49/minutes [47576] -> "../data/townSites2/Whately/www.whately.org/node/49/minutes" [1]
+2017-01-02 06:45:03 URL: http://www.whately.org/sites/whatelyma/files/minutes/07-26-16_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:04 URL: http://www.whately.org/sites/whatelyma/files/minutes/07-13-16_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:05 URL: http://www.whately.org/sites/whatelyma/files/minutes/07-14-15_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:06 URL: http://www.whately.org/sites/whatelyma/files/minutes/06-30-2015_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:07 URL: http://www.whately.org/sites/whatelyma/files/minutes/06-16-2015_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:08 URL:http://www.whately.org/town-administrator-selectboard/pages/employment [51400] -> "../data/townSites2/Whately/www.whately.org/node/650" [1]
+2017-01-02 06:45:09 URL:http://www.whately.org/print/650 [6397] -> "../data/townSites2/Whately/www.whately.org/print/650" [1]
+2017-01-02 06:45:10 URL:http://www.whately.org/town-administrator-selectboard/pages/forms-documents [51263] -> "../data/townSites2/Whately/www.whately.org/node/640" [1]
+2017-01-02 06:45:11 URL:http://www.whately.org/print/640 [6306] -> "../data/townSites2/Whately/www.whately.org/print/640" [1]
+2017-01-02 06:45:12 URL: http://www.whately.org/sites/whatelyma/files/uploads/one_day_liquor_license_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:13 URL: http://www.whately.org/sites/whatelyma/files/uploads/one_day_liquor_license_approved_wholesalers_pdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:14 URL:http://www.whately.org/town-clerkboard-registrars [71592] -> "../data/townSites2/Whately/www.whately.org/node/30" [1]
+2017-01-02 06:45:15 URL:http://www.whately.org/print/30 [8115] -> "../data/townSites2/Whately/www.whately.org/print/30" [1]
+2017-01-02 06:45:17 URL: http://www.whately.org/sites/whatelyma/files/uploads/2016_11-8_election_final_tally_sheet.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:18 URL: http://www.whately.org/node/30/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:20 URL:http://www.whately.org/node/30/events/month [68705] -> "../data/townSites2/Whately/www.whately.org/node/30/events/month" [1]
+2017-01-02 06:45:22 URL:http://www.whately.org/node/30/events/month/2017-01 [68762] -> "../data/townSites2/Whately/www.whately.org/node/30/events/month/2017-01" [1]
+2017-01-02 06:45:23 URL:http://www.whately.org/node/30/agenda [48479] -> "../data/townSites2/Whately/www.whately.org/node/30/agenda" [1]
+2017-01-02 06:45:25 URL:http://www.whately.org/town-clerkboard-registrars/agenda/board-registrars-cancelled [53394] -> "../data/townSites2/Whately/www.whately.org/town-clerkboard-registrars/agenda/board-registrars-cancelled" [1]
+2017-01-02 06:45:26 URL:http://www.whately.org/town-clerk/agenda/special-town-meeting [53014] -> "../data/townSites2/Whately/www.whately.org/town-clerk/agenda/special-town-meeting" [1]
+2017-01-02 06:45:28 URL:http://www.whately.org/node/30/minutes [48822] -> "../data/townSites2/Whately/www.whately.org/node/30/minutes" [1]
+2017-01-02 06:45:28 URL: http://www.whately.org/sites/whatelyma/files/minutes/2016_4-26_atm_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:29 URL: http://www.whately.org/sites/whatelyma/files/minutes/2015_9-29_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:30 URL: http://www.whately.org/sites/whatelyma/files/minutes/2015_4-28_atm_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:31 URL: http://www.whately.org/sites/whatelyma/files/minutes/2015_4-28_stm_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:32 URL: http://www.whately.org/sites/whatelyma/files/minutes/2015_2-10_stm_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:34 URL:http://www.whately.org/town-clerk/pages/2016-town-election-calendar [52899] -> "../data/townSites2/Whately/www.whately.org/node/249" [1]
+2017-01-02 06:45:35 URL:http://www.whately.org/print/249 [6281] -> "../data/townSites2/Whately/www.whately.org/print/249" [1]
+2017-01-02 06:45:35 URL: http://www.whately.org/sites/whatelyma/files/uploads/2016_election_calendar.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:36 URL:http://www.whately.org/town-clerk/pages/annual-town-reports [53025] -> "../data/townSites2/Whately/www.whately.org/node/301" [1]
+2017-01-02 06:45:37 URL:http://www.whately.org/print/301 [6460] -> "../data/townSites2/Whately/www.whately.org/print/301" [1]
+2017-01-02 06:45:38 URL: http://www.whately.org/sites/whatelyma/files/uploads/2014_town_report-complete-3-2-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:39 URL: http://www.whately.org/sites/whatelyma/files/uploads/2013_town_report-complete.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:40 URL: http://www.whately.org/sites/whatelyma/files/uploads/2012_town_report-complete-nopictures.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:41 URL: http://www.whately.org/sites/whatelyma/files/uploads/2010townreportcompleteforweb.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:43 URL: http://www.whately.org/sites/whatelyma/files/uploads/2009townreportcompleteforweb.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:44 URL:http://www.whately.org/town-clerk/pages/dog-licenses-vital-records [52646] -> "../data/townSites2/Whately/www.whately.org/node/245" [1]
+2017-01-02 06:45:44 URL:http://www.whately.org/print/245 [6105] -> "../data/townSites2/Whately/www.whately.org/print/245" [1]
+2017-01-02 06:45:46 URL:http://www.whately.org/town-clerkboard-registrars/pages/election-warrants-results [56107] -> "../data/townSites2/Whately/www.whately.org/node/265" [1]
+2017-01-02 06:45:47 URL:http://www.whately.org/print/265 [9573] -> "../data/townSites2/Whately/www.whately.org/print/265" [1]
+2017-01-02 06:45:48 URL: http://www.whately.org/sites/whatelyma/files/uploads/2016_11-8_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:49 URL: http://www.whately.org/sites/whatelyma/files/uploads/2016_sept_8_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:50 URL: http://www.whately.org/sites/whatelyma/files/uploads/2016_3-1_pres_primary_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:50 URL: http://www.whately.org/sites/whatelyma/files/uploads/2015_12-15_election_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:52 URL: http://www.whately.org/sites/whatelyma/files/uploads/2014-11-4_state_election.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:53 URL: http://www.whately.org/sites/whatelyma/files/uploads/2014_6-10_election_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:53 URL: http://www.whately.org/sites/whatelyma/files/uploads/3-6-2012_primary.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:54 URL: http://www.whately.org/sites/whatelyma/files/uploads/2016_11-8_state_election_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:55 URL: http://www.whately.org/sites/whatelyma/files/uploads/2016_9-8_primary_minutes.doc 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:56 URL: http://www.whately.org/sites/whatelyma/files/uploads/2016_3-1_president_primary_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:57 URL: http://www.whately.org/sites/whatelyma/files/uploads/2015_12-15_debt_exclusion.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:58 URL: http://www.whately.org/sites/whatelyma/files/uploads/2015_6-23_special_fcts_election_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:45:59 URL: http://www.whately.org/sites/whatelyma/files/uploads/2015_6-9_annual_town_election.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:00 URL: http://www.whately.org/sites/whatelyma/files/uploads/2014_11-4_state_election.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:01 URL: http://www.whately.org/sites/whatelyma/files/uploads/2014_9-09_state_primary.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:01 URL: http://www.whately.org/sites/whatelyma/files/uploads/2014_6-10_town_election_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:02 URL: http://www.whately.org/sites/whatelyma/files/uploads/2013_june_11_annual_town_election.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:03 URL: http://www.whately.org/sites/whatelyma/files/uploads/2013_4-30_special_state_primary.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:04 URL: http://www.whately.org/sites/whatelyma/files/uploads/11-6-2012_state_election_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:05 URL: http://www.whately.org/sites/whatelyma/files/uploads/9-6-2012_primary_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:06 URL: http://www.whately.org/sites/whatelyma/files/uploads/2012_june_election.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:07 URL: http://www.whately.org/sites/whatelyma/files/uploads/6-14-11_annual_town_election.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:08 URL:http://www.whately.org/town-clerk/pages/elections-registration-information [53566] -> "../data/townSites2/Whately/www.whately.org/node/247" [1]
+2017-01-02 06:46:09 URL:http://www.whately.org/print/247 [7084] -> "../data/townSites2/Whately/www.whately.org/print/247" [1]
+2017-01-02 06:46:10 URL:http://www.whately.org/town-clerk/pages/fishing-hunting-or-sporting-licenses [52654] -> "../data/townSites2/Whately/www.whately.org/node/246" [1]
+2017-01-02 06:46:11 URL:http://www.whately.org/print/246 [6145] -> "../data/townSites2/Whately/www.whately.org/print/246" [1]
+2017-01-02 06:46:12 URL:http://www.whately.org/town-clerkboard-registrars/pages/forms-applications [53114] -> "../data/townSites2/Whately/www.whately.org/node/644" [1]
+2017-01-02 06:46:13 URL:http://www.whately.org/print/644 [6570] -> "../data/townSites2/Whately/www.whately.org/print/644" [1]
+2017-01-02 06:46:14 URL: http://www.whately.org/sites/whatelyma/files/uploads/av_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:15 URL: http://www.whately.org/sites/whatelyma/files/uploads/av_family.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:16 URL: http://www.whately.org/sites/whatelyma/files/uploads/early_voting_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:17 URL: http://www.whately.org/sites/whatelyma/files/uploads/reg_of_voters.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:19 URL:http://www.whately.org/town-clerkboard-registrars/pages/town-meeting-warrants [55693] -> "../data/townSites2/Whately/www.whately.org/node/266" [1]
+2017-01-02 06:46:20 URL:http://www.whately.org/print/266 [9129] -> "../data/townSites2/Whately/www.whately.org/print/266" [1]
+2017-01-02 06:46:20 URL: http://www.whately.org/sites/whatelyma/files/uploads/2016_12-1_stm_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:22 URL: http://www.whately.org/sites/whatelyma/files/uploads/2016_713_stm_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:23 URL: http://www.whately.org/sites/whatelyma/files/uploads/2016_april_26_atm_warrant000460.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:23 URL: http://www.whately.org/sites/whatelyma/files/uploads/2016_3-14_stm_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:25 URL: http://www.whately.org/sites/whatelyma/files/uploads/stm_warrant_what_11_17_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:26 URL: http://www.whately.org/sites/whatelyma/files/uploads/2015_sept_29_stm_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:26 URL: http://www.whately.org/sites/whatelyma/files/uploads/kp-519419-v1-what_atm_warrant_2015_4_28.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:28 URL: http://www.whately.org/sites/whatelyma/files/uploads/2015_april_28_stm_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:29 URL: http://www.whately.org/sites/whatelyma/files/uploads/february_10_2015_special_town_meeting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:30 URL: http://www.whately.org/sites/whatelyma/files/uploads/2014_10-21_special_town_meeting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:31 URL: http://www.whately.org/sites/whatelyma/files/uploads/2014_april_29_atm_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:31 URL: http://www.whately.org/sites/whatelyma/files/uploads/february_11_2014_special_town_meeting_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:33 URL: http://www.whately.org/sites/whatelyma/files/uploads/2013_10-15_stm_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:34 URL: http://www.whately.org/sites/whatelyma/files/uploads/2013_may_9th_warrant_4.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:35 URL: http://www.whately.org/sites/whatelyma/files/uploads/2012-12-4_stm_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:36 URL: http://www.whately.org/sites/whatelyma/files/uploads/6-25-2012_stm_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:36 URL: http://www.whately.org/sites/whatelyma/files/uploads/10-27-11_stm_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:37 URL: http://www.whately.org/sites/whatelyma/files/uploads/annual_town_meeting_warrant_4-27-2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:39 URL:http://www.whately.org/transfer-station [56133] -> "../data/townSites2/Whately/www.whately.org/node/32" [1]
+2017-01-02 06:46:39 URL:http://www.whately.org/print/32 [7839] -> "../data/townSites2/Whately/www.whately.org/print/32" [1]
+2017-01-02 06:46:41 URL: http://www.whately.org/sites/whatelyma/files/uploads/bulkywaste_oct_2016_pr.doc 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:41 URL: http://www.whately.org/sites/whatelyma/files/uploads/cleansweep_pricelist_10.22.16.xls 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:42 URL: http://www.whately.org/sites/whatelyma/files/uploads/cleansweep_flyer_10.22.16.doc 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:43 URL: http://www.whately.org/node/32/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:46:44 URL:http://www.whately.org/node/32/news [48836] -> "../data/townSites2/Whately/www.whately.org/node/32/news" [1]
+2017-01-02 06:46:46 URL:http://www.whately.org/transfer-station/news/transfer-station-2016-calendar [54978] -> "../data/townSites2/Whately/www.whately.org/transfer-station/news/transfer-station-2016-calendar" [1]
+2017-01-02 06:46:47 URL:http://www.whately.org/transfer-station/news/bulky-items-companies-offering-pickup-disposal [53026] -> "../data/townSites2/Whately/www.whately.org/transfer-station/news/bulky-items-companies-offering-pickup-disposal" [1]
+2017-01-02 06:46:48 URL:http://www.whately.org/node/32/agenda [48042] -> "../data/townSites2/Whately/www.whately.org/node/32/agenda" [1]
+2017-01-02 06:46:50 URL:http://www.whately.org/transfer-station/agenda/solid-waste-committee-rescheduled-oct-5th [52991] -> "../data/townSites2/Whately/www.whately.org/transfer-station/agenda/solid-waste-committee-rescheduled-oct-5th" [1]
+2017-01-02 06:46:51 URL:http://www.whately.org/transfer-station/pages/household-hazardous-waste-collections [52472] -> "../data/townSites2/Whately/www.whately.org/node/308" [1]
+2017-01-02 06:46:52 URL:http://www.whately.org/print/308 [6409] -> "../data/townSites2/Whately/www.whately.org/print/308" [1]
+2017-01-02 06:46:53 URL:http://www.whately.org/transfer-station/pages/sharps-collection [52890] -> "../data/townSites2/Whately/www.whately.org/node/309" [1]
+2017-01-02 06:46:54 URL:http://www.whately.org/print/309 [6751] -> "../data/townSites2/Whately/www.whately.org/print/309" [1]
+2017-01-02 06:46:55 URL:http://www.whately.org/treasurer-collector [55902] -> "../data/townSites2/Whately/www.whately.org/node/33" [1]
+2017-01-02 06:46:56 URL:http://www.whately.org/print/33 [7950] -> "../data/townSites2/Whately/www.whately.org/print/33" [1]
+2017-01-02 06:46:58 URL:http://www.whately.org/user/36/contact [51422] -> "../data/townSites2/Whately/www.whately.org/user/36/contact" [1]
+2017-01-02 06:46:58 URL: http://www.whately.org/node/33/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:47:00 URL:http://www.whately.org/water-department [72460] -> "../data/townSites2/Whately/www.whately.org/node/34" [1]
+2017-01-02 06:47:00 URL:http://www.whately.org/print/34 [10818] -> "../data/townSites2/Whately/www.whately.org/print/34" [1]
+2017-01-02 06:47:01 URL: http://www.whately.org/node/34/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:47:03 URL:http://www.whately.org/node/34/events/month [67512] -> "../data/townSites2/Whately/www.whately.org/node/34/events/month" [1]
+2017-01-02 06:47:05 URL:http://www.whately.org/node/34/events/month/2017-01 [67569] -> "../data/townSites2/Whately/www.whately.org/node/34/events/month/2017-01" [1]
+2017-01-02 06:47:06 URL:http://www.whately.org/node/34/agenda [47314] -> "../data/townSites2/Whately/www.whately.org/node/34/agenda" [1]
+2017-01-02 06:47:07 URL:http://www.whately.org/water-department/agenda/whately-water-department-2 [52292] -> "../data/townSites2/Whately/www.whately.org/water-department/agenda/whately-water-department-2" [1]
+2017-01-02 06:47:08 URL:http://www.whately.org/water-department/agenda/whately-water-department-1 [52225] -> "../data/townSites2/Whately/www.whately.org/water-department/agenda/whately-water-department-1" [1]
+2017-01-02 06:47:10 URL:http://www.whately.org/water-department/agenda/whately-water-department-0 [52227] -> "../data/townSites2/Whately/www.whately.org/water-department/agenda/whately-water-department-0" [1]
+2017-01-02 06:47:11 URL:http://www.whately.org/water-department/agenda/water-department-4 [52415] -> "../data/townSites2/Whately/www.whately.org/water-department/agenda/water-department-4" [1]
+2017-01-02 06:47:13 URL:http://www.whately.org/water-department/agenda/water-department-3 [52411] -> "../data/townSites2/Whately/www.whately.org/water-department/agenda/water-department-3" [1]
+2017-01-02 06:47:14 URL:http://www.whately.org/node/34/minutes [47322] -> "../data/townSites2/Whately/www.whately.org/node/34/minutes" [1]
+2017-01-02 06:47:14 URL: http://www.whately.org/sites/whatelyma/files/minutes/september_12_3.doc 200 OK
+unlink: No such file or directory
+2017-01-02 06:47:15 URL: http://www.whately.org/sites/whatelyma/files/minutes/september_6_3.doc 200 OK
+unlink: No such file or directory
+2017-01-02 06:47:16 URL: http://www.whately.org/sites/whatelyma/files/minutes/august_2.docx 200 OK
+unlink: No such file or directory
+2017-01-02 06:47:17 URL:http://www.whately.org/water-department/pages/water-department-consumer-awareness-reports [52442] -> "../data/townSites2/Whately/www.whately.org/node/318" [1]
+2017-01-02 06:47:18 URL:http://www.whately.org/print/318 [6957] -> "../data/townSites2/Whately/www.whately.org/print/318" [1]
+2017-01-02 06:47:19 URL: http://www.whately.org/sites/whatelyma/files/uploads/2013waterccr.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:47:20 URL: http://www.whately.org/sites/whatelyma/files/uploads/2009_water_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:47:21 URL: http://www.whately.org/sites/whatelyma/files/uploads/2008_water_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:47:22 URL: http://www.whately.org/sites/whatelyma/files/uploads/2007_water_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:47:24 URL:http://www.whately.org/franklin-county-solid-waste-management-district-0 [55498] -> "../data/townSites2/Whately/www.whately.org/franklin-county-solid-waste-management-district-0" [1]
+2017-01-02 06:47:25 URL:http://www.whately.org/franklin-hampshire-regional-employment-board [54664] -> "../data/townSites2/Whately/www.whately.org/franklin-hampshire-regional-employment-board" [1]
+2017-01-02 06:47:27 URL:http://www.whately.org/franklin-regional-retirement-system-board-0 [53553] -> "../data/townSites2/Whately/www.whately.org/franklin-regional-retirement-system-board-0" [1]
+2017-01-02 06:47:29 URL:http://www.whately.org/franklin-regional-transit-authority [57263] -> "../data/townSites2/Whately/www.whately.org/franklin-regional-transit-authority" [1]
+2017-01-02 06:47:31 URL:http://www.whately.org/south-county-ems-board-oversight [54512] -> "../data/townSites2/Whately/www.whately.org/south-county-ems-board-oversight" [1]
+2017-01-02 06:47:32 URL:http://www.whately.org/agriculture-commission [64880] -> "../data/townSites2/Whately/www.whately.org/node/35" [1]
+2017-01-02 06:47:33 URL:http://www.whately.org/print/35 [6208] -> "../data/townSites2/Whately/www.whately.org/print/35" [1]
+2017-01-02 06:47:34 URL: http://www.whately.org/node/35/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:47:35 URL:http://www.whately.org/node/35/events/month [66890] -> "../data/townSites2/Whately/www.whately.org/node/35/events/month" [1]
+2017-01-02 06:47:37 URL:http://www.whately.org/node/35/events/month/2017-01 [66947] -> "../data/townSites2/Whately/www.whately.org/node/35/events/month/2017-01" [1]
+2017-01-02 06:47:38 URL:http://www.whately.org/node/35/agenda [46680] -> "../data/townSites2/Whately/www.whately.org/node/35/agenda" [1]
+2017-01-02 06:47:40 URL:http://www.whately.org/agriculture-commission/agenda/agricultural-commission-0 [50234] -> "../data/townSites2/Whately/www.whately.org/agriculture-commission/agenda/agricultural-commission-0" [1]
+2017-01-02 06:47:41 URL:http://www.whately.org/agriculture-commission/agenda/agricultural-commission [50388] -> "../data/townSites2/Whately/www.whately.org/agriculture-commission/agenda/agricultural-commission" [1]
+2017-01-02 06:47:42 URL:http://www.whately.org/agriculture-commission/agenda/historical-commission [50114] -> "../data/townSites2/Whately/www.whately.org/agriculture-commission/agenda/historical-commission" [1]
+2017-01-02 06:47:43 URL:http://www.whately.org/board-health/pages/forms-applications [52374] -> "../data/townSites2/Whately/www.whately.org/node/626" [1]
+2017-01-02 06:47:44 URL:http://www.whately.org/print/626 [6438] -> "../data/townSites2/Whately/www.whately.org/print/626" [1]
+2017-01-02 06:47:45 URL: http://www.whately.org/sites/whatelyma/files/uploads/application-for-tfe.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:47:46 URL: http://www.whately.org/sites/whatelyma/files/uploads/application_to_operate_a_food_establishment.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:47:47 URL: http://www.whately.org/sites/whatelyma/files/uploads/septic_system_installers_application_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:47:48 URL:http://www.whately.org/board-health/pages/mosquito-west-nile-virus-and-eee-information [52326] -> "../data/townSites2/Whately/www.whately.org/node/331" [1]
+2017-01-02 06:47:49 URL:http://www.whately.org/print/331 [6538] -> "../data/townSites2/Whately/www.whately.org/print/331" [1]
+2017-01-02 06:47:50 URL: http://www.whately.org/sites/whatelyma/files/uploads/mosquito_advisory.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:47:51 URL: http://www.whately.org/sites/whatelyma/files/uploads/eee_crew_poster.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:47:52 URL: http://www.whately.org/sites/whatelyma/files/uploads/wnv-eee_update_8-2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:47:53 URL:http://www.whately.org/board-health/pages/regulation-governing-outdoor-wood-burning-furnaces [53128] -> "../data/townSites2/Whately/www.whately.org/node/336" [1]
+2017-01-02 06:47:54 URL:http://www.whately.org/print/336 [7130] -> "../data/townSites2/Whately/www.whately.org/print/336" [1]
+2017-01-02 06:47:55 URL:http://www.whately.org/budget-planning [72620] -> "../data/townSites2/Whately/www.whately.org/node/37" [1]
+2017-01-02 06:47:56 URL:http://www.whately.org/print/37 [15111] -> "../data/townSites2/Whately/www.whately.org/print/37" [1]
+2017-01-02 06:47:57 URL: http://www.whately.org/node/37/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:47:58 URL:http://www.whately.org/node/37/events/month [66841] -> "../data/townSites2/Whately/www.whately.org/node/37/events/month" [1]
+2017-01-02 06:48:00 URL:http://www.whately.org/node/37/events/month/2017-01 [66898] -> "../data/townSites2/Whately/www.whately.org/node/37/events/month/2017-01" [1]
+2017-01-02 06:48:01 URL:http://www.whately.org/node/37/agenda [46645] -> "../data/townSites2/Whately/www.whately.org/node/37/agenda" [1]
+2017-01-02 06:48:02 URL:http://www.whately.org/budget-planning/agenda/joint-finance-committeehistorical-commissionselectboard [50421] -> "../data/townSites2/Whately/www.whately.org/budget-planning/agenda/joint-finance-committeehistorical-commissionselectboard" [1]
+2017-01-02 06:48:04 URL:http://www.whately.org/budget-planning/agenda/finance-committee-and-historic-commission [50141] -> "../data/townSites2/Whately/www.whately.org/budget-planning/agenda/finance-committee-and-historic-commission" [1]
+2017-01-02 06:48:05 URL:http://www.whately.org/budget-planning/agenda/joint-selectboard-and-finance-committee [50124] -> "../data/townSites2/Whately/www.whately.org/budget-planning/agenda/joint-selectboard-and-finance-committee" [1]
+2017-01-02 06:48:06 URL: http://www.whately.org/sites/whatelyma/files/agendas/finance_committee_7-13-16.doc 200 OK
+unlink: No such file or directory
+2017-01-02 06:48:07 URL:http://www.whately.org/community-preservation-committee [69588] -> "../data/townSites2/Whately/www.whately.org/node/38" [1]
+2017-01-02 06:48:08 URL:http://www.whately.org/print/38 [8188] -> "../data/townSites2/Whately/www.whately.org/print/38" [1]
+2017-01-02 06:48:10 URL:http://www.whately.org/user/73/contact [51366] -> "../data/townSites2/Whately/www.whately.org/user/73/contact" [1]
+2017-01-02 06:48:10 URL: http://www.whately.org/node/38/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:48:11 URL:http://www.whately.org/node/38/news [48853] -> "../data/townSites2/Whately/www.whately.org/node/38/news" [1]
+2017-01-02 06:48:13 URL:http://www.whately.org/community-preservation-committee/news/cpa-funding-applications-due-tuesday-dec-13-5pm [51004] -> "../data/townSites2/Whately/www.whately.org/community-preservation-committee/news/cpa-funding-applications-due-tuesday-dec-13-5pm" [1]
+2017-01-02 06:48:14 URL:http://www.whately.org/node/38/events/month [68438] -> "../data/townSites2/Whately/www.whately.org/node/38/events/month" [1]
+2017-01-02 06:48:16 URL:http://www.whately.org/node/38/events/month/2017-01 [68495] -> "../data/townSites2/Whately/www.whately.org/node/38/events/month/2017-01" [1]
+2017-01-02 06:48:17 URL:http://www.whately.org/node/38/agenda [48208] -> "../data/townSites2/Whately/www.whately.org/node/38/agenda" [1]
+2017-01-02 06:48:18 URL:http://www.whately.org/community-preservation-committee/agenda/community-preservation-committee-2 [51621] -> "../data/townSites2/Whately/www.whately.org/community-preservation-committee/agenda/community-preservation-committee-2" [1]
+2017-01-02 06:48:20 URL:http://www.whately.org/community-preservation-committee/agenda/community-preservation-committee-1 [51834] -> "../data/townSites2/Whately/www.whately.org/community-preservation-committee/agenda/community-preservation-committee-1" [1]
+2017-01-02 06:48:21 URL:http://www.whately.org/community-preservation-committee/agenda/community-preservation-committee-0 [51824] -> "../data/townSites2/Whately/www.whately.org/community-preservation-committee/agenda/community-preservation-committee-0" [1]
+2017-01-02 06:48:22 URL:http://www.whately.org/community-preservation-committee/agenda/community-preservation-commission [52136] -> "../data/townSites2/Whately/www.whately.org/community-preservation-committee/agenda/community-preservation-commission" [1]
+2017-01-02 06:48:24 URL:http://www.whately.org/community-preservation-committee/agenda/community-preservation-committee [51816] -> "../data/townSites2/Whately/www.whately.org/community-preservation-committee/agenda/community-preservation-committee" [1]
+2017-01-02 06:48:25 URL:http://www.whately.org/conservation-commission [66741] -> "../data/townSites2/Whately/www.whately.org/node/39" [1]
+2017-01-02 06:48:26 URL:http://www.whately.org/print/39 [6223] -> "../data/townSites2/Whately/www.whately.org/print/39" [1]
+2017-01-02 06:48:26 URL: http://www.whately.org/node/39/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:48:28 URL:http://www.whately.org/node/39/events/month [66897] -> "../data/townSites2/Whately/www.whately.org/node/39/events/month" [1]
+2017-01-02 06:48:30 URL:http://www.whately.org/node/39/events/month/2017-01 [66954] -> "../data/townSites2/Whately/www.whately.org/node/39/events/month/2017-01" [1]
+2017-01-02 06:48:31 URL:http://www.whately.org/node/39/agenda [46685] -> "../data/townSites2/Whately/www.whately.org/node/39/agenda" [1]
+2017-01-02 06:48:33 URL:http://www.whately.org/conservation-commission/agenda/conservation-commission-5 [50365] -> "../data/townSites2/Whately/www.whately.org/conservation-commission/agenda/conservation-commission-5" [1]
+2017-01-02 06:48:34 URL:http://www.whately.org/conservation-commission/agenda/conservation-commission-4 [50367] -> "../data/townSites2/Whately/www.whately.org/conservation-commission/agenda/conservation-commission-4" [1]
+2017-01-02 06:48:35 URL:http://www.whately.org/conservation-commission/agenda/conservation-commission-3 [50366] -> "../data/townSites2/Whately/www.whately.org/conservation-commission/agenda/conservation-commission-3" [1]
+2017-01-02 06:48:37 URL:http://www.whately.org/conservation-commission/agenda/conservation-commission-2 [50140] -> "../data/townSites2/Whately/www.whately.org/conservation-commission/agenda/conservation-commission-2" [1]
+2017-01-02 06:48:38 URL:http://www.whately.org/conservation-commission/agenda/conservation-commission-1 [50360] -> "../data/townSites2/Whately/www.whately.org/conservation-commission/agenda/conservation-commission-1" [1]
+2017-01-02 06:48:39 URL:http://www.whately.org/cultural-council [55564] -> "../data/townSites2/Whately/www.whately.org/node/40" [1]
+2017-01-02 06:48:40 URL:http://www.whately.org/print/40 [6545] -> "../data/townSites2/Whately/www.whately.org/print/40" [1]
+2017-01-02 06:48:42 URL:http://www.whately.org/user/23/contact [51414] -> "../data/townSites2/Whately/www.whately.org/user/23/contact" [1]
+2017-01-02 06:48:42 URL: http://www.whately.org/node/40/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:48:43 URL:http://www.whately.org/node/40/agenda [46650] -> "../data/townSites2/Whately/www.whately.org/node/40/agenda" [1]
+2017-01-02 06:48:45 URL:http://www.whately.org/cultural-council/agenda/cultural-council [50047] -> "../data/townSites2/Whately/www.whately.org/cultural-council/agenda/cultural-council" [1]
+2017-01-02 06:48:46 URL:http://www.whately.org/energy-committee [62997] -> "../data/townSites2/Whately/www.whately.org/node/41" [1]
+2017-01-02 06:48:46 URL:http://www.whately.org/print/41 [6123] -> "../data/townSites2/Whately/www.whately.org/print/41" [1]
+2017-01-02 06:48:47 URL: http://www.whately.org/node/41/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:48:48 URL:http://www.whately.org/node/41/events/month [67480] -> "../data/townSites2/Whately/www.whately.org/node/41/events/month" [1]
+2017-01-02 06:48:50 URL:http://www.whately.org/node/41/events/month/2017-01 [67537] -> "../data/townSites2/Whately/www.whately.org/node/41/events/month/2017-01" [1]
+2017-01-02 06:48:51 URL:http://www.whately.org/energy-committee/pages/masssave-home-energy-audits [50315] -> "../data/townSites2/Whately/www.whately.org/node/119" [1]
+2017-01-02 06:48:52 URL:http://www.whately.org/print/119 [6272] -> "../data/townSites2/Whately/www.whately.org/print/119" [1]
+2017-01-02 06:48:53 URL:http://www.whately.org/franklin-regional-council-governments [62783] -> "../data/townSites2/Whately/www.whately.org/node/42" [1]
+2017-01-02 06:48:54 URL:http://www.whately.org/print/42 [6655] -> "../data/townSites2/Whately/www.whately.org/print/42" [1]
+2017-01-02 06:48:55 URL: http://www.whately.org/node/42/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:48:56 URL:http://www.whately.org/node/42/events/month [67013] -> "../data/townSites2/Whately/www.whately.org/node/42/events/month" [1]
+2017-01-02 06:48:58 URL:http://www.whately.org/node/42/events/month/2017-01 [67070] -> "../data/townSites2/Whately/www.whately.org/node/42/events/month/2017-01" [1]
+2017-01-02 06:48:59 URL:http://www.whately.org/historical-commission [71160] -> "../data/townSites2/Whately/www.whately.org/node/43" [1]
+2017-01-02 06:49:00 URL:http://www.whately.org/print/43 [7995] -> "../data/townSites2/Whately/www.whately.org/print/43" [1]
+2017-01-02 06:49:01 URL:http://www.whately.org/user/63/contact [51364] -> "../data/townSites2/Whately/www.whately.org/user/63/contact" [1]
+2017-01-02 06:49:03 URL: http://www.whately.org/node/43/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:49:04 URL:http://www.whately.org/node/43/events/month [67676] -> "../data/townSites2/Whately/www.whately.org/node/43/events/month" [1]
+2017-01-02 06:49:06 URL:http://www.whately.org/node/43/events/month/2017-01 [67733] -> "../data/townSites2/Whately/www.whately.org/node/43/events/month/2017-01" [1]
+2017-01-02 06:49:07 URL:http://www.whately.org/node/43/agenda [47534] -> "../data/townSites2/Whately/www.whately.org/node/43/agenda" [1]
+2017-01-02 06:49:08 URL:http://www.whately.org/historical-commission/agenda/municipal-building-committee-and-historical-commission-7 [51238] -> "../data/townSites2/Whately/www.whately.org/historical-commission/agenda/municipal-building-committee-and-historical-commission-7" [1]
+2017-01-02 06:49:09 URL:http://www.whately.org/historical-commission/agenda/joint-finance-committeehistorical-commissionselectboard [51262] -> "../data/townSites2/Whately/www.whately.org/historical-commission/agenda/joint-finance-committeehistorical-commissionselectboard" [1]
+2017-01-02 06:49:11 URL:http://www.whately.org/historical-commission/agenda/municipal-building-committee-historical-commission-2 [51049] -> "../data/townSites2/Whately/www.whately.org/historical-commission/agenda/municipal-building-committee-historical-commission-2" [1]
+2017-01-02 06:49:12 URL:http://www.whately.org/historical-commission/agenda/finance-committee-and-historic-commission [50989] -> "../data/townSites2/Whately/www.whately.org/historical-commission/agenda/finance-committee-and-historic-commission" [1]
+2017-01-02 06:49:13 URL: http://www.whately.org/sites/whatelyma/files/agendas/mbc_meeting_change.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:49:14 URL:http://www.whately.org/node/43/minutes [47476] -> "../data/townSites2/Whately/www.whately.org/node/43/minutes" [1]
+2017-01-02 06:49:15 URL: http://www.whately.org/sites/whatelyma/files/minutes/whc_-_minutes_-_08_15_16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:49:16 URL:http://www.whately.org/historical-commission/pages/useful-links [50623] -> "../data/townSites2/Whately/www.whately.org/node/126" [1]
+2017-01-02 06:49:17 URL:http://www.whately.org/print/126 [6456] -> "../data/townSites2/Whately/www.whately.org/print/126" [1]
+2017-01-02 06:49:18 URL:http://www.whately.org/historical-commission/pages/whately-national-register-districts [50411] -> "../data/townSites2/Whately/www.whately.org/node/125" [1]
+2017-01-02 06:49:19 URL:http://www.whately.org/print/125 [6372] -> "../data/townSites2/Whately/www.whately.org/print/125" [1]
+2017-01-02 06:49:20 URL: http://www.whately.org/sites/whatelyma/files/uploads/whately_center_nrhd_compressed.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:49:21 URL: http://www.whately.org/sites/whatelyma/files/uploads/west_whately_nrhd.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:49:22 URL:http://www.whately.org/housing-committee [69514] -> "../data/townSites2/Whately/www.whately.org/node/44" [1]
+2017-01-02 06:49:23 URL:http://www.whately.org/print/44 [8310] -> "../data/townSites2/Whately/www.whately.org/print/44" [1]
+2017-01-02 06:49:23 URL: http://www.whately.org/node/44/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:49:25 URL:http://www.whately.org/node/44/events/month [67499] -> "../data/townSites2/Whately/www.whately.org/node/44/events/month" [1]
+2017-01-02 06:49:26 URL:http://www.whately.org/node/44/events/month/2017-01 [67556] -> "../data/townSites2/Whately/www.whately.org/node/44/events/month/2017-01" [1]
+2017-01-02 06:49:27 URL:http://www.whately.org/node/44/agenda [47299] -> "../data/townSites2/Whately/www.whately.org/node/44/agenda" [1]
+2017-01-02 06:49:29 URL:http://www.whately.org/housing-committee/agenda/housing-committee-2 [50744] -> "../data/townSites2/Whately/www.whately.org/housing-committee/agenda/housing-committee-2" [1]
+2017-01-02 06:49:30 URL:http://www.whately.org/housing-committee/agenda/housing-committee-1 [50808] -> "../data/townSites2/Whately/www.whately.org/housing-committee/agenda/housing-committee-1" [1]
+2017-01-02 06:49:32 URL:http://www.whately.org/housing-committee/agenda/housing-committee-0 [51017] -> "../data/townSites2/Whately/www.whately.org/housing-committee/agenda/housing-committee-0" [1]
+2017-01-02 06:49:34 URL:http://www.whately.org/housing-committee/agenda/housing-committee [51016] -> "../data/townSites2/Whately/www.whately.org/housing-committee/agenda/housing-committee" [1]
+2017-01-02 06:49:35 URL:http://www.whately.org/municipal-building-committee [71698] -> "../data/townSites2/Whately/www.whately.org/node/45" [1]
+2017-01-02 06:49:35 URL:http://www.whately.org/print/45 [6740] -> "../data/townSites2/Whately/www.whately.org/print/45" [1]
+2017-01-02 06:49:37 URL:http://www.whately.org/user/26/contact [51500] -> "../data/townSites2/Whately/www.whately.org/user/26/contact" [1]
+2017-01-02 06:49:38 URL: http://www.whately.org/node/45/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:49:40 URL:http://www.whately.org/node/45/events/month [67570] -> "../data/townSites2/Whately/www.whately.org/node/45/events/month" [1]
+2017-01-02 06:49:41 URL:http://www.whately.org/node/45/events/month/2017-01 [67627] -> "../data/townSites2/Whately/www.whately.org/node/45/events/month/2017-01" [1]
+2017-01-02 06:49:42 URL:http://www.whately.org/node/45/agenda [47414] -> "../data/townSites2/Whately/www.whately.org/node/45/agenda" [1]
+2017-01-02 06:49:43 URL:http://www.whately.org/municipal-building-committee/agenda/municipal-building-committee-and-historical-commission-8 [51139] -> "../data/townSites2/Whately/www.whately.org/municipal-building-committee/agenda/municipal-building-committee-and-historical-commission-8" [1]
+2017-01-02 06:49:45 URL:http://www.whately.org/municipal-building-committee/agenda/municipal-building-committee-historical-commission-2 [50946] -> "../data/townSites2/Whately/www.whately.org/municipal-building-committee/agenda/municipal-building-committee-historical-commission-2" [1]
+2017-01-02 06:49:46 URL:http://www.whately.org/municipal-building-committee/agenda/municipal-building-committee-historical-commission-1 [50938] -> "../data/townSites2/Whately/www.whately.org/municipal-building-committee/agenda/municipal-building-committee-historical-commission-1" [1]
+2017-01-02 06:49:48 URL:http://www.whately.org/municipal-building-committee/agenda/municipal-building-committee-historical-commission-0 [50947] -> "../data/townSites2/Whately/www.whately.org/municipal-building-committee/agenda/municipal-building-committee-historical-commission-0" [1]
+2017-01-02 06:49:49 URL:http://www.whately.org/municipal-building-committee/agenda/municipal-building-committee-and-historical-commission-7 [50954] -> "../data/townSites2/Whately/www.whately.org/municipal-building-committee/agenda/municipal-building-committee-and-historical-commission-7" [1]
+2017-01-02 06:49:50 URL:http://www.whately.org/node/45/minutes [47423] -> "../data/townSites2/Whately/www.whately.org/node/45/minutes" [1]
+2017-01-02 06:49:51 URL: http://www.whately.org/sites/whatelyma/files/minutes/mbc_hc_minutes_10-26-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:49:52 URL: http://www.whately.org/sites/whatelyma/files/minutes/mbc_hc_minutes_10-11-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:49:53 URL: http://www.whately.org/sites/whatelyma/files/minutes/mbc_hc_minutes_9-14-16-2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:49:54 URL: http://www.whately.org/sites/whatelyma/files/minutes/mbc_hc_minutes_8-31-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:49:55 URL: http://www.whately.org/sites/whatelyma/files/minutes/mbc_hc_minutes_8-1-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:49:56 URL:http://www.whately.org/municipal-building-committee/pages/town-hall-rehabilitation [50580] -> "../data/townSites2/Whately/www.whately.org/node/141" [1]
+2017-01-02 06:49:58 URL:http://www.whately.org/print/141 [6747] -> "../data/townSites2/Whately/www.whately.org/print/141" [1]
+2017-01-02 06:49:58 URL: http://www.whately.org/sites/whatelyma/files/uploads/2016_cpa_th_request_overview.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:49:59 URL: http://www.whately.org/sites/whatelyma/files/uploads/th_preliminary_plans_11-14-16a.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:50:00 URL: http://www.whately.org/sites/whatelyma/files/uploads/report_on_community_space_needs_survey.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:50:02 URL:http://www.whately.org/planning-board [69373] -> "../data/townSites2/Whately/www.whately.org/node/46" [1]
+2017-01-02 06:50:03 URL:http://www.whately.org/print/46 [7445] -> "../data/townSites2/Whately/www.whately.org/print/46" [1]
+2017-01-02 06:50:05 URL:http://www.whately.org/user/48/contact [51354] -> "../data/townSites2/Whately/www.whately.org/user/48/contact" [1]
+2017-01-02 06:50:06 URL: http://www.whately.org/node/46/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:50:07 URL:http://www.whately.org/node/46/events/month [68059] -> "../data/townSites2/Whately/www.whately.org/node/46/events/month" [1]
+2017-01-02 06:50:09 URL:http://www.whately.org/node/46/events/month/2017-01 [68116] -> "../data/townSites2/Whately/www.whately.org/node/46/events/month/2017-01" [1]
+2017-01-02 06:50:10 URL:http://www.whately.org/node/46/agenda [47865] -> "../data/townSites2/Whately/www.whately.org/node/46/agenda" [1]
+2017-01-02 06:50:12 URL:http://www.whately.org/planning-board/agenda/planning-board-goodridge-site-plan [53563] -> "../data/townSites2/Whately/www.whately.org/planning-board/agenda/planning-board-goodridge-site-plan" [1]
+2017-01-02 06:50:13 URL:http://www.whately.org/planning-board/agenda/whately-planning-board [52179] -> "../data/townSites2/Whately/www.whately.org/planning-board/agenda/whately-planning-board" [1]
+2017-01-02 06:50:15 URL:http://www.whately.org/planning-board/agenda/planning-board [52126] -> "../data/townSites2/Whately/www.whately.org/planning-board/agenda/planning-board" [1]
+2017-01-02 06:50:17 URL:http://www.whately.org/planning-board/agenda/planning-board-0 [52161] -> "../data/townSites2/Whately/www.whately.org/planning-board/agenda/planning-board-0" [1]
+2017-01-02 06:50:18 URL:http://www.whately.org/planning-board/agenda/planning-board-site-plan-legal-notice [52160] -> "../data/townSites2/Whately/www.whately.org/planning-board/agenda/planning-board-site-plan-legal-notice" [1]
+2017-01-02 06:50:19 URL:http://www.whately.org/planning-board/pages/application-forms [51572] -> "../data/townSites2/Whately/www.whately.org/node/613" [1]
+2017-01-02 06:50:20 URL:http://www.whately.org/print/613 [6264] -> "../data/townSites2/Whately/www.whately.org/print/613" [1]
+2017-01-02 06:50:21 URL: http://www.whately.org/sites/whatelyma/files/uploads/form_a_revised_10-16_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:50:22 URL: http://www.whately.org/sites/whatelyma/files/uploads/site_plan_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:50:23 URL: http://www.whately.org/sites/whatelyma/files/uploads/driveway_special_permit_application2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:50:24 URL:http://www.whately.org/recreation-commission [70027] -> "../data/townSites2/Whately/www.whately.org/node/47" [1]
+2017-01-02 06:50:25 URL:http://www.whately.org/print/47 [7991] -> "../data/townSites2/Whately/www.whately.org/print/47" [1]
+2017-01-02 06:50:27 URL:http://www.whately.org/user/27/contact [51430] -> "../data/townSites2/Whately/www.whately.org/user/27/contact" [1]
+2017-01-02 06:50:28 URL: http://www.whately.org/node/47/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:50:29 URL:http://www.whately.org/node/47/events/month [68012] -> "../data/townSites2/Whately/www.whately.org/node/47/events/month" [1]
+2017-01-02 06:50:31 URL:http://www.whately.org/node/47/events/month/2017-01 [68069] -> "../data/townSites2/Whately/www.whately.org/node/47/events/month/2017-01" [1]
+2017-01-02 06:50:33 URL:http://www.whately.org/node/47/agenda [47804] -> "../data/townSites2/Whately/www.whately.org/node/47/agenda" [1]
+2017-01-02 06:50:35 URL:http://www.whately.org/recreation-commission/agenda/recreation-commission-3 [51398] -> "../data/townSites2/Whately/www.whately.org/recreation-commission/agenda/recreation-commission-3" [1]
+2017-01-02 06:50:36 URL:http://www.whately.org/recreation-commission/agenda/recreation-commission-2 [51184] -> "../data/townSites2/Whately/www.whately.org/recreation-commission/agenda/recreation-commission-2" [1]
+2017-01-02 06:50:38 URL:http://www.whately.org/recreation-commission/agenda/recreation-commission-1 [51437] -> "../data/townSites2/Whately/www.whately.org/recreation-commission/agenda/recreation-commission-1" [1]
+2017-01-02 06:50:40 URL:http://www.whately.org/recreation-commission/agenda/recreation-commission-0 [51435] -> "../data/townSites2/Whately/www.whately.org/recreation-commission/agenda/recreation-commission-0" [1]
+2017-01-02 06:50:42 URL:http://www.whately.org/recreation-commission/agenda/recreation-commission [51213] -> "../data/townSites2/Whately/www.whately.org/recreation-commission/agenda/recreation-commission" [1]
+2017-01-02 06:50:43 URL:http://www.whately.org/recreation-commission/pages/facility-rentals [50981] -> "../data/townSites2/Whately/www.whately.org/node/176" [1]
+2017-01-02 06:50:44 URL:http://www.whately.org/print/176 [6479] -> "../data/townSites2/Whately/www.whately.org/print/176" [1]
+2017-01-02 06:50:47 URL:http://www.whately.org/recreation-commission/webforms/facility-reservation-request [64228/64228] -> "../data/townSites2/Whately/www.whately.org/recreation-commission/webforms/facility-use-request" [1]
+2017-01-02 06:50:48 URL:http://www.whately.org/recreation-commission/pages/volunteer-opportunities [50727] -> "../data/townSites2/Whately/www.whately.org/node/177" [1]
+2017-01-02 06:50:49 URL:http://www.whately.org/print/177 [6278] -> "../data/townSites2/Whately/www.whately.org/print/177" [1]
+2017-01-02 06:50:50 URL:http://www.whately.org/tri-town-boards-committees [63076] -> "../data/townSites2/Whately/www.whately.org/node/666" [1]
+2017-01-02 06:50:51 URL:http://www.whately.org/print/666 [7653] -> "../data/townSites2/Whately/www.whately.org/print/666" [1]
+2017-01-02 06:50:52 URL: http://www.whately.org/node/666/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:50:54 URL:http://www.whately.org/node/666/events/month [66956] -> "../data/townSites2/Whately/www.whately.org/node/666/events/month" [1]
+2017-01-02 06:50:56 URL:http://www.whately.org/node/666/events/month/2017-01 [67013] -> "../data/townSites2/Whately/www.whately.org/node/666/events/month/2017-01" [1]
+2017-01-02 06:50:57 URL:http://www.whately.org/zoning-board-appeals [67817] -> "../data/townSites2/Whately/www.whately.org/node/51" [1]
+2017-01-02 06:50:58 URL:http://www.whately.org/print/51 [6678] -> "../data/townSites2/Whately/www.whately.org/print/51" [1]
+2017-01-02 06:50:59 URL: http://www.whately.org/node/51/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:51:01 URL:http://www.whately.org/node/51/events/month [68103] -> "../data/townSites2/Whately/www.whately.org/node/51/events/month" [1]
+2017-01-02 06:51:03 URL:http://www.whately.org/node/51/events/month/2017-01 [68160] -> "../data/townSites2/Whately/www.whately.org/node/51/events/month/2017-01" [1]
+2017-01-02 06:51:04 URL:http://www.whately.org/node/51/agenda [47957] -> "../data/townSites2/Whately/www.whately.org/node/51/agenda" [1]
+2017-01-02 06:51:07 URL:http://www.whately.org/zoning-board-appeals/agenda/zoning-board-appeals-2 [51259] -> "../data/townSites2/Whately/www.whately.org/zoning-board-appeals/agenda/zoning-board-appeals-2" [1]
+2017-01-02 06:51:08 URL:http://www.whately.org/zoning-board-appeals/agenda/zoning-board-appeals-1 [51432] -> "../data/townSites2/Whately/www.whately.org/zoning-board-appeals/agenda/zoning-board-appeals-1" [1]
+2017-01-02 06:51:10 URL:http://www.whately.org/zoning-board-appeals/agenda/zoning-board-appeals-0 [51289] -> "../data/townSites2/Whately/www.whately.org/zoning-board-appeals/agenda/zoning-board-appeals-0" [1]
+2017-01-02 06:51:11 URL:http://www.whately.org/zoning-board-appeals/agenda/zoning-board-appeals [51241] -> "../data/townSites2/Whately/www.whately.org/zoning-board-appeals/agenda/zoning-board-appeals" [1]
+2017-01-02 06:51:12 URL:http://www.whately.org/zoning-board-appeals/pages/forms-applications [50558] -> "../data/townSites2/Whately/www.whately.org/node/646" [1]
+2017-01-02 06:51:13 URL:http://www.whately.org/print/646 [6111] -> "../data/townSites2/Whately/www.whately.org/print/646" [1]
+2017-01-02 06:51:14 URL: http://www.whately.org/sites/whatelyma/files/uploads/zba_application_form_4-2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:51:16 URL:http://www.whately.org/quick-view/13 [49643] -> "../data/townSites2/Whately/www.whately.org/quick-view/13" [1]
+2017-01-02 06:51:18 URL:http://www.whately.org/quick-view/24 [50341] -> "../data/townSites2/Whately/www.whately.org/quick-view/24" [1]
+2017-01-02 06:51:19 URL:http://www.whately.org/where/a [49891] -> "../data/townSites2/Whately/www.whately.org/where/a" [1]
+2017-01-02 06:51:20 URL:http://www.whately.org/where/b [50363] -> "../data/townSites2/Whately/www.whately.org/where/b" [1]
+2017-01-02 06:51:22 URL:http://www.whately.org/where/c [49628] -> "../data/townSites2/Whately/www.whately.org/where/c" [1]
+2017-01-02 06:51:23 URL:http://www.whately.org/where/d [49641] -> "../data/townSites2/Whately/www.whately.org/where/d" [1]
+2017-01-02 06:51:24 URL:http://www.whately.org/where/e [49898] -> "../data/townSites2/Whately/www.whately.org/where/e" [1]
+2017-01-02 06:51:26 URL:http://www.whately.org/where/f [50229] -> "../data/townSites2/Whately/www.whately.org/where/f" [1]
+2017-01-02 06:51:27 URL:http://www.whately.org/where/m [49679] -> "../data/townSites2/Whately/www.whately.org/where/m" [1]
+2017-01-02 06:51:28 URL:http://www.whately.org/where/n [49652] -> "../data/townSites2/Whately/www.whately.org/where/n" [1]
+2017-01-02 06:51:30 URL:http://www.whately.org/where/o [49650] -> "../data/townSites2/Whately/www.whately.org/where/o" [1]
+2017-01-02 06:51:31 URL:http://www.whately.org/where/p [49653] -> "../data/townSites2/Whately/www.whately.org/where/p" [1]
+2017-01-02 06:51:33 URL:http://www.whately.org/where/r [49648] -> "../data/townSites2/Whately/www.whately.org/where/r" [1]
+2017-01-02 06:51:34 URL:http://www.whately.org/where/s [50482] -> "../data/townSites2/Whately/www.whately.org/where/s" [1]
+2017-01-02 06:51:35 URL:http://www.whately.org/where/t [50211] -> "../data/townSites2/Whately/www.whately.org/where/t" [1]
+2017-01-02 06:51:37 URL:http://www.whately.org/where/u [49614] -> "../data/townSites2/Whately/www.whately.org/where/u" [1]
+2017-01-02 06:51:38 URL:http://www.whately.org/where/z [49884] -> "../data/townSites2/Whately/www.whately.org/where/z" [1]
+2017-01-02 06:51:41 URL:http://www.whately.org/home/webforms/contact-us [57491/57491] -> "../data/townSites2/Whately/www.whately.org/node/2" [1]
+2017-01-02 06:51:43 URL:http://www.whately.org/print/2 [14911/14911] -> "../data/townSites2/Whately/www.whately.org/print/2" [1]
+2017-01-02 06:51:46 URL:http://www.whately.org/about-whately/webforms/business-listing-request-form [59731/59731] -> "../data/townSites2/Whately/www.whately.org/node/108" [1]
+2017-01-02 06:51:47 URL:http://www.whately.org/print/108 [13846/13846] -> "../data/townSites2/Whately/www.whately.org/print/108" [1]
+2017-01-02 06:51:48 URL: http://www.whately.org/calendar/feed/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 06:51:50 URL:http://www.whately.org/calendar/month [96498] -> "../data/townSites2/Whately/www.whately.org/calendar/month" [1]
+2017-01-02 06:51:51 URL:http://www.whately.org/calendar/week [54630] -> "../data/townSites2/Whately/www.whately.org/calendar/week" [1]
+2017-01-02 06:51:53 URL:http://www.whately.org/calendar/day [53107] -> "../data/townSites2/Whately/www.whately.org/calendar/day" [1]
+2017-01-02 06:51:55 URL:http://www.whately.org/calendar/year [164837] -> "../data/townSites2/Whately/www.whately.org/calendar/year" [1]
+2017-01-02 06:51:57 URL:http://www.whately.org/calendar/upcoming [60193] -> "../data/townSites2/Whately/www.whately.org/calendar/upcoming" [1]
+2017-01-02 06:51:59 URL:http://www.whately.org/calendar/month/2016-12 [216241] -> "../data/townSites2/Whately/www.whately.org/calendar/month/2016-12" [1]
+2017-01-02 06:52:01 URL:http://www.whately.org/calendar/month/2017-02 [81574] -> "../data/townSites2/Whately/www.whately.org/calendar/month/2017-02" [1]
+2017-01-02 06:52:02 URL:http://www.whately.org/calendar/day/2017-01-03 [53956] -> "../data/townSites2/Whately/www.whately.org/calendar/day/2017-01-03" [1]
+2017-01-02 06:52:04 URL:http://www.whately.org/calendar/day/2017-01-05 [53910] -> "../data/townSites2/Whately/www.whately.org/calendar/day/2017-01-05" [1]
+2017-01-02 06:52:06 URL:http://www.whately.org/calendar/day/2017-01-09 [53583] -> "../data/townSites2/Whately/www.whately.org/calendar/day/2017-01-09" [1]
+2017-01-02 06:52:07 URL:http://www.whately.org/calendar/day/2017-01-25 [53867] -> "../data/townSites2/Whately/www.whately.org/calendar/day/2017-01-25" [1]
+2017-01-02 06:52:08 URL:http://www.whately.org/open-procurements-0 [51735] -> "../data/townSites2/Whately/www.whately.org/node/6673" [1]
+2017-01-02 06:52:09 URL:http://www.whately.org/print/6673 [5956] -> "../data/townSites2/Whately/www.whately.org/print/6673" [1]
+2017-01-02 06:52:10 URL: http://www.whately.org/node/6673/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:52:11 URL:http://www.whately.org/public-records-information [53586] -> "../data/townSites2/Whately/www.whately.org/node/10073" [1]
+2017-01-02 06:52:12 URL:http://www.whately.org/print/10073 [7825] -> "../data/townSites2/Whately/www.whately.org/print/10073" [1]
+2017-01-02 06:52:13 URL: http://www.whately.org/sites/whatelyma/files/uploads/an_act_to_improve_public_records.doc 200 OK
+unlink: No such file or directory
+2017-01-02 06:52:14 URL: http://www.whately.org/sites/whatelyma/files/uploads/public_records_request_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:52:15 URL: http://www.whately.org/node/10073/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:52:16 URL:http://www.whately.org/home/news/whately-town-offices-closed-holiday-0 [49460] -> "../data/townSites2/Whately/www.whately.org/node/9993" [1]
+2017-01-02 06:52:17 URL:http://www.whately.org/print/9993 [6297] -> "../data/townSites2/Whately/www.whately.org/print/9993" [1]
+2017-01-02 06:52:18 URL:http://www.whately.org/home/news/notice-penalties-illegal-open-burning [49606] -> "../data/townSites2/Whately/www.whately.org/node/9853" [1]
+2017-01-02 06:52:19 URL:http://www.whately.org/print/9853 [6586] -> "../data/townSites2/Whately/www.whately.org/print/9853" [1]
+2017-01-02 06:52:20 URL: http://www.whately.org/sites/whatelyma/files/uploads/open_burning_notice_of_penalties_-_december_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:52:21 URL:http://www.whately.org/home/news/transfer-station-holiday-hours [49325] -> "../data/townSites2/Whately/www.whately.org/node/9773" [1]
+2017-01-02 06:52:22 URL:http://www.whately.org/print/9773 [6143] -> "../data/townSites2/Whately/www.whately.org/print/9773" [1]
+2017-01-02 06:52:23 URL: http://www.whately.org/node/1/news/feed 200 OK
+unlink: No such file or directory
+2017-01-02 06:52:25 URL:http://www.whately.org/home/news/household-hazardous-waste-collections [49454] -> "../data/townSites2/Whately/www.whately.org/home/news/household-hazardous-waste-collections" [1]
+2017-01-02 06:52:27 URL:http://www.whately.org/calendar-by-event-type/16%2B17%2B19 [90049] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/16+17+19.1" [1]
+2017-01-02 06:52:28 URL:http://www.whately.org/calendar-by-event-type/16%2B17%2B19/day [52929] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/16+17+19/day.1" [1]
+2017-01-02 06:52:30 URL:http://www.whately.org/calendar-by-event-type/16%2B17%2B19/week [54452] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/16+17+19/week" [1]
+2017-01-02 06:52:32 URL:http://www.whately.org/calendar-by-event-type/16%2B17%2B19/year [161717] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/16+17+19/year" [1]
+2017-01-02 06:52:34 URL:http://www.whately.org/calendar-by-event-type/16%2B17%2B19/day/2017-01-02 [53020] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/16+17+19/day/2017-01-02" [1]
+2017-01-02 06:52:36 URL:http://www.whately.org/calendar-by-event-type/16%2B17%2B19/day/2017-01-04 [53023] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/16+17+19/day/2017-01-04" [1]
+2017-01-02 06:52:37 URL:http://www.whately.org/home/events/10043 [54753] -> "../data/townSites2/Whately/www.whately.org/node/10043" [1]
+2017-01-02 06:52:38 URL:http://www.whately.org/print/10043 [11823] -> "../data/townSites2/Whately/www.whately.org/print/10043" [1]
+2017-01-02 06:52:38 URL: http://www.whately.org/sites/whatelyma/files/agendas/1-3-2017_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:52:39 URL: http://www.whately.org/sites/whatelyma/files/agendas/1-3-2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:52:40 URL:http://www.whately.org/home/events/10003 [52791] -> "../data/townSites2/Whately/www.whately.org/node/10003" [1]
+2017-01-02 06:52:41 URL:http://www.whately.org/print/10003 [9893] -> "../data/townSites2/Whately/www.whately.org/print/10003" [1]
+2017-01-02 06:52:41 URL: http://www.whately.org/sites/whatelyma/files/agendas/subpolicy_1-3-17_agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:52:43 URL:http://www.whately.org/calendar-by-event-type/16%2B17%2B19/day/2017-01-06 [53020] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/16+17+19/day/2017-01-06" [1]
+2017-01-02 06:52:44 URL:http://www.whately.org/home/events/10013 [52536] -> "../data/townSites2/Whately/www.whately.org/node/10013" [1]
+2017-01-02 06:52:45 URL:http://www.whately.org/print/10013 [9608] -> "../data/townSites2/Whately/www.whately.org/print/10013" [1]
+2017-01-02 06:52:45 URL: http://www.whately.org/sites/whatelyma/files/agendas/frontier_budget_subcommittee.010517.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:52:46 URL:http://www.whately.org/home/events/9973 [52502] -> "../data/townSites2/Whately/www.whately.org/node/9973" [1]
+2017-01-02 06:52:48 URL:http://www.whately.org/print/9973 [9548] -> "../data/townSites2/Whately/www.whately.org/print/9973" [1]
+2017-01-02 06:52:48 URL: http://www.whately.org/sites/whatelyma/files/agendas/legal_notice_reed_jan_5_2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:52:49 URL:http://www.whately.org/calendar-by-event-type/16%2B17%2B19/day/2017-01-24 [53022] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/16+17+19/day/2017-01-24" [1]
+2017-01-02 06:52:50 URL:http://www.whately.org/calendar-by-event-type/16%2B17%2B19/day/2017-01-26 [53023] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/16+17+19/day/2017-01-26" [1]
+2017-01-02 06:52:52 URL:http://www.whately.org/home/events/3453 [49204] -> "../data/townSites2/Whately/www.whately.org/node/3453" [1]
+2017-01-02 06:52:53 URL:http://www.whately.org/print/3453 [6034] -> "../data/townSites2/Whately/www.whately.org/print/3453" [1]
+2017-01-02 06:52:53 URL: http://www.whately.org/calendar-by-event-type/feed/16%2B17%2B19/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 06:52:56 URL:http://www.whately.org/calendar-by-event-type/16%2B17%2B19/month/2016-12 [201951] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/16+17+19/month/2016-12" [1]
+2017-01-02 06:52:58 URL:http://www.whately.org/calendar-by-event-type/16%2B17%2B19/month/2017-02 [75030] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/16+17+19/month/2017-02" [1]
+2017-01-02 06:52:59 URL:http://www.whately.org/calendar-by-event-type/20 [78262] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/20.1" [1]
+2017-01-02 06:53:01 URL:http://www.whately.org/calendar-by-event-type/20/day [52746] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/20/day.1" [1]
+2017-01-02 06:53:02 URL:http://www.whately.org/calendar-by-event-type/20/week [52757] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/20/week" [1]
+2017-01-02 06:53:04 URL:http://www.whately.org/calendar-by-event-type/20/year [163209] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/20/year" [1]
+2017-01-02 06:53:06 URL:http://www.whately.org/calendar-by-event-type/20/day/2017-01-08 [52830] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/20/day/2017-01-08" [1]
+2017-01-02 06:53:07 URL:http://www.whately.org/calendar-by-event-type/20/day/2017-01-10 [52832] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/20/day/2017-01-10" [1]
+2017-01-02 06:53:09 URL:http://www.whately.org/home/events/3353 [49262] -> "../data/townSites2/Whately/www.whately.org/node/3353" [1]
+2017-01-02 06:53:10 URL:http://www.whately.org/print/3353 [6130] -> "../data/townSites2/Whately/www.whately.org/print/3353" [1]
+2017-01-02 06:53:11 URL:http://www.whately.org/calendar-by-event-type/20/day/2017-01-24 [52832] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/20/day/2017-01-24" [1]
+2017-01-02 06:53:13 URL:http://www.whately.org/calendar-by-event-type/20/day/2017-01-26 [52833] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/20/day/2017-01-26" [1]
+2017-01-02 06:53:14 URL:http://www.whately.org/home/events/4423 [48993] -> "../data/townSites2/Whately/www.whately.org/node/4423" [1]
+2017-01-02 06:53:15 URL:http://www.whately.org/print/4423 [5888] -> "../data/townSites2/Whately/www.whately.org/print/4423" [1]
+2017-01-02 06:53:16 URL: http://www.whately.org/calendar-by-event-type/feed/20/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 06:53:18 URL:http://www.whately.org/calendar-by-event-type/20/month/2016-12 [87780] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/20/month/2016-12" [1]
+2017-01-02 06:53:19 URL:http://www.whately.org/calendar-by-event-type/20/month/2017-02 [78522] -> "../data/townSites2/Whately/www.whately.org/calendar-by-event-type/20/month/2017-02" [1]
+2017-01-02 06:53:20 URL:http://www.whately.org/home/events/3363 [49264] -> "../data/townSites2/Whately/www.whately.org/node/3363" [1]
+2017-01-02 06:53:21 URL:http://www.whately.org/print/3363 [6132] -> "../data/townSites2/Whately/www.whately.org/print/3363" [1]
+2017-01-02 06:53:22 URL:http://www.whately.org/home/events/4433 [48994] -> "../data/townSites2/Whately/www.whately.org/node/4433" [1]
+2017-01-02 06:53:23 URL:http://www.whately.org/print/4433 [5889] -> "../data/townSites2/Whately/www.whately.org/print/4433" [1]
+2017-01-02 06:53:25 URL:http://www.whately.org/home/events/3373 [49261] -> "../data/townSites2/Whately/www.whately.org/node/3373" [1]
+2017-01-02 06:53:25 URL:http://www.whately.org/print/3373 [6129] -> "../data/townSites2/Whately/www.whately.org/print/3373" [1]
+2017-01-02 06:53:27 URL:http://www.whately.org/home/pages/bylaws-regulations [49322] -> "../data/townSites2/Whately/www.whately.org/node/18" [1]
+2017-01-02 06:53:28 URL:http://www.whately.org/print/18 [6204] -> "../data/townSites2/Whately/www.whately.org/print/18" [1]
+2017-01-02 06:53:28 URL: http://www.whately.org/sites/whatelyma/files/uploads/abatement_re_pp.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:53:29 URL: http://www.whately.org/sites/whatelyma/files/uploads/all-personal-96.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:53:31 URL: http://www.whately.org/sites/whatelyma/files/uploads/motor-vehicle-abatement.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:53:31 URL: http://www.whately.org/sites/whatelyma/files/uploads/chapter_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:53:33 URL: http://www.whately.org/sites/whatelyma/files/uploads/chapter_acknowledgement_61b.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:53:34 URL:http://www.whately.org/node/16/files [49746] -> "../data/townSites2/Whately/www.whately.org/node/16/files" [1]
+2017-01-02 06:53:36 URL:http://www.whately.org/node/36/files [49711] -> "../data/townSites2/Whately/www.whately.org/node/36/files" [1]
+2017-01-02 06:53:37 URL: http://www.whately.org/sites/whatelyma/files/uploads/cemeteryguidelines1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:53:38 URL: http://www.whately.org/sites/whatelyma/files/uploads/employment_application_2012.doc 200 OK
+unlink: No such file or directory
+2017-01-02 06:53:39 URL: http://www.whately.org/sites/whatelyma/files/uploads/facility_use_policy_2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:53:40 URL:http://www.whately.org/node/46/files [49584] -> "../data/townSites2/Whately/www.whately.org/node/46/files" [1]
+2017-01-02 06:53:41 URL: http://www.whately.org/sites/whatelyma/files/uploads/large-capacity-roster-06-2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:53:42 URL: http://www.whately.org/sites/whatelyma/files/uploads/fid-ltc_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:53:44 URL:http://www.whately.org/node/28/files [50505] -> "../data/townSites2/Whately/www.whately.org/node/28/files" [1]
+2017-01-02 06:53:45 URL:http://www.whately.org/node/6573/agenda [46814] -> "../data/townSites2/Whately/www.whately.org/node/6573/agenda" [1]
+2017-01-02 06:53:46 URL:http://www.whately.org/node/9083/agenda [46800] -> "../data/townSites2/Whately/www.whately.org/node/9083/agenda" [1]
+2017-01-02 06:53:47 URL:http://www.whately.org/node/6043/agenda [46759] -> "../data/townSites2/Whately/www.whately.org/node/6043/agenda" [1]
+2017-01-02 06:53:48 URL:http://www.whately.org/node/6643/agenda [46756] -> "../data/townSites2/Whately/www.whately.org/node/6643/agenda" [1]
+2017-01-02 06:53:50 URL:http://www.whately.org/home/pages/disclaimer [49143] -> "../data/townSites2/Whately/www.whately.org/node/15" [1]
+2017-01-02 06:53:51 URL:http://www.whately.org/print/15 [5841] -> "../data/townSites2/Whately/www.whately.org/print/15" [1]
+Found 2 broken links.
+
+https://calendar.google.com/calendar/embed?src=dl5cbmt8fb0fs0r0ol5k593alc%40group.calendar.google.com&ctz=America/New_York%20
+http://www.whately.org/www.edline.net/pages/Frontier_Regional
+
+FINISHED --2017-01-02 06:53:51--
+Total wall clock time: 16m 43s
+Downloaded: 592 files, 28M in 40s (702 KB/s)

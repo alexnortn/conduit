@@ -1,0 +1,1471 @@
+2017-01-02 04:18:32 URL:http://www.townofmaynard-ma.gov/ [112640] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/index.html" [1]
+http://www.townofmaynard-ma.gov/xmlrpc.php:
+Remote file does not exist -- broken link!!!
+2017-01-02 04:18:34 URL: http://www.townofmaynard-ma.gov/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:18:36 URL: http://www.townofmaynard-ma.gov/comments/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:18:37 URL: http://www.townofmaynard-ma.gov/wp-json/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:18:37 URL: http://www.townofmaynard-ma.gov/wp-includes/wlwmanifest.xml 200 OK
+unlink: No such file or directory
+2017-01-02 04:18:41 URL:http://www.townofmaynard-ma.gov/gov/town-hall-hours/ [98797] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/town-hall-hours/index.html" [1]
+2017-01-02 04:18:45 URL:http://www.townofmaynard-ma.gov/phonebook/ [101309] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/phonebook/index.html" [1]
+2017-01-02 04:18:48 URL:http://www.townofmaynard-ma.gov/gov/employment/ [104722] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/employment/index.html" [1]
+2017-01-02 04:18:53 URL:http://www.townofmaynard-ma.gov/gov/forms-and-applications/ [101576] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/forms-and-applications/index.html" [1]
+2017-01-02 04:18:57 URL:http://www.townofmaynard-ma.gov/gov/town-meeting/ [112553] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/town-meeting/index.html" [1]
+2017-01-02 04:19:00 URL:http://www.townofmaynard-ma.gov/gov/elections/ [103389] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/elections/index.html" [1]
+2017-01-02 04:19:04 URL:http://www.townofmaynard-ma.gov/gov/charter-and-bylaws/ [102043] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/charter-and-bylaws/index.html" [1]
+2017-01-02 04:19:07 URL:http://maynardtownadmin.org/ [41771] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/town-administrator/index.html" [1]
+2017-01-02 04:19:11 URL:http://www.townofmaynard-ma.gov/gov/board-of-selectmen/ [108543] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/board-of-selectmen/index.html" [1]
+2017-01-02 04:19:14 URL:http://www.townofmaynard-ma.gov/projects/ [99987] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/projects/index.html" [1]
+2017-01-02 04:19:18 URL:http://www.townofmaynard-ma.gov/gov/town-reports/ [99053] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/town-reports/index.html" [1]
+2017-01-02 04:19:36 URL:http://www.townofmaynard-ma.gov/gov/departments/town-clerk/officials/ [126291] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/town-clerk/officials/index.html" [1]
+2017-01-02 04:19:50 URL:http://www.townofmaynard-ma.gov/gov/committees/openings/ [99085] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/openings/index.html" [1]
+2017-01-02 04:20:02 URL:http://www.townofmaynard-ma.gov/gov/departments/ [100086] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/index.html" [1]
+2017-01-02 04:20:07 URL:http://www.townofmaynard-ma.gov/gov/departments/accounting/ [99441] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/accounting/index.html" [1]
+2017-01-02 04:20:20 URL:http://www.townofmaynard-ma.gov/gov/departments/assessors-office/ [107294] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/assessors-office/index.html" [1]
+2017-01-02 04:20:33 URL:http://www.townofmaynard-ma.gov/municipal-services/building-inspections/ [105683] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/municipal-services/building-inspections/index.html" [1]
+2017-01-02 04:20:38 URL:http://www.townofmaynard-ma.gov/gov/departments/town-clerk/ [105242] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/town-clerk/index.html" [1]
+2017-01-02 04:20:48 URL:http://www.townofmaynard-ma.gov/municipal-services/conservation/ [108201] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/municipal-services/conservation/index.html" [1]
+2017-01-02 04:20:57 URL:http://www.townofmaynard-ma.gov/gov/departments/council-on-aging/ [106044] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/council-on-aging/index.html" [1]
+2017-01-02 04:21:03 URL:http://www.townofmaynard-ma.gov/municipal-services/public-health/ [106427] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/municipal-services/public-health/index.html" [1]
+2017-01-02 04:21:07 URL:http://www.townofmaynard-ma.gov/dpw/ [104908] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/dpw/index.html" [1]
+2017-01-02 04:21:10 URL:http://www.townofmaynard-ma.gov/gov/departments/parking-clerk/ [103186] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/parking-clerk/index.html" [1]
+2017-01-02 04:21:14 URL:http://www.townofmaynard-ma.gov/municipal-services/planning/ [123479] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/municipal-services/planning/index.html" [1]
+2017-01-02 04:21:18 URL:http://www.townofmaynard-ma.gov/gov/departments/treasurer-collectors-office/ [104979] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/treasurer-collectors-office/index.html" [1]
+2017-01-02 04:21:21 URL:http://www.townofmaynard-ma.gov/gov/departments/veteran-services/ [101852] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/veteran-services/index.html" [1]
+2017-01-02 04:21:25 URL:http://www.townofmaynard-ma.gov/gov/committees/ [104223] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/index.html" [1]
+2017-01-02 04:21:28 URL:http://www.townofmaynard-ma.gov/gov/committees/ada/ [103216] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/ada/index.html" [1]
+2017-01-02 04:21:32 URL:http://www.townofmaynard-ma.gov/gov/committees/aht/ [100195] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/aht/index.html" [1]
+2017-01-02 04:21:36 URL:http://www.townofmaynard-ma.gov/gov/committees/bylaw/ [102456] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/bylaw/index.html" [1]
+2017-01-02 04:21:39 URL:http://www.townofmaynard-ma.gov/gov/committees/cpc/ [106072] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/cpc/index.html" [1]
+2017-01-02 04:21:43 URL:http://www.townofmaynard-ma.gov/gov/committees/cultural-council/ [103464] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/cultural-council/index.html" [1]
+2017-01-02 04:21:47 URL:http://www.townofmaynard-ma.gov/gov/committees/edc/ [102234] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/edc/index.html" [1]
+2017-01-02 04:21:51 URL:http://www.townofmaynard-ma.gov/gov/committees/finance-committee/ [101144] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/finance-committee/index.html" [1]
+2017-01-02 04:21:55 URL:http://www.townofmaynard-ma.gov/gov/committees/fsbc/ [105645] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/fsbc/index.html" [1]
+2017-01-02 04:21:59 URL:http://www.townofmaynard-ma.gov/gov/committees/green/ [104797] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/green/index.html" [1]
+2017-01-02 04:22:04 URL:http://www.townofmaynard-ma.gov/municipal-services/public-health/ [106427] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/safety/board-of-health/index.html" [1]
+2017-01-02 04:22:08 URL:http://www.townofmaynard-ma.gov/gov/committees/historical-commission/ [111639] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/historical-commission/index.html" [1]
+2017-01-02 04:22:12 URL:http://www.townofmaynard-ma.gov/gov/committees/library-board-of-trustees/ [101500] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/library-board-of-trustees/index.html" [1]
+2017-01-02 04:22:15 URL:http://www.townofmaynard-ma.gov/gov/committees/lepc/ [102000] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/lepc/index.html" [1]
+2017-01-02 04:22:20 URL:http://www.townofmaynard-ma.gov/gov/committees/recreation/ [107615] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/recreation/index.html" [1]
+2017-01-02 04:22:24 URL:http://www.townofmaynard-ma.gov/gov/committees/retirement-board/ [99326] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/retirement-board/index.html" [1]
+2017-01-02 04:22:31 URL:http://www.townofmaynard-ma.gov/gov/committees/school-building/ [114667] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/school-building/index.html" [1]
+2017-01-02 04:22:35 URL:http://www.townofmaynard-ma.gov/gov/committees/zoning-board-of-appeals/ [101811] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/zoning-board-of-appeals/index.html" [1]
+2017-01-02 04:22:39 URL:http://www.townofmaynard-ma.gov/gov/committees/capital-planning-committee/ [98818] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/capital-planning-committee/index.html" [1]
+2017-01-02 04:22:43 URL:http://www.townofmaynard-ma.gov/gov/committees/charter-review/ [102480] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/charter-review/index.html" [1]
+2017-01-02 04:22:47 URL:http://www.townofmaynard-ma.gov/gov/committees/mclcc/ [102072] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/mclcc/index.html" [1]
+2017-01-02 04:22:50 URL:http://www.townofmaynard-ma.gov/gov/committees/csrtf/ [108955] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/csrtf/index.html" [1]
+2017-01-02 04:22:54 URL:http://www.townofmaynard-ma.gov/gov/committees/mgcrc/ [110894] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/mgcrc/index.html" [1]
+2017-01-02 04:22:58 URL:http://www.townofmaynard-ma.gov/gov/committees/129ahc/ [102317] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/129ahc/index.html" [1]
+2017-01-02 04:23:02 URL:http://www.townofmaynard-ma.gov/gov/committees/psbc/ [100702] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/psbc/index.html" [1]
+2017-01-02 04:23:06 URL:http://www.townofmaynard-ma.gov/gov/committees/wpcsc/ [109243] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/wpcsc/index.html" [1]
+2017-01-02 04:23:09 URL:http://www.townofmaynard-ma.gov/municipal-services/ [105037] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/municipal-services/index.html" [1]
+2017-01-02 04:23:13 URL:http://www.townofmaynard-ma.gov/safety/emergency-numbers/ [99594] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/safety/emergency-numbers/index.html" [1]
+2017-01-02 04:23:17 URL:http://www.townofmaynard-ma.gov/safety/emergency-management/ [107390] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/safety/emergency-management/index.html" [1]
+2017-01-02 04:23:21 URL:http://www.townofmaynard-ma.gov/safety/local-hospitals/ [99709] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/safety/local-hospitals/index.html" [1]
+2017-01-02 04:23:25 URL:http://www.townofmaynard-ma.gov/municipal-services/public-health/mcc-mrc/ [105655] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/municipal-services/public-health/mcc-mrc/index.html" [1]
+2017-01-02 04:23:29 URL:http://www.townofmaynard-ma.gov/safety/animal-control/ [101389] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/safety/animal-control/index.html" [1]
+2017-01-02 04:23:33 URL:http://www.townofmaynard-ma.gov/safety/winter-storm-preparation/ [105536] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/safety/winter-storm-preparation/index.html" [1]
+2017-01-02 04:23:37 URL:http://www.townofmaynard-ma.gov/safety/blackboard-connect/ [106669] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/safety/blackboard-connect/index.html" [1]
+2017-01-02 04:23:41 URL:http://www.townofmaynard-ma.gov/dpw/contact/ [106083] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/dpw/contact/index.html" [1]
+2017-01-02 04:23:44 URL:http://www.townofmaynard-ma.gov/dpw/cemetery-division/ [101929] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/dpw/cemetery-division/index.html" [1]
+2017-01-02 04:23:48 URL:http://www.townofmaynard-ma.gov/dpw/highway/ [99193] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/dpw/highway/index.html" [1]
+2017-01-02 04:23:52 URL:http://www.townofmaynard-ma.gov/dpw/solid-waste-and-recycling/ [107999] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/dpw/solid-waste-and-recycling/index.html" [1]
+2017-01-02 04:23:56 URL:http://www.townofmaynard-ma.gov/dpw/street-lights/ [98950] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/dpw/street-lights/index.html" [1]
+2017-01-02 04:24:00 URL:http://www.townofmaynard-ma.gov/dpw/wwtp/ [98916] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/dpw/wwtp/index.html" [1]
+2017-01-02 04:24:03 URL:http://www.townofmaynard-ma.gov/dpw/water-and-sewer/ [107724] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/dpw/water-and-sewer/index.html" [1]
+2017-01-02 04:24:08 URL:http://www.townofmaynard-ma.gov/gov/departments/treasurer-collectors-office/paying-bills-online-faq/ [103076] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/treasurer-collectors-office/paying-bills-online-faq/index.html" [1]
+2017-01-02 04:24:11 URL:http://www.townofmaynard-ma.gov/senior-center/ [103756] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/senior-center/index.html" [1]
+2017-01-02 04:24:15 URL:http://www.townofmaynard-ma.gov/shuttle/ [105592] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/shuttle/index.html" [1]
+2017-01-02 04:24:20 URL:http://www.townofmaynard-ma.gov/resources/trails/ [107056] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/resources/trails/index.html" [1]
+2017-01-02 04:24:23 URL:http://www.townofmaynard-ma.gov/resources/walkmaynard/ [101363] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/resources/walkmaynard/index.html" [1]
+2017-01-02 04:24:28 URL:http://www.townofmaynard-ma.gov/info/cdp-summary/ [38990] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/resources/cdp/index.html" [1]
+2017-01-02 04:24:32 URL:http://www.townofmaynard-ma.gov/projects/129-parker-street/ [108853] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/projects/129-parker-street/index.html" [1]
+2017-01-02 04:24:36 URL:http://www.townofmaynard-ma.gov/projects/arrt/ [100776] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/projects/arrt/index.html" [1]
+2017-01-02 04:24:40 URL:http://www.townofmaynard-ma.gov/projects/millandmain/ [104143] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/projects/millandmain/index.html" [1]
+2017-01-02 04:24:44 URL:http://www.townofmaynard-ma.gov/projects/memorial-park/ [106432] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/projects/memorial-park/index.html" [1]
+2017-01-02 04:24:49 URL:http://www.townofmaynard-ma.gov/projects/complete-streets/ [118003] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/projects/complete-streets/index.html" [1]
+2017-01-02 04:24:53 URL:http://www.townofmaynard-ma.gov/gov/committees/edc/beep/ [103945] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/edc/beep/index.html" [1]
+2017-01-02 04:24:57 URL:http://www.townofmaynard-ma.gov/dpw/responsible-disposal/ [115331] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/dpw/responsible-disposal/index.html" [1]
+2017-01-02 04:25:01 URL:http://www.townofmaynard-ma.gov/gov/committees/historical-commission/historic-house-plaque-program/ [103171] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/historical-commission/historic-house-plaque-program/index.html" [1]
+2017-01-02 04:25:06 URL:http://www.townofmaynard-ma.gov/2016/12/30/planning-board-legal-notice-community-development-strategy/ [99317] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/12/30/planning-board-legal-notice-community-development-strategy/index.html" [1]
+2017-01-02 04:25:09 URL:http://www.townofmaynard-ma.gov/category/general-information/ [110528] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/category/general-information/index.html" [1]
+2017-01-02 04:25:13 URL:http://www.townofmaynard-ma.gov/category/legal-notice/ [109740] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/category/legal-notice/index.html" [1]
+2017-01-02 04:25:16 URL:http://www.townofmaynard-ma.gov/author/daveg/ [110425] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/author/daveg/index.html" [1]
+2017-01-02 04:25:20 URL:http://www.townofmaynard-ma.gov/2016/12/29/pb-hearing-jan25/ [99254] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/12/29/pb-hearing-jan25/index.html" [1]
+2017-01-02 04:25:24 URL:http://www.townofmaynard-ma.gov/2016/12/22/2017-annual-town-census/ [99735] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/12/22/2017-annual-town-census/index.html" [1]
+2017-01-02 04:25:27 URL:http://www.townofmaynard-ma.gov/category/participate/ [113147] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/category/participate/index.html" [1]
+2017-01-02 04:25:31 URL:http://www.townofmaynard-ma.gov/2016/12/09/stm-warrant-available/ [98561] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/12/09/stm-warrant-available/index.html" [1]
+2017-01-02 04:25:31 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/stm-warrant-20170109.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:25:35 URL:http://www.townofmaynard-ma.gov/2016/11/21/town-hall-holiday-schedule/ [99045] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/11/21/town-hall-holiday-schedule/index.html" [1]
+2017-01-02 04:25:39 URL:http://www.townofmaynard-ma.gov/2016/10/28/pzrr-radio/ [101073] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/10/28/pzrr-radio/index.html" [1]
+2017-01-02 04:25:44 URL:http://www.townofmaynard-ma.gov/page/2/ [113736] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/page/2/index.html" [1]
+2017-01-02 04:25:49 URL:http://www.townofmaynard-ma.gov/dpw/water-restriction/ [106370] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/dpw/water-restriction/index.html" [1]
+2017-01-02 04:25:53 URL:http://www.townofmaynard-ma.gov/municipal-services/planning/meeting-minutes/ [123149] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/municipal-services/planning/meeting-minutes/index.html" [1]
+2017-01-02 04:25:57 URL:http://www.townofmaynard-ma.gov/gov/departments/town-clerk/dog-licenses/ [100741] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/town-clerk/dog-licenses/index.html" [1]
+2017-01-02 04:26:01 URL:http://www.townofmaynard-ma.gov/category/dpw/ [113979] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/category/dpw/index.html" [1]
+2017-01-02 04:26:05 URL:http://www.townofmaynard-ma.gov/category/expired/ [110357] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/category/expired/index.html" [1]
+2017-01-02 04:26:08 URL:http://www.townofmaynard-ma.gov/category/important/ [104269] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/category/important/index.html" [1]
+2017-01-02 04:26:13 URL:http://www.townofmaynard-ma.gov/category/public-health-and-safety-updates/ [114089] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/category/public-health-and-safety-updates/index.html" [1]
+2017-01-02 04:26:17 URL:http://www.townofmaynard-ma.gov/category/public-meeting-notices/ [109066] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/category/public-meeting-notices/index.html" [1]
+2017-01-02 04:26:20 URL:http://www.townofmaynard-ma.gov/category/rfps/ [107722] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/category/rfps/index.html" [1]
+2017-01-02 04:26:26 URL:http://www.townofmaynard-ma.gov/gov/committees/green/ [104797] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/committees/green/index.html" [1]
+2017-01-02 04:26:30 URL:http://www.townofmaynard-ma.gov/gov/ [105891] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/index.html" [1]
+2017-01-02 04:26:31 URL: http://www.townofmaynard-ma.gov/phonebook/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:36 URL:http://www.townofmaynard-ma.gov/municipal-services/building-inspections/ [105683] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/building-department/index.html" [1]
+2017-01-02 04:26:38 URL:http://maynardfd.com/ [39666/39666] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/safety/mfd/index.html" [1]
+2017-01-02 04:26:38 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/asst-facilities-manager-20160728.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:42 URL:http://www.townofmaynard-ma.gov/maynard-fire-hiring-process-november-2015/ [99266] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/maynard-fire-hiring-process-november-2015/index.html" [1]
+2017-01-02 04:26:42 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/Job.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:43 URL: http://www.townofmaynard-ma.gov/gov/forms-and-applications/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:44 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/carry-in-alcohol-app-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:44 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/Bowling-Billiards-Pool-App.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:44 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/Junk.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:45 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/Tattoos.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:45 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/used-auto-sales-app-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:45 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/common-vic-entertainment-app-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:45 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/rooming-house-innkeeper-app-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:46 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/taxi-livery-app-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:46 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/cori.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:46 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/Proclamation.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:47 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/TownHallUse.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:47 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/TownHallReg.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:47 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/TownBldg.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:48 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/stm-timeline-201701.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:48 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/stm-warrant-20161005.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:48 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/stm-timeline-201610.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:48 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/stm-addendum-concept-plan-201610.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:49 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2013/01/129parker-concept-plan-20160628.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:49 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2013/01/129parker-signage-concept-plan-20160711.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:49 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/atm-warrant-20160411.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:50 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/atm-timeline-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:50 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/fincom-tm-recommendations-20160512.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:50 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/stm-warrant-20160111.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:51 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/stm-minutes-20160111.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:51 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/atm-warrant-20150518.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:51 URL: http://www.townofmaynard-ma.gov/documents/stm-warrant-20150507.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:51 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/atm-timeline-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:52 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/129-acton-agreement-20150506.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:52 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/fincom-fy16-budget-review-20150507.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:52 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/fincom-tm-recommendations-20150511.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:56 URL:http://www.townofmaynard-ma.gov/gov/departments/town-clerk/voting-precincts/ [99069] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/town-clerk/voting-precincts/index.html" [1]
+http://www.townofmaynard-ma.gov/2016/09/28/early-voting/:
+Remote file does not exist -- broken link!!!
+2017-01-02 04:26:57 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/state-primary-results-dem-20160908.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:58 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/state-primary-results-gr-20160908.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:58 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/state-primary-results-rep-20160908.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:58 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/state-primary-results-ui-20160908.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:59 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/ate-results-20160503.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:59 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/presidential-primary-results-20160301.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:59 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/ate-results-20140519.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:26:59 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/special-town-election-20141104.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:00 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/ate-results-20140507.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:01 URL: http://www.townofmaynard-ma.gov/gov/charter-and-bylaws/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:01 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/maynard-town-charter-201405.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:01 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/maynard-town-bylaws-20160112.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:03 URL: http://www.townofmaynard-ma.gov/gov/board-of-selectmen/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:08 URL:http://www.townofmaynard-ma.gov/gov/board-of-selectmen/meeting-minutes/ [168317] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/board-of-selectmen/meeting-minutes/index.html" [1]
+2017-01-02 04:27:08 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/bos-nepba114-contract-2018.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:09 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/bos-afscme1703-contract-2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:09 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/bos-afscme1703-custodial-contract-2019.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:09 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/bos-iaff1947-contract-2018-1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:09 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/bos-liuna272-contract-2019.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:10 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/bos-liuna1156-contract-2019.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:10 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/bos-nepba55-contract-2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:10 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/bos-audit-management-letter-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:11 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/bos-single-audit-reports-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:11 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/bos-audit-examination-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:11 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/bos-perac-audit-2011-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:11 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/bos-audit-letter-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:12 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/bos-single-audit-reports-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:12 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/bos-audit-omb-report-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:13 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/bos-audit-examination-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:13 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/bos-audit-letter-20130630.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:13 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/bos-single-audit-reports-20130630.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:14 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/bos-audit-examination-20130630.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:14 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/BOSPolicyandprocedurefinal09012010.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:18 URL:http://www.townofmaynard-ma.gov/gov/board-of-selectmen/appointed/ [99752] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/board-of-selectmen/appointed/index.html" [1]
+2017-01-02 04:27:18 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/alcoholic-beverage-licensing-regulations-20140805.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:23 URL:http://www.townofmaynard-ma.gov/gov/board-of-selectmen/bos-archives/ [101702] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/board-of-selectmen/bos-archives/index.html" [1]
+2017-01-02 04:27:27 URL:http://www.townofmaynard-ma.gov/projects/cultural-district/ [101570] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/projects/cultural-district/index.html" [1]
+2017-01-02 04:27:31 URL:http://www.townofmaynard-ma.gov/projects/hpp/ [102210] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/projects/hpp/index.html" [1]
+2017-01-02 04:27:31 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2014/04/maynard-town-report-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:31 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2014/04/maynard-town-report-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:32 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2014/04/maynard-town-report-2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:33 URL: http://www.townofmaynard-ma.gov/gov/departments/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:33 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/W9.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:34 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/boa-agenda-20161220.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:38 URL:http://www.townofmaynard-ma.gov/gov/departments/assessors-office/abatements/ [103014] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/assessors-office/abatements/index.html" [1]
+2017-01-02 04:27:42 URL:http://www.townofmaynard-ma.gov/gov/departments/assessors-office/excise-tax/ [104859] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/assessors-office/excise-tax/index.html" [1]
+2017-01-02 04:27:42 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/maynard-taxbill-address-change-form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:42 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/CommunityPreservation.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:44 URL: http://www.townofmaynard-ma.gov/municipal-services/building-inspections/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:27:48 URL:http://www.townofmaynard-ma.gov/municipal-services/building-inspections/building-permit-fee-schedule/ [101218] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/municipal-services/building-inspections/building-permit-fee-schedule/index.html" [1]
+2017-01-02 04:27:52 URL:http://www.townofmaynard-ma.gov/municipal-services/building-inspections/permits-and-fees/ [101700] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/municipal-services/building-inspections/permits-and-fees/index.html" [1]
+2017-01-02 04:27:56 URL:http://www.townofmaynard-ma.gov/municipal-services/building-inspections/gas-permit-fee-schedule/ [101095] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/municipal-services/building-inspections/gas-permit-fee-schedule/index.html" [1]
+2017-01-02 04:28:02 URL:http://www.townofmaynard-ma.gov/municipal-services/building-inspections/plumbing-permit-fee-schedule/ [101408] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/municipal-services/building-inspections/plumbing-permit-fee-schedule/index.html" [1]
+2017-01-02 04:28:06 URL:http://www.townofmaynard-ma.gov/municipal-services/building-inspections/wiring-permit-fee-schedule/ [101210] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/municipal-services/building-inspections/wiring-permit-fee-schedule/index.html" [1]
+2017-01-02 04:28:06 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/maynard-zoning-bylaws-20160616.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:28:12 URL:http://www.townofmaynard-ma.gov/municipal-services/building-inspections/permits-and-fees/ [101700] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/building-department/permits-and-fees/index.html" [1]
+2017-01-02 04:28:12 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/Demosignoff.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:28:16 URL:http://www.townofmaynard-ma.gov/gov/departments/town-clerk/voter-registration/ [100733] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/town-clerk/voter-registration/index.html" [1]
+2017-01-02 04:28:20 URL:http://www.townofmaynard-ma.gov/gov/departments/town-clerk/juror-information/ [99866] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/town-clerk/juror-information/index.html" [1]
+2017-01-02 04:28:24 URL:http://www.townofmaynard-ma.gov/gov/departments/town-clerk/dba-certificates/ [100789] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/town-clerk/dba-certificates/index.html" [1]
+2017-01-02 04:28:28 URL:http://www.townofmaynard-ma.gov/gov/departments/town-clerk/notary-public/ [99710] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/town-clerk/notary-public/index.html" [1]
+2017-01-02 04:28:32 URL:http://www.townofmaynard-ma.gov/gov/departments/town-clerk/marriage-license/ [108062] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/town-clerk/marriage-license/index.html" [1]
+2017-01-02 04:28:36 URL:http://www.townofmaynard-ma.gov/gov/departments/town-clerk/blanket-meeting-notice/ [101333] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/town-clerk/blanket-meeting-notice/index.html" [1]
+2017-01-02 04:28:40 URL:http://www.townofmaynard-ma.gov/gov/departments/town-clerk/census/ [101570] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/town-clerk/census/index.html" [1]
+2017-01-02 04:28:45 URL:http://www.townofmaynard-ma.gov/gov/departments/town-clerk/dog-regulations/ [104312] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/town-clerk/dog-regulations/index.html" [1]
+2017-01-02 04:28:48 URL:http://www.townofmaynard-ma.gov/gov/departments/town-clerk/vital-records/ [102411] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/town-clerk/vital-records/index.html" [1]
+2017-01-02 04:28:50 URL: http://www.townofmaynard-ma.gov/municipal-services/conservation/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:28:55 URL:http://www.townofmaynard-ma.gov/municipal-services/conservation/volunteer-opportunities/ [102325] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/conscom/volunteer-opportunities/index.html" [1]
+2017-01-02 04:29:00 URL:http://www.townofmaynard-ma.gov/municipal-services/conservation/conscom-meeting-minutes/ [129610] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/municipal-services/conservation/conscom-meeting-minutes/index.html" [1]
+2017-01-02 04:29:00 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/conscom-abutter-notification-form-201311.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:29:00 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/conscom-stormwater-management-application-form-20140116.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:29:01 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/conscom-stormwater-management-application-form-20140116.doc 200 OK
+unlink: No such file or directory
+2017-01-02 04:29:05 URL:http://www.townofmaynard-ma.gov/municipal-services/conservation/wetlands-administration-application-and-fees/ [101679] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/municipal-services/conservation/wetlands-administration-application-and-fees/index.html" [1]
+2017-01-02 04:29:10 URL:http://www.townofmaynard-ma.gov/municipal-services/conservation/wetlands/ [102203] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/conscom/wetlands/index.html" [1]
+2017-01-02 04:29:10 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/osrp.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:29:10 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/stormwaterads.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:29:11 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/stormwater-bylaw-10-09.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:29:11 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/maynard-trails-map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:29:11 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/conscom-walcott-woods-survey-20131030.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:29:18 URL:http://www.townofmaynard-ma.gov/municipal-services/conservation/links-to-related-web-sites/ [105688] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/conscom/links-to-related-web-sites/index.html" [1]
+2017-01-02 04:29:19 URL: http://www.townofmaynard-ma.gov/gov/departments/council-on-aging/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:29:23 URL:http://www.townofmaynard-ma.gov/gov/departments/council-on-aging/van/ [104534] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/council-on-aging/van/index.html" [1]
+2017-01-02 04:29:24 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/coa-agenda-20170112.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:29:27 URL:http://www.townofmaynard-ma.gov/gov/departments/council-on-aging/senior-services-directory/ [112633] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/council-on-aging/senior-services-directory/index.html" [1]
+2017-01-02 04:29:32 URL:http://www.townofmaynard-ma.gov/gov/departments/council-on-aging/medicare-appeals/ [100980] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/departments/council-on-aging/medicare-appeals/index.html" [1]
+2017-01-02 04:29:32 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/boh-agenda-20161122.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:29:36 URL:http://www.townofmaynard-ma.gov/municipal-services/public-health/meeting-minutes/ [99360] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/municipal-services/public-health/meeting-minutes/index.html" [1]
+2017-01-02 04:29:40 URL:http://www.townofmaynard-ma.gov/municipal-services/public-health/regulations/ [99843] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/municipal-services/public-health/regulations/index.html" [1]
+2017-01-02 04:29:44 URL:http://www.townofmaynard-ma.gov/municipal-services/public-health/ebola-virus/ [105072] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/municipal-services/public-health/ebola-virus/index.html" [1]
+2017-01-02 04:29:48 URL:http://www.townofmaynard-ma.gov/municipal-services/public-health/food-inspection-program/ [102380] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/municipal-services/public-health/food-inspection-program/index.html" [1]
+2017-01-02 04:29:53 URL:http://www.townofmaynard-ma.gov/municipal-services/public-health/housing-standards/ [102908] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/municipal-services/public-health/housing-standards/index.html" [1]
+2017-01-02 04:29:57 URL:http://www.townofmaynard-ma.gov/municipal-services/public-health/flu/ [104676] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/municipal-services/public-health/flu/index.html" [1]
+2017-01-02 04:30:00 URL:http://www.townofmaynard-ma.gov/municipal-services/public-health/mosquito-information/ [102190] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/municipal-services/public-health/mosquito-information/index.html" [1]
+2017-01-02 04:30:05 URL:http://www.townofmaynard-ma.gov/municipal-services/public-health/rabies-clinic-dogs-cats/ [101066] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/municipal-services/public-health/rabies-clinic-dogs-cats/index.html" [1]
+2017-01-02 04:30:05 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/boh-fee-schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:30:06 URL: http://www.townofmaynard-ma.gov/dpw/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:30:10 URL:http://www.townofmaynard-ma.gov/dpw/composting/ [105435] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/dpw/composting/index.html" [1]
+2017-01-02 04:30:14 URL:http://www.townofmaynard-ma.gov/dpw/highway/damage-policy/ [99059] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/dpw/highway/damage-policy/index.html" [1]
+2017-01-02 04:30:18 URL:http://www.townofmaynard-ma.gov/dpw/highway/snow-plowing/ [105896] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/dpw/highway/snow-plowing/index.html" [1]
+2017-01-02 04:30:22 URL:http://www.townofmaynard-ma.gov/dpw/highway/street-sweeping/ [99669] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/dpw/highway/street-sweeping/index.html" [1]
+2017-01-02 04:30:26 URL:http://www.townofmaynard-ma.gov/dpw/hazardous-waste-collection-day/ [103220] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/dpw/hazardous-waste-collection-day/index.html" [1]
+2017-01-02 04:30:30 URL:http://www.townofmaynard-ma.gov/dpw/household-hazardous-waste-disposal/ [101138] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/dpw/household-hazardous-waste-disposal/index.html" [1]
+2017-01-02 04:30:34 URL:http://www.townofmaynard-ma.gov/dpw/hydrant-flushing/ [100532] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/dpw/hydrant-flushing/index.html" [1]
+2017-01-02 04:30:38 URL:http://www.townofmaynard-ma.gov/dpw/recycling-dropoff-center/ [103795] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/dpw/recycling-dropoff-center/index.html" [1]
+2017-01-02 04:30:43 URL:http://www.townofmaynard-ma.gov/dpw/water-and-sewer/water-supply-tthm/ [104487] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/dpw/water-and-sewer/water-supply-tthm/index.html" [1]
+2017-01-02 04:30:47 URL:http://www.townofmaynard-ma.gov/dpw/water-and-sewer/water-resources-report-2011/ [102017] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/dpw/water-and-sewer/water-resources-report-2011/index.html" [1]
+2017-01-02 04:30:52 URL:http://www.townofmaynard-ma.gov/2016/10/24/tthms-drinking-water-update-2/ [99221] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/10/24/tthms-drinking-water-update-2/index.html" [1]
+2017-01-02 04:30:57 URL:http://www.townofmaynard-ma.gov/2016/08/22/mandatory-level-3-water-restriction/ [100310] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/08/22/mandatory-level-3-water-restriction/index.html" [1]
+2017-01-02 04:31:00 URL:http://www.townofmaynard-ma.gov/2016/07/21/tthm-levels-update/ [100697] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/07/21/tthm-levels-update/index.html" [1]
+2017-01-02 04:31:04 URL:http://www.townofmaynard-ma.gov/2016/07/11/rfp-annual-bid-for-various-materials-and-services/ [99456] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/07/11/rfp-annual-bid-for-various-materials-and-services/index.html" [1]
+2017-01-02 04:31:09 URL:http://www.townofmaynard-ma.gov/2016/06/28/2015-water-quality-report/ [99190] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/06/28/2015-water-quality-report/index.html" [1]
+2017-01-02 04:31:10 URL: http://www.townofmaynard-ma.gov/gov/departments/parking-clerk/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:11 URL: http://www.townofmaynard-ma.gov/municipal-services/planning/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:12 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-hearing-schedule-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:12 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-hearing-schedule-2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:13 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/zba-hearing-application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:17 URL:http://www.townofmaynard-ma.gov/municipal-services/planning/planning-board-schedule-of-fees/ [103652] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/municipal-services/planning/planning-board-schedule-of-fees/index.html" [1]
+2017-01-02 04:31:17 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-subdivision-form-a.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:18 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-subdivision-form-b.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:18 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-subdivision-form-c.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:18 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-subdivision-form-d.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:19 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-subdivision-form-e.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:19 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-subdivision-form-f.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:19 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-subdivision-form-g.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:19 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-subdivision-form-h.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:20 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-subdivision-form-i.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:20 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-subdivision-form-j.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:20 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-subdivision-form-k.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:20 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-subdivision-rules-20070814.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:21 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/maynard-zoning-map-2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:21 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/maynard-downtown-overlay-district-2007.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:21 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-landscape-regulations-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:22 URL: http://www.townofmaynard-ma.gov/documents/495-metrowest-development-compact-plan-2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:22 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/historic-preservation-guide-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:22 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-memo-traffic-20111017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:23 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-ctp-school-impact-20111017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:23 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/stm-article3-changes-20111019.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:23 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/bos-draft-agreement-ctp-20111018.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:24 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-ctp-traffic-assessment-20111019.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:24 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-ctp-exhibit-b-rev1-20111020.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:24 URL: http://www.townofmaynard-ma.gov/documents/pb-ctp-fia-20111024.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:25 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/bos-draft-agreement-ctp-20111023.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:25 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-article-changes-20111923.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:25 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-clock-tower-table-a-20110909.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:25 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-zoning-article-draft-20110909.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:26 URL: http://www.townofmaynard-ma.gov/documents/arrt-bicycle-pedestrian-plan-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:27 URL: http://www.townofmaynard-ma.gov/gov/departments/treasurer-collectors-office/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:27 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/treas-unclaimed-checks-20160210.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:28 URL: http://www.townofmaynard-ma.gov/gov/departments/veteran-services/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:30 URL: http://www.townofmaynard-ma.gov/gov/committees/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:36 URL:http://www.townofmaynard-ma.gov/municipal-services/conservation/ [108201] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/conscom/index.html" [1]
+2017-01-02 04:31:41 URL:http://www.townofmaynard-ma.gov/municipal-services/planning/ [123477] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/planning-board/index.html" [1]
+2017-01-02 04:31:41 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/10/blanket-meetings.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:42 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/ada-agenda-20130611.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:46 URL:http://www.townofmaynard-ma.gov/gov/committees/ada/minutes/ [100028] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/ada/minutes/index.html" [1]
+2017-01-02 04:31:50 URL:http://www.townofmaynard-ma.gov/gov/committees/aht/meeting-minutes/ [99273] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/aht/meeting-minutes/index.html" [1]
+2017-01-02 04:31:50 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/09/blc-agenda-20161212.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:50 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/09/blc-agenda-20161114.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:51 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/09/blc-agenda-20161017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:51 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/09/blc-agenda-20160912.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:51 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/09/blc-agenda-20160822.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:52 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/09/blc-agenda-20160502.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:52 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/09/blc-agenda-20160404.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:52 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/09/blc-agenda-20160307.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:53 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/09/blc-agenda-20160201.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:53 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/09/blc-agenda-20160104.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:53 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/09/blc-agenda-20151221.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:54 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/09/blc-agenda-20151207.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:54 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/09/blc-agenda-20151116.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:54 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/09/blc-minutes-20151102.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:55 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/09/blc-agenda-20151102.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:55 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/09/blc-agenda-20151019.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:31:55 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/09/blc-agenda-20150928.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:00 URL:http://www.townofmaynard-ma.gov/gov/committees/cpc/cpc-minutes/ [128246] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/cpc/cpc-minutes/index.html" [1]
+2017-01-02 04:32:00 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/cpc-plan-section-2-20131009.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:00 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/maynard-commpresplan-2007.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:02 URL: http://www.townofmaynard-ma.gov/gov/committees/cultural-council/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:05 URL:http://www.townofmaynard-ma.gov/gov/committees/cultural-council/mcc-minutes/ [104766] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/cultural-council/mcc-minutes/index.html" [1]
+2017-01-02 04:32:09 URL:http://www.townofmaynard-ma.gov/gov/committees/edc/edc-minutes/ [107614] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/edc/edc-minutes/index.html" [1]
+2017-01-02 04:32:13 URL:http://www.townofmaynard-ma.gov/gov/committees/edc/presentations/ [103591] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/edc/presentations/index.html" [1]
+2017-01-02 04:32:17 URL:http://www.townofmaynard-ma.gov/gov/committees/edc/news/ [99644] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/edc/news/index.html" [1]
+2017-01-02 04:32:20 URL:http://www.townofmaynard-ma.gov/info/cdp-summary/ [38990] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/info/cdp-summary/index.html" [1]
+2017-01-02 04:32:22 URL: http://www.townofmaynard-ma.gov/gov/committees/finance-committee/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:26 URL:http://www.townofmaynard-ma.gov/gov/committees/finance-committee/fincom-meeting-minutes/ [118280] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/finance-committee/fincom-meeting-minutes/index.html" [1]
+2017-01-02 04:32:26 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/06/fsbc-agenda-20170206.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:26 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/06/fsbc-agenda-20161213.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:27 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/06/fsbc-agenda-20161122.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:27 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/06/fsbc-agenda-20161114.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:27 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/06/fsbc-agenda-20161011.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:28 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/06/fsbc-minutes-20160927.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:28 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/06/fsbc-agenda-20160927.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:28 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/06/fsbc-minutes-20160913.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:28 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/06/fsbc-agenda-20160913.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:29 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/06/fsbc-minutes-20160823.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:29 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/06/fsbc-agenda-20160823.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:29 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/06/fsbc-minutes-20160726.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:30 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/06/fsbc-agenda-20160726.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:30 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/06/fsbc-minutes-20160712.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:30 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/06/fsbc-agenda-20160712.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:31 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/06/fsbc-minutes-20160628.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:31 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/06/fsbc-agenda-20160628.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:31 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/06/fsbc-minutes-20160614.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:32 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/06/fsbc-agenda-20160614.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:32 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/06/fsbc-minutes-20160524.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:32 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/06/fsbc-agenda-20160524.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:33 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/06/mfd-property-rfp-20160930.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:33 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/06/fsbc-travel-routes-matrix-20161018.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:33 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/06/fsbc-best-routes-explanation-20161018.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:33 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/06/fsbc-dore-whittier-20160524.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:34 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/06/fsbc-project-status-20160405.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:37 URL:http://www.townofmaynard-ma.gov/gov/committees/green/mission/ [101275] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/green/mission/index.html" [1]
+2017-01-02 04:32:38 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/11/gcc-agenda-20131113.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:41 URL:http://www.townofmaynard-ma.gov/gov/committees/green/meeting-minutes/ [99480] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/green/meeting-minutes/index.html" [1]
+http://www.townofmaynard-ma.gov/documents/stretch-code-intro-20110606.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 04:32:43 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/11/gc-stretch-code-article-draft-20110909.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:44 URL: http://www.townofmaynard-ma.gov/gov/committees/historical-commission/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:32:48 URL:http://www.townofmaynard-ma.gov/gov/committees/historical-commission/responsibilities/ [105491] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/historical-commission/responsibilities/index.html" [1]
+2017-01-02 04:32:52 URL:http://www.townofmaynard-ma.gov/gov/committees/historical-commission/meeting-minutes/ [113256] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/historical-commission/meeting-minutes/index.html" [1]
+2017-01-02 04:32:56 URL:http://www.townofmaynard-ma.gov/gov/committees/historical-commission/historical-marker-program/ [105912] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/historical-commission/historical-marker-program/index.html" [1]
+2017-01-02 04:33:00 URL:http://www.townofmaynard-ma.gov/gov/committees/historical-commission/glenwood-fence/ [99260] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/historical-commission/glenwood-fence/index.html" [1]
+2017-01-02 04:33:04 URL:http://www.townofmaynard-ma.gov/gov/committees/historical-commission/town-scale-restoration/ [102833] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/historical-commission/town-scale-restoration/index.html" [1]
+2017-01-02 04:33:04 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/mhc-demo-delay-bylaw-edit5.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:04 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/mhc-demobylaw-slides-e5-20160520.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:05 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/mhc-prominent-historic-properties-20120326.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:09 URL:http://www.townofmaynard-ma.gov/gov/committees/historical-commission/glenwood-cemetery/ [101689] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/historical-commission/glenwood-cemetery/index.html" [1]
+2017-01-02 04:33:10 URL: http://www.townofmaynard-ma.gov/gov/committees/library-board-of-trustees/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:11 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/lib-agenda-20170117.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:11 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/lib-report-201111.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:14 URL:http://www.townofmaynard-ma.gov/gov/committees/lepc/minutes/ [100082] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/lepc/minutes/index.html" [1]
+2017-01-02 04:33:16 URL: http://www.townofmaynard-ma.gov/gov/committees/recreation/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:19 URL:http://www.townofmaynard-ma.gov/gov/committees/recreation/meeting-minutes/ [102537] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/recreation/meeting-minutes/index.html" [1]
+2017-01-02 04:33:23 URL:http://www.townofmaynard-ma.gov/gov/committees/school-building/minutes/ [103466] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/school-building/minutes/index.html" [1]
+2017-01-02 04:33:24 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/03/sbc-monthly-report-201210.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:24 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/03/sbc-monthly-report-201201.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:24 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/03/sbc-monthly-report-201112.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:24 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/03/sbc-monthly-report-201111.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:25 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/03/sbc-monthly-report-201110.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:35 URL:http://www.townofmaynard-ma.gov/gov/committees/school-building/2/ [114817] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/school-building/2" [1]
+2017-01-02 04:33:35 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/03/drawing-cafe-perspective-20110308.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:36 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/03/drawing-exterior-perspectives-201103.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:37 URL: http://www.townofmaynard-ma.gov/gov/committees/zoning-board-of-appeals/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:41 URL:http://www.townofmaynard-ma.gov/gov/committees/zoning-board-of-appeals/zba-meeting-minutes/ [104811] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/zoning-board-of-appeals/zba-meeting-minutes/index.html" [1]
+2017-01-02 04:33:41 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/zba-decision-2012SP19.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:42 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/zba-decision-2012SP18.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:42 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/zba-decision-2012V15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:42 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/zba-decision-2012V14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:43 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/zba-decision-2011SP11-20110427.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:43 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/maynard-zoning-map-20130228.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:43 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/08/Town_of_Maynard_Charter_Town_Clerk_Submittal_11_08_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:44 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/08/maynard-charter-draft-20121113.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:44 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/09/mclcc-final-report-201305.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:48 URL:http://www.townofmaynard-ma.gov/gov/committees/mclcc/minutes/ [105029] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/mclcc/minutes/index.html" [1]
+2017-01-02 04:33:48 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-cover-letter-20150624.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:49 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-final-report-20150624.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:49 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-forum-summary-report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:49 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/coolidge-assessment-2008.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:49 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/coolidge-assessment-2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:50 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-final-report-appx-d-aerial.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:50 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-final-report-appx-e-assessors.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:50 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-final-report-appx-f-valuation-report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:50 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-final-report-appx-g-mhc-inventoryformb.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:51 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-final-report-appx-h-description-history.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:51 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-final-report-appx-i-sc-letter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:51 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-final-report-appx-j-atm-s9.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:52 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-final-report-appx-k-epsilonassessment.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:52 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-final-report-appx-l-mhc-recommendations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:52 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-final-report-appx-m-draftparceldivision.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:53 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/coolidge-school-MACRIS.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:53 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-agenda-20150630.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:53 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-minutes-20150623.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:53 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-agenda-20150623.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:54 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-minutes-20150616.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:54 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-agenda-20150616.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:54 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-agenda-20150602.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:55 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-minutes-20150526.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:55 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-agenda-20150526.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:55 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-minutes-20150519.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:56 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-agenda-20150519.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:56 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-minutes-20150505.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:56 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-agenda-20150505.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:56 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-minutes-20150421.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:57 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-agenda-20150421.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:57 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-minutes-20150407.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:57 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-agenda-20150407.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:58 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-minutes-20150331.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:58 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-agenda-20150331.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:58 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-minutes-20150317.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:59 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-agenda-20150317.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:59 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-minutes-20150303.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:59 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-agenda-20150303.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:33:59 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-minutes-20150228.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:00 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-agenda-20150228.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:00 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-minutes-20150224.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:00 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-agenda-20150224.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:01 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-minutes-20150217.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:01 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-agenda-20150217.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:01 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-minutes-20150203.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:01 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-agenda-20150203.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:02 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-minutes-20150120.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:02 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/01/csrtf-agenda-20150120.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:06 URL:http://www.townofmaynard-ma.gov/gov/committees/mgcrc/mcgrc-minutes/ [101339] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/mgcrc/mcgrc-minutes/index.html" [1]
+2017-01-02 04:34:06 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2012/09/mgcrc-final-report-201410.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:06 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2012/09/mapc-golf-course-reuse-report-20130328.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:06 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2012/09/MAPC-Grant-2012-GC-ReUse.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:06 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2012/09/Maynard_Country_Club_Features.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:07 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2012/09/Maynard_Country_Club_Soils.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:07 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2013/11/129ahc-agenda-20141203.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:07 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2013/11/129ahc-recommendations-20140314.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:08 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2013/11/CBRE-NE-MarketView-Bos-Suburban-Office-3Q13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:08 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2013/11/CBRE-NE-office-statistics-maynard-2004-2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:08 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2013/11/129ahc-ken-estabrook-memo-20131125.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:09 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2013/11/129ahc-aj-memo-20131122.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:10 URL: http://www.townofmaynard-ma.gov/gov/committees/psbc/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:10 URL: http://www.townofmaynard-ma.gov/documents/wpsc-final-report-20120515.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:11 URL: http://www.townofmaynard-ma.gov/documents/wpsc-final-report-20120625.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:15 URL:http://www.townofmaynard-ma.gov/gov/committees/wpcsc/members/ [103336] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/wpcsc/members/index.html" [1]
+2017-01-02 04:34:15 URL: http://www.townofmaynard-ma.gov/documents/white-pond-wtf-siting-option2and3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:15 URL: http://www.townofmaynard-ma.gov/documents/white-pond-wtf-siting-option2and3B.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:15 URL: http://www.townofmaynard-ma.gov/documents/white-pond-wtf-siting-option1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:16 URL: http://www.townofmaynard-ma.gov/documents/white-pond-transmission-line-routing.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:16 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/town-owed-parcels-20110317.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:16 URL: http://www.townofmaynard-ma.gov/documents/wpsc-water-supply-photo-tour.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:17 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/assessment-of-water-resources-rfp.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:17 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/woodard-curran-scope-of-work.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:17 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/wpsc-minutes-20120507.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:18 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/wpsc-minutes-20120430.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:18 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/wpsc-minutes-20120402.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:18 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/wpsc-minutes-20120326.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:19 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/wpsc-minutes-20120312.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:19 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/wpsc-minutes-20120227.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:19 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/wpsc-minutes-20120213.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:20 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/wpsc-minutes-20120130.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:20 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/wpsc-minutes-20120123.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:21 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/wpsc-minutes-20120109.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:21 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/wpsc-minutes-20111212.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:21 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/wpsc-minutes-20111121.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:21 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/wpsc-minutes-20111107.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:22 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/wpsc-minutes-20111024.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:22 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/wpsc-minutes-20110822.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:23 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/wpsc-minutes-20110808.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:23 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/wpsc-minutes-20110725.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:23 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/wpsc-minutes-20110606.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:24 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/wpsc-minutes-20110523.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:24 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/wpsc-minutes-20110511.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:24 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/wpsc-minutes-20110509.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:24 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/wpsc-minutes-20110425.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:25 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/wpsc-minutes-20110411.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:25 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/wpsc-minutes-20110321.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:25 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/WPSC-minutes-20110307.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:26 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/WPSC-Minutes-20110208.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:26 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/wpcsc-minutes-20110214.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:26 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/02/wpcsc-minutes-20110207.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:31 URL:http://www.townofmaynard-ma.gov/municipal-services/licensing-fee-schedule/ [100374] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/municipal-services/licensing-fee-schedule/index.html" [1]
+2017-01-02 04:34:34 URL:http://www.townofmaynard-ma.gov/municipal-services/abutters-permit-fee-schedule/ [98504] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/municipal-services/abutters-permit-fee-schedule/index.html" [1]
+2017-01-02 04:34:36 URL: http://www.townofmaynard-ma.gov/safety/emergency-numbers/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:40 URL:http://www.townofmaynard-ma.gov/safety/ [101051] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/safety/index.html" [1]
+2017-01-02 04:34:46 URL:http://www.townofmaynard-ma.gov/municipal-services/public-health/mcc-mrc/ [105655] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/safety/board-of-health/mcc-mrc/index.html" [1]
+2017-01-02 04:34:47 URL: http://www.townofmaynard-ma.gov/safety/local-hospitals/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:48 URL: http://www.townofmaynard-ma.gov/municipal-services/public-health/mcc-mrc/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:49 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/mrc-agenda-20161110.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:49 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/MCC-MRC-newsletter-201404.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:49 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/MCC-MRC-newsletter-201402.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:50 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/MCC-MRC-newsletter-201401.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:50 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/MRC-MCC-Newsletter-201204.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:50 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/MRC-MCC-Newsletter-March-2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:34:55 URL:http://www.townofmaynard-ma.gov/municipal-services/public-health/mcc-mrc/about-mrc/ [102412] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/safety/board-of-health/mcc-mrc/about-mrc/index.html" [1]
+2017-01-02 04:35:00 URL:http://www.townofmaynard-ma.gov/municipal-services/public-health/mcc-mrc/personal-go-kit/ [101807] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/municipal-services/public-health/mcc-mrc/personal-go-kit/index.html" [1]
+2017-01-02 04:35:02 URL: http://www.townofmaynard-ma.gov/safety/animal-control/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:02 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2013/08/glenwood-cemetery-rules-and-regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:03 URL: http://www.townofmaynard-ma.gov/dpw/solid-waste-and-recycling/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:09 URL:http://www.townofmaynard-ma.gov/dpw/responsible-disposal/ [115331] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/safety/board-of-health/responsible-disposal/index.html" [1]
+2017-01-02 04:35:10 URL: http://www.townofmaynard-ma.gov/dpw/street-lights/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:12 URL: http://www.townofmaynard-ma.gov/dpw/wwtp/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:14 URL: http://www.townofmaynard-ma.gov/dpw/water-and-sewer/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:14 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/dpw-abatement-request-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:14 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/dpw-senior-discount-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:15 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/flushable-wipes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:15 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/Maynard-Water-Quality-Report-2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:15 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/Maynard-Water-Quality-Report-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:16 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/Maynard-Water-Quality-Report-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:16 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/Maynard-Water-Quality-Report-2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:16 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/water-rules-regulations-20070724.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:17 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/meter-installation-policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:17 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/08/excavator-list-201206.doc 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:21 URL:http://www.townofmaynard-ma.gov/senior-center/services/ [108651] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/senior-center/services/index.html" [1]
+2017-01-02 04:35:25 URL:http://www.townofmaynard-ma.gov/senior-center/events/ [107467] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/senior-center/events/index.html" [1]
+2017-01-02 04:35:28 URL:http://www.townofmaynard-ma.gov/senior-center/wellness/ [101540] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/senior-center/wellness/index.html" [1]
+2017-01-02 04:35:32 URL:http://www.townofmaynard-ma.gov/senior-center/trips/ [95675] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/senior-center/trips/index.html" [1]
+2017-01-02 04:35:32 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/coa-newsletter-201612.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:32 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/coa-newsletter-201611.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:33 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/coa-newsletter-201610.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:33 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/coa-newsletter-201609.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:33 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/coa-newsletter-201608.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:33 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/coa-newsletter-201607.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:34 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/coa-newsletter-201606.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:34 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/coa-newsletter-201605.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:34 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/coa-newsletter-201604.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:34 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/coa-newsletter-201603.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:34 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/coa-newsletter-201602.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:35 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/coa-newsletter-201601.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:35 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/coa-newsletter-201512.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:35 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/coa-newsletter-201511.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:36 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/coa-newsletter-201510.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:36 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/coa-newsletter-201509.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:36 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/coa-news-201508.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:37 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/rep-hogan-senior-newsletter-dec-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:37 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/rep-hogan-senior-newsletter-nov-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:37 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/rep-hogan-senior-newsletter-oct-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:38 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/rep-hogan-senior-newsletter-sep-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:38 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/rep-hogan-senior-newsletter-aug-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:38 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/rep-hogan-senior-newsletter-jul-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:38 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/rep-hogan-senior-newsletter-jun-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:39 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/rep-hogan-senior-newsletter-may-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:39 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/rep-hogan-senior-newsletter-apr-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:39 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/rep-hogan-senior-newsletter-mar-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:39 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/rep-hogan-senior-newsletter-feb-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:40 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/rep-hogan-senior-news-jan-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:40 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/rep-hogan-senior-news-dec-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:40 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/08/rep-hogan-senior-news-nov-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:40 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/rep-hogan-senior-news-aug-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:41 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/rep-hogan-senior-news-jul-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:41 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/rep-hogan-senior-news-jun-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:41 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/rep-hogan-senior-news-apr-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:42 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/rep-hogan-senior-news-feb-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:42 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/rep-hogan-senior-news-jan-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:46 URL:http://www.townofmaynard-ma.gov/safety/tips-for-calling-9-1-1/ [100988] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/safety/tips-for-calling-9-1-1/index.html" [1]
+2017-01-02 04:35:47 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/10/shuttle-schedule-20161005.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:51 URL:http://www.townofmaynard-ma.gov/resources/ [99538] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/resources/index.html" [1]
+2017-01-02 04:35:51 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/06/maynard-walking-tour-1-201203.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:51 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/06/maynard-walking-tour-2-201203.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:52 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/06/maynard-walking-tour-3-201203.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:52 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/06/maynard-walking-tour-4-201203.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:52 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/06/maynard-walking-tour-5-201203.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:53 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2011/06/maynard-walking-tour-6-20150407.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:53 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2013/01/129parker-moa-final-20160906.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:54 URL: http://www.townofmaynard-ma.gov/documents/129parker-buffer-plan-reduced-20160426.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:54 URL: http://www.townofmaynard-ma.gov/documents/129parker-application-letter-20160322.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:35:54 URL: http://www.townofmaynard-ma.gov/documents/129parker-preliminary-traffic-eval-20160309.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:01 URL:http://www.townofmaynard-ma.gov/2016/12/29/pb-hearing-jan25/ [99254] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/12/29/pb-hearing-jun25/index.html" [1]
+2017-01-02 04:36:01 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2013/01/129parker-info-session-20151221.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:01 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2013/01/129parker-hawthorn-presentation-2-20151014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:02 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2013/01/129parker-maynard-retirement-residence-overview-20151014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:02 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2013/01/129parker-fia-update-20160921.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:02 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2013/01/129parker-fia-update-20160909.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:02 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2013/01/129parker-revised-signage-concept-plan-20160421.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:03 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2013/01/129parker-faq-20160104.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:03 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2013/01/129parker-intersection-improvements-20160104.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:03 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2013/01/draft-nbod-changes-20151202.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:04 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2013/01/129parker-fia-20150720.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:04 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2013/01/129parker-fia-20150608.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:04 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2013/01/memorandum-re-129parker-20150217.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:08 URL:http://www.townofmaynard-ma.gov/projects/129-parker-street/archive/ [126663] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/projects/129-parker-street/archive/index.html" [1]
+2017-01-02 04:36:09 URL: http://www.townofmaynard-ma.gov/documents/arrt-maynard-acton-plans-20150901.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:09 URL: http://www.townofmaynard-ma.gov/documents/arrt-maynard-acton-design-20150421.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:09 URL: http://www.townofmaynard-ma.gov/documents/arrt-public-meeting-20150430.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:13 URL:http://www.townofmaynard-ma.gov/projects/millandmain/phase-1a-modifications/ [101355] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/projects/millandmain/phase-1a-modifications/index.html" [1]
+2017-01-02 04:36:14 URL: http://www.townofmaynard-ma.gov/documents/millandmain/millandmain-signage-plan-20160127.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:14 URL: http://www.townofmaynard-ma.gov/documents/saracen-millandmain-20151110.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:14 URL: http://www.townofmaynard-ma.gov/documents/millandmain/millandmain-site-plan-review-20151001.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:18 URL:http://www.townofmaynard-ma.gov/projects/millandmain/phase-1-development-plans/ [121761] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/projects/millandmain/phase-1-development-plans/index.html" [1]
+2017-01-02 04:36:19 URL: http://www.townofmaynard-ma.gov/documents/millandmain-final-72dpi-20151020.pdf 200 OK
+unlink: No such file or directory
+http://www.townofmaynard-ma.gov/2015/06/11/edc-ctp-future-jun11/:
+Remote file does not exist -- broken link!!!
+2017-01-02 04:36:20 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/11/mempark-meeting3-slides-20160520.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:21 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/11/mempark-meeting2-slides-20160225.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:21 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/11/mempark-meeting2-notes-20160225.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:21 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/05/cs-workshop-slides-20160524.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:22 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/05/cs-policy-adoption-20160608.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:22 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/05/cs-resolution-20131105.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:22 URL: http://www.townofmaynard-ma.gov/documents/cs-pilot-final-report-mapc-20160901.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:22 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/05/cs-pilot-project-flyer-20160727.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:23 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/05/arrt-network-plan-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:26 URL:http://www.townofmaynard-ma.gov/gov/committees/edc/beep/guidelines/ [104576] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/gov/committees/edc/beep/guidelines/index.html" [1]
+2017-01-02 04:36:27 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/09/beep-flyer-20160727.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:27 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/09/beep-application-20150908.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:27 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/09/beep-description-20150908.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:28 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2015/09/beep-guidelines-20150908.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:33 URL:http://www.townofmaynard-ma.gov/dpw/recycling-dropoff-center/ [103795] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/safety/board-of-health/recycling-dropoff-center/index.html" [1]
+2017-01-02 04:36:38 URL:http://www.townofmaynard-ma.gov/dpw/solid-waste-and-recycling/ [107999] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/safety/board-of-health/solid-waste-and-recycling/index.html" [1]
+2017-01-02 04:36:38 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2012/03/mhc-house-plaque-application-20140516.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:42 URL:http://www.townofmaynard-ma.gov/2016/12/30/planning-board-legal-notice-community-development-strategy/amp/ [10445] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/12/30/planning-board-legal-notice-community-development-strategy/amp/index.html" [1]
+2017-01-02 04:36:43 URL: http://www.townofmaynard-ma.gov/category/general-information/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:47 URL:http://www.townofmaynard-ma.gov/2016/11/30/overnight-parking-ban-reminder/ [98381] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/11/30/overnight-parking-ban-reminder/index.html" [1]
+2017-01-02 04:36:51 URL:http://www.townofmaynard-ma.gov/category/general-information/page/2/ [114687] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/category/general-information/page/2/index.html" [1]
+2017-01-02 04:36:52 URL: http://www.townofmaynard-ma.gov/category/legal-notice/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:36:56 URL:http://www.townofmaynard-ma.gov/2016/11/14/hearing-license-arts-specialties/ [98696] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/11/14/hearing-license-arts-specialties/index.html" [1]
+2017-01-02 04:37:00 URL:http://www.townofmaynard-ma.gov/2016/06/17/legal-notice-taking-hearing-aug2/ [99080] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/06/17/legal-notice-taking-hearing-aug2/index.html" [1]
+2017-01-02 04:37:04 URL:http://www.townofmaynard-ma.gov/2016/06/14/boh-hearing-tobacco-jun28/ [98934] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/06/14/boh-hearing-tobacco-jun28/index.html" [1]
+2017-01-02 04:37:08 URL:http://www.townofmaynard-ma.gov/2016/06/08/legal-notice-water-and-sewer-rates/ [98763] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/06/08/legal-notice-water-and-sewer-rates/index.html" [1]
+2017-01-02 04:37:12 URL:http://www.townofmaynard-ma.gov/category/legal-notice/page/2/ [101898] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/category/legal-notice/page/2/index.html" [1]
+2017-01-02 04:37:13 URL: http://www.townofmaynard-ma.gov/author/daveg/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:37:17 URL:http://www.townofmaynard-ma.gov/author/daveg/page/2/ [114566] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/author/daveg/page/2/index.html" [1]
+2017-01-02 04:37:20 URL:http://www.townofmaynard-ma.gov/2016/12/29/pb-hearing-jan25/amp/ [10117] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/12/29/pb-hearing-jan25/amp/index.html" [1]
+2017-01-02 04:37:23 URL:http://www.townofmaynard-ma.gov/2016/12/22/2017-annual-town-census/amp/ [10691] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/12/22/2017-annual-town-census/amp/index.html" [1]
+2017-01-02 04:37:24 URL: http://www.townofmaynard-ma.gov/category/participate/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:37:27 URL:http://www.townofmaynard-ma.gov/2016/09/13/senior-health-safety-expo/ [99659] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/09/13/senior-health-safety-expo/index.html" [1]
+2017-01-02 04:37:31 URL:http://www.townofmaynard-ma.gov/2016/07/27/stm-oct5/ [99129] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/07/27/stm-oct5/index.html" [1]
+2017-01-02 04:37:36 URL:http://www.townofmaynard-ma.gov/2016/07/15/zba-seeks-new-members/ [99316] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/07/15/zba-seeks-new-members/index.html" [1]
+2017-01-02 04:37:40 URL:http://www.townofmaynard-ma.gov/2016/07/11/street-improvement-pilot-project/ [100546] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/07/11/street-improvement-pilot-project/index.html" [1]
+2017-01-02 04:37:44 URL:http://www.townofmaynard-ma.gov/category/participate/page/2/ [112387] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/category/participate/page/2/index.html" [1]
+2017-01-02 04:37:46 URL:http://www.townofmaynard-ma.gov/2016/12/09/stm-warrant-available/amp/ [9566] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/12/09/stm-warrant-available/amp/index.html" [1]
+2017-01-02 04:37:49 URL:http://www.townofmaynard-ma.gov/2016/11/21/town-hall-holiday-schedule/amp/ [10164] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/11/21/town-hall-holiday-schedule/amp/index.html" [1]
+2017-01-02 04:37:53 URL:http://www.townofmaynard-ma.gov/2016/11/04/barn-inspections/ [99231] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/11/04/barn-inspections/index.html" [1]
+2017-01-02 04:37:55 URL:http://www.townofmaynard-ma.gov/2016/10/28/pzrr-radio/amp/ [12616] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/10/28/pzrr-radio/amp/index.html" [1]
+2017-01-02 04:37:59 URL:http://www.townofmaynard-ma.gov/2016/10/10/assessor-property-inspections/ [99363] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/10/10/assessor-property-inspections/index.html" [1]
+2017-01-02 04:38:03 URL:http://www.townofmaynard-ma.gov/2016/10/06/pilot-commuter-shuttle/ [99969] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/10/06/pilot-commuter-shuttle/index.html" [1]
+2017-01-02 04:38:07 URL:http://www.townofmaynard-ma.gov/2016/08/20/bridges-growing-together-returns/ [99146] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/08/20/bridges-growing-together-returns/index.html" [1]
+2017-01-02 04:38:13 URL:http://www.townofmaynard-ma.gov/gov/committees/edc/news/ [99644] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/senior-center/news/index.html" [1]
+2017-01-02 04:38:17 URL:http://www.townofmaynard-ma.gov/page/3/ [113835] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/page/3/index.html" [1]
+2017-01-02 04:38:17 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20170110.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:17 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20161213.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:18 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20161122.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:18 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20160927.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:18 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20160823.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:19 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20160823.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:19 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20160809.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:19 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20160712.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:20 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20160712.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:20 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20160628.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:20 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20160628.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:21 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20160613.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:21 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20160613.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:21 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20160601.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:22 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20160601.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:22 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20160524.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:22 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20160524.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:23 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20160511.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:23 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20160511.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:23 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20160426.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:24 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20160426.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:24 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20160412.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:24 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20160412.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:24 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20160322.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:25 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20160322.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:25 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20160308.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:25 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20160308.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:25 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20160223.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:26 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20160223.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:26 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20160209.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:27 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20160209.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:27 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20160126.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:27 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20160126.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:27 URL: http://www.townofmaynard-ma.gov/documents/millandmain/millandmain-signage-permit-20160126.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:28 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20160121.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:28 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20160121.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:29 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20151221.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:29 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20151221.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:29 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20151210.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:29 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20151210.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:30 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20151208.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:30 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20151208.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:31 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20151110.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:31 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20151110.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:31 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20151027.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:32 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20151027.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:32 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20151013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:32 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20151013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:32 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20150908.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:33 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20150908.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:33 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20150818.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:33 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20150818.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:34 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20150728.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:34 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20150728.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:34 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20150714.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:35 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20150714.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:35 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20150623.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:35 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20150623.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:36 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20150609.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:36 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20150609.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:36 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20150526.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:36 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20150526.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:37 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20150428.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:37 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20150428.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:37 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20150414.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:37 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20150414.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:37 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20150324.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:38 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20150324.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:38 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20150310.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:38 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20150310.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:39 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20150224.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:39 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20150224.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:39 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20150210.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:40 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20150210.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:40 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20150113.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:40 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20150113.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:41 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20150106.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:41 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20150106.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:41 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20141218.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:42 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20141218.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:42 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20141209.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:42 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20141209.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:42 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20141125.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:43 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-agenda-20141125.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:43 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20141112.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:43 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20141112.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:43 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20141028.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:44 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20141028.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:44 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20141014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:45 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20141014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:45 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20141001.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:45 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20141001.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:46 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20140923.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:46 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20140923.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:46 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20140909.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:47 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20140812.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:47 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20140812.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:48 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20140729.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:48 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20140729.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:48 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20140708.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:48 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20140708.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:49 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20140624.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:49 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20140624.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:50 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20140513.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:50 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20140513.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:50 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20140430.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:50 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20140430.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:51 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20140408.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:51 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20140408.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:51 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20140325.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:52 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20140325.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:52 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20131126.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:52 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20131126.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:52 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20131112.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:53 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20131112.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:53 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20131022.pdf 200 OK
+unlink: No such file or directory
+http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20131022.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 04:38:55 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20131008.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:55 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20131008.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:55 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20130924.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:55 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20130924.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:56 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20130910.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:56 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20130910.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:56 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20130827.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:57 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20130827.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:57 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20130806.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:57 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20130806.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:57 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20310730.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:58 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20130730.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:58 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20130709.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:58 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20130709.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:59 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20130611.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:59 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20130611.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:38:59 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20130515.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:00 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20130515.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:00 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20130514.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:01 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20130514.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:01 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20130508.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:01 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20130508.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:02 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20130507.pdf 200 OK
+unlink: No such file or directory
+http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20130507.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 04:39:03 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20130423.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:04 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20130423.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:04 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20130409.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:04 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20130409.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:04 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20130305.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:05 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20130305.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:05 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20130226.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:05 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20130226.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:06 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20130108.pdf 200 OK
+unlink: No such file or directory
+http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20130108.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 04:39:07 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20121211.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:08 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20121113.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:08 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20121001.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:08 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20120911.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:09 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20120410.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:09 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20120327.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:09 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20120313.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:10 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20120221.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:10 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20120124.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:10 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20120110.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:11 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20110510.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:11 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20110412.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:11 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/Maynard-High-School-Decision20110222.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:12 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20110208.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:12 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20110125.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:12 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20110111.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:12 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20101228.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:12 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20100909.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:13 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20101026.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:13 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20101012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:13 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20100928.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:14 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20100831.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:14 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20100824.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:14 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/pb-minutes-20100811.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:15 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/July-27-2010-pdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:15 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2010/09/July-13-2010-pdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:16 URL: http://www.townofmaynard-ma.gov/category/dpw/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:20 URL:http://www.townofmaynard-ma.gov/2016/06/21/ifb-cupola-restoration/ [99518] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/06/21/ifb-cupola-restoration/index.html" [1]
+2017-01-02 04:39:20 URL: http://www.townofmaynard-ma.gov/wp-content/uploads/2016/06/maynard-cupola-restoration-rfp-20160621.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:24 URL:http://www.townofmaynard-ma.gov/category/dpw/page/2/ [108351] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/category/dpw/page/2/index.html" [1]
+2017-01-02 04:39:25 URL: http://www.townofmaynard-ma.gov/category/expired/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:28 URL:http://www.townofmaynard-ma.gov/2016/10/07/fire-station-property-rfp/ [99545] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/10/07/fire-station-property-rfp/index.html" [1]
+2017-01-02 04:39:32 URL:http://www.townofmaynard-ma.gov/2016/02/08/storm-update-feb8/ [98664] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/02/08/storm-update-feb8/index.html" [1]
+2017-01-02 04:39:34 URL: http://www.townofmaynard-ma.gov/category/important/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:37 URL:http://www.townofmaynard-ma.gov/2016/04/20/tthms-drinking-water-update/ [106222] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/04/20/tthms-drinking-water-update/index.html" [1]
+2017-01-02 04:39:39 URL: http://www.townofmaynard-ma.gov/category/public-health-and-safety-updates/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:44 URL:http://www.townofmaynard-ma.gov/2016/06/20/mfd-grilling-safety-tips/ [101448] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/06/20/mfd-grilling-safety-tips/index.html" [1]
+2017-01-02 04:39:48 URL:http://www.townofmaynard-ma.gov/category/public-health-and-safety-updates/page/2/ [115475] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/category/public-health-and-safety-updates/page/2/index.html" [1]
+2017-01-02 04:39:49 URL: http://www.townofmaynard-ma.gov/category/public-meeting-notices/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:39:53 URL:http://www.townofmaynard-ma.gov/2016/06/17/mhc-demolition-delay-bylaw-hearing-jun23/ [100584] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/06/17/mhc-demolition-delay-bylaw-hearing-jun23/index.html" [1]
+2017-01-02 04:39:56 URL:http://www.townofmaynard-ma.gov/2016/01/21/atm-stm-may16/ [99502] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/01/21/atm-stm-may16/index.html" [1]
+2017-01-02 04:39:58 URL: http://www.townofmaynard-ma.gov/category/rfps/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 04:40:01 URL:http://www.townofmaynard-ma.gov/2016/03/21/marketing-maynard-rfp/ [99088] -> "../data/townSites2/Maynard/www.townofmaynard-ma.gov/2016/03/21/marketing-maynard-rfp/index.html" [1]
+Found 7 broken links.
+
+http://www.townofmaynard-ma.gov/2015/06/11/edc-ctp-future-jun11/
+http://www.townofmaynard-ma.gov/xmlrpc.php
+http://www.townofmaynard-ma.gov/documents/stretch-code-intro-20110606.pdf
+http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20130507.pdf
+http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20131022.pdf
+http://www.townofmaynard-ma.gov/wp-content/uploads/2010/07/pb-agenda-20130108.pdf
+http://www.townofmaynard-ma.gov/2016/09/28/early-voting/
+
+FINISHED --2017-01-02 04:40:01--
+Total wall clock time: 21m 33s
+Downloaded: 244 files, 24M in 5m 49s (69.3 KB/s)

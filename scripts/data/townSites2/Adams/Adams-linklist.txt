@@ -1,0 +1,45 @@
+2017-01-01 22:37:30 URL:http://town.adams.ma.us/ [1181] -> "../data/townSites2/Adams/town.adams.ma.us/index.html" [1]
+2017-01-01 22:37:40 URL:http://town.adams.ma.us/Public_Documents/index [40541] -> "../data/townSites2/Adams/town.adams.ma.us/Public_Documents/index" [1]
+No data received.
+2017-01-01 22:37:46 URL:http://town.adams.ma.us/Public_Documents/AdamsMA_WebDocs/residents [33464] -> "../data/townSites2/Adams/town.adams.ma.us/Public_Documents/AdamsMA_WebDocs/residents" [1]
+2017-01-01 22:37:53 URL:http://town.adams.ma.us/Public_Documents/AdamsMA_WebDocs/business [28144] -> "../data/townSites2/Adams/town.adams.ma.us/Public_Documents/AdamsMA_WebDocs/business" [1]
+2017-01-01 22:37:55 URL:http://town.adams.ma.us/Public_Documents/AdamsMA_WebDocs/visitors [29444] -> "../data/townSites2/Adams/town.adams.ma.us/Public_Documents/AdamsMA_WebDocs/visitors" [1]
+2017-01-01 22:37:57 URL:http://town.adams.ma.us/Public_Documents/AdamsMA_WebDocs/about [17825] -> "../data/townSites2/Adams/town.adams.ma.us/Public_Documents/AdamsMA_WebDocs/about" [1]
+2017-01-01 22:38:04 URL:http://town.adams.ma.us/Public_Documents/AdamsMA_AnnualBudget/ [18431] -> "../data/townSites2/Adams/town.adams.ma.us/Public_Documents/AdamsMA_AnnualBudget/index.html" [1]
+No data received.
+2017-01-01 22:38:19 URL:http://town.adams.ma.us/Public_Documents/AdamsMA_BBoard/Job%20Postings/ [20854] -> "../data/townSites2/Adams/town.adams.ma.us/Public_Documents/AdamsMA_BBoard/Job Postings/index.html" [1]
+2017-01-01 22:38:28 URL:http://town.adams.ma.us/Public_Documents/AdamsMA_Churches/index [24159] -> "../data/townSites2/Adams/town.adams.ma.us/Public_Documents/AdamsMA_Churches/index" [1]
+2017-01-01 22:38:32 URL:http://town.adams.ma.us/Public_Documents/Economic%20Development/ [17280] -> "../data/townSites2/Adams/town.adams.ma.us/Public_Documents/Economic Development" [1]
+2017-01-01 22:38:35 URL:http://town.adams.ma.us/Public_Documents/AdamsMA_WebDocs/government [38841] -> "../data/townSites2/Adams/town.adams.ma.us/Public_Documents/AdamsMA_WebDocs/government" [1]
+2017-01-01 22:38:37 URL:http://town.adams.ma.us/Public_Documents/AdamsMA_Guide/schools [25516] -> "../data/townSites2/Adams/town.adams.ma.us/Public_Documents/AdamsMA_Guide/schools" [1]
+2017-01-01 22:38:39 URL:http://town.adams.ma.us/Public_Documents/AdamsMA_WebDocs/comments [26307] -> "../data/townSites2/Adams/town.adams.ma.us/Public_Documents/AdamsMA_WebDocs/comments" [1]
+2017-01-01 22:38:40 URL:http://town.adams.ma.us/Public_Documents/Strategic%20Planning/ [18878] -> "../data/townSites2/Adams/town.adams.ma.us/Public_Documents/Strategic Planning" [1]
+2017-01-01 22:38:42 URL:http://town.adams.ma.us/subscriber [25436] -> "../data/townSites2/Adams/town.adams.ma.us/subscriber" [1]
+2017-01-01 22:38:45 URL:http://town.adams.ma.us/Public_Documents/AdamsMA_WebDocs/calendars [20545] -> "../data/townSites2/Adams/town.adams.ma.us/Public_Documents/AdamsMA_WebDocs/calendars" [1]
+2017-01-01 22:38:48 URL:http://town.adams.ma.us/Public_Documents/AdamsMA_TownEvents/ [18788] -> "../data/townSites2/Adams/town.adams.ma.us/Public_Documents/AdamsMA_TownEvents" [1]
+2017-01-01 22:38:50 URL:http://town.adams.ma.us/Public_Documents/AdamsMA_Links/index [18849] -> "../data/townSites2/Adams/town.adams.ma.us/Public_Documents/AdamsMA_Links/index" [1]
+2017-01-01 22:38:52 URL:http://town.adams.ma.us/Public_Documents/AdamsMA_Links/favorites [18574] -> "../data/townSites2/Adams/town.adams.ma.us/Public_Documents/AdamsMA_Links/favorites" [1]
+2017-01-01 22:38:53 URL:http://town.adams.ma.us/Public_Documents/AdamsMA_Links/government [20548] -> "../data/townSites2/Adams/town.adams.ma.us/Public_Documents/AdamsMA_Links/government" [1]
+2017-01-01 22:38:54 URL:http://town.adams.ma.us/Public_Documents/AdamsMA_Links/newspapers [18321] -> "../data/townSites2/Adams/town.adams.ma.us/Public_Documents/AdamsMA_Links/newspapers" [1]
+2017-01-01 22:38:55 URL:http://town.adams.ma.us/Public_Documents/AdamsMA_Links/tourism [8029] -> "../data/townSites2/Adams/town.adams.ma.us/Public_Documents/AdamsMA_Links/tourism" [1]
+2017-01-01 22:38:57 URL:http://town.adams.ma.us/Public_Documents/search [42166] -> "../data/townSites2/Adams/town.adams.ma.us/Public_Documents/search" [1]
+2017-01-01 22:38:57 URL: http://town.adams.ma.us/Icons/0 200 OK
+unlink: No such file or directory
+2017-01-01 22:38:59 URL:http://town.adams.ma.us/Public_Documents/AdamsMA_BBoard/ [29153] -> "../data/townSites2/Adams/town.adams.ma.us/Public_Documents/AdamsMA_BBoard/index.html" [1]
+2017-01-01 22:39:00 URL: http://town.adams.ma.us/Public_Documents/AdamsMA_BBoard/0587D5E7-000F8513 200 OK
+unlink: No such file or directory
+2017-01-01 22:39:01 URL: http://town.adams.ma.us/Public_Documents/AdamsMA_BBoard/0586BDF1-000F8513 200 OK
+unlink: No such file or directory
+2017-01-01 22:39:01 URL: http://town.adams.ma.us/Public_Documents/AdamsMA_BBoard/058658AE-000F8513 200 OK
+unlink: No such file or directory
+2017-01-01 22:39:02 URL: http://town.adams.ma.us/Public_Documents/AdamsMA_BBoard/0583A048-000F8513 200 OK
+unlink: No such file or directory
+2017-01-01 22:39:03 URL: http://town.adams.ma.us/Public_Documents/AdamsMA_BBoard/0583A04E-000F8513 200 OK
+unlink: No such file or directory
+2017-01-01 22:39:04 URL:http://town.adams.ma.us/Public_Documents/AdamsMA_WebDocs/disclaimer [17782] -> "../data/townSites2/Adams/town.adams.ma.us/Public_Documents/AdamsMA_WebDocs/disclaimer" [1]
+2017-01-01 22:39:05 URL:http://town.adams.ma.us/Public_Documents/AdamsMA_WebDocs/privacy [17355] -> "../data/townSites2/Adams/town.adams.ma.us/Public_Documents/AdamsMA_WebDocs/privacy" [1]
+Found no broken links.
+
+FINISHED --2017-01-01 22:39:05--
+Total wall clock time: 1m 38s
+Downloaded: 26 files, 582K in 35s (16.5 KB/s)

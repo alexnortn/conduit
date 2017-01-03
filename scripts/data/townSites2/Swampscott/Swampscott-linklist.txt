@@ -1,0 +1,87 @@
+2017-01-02 04:11:49 URL:http://www.town.swampscott.ma.us/ [1184] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/index.html" [1]
+2017-01-02 04:11:52 URL:http://www.town.swampscott.ma.us/Public_Documents/index [69106] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/index" [1]
+2017-01-02 04:11:53 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_WebDocs/forms [61980] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_WebDocs/forms" [1]
+2017-01-02 04:11:54 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_WebDocs/online_chs [45901] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_WebDocs/online_chs" [1]
+2017-01-02 04:11:55 URL:http://www.town.swampscott.ma.us/subscriber [47356] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/subscriber" [1]
+2017-01-02 04:11:56 URL:http://www.town.swampscott.ma.us/public_documents/index [69090] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/public_documents/index" [1]
+2017-01-02 04:11:57 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_WebDocs/deptindex [50214] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_WebDocs/deptindex" [1]
+2017-01-02 04:11:57 URL: http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Admin/2016TOSOrgChart.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:11:58 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Accountant/index [47394] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Accountant/index" [1]
+2017-01-02 04:11:59 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Admin/index [55336] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Admin/index" [1]
+2017-01-02 04:12:00 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Animal/index [48490] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Animal/index" [1]
+2017-01-02 04:12:01 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Assessor/index [49471] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Assessor/index" [1]
+2017-01-02 04:12:02 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Build/index [59687] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Build/index" [1]
+2017-01-02 04:12:03 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Collector/index [80364] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Collector/index" [1]
+2017-01-02 04:12:04 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_conservation/index [52244] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_conservation/index" [1]
+2017-01-02 04:12:06 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Aging/index [60063] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Aging/index" [1]
+2017-01-02 04:12:07 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Elections/index [55890] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Elections/index" [1]
+2017-01-02 04:12:08 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Facilities/index [48671] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Facilities/index" [1]
+2017-01-02 04:12:09 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Fire/index [47185] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Fire/index" [1]
+2017-01-02 04:12:10 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Harbor/index [51082] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Harbor/index" [1]
+2017-01-02 04:12:11 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Health/index [61579] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Health/index" [1]
+2017-01-02 04:12:12 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Accountant/index2 [49352] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Accountant/index2" [1]
+2017-01-02 04:12:13 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Personnel/index [47955] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Personnel/index" [1]
+2017-01-02 04:12:14 URL:http://www.town.swampscott.ma.us/public_documents/SwampscottMA_Planning/index [59501] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/public_documents/SwampscottMA_Planning/index" [1]
+2017-01-02 04:12:15 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Procurement/index [47091] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Procurement/index" [1]
+2017-01-02 04:12:16 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_DPW/index [53863] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_DPW/index" [1]
+2017-01-02 04:12:18 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Recreation/index [58714] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Recreation/index" [1]
+2017-01-02 04:12:19 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Technology/index [50140] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Technology/index" [1]
+2017-01-02 04:12:20 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Clerk/index [55092] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Clerk/index" [1]
+2017-01-02 04:12:21 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Treasurer/index [49021] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Treasurer/index" [1]
+2017-01-02 04:12:22 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Veterans/index [48568] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Veterans/index" [1]
+2017-01-02 04:12:23 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/minag [67988] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/minag" [1]
+2017-01-02 04:12:24 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/townmeeting [50753] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/townmeeting" [1]
+2017-01-02 04:12:25 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/selectmen [50712] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/selectmen" [1]
+2017-01-02 04:12:26 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/conservation [61771] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/conservation" [1]
+2017-01-02 04:12:27 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/disability [61753] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/disability" [1]
+2017-01-02 04:12:28 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/emergency [46494] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/emergency" [1]
+2017-01-02 04:12:29 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/fence [45745] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/fence" [1]
+2017-01-02 04:12:30 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/historicdistrict [59124] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/historicdistrict" [1]
+2017-01-02 04:12:32 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/hdsc [55902] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/hdsc" [1]
+2017-01-02 04:12:33 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/historical [59423] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/historical" [1]
+2017-01-02 04:12:34 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/housing [48262] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/housing" [1]
+2017-01-02 04:12:35 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/MasterPlanCommittee [53974] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/MasterPlanCommittee" [1]
+2017-01-02 04:12:37 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_MDC/index [51935] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_MDC/index" [1]
+2017-01-02 04:12:37 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/openspacecom [59313] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/openspacecom" [1]
+2017-01-02 04:12:39 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/planning [63263] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/planning" [1]
+2017-01-02 04:12:40 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/rails [51521] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/rails" [1]
+2017-01-02 04:12:40 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/energy1 [84212] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/energy1" [1]
+2017-01-02 04:12:41 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/representatives [51276] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/representatives" [1]
+2017-01-02 04:12:42 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/sort [53756] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/sort" [1]
+2017-01-02 04:12:43 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/moderator [47286] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/moderator" [1]
+2017-01-02 04:12:44 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/zba [54202] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/zba" [1]
+2017-01-02 04:12:45 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/bcapp [50165] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BComm/bcapp" [1]
+2017-01-02 04:12:46 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_WebDocs/schoolindex [43131] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_WebDocs/schoolindex" [1]
+2017-01-02 04:12:47 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_WebDocs/about [50037] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_WebDocs/about" [1]
+2017-01-02 04:12:48 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_WebDocs/bylaws [46660] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_WebDocs/bylaws" [1]
+2017-01-02 04:12:49 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Technology/Cable%20VOD [44617] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Technology/Cable VOD" [1]
+2017-01-02 04:12:50 URL:http://www.town.swampscott.ma.us/Public_Documents/Swampscott_Community_Calendar [40010] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/Swampscott_Community_Calendar" [1]
+2017-01-02 04:12:51 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Jobs/ [39087] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Jobs/index.html" [1]
+2017-01-02 04:12:52 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_WebDocs/comments [50100] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_WebDocs/comments" [1]
+2017-01-02 04:12:54 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Technology/ConnectCTY [45569] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Technology/ConnectCTY" [1]
+2017-01-02 04:12:54 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Technology/SeeClickFix [41172] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_Technology/SeeClickFix" [1]
+2017-01-02 04:12:55 URL: http://www.town.swampscott.ma.us/Icons/0 200 OK
+unlink: No such file or directory
+2017-01-02 04:12:56 URL:http://www.town.swampscott.ma.us/public_documents/SwampscottMA_Webdocs/how [72458] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/public_documents/SwampscottMA_Webdocs/how" [1]
+2017-01-02 04:12:56 URL: http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_WebDocs/Swampscott%20Zoning%20Bylaws%20ATM%2005%2009%2016%20AG%20Approved.pdf 200 OK
+unlink: No such file or directory
+http://www.town.swampscott.ma.us/Public_Documents/4th%20of%20July%20T-Shirts%20-%20On%20Sale%20at%20Town%20Hall:
+Remote file does not exist -- broken link!!!
+http://www.town.swampscott.ma.us/Public_Documents/%5C%5CSwampscottMA_Pics%5C:
+Remote file does not exist -- broken link!!!
+2017-01-02 04:12:58 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BBoard/ [52498] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BBoard/index.html" [1]
+2017-01-02 04:13:00 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BBoard/0587D629-000F8513 [48317] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BBoard/0587D629-000F8513" [1]
+2017-01-02 04:13:01 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BBoard/05876B19-000F8513 [40305] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BBoard/05876B19-000F8513" [1]
+2017-01-02 04:13:02 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BBoard/05856420-000F8513 [38337] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BBoard/05856420-000F8513" [1]
+2017-01-02 04:13:04 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BBoard/05870F81-000F8513 [43385] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BBoard/05870F81-000F8513" [1]
+2017-01-02 04:13:05 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BBoard/05870E5C-000F8513 [40803] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_BBoard/05870E5C-000F8513" [1]
+2017-01-02 04:13:06 URL:http://www.town.swampscott.ma.us/Public_Documents/SwampscottMA_WebDocs/disclaimer [42202] -> "../data/townSites2/Swampscott/www.town.swampscott.ma.us/Public_Documents/SwampscottMA_WebDocs/disclaimer" [1]
+Found 2 broken links.
+
+http://www.town.swampscott.ma.us/Public_Documents/%5C%5CSwampscottMA_Pics%5C
+http://www.town.swampscott.ma.us/Public_Documents/4th%20of%20July%20T-Shirts%20-%20On%20Sale%20at%20Town%20Hall
+
+FINISHED --2017-01-02 04:13:06--
+Total wall clock time: 1m 18s
+Downloaded: 69 files, 3.4M in 18s (195 KB/s)

@@ -1,0 +1,424 @@
+2017-01-02 06:12:00 URL:http://www.townofhawley.com/ [61565/61565] -> "../data/townSites2/Hawley/www.townofhawley.com/index.html" [1]
+http://www.townofhawley.com/xmlrpc.php:
+Remote file does not exist -- broken link!!!
+2017-01-02 06:12:02 URL:http://www.townofhawley.com/page/2/ [60256] -> "../data/townSites2/Hawley/www.townofhawley.com/page/2/index.html" [1]
+2017-01-02 06:12:03 URL: http://www.townofhawley.com/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:12:03 URL: http://www.townofhawley.com/comments/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:12:05 URL: http://www.townofhawley.com/wp-json/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:12:05 URL: http://www.townofhawley.com/wp-includes/wlwmanifest.xml 200 OK
+unlink: No such file or directory
+2017-01-02 06:12:06 URL:http://www.townofhawley.com/about/ [28681] -> "../data/townSites2/Hawley/www.townofhawley.com/about/index.html" [1]
+2017-01-02 06:12:08 URL:http://www.townofhawley.com/the-town-office/ [41775] -> "../data/townSites2/Hawley/www.townofhawley.com/the-town-office/index.html" [1]
+2017-01-02 06:12:09 URL:http://www.townofhawley.com/the-town-office/elected-officials/ [38879] -> "../data/townSites2/Hawley/www.townofhawley.com/the-town-office/elected-officials/index.html" [1]
+2017-01-02 06:12:10 URL:http://www.townofhawley.com/the-town-office/appointed-officials/ [42454] -> "../data/townSites2/Hawley/www.townofhawley.com/the-town-office/appointed-officials/index.html" [1]
+2017-01-02 06:12:12 URL:http://www.townofhawley.com/the-town-office/committees/ [38729] -> "../data/townSites2/Hawley/www.townofhawley.com/the-town-office/committees/index.html" [1]
+2017-01-02 06:12:13 URL:http://www.townofhawley.com/the-town-office/liaison/ [35696] -> "../data/townSites2/Hawley/www.townofhawley.com/the-town-office/liaison/index.html" [1]
+2017-01-02 06:12:14 URL:http://www.townofhawley.com/the-town-office/inspectors/ [39777] -> "../data/townSites2/Hawley/www.townofhawley.com/the-town-office/inspectors/index.html" [1]
+2017-01-02 06:12:15 URL:http://www.townofhawley.com/town-services/ [35240] -> "../data/townSites2/Hawley/www.townofhawley.com/town-services/index.html" [1]
+2017-01-02 06:12:17 URL:http://www.townofhawley.com/town-services/administrative-services/ [25465] -> "../data/townSites2/Hawley/www.townofhawley.com/town-services/administrative-services/index.html" [1]
+2017-01-02 06:12:18 URL:http://www.townofhawley.com/town-services/emergency-services-public-safety/ [25913] -> "../data/townSites2/Hawley/www.townofhawley.com/town-services/emergency-services-public-safety/index.html" [1]
+2017-01-02 06:12:19 URL:http://www.townofhawley.com/town-services/assessment-tax/ [23643] -> "../data/townSites2/Hawley/www.townofhawley.com/town-services/assessment-tax/index.html" [1]
+2017-01-02 06:12:21 URL:http://www.townofhawley.com/tax-collectors-page/ [42929] -> "../data/townSites2/Hawley/www.townofhawley.com/tax-collectors-page/index.html" [1]
+2017-01-02 06:12:22 URL:http://www.townofhawley.com/town-services/burials-cemeteries/ [26957] -> "../data/townSites2/Hawley/www.townofhawley.com/town-services/burials-cemeteries/index.html" [1]
+2017-01-02 06:12:23 URL:http://www.townofhawley.com/town-services/public-health/ [28026] -> "../data/townSites2/Hawley/www.townofhawley.com/town-services/public-health/index.html" [1]
+2017-01-02 06:12:25 URL:http://www.townofhawley.com/town-services/recycling-trash-disposal/ [32998] -> "../data/townSites2/Hawley/www.townofhawley.com/town-services/recycling-trash-disposal/index.html" [1]
+2017-01-02 06:12:26 URL:http://www.townofhawley.com/choose-events-meetings/ [23084] -> "../data/townSites2/Hawley/www.townofhawley.com/choose-events-meetings/index.html" [1]
+2017-01-02 06:12:27 URL:http://www.townofhawley.com/events-meetings/ [36163] -> "../data/townSites2/Hawley/www.townofhawley.com/events-meetings/index.html" [1]
+2017-01-02 06:12:29 URL:http://www.townofhawley.com/events-meetings/office-hours-schedule-changes/ [41147] -> "../data/townSites2/Hawley/www.townofhawley.com/events-meetings/office-hours-schedule-changes/index.html" [1]
+2017-01-02 06:12:30 URL:http://www.townofhawley.com/licenses-permits/ [32999] -> "../data/townSites2/Hawley/www.townofhawley.com/licenses-permits/index.html" [1]
+2017-01-02 06:12:31 URL:http://www.townofhawley.com/licenses-permits-life-events/ [50144] -> "../data/townSites2/Hawley/www.townofhawley.com/licenses-permits-life-events/index.html" [1]
+2017-01-02 06:12:33 URL:http://www.townofhawley.com/licenses-permits-vehicles/ [51355] -> "../data/townSites2/Hawley/www.townofhawley.com/licenses-permits-vehicles/index.html" [1]
+2017-01-02 06:12:34 URL:http://www.townofhawley.com/help-wanted/ [25922] -> "../data/townSites2/Hawley/www.townofhawley.com/help-wanted/index.html" [1]
+2017-01-02 06:12:36 URL:http://www.townofhawley.com/help-wanted/paid-town-positions/ [25937] -> "../data/townSites2/Hawley/www.townofhawley.com/help-wanted/paid-town-positions/index.html" [1]
+2017-01-02 06:12:37 URL:http://www.townofhawley.com/help-wanted/volunteer-positions/ [27184] -> "../data/townSites2/Hawley/www.townofhawley.com/help-wanted/volunteer-positions/index.html" [1]
+2017-01-02 06:12:38 URL:http://www.townofhawley.com/help-wanted/hawley-to-hawley-positions/ [23079] -> "../data/townSites2/Hawley/www.townofhawley.com/help-wanted/hawley-to-hawley-positions/index.html" [1]
+2017-01-02 06:12:40 URL:http://www.townofhawley.com/links-2/ [43337] -> "../data/townSites2/Hawley/www.townofhawley.com/links-2/index.html" [1]
+2017-01-02 06:12:41 URL:http://www.townofhawley.com/health-safety/ [39578] -> "../data/townSites2/Hawley/www.townofhawley.com/health-safety/index.html" [1]
+2017-01-02 06:12:42 URL:http://www.townofhawley.com/key-documents/ [34747] -> "../data/townSites2/Hawley/www.townofhawley.com/key-documents/index.html" [1]
+2017-01-02 06:12:43 URL:http://www.townofhawley.com/mins-select-archive/ [23727] -> "../data/townSites2/Hawley/www.townofhawley.com/mins-select-archive/index.html" [1]
+2017-01-02 06:12:45 URL:http://www.townofhawley.com/town-meeting-documents/ [40505] -> "../data/townSites2/Hawley/www.townofhawley.com/town-meeting-documents/index.html" [1]
+2017-01-02 06:12:46 URL:http://www.townofhawley.com/town-bylaws/ [36516] -> "../data/townSites2/Hawley/www.townofhawley.com/town-bylaws/index.html" [1]
+2017-01-02 06:12:47 URL:http://www.townofhawley.com/board-of-health-regs/ [35559] -> "../data/townSites2/Hawley/www.townofhawley.com/board-of-health-regs/index.html" [1]
+2017-01-02 06:12:49 URL:http://www.townofhawley.com/chickley-docs/ [35015] -> "../data/townSites2/Hawley/www.townofhawley.com/chickley-docs/index.html" [1]
+2017-01-02 06:12:50 URL:http://www.townofhawley.com/tax-maps/ [36597] -> "../data/townSites2/Hawley/www.townofhawley.com/tax-maps/index.html" [1]
+2017-01-02 06:12:51 URL:http://www.townofhawley.com/notices-disclaimers/ [24153] -> "../data/townSites2/Hawley/www.townofhawley.com/notices-disclaimers/index.html" [1]
+2017-01-02 06:12:52 URL:http://www.townofhawley.com/notices-disclaimers/general-disclaimer/ [34767] -> "../data/townSites2/Hawley/www.townofhawley.com/notices-disclaimers/general-disclaimer/index.html" [1]
+2017-01-02 06:12:54 URL:http://www.townofhawley.com/notices-disclaimers/help-want-disclaim/ [34303] -> "../data/townSites2/Hawley/www.townofhawley.com/notices-disclaimers/help-want-disclaim/index.html" [1]
+2017-01-02 06:12:55 URL:http://www.townofhawley.com/notices-disclaimers/privacy-policy/ [32810] -> "../data/townSites2/Hawley/www.townofhawley.com/notices-disclaimers/privacy-policy/index.html" [1]
+2017-01-02 06:12:56 URL:http://www.townofhawley.com/legal-notices/ [35534] -> "../data/townSites2/Hawley/www.townofhawley.com/legal-notices/index.html" [1]
+2017-01-02 06:12:58 URL:http://www.townofhawley.com/broadband-in-hawley/ [34891] -> "../data/townSites2/Hawley/www.townofhawley.com/broadband-in-hawley/index.html" [1]
+2017-01-02 06:12:59 URL:http://www.townofhawley.com/november-2016-internet-survey/ [32054] -> "../data/townSites2/Hawley/www.townofhawley.com/november-2016-internet-survey/index.html" [1]
+2017-01-02 06:13:00 URL:http://www.townofhawley.com/how-to-request-a-wiredwest-refund/ [23460] -> "../data/townSites2/Hawley/www.townofhawley.com/how-to-request-a-wiredwest-refund/index.html" [1]
+2017-01-02 06:13:01 URL:http://www.townofhawley.com/broadband-status-updates/ [39059] -> "../data/townSites2/Hawley/www.townofhawley.com/broadband-status-updates/index.html" [1]
+2017-01-02 06:13:03 URL:http://www.townofhawley.com/supplemental-funding/ [53363] -> "../data/townSites2/Hawley/www.townofhawley.com/supplemental-funding/index.html" [1]
+2017-01-02 06:13:04 URL:http://www.townofhawley.com/broadband-in-hawley/broadband-faqs/ [65286] -> "../data/townSites2/Hawley/www.townofhawley.com/broadband-in-hawley/broadband-faqs/index.html" [1]
+2017-01-02 06:13:06 URL:http://www.townofhawley.com/h-s-internet-survey/ [26276] -> "../data/townSites2/Hawley/www.townofhawley.com/h-s-internet-survey/index.html" [1]
+2017-01-02 06:13:07 URL:http://www.townofhawley.com/burning-season/ [36135] -> "../data/townSites2/Hawley/www.townofhawley.com/burning-season/index.html" [1]
+2017-01-02 06:13:09 URL:http://www.townofhawley.com/contact/ [26529] -> "../data/townSites2/Hawley/www.townofhawley.com/contact/index.html" [1]
+2017-01-02 06:13:10 URL:http://www.townofhawley.com/directions/ [42674] -> "../data/townSites2/Hawley/www.townofhawley.com/directions/index.html" [1]
+2017-01-02 06:13:11 URL:http://www.townofhawley.com/bulletins/ [36338] -> "../data/townSites2/Hawley/www.townofhawley.com/bulletins/index.html" [1]
+2017-01-02 06:13:13 URL:http://www.townofhawley.com/best-recommendations/ [43773] -> "../data/townSites2/Hawley/www.townofhawley.com/best-recommendations/index.html" [1]
+2017-01-02 06:13:14 URL:http://www.townofhawley.com/category/hawley-news/ [60860] -> "../data/townSites2/Hawley/www.townofhawley.com/category/hawley-news/index.html" [1]
+2017-01-02 06:13:15 URL:http://www.townofhawley.com/still-time-for-hs-int/ [37788] -> "../data/townSites2/Hawley/www.townofhawley.com/still-time-for-hs-int/index.html" [1]
+2017-01-02 06:13:16 URL:http://www.townofhawley.com/wp-content/uploads/docs/Broadband/Hawley-High-Speed-Internet-Survey-Tallies.html [2904/2904] -> "../data/townSites2/Hawley/www.townofhawley.com/wp-content/uploads/docs/Broadband/Hawley-High-Speed-Internet-Survey-Tallies.html" [1]
+2017-01-02 06:13:17 URL:http://www.townofhawley.com/best-follow-up/ [36184] -> "../data/townSites2/Hawley/www.townofhawley.com/best-follow-up/index.html" [1]
+2017-01-02 06:13:18 URL: http://www.townofhawley.com/wp-content/uploads/docs/Bulletins&NewsItems/1-5-17_Agenda_BEST-presentation.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:13:19 URL:http://www.townofhawley.com/a-new-role-for-pamela/ [36670] -> "../data/townSites2/Hawley/www.townofhawley.com/a-new-role-for-pamela/index.html" [1]
+2017-01-02 06:13:20 URL:http://www.townofhawley.com/new-public-records-law/ [38590] -> "../data/townSites2/Hawley/www.townofhawley.com/new-public-records-law/index.html" [1]
+2017-01-02 06:13:21 URL:http://www.townofhawley.com/new-mbi-rfp-major-providers/ [41351] -> "../data/townSites2/Hawley/www.townofhawley.com/new-mbi-rfp-major-providers/index.html" [1]
+2017-01-02 06:13:23 URL:http://www.townofhawley.com/axia-cancels-broadband-meeting-withdraws-proposal/ [38131] -> "../data/townSites2/Hawley/www.townofhawley.com/axia-cancels-broadband-meeting-withdraws-proposal/index.html" [1]
+2017-01-02 06:13:24 URL:http://www.townofhawley.com/mema-issues-drought-bulletin/ [37712] -> "../data/townSites2/Hawley/www.townofhawley.com/mema-issues-drought-bulletin/index.html" [1]
+2017-01-02 06:13:24 URL: http://www.townofhawley.com/wp-content/uploads/docs/FRCOG/101016MEMA-Drought-Bulletin.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:13:26 URL:http://www.townofhawley.com/new-police-chief-hours/ [37489] -> "../data/townSites2/Hawley/www.townofhawley.com/new-police-chief-hours/index.html" [1]
+2017-01-02 06:13:26 URL:http://www.townofhawley.com/wp-content/uploads/docs/Bulletins&NewsItems/PoliceChief-call-911.html [1552/1552] -> "../data/townSites2/Hawley/www.townofhawley.com/wp-content/uploads/docs/Bulletins&NewsItems/PoliceChief-call-911.html" [1]
+2017-01-02 06:13:28 URL:http://www.townofhawley.com/2016/12/ [37425] -> "../data/townSites2/Hawley/www.townofhawley.com/2016/12/index.html" [1]
+2017-01-02 06:13:30 URL:http://www.townofhawley.com/2016/11/ [43014] -> "../data/townSites2/Hawley/www.townofhawley.com/2016/11/index.html" [1]
+2017-01-02 06:13:31 URL:http://www.townofhawley.com/2016/10/ [37449] -> "../data/townSites2/Hawley/www.townofhawley.com/2016/10/index.html" [1]
+2017-01-02 06:13:32 URL:http://www.townofhawley.com/2016/09/ [43075] -> "../data/townSites2/Hawley/www.townofhawley.com/2016/09/index.html" [1]
+2017-01-02 06:13:33 URL:http://www.townofhawley.com/2016/08/ [44992] -> "../data/townSites2/Hawley/www.townofhawley.com/2016/08/index.html" [1]
+2017-01-02 06:13:35 URL:http://www.townofhawley.com/2016/07/ [39317] -> "../data/townSites2/Hawley/www.townofhawley.com/2016/07/index.html" [1]
+2017-01-02 06:13:36 URL:http://www.townofhawley.com/2016/06/ [40650] -> "../data/townSites2/Hawley/www.townofhawley.com/2016/06/index.html" [1]
+2017-01-02 06:13:38 URL:http://www.townofhawley.com/2016/05/ [52823] -> "../data/townSites2/Hawley/www.townofhawley.com/2016/05/index.html" [1]
+2017-01-02 06:13:39 URL:http://www.townofhawley.com/2016/04/ [43122] -> "../data/townSites2/Hawley/www.townofhawley.com/2016/04/index.html" [1]
+2017-01-02 06:13:40 URL:http://www.townofhawley.com/2016/03/ [34591] -> "../data/townSites2/Hawley/www.townofhawley.com/2016/03/index.html" [1]
+2017-01-02 06:13:42 URL:http://www.townofhawley.com/2016/02/ [34374] -> "../data/townSites2/Hawley/www.townofhawley.com/2016/02/index.html" [1]
+2017-01-02 06:13:43 URL:http://www.townofhawley.com/2015/12/ [42930] -> "../data/townSites2/Hawley/www.townofhawley.com/2015/12/index.html" [1]
+2017-01-02 06:13:44 URL:http://www.townofhawley.com/2015/11/ [35558] -> "../data/townSites2/Hawley/www.townofhawley.com/2015/11/index.html" [1]
+2017-01-02 06:13:46 URL:http://www.townofhawley.com/2015/10/ [33708] -> "../data/townSites2/Hawley/www.townofhawley.com/2015/10/index.html" [1]
+2017-01-02 06:13:47 URL:http://www.townofhawley.com/2015/09/ [34497] -> "../data/townSites2/Hawley/www.townofhawley.com/2015/09/index.html" [1]
+2017-01-02 06:13:48 URL:http://www.townofhawley.com/category/hawley-help-wanted/ [34621] -> "../data/townSites2/Hawley/www.townofhawley.com/category/hawley-help-wanted/index.html" [1]
+2017-01-02 06:13:50 URL:http://www.townofhawley.com/page/3/ [69260] -> "../data/townSites2/Hawley/www.townofhawley.com/page/3/index.html" [1]
+2017-01-02 06:13:51 URL:http://www.townofhawley.com/its-finally-final/ [41101] -> "../data/townSites2/Hawley/www.townofhawley.com/its-finally-final/index.html" [1]
+2017-01-02 06:13:52 URL: http://www.townofhawley.com/wp-content/uploads/docs/Broadband/WiredWest-withdraw-letter-082316-d3-2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:13:53 URL:http://www.townofhawley.com/for-the-charlemont-selectboard/ [36821] -> "../data/townSites2/Hawley/www.townofhawley.com/for-the-charlemont-selectboard/index.html" [1]
+2017-01-02 06:13:53 URL: http://www.townofhawley.com/wp-content/uploads/docs/Bulletins&NewsItems/090616VEAC-LettertoCharlemont.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:13:54 URL:http://www.townofhawley.com/ma-doh-launches-2016-know-plan-prepare-campaign/ [38987] -> "../data/townSites2/Hawley/www.townofhawley.com/ma-doh-launches-2016-know-plan-prepare-campaign/index.html" [1]
+2017-01-02 06:13:56 URL:http://www.townofhawley.com/ww-action-pending/ [42083] -> "../data/townSites2/Hawley/www.townofhawley.com/ww-action-pending/index.html" [1]
+2017-01-02 06:13:56 URL: http://www.townofhawley.com/wp-content/uploads/docs/Minutes/082316SelectAgenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:13:57 URL:http://www.townofhawley.com/its-a-scam/ [37098] -> "../data/townSites2/Hawley/www.townofhawley.com/its-a-scam/index.html" [1]
+2017-01-02 06:13:59 URL:http://www.townofhawley.com/new-email-address-for-assessors/ [36650] -> "../data/townSites2/Hawley/www.townofhawley.com/new-email-address-for-assessors/index.html" [1]
+2017-01-02 06:14:00 URL:http://www.townofhawley.com/email-switcher-backeroo/ [36687] -> "../data/townSites2/Hawley/www.townofhawley.com/email-switcher-backeroo/index.html" [1]
+2017-01-02 06:14:01 URL:http://www.townofhawley.com/bridge-road-closure/ [38763] -> "../data/townSites2/Hawley/www.townofhawley.com/bridge-road-closure/index.html" [1]
+2017-01-02 06:14:03 URL:http://www.townofhawley.com/advisory-opportunity-for-the-specially-challenged/ [40214] -> "../data/townSites2/Hawley/www.townofhawley.com/advisory-opportunity-for-the-specially-challenged/index.html" [1]
+2017-01-02 06:14:04 URL:http://www.townofhawley.com/new-ad-hoc-group/ [37305] -> "../data/townSites2/Hawley/www.townofhawley.com/new-ad-hoc-group/index.html" [1]
+2017-01-02 06:14:04 URL: http://www.townofhawley.com/about/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:05 URL: http://www.townofhawley.com/the-town-office/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:05 URL:http://www.townofhawley.com/wp-content/uploads/docs/Bulletins&NewsItems/newofficehrsprintwindow.html [1476/1476] -> "../data/townSites2/Hawley/www.townofhawley.com/wp-content/uploads/docs/Bulletins&NewsItems/newofficehrsprintwindow.html" [1]
+2017-01-02 06:14:07 URL:http://www.townofhawley.com/admin-assistant-treas/ [37362] -> "../data/townSites2/Hawley/www.townofhawley.com/admin-assistant-treas/index.html" [1]
+2017-01-02 06:14:07 URL: http://www.townofhawley.com/the-town-office/elected-officials/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:09 URL:http://www.townofhawley.com/select-board/ [33978] -> "../data/townSites2/Hawley/www.townofhawley.com/select-board/index.html" [1]
+2017-01-02 06:14:10 URL:http://www.townofhawley.com/town-clerk/ [28082] -> "../data/townSites2/Hawley/www.townofhawley.com/town-clerk/index.html" [1]
+2017-01-02 06:14:12 URL:http://www.townofhawley.com/hawley-assessors/ [32132] -> "../data/townSites2/Hawley/www.townofhawley.com/hawley-assessors/index.html" [1]
+2017-01-02 06:14:13 URL:http://www.townofhawley.com/reps-hawlemont-school-com/ [35345] -> "../data/townSites2/Hawley/www.townofhawley.com/reps-hawlemont-school-com/index.html" [1]
+2017-01-02 06:14:14 URL:http://www.townofhawley.com/mtrsd-schl-comm/ [35859] -> "../data/townSites2/Hawley/www.townofhawley.com/mtrsd-schl-comm/index.html" [1]
+2017-01-02 06:14:15 URL:http://www.townofhawley.com/hawlemont-lec-rep/ [27427] -> "../data/townSites2/Hawley/www.townofhawley.com/hawlemont-lec-rep/index.html" [1]
+2017-01-02 06:14:17 URL:http://www.townofhawley.com/town-moderator/ [34445] -> "../data/townSites2/Hawley/www.townofhawley.com/town-moderator/index.html" [1]
+2017-01-02 06:14:18 URL:http://www.townofhawley.com/town-auditor/ [33869] -> "../data/townSites2/Hawley/www.townofhawley.com/town-auditor/index.html" [1]
+2017-01-02 06:14:19 URL:http://www.townofhawley.com/tree-warden/ [26654] -> "../data/townSites2/Hawley/www.townofhawley.com/tree-warden/index.html" [1]
+2017-01-02 06:14:20 URL: http://www.townofhawley.com/the-town-office/appointed-officials/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:22 URL:http://www.townofhawley.com/events-meetings/office-hours-schedule-changes/ [41147] -> "../data/townSites2/Hawley/www.townofhawley.com/office-hours-schedule-changes/index.html" [1]
+2017-01-02 06:14:23 URL:http://www.townofhawley.com/registrar-of-voters/ [37084] -> "../data/townSites2/Hawley/www.townofhawley.com/registrar-of-voters/index.html" [1]
+2017-01-02 06:14:25 URL:http://www.townofhawley.com/town-services/burials-cemeteries/ [26957] -> "../data/townSites2/Hawley/www.townofhawley.com/burials-cemeteries/index.html" [1]
+2017-01-02 06:14:25 URL: http://www.townofhawley.com/the-town-office/committees/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:27 URL:http://www.townofhawley.com/council-on-aging/ [37825] -> "../data/townSites2/Hawley/www.townofhawley.com/council-on-aging/index.html" [1]
+2017-01-02 06:14:28 URL:http://www.townofhawley.com/board-of-appeals/ [36853] -> "../data/townSites2/Hawley/www.townofhawley.com/board-of-appeals/index.html" [1]
+2017-01-02 06:14:29 URL:http://www.townofhawley.com/communications-committee/ [30319] -> "../data/townSites2/Hawley/www.townofhawley.com/communications-committee/index.html" [1]
+2017-01-02 06:14:31 URL:http://www.townofhawley.com/cons-commis/ [32830] -> "../data/townSites2/Hawley/www.townofhawley.com/cons-commis/index.html" [1]
+2017-01-02 06:14:32 URL:http://www.townofhawley.com/cultural-council/ [35281] -> "../data/townSites2/Hawley/www.townofhawley.com/cultural-council/index.html" [1]
+2017-01-02 06:14:34 URL:http://www.townofhawley.com/finance-committee/ [30150] -> "../data/townSites2/Hawley/www.townofhawley.com/finance-committee/index.html" [1]
+2017-01-02 06:14:35 URL:http://www.townofhawley.com/historical-commission/ [32635] -> "../data/townSites2/Hawley/www.townofhawley.com/historical-commission/index.html" [1]
+2017-01-02 06:14:36 URL: http://www.townofhawley.com/the-town-office/liaison/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:36 URL: http://www.townofhawley.com/wp-content/uploads/docs/Veterans/Vet-Newsletter-1st-Qtr-2015-Final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:36 URL: http://www.townofhawley.com/the-town-office/inspectors/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:37 URL: http://www.townofhawley.com/town-services/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofhawley.com/town-services/burials-and-cemeteries/:
+Remote file does not exist -- broken link!!!
+2017-01-02 06:14:38 URL: http://www.townofhawley.com/town-services/administrative-services/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:38 URL: http://www.townofhawley.com/town-services/emergency-services-public-safety/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:39 URL: http://www.townofhawley.com/town-services/assessment-tax/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:41 URL:http://www.townofhawley.com/Hawley-assessors/ [32132] -> "../data/townSites2/Hawley/www.townofhawley.com/Hawley-assessors.1" [1]
+2017-01-02 06:14:41 URL: http://www.townofhawley.com/town-services/burials-cemeteries/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:42 URL: http://www.townofhawley.com/town-services/public-health/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:42 URL: http://www.townofhawley.com/wp-content/uploads/docs/Board-of-Health/Hawley-signed-Outside-Consutant-Regs-11-12-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:42 URL: http://www.townofhawley.com/wp-content/uploads/docs/Board-of-Health/Hawley-signed-Food-Policy-11-12-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:43 URL: http://www.townofhawley.com/wp-content/uploads/docs/Board-of-Health/Hawley-signed-Local-Septic-Regs-11-12-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:43 URL: http://www.townofhawley.com/wp-content/uploads/docs/Board-of-Health/Hawley-signed-Private-Well-Regs-11-12-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:43 URL: http://www.townofhawley.com/wp-content/uploads/docs/FRCOG/091315combined-clinics.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:43 URL: http://www.townofhawley.com/town-services/recycling-trash-disposal/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:44 URL: http://www.townofhawley.com/wp-content/uploads/docs/FRCOG/020216-FCSWMD-Free-Sharps-Collection.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:44 URL: http://www.townofhawley.com/events-meetings/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:45 URL:http://www.townofhawley.com/wp-content/uploads/docs/MISC/calendar-hints.html [3765/3765] -> "../data/townSites2/Hawley/www.townofhawley.com/wp-content/uploads/docs/MISC/calendar-hints.html" [1]
+2017-01-02 06:14:46 URL: http://www.townofhawley.com/events-meetings/office-hours-schedule-changes/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:46 URL: http://www.townofhawley.com/licenses-permits/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:47 URL: http://www.townofhawley.com/licenses-permits-life-events/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:47 URL:http://www.townofhawley.com/wp-content/uploads/docs/Licenses&Permits/L&P-Glossary.html [7893/7893] -> "../data/townSites2/Hawley/www.townofhawley.com/wp-content/uploads/docs/Licenses&Permits/L&P-Glossary.html" [1]
+2017-01-02 06:14:48 URL: http://www.townofhawley.com/wp-content/uploads/docs/Licenses&Permits/DOG-LICENSE-ANNUAL-FORM-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:48 URL: http://www.townofhawley.com/wp-content/uploads/docs/Licenses&Permits/DOG-LICENSE-ANNUAL-FORM-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:49 URL: http://www.townofhawley.com/help-wanted/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:51 URL:http://www.townofhawley.com/help-wanted/paid-town-positions/ [25937] -> "../data/townSites2/Hawley/www.townofhawley.com/paid-town-positions/index.html" [1]
+2017-01-02 06:14:52 URL:http://www.townofhawley.com/help-wanted/volunteer-positions/ [27184] -> "../data/townSites2/Hawley/www.townofhawley.com/volunteer-positions/index.html" [1]
+2017-01-02 06:14:54 URL:http://www.townofhawley.com/help-wanted/hawley-to-hawley-positions/ [23079] -> "../data/townSites2/Hawley/www.townofhawley.com/hawley-to-hawley-positions/index.html" [1]
+2017-01-02 06:14:55 URL: http://www.townofhawley.com/help-wanted/paid-town-positions/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:55 URL: http://www.townofhawley.com/wp-content/uploads/docs/PositionDescriptions/040516Highway-Superintendent-Position-Description-Final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:56 URL: http://www.townofhawley.com/help-wanted/volunteer-positions/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:56 URL: http://www.townofhawley.com/help-wanted/hawley-to-hawley-positions/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:57 URL: http://www.townofhawley.com/links-2/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:57 URL: http://www.townofhawley.com/health-safety/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:14:59 URL:http://www.townofhawley.com/drug-disposal-prevention/ [35941] -> "../data/townSites2/Hawley/www.townofhawley.com/drug-disposal-prevention/index.html" [1]
+2017-01-02 06:14:59 URL: http://www.townofhawley.com/wp-content/uploads/docs/FRCOG/Advertising-HFT-Flier-4.6.15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:00 URL:http://www.townofhawley.com/ebola/ [33149] -> "../data/townSites2/Hawley/www.townofhawley.com/ebola/index.html" [1]
+2017-01-02 06:15:00 URL: http://www.townofhawley.com/wp-content/uploads/docs/FRCOG/052815SUMMER-FOOD-SAFETY.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:00 URL: http://www.townofhawley.com/wp-content/uploads/docs/FRCOG/Hawley-Town-Nurse-mj2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:02 URL:http://www.townofhawley.com/health-safety/healthful-homilies/ [29013] -> "../data/townSites2/Hawley/www.townofhawley.com/healthful-homilies/index.html" [1]
+2017-01-02 06:15:04 URL:http://www.townofhawley.com/fcswmd-news/ [32703] -> "../data/townSites2/Hawley/www.townofhawley.com/fcswmd-news/index.html" [1]
+2017-01-02 06:15:04 URL: http://www.townofhawley.com/wp-content/uploads/docs/FRCOG/081815MEMA-ISSUES-POWER-OUTAGE-SAFETY-TIPS.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:05 URL:http://www.townofhawley.com/safe-on-ice/ [29586] -> "../data/townSites2/Hawley/www.townofhawley.com/safe-on-ice/index.html" [1]
+2017-01-02 06:15:05 URL: http://www.townofhawley.com/wp-content/uploads/docs/Bulletins&NewsItems/101715-Wood-Stove-SafetyTips.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:06 URL: http://www.townofhawley.com/mins-select-archive/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:06 URL:http://www.townofhawley.com/wp-content/uploads/docs/Minutes-Select/SelectMin_2014-2016.html [36101/36101] -> "../data/townSites2/Hawley/www.townofhawley.com/wp-content/uploads/docs/Minutes-Select/SelectMin_2014-2016.html" [1]
+2017-01-02 06:15:07 URL: http://www.townofhawley.com/town-meeting-documents/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:07 URL: http://www.townofhawley.com/wp-content/uploads/docs/AnnTwnMtg/Hawley-Annual-Town-Report-2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:08 URL: http://www.townofhawley.com/wp-content/uploads/docs/AnnTwnMtg/Annual-Town-Meeting-Warrant-2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:08 URL: http://www.townofhawley.com/wp-content/uploads/docs/AnnTwnMtg/Special-Town-Meeting-Warrant-062613.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:08 URL: http://www.townofhawley.com/wp-content/uploads/docs/AnnTwnMtg/Hawley-Annual-Town-Report-2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:09 URL: http://www.townofhawley.com/wp-content/uploads/docs/AnnTwnMtg/Annual-Town-Meeting-Warrant-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:09 URL: http://www.townofhawley.com/wp-content/uploads/docs/AnnTwnMtg/2015-Town-Report-Final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:09 URL: http://www.townofhawley.com/wp-content/uploads/docs/AnnTwnMtg/050916Town-Meeting-Warrant-FINAL.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:09 URL: http://www.townofhawley.com/wp-content/uploads/docs/AnnTwnMtg/AnnualTownMeeting-info-pkt.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:10 URL: http://www.townofhawley.com/wp-content/uploads/docs/AnnTwnMtg/FY17-Proposed-Budget-Expenditures-Protected.xls 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:10 URL: http://www.townofhawley.com/wp-content/uploads/docs/AnnTwnMtg/T-o-H2017Budget-Final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:10 URL: http://www.townofhawley.com/wp-content/uploads/docs/AnnTwnMtg/Special-Town-Meeting-Warrant-Final-101716.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:11 URL: http://www.townofhawley.com/wp-content/uploads/docs/AnnTwnMtg/Hawley-Stretch-Code-October-updated-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:11 URL: http://www.townofhawley.com/wp-content/uploads/docs/AnnTwnMtg/101716-Stretch-Code-Flyer-Hawley.docx-.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:12 URL: http://www.townofhawley.com/town-bylaws/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:12 URL: http://www.townofhawley.com/wp-content/uploads/docs/Bylaws/Current-Hawley-Bylaws.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:12 URL: http://www.townofhawley.com/wp-content/uploads/docs/Bylaws/Driveway-Curb-Cut-Bylaw-scanned.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:12 URL: http://www.townofhawley.com/wp-content/uploads/docs/Bylaws/Hawley-Floodplain-Bylaw-TOWN-MEETING-DRAFT--4-9-12--no-tracking.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:12 URL: http://www.townofhawley.com/wp-content/uploads/docs/Bylaws/Hawley-Wind-Facility-Bylaw--FINAL-for-October-27-2005.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:13 URL: http://www.townofhawley.com/wp-content/uploads/docs/Bylaws/Hawley-Protective-Bylaw--common-driveways.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:13 URL: http://www.townofhawley.com/wp-content/uploads/docs/Bylaws/Regulations-Governing-the-Subdivision-of-Land.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:13 URL: http://www.townofhawley.com/wp-content/uploads/docs/Bylaws/Form-A-Application-for-ANR.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:14 URL: http://www.townofhawley.com/chickley-docs/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:15 URL:http://www.townofhawley.com/final-docs-chickley/ [35361] -> "../data/townSites2/Hawley/www.townofhawley.com/final-docs-chickley/index.html" [1]
+2017-01-02 06:15:17 URL:http://www.townofhawley.com/chickley-suppl-docs/ [31425] -> "../data/townSites2/Hawley/www.townofhawley.com/chickley-suppl-docs/index.html" [1]
+2017-01-02 06:15:18 URL:http://www.townofhawley.com/chickley-inform-mtg/ [36820] -> "../data/townSites2/Hawley/www.townofhawley.com/chickley-inform-mtg/index.html" [1]
+2017-01-02 06:15:19 URL:http://www.townofhawley.com/chickley-exec-sess-mins/ [38092] -> "../data/townSites2/Hawley/www.townofhawley.com/chickley-exec-sess-mins/index.html" [1]
+2017-01-02 06:15:20 URL: http://www.townofhawley.com/tax-maps/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:20 URL: http://www.townofhawley.com/wp-content/uploads/docs/TaxMaps/TaxMap_Index.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:21 URL: http://www.townofhawley.com/wp-content/uploads/docs/TaxMaps/TaxMap_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:21 URL: http://www.townofhawley.com/wp-content/uploads/docs/TaxMaps/TaxMap_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:21 URL: http://www.townofhawley.com/wp-content/uploads/docs/TaxMaps/TaxMap_3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:21 URL: http://www.townofhawley.com/wp-content/uploads/docs/TaxMaps/TaxMap_4.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:22 URL: http://www.townofhawley.com/wp-content/uploads/docs/TaxMaps/TaxMap_5.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:22 URL: http://www.townofhawley.com/wp-content/uploads/docs/TaxMaps/TaxMap_6.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:22 URL: http://www.townofhawley.com/wp-content/uploads/docs/TaxMaps/TaxMap_7.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:22 URL: http://www.townofhawley.com/wp-content/uploads/docs/TaxMaps/TaxMap_8.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:23 URL: http://www.townofhawley.com/wp-content/uploads/docs/TaxMaps/TaxMap_9.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:23 URL: http://www.townofhawley.com/wp-content/uploads/docs/TaxMaps/TaxMap_10.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:23 URL: http://www.townofhawley.com/wp-content/uploads/docs/TaxMaps/TaxMap_11.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:24 URL: http://www.townofhawley.com/wp-content/uploads/docs/TaxMaps/TaxMap_12.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:24 URL: http://www.townofhawley.com/notices-disclaimers/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:26 URL:http://www.townofhawley.com/notices-disclaimers/general-disclaimer/ [34767] -> "../data/townSites2/Hawley/www.townofhawley.com/general-disclaimer/index.html" [1]
+2017-01-02 06:15:28 URL:http://www.townofhawley.com/notices-disclaimers/help-want-disclaim/ [34303] -> "../data/townSites2/Hawley/www.townofhawley.com/help-want-disclaim/index.html" [1]
+2017-01-02 06:15:28 URL: http://www.townofhawley.com/notices-disclaimers/general-disclaimer/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:29 URL: http://www.townofhawley.com/notices-disclaimers/help-want-disclaim/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:29 URL: http://www.townofhawley.com/notices-disclaimers/privacy-policy/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:30 URL: http://www.townofhawley.com/legal-notices/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:31 URL: http://www.townofhawley.com/wp-content/uploads/docs/Assessors/052315Hawley-Tax-Title-Ad.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:32 URL: http://www.townofhawley.com/wp-content/uploads/docs/Minutes/092315-Classification-Hearing-Notice.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:32 URL: http://www.townofhawley.com/wp-content/uploads/docs/Minutes/072315LgScaleSolarBylawHearing.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:32 URL: http://www.townofhawley.com/broadband-in-hawley/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:33 URL: http://www.townofhawley.com/wp-content/uploads/docs/Broadband/Hawley-High-Speed-Internet-Survey-Word-Version.doc 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:33 URL: http://www.townofhawley.com/wp-content/uploads/docs/Broadband/Hawley-HS-Internet-Survey-Fillable-Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:33 URL: http://www.townofhawley.com/wp-content/uploads/docs/Broadband/Hawley-HS-Internet-Survey-Electronic-Brochure.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:34 URL: http://www.townofhawley.com/wp-content/uploads/docs/Broadband/High-Speed-Internet-Comparison-Fact-Sheet.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:35 URL: http://www.townofhawley.com/wp-content/uploads/docs/Broadband/how-ww-refund.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:35 URL: http://www.townofhawley.com/wp-content/uploads/docs/Broadband/103115Status-of-the-Search-for-High-Speed-Internet-for-Hawley.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:37 URL:http://www.townofhawley.com/events-meetings/ [36163] -> "../data/townSites2/Hawley/www.townofhawley.com/events-meetings.1" [1]
+2017-01-02 06:15:38 URL: http://www.townofhawley.com/wp-content/uploads/docs/Broadband/111415Supplemental-Funding.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:38 URL: http://www.townofhawley.com/wp-content/uploads/docs/Broadband/112115Positive-Meeting-with-Paul-Mark.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:39 URL: http://www.townofhawley.com/broadband-in-hawley/broadband-faqs/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofhawley.com/hawley_docs/Broadband/MBI%20Broadband_Last%20Mile%20Project%20Guide_3_31_2015%20FINAL.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 06:15:40 URL: http://www.townofhawley.com/h-s-internet-survey/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:41 URL: http://www.townofhawley.com/burning-season/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:41 URL: http://www.townofhawley.com/contact/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:42 URL: http://www.townofhawley.com/directions/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:42 URL: http://www.townofhawley.com/bulletins/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:43 URL: http://www.townofhawley.com/best-recommendations/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:43 URL: http://www.townofhawley.com/wp-content/uploads/docs/Bulletins&NewsItems/110116BEST-Committee-Recommendations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:45 URL:http://www.townofhawley.com/category/hawley-news/page/2/ [59652] -> "../data/townSites2/Hawley/www.townofhawley.com/category/hawley-news/page/2/index.html" [1]
+2017-01-02 06:15:45 URL: http://www.townofhawley.com/category/hawley-news/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:46 URL: http://www.townofhawley.com/still-time-for-hs-int/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:47 URL: http://www.townofhawley.com/best-follow-up/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:47 URL: http://www.townofhawley.com/a-new-role-for-pamela/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:48 URL: http://www.townofhawley.com/new-public-records-law/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:49 URL: http://www.townofhawley.com/new-mbi-rfp-major-providers/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:50 URL: http://www.townofhawley.com/wp-content/uploads/docs/Broadband/MBI-Letter-PVT-SEC-RFP10-12-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:51 URL: http://www.townofhawley.com/axia-cancels-broadband-meeting-withdraws-proposal/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:52 URL: http://www.townofhawley.com/mema-issues-drought-bulletin/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:52 URL: http://www.townofhawley.com/new-police-chief-hours/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:54 URL:http://www.townofhawley.com/proactive-flexible-1/ [36163] -> "../data/townSites2/Hawley/www.townofhawley.com/proactive-flexible-1/index.html" [1]
+2017-01-02 06:15:56 URL:http://www.townofhawley.com/proactive-flexible-2/ [32290] -> "../data/townSites2/Hawley/www.townofhawley.com/proactive-flexible-2" [1]
+2017-01-02 06:15:57 URL:http://www.townofhawley.com/us-news-mtrhs-silver/ [39222] -> "../data/townSites2/Hawley/www.townofhawley.com/us-news-mtrhs-silver/index.html" [1]
+2017-01-02 06:15:57 URL: http://www.townofhawley.com/wp-content/uploads/docs/Bulletins&NewsItems/US-News-Best-High-Schools-2016-Mohawk.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:15:59 URL:http://www.townofhawley.com/conflagration/ [45958] -> "../data/townSites2/Hawley/www.townofhawley.com/conflagration/index.html" [1]
+2017-01-02 06:16:00 URL:http://www.townofhawley.com/wp-content/uploads/docs/OrchFireOutp/index.htm [4719/4719] -> "../data/townSites2/Hawley/www.townofhawley.com/wp-content/uploads/docs/OrchFireOutp/index.htm" [1]
+2017-01-02 06:16:01 URL:http://www.townofhawley.com/the-mbi-pause-is-over/ [47190] -> "../data/townSites2/Hawley/www.townofhawley.com/the-mbi-pause-is-over/index.html" [1]
+2017-01-02 06:16:02 URL: http://www.townofhawley.com/wp-content/uploads/docs/Broadband/Letter-to-MBI-Governor-re-Broadband-2016-05-03.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:16:03 URL:http://www.townofhawley.com/combined-cultural-council-seeks-input/ [39093] -> "../data/townSites2/Hawley/www.townofhawley.com/combined-cultural-council-seeks-input/index.html" [1]
+2017-01-02 06:16:04 URL:http://www.townofhawley.com/thank-yous-all-around/ [39999] -> "../data/townSites2/Hawley/www.townofhawley.com/thank-yous-all-around/index.html" [1]
+2017-01-02 06:16:06 URL:http://www.townofhawley.com/new-warrant-has-new-format/ [38264] -> "../data/townSites2/Hawley/www.townofhawley.com/new-warrant-has-new-format/index.html" [1]
+2017-01-02 06:16:07 URL:http://www.townofhawley.com/hawley-town-nurse/ [37229] -> "../data/townSites2/Hawley/www.townofhawley.com/hawley-town-nurse/index.html" [1]
+2017-01-02 06:16:09 URL:http://www.townofhawley.com/new-development-broadband/ [41089] -> "../data/townSites2/Hawley/www.townofhawley.com/new-development-broadband/index.html" [1]
+2017-01-02 06:16:10 URL:http://www.townofhawley.com/selectboard-seeks-halt-to-dcr-land-purchase/ [42125] -> "../data/townSites2/Hawley/www.townofhawley.com/selectboard-seeks-halt-to-dcr-land-purchase/index.html" [1]
+2017-01-02 06:16:11 URL:http://www.townofhawley.com/interesting-aside/ [36358] -> "../data/townSites2/Hawley/www.townofhawley.com/interesting-aside/index.html" [1]
+2017-01-02 06:16:13 URL:http://www.townofhawley.com/amnesty-commonwealth-tax-penalties/ [38139] -> "../data/townSites2/Hawley/www.townofhawley.com/amnesty-commonwealth-tax-penalties/index.html" [1]
+2017-01-02 06:16:13 URL: http://www.townofhawley.com/wp-content/uploads/docs/Bulletins&NewsItems/2016TaxAmnestyPoster1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:16:15 URL:http://www.townofhawley.com/mbi-planning-mandate/ [39422] -> "../data/townSites2/Hawley/www.townofhawley.com/mbi-planning-mandate/index.html" [1]
+2017-01-02 06:16:15 URL: http://www.townofhawley.com/wp-content/uploads/docs/Broadband/MBI-Letter-to-Towns-3-14-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 06:16:16 URL:http://www.townofhawley.com/new-email-destinations/ [37073] -> "../data/townSites2/Hawley/www.townofhawley.com/new-email-destinations/index.html" [1]
+2017-01-02 06:16:18 URL:http://www.townofhawley.com/receives-draft-plan/ [40295] -> "../data/townSites2/Hawley/www.townofhawley.com/receives-draft-plan/index.html" [1]
+2017-01-02 06:16:19 URL:http://www.townofhawley.com/state-fire-marshall-issues-hoverboard-bulletin/ [39073] -> "../data/townSites2/Hawley/www.townofhawley.com/state-fire-marshall-issues-hoverboard-bulletin/index.html" [1]
+http://www.townofhawley.com/wp-content/uploads/docs/[Folder]/[filename.extn]:
+Remote file does not exist -- broken link!!!
+2017-01-02 06:16:21 URL:http://www.townofhawley.com/ongoing-cooperation/ [41221] -> "../data/townSites2/Hawley/www.townofhawley.com/ongoing-cooperation/index.html" [1]
+2017-01-02 06:16:22 URL:http://www.townofhawley.com/mark-mtg-productive/ [39373] -> "../data/townSites2/Hawley/www.townofhawley.com/mark-mtg-productive/index.html" [1]
+2017-01-02 06:16:23 URL:http://www.townofhawley.com/volunteers-office-spruce-up/ [39386] -> "../data/townSites2/Hawley/www.townofhawley.com/volunteers-office-spruce-up/index.html" [1]
+2017-01-02 06:16:25 URL:http://www.townofhawley.com/site-reconstruct-ahead/ [40883] -> "../data/townSites2/Hawley/www.townofhawley.com/site-reconstruct-ahead/index.html" [1]
+2017-01-02 06:16:25 URL: http://www.townofhawley.com/category/hawley-help-wanted/feed/ 200 OK
+unlink: No such file or directory
+Found 4 broken links.
+
+http://www.townofhawley.com/wp-content/uploads/docs/[Folder]/[filename.extn]
+http://www.townofhawley.com/xmlrpc.php
+http://www.townofhawley.com/hawley_docs/Broadband/MBI%20Broadband_Last%20Mile%20Project%20Guide_3_31_2015%20FINAL.pdf
+http://www.townofhawley.com/town-services/burials-and-cemeteries/
+
+FINISHED --2017-01-02 06:16:25--
+Total wall clock time: 4m 26s
+Downloaded: 154 files, 5.2M in 9.2s (582 KB/s)

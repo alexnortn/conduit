@@ -1,0 +1,51 @@
+2017-01-02 02:22:10 URL:http://www.springfield-ma.gov/cos/ [1029093/1029093] -> "../data/townSites2/Springfield/www.springfield-ma.gov/index.html" [1]
+2017-01-02 02:22:15 URL:http://www.springfield-ma.gov/cos/ [1029093/1029093] -> "../data/townSites2/Springfield/www.springfield-ma.gov/COS/index.html" [1]
+2017-01-02 02:22:15 URL: https://www.springfield-ma.gov/cos/fileadmin/press-releases/Charleston_SC_Shooting_1_Yr_Media_Advisory_6.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:16 URL: https://www.springfield-ma.gov/cos/fileadmin/press-releases/AHL_Back_to_Springfield_Media_Advisory.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:16 URL: http://www.springfield-ma.gov/cos/fileadmin/images-news/2016/January/2016_VITA_service_poster04.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:18 URL:http://www.springfield-ma.gov/cos/index.php?id=1784 [140520/140520] -> "../data/townSites2/Springfield/www.springfield-ma.gov/cos/1784.0.html" [1]
+http://www.springfield-ma.gov/finance/fileadmin/budget/FY_2015/FY15_Adopted_Budget_-_Finalv3.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:22:20 URL:http://www.springfield-ma.gov/dpw/index.php?id=traffic_alerts [19368/19368] -> "../data/townSites2/Springfield/www.springfield-ma.gov/dpw/traffic_alerts.0.html" [1]
+2017-01-02 02:22:21 URL:http://www.springfield-ma.gov/finance/index.php?id=unclaimed-checks [25944/25944] -> "../data/townSites2/Springfield/www.springfield-ma.gov/finance/unclaimed-checks.0.html" [1]
+2017-01-02 02:22:22 URL:http://www.springfield-ma.gov/planning/index.php?id=ndrc [34682/34682] -> "../data/townSites2/Springfield/www.springfield-ma.gov/planning/ndrc.html" [1]
+2017-01-02 02:22:23 URL: http://www.springfield-ma.gov/planning/fileadmin/community_dev/DR/NDRC_Phase_II_Complete_Application_public.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:24 URL:http://www.springfield-ma.gov/finance/assessors/ [19904] -> "../data/townSites2/Springfield/www.springfield-ma.gov/finance/assessors/index.html" [1]
+2017-01-02 02:22:25 URL:https://www.springfield-ma.gov/law/index.php?id=public-information [29443/29443] -> "../data/townSites2/Springfield/www.springfield-ma.gov/law/public-information.0.html" [1]
+2017-01-02 02:22:27 URL:http://www.springfield-ma.gov/law/index.php?id=med-marijuana [29038/29038] -> "../data/townSites2/Springfield/www.springfield-ma.gov/law/med-marijuana.html" [1]
+2017-01-02 02:22:28 URL:http://www.springfield-ma.gov/planning/index.php?id=cdbg-dr [61818/61818] -> "../data/townSites2/Springfield/www.springfield-ma.gov/planning/cdbg-dr.html" [1]
+2017-01-02 02:22:30 URL:http://www.springfield-ma.gov/planning/index.php?id=casino [44719/44719] -> "../data/townSites2/Springfield/www.springfield-ma.gov/casino" [1]
+2017-01-02 02:22:30 URL: http://www.springfield-ma.gov/planning/fileadmin/Planning_files/CONCISE_SUMMARY_OF_HCA_FOR_VOTERS_EMP__5_16_13_FINAL2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:31 URL:http://www.springfield-ma.gov/dpw/index.php?id=179 [18581/18581] -> "../data/townSites2/Springfield/www.springfield-ma.gov/DPW/179.html" [1]
+http://www.springfield-ma.gov/dpw/index.php?id=trashfee-lien:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:22:34 URL:http://www.springfield-ma.gov/cos/index.php?id=web-policies [21874/21874] -> "../data/townSites2/Springfield/www.springfield-ma.gov/cos/web-policies.0.html" [1]
+2017-01-02 02:22:37 URL:http://www.springfield-ma.gov/cos/index.php?id=contact-web [22386/22386] -> "../data/townSites2/Springfield/www.springfield-ma.gov/cos/webadmin.0.html" [1]
+2017-01-02 02:22:39 URL:http://www.springfield-ma.gov/cos/index.php?id=depts [22906/22906] -> "../data/townSites2/Springfield/www.springfield-ma.gov/cos/depts.html" [1]
+2017-01-02 02:22:41 URL:http://www.springfield-ma.gov/cos/index.php?id=residents [30320/30320] -> "../data/townSites2/Springfield/www.springfield-ma.gov/cos/residents.0.html" [1]
+2017-01-02 02:22:45 URL:http://www.springfield-ma.gov/planning/index.php?id=business [21857/21857] -> "../data/townSites2/Springfield/www.springfield-ma.gov/cos/business.0.html" [1]
+2017-01-02 02:22:47 URL:http://www.springfield-ma.gov/cos/index.php?id=leisure [23597/23597] -> "../data/townSites2/Springfield/www.springfield-ma.gov/cos/leisure.0.html" [1]
+2017-01-02 02:22:48 URL:http://www.springfield-ma.gov/cos/index.php?id=govt [20290/20290] -> "../data/townSites2/Springfield/www.springfield-ma.gov/cos/govt.0.html" [1]
+2017-01-02 02:22:49 URL:http://www.springfield-ma.gov/finance/ [23331/23331] -> "../data/townSites2/Springfield/www.springfield-ma.gov/finance/index.html" [1]
+2017-01-02 02:22:50 URL:http://www.springfield-ma.gov/finance/index.php?id=assessors [26483/26483] -> "../data/townSites2/Springfield/www.springfield-ma.gov/finance/assessors.html" [1]
+2017-01-02 02:22:52 URL:http://www.springfield-ma.gov/cos/index.php?id=contact-web [22400/22400] -> "../data/townSites2/Springfield/www.springfield-ma.gov/cos/webadmin.html" [1]
+2017-01-02 02:22:54 URL:http://www.springfield-ma.gov/finance/assessors/ [19904] -> "../data/townSites2/Springfield/www.springfield-ma.gov/finance/assessors-db.0.html" [1]
+2017-01-02 02:22:56 URL:http://www.springfield-ma.gov/finance/index.php?id=assessors-about [20171/20171] -> "../data/townSites2/Springfield/www.springfield-ma.gov/finance/assessors-about.0.html" [1]
+2017-01-02 02:22:59 URL:http://www.springfield-ma.gov/finance/index.php?id=faq-mv [30750/30750] -> "../data/townSites2/Springfield/www.springfield-ma.gov/finance/faq-mv.0.html" [1]
+2017-01-02 02:23:01 URL:http://www.springfield-ma.gov/finance/index.php?id=faq-personal-prop [24227/24227] -> "../data/townSites2/Springfield/www.springfield-ma.gov/finance/faq-personal-prop.0.html" [1]
+2017-01-02 02:23:03 URL:http://www.springfield-ma.gov/finance/index.php?id=faq-real-estate [27771/27771] -> "../data/townSites2/Springfield/www.springfield-ma.gov/finance/faq-real-estate.0.html" [1]
+2017-01-02 02:23:06 URL:http://www.springfield-ma.gov/finance/index.php?id=forms [21242/21242] -> "../data/townSites2/Springfield/www.springfield-ma.gov/finance/tax-forms.0.html" [1]
+2017-01-02 02:23:10 URL:http://www.springfield-ma.gov/cos/index.php?id=pay-online [21831/21831] -> "../data/townSites2/Springfield/www.springfield-ma.gov/finance/pay0.0.html" [1]
+Found 2 broken links.
+
+http://www.springfield-ma.gov/finance/fileadmin/budget/FY_2015/FY15_Adopted_Budget_-_Finalv3.pdf
+http://www.springfield-ma.gov/dpw/index.php?id=trashfee-lien
+
+FINISHED --2017-01-02 02:23:10--
+Total wall clock time: 1m 7s
+Downloaded: 29 files, 2.7M in 9.5s (298 KB/s)

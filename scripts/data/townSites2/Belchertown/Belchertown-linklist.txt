@@ -1,0 +1,1273 @@
+2017-01-02 03:07:02 URL:http://www.belchertown.org/ [40747] -> "../data/townSites2/Belchertown/www.belchertown.org/index.html" [1]
+2017-01-02 03:07:02 URL: http://www.belchertown.org/_images_/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 03:07:03 URL:http://www.belchertown.org/index.php [40747] -> "../data/townSites2/Belchertown/www.belchertown.org/index.php" [1]
+2017-01-02 03:07:04 URL:http://www.belchertown.org/residents/index.php [28646] -> "../data/townSites2/Belchertown/www.belchertown.org/residents/index.php" [1]
+2017-01-02 03:07:05 URL:http://www.belchertown.org/residents/channel_5/index.php [35010] -> "../data/townSites2/Belchertown/www.belchertown.org/residents/channel_5/index.php" [1]
+2017-01-02 03:07:06 URL:http://www.belchertown.org/residents/churches/index.php [30636] -> "../data/townSites2/Belchertown/www.belchertown.org/residents/churches/index.php" [1]
+2017-01-02 03:07:08 URL:http://www.belchertown.org/residents/town_history/index.php [94600] -> "../data/townSites2/Belchertown/www.belchertown.org/residents/town_history/index.php" [1]
+2017-01-02 03:07:10 URL:http://www.belchertown.org/residents/general_town_info/index.php [30488] -> "../data/townSites2/Belchertown/www.belchertown.org/residents/general_town_info/index.php" [1]
+2017-01-02 03:07:11 URL:http://www.belchertown.org/residents/f_a_q/index.php [42712] -> "../data/townSites2/Belchertown/www.belchertown.org/residents/f_a_q/index.php" [1]
+2017-01-02 03:07:12 URL:http://www.belchertown.org/residents/family_center/index.php [32156] -> "../data/townSites2/Belchertown/www.belchertown.org/residents/family_center/index.php" [1]
+2017-01-02 03:07:14 URL:http://www.belchertown.org/vistors/index.php [28637] -> "../data/townSites2/Belchertown/www.belchertown.org/vistors/index.php" [1]
+2017-01-02 03:07:16 URL:http://www.belchertown.org/about_us22/index.php [41848] -> "../data/townSites2/Belchertown/www.belchertown.org/about_us22/index.php" [1]
+2017-01-02 03:07:18 URL:http://www.belchertown.org/business/index.php [28641] -> "../data/townSites2/Belchertown/www.belchertown.org/business/index.php" [1]
+2017-01-02 03:07:21 URL:http://www.belchertown.org/business/edic_home/index.php [31249] -> "../data/townSites2/Belchertown/www.belchertown.org/business/edic_home/index.php" [1]
+2017-01-02 03:07:23 URL:http://www.belchertown.org/business/local_businesses/index.php [48859] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/index.php" [1]
+2017-01-02 03:07:26 URL:http://www.belchertown.org/commitees/index.php [28647] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/index.php" [1]
+2017-01-02 03:07:28 URL:http://www.belchertown.org/commitees/community_preservation/index.php [33591] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/community_preservation/index.php" [1]
+2017-01-02 03:07:29 URL:http://www.belchertown.org/commitees/telecommunication/index.php [31323] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/telecommunication/index.php" [1]
+2017-01-02 03:07:29 URL:http://www.belchertown.org/commitees/agricultural_commission/index.php [31461] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/agricultural_commission/index.php" [1]
+2017-01-02 03:07:31 URL:http://www.belchertown.org/commitees/historical_commission/index.php [30282] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/historical_commission/index.php" [1]
+2017-01-02 03:07:32 URL:http://www.belchertown.org/commitees/belchertown_lakes_committee/index.php [31949] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/belchertown_lakes_committee/index.php" [1]
+2017-01-02 03:07:34 URL:http://www.belchertown.org/commitees/belchertown_housing_authority.php [37014] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/belchertown_housing_authority.php" [1]
+2017-01-02 03:07:35 URL:http://www.belchertown.org/departments/index.php [28659] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/index.php" [1]
+2017-01-02 03:07:37 URL:http://www.belchertown.org/departments/accountant/index.php [30487] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/accountant/index.php" [1]
+2017-01-02 03:07:38 URL:http://www.belchertown.org/departments/administrator/index.php [30129] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/administrator/index.php" [1]
+2017-01-02 03:07:40 URL:http://www.belchertown.org/government/assessors/index.php [51377] -> "../data/townSites2/Belchertown/www.belchertown.org/government/assessors/index.php" [1]
+2017-01-02 03:07:41 URL:http://www.belchertown.org/departments/treasurer/index.php [33470] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/treasurer/index.php" [1]
+2017-01-02 03:07:42 URL:http://www.belchertown.org/departments/mis(computing)/index.php [30372] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/mis(computing)/index.php" [1]
+2017-01-02 03:07:44 URL:http://www.belchertown.org/departments/conservation/index.php [44975] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/conservation/index.php" [1]
+2017-01-02 03:07:45 URL:http://www.belchertown.org/departments/health/index.php [38868] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/health/index.php" [1]
+2017-01-02 03:07:47 URL:http://www.belchertown.org/departments/inspections/index.php [37581] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/inspections/index.php" [1]
+2017-01-02 03:07:50 URL:http://www.belchertown.org/departments/planning/index.php [39813] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/planning/index.php" [1]
+2017-01-02 03:07:52 URL:http://www.belchertown.org/departments/selectmen/index.php [38601] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/selectmen/index.php" [1]
+2017-01-02 03:07:55 URL:http://www.belchertown.org/departments/clerk/index.php [156101] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/clerk/index.php" [1]
+2017-01-02 03:07:56 URL:http://www.belchertown.org/departments/veterans/index.php [35189] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/veterans/index.php" [1]
+2017-01-02 03:07:57 URL:http://www.belchertown.org/government/index.php [28651] -> "../data/townSites2/Belchertown/www.belchertown.org/government/index.php" [1]
+2017-01-02 03:07:57 URL:http://www.belchertown.org/government/ambulance/index.php [30168] -> "../data/townSites2/Belchertown/www.belchertown.org/government/ambulance/index.php" [1]
+2017-01-02 03:08:04 URL:http://www.belchertown.org/government/animal_control/index.php [1387440] -> "../data/townSites2/Belchertown/www.belchertown.org/government/animal_control/index.php" [1]
+2017-01-02 03:08:05 URL:http://www.belchertown.org/government/civil_defense/index.php [30480] -> "../data/townSites2/Belchertown/www.belchertown.org/government/civil_defense/index.php" [1]
+2017-01-02 03:08:07 URL:http://www.belchertown.org/government/council_on_aging_senior_center/index.php [37699] -> "../data/townSites2/Belchertown/www.belchertown.org/government/council_on_aging_senior_center/index.php" [1]
+2017-01-02 03:08:08 URL:http://www.belchertown.org/government/dpw/index.php [45442] -> "../data/townSites2/Belchertown/www.belchertown.org/government/dpw/index.php" [1]
+2017-01-02 03:08:09 URL:http://www.belchertown.org/government/fire/index.php [37637] -> "../data/townSites2/Belchertown/www.belchertown.org/government/fire/index.php" [1]
+2017-01-02 03:08:09 URL:http://www.belchertown.org/government/zoning_board_of_appeals/index.php [31524] -> "../data/townSites2/Belchertown/www.belchertown.org/government/zoning_board_of_appeals/index.php" [1]
+2017-01-02 03:08:10 URL:http://www.belchertown.org/government/legislators.php [30600] -> "../data/townSites2/Belchertown/www.belchertown.org/government/legislators.php" [1]
+2017-01-02 03:08:11 URL:http://www.belchertown.org/belchertown_general_calendar/index.php [26424] -> "../data/townSites2/Belchertown/www.belchertown.org/belchertown_general_calendar/index.php" [1]
+2017-01-02 03:08:12 URL:http://www.belchertown.org/newsdetail_T3_R8.php [25601] -> "../data/townSites2/Belchertown/www.belchertown.org/newsdetail_T3_R8.php" [1]
+2017-01-02 03:08:13 URL:http://www.belchertown.org/calendar.php [26712] -> "../data/townSites2/Belchertown/www.belchertown.org/calendar.php" [1]
+2017-01-02 03:08:14 URL:http://www.belchertown.org/residents/channel_5/volunteer.php [31110] -> "../data/townSites2/Belchertown/www.belchertown.org/residents/channel_5/volunteer.php" [1]
+2017-01-02 03:08:15 URL:http://www.belchertown.org/residents/channel_5/schedule.php [31519] -> "../data/townSites2/Belchertown/www.belchertown.org/residents/channel_5/schedule.php" [1]
+2017-01-02 03:08:16 URL:http://www.belchertown.org/residents/channel_5/contact_us.php [31954] -> "../data/townSites2/Belchertown/www.belchertown.org/residents/channel_5/contact_us.php" [1]
+2017-01-02 03:08:17 URL:http://www.belchertown.org/residents/channel_5/bctv_weather_station.php [35940] -> "../data/townSites2/Belchertown/www.belchertown.org/residents/channel_5/bctv_weather_station.php" [1]
+2017-01-02 03:08:17 URL:http://www.belchertown.org/residents/town_history/the_beginning.php [33873] -> "../data/townSites2/Belchertown/www.belchertown.org/residents/town_history/the_beginning.php" [1]
+2017-01-02 03:08:18 URL:http://www.belchertown.org/residents/town_history/early_settlement.php [34429] -> "../data/townSites2/Belchertown/www.belchertown.org/residents/town_history/early_settlement.php" [1]
+2017-01-02 03:08:20 URL:http://www.belchertown.org/residents/general_town_info/profile_of_belchertown.php [71910] -> "../data/townSites2/Belchertown/www.belchertown.org/residents/general_town_info/profile_of_belchertown.php" [1]
+2017-01-02 03:08:21 URL:http://www.belchertown.org/residents/general_town_info/profile_of_belchertown_(no_images).php [71864] -> "../data/townSites2/Belchertown/www.belchertown.org/residents/general_town_info/profile_of_belchertown_(no_images).php" [1]
+2017-01-02 03:08:22 URL:http://www.belchertown.org/residents/general_town_info/economic_development_and_industry.php [45888] -> "../data/townSites2/Belchertown/www.belchertown.org/residents/general_town_info/economic_development_and_industry.php" [1]
+2017-01-02 03:08:23 URL:http://www.belchertown.org/residents/family_center/our_facilities.php [31112] -> "../data/townSites2/Belchertown/www.belchertown.org/residents/family_center/our_facilities.php" [1]
+2017-01-02 03:08:24 URL:http://www.belchertown.org/residents/family_center/our_story.php [32763] -> "../data/townSites2/Belchertown/www.belchertown.org/residents/family_center/our_story.php" [1]
+2017-01-02 03:08:25 URL:http://www.belchertown.org/about_us22/on_this_page.php [31399] -> "../data/townSites2/Belchertown/www.belchertown.org/about_us22/on_this_page.php" [1]
+2017-01-02 03:08:26 URL:http://www.belchertown.org/business/local_businesses/accounting_services.php [33346] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/accounting_services.php" [1]
+2017-01-02 03:08:27 URL:http://www.belchertown.org/business/local_businesses/arts_and_crafts_ceramics.php [31949] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/arts_and_crafts_ceramics.php" [1]
+2017-01-02 03:08:28 URL:http://www.belchertown.org/business/local_businesses/attorney_-_real_estate_wills.php [30967] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/attorney_-_real_estate_wills.php" [1]
+2017-01-02 03:08:28 URL:http://www.belchertown.org/business/local_businesses/auctions.php [31169] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/auctions.php" [1]
+2017-01-02 03:08:29 URL:http://www.belchertown.org/business/local_businesses/auto_repair_and_service.php [32826] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/auto_repair_and_service.php" [1]
+2017-01-02 03:08:30 URL:http://www.belchertown.org/business/local_businesses/bed_and_breakfast.php [31310] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/bed_and_breakfast.php" [1]
+2017-01-02 03:08:31 URL:http://www.belchertown.org/business/local_businesses/beef_and_pork_farm-raised.php [35131] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/beef_and_pork_farm-raised.php" [1]
+2017-01-02 03:08:32 URL:http://www.belchertown.org/business/local_businesses/child_care_day_care.php [34328] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/child_care_day_care.php" [1]
+2017-01-02 03:08:33 URL:http://www.belchertown.org/business/local_businesses/cleaning_services.php [30553] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/cleaning_services.php" [1]
+2017-01-02 03:08:33 URL:http://www.belchertown.org/business/local_businesses/clubs_and_organizations.php [33735] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/clubs_and_organizations.php" [1]
+2017-01-02 03:08:35 URL:http://www.belchertown.org/business/local_businesses/computer_sales_and_service.php [32842] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/computer_sales_and_service.php" [1]
+2017-01-02 03:08:36 URL:http://www.belchertown.org/business/local_businesses/construction_drywall_services.php [30885] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/construction_drywall_services.php" [1]
+2017-01-02 03:08:37 URL:http://www.belchertown.org/business/local_businesses/crafts_gifts.php [31274] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/crafts_gifts.php" [1]
+2017-01-02 03:08:38 URL:http://www.belchertown.org/business/local_businesses/dental_services_for_the_family.php [32770] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/dental_services_for_the_family.php" [1]
+2017-01-02 03:08:39 URL:http://www.belchertown.org/business/local_businesses/dog_training_and_behavior_modification.php [31810] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/dog_training_and_behavior_modification.php" [1]
+2017-01-02 03:08:41 URL:http://www.belchertown.org/business/local_businesses/drywall_services.php [31020] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/drywall_services.php" [1]
+2017-01-02 03:08:42 URL:http://www.belchertown.org/business/local_businesses/educational_advocacy_services.php [30363] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/educational_advocacy_services.php" [1]
+2017-01-02 03:08:44 URL:http://www.belchertown.org/business/local_businesses/engineering_services.php [29101] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/engineering_services.php" [1]
+2017-01-02 03:08:45 URL:http://www.belchertown.org/business/local_businesses/equestrian_ctr_boarding_lessons.php [31969] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/equestrian_ctr_boarding_lessons.php" [1]
+2017-01-02 03:08:46 URL:http://www.belchertown.org/business/local_businesses/farm_raised_beef_and_pork.php [35040] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/farm_raised_beef_and_pork.php" [1]
+2017-01-02 03:08:48 URL:http://www.belchertown.org/business/local_businesses/farm_animals_wool_yarn_fleece.php [30607] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/farm_animals_wool_yarn_fleece.php" [1]
+2017-01-02 03:08:49 URL:http://www.belchertown.org/business/local_businesses/farms_in_belchertown.php [34432] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/farms_in_belchertown.php" [1]
+2017-01-02 03:08:50 URL:http://www.belchertown.org/business/local_businesses/fitness_therapy.php [35339] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/fitness_therapy.php" [1]
+2017-01-02 03:08:51 URL:http://www.belchertown.org/business/local_businesses/flowers_full_floral_services.php [32999] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/flowers_full_floral_services.php" [1]
+2017-01-02 03:08:52 URL:http://www.belchertown.org/business/local_businesses/furniture.php [31752] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/furniture.php" [1]
+2017-01-02 03:08:52 URL:http://www.belchertown.org/business/local_businesses/gift_shops.php [30917] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/gift_shops.php" [1]
+2017-01-02 03:08:53 URL:http://www.belchertown.org/business/local_businesses/golf_course_golf_links.php [32175] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/golf_course_golf_links.php" [1]
+2017-01-02 03:08:54 URL:http://www.belchertown.org/business/local_businesses/guitar_instruction.php [31127] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/guitar_instruction.php" [1]
+2017-01-02 03:08:55 URL:http://www.belchertown.org/business/local_businesses/hair_salons.php [32394] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/hair_salons.php" [1]
+2017-01-02 03:08:56 URL:http://www.belchertown.org/business/local_businesses/handcrafted_items.php [31127] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/handcrafted_items.php" [1]
+2017-01-02 03:08:56 URL:http://www.belchertown.org/business/local_businesses/handyman_services.php [30357] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/handyman_services.php" [1]
+2017-01-02 03:08:57 URL:http://www.belchertown.org/business/local_businesses/health_and_wellness.php [35168] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/health_and_wellness.php" [1]
+2017-01-02 03:08:58 URL:http://www.belchertown.org/business/local_businesses/house_cleaning.php [31546] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/house_cleaning.php" [1]
+2017-01-02 03:08:59 URL:http://www.belchertown.org/business/local_businesses/insurance.php [33656] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/insurance.php" [1]
+2017-01-02 03:09:00 URL:http://www.belchertown.org/business/local_businesses/jewelers.php [29061] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/jewelers.php" [1]
+2017-01-02 03:09:01 URL:http://www.belchertown.org/business/local_businesses/kennel_boarding_for_pets.php [30258] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/kennel_boarding_for_pets.php" [1]
+2017-01-02 03:09:02 URL:http://www.belchertown.org/business/local_businesses/liquor_package_store.php [31019] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/liquor_package_store.php" [1]
+2017-01-02 03:09:03 URL:http://www.belchertown.org/business/local_businesses/locksmith_services.php [30572] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/locksmith_services.php" [1]
+2017-01-02 03:09:04 URL:http://www.belchertown.org/business/local_businesses/restaurants.php [29069] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/restaurants.php" [1]
+2017-01-02 03:09:05 URL:http://www.belchertown.org/business/local_businesses/magician.php [31105] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/magician.php" [1]
+2017-01-02 03:09:06 URL:http://www.belchertown.org/business/local_businesses/marketing_services.php [28685] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/marketing_services.php" [1]
+2017-01-02 03:09:06 URL:http://www.belchertown.org/business/local_businesses/massage_therapy.php [33013] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/massage_therapy.php" [1]
+2017-01-02 03:09:08 URL:http://www.belchertown.org/business/local_businesses/mattresses.php [31500] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/mattresses.php" [1]
+2017-01-02 03:09:09 URL:http://www.belchertown.org/business/local_businesses/music_instrumental_lessons.php [31370] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/music_instrumental_lessons.php" [1]
+2017-01-02 03:09:09 URL:http://www.belchertown.org/business/local_businesses/nutrition_and_health.php [31456] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/nutrition_and_health.php" [1]
+2017-01-02 03:09:11 URL:http://www.belchertown.org/business/local_businesses/masons.php [29732] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/masons.php" [1]
+2017-01-02 03:09:11 URL:http://www.belchertown.org/business/local_businesses/pets_boarding_kennels.php [30418] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/pets_boarding_kennels.php" [1]
+2017-01-02 03:09:12 URL:http://www.belchertown.org/business/local_businesses/pet_sitting_dog_walking.php [32548] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/pet_sitting_dog_walking.php" [1]
+2017-01-02 03:09:13 URL:http://www.belchertown.org/business/local_businesses/pizza.php [34906] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/pizza.php" [1]
+2017-01-02 03:09:14 URL:http://www.belchertown.org/business/local_businesses/photography.php [29070] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/photography.php" [1]
+2017-01-02 03:09:15 URL:http://www.belchertown.org/business/local_businesses/physical_therapy.php [29089] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/physical_therapy.php" [1]
+2017-01-02 03:09:16 URL:http://www.belchertown.org/business/local_businesses/public_library.php [29083] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/public_library.php" [1]
+2017-01-02 03:09:17 URL:http://www.belchertown.org/business/local_businesses/real_estate.php [30212] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/real_estate.php" [1]
+2017-01-02 03:09:18 URL:http://www.belchertown.org/business/local_businesses/restaurant.php [29067] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/restaurant.php" [1]
+2017-01-02 03:09:19 URL:http://www.belchertown.org/business/local_businesses/roadside_assistance.php [30589] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/roadside_assistance.php" [1]
+2017-01-02 03:09:20 URL:http://www.belchertown.org/business/local_businesses/rubbish_removal.php [30174] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/rubbish_removal.php" [1]
+2017-01-02 03:09:21 URL:http://www.belchertown.org/business/local_businesses/self_storage.php [32794] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/self_storage.php" [1]
+2017-01-02 03:09:22 URL:http://www.belchertown.org/business/local_businesses/snuggle_up_~_heat_cold.php [30799] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/snuggle_up_~_heat_cold.php" [1]
+2017-01-02 03:09:22 URL:http://www.belchertown.org/business/local_businesses/soaps_-_handcrafted.php [32309] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/soaps_-_handcrafted.php" [1]
+2017-01-02 03:09:24 URL:http://www.belchertown.org/business/local_businesses/speech_and_language_therapy.php [32962] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/speech_and_language_therapy.php" [1]
+2017-01-02 03:09:24 URL:http://www.belchertown.org/business/local_businesses/sports_concussion_education.php [32337] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/sports_concussion_education.php" [1]
+2017-01-02 03:09:25 URL:http://www.belchertown.org/business/local_businesses/sugar_house_maple_syrup.php [30567] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/sugar_house_maple_syrup.php" [1]
+2017-01-02 03:09:26 URL:http://www.belchertown.org/business/local_businesses/tax_services_cpas.php [33334] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/tax_services_cpas.php" [1]
+2017-01-02 03:09:27 URL:http://www.belchertown.org/business/local_businesses/technical_writing_publish.php [30807] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/technical_writing_publish.php" [1]
+2017-01-02 03:09:28 URL:http://www.belchertown.org/business/local_businesses/tai_chi_classes.php [30571] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/tai_chi_classes.php" [1]
+2017-01-02 03:09:29 URL:http://www.belchertown.org/business/local_businesses/therapy_and_fitness.php [31775] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/therapy_and_fitness.php" [1]
+2017-01-02 03:09:30 URL:http://www.belchertown.org/business/local_businesses/veterinarian_services.php [30203] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/veterinarian_services.php" [1]
+2017-01-02 03:09:31 URL:http://www.belchertown.org/business/local_businesses/wellness.php [35310] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/wellness.php" [1]
+2017-01-02 03:09:32 URL:http://www.belchertown.org/business/local_businesses/writing_editing.php [32948] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/writing_editing.php" [1]
+2017-01-02 03:09:33 URL:http://www.belchertown.org/business/local_businesses/writing_publishing.php [30563] -> "../data/townSites2/Belchertown/www.belchertown.org/business/local_businesses/writing_publishing.php" [1]
+2017-01-02 03:09:33 URL: http://www.belchertown.org/commitees/community_preservation/docs/2017%20application.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:09:34 URL:http://www.belchertown.org/commitees/telecommunication/about_us.php [31780] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/telecommunication/about_us.php" [1]
+2017-01-02 03:09:35 URL:http://www.belchertown.org/commitees/telecommunication/mission_statement.php [33405] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/telecommunication/mission_statement.php" [1]
+2017-01-02 03:09:36 URL:http://www.belchertown.org/commitees/telecommunication/annual_report.php [32694] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/telecommunication/annual_report.php" [1]
+2017-01-02 03:09:37 URL:http://www.belchertown.org/commitees/telecommunication/contact_us.php [32297] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/telecommunication/contact_us.php" [1]
+2017-01-02 03:09:38 URL:http://www.belchertown.org/commitees/telecommunication/related_links.php [31688] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/telecommunication/related_links.php" [1]
+2017-01-02 03:09:39 URL:http://www.belchertown.org/commitees/agricultural_commission/contact.php [30127] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/agricultural_commission/contact.php" [1]
+2017-01-02 03:09:40 URL:http://www.belchertown.org/commitees/agricultural_commission/meetings.php [30970] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/agricultural_commission/meetings.php" [1]
+2017-01-02 03:09:41 URL:http://www.belchertown.org/commitees/agricultural_commission/resources.php [30778] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/agricultural_commission/resources.php" [1]
+2017-01-02 03:09:42 URL:http://www.belchertown.org/commitees/historical_commission/about_us.php [31333] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/historical_commission/about_us.php" [1]
+2017-01-02 03:09:43 URL:http://www.belchertown.org/commitees/historical_commission/mission_statement.php [30372] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/historical_commission/mission_statement.php" [1]
+2017-01-02 03:09:44 URL:http://www.belchertown.org/commitees/historical_commission/belchertown_state_school_survey/index.php [26339] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/historical_commission/belchertown_state_school_survey/index.php" [1]
+2017-01-02 03:09:45 URL:http://www.belchertown.org/commitees/historical_commission/town_cultural_resources.php [30109] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/historical_commission/town_cultural_resources.php" [1]
+2017-01-02 03:09:46 URL:http://www.belchertown.org/commitees/historical_commission/contact_us.php [30717] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/historical_commission/contact_us.php" [1]
+2017-01-02 03:09:46 URL: http://www.belchertown.org/commitees/historical_commission/docs/Belchertown_Final_Survey_Report_12_08.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:09:47 URL:http://www.belchertown.org/commitees/contact_us.php [35004] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/contact_us.php" [1]
+2017-01-02 03:09:48 URL:http://www.belchertown.org/commitees/news.php [35059] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/news.php" [1]
+2017-01-02 03:09:49 URL:http://www.belchertown.org/commitees/wait_lists.php [34929] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/wait_lists.php" [1]
+2017-01-02 03:09:50 URL:http://www.belchertown.org/commitees/our_apartments.php [35163] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/our_apartments.php" [1]
+2017-01-02 03:09:51 URL:http://www.belchertown.org/commitees/everett_acres.php [33777] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/everett_acres.php" [1]
+2017-01-02 03:09:52 URL:http://www.belchertown.org/commitees/family_housing.php [32684] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/family_housing.php" [1]
+2017-01-02 03:09:53 URL:http://www.belchertown.org/commitees/everett_acres_apartments.php [37590] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/everett_acres_apartments.php" [1]
+2017-01-02 03:09:54 URL:http://www.belchertown.org/commitees/how_to_apply.php [39073] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/how_to_apply.php" [1]
+2017-01-02 03:09:55 URL:http://www.belchertown.org/commitees/equal_housing_opportunity.php [33873] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/equal_housing_opportunity.php" [1]
+2017-01-02 03:09:56 URL:http://www.belchertown.org/commitees/fair_information_practices.php [35936] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/fair_information_practices.php" [1]
+2017-01-02 03:09:57 URL:http://www.belchertown.org/commitees/reasonable_accomidations.php [37528] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/reasonable_accomidations.php" [1]
+2017-01-02 03:09:58 URL:http://www.belchertown.org/commitees/independent_external_auditor_s_report.php [33202] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/independent_external_auditor_s_report.php" [1]
+2017-01-02 03:09:59 URL:http://www.belchertown.org/commitees/annual_plan.php [33076] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/annual_plan.php" [1]
+2017-01-02 03:10:00 URL:http://www.belchertown.org/commitees/procedures_for_review_of_financial_records.php [33037] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/procedures_for_review_of_financial_records.php" [1]
+2017-01-02 03:10:01 URL:http://www.belchertown.org/commitees/our_staff.php [33285] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/our_staff.php" [1]
+2017-01-02 03:10:01 URL:http://www.belchertown.org/commitees/board_of_commissioners.php [34043] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/board_of_commissioners.php" [1]
+2017-01-02 03:10:02 URL:http://www.belchertown.org/commitees/what_is_public_housing.php [36630] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/what_is_public_housing.php" [1]
+2017-01-02 03:10:03 URL:http://www.belchertown.org/commitees/resources.php [40557] -> "../data/townSites2/Belchertown/www.belchertown.org/commitees/resources.php" [1]
+2017-01-02 03:10:04 URL: http://www.belchertown.org/Motor%20Vehicle%20Excise%20Abatement%20Application%20-%20rev%203-13-2015.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:04 URL: http://www.belchertown.org/government/assessors/Elderly%20Exemption%20-%20Cl.%2041C.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:04 URL: http://www.belchertown.org/government/assessors/Surviving%20Spouse-Minor%20Child-Elderly%20Exemption%20-%20Cl.%2017D.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:05 URL: http://www.belchertown.org/government/assessors/Disabled%20Veterans%20Exemption%20-%20Cl.%2022,%2022A,%2022D,%2022E.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:05 URL: http://www.belchertown.org/government/assessors/Blind%20Exemption%20-%20Cl.%2037A.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:05 URL: http://www.belchertown.org/government/assessors/Religious%20and%20Charitable%20Organizations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:05 URL: http://www.belchertown.org/Form%201B3%20Charitable%20Exemption%20Status.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:06 URL: http://www.belchertown.org/Form%203ABC%20for%20Charitable%20Organizations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:07 URL:http://www.belchertown.org/government/assessors/archived_valuation_lists.php [44177] -> "../data/townSites2/Belchertown/www.belchertown.org/government/assessors/archived_valuation_lists.php" [1]
+2017-01-02 03:10:07 URL: http://www.belchertown.org/government/assessors/docs/FAQ%202017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:07 URL: http://www.belchertown.org/government/assessors/docs/Abatement%20Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:08 URL: http://www.belchertown.org/government/assessors/docs/Motor_Vehicle_Excise_Abatement_Application___rev_3_13_2015.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:08 URL: http://www.belchertown.org/government/assessors/docs/Abutters_list_request_form___updated_1_26_15.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:08 URL: http://www.belchertown.org/Unipay%20Gold%20Fee%20Schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:09 URL: http://www.belchertown.org/FREQUENTLY%20ASKED%20QUESTIONS.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:09 URL: http://www.belchertown.org/departments/treasurer/images/money.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:10 URL:http://www.belchertown.org/departments/conservation/office_hours.php [31448] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/conservation/office_hours.php" [1]
+2017-01-02 03:10:11 URL:http://www.belchertown.org/departments/conservation/town_conservation_lands.php [41988] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/conservation/town_conservation_lands.php" [1]
+2017-01-02 03:10:12 URL:http://www.belchertown.org/departments/conservation/wetlands_brochure.php [42498] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/conservation/wetlands_brochure.php" [1]
+2017-01-02 03:10:13 URL:http://www.belchertown.org/departments/conservation/filing_forms_and_information_links.php [35412] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/conservation/filing_forms_and_information_links.php" [1]
+2017-01-02 03:10:14 URL:http://www.belchertown.org/departments/conservation/stormwater_applications_and_information.php [32207] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/conservation/stormwater_applications_and_information.php" [1]
+2017-01-02 03:10:14 URL: http://www.belchertown.org/departments/conservation/docs/Belchertown_recreation_map_v8.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:15 URL: http://www.belchertown.org/departments/conservation/docs/BELCHERTOWN_WETLAND_REG_FINAL_MAY232006.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:15 URL: http://www.belchertown.org/departments/conservation/docs/Wetland_Regulations_Summary_of_Revisions.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:15 URL: http://www.belchertown.org/departments/conservation/docs/WHO_ARE_THE_COMMISSIONERS.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:15 URL: http://www.belchertown.org/departments/conservation/docs/Belchertown_Open_Space_and_Rec_Plan_lowest_res.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:16 URL: http://www.belchertown.org/departments/conservation/docs/Priority__Resource_Map.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:16 URL: http://www.belchertown.org/departments/conservation/docs/Arcadia_and_Metacomet_Lakes_Quantitative_Plant_Surveys.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:16 URL: http://www.belchertown.org/departments/conservation/docs/Boncik_Woods_Conservation_Area_Locus_Map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:17 URL: http://www.belchertown.org/departments/conservation/images/Image_from_Calendar.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:17 URL: http://www.belchertown.org/departments/conservation/images/Holland_Glen_newsign.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:17 URL: http://www.belchertown.org/departments/conservation/images/HollandGLENFALLS.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:18 URL: http://www.belchertown.org/departments/conservation/images/mmp10cHOLLANDGLENFALLS.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:18 URL: http://www.belchertown.org/departments/conservation/docs/Meads_Corner_Conservation_Area__in_progress_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:18 URL: http://www.belchertown.org/departments/conservation/docs/Meads_Corner_Conservation_Area_Project_Description.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:19 URL: http://www.belchertown.org/departments/conservation/docs/Meads_Corner_Conservation_Q___A.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:19 URL: http://www.belchertown.org/departments/conservation/docs/Meads_Corner_Parcel.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:19 URL: http://www.belchertown.org/departments/conservation/docs/Parcel.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:20 URL: http://www.belchertown.org/departments/conservation/images/Cold_Spring_Conservation_Sign.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:20 URL: http://www.belchertown.org/departments/conservation/images/Cold_Spring_Conservation__Flora.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:20 URL: http://www.belchertown.org/departments/conservation/docs/Cold_Spring_Conservation_Slide_Show.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:20 URL: http://www.belchertown.org/departments/conservation/docs/Cold_Spring_Conservation_Area_Trail_Map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:21 URL: http://www.belchertown.org/departments/conservation/docs/REED_CONSERVATION_AREA_REGULATIONS.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:21 URL: http://www.belchertown.org/departments/conservation/docs/Reed_Property.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:21 URL: http://www.belchertown.org/departments/conservation/images/_DSC1086e.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:22 URL: http://www.belchertown.org/departments/conservation/docs/Wentworth%20Conservation%20Area%20Bridge%20Replacement_%20M&M%20Trail.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:23 URL:http://www.belchertown.org/departments/health/mission_statement.php [31778] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/health/mission_statement.php" [1]
+2017-01-02 03:10:24 URL:http://www.belchertown.org/departments/health/board_of_health_members.php [30052] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/health/board_of_health_members.php" [1]
+2017-01-02 03:10:25 URL:http://www.belchertown.org/departments/health/opioid_and_heroin_addiction_help.php [41908] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/health/opioid_and_heroin_addiction_help.php" [1]
+2017-01-02 03:10:25 URL: http://www.belchertown.org/departments/health/docs/Smoking%20Reg%20Changes%20Draft%202%20proposed%20revisions.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:25 URL: http://www.belchertown.org/departments/health/docs/Storm_Fact_Sheet.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:26 URL: http://www.belchertown.org/departments/health/docs/Food_Safety_and_Power_Outages.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:26 URL: http://www.belchertown.org/departments/health/docs/Recommendations_for_Private_Wells_Inundated_by_Flooding.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:27 URL:http://www.belchertown.org/departments/health/important_notice_belchertown_critical_risk_for_mosquito-born_eee_virus.php [30850] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/health/important_notice_belchertown_critical_risk_for_mosquito-born_eee_virus.php" [1]
+http://www.belchertown.org/health/eee_virus_info.html:
+Remote file does not exist -- broken link!!!
+2017-01-02 03:10:28 URL:http://www.belchertown.org/departments/health/forms_and_applications.php [55244] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/health/forms_and_applications.php" [1]
+2017-01-02 03:10:29 URL:http://www.belchertown.org/departments/health/fees.php [37222] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/health/fees.php" [1]
+2017-01-02 03:10:30 URL:http://www.belchertown.org/departments/health/regulations.php [32555] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/health/regulations.php" [1]
+2017-01-02 03:10:31 URL:http://www.belchertown.org/departments/health/environmental_health.php [52639] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/health/environmental_health.php" [1]
+2017-01-02 03:10:32 URL:http://www.belchertown.org/departments/health/public_health_nursing.php [39093] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/health/public_health_nursing.php" [1]
+2017-01-02 03:10:33 URL:http://www.belchertown.org/departments/health/eee_virus_info.php [30661] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/health/eee_virus_info.php" [1]
+2017-01-02 03:10:34 URL:http://www.belchertown.org/departments/health/public_health_emergency_preparedness.php [35792] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/health/public_health_emergency_preparedness.php" [1]
+2017-01-02 03:10:35 URL:http://www.belchertown.org/departments/health/h1n1_flu.php [35890] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/health/h1n1_flu.php" [1]
+2017-01-02 03:10:36 URL:http://www.belchertown.org/departments/health/helpful_links.php [37306] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/health/helpful_links.php" [1]
+2017-01-02 03:10:37 URL:http://www.belchertown.org/departments/health/energy_assistance.php [30256] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/health/energy_assistance.php" [1]
+2017-01-02 03:10:38 URL:http://www.belchertown.org/departments/health/frequently_asked_questions.php [46731] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/health/frequently_asked_questions.php" [1]
+2017-01-02 03:10:39 URL: http://www.belchertown.org/departments/health/docs/Disposal_of_Syringes_and_needles.PDF 200 OK
+unlink: No such file or directory
+http://www.belchertown.org/departments/health/jmetcalf@belchertown.org:
+Remote file does not exist -- broken link!!!
+2017-01-02 03:10:39 URL: http://www.belchertown.org/Massachusetts_Department_of_Public_Safety.mht 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:39 URL: http://www.belchertown.org/BuildingPermit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:40 URL: http://www.belchertown.org/Commercial_Building_App.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:40 URL: http://www.belchertown.org/Woodstove%20pamphlet.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:41 URL: http://www.belchertown.org/Pool%20Pamphlet.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:41 URL: http://www.belchertown.org/Acc%20Apartment.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:41 URL: http://www.belchertown.org/Board%20of%20Appeals%20special%20variance%20permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:42 URL: http://www.belchertown.org/departments/inspections/docs/FlowChart.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:42 URL: http://www.belchertown.org/departments/inspections/docs/Building_Permit_Fee_Schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:42 URL: http://www.belchertown.org/departments/inspections/docs/elecfeenew_pdf.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:43 URL: http://www.belchertown.org/departments/inspections/docs/Plumbing_Permit_Fees.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:44 URL:http://www.belchertown.org/departments/inspections/americans_with_disabilites_act_(ada).php [34722] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/inspections/americans_with_disabilites_act_(ada).php" [1]
+2017-01-02 03:10:45 URL:http://www.belchertown.org/departments/inspections/belchertown_historic_district_design_and_maintenance_guidelines.php [57543] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/inspections/belchertown_historic_district_design_and_maintenance_guidelines.php" [1]
+2017-01-02 03:10:45 URL:http://www.belchertown.org/departments/planning/community_plan.php [33511] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/planning/community_plan.php" [1]
+http://www.belchertown.org/0_Executive_Summary_2009.pdf:
+Remote file does not exist -- broken link!!!
+http://www.belchertown.org/1_Introduction_2009.pdf:
+Remote file does not exist -- broken link!!!
+http://www.belchertown.org/2_Land_Use__2009.pdf:
+Remote file does not exist -- broken link!!!
+http://www.belchertown.org/3_Housing_2009.pdf:
+Remote file does not exist -- broken link!!!
+http://www.belchertown.org/4_Economic_Development_2009.pdf:
+Remote file does not exist -- broken link!!!
+http://www.belchertown.org/5_Natural___Cultural__2009.pdf:
+Remote file does not exist -- broken link!!!
+http://www.belchertown.org/6_Open_Space___Recreation_2009.pdf:
+Remote file does not exist -- broken link!!!
+http://www.belchertown.org/7_Community_Facilities_2009.pdf:
+Remote file does not exist -- broken link!!!
+http://www.belchertown.org/8_Transportation_2009.pdf:
+Remote file does not exist -- broken link!!!
+http://www.belchertown.org/9_Health___HumanServices_2009.pdf:
+Remote file does not exist -- broken link!!!
+http://www.belchertown.org/10_Agriculture_2009.pdf:
+Remote file does not exist -- broken link!!!
+http://www.belchertown.org/11_Implementation_2009.pdf:
+Remote file does not exist -- broken link!!!
+http://www.belchertown.org/12_Map_Appendix2009.pdf:
+Remote file does not exist -- broken link!!!
+http://www.belchertown.org/Acknowledgements_2009.pdf:
+Remote file does not exist -- broken link!!!
+http://www.belchertown.org/top_priority_poster_2009.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 03:10:51 URL:http://www.belchertown.org/departments/planning/applications_and_forms.php [40806] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/planning/applications_and_forms.php" [1]
+2017-01-02 03:10:52 URL:http://www.belchertown.org/departments/planning/business_owner_survey.php [34497] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/planning/business_owner_survey.php" [1]
+2017-01-02 03:10:53 URL:http://www.belchertown.org/departments/planning/links_of_interest.php [33300] -> "../data/townSites2/Belchertown/www.belchertown.org/departments/planning/links_of_interest.php" [1]
+2017-01-02 03:10:54 URL: http://www.belchertown.org/Zoning.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:54 URL: http://www.belchertown.org/BE1703-145a%20Schedule%20of%20Use%20Regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:54 URL: http://www.belchertown.org/BE1703-145b%20Table%20of%20Dimensional%20Regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:55 URL: http://www.belchertown.org/BE1703-145c%20Open%20Space%20Comm.%20Dev.%20Dim.%20Standards.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:55 URL: http://www.belchertown.org/departments/planning/docs/2016%20Fees%20Adopted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:55 URL: http://www.belchertown.org/departments/planning/docs/DART%20Belchertown%20final%20report%204.18.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:55 URL: http://www.belchertown.org/departments/planning/docs/DART_Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:56 URL: http://www.belchertown.org/departments/planning/docs/Subdivision_Regulations.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:56 URL: http://www.belchertown.org/departments/planning/docs/Subdivision_Regulations__pdf_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:56 URL: http://www.belchertown.org/departments/planning/docs/Commercial_design_guidelines.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:57 URL: http://www.belchertown.org/departments/planning/docs/Belchertown_1893_topo.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:57 URL: http://www.belchertown.org/departments/planning/docs/Belchertown_USGS_1893_southeast.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:57 URL: http://www.belchertown.org/departments/planning/docs/Street%20NamesRev.%20May%2017,%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:57 URL: http://www.belchertown.org/Board%20of%20Assessors%20Agenda%2012-27-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:58 URL: http://www.belchertown.org/Board%20of%20Selectmen%20Notice%2012-27-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:58 URL: http://www.belchertown.org/Community%20Preservation%20Commission%20Agenda%201-3-2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:58 URL: http://www.belchertown.org/Conservation%20Commission%20Notice%2012-26-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:59 URL: http://www.belchertown.org/Cultural%20Council%20Agenda%201-3-17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:59 URL: http://www.belchertown.org/Zoning%20Board%20of%20Appeals%20Agenda%2012-21-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:10:59 URL: http://www.belchertown.org/School%20Curriculum%20&%20Instruction%20Subcmte%20Agenda%201-10-2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:00 URL: http://www.belchertown.org/Pathfinder%20Sub%20Cmte%20Agenda%201-4-17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:00 URL: http://www.belchertown.org/Board_of_Selectmen_Meeting_Minutes_6_9_201.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:00 URL: http://www.belchertown.org/Board_of_Selectment_Meeting_Minutes_7_14_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:01 URL: http://www.belchertown.org/Board_of_Selectmen_Minutes_7_28_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:01 URL: http://www.belchertown.org/Board_of_Selectmen_Minutes_8_25_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:01 URL: http://www.belchertown.org/Board_of_Selectmen_Meeting_minutes_9_8_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:02 URL: http://www.belchertown.org/Board_of_Selectmen_Special_Meeting_9_17_14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:02 URL: http://www.belchertown.org/Bd_of_Selectmen_Meeting_Minutes_9_29_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:02 URL: http://www.belchertown.org/Board_of_Selectmen_Minutes_10_20_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:03 URL: http://www.belchertown.org/Bd_of_Selectmen_Meeting_Minutes_11_12_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:03 URL: http://www.belchertown.org/Bd_of_Selectmen_Minutes_11_24_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:03 URL: http://www.belchertown.org/Bd_of_Selectmen_Meeting_Minutes_12_8_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:04 URL: http://www.belchertown.org/Community_Preservation_Committee_Minutes_5_20_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:04 URL: http://www.belchertown.org/Community_Preservation_Committee_Minutes_9_16_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:04 URL: http://www.belchertown.org/Community_Preservation_Committee_Minutes_10_7_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:04 URL: http://www.belchertown.org/Community_Preservation_Commission_Minutes_12_16_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:05 URL: http://www.belchertown.org/Community_Preservation_Committee_Minutes_10_21_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:05 URL: http://www.belchertown.org/Community_Preservation_Committee_Minutes_12_2_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:05 URL: http://www.belchertown.org/Conservation_Commission_Meeting_Minutes_6_23_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:06 URL: http://www.belchertown.org/Conservation_Commission_Meeting_Minutes_7_28_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:06 URL: http://www.belchertown.org/Conservation_Commission_Meeting_Minute_10_27_14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:06 URL: http://www.belchertown.org/Conservation_Commission_Meeting_Minutes_11_10_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:06 URL: http://www.belchertown.org/Conservation_Commission_Meeting_Minutes_11_24_14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:07 URL: http://www.belchertown.org/EDIC_Meeting_Minutes_7_16_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:07 URL: http://www.belchertown.org/EDIC_Meeting_Minutes_8_6_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:07 URL: http://www.belchertown.org/EDIC_Meeting_Minutes_8_20_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:08 URL: http://www.belchertown.org/EDIC_Meeting_Minutes_9_17_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:08 URL: http://www.belchertown.org/EDIC_Meeting_minutes_10_15_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:08 URL: http://www.belchertown.org/Finance_Committee_Meeting_Minutes_6_18_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:09 URL: http://www.belchertown.org/Finance_Committee_Meeting_Minutes_9_16_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:09 URL: http://www.belchertown.org/Finance_Committee_Meeting_Minutes_10_21_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:09 URL: http://www.belchertown.org/Finance_Committee_Meeting_Minutes_11_18_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:09 URL: http://www.belchertown.org/Finance_Committee_Meeting_Minutes_12_1_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:10 URL: http://www.belchertown.org/Historical_Commission_Meeting_Minutes_6_10_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:10 URL: http://www.belchertown.org/Historic_Commission_Minutes_7_9_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:10 URL: http://www.belchertown.org/Historic_Commission_Minutes_8_12_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:11 URL: http://www.belchertown.org/Historic_Commission_Minutes_10_14_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:11 URL: http://www.belchertown.org/Planning_Board_Meeting_Minutes_7_22_14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:11 URL: http://www.belchertown.org/Planning_Board_Meeting_Minutes_8_26_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:12 URL: http://www.belchertown.org/Planning_Board_Meeting_Minutes_9_23_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:12 URL: http://www.belchertown.org/Planning_Board_Minutes_9_27_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:13 URL: http://www.belchertown.org/Planning_Board_Minutes_10_14_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:13 URL: http://www.belchertown.org/Planning_Board_Minutes_10_28_14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:13 URL: http://www.belchertown.org/Planning_Board_Minutes_11_25_14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:14 URL: http://www.belchertown.org/Planning_Board_Minutes_12_09_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:14 URL: http://www.belchertown.org/Animal_Control_Advisory_Bd_Minutes_4_14_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:14 URL: http://www.belchertown.org/Animal_Control_Advisory_Board_Minutes_5_19_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:15 URL: http://www.belchertown.org/Animal_Control_Advisory_Board_Minutes_9_16_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:15 URL: http://www.belchertown.org/Animal_Control_Advisory_Board_Minutes_9_29_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:15 URL: http://www.belchertown.org/Bd_of_Selectmen_Minutes_2_23_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:16 URL: http://www.belchertown.org/Board_of_Selectmen_Minutes_3_9_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:16 URL: http://www.belchertown.org/Board_of_Selectmen_Minutes_3_23_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:16 URL: http://www.belchertown.org/Board_of_Selectmen_Minutes_4_13_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:16 URL: http://www.belchertown.org/Board_of_Selectmen_Minutes_4_27_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:17 URL: http://www.belchertown.org/Board_of_Selectmen_Minutes_5_11_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:17 URL: http://www.belchertown.org/Board_of_Selectmen_Minutes_6_8_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:17 URL: http://www.belchertown.org/Board_of_Selectmen_Minutes_6_23_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:18 URL: http://www.belchertown.org/Board_of_Selectmen_Minutes_7_13_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:18 URL: http://www.belchertown.org/Board_of_Selectmen_Minutes_7_27_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:18 URL: http://www.belchertown.org/Board_of_Selectmen_Agenda_08_10_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:18 URL: http://www.belchertown.org/Board_of_Selectmen_Minutes_8_24_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:19 URL: http://www.belchertown.org/Board_of_Selectmen_Minutes_9_14_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:19 URL: http://www.belchertown.org/Board_of_Selectmen_Minutes_9_17_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:19 URL: http://www.belchertown.org/Board_of_Selectmen_Minutes_9_28_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:20 URL: http://www.belchertown.org/Board_of_Selectmen_Minutes_10_13_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:20 URL: http://www.belchertown.org/Board_of_Selectmen_Minutes_10_26_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:20 URL: http://www.belchertown.org/Board_of_Selectmen_Minutes_11_9_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:21 URL: http://www.belchertown.org/Board_of_Selectmen_Minutes_11_23_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:21 URL: http://www.belchertown.org/Board_of_Selectmen_Minutes_12_14_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:21 URL: http://www.belchertown.org/Community_Preservation_Commission_Minutes_2_3_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:22 URL: http://www.belchertown.org/Community_Preservation_Cmte_Minutes_March_5_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:22 URL: http://www.belchertown.org/Community_Perservation_Commission_Minutes___3_17_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:22 URL: http://www.belchertown.org/Community_Preservation_Commission_Minutes___April_7__2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:22 URL: http://www.belchertown.org/Community_Preservation_Commission_Minutes___October_20__2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:23 URL: http://www.belchertown.org/Community_Preservation_Commission_Minutes___November_3__2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:23 URL: http://www.belchertown.org/Community_Preservation_Committee_Minutes_12_1_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:23 URL: http://www.belchertown.org/Community_Preservation_Committee_Minutes_12_15_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:24 URL: http://www.belchertown.org/Conservation_Commission_Minutes_1_12_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:24 URL: http://www.belchertown.org/Conservation_Commission_Minutes_3_23_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:24 URL: http://www.belchertown.org/Conservation_Commission_Minutes_4_13_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:24 URL: http://www.belchertown.org/Conservation_Commission_Minutes_5_12_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:25 URL: http://www.belchertown.org/Conservation_Commission_Minutes_4_27_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:25 URL: http://www.belchertown.org/Conservation_Commission_Minutes_5_26_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:25 URL: http://www.belchertown.org/Conservation_Commission_Minutes6_8_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:26 URL: http://www.belchertown.org/Conservation_Commission_Minutes_6_22_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:26 URL: http://www.belchertown.org/Conservation_Commission_Minutes_7_27_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:26 URL: http://www.belchertown.org/Conservation_Commission_Minutes_8_17_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:26 URL: http://www.belchertown.org/Conservation_Commission_Minutes_9_14_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:27 URL: http://www.belchertown.org/Conservation_Commission_Minutes_9_28_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:27 URL: http://www.belchertown.org/Conservation_Commission_Minutes_10_13_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:27 URL: http://www.belchertown.org/Conservation_Commission_Minutes_10_26_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:28 URL: http://www.belchertown.org/EDIC_Meeting_Minutes_2_18_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:28 URL: http://www.belchertown.org/EDIC_Minutes_3_18_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:28 URL: http://www.belchertown.org/EDIC_Minutes_3_30_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:29 URL: http://www.belchertown.org/EDIC_Meeting_Minutes_4_15_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:29 URL: http://www.belchertown.org/EDIC_Minutes_6_17_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:29 URL: http://www.belchertown.org/EDIC_Minutes_7_15_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:30 URL: http://www.belchertown.org/EDIC_Minutes_8_5_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:30 URL: http://www.belchertown.org/EDIC_Minutes_8_19_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:30 URL: http://www.belchertown.org/EDIC_Minutes_9_16_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:31 URL: http://www.belchertown.org/EDIC_Minutes_11_4_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:31 URL: http://www.belchertown.org/EDIC_Minutes_11_16_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:31 URL: http://www.belchertown.org/EDIC_Minutes_12_9_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:31 URL: http://www.belchertown.org/EDIC_Public_Hearing_Minutes_12_9_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:32 URL: http://www.belchertown.org/Family_Center_Minutes_6_22_15__7_27_15_and_8_17_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:32 URL: http://www.belchertown.org/Family_Center_Minutes_9_9_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:32 URL: http://www.belchertown.org/Family_Center_Minutes_10_7_151.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:33 URL: http://www.belchertown.org/Family_Center_Minutes_10_26_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:33 URL: http://www.belchertown.org/Finance_Committee_Meeting_Minutes_1_20_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:33 URL: http://www.belchertown.org/Finance_Committee_Meeting_Minutes_2_24_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:33 URL: http://www.belchertown.org/Finance_Committee_Minutes_3_10_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:34 URL: http://www.belchertown.org/Finance_Committee_Minutes_3_17_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:34 URL: http://www.belchertown.org/Finance_Committee_Minutes_3_19_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:35 URL: http://www.belchertown.org/Finance_Committee_Minutes_3_26_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:35 URL: http://www.belchertown.org/Finance_Committee_Minutes_4_23_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:35 URL: http://www.belchertown.org/Finance_Committee_Minutes_6_23_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:36 URL: http://www.belchertown.org/Finance_Committee_Minutes_9_15_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:36 URL: http://www.belchertown.org/Finance_Committee_Minutes_10_20_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:36 URL: http://www.belchertown.org/Finance_Committee_Minutes_11_17_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:36 URL: http://www.belchertown.org/Finance_Committee_minutes_12_15_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:37 URL: http://www.belchertown.org/Historical_Commission_Minutes_2_10_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:37 URL: http://www.belchertown.org/Belchertown_Lakes_Committee_Minutes_6_2_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:37 URL: http://www.belchertown.org/Belchertown_Lakes_Committee_Minutes_9_24_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:38 URL: http://www.belchertown.org/Historical%20Commission%20Minutes%2012-8-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:38 URL: http://www.belchertown.org/Planning_Board_Minutes_01_13_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:38 URL: http://www.belchertown.org/Planning_Board_Minutes_2_24_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:38 URL: http://www.belchertown.org/Planning_Board_Minutes_3_10_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:39 URL: http://www.belchertown.org/Planning_Board_Minutes_3_24_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:39 URL: http://www.belchertown.org/Planning_Board_Minutes_4_28_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:39 URL: http://www.belchertown.org/Planning_Board_Minutes_5_12_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:40 URL: http://www.belchertown.org/Planning_Board_Minutes_5_20_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:40 URL: http://www.belchertown.org/Planning_Board_Minutes_6_9_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:40 URL: http://www.belchertown.org/Planning_Board_Minutes_6_23_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:40 URL: http://www.belchertown.org/Planning_Board_Minutes_7_14_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:41 URL: http://www.belchertown.org/Planning_Board_Minutes_7_28_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:41 URL: http://www.belchertown.org/Planning_Board_Minutes_8_11_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:41 URL: http://www.belchertown.org/Planning_Board_minutes_8_25_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:42 URL: http://www.belchertown.org/Planning_Board_Minutes_9_8_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:42 URL: http://www.belchertown.org/Planning_Board_Minutes_9_22_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:42 URL: http://www.belchertown.org/Planning_Board_Minutes_10_13_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:42 URL: http://www.belchertown.org/Planning_Board_Minutes_10_27_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:43 URL: http://www.belchertown.org/Planning_Board_Minutes_11_10_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:43 URL: http://www.belchertown.org/Planning_Board_Minutes_12_8_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:43 URL: http://www.belchertown.org/Planning%20Board%20Executive%20Minutes%2012-22-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:44 URL: http://www.belchertown.org/Planning_Board_Minutes_12_22_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:44 URL: http://www.belchertown.org/Planning%20Board%20Minutes%2012-14-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:45 URL: http://www.belchertown.org/Recreation_Minutes_5_13_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:45 URL: http://www.belchertown.org/Recreation_Committee_Minutes_6_10_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:45 URL: http://www.belchertown.org/Recreation_Committee_Minutes_8_19_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:45 URL: http://www.belchertown.org/Recreation_Committee_Minutes_9_16_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:46 URL: http://www.belchertown.org/Recreation_Committee_Minutes_10_14_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:46 URL: http://www.belchertown.org/Recreation_Committee_Minutes_11_18_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:46 URL: http://www.belchertown.org/Recreation_Committee_Minutes_12_16_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:47 URL: http://www.belchertown.org/Veterans__Services_Advisory_Bd_Minutes_3_19_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:47 URL: http://www.belchertown.org/Veterans__Services_Advisory_Bd_Minutes_4_16_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:47 URL: http://www.belchertown.org/Veterans__Services_Advisory_Bd_Minutes_8_20_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:47 URL: http://www.belchertown.org/Veteran_s_Services_Advisory_Board_minutes_10_15_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:48 URL: http://www.belchertown.org/Animal%20Control%20Advisory%20Board%20Minutes%206-30-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:48 URL: http://www.belchertown.org/Board%20of%20Assessors%20Minutes%206-14-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:48 URL: http://www.belchertown.org/Board_of_Health_Minutes_1_4_16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:49 URL: http://www.belchertown.org/Board%20of%20Health%20Minutes%203-7-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:49 URL: http://www.belchertown.org/Board%20of%20Health%20Minutes%205-2-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:49 URL: http://www.belchertown.org/Board%20of%20Health%20Minutes%206-6-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:50 URL: http://www.belchertown.org/Board%20of%20Health%20Minutes%207-18-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:50 URL: http://www.belchertown.org/Board_of_Selectmen_Minutes_1_11_16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:50 URL: http://www.belchertown.org/Board%20of%20Selectmen%20Minutes%201-25-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:50 URL: http://www.belchertown.org/Board%20of%20Selectmen%20Minutes%202-8-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:51 URL: http://www.belchertown.org/Board%20of%20Selectmen%20Minutes%202-22-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:51 URL: http://www.belchertown.org/Board%20of%20Selectmen%20Minutes%203-14-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:51 URL: http://www.belchertown.org/Board%20of%20Selectmen%20Minutes%203-21-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:51 URL: http://www.belchertown.org/Board%20of%20Selectmen%20Minutes%203-28-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:52 URL: http://www.belchertown.org/Board%20of%20Selectmen%20Minutes%204-8-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:52 URL: http://www.belchertown.org/Board%20of%20Selectmen%20Minutes%204-11-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:52 URL: http://www.belchertown.org/Board%20of%20Selectmen%20Minutes%204-25-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:53 URL: http://www.belchertown.org/Board%20of%20Selectmen%20Minutes%205-2-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:53 URL: http://www.belchertown.org/Board%20of%20Selectmen%20Minutes%205-9-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:53 URL: http://www.belchertown.org/Board%20of%20Selectmen%20Minutes%205-23-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:53 URL: http://www.belchertown.org/Board%20of%20Selectmen%20Minutes%206-13-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:54 URL: http://www.belchertown.org/Board%20of%20Selectmen%20Minutes%206-20-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:54 URL: http://www.belchertown.org/Board%20of%20Selectmen%20Minutes%206-27-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:54 URL: http://www.belchertown.org/Board%20of%20Selectmen%20Minutes%207-11-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:55 URL: http://www.belchertown.org/Board%20of%20Selectmen%20Minutes%207-25-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:55 URL: http://www.belchertown.org/Board%20of%20Selectmen%20Minutes%208-8-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:55 URL: http://www.belchertown.org/Board%20of%20Selectmen%20Minutes%208-22-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:56 URL: http://www.belchertown.org/Board%20of%20Selectmen%20Minutes%209-12-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:56 URL: http://www.belchertown.org/Board%20of%20Selectmen%20Minutes%2010-11-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:56 URL: http://www.belchertown.org/Board%20of%20Selectmen%20Minutes%2010-24-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:56 URL: http://www.belchertown.org/Board%20of%20Selectmen%20Minutes%2011-14-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:57 URL: http://www.belchertown.org/CPC_Minutes_1_5_161.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:57 URL: http://www.belchertown.org/CPC_Minutes_1_19_16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:57 URL: http://www.belchertown.org/Community%20Preservation%20Commission%20Minutes%202-2-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:58 URL: http://www.belchertown.org/Community%20Preservation%20Commission%20Minutes%203-3-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:58 URL: http://www.belchertown.org/CPC%20Minutes%202-17-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:58 URL: http://www.belchertown.org/Community%20Preservation%20Commission%20Minutes%20%203-15-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:59 URL: http://www.belchertown.org/CPC%20Minutes%204-5-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:59 URL: http://www.belchertown.org/Community%20Preservation%20Commission%20Minutes%205-17-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:59 URL: http://www.belchertown.org/Community%20Preservation%20Commission%20Minutes%209-20-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:11:59 URL: http://www.belchertown.org/CPC%20Minutes%2010-5-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:00 URL: http://www.belchertown.org/Community%20Preservation%20Commission%20Minutes%2010-18-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:00 URL: http://www.belchertown.org/Conservation_Commission_Minutes_1_11_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:01 URL: http://www.belchertown.org/Conservation_Commission_Mnutes_1_25_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:01 URL: http://www.belchertown.org/Conservation%20Commission%20Minutes%202-23-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:01 URL: http://www.belchertown.org/Conservation%20Commission%20Minutes%203-28-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:01 URL: http://www.belchertown.org/Conservation%20Commission%20Minutes%204-25-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:01 URL: http://www.belchertown.org/Conservation%20Commission%20Minutes%205-10-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:02 URL: http://www.belchertown.org/Conservation%20Commission%20Minutes%206-13-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:02 URL: http://www.belchertown.org/Conservation%20Commission%20Minutes%207-11-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:02 URL: http://www.belchertown.org/Conservation%20Commission%20Minutes%207-25-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:03 URL: http://www.belchertown.org/Conservation%20Commission%20Minutes%208-22-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:03 URL: http://www.belchertown.org/Conservation%20Commission%20Minutes%209-26-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:03 URL: http://www.belchertown.org/Conservation%20Commission%20Minutes%2010-12-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:03 URL: http://www.belchertown.org/Conservation%20Commission%20Minutes%2010-24-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:04 URL: http://www.belchertown.org/EDIC%20minutes%201-20-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:04 URL: http://www.belchertown.org/EDIC%20Minutes%202-17-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:04 URL: http://www.belchertown.org/EDIC%20Minutes%203-16-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:05 URL: http://www.belchertown.org/EDIC%20Minutes%204-20-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:05 URL: http://www.belchertown.org/EDIC%20Minutes%205-18-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:05 URL: http://www.belchertown.org/EDIC%20Minutes%206-15-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:05 URL: http://www.belchertown.org/EDIC%20Minutes%207-20-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:06 URL: http://www.belchertown.org/EDIC%20Minutes%208-17-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:06 URL: http://www.belchertown.org/EDIC%20Minutes%209-21-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:07 URL: http://www.belchertown.org/EDIC%20Minutes%2010-25-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:07 URL: http://www.belchertown.org/Belchertown_Family_Center_Minutes_1_11_16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:08 URL: http://www.belchertown.org/Belchertown%20Family%20Center%20Minutes%208-15-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:08 URL: http://www.belchertown.org/Finance%20Committee%20Minutes%201-19-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:09 URL: http://www.belchertown.org/Finance%20Committee%20Minutes%203-15-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:09 URL: http://www.belchertown.org/Finance%20Committee%20Minutes%203-31-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:10 URL: http://www.belchertown.org/Finance%20Committee%20Minutes%204-7-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:10 URL: http://www.belchertown.org/Finance%20Committee%20Minutes%204-14-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:11 URL: http://www.belchertown.org/Finance%20Committee%20Minutes%204-28-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:11 URL: http://www.belchertown.org/Board%20of%20Selectmen-Finance%20Committee%20Minutes%204-7-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:12 URL: http://www.belchertown.org/Historical%20Commission%20Minutes%201-12-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:12 URL: http://www.belchertown.org/Historical%20Commission%20Minutes%202-9-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:13 URL: http://www.belchertown.org/Historical%20Commission%20Minutes%203-8-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:14 URL: http://www.belchertown.org/Historical%20Commission%20Minutes%206-14-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:14 URL: http://www.belchertown.org/Historical%20Commission%20Minutes%207-12-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:14 URL: http://www.belchertown.org/Lakes%20Committee%20Minutes%201-14-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:15 URL: http://www.belchertown.org/Lakes%20Committee%20Minutes%202-11-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:15 URL: http://www.belchertown.org/Lakes%20Committee%20Minutes%2010-4-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:16 URL: http://www.belchertown.org/Lakes%20Committee%20Minutes%205-16-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:16 URL: http://www.belchertown.org/Lakes%20Committee%20Minutes%206-21-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:16 URL: http://www.belchertown.org/Planning%20Board%20Minutes%201-12-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:17 URL: http://www.belchertown.org/Planning%20Board%20Minutes%201-26-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:17 URL: http://www.belchertown.org/Planning%20Board%20Minutes%202-9-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:17 URL: http://www.belchertown.org/Planning%20Board%20Minutes%202-23-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:18 URL: http://www.belchertown.org/Planning%20Board%20Minutes%203-8-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:18 URL: http://www.belchertown.org/Planning%20Board%20Minutes%203-22-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:18 URL: http://www.belchertown.org/Planning%20Board%20Minutes%204-12-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:19 URL: http://www.belchertown.org/Planning%20Board%20Minutes%204-26-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:19 URL: http://www.belchertown.org/Planning%20Board%20Minutes%205-10-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:19 URL: http://www.belchertown.org/Planning%20Board%20minutes%206-14-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:20 URL: http://www.belchertown.org/Planning%20Board%20Minutes%206-28-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:20 URL: http://www.belchertown.org/Planning%20Board%20Minutes%207-12-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:20 URL: http://www.belchertown.org/Planning%20Board%20Minutes%207-26-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:21 URL: http://www.belchertown.org/Planning%20Board%20Minutes%208-9-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:21 URL: http://www.belchertown.org/Planning%20Board%20Minutes%208-23-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:22 URL: http://www.belchertown.org/Planning%20Board%20Minutes%209-13-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:22 URL: http://www.belchertown.org/Planning%20Board%20Minutes%209-27-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:22 URL: http://www.belchertown.org/Planning%20Board%20Minutes%2010-11-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:23 URL: http://www.belchertown.org/Planning%20Board%20Minutes%2011-9-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:23 URL: http://www.belchertown.org/Recreation%20Committee%20Minutes%201-13-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:24 URL: http://www.belchertown.org/Recreation%20Committee%20Minutes%202-17-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:24 URL: http://www.belchertown.org/Parks%20&%20Rec.%20Committee%20Minutes%203-9-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:25 URL: http://www.belchertown.org/Parks%20&%20Rec.%20Committee%20Minutes%204-6-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:26 URL: http://www.belchertown.org/Parks,%20Beach%20&%20Recreation%20Committee%20Minutes%205-11-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:26 URL: http://www.belchertown.org/Parks%20&%20Rec.%20Committee%20Minutes%206-15-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:27 URL: http://www.belchertown.org/Parks%20&%20Rec.%20Committee%20Minutes%207-13-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:27 URL: http://www.belchertown.org/Parks%20&%20Rec.%20Committee%20Minutes%209-14-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:28 URL: http://www.belchertown.org/Veterans'%20Services%20Advisory%20Board%20%20Minutes%202-18-2016%20A.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:28 URL: http://www.belchertown.org/Veterans'%20Services%20Advisory%20Board%20minutes%204-21-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:29 URL: http://www.belchertown.org/Veterans'%20Services%20Advisory%20Board%20Minutes%209-22-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:29 URL: http://www.belchertown.org/departments/clerk/docs/Election_Results_1_19_2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:30 URL: http://www.belchertown.org/departments/clerk/docs/Election_Results_5_17_2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:30 URL: http://www.belchertown.org/departments/clerk/docs/Election_Results_9_14_2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:31 URL: http://www.belchertown.org/departments/clerk/docs/Election_Results_11_2_2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:31 URL: http://www.belchertown.org/Election_Results_5_16_2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:32 URL: http://www.belchertown.org/Election_Results_3_6_2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:33 URL: http://www.belchertown.org/1Election_Results_5_21_20121.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:33 URL: http://www.belchertown.org/Election_Results_9_6_2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:34 URL: http://www.belchertown.org/Election_Results_11_6_2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:34 URL: http://www.belchertown.org/Election_Results_4_30_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:35 URL: http://www.belchertown.org/1Election_Results_5_20_20131.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:35 URL: http://www.belchertown.org/Election_Results_6_25_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:35 URL: http://www.belchertown.org/1Election_Results__5_19_20141.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:36 URL: http://www.belchertown.org/Election_Results_9_9_14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:37 URL: http://www.belchertown.org/Election_Results_11_4_2014_Final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:37 URL: http://www.belchertown.org/2015___Votes___Town_Election1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:38 URL: http://www.belchertown.org/Presidential%20Primary%203-1-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:38 URL: http://www.belchertown.org/2016%20-%20VOTES%20%20AA.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:39 URL: http://www.belchertown.org/Election%20Results%209-8-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:39 URL: http://www.belchertown.org/State%20Election%2011-8-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:40 URL: http://www.belchertown.org/Special_Town_Meeting_Actions_Dec__6__2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:41 URL: http://www.belchertown.org/Special_Town_Meeting_Actions_May_10__2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:41 URL: http://www.belchertown.org/Annual_Town_Meeting_Actions_May_10__2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:41 URL: http://www.belchertown.org/Special_Town_Meeting_Actions_May_9__2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:41 URL: http://www.belchertown.org/Annual_Town_Meeting_Actions_May_9__2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:42 URL: http://www.belchertown.org/Special_Town_Meeting_Actions_May_14__2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:42 URL: http://www.belchertown.org/Annual_Town_Meeting_Actions_May_14__2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:43 URL: http://www.belchertown.org/Special_Town_Meeting_Actions_Nov__26__2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:43 URL: http://www.belchertown.org/Special_Town_Meeting_Actions_May_13__2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:44 URL: http://www.belchertown.org/Annual_Town_Meeting_Actions_May_13__2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:44 URL: http://www.belchertown.org/Special_Town_Meeting_Actions_Nov__25__2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:44 URL: http://www.belchertown.org/2014__May_12___ATM_Action.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:45 URL: http://www.belchertown.org/Special_Town_Meeting_Actions_May_12__2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:46 URL: http://www.belchertown.org/2014_December_1___STM_Action.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:47 URL: http://www.belchertown.org/Special_Town_Meeting_Actions_May_11__2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:47 URL: http://www.belchertown.org/ATM_Minutes_5_11_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:47 URL: http://www.belchertown.org/Special%20Town%20Meeting%202-22-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:48 URL: http://www.belchertown.org/Special%20Town%20Meeting%20Actions%20May%209,%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:48 URL: http://www.belchertown.org/Annual%20Town%20Meeting%205-9-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:48 URL: http://www.belchertown.org/2011_Aldrich__Brenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:49 URL: http://www.belchertown.org/2011_Aponte__Ronald.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:49 URL: http://www.belchertown.org/2011_Archible__George__Archie_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:50 URL: http://www.belchertown.org/2011_Barry__James__Jim_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:50 URL: http://www.belchertown.org/2011_Belchertown_Political_Action_Committee.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:51 URL: http://www.belchertown.org/2011_Clapp_for_Community___Yes_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:52 URL: http://www.belchertown.org/2011_Elstein__Kenneth.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:52 URL: http://www.belchertown.org/2011_Fritsch__Richard.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:52 URL: http://www.belchertown.org/2011_Huber__William.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:53 URL: http://www.belchertown.org/2011_Jackson__Matthew.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:53 URL: http://www.belchertown.org/2012_Aponte__Ronald.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:54 URL: http://www.belchertown.org/2012_Elstein__Kenneth.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:54 URL: http://www.belchertown.org/2012_Grasso__Gerald.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:55 URL: http://www.belchertown.org/2012_Huber__William.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:56 URL: http://www.belchertown.org/2012_Minney__Donald.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:56 URL: http://www.belchertown.org/2013_Bogdanovich__Myndi.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:56 URL: http://www.belchertown.org/2013_Soja__Thomas.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:57 URL: http://www.belchertown.org/2014_French__Dawn_E_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:57 URL: http://www.belchertown.org/2014_Knapp__Michael_J_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:57 URL: http://www.belchertown.org/2014_Quirk__James_Wilbur.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:58 URL: http://www.belchertown.org/2014_Toothill_Berte__Colleen_K_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:58 URL: http://www.belchertown.org/2014_Vacchi__David_T_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:58 URL: http://www.belchertown.org/Ronald_E__Aponte2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:58 URL: http://www.belchertown.org/Sean_Michael_Gallagher1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:59 URL: http://www.belchertown.org/Donna_M__Lusignan2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:12:59 URL: http://www.belchertown.org/Nicholas_J__O_Connor2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:00 URL: http://www.belchertown.org/Tirrell_amended_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:00 URL: http://www.belchertown.org/Colleen_Toothill_Berte.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:00 URL: http://www.belchertown.org/departments/clerk/Absentee_Ballot___Family___January_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:01 URL: http://www.belchertown.org/absentee_ballot_1_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:01 URL: http://www.belchertown.org/Belchertown%20Precinct%20Street%20Listing.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:01 URL: http://www.belchertown.org/BIRTH_CERTIFICATES_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:01 URL: http://www.belchertown.org/Filing_a_Business_Certificate_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:02 URL: http://www.belchertown.org/BusCertFORM.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:02 URL: http://www.belchertown.org/Business_Disc__Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:02 URL: http://www.belchertown.org/DEATH_CERTIFICATES_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:03 URL: http://www.belchertown.org/DOG_LICENSE_INFORMATION_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:03 URL: http://www.belchertown.org/Raffle_and_Bazaar_Info_Sheet.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:03 URL: http://www.belchertown.org/MARRIAGE_LICENSE_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:04 URL: http://www.belchertown.org/2015_Streets.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:04 URL: http://www.belchertown.org/Transfer_Station_Rules_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:05 URL: http://www.belchertown.org/Voter_Party_and_Designation_Enrollment_Information_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:06 URL: http://www.belchertown.org/Mail-in%20Voter-reg%20form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:06 URL: http://www.belchertown.org/VOTER%20REGISTRATION%20INFORMATION%201.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:06 URL: http://www.belchertown.org/Dog_Complaint_Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:07 URL: http://www.belchertown.org/Adoption_Application1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:07 URL: http://www.belchertown.org/Foster_Care_Agreement.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:07 URL: http://www.belchertown.org/Identifying_Paw_Prints.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:08 URL: http://www.belchertown.org/BARCs_Mission_Flyer_Final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:08 URL: http://www.belchertown.org/911petsafety.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:09 URL: http://www.belchertown.org/Cold_Weather_Pet_Tips.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:09 URL: http://www.belchertown.org/Signs_of_Heat_and_Cold_Emergencies.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:09 URL: http://www.belchertown.org/Frost_Bite_and_Hypothermia_Info.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:11 URL:http://www.belchertown.org/government/council_on_aging_senior_center/about_us.php [36490] -> "../data/townSites2/Belchertown/www.belchertown.org/government/council_on_aging_senior_center/about_us.php" [1]
+2017-01-02 03:13:14 URL:http://www.belchertown.org/government/council_on_aging_senior_center/activities.php [35468] -> "../data/townSites2/Belchertown/www.belchertown.org/government/council_on_aging_senior_center/activities.php" [1]
+2017-01-02 03:13:17 URL:http://www.belchertown.org/government/council_on_aging_senior_center/social_services.php [31391] -> "../data/townSites2/Belchertown/www.belchertown.org/government/council_on_aging_senior_center/social_services.php" [1]
+2017-01-02 03:13:20 URL:http://www.belchertown.org/government/council_on_aging_senior_center/meals.php [32907] -> "../data/townSites2/Belchertown/www.belchertown.org/government/council_on_aging_senior_center/meals.php" [1]
+2017-01-02 03:13:23 URL:http://www.belchertown.org/government/council_on_aging_senior_center/outreach.php [34567] -> "../data/townSites2/Belchertown/www.belchertown.org/government/council_on_aging_senior_center/outreach.php" [1]
+2017-01-02 03:13:25 URL:http://www.belchertown.org/government/council_on_aging_senior_center/adult_supportive_day_program.php [35291] -> "../data/townSites2/Belchertown/www.belchertown.org/government/council_on_aging_senior_center/adult_supportive_day_program.php" [1]
+2017-01-02 03:13:28 URL:http://www.belchertown.org/government/council_on_aging_senior_center/transportation/index.php [29196] -> "../data/townSites2/Belchertown/www.belchertown.org/government/council_on_aging_senior_center/transportation/index.php" [1]
+http://www.belchertown.org/coa/activities.htm:
+Remote file does not exist -- broken link!!!
+http://www.belchertown.org/coa/2ndBest.htm:
+Remote file does not exist -- broken link!!!
+2017-01-02 03:13:32 URL:http://www.belchertown.org/government/council_on_aging_senior_center/pictures_bargains!.php [34730] -> "../data/townSites2/Belchertown/www.belchertown.org/government/council_on_aging_senior_center/pictures_bargains!.php" [1]
+http://www.belchertown.org/coa/calendar.htm:
+Remote file does not exist -- broken link!!!
+2017-01-02 03:13:36 URL:http://www.belchertown.org/government/council_on_aging_senior_center/meal_menu_555_activity_schedule.php [35355] -> "../data/townSites2/Belchertown/www.belchertown.org/government/council_on_aging_senior_center/meal_menu_555_activity_schedule.php" [1]
+2017-01-02 03:13:40 URL:http://www.belchertown.org/government/council_on_aging_senior_center/volunteer_opportunities.php [34944] -> "../data/townSites2/Belchertown/www.belchertown.org/government/council_on_aging_senior_center/volunteer_opportunities.php" [1]
+2017-01-02 03:13:42 URL:http://www.belchertown.org/government/council_on_aging_senior_center/photo_gallery.php [32625] -> "../data/townSites2/Belchertown/www.belchertown.org/government/council_on_aging_senior_center/photo_gallery.php" [1]
+http://www.belchertown.org/Belchertown%20Dept.%20of%20Public%20Works.docx:
+Remote file does not exist -- broken link!!!
+http://www.belchertown.org/Belchetown%20Wastewater%20Treatment%20Plant.docx:
+Remote file does not exist -- broken link!!!
+http://www.belchertown.org/Transfer%20Station%20&%20Recycling%20Center.docx:
+Remote file does not exist -- broken link!!!
+http://www.belchertown.org/Buildings,%20Maintenance%20&%20Grounds%20Division.docx:
+Remote file does not exist -- broken link!!!
+http://www.belchertown.org/Dept.%20of%20Public%20Works.docx:
+Remote file does not exist -- broken link!!!
+http://www.belchertown.org/Water%20District.docx:
+Remote file does not exist -- broken link!!!
+2017-01-02 03:13:46 URL: http://www.belchertown.org/Transfer%20Station%20Rules%20&%20Regs.%20Year%202016.doc 200 OK
+unlink: No such file or directory
+http://www.belchertown.org/Needle%20Exchange%20Program.docx:
+Remote file does not exist -- broken link!!!
+2017-01-02 03:13:48 URL: http://www.belchertown.org/How%20to%20dispose%20of%20found%20needles.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:49 URL: http://www.belchertown.org/Buy%20Recycled%20Policy%20-%20REV.%202016.doc 200 OK
+unlink: No such file or directory
+http://www.belchertown.org/Hazardous%20Waste%20Collection%20Events-2016%20-POSTING.docx:
+Remote file does not exist -- broken link!!!
+http://www.belchertown.org/NEDT.docx:
+Remote file does not exist -- broken link!!!
+http://www.belchertown.org/Styrofoam%20and%20Peanuts%20~TechnoTrash%20Recycling.docx:
+Remote file does not exist -- broken link!!!
+http://www.belchertown.org/Salvation%20Army.docx:
+Remote file does not exist -- broken link!!!
+http://www.belchertown.org/MASS%20DEP%20-Beyond%20The%20Bin%20Textile%20Recycling.docx:
+Remote file does not exist -- broken link!!!
+2017-01-02 03:13:50 URL: http://www.belchertown.org/Winter%20Parking%20Ban-%202016-2017.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:51 URL: http://www.belchertown.org/belchertownnew/government/dpw/uploads/Wetlands_Protection__STWM_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:51 URL: http://www.belchertown.org/stwm_report__2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:51 URL: http://www.belchertown.org/STWM%20Annual%20Report%20-F%20&%20O%20-2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:52 URL: http://www.belchertown.org/ANNUAL%20STORM%20WATER%20REPORT%20-F%20&%20O%20-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:52 URL: http://www.belchertown.org/Annual_Town_Report_2015.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:52 URL: http://www.belchertown.org/Annual%20Town%20Report-2014.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:53 URL: http://www.belchertown.org/Annual%20Town%20Report-2013.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:53 URL: http://www.belchertown.org/Annual%20Town%20Report-2012.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:53 URL: http://www.belchertown.org/MailboxPolicy.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:53 URL: http://www.belchertown.org/CLAIM_QUESTIONAIRE_for_MAILBOX_DAMAGE.doc 200 OK
+unlink: No such file or directory
+http://www.belchertown.org/Sand%20&%20Unusable%20Fill.docx:
+Remote file does not exist -- broken link!!!
+2017-01-02 03:13:54 URL: http://www.belchertown.org/belchertownnew/government/dpw/uploads/Cemtery_Pricing_List_11_2009.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:55 URL: http://www.belchertown.org/Cemetery%20Division%20Policy-%20Monuments%20Headstones%20and%20Markers%20-Jan%20%202015.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:55 URL: http://www.belchertown.org/Cemetery%20Annual%20Cleaning-2016.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:55 URL: http://www.belchertown.org/Cemtery%20Pricing%20List-11-2009.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:56 URL: http://www.belchertown.org/Cemetery%20Foundation%20Price%20List%20-%202010-FINAL.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:56 URL: http://www.belchertown.org/Headstone%20companies.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:56 URL: http://www.belchertown.org/Chapter%20208-Rules%20&%20Regs..rtf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:57 URL: http://www.belchertown.org/RecruitmentInformation.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:57 URL: http://www.belchertown.org/government/fire/docs/OPEN_AIR_BURNING_SEASON_2015.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:58 URL: http://www.belchertown.org/government/fire/docs/Fire_Inspection_Info.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:58 URL: http://www.belchertown.org/government/fire/docs/Frequently_Asked_Questions.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:58 URL: http://www.belchertown.org/government/fire/docs/Campus_Safety.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:59 URL: http://www.belchertown.org/government/fire/docs/GeneratorSafetyTips.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:59 URL: http://www.belchertown.org/government/fire/docs/Candle_Safety_Tips.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:13:59 URL: http://www.belchertown.org/government/fire/docs/Home_Sprinklers.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:14:00 URL: http://www.belchertown.org/government/fire/docs/CO_Alarm_Info.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:14:00 URL: http://www.belchertown.org/government/fire/docs/HotelMotelSafety.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:14:00 URL: http://www.belchertown.org/government/fire/docs/Cooking_Safety_Tips.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:14:01 URL: http://www.belchertown.org/government/fire/docs/Lightning_Safety.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:14:01 URL: http://www.belchertown.org/government/fire/docs/DryerWasherSafetyTips.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:14:02 URL: http://www.belchertown.org/government/fire/docs/ScaldPrevention.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:14:02 URL: http://www.belchertown.org/government/fire/docs/Electrical_Safety_Tips.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:14:02 URL: http://www.belchertown.org/government/fire/docs/SmokeAlarmsSafetyTips.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:14:03 URL: http://www.belchertown.org/government/fire/docs/SmokingSafety.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:14:03 URL: http://www.belchertown.org/government/fire/docs/SmokeAlarmsDisabilitySafetyTips.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:14:04 URL: http://www.belchertown.org/government/fire/docs/__ntact_information.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:14:05 URL: http://www.belchertown.org/Application_and_Checklist__2_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:14:05 URL: http://www.belchertown.org/Belchertown_Zoning_By_Laws.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:14:06 URL: http://www.belchertown.org/Access_Apt__145_29_1.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 03:14:09 URL:http://www.belchertown.org/newslist.php [29179] -> "../data/townSites2/Belchertown/www.belchertown.org/newslist.php" [1]
+Found 33 broken links.
+
+http://www.belchertown.org/0_Executive_Summary_2009.pdf
+http://www.belchertown.org/4_Economic_Development_2009.pdf
+http://www.belchertown.org/3_Housing_2009.pdf
+http://www.belchertown.org/health/eee_virus_info.html
+http://www.belchertown.org/Sand%20&%20Unusable%20Fill.docx
+http://www.belchertown.org/Buildings,%20Maintenance%20&%20Grounds%20Division.docx
+http://www.belchertown.org/5_Natural___Cultural__2009.pdf
+http://www.belchertown.org/Belchertown%20Dept.%20of%20Public%20Works.docx
+http://www.belchertown.org/1_Introduction_2009.pdf
+http://www.belchertown.org/9_Health___HumanServices_2009.pdf
+http://www.belchertown.org/Water%20District.docx
+http://www.belchertown.org/8_Transportation_2009.pdf
+http://www.belchertown.org/Belchetown%20Wastewater%20Treatment%20Plant.docx
+http://www.belchertown.org/NEDT.docx
+http://www.belchertown.org/7_Community_Facilities_2009.pdf
+http://www.belchertown.org/Transfer%20Station%20&%20Recycling%20Center.docx
+http://www.belchertown.org/Acknowledgements_2009.pdf
+http://www.belchertown.org/departments/health/jmetcalf@belchertown.org
+http://www.belchertown.org/6_Open_Space___Recreation_2009.pdf
+http://www.belchertown.org/coa/activities.htm
+http://www.belchertown.org/2_Land_Use__2009.pdf
+http://www.belchertown.org/Hazardous%20Waste%20Collection%20Events-2016%20-POSTING.docx
+http://www.belchertown.org/Styrofoam%20and%20Peanuts%20~TechnoTrash%20Recycling.docx
+http://www.belchertown.org/11_Implementation_2009.pdf
+http://www.belchertown.org/Needle%20Exchange%20Program.docx
+http://www.belchertown.org/12_Map_Appendix2009.pdf
+http://www.belchertown.org/top_priority_poster_2009.pdf
+http://www.belchertown.org/coa/calendar.htm
+http://www.belchertown.org/MASS%20DEP%20-Beyond%20The%20Bin%20Textile%20Recycling.docx
+http://www.belchertown.org/Salvation%20Army.docx
+http://www.belchertown.org/coa/2ndBest.htm
+http://www.belchertown.org/Dept.%20of%20Public%20Works.docx
+http://www.belchertown.org/10_Agriculture_2009.pdf
+
+FINISHED --2017-01-02 03:14:09--
+Total wall clock time: 7m 8s
+Downloaded: 198 files, 7.9M in 1m 18s (104 KB/s)

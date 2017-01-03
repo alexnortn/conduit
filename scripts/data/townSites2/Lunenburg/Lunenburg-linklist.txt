@@ -1,0 +1,102 @@
+2017-01-02 01:57:19 URL:http://lunenburgma.gov/ [25939/25939] -> "../data/townSites2/Lunenburg/lunenburgma.gov/index.html" [1]
+2017-01-02 01:57:20 URL:http://lunenburgma.gov/content/77/293.aspx [8919/8919] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/77/293.aspx" [1]
+http://lunenburgma.gov/content/404.aspx?aspxerrorpath=/content/sitemap.aspx:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:57:21 URL:http://lunenburgma.gov/content/77/1268.aspx [8470/8470] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/77/1268.aspx" [1]
+2017-01-02 01:57:22 URL:http://lunenburgma.gov/content/rss.aspx [11862/11862] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/rss.aspx" [1]
+2017-01-02 01:57:23 URL:http://lunenburgma.gov/content/188/default.aspx [11406/11406] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/188/default.aspx" [1]
+2017-01-02 01:57:24 URL:http://lunenburgma.gov/content/1239/default.aspx [7557/7557] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/1239/default.aspx" [1]
+2017-01-02 01:57:25 URL:http://lunenburgma.gov/content/202/default.aspx [7939/7939] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/202/default.aspx" [1]
+2017-01-02 01:57:26 URL:http://lunenburgma.gov/content/204/default.aspx [7629/7629] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/204/default.aspx" [1]
+2017-01-02 01:57:28 URL:http://www.lunenburgschools.net/ [68983] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/1241/default.aspx" [1]
+2017-01-02 01:57:29 URL:http://lunenburgma.gov/content/81/default.aspx [8933/8933] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/81/default.aspx" [1]
+2017-01-02 01:57:30 URL:http://lunenburgma.gov/content/1243/default.aspx [8965/8965] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/1243/default.aspx" [1]
+2017-01-02 01:57:31 URL:http://lunenburgma.gov/content/192/949/default.aspx [6740/6740] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/192/949/default.aspx" [1]
+2017-01-02 01:57:32 URL:http://lunenburgma.gov/content/192/default.aspx [6830/6830] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/192/default.aspx" [1]
+2017-01-02 01:57:33 URL:http://lunenburgma.gov/content/192/1209/default.aspx [7932/7932] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/192/1209/default.aspx" [1]
+2017-01-02 01:57:34 URL:http://lunenburgma.gov/content/77/1249.aspx [9105/9105] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/77/1249.aspx" [1]
+2017-01-02 01:57:36 URL:http://lunenburgma.gov/content/77/1251.aspx [6981/6981] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/77/1251.aspx" [1]
+2017-01-02 01:57:37 URL:http://lunenburgma.gov/content/79/default.aspx [12011/12011] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/79/default.aspx" [1]
+2017-01-02 01:57:39 URL:http://lunenburgma.gov/content/77/2214.aspx [23305/23305] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/77/2214.aspx" [1]
+2017-01-02 01:57:39 URL: http://lunenburgma.gov/filestorage/77/1234/2015_ANNUAL_TOWN_REPORT.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:57:39 URL: http://lunenburgma.gov/filestorage/77/1234/Financial_Forecast_120315_Presentation.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:57:40 URL: http://lunenburgma.gov/filestorage/77/1234/Financial_Forecast.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:57:40 URL: http://lunenburgma.gov/filestorage/77/1234/Flyer_for_Q1_Tax_Bills.docx 200 OK
+unlink: No such file or directory
+2017-01-02 01:57:40 URL: http://lunenburgma.gov/filestorage/77/1234/FY2016_Budget_After_Recap.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:57:40 URL: http://lunenburgma.gov/filestorage/77/1234/FY2017_Budget_Calendar_120315.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:57:41 URL: http://lunenburgma.gov/filestorage/77/1234/Proclamation_Opposing_Pipeline_Project.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:57:42 URL: http://lunenburgma.gov/filestorage/77/1234/Report_of_the_Building_Reuse_Committee_12.03.13.ppt 200 OK
+unlink: No such file or directory
+2017-01-02 01:57:42 URL: http://lunenburgma.gov/filestorage/77/1234/TALENTBANKFORM.pdf 200 OK
+unlink: No such file or directory
+http://lunenburgma.gov/content/404.aspx?aspxerrorpath=/content/Sitemap.aspx:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:57:45 URL:http://lunenburgma.gov/home [25923/25923] -> "../data/townSites2/Lunenburg/lunenburgma.gov/home" [1]
+2017-01-02 01:57:45 URL:http://lunenburgma.gov/content/1239/898.aspx [6551/6551] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/1239/898.aspx" [1]
+2017-01-02 01:57:46 URL:http://lunenburgma.gov/content/1239/4911.aspx [7029/7029] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/1239/4911.aspx" [1]
+2017-01-02 01:57:47 URL:http://lunenburgma.gov/content/1239/899.aspx [7537/7537] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/1239/899.aspx" [1]
+2017-01-02 01:57:48 URL:http://lunenburgma.gov/content/1239/900.aspx [6559/6559] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/1239/900.aspx" [1]
+2017-01-02 01:57:49 URL:http://lunenburgma.gov/content/1239/901.aspx [6911/6911] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/1239/901.aspx" [1]
+2017-01-02 01:57:50 URL:http://lunenburgma.gov/content/1239/902.aspx [6940/6940] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/1239/902.aspx" [1]
+2017-01-02 01:57:51 URL:http://lunenburgma.gov/content/1239/903.aspx [12075/12075] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/1239/903.aspx" [1]
+2017-01-02 01:57:51 URL:http://lunenburgma.gov/content/1239/906.aspx [7486/7486] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/1239/906.aspx" [1]
+2017-01-02 01:57:52 URL:http://lunenburgma.gov/content/1239/907.aspx [6517/6517] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/1239/907.aspx" [1]
+2017-01-02 01:57:53 URL:http://lunenburgma.gov/content/204/234/default.aspx [15529/15529] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/204/234/default.aspx" [1]
+2017-01-02 01:57:54 URL:http://lunenburgma.gov/content/1239/909.aspx [6548/6548] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/1239/909.aspx" [1]
+2017-01-02 01:57:55 URL:http://lunenburgma.gov/content/1239/910.aspx [8996/8996] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/1239/910.aspx" [1]
+2017-01-02 01:57:55 URL:http://lunenburgma.gov/content/1239/915.aspx [6538/6538] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/1239/915.aspx" [1]
+2017-01-02 01:57:56 URL:http://lunenburgma.gov/content/1239/1470.aspx [6703/6703] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/1239/1470.aspx" [1]
+2017-01-02 01:57:57 URL:http://lunenburgma.gov/content/1239/920.aspx [7527/7527] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/1239/920.aspx" [1]
+2017-01-02 01:57:57 URL:http://lunenburgma.gov/content/1239/924.aspx [8760/8760] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/1239/924.aspx" [1]
+2017-01-02 01:57:59 URL:http://lunenburgma.gov/content/202/210/default.aspx [10059/10059] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/202/210/default.aspx" [1]
+2017-01-02 01:58:00 URL:http://lunenburgma.gov/content/202/250/default.aspx [14779/14779] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/202/250/default.aspx" [1]
+2017-01-02 01:58:01 URL:http://lunenburgma.gov/content/202/212/default.aspx [17510/17510] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/202/212/default.aspx" [1]
+2017-01-02 01:58:02 URL:http://lunenburgma.gov/content/202/218/default.aspx [12092/12092] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/202/218/default.aspx" [1]
+2017-01-02 01:58:03 URL:http://lunenburgma.gov/content/202/1463/default.aspx [6293/6293] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/202/1463/default.aspx" [1]
+2017-01-02 01:58:04 URL:http://lunenburgma.gov/content/202/248/default.aspx [5804/5804] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/202/248/default.aspx" [1]
+2017-01-02 01:58:05 URL:http://lunenburgma.gov/content/192/949/1276/default.aspx [7693/7693] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/192/949/1276/default.aspx" [1]
+2017-01-02 01:58:05 URL:http://lunenburgma.gov/content/202/230/default.aspx [6818/6818] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/202/230/default.aspx" [1]
+2017-01-02 01:58:06 URL:http://lunenburgma.gov/content/202/818/default.aspx [9061/9061] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/202/818/default.aspx" [1]
+2017-01-02 01:58:07 URL:http://lunenburgma.gov/content/202/1278/default.aspx [8195/8195] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/202/1278/default.aspx" [1]
+2017-01-02 01:58:08 URL:http://lunenburgma.gov/content/202/797/default.aspx [7754/7754] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/202/797/default.aspx" [1]
+2017-01-02 01:58:09 URL:http://lunenburgma.gov/content/202/246/default.aspx [6123/6123] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/202/246/default.aspx" [1]
+2017-01-02 01:58:10 URL:http://lunenburgma.gov/content/202/240/default.aspx [10704/10704] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/202/240/default.aspx" [1]
+2017-01-02 01:58:11 URL:http://lunenburgma.gov/content/202/220/default.aspx [9452/9452] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/202/220/default.aspx" [1]
+2017-01-02 01:58:12 URL:http://lunenburgma.gov/content/202/242/default.aspx [7669/7669] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/202/242/default.aspx" [1]
+2017-01-02 01:58:13 URL:http://lunenburgma.gov/content/202/244/default.aspx [5927/5927] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/202/244/default.aspx" [1]
+2017-01-02 01:58:13 URL:http://lunenburgma.gov/content/202/6935/default.aspx [6293/6293] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/202/6935/default.aspx" [1]
+2017-01-02 01:58:14 URL:http://lunenburgma.gov/agcom [9020/9020] -> "../data/townSites2/Lunenburg/lunenburgma.gov/agcom" [1]
+2017-01-02 01:58:15 URL:http://lunenburgma.gov/content/204/11730/default.aspx [10281/10281] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/204/11730/default.aspx" [1]
+2017-01-02 01:58:16 URL:http://lunenburgma.gov/content/204/824/default.aspx [8207/8207] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/204/824/default.aspx" [1]
+2017-01-02 01:58:17 URL:http://lunenburgma.gov/content/204/214/default.aspx [15140/15140] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/204/214/default.aspx" [1]
+2017-01-02 01:58:19 URL:http://lunenburgma.gov/content/204/216/default.aspx [24227/24227] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/204/216/default.aspx" [1]
+2017-01-02 01:58:19 URL:http://lunenburgma.gov/content/204/828/default.aspx [15271/15271] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/204/828/default.aspx" [1]
+2017-01-02 01:58:20 URL:http://lunenburgma.gov/content/204/222/default.aspx [8252/8252] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/204/222/default.aspx" [1]
+2017-01-02 01:58:21 URL:http://lunenburgma.gov/content/204/224/default.aspx [8244/8244] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/204/224/default.aspx" [1]
+2017-01-02 01:58:22 URL:http://lunenburgma.gov/content/204/836/default.aspx [9059/9059] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/204/836/default.aspx" [1]
+2017-01-02 01:58:23 URL:http://lunenburgma.gov/content/204/838/default.aspx [16299/16299] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/204/838/default.aspx" [1]
+2017-01-02 01:58:24 URL:http://lunenburgma.gov/content/204/6852/default.aspx [7581/7581] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/204/6852/default.aspx" [1]
+2017-01-02 01:58:25 URL:http://lunenburgma.gov/content/204/840/default.aspx [10745/10745] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/204/840/default.aspx" [1]
+2017-01-02 01:58:26 URL:http://lunenburgma.gov/content/204/842/default.aspx [16918/16918] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/204/842/default.aspx" [1]
+2017-01-02 01:58:27 URL:http://lunenburgma.gov/content/204/236/default.aspx [10966/10966] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/204/236/default.aspx" [1]
+2017-01-02 01:58:28 URL:http://lunenburgma.gov/stormwater [10317/10317] -> "../data/townSites2/Lunenburg/lunenburgma.gov/stormwater" [1]
+2017-01-02 01:58:29 URL:http://lunenburgma.gov/content/192/ [6818/6818] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/192/index.html" [1]
+2017-01-02 01:58:29 URL:http://lunenburgma.gov/content/192/949/953/default.aspx [8721/8721] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/192/949/953/default.aspx" [1]
+2017-01-02 01:58:30 URL:http://lunenburgma.gov/content/192/208/default.aspx [6811/6811] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/192/208/default.aspx" [1]
+2017-01-02 01:58:31 URL:http://lunenburgma.gov/content/202/797/810.aspx [37814/37814] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/202/797/810.aspx" [1]
+2017-01-02 01:58:33 URL:http://lunenburgma.gov/content/77/11213.aspx [27079/27079] -> "../data/townSites2/Lunenburg/lunenburgma.gov/content/77/11213.aspx" [1]
+Found 2 broken links.
+
+http://lunenburgma.gov/content/404.aspx?aspxerrorpath=/content/sitemap.aspx
+http://lunenburgma.gov/content/404.aspx?aspxerrorpath=/content/Sitemap.aspx
+
+FINISHED --2017-01-02 01:58:33--
+Total wall clock time: 1m 15s
+Downloaded: 72 files, 804K in 0.6s (1.29 MB/s)

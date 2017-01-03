@@ -1,0 +1,77 @@
+2017-01-01 21:35:41 URL:http://seekonk-ma.gov/ [1001] -> "../data/townSites2/Seekonk/seekonk-ma.gov/index.html" [1]
+2017-01-01 21:35:44 URL:http://seekonk-ma.gov/pages/index [73663] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/index" [1]
+2017-01-01 21:35:48 URL:http://seekonk-ma.gov/Pages/index [73658] -> "../data/townSites2/Seekonk/seekonk-ma.gov/Pages/index" [1]
+2017-01-01 21:35:50 URL:http://seekonk-ma.gov/pages/SeekonkMA_WebDocs/departments [37267] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_WebDocs/departments" [1]
+2017-01-01 21:35:55 URL:http://seekonk-ma.gov/pages/SeekonkMA_Administration/index [45739] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_Administration/index" [1]
+2017-01-01 21:35:58 URL:http://seekonk-ma.gov/pages/SeekonkMA_Animal/index [56078] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_Animal/index" [1]
+2017-01-01 21:36:02 URL:http://seekonk-ma.gov/pages/SeekonkMA_Assessors/index [67251] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_Assessors/index" [1]
+2017-01-01 21:36:04 URL:http://seekonk-ma.gov/pages/SeekonkMA_Building/index [54002] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_Building/index" [1]
+2017-01-01 21:36:07 URL:http://seekonk-ma.gov/pages/SeekonkMA_Collector/index [49243] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_Collector/index" [1]
+2017-01-01 21:36:10 URL:http://seekonk-ma.gov/pages/SeekonkMA_BComm/Conservation/index [54375] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_BComm/Conservation/index" [1]
+2017-01-01 21:36:14 URL:http://seekonk-ma.gov/pages/SeekonkMA_Human/index [77766] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_Human/index" [1]
+2017-01-01 21:36:17 URL:http://seekonk-ma.gov/pages/SeekonkMA_Finance/index [42661] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_Finance/index" [1]
+2017-01-01 21:36:19 URL:http://seekonk-ma.gov/pages/SeekonkMA_Fire/index [50463] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_Fire/index" [1]
+2017-01-01 21:36:21 URL:http://seekonk-ma.gov/pages/SeekonkMA_Health/index [46269] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_Health/index" [1]
+2017-01-01 21:36:25 URL:http://seekonk-ma.gov/pages/SeekonkMA_Recreation/index [44929] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_Recreation/index" [1]
+2017-01-01 21:36:28 URL:http://seekonk-ma.gov/pages/SeekonkMA_Planning/index [61950] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_Planning/index" [1]
+2017-01-01 21:36:33 URL:http://seekonk-ma.gov/pages/SeekonkMA_Police/index [25591] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_Police/index" [1]
+2017-01-01 21:36:35 URL:http://seekonk-ma.gov/pages/SeekonkMA_Safety/index [49747] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_Safety/index" [1]
+2017-01-01 21:36:39 URL:http://seekonk-ma.gov/pages/SeekonkMA_Public/index [59915] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_Public/index" [1]
+2017-01-01 21:36:41 URL:http://seekonk-ma.gov/pages/SeekonkMA_Clerk/index [51823] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_Clerk/index" [1]
+2017-01-01 21:36:43 URL:http://seekonk-ma.gov/pages/SeekonkMA_Treasurer/index [45787] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_Treasurer/index" [1]
+2017-01-01 21:36:45 URL:http://seekonk-ma.gov/pages/SeekonkMA_Veterans/index [44455] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_Veterans/index" [1]
+2017-01-01 21:36:48 URL:http://seekonk-ma.gov/pages/SeekonkMA_BComm/boards [37637] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_BComm/boards" [1]
+2017-01-01 21:36:51 URL:http://seekonk-ma.gov/pages/SeekonkMA_BComm/assessors/index [41020] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_BComm/assessors/index" [1]
+2017-01-01 21:36:53 URL:http://seekonk-ma.gov/pages/SeekonkMA_BComm/Health/index [42154] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_BComm/Health/index" [1]
+2017-01-01 21:36:56 URL:http://seekonk-ma.gov/pages/SeekonkMA_BComm/BOS/index [52049] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_BComm/BOS/index" [1]
+2017-01-01 21:37:04 URL:http://seekonk-ma.gov/pages/SeekonkMA_BSC/index [41280] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_BSC/index" [1]
+2017-01-01 21:37:06 URL:http://seekonk-ma.gov/pages/SeekonkMA_BComm/Improvement/index [45077] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_BComm/Improvement/index" [1]
+2017-01-01 21:37:09 URL:http://seekonk-ma.gov/pages/SeekonkMA_BComm/Preservation/index [49602] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_BComm/Preservation/index" [1]
+2017-01-01 21:37:10 URL:http://seekonk-ma.gov/Pages/SeekonkMA_BComm/cultural/index [40364] -> "../data/townSites2/Seekonk/seekonk-ma.gov/Pages/SeekonkMA_BComm/cultural/index" [1]
+2017-01-01 21:37:12 URL:http://seekonk-ma.gov/Pages/SeekonkMA_Bcomm/Aid/index [39105] -> "../data/townSites2/Seekonk/seekonk-ma.gov/Pages/SeekonkMA_Bcomm/Aid/index" [1]
+2017-01-01 21:37:14 URL:http://seekonk-ma.gov/pages/SeekonkMA_bcomm/econdev/index [42020] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_bcomm/econdev/index" [1]
+2017-01-01 21:37:16 URL:http://seekonk-ma.gov/pages/SeekonkMA_BComm/Finance/index [43436] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_BComm/Finance/index" [1]
+2017-01-01 21:37:17 URL:http://seekonk-ma.gov/pages/SeekonkMA_BComm/Historical/index [41269] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_BComm/Historical/index" [1]
+2017-01-01 21:37:19 URL:http://seekonk-ma.gov/pages/SeekonkMA_BComm/park/index [44486] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_BComm/park/index" [1]
+2017-01-01 21:37:21 URL:http://seekonk-ma.gov/pages/SeekonkMA_Bcomm/Senior/index [43245] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_Bcomm/Senior/index" [1]
+2017-01-01 21:37:23 URL:http://seekonk-ma.gov/pages/SeekonkMA_BComm/ZBA/index [46612] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_BComm/ZBA/index" [1]
+2017-01-01 21:37:25 URL:http://seekonk-ma.gov/pages/SeekonkMA_Webdocs/min [36874] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_Webdocs/min" [1]
+2017-01-01 21:37:27 URL:http://seekonk-ma.gov/pages/SeekonkMA_Webdocs/forms [47019] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_Webdocs/forms" [1]
+2017-01-01 21:37:29 URL:http://seekonk-ma.gov/pages/SeekonkMA_Webdocs/where [50994] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_Webdocs/where" [1]
+2017-01-01 21:37:31 URL:http://seekonk-ma.gov/Pages/SeekonkMA_WebDocs/vol [33908] -> "../data/townSites2/Seekonk/seekonk-ma.gov/Pages/SeekonkMA_WebDocs/vol" [1]
+2017-01-01 21:37:33 URL:http://seekonk-ma.gov/Pages/SeekonkMA_WebDocs/Comments [42660] -> "../data/townSites2/Seekonk/seekonk-ma.gov/Pages/SeekonkMA_WebDocs/Comments" [1]
+2017-01-01 21:37:35 URL:http://seekonk-ma.gov/Subscriber [43884] -> "../data/townSites2/Seekonk/seekonk-ma.gov/Subscriber" [1]
+2017-01-01 21:37:36 URL:http://seekonk-ma.gov/pages/SeekonkMA_WebDocs/CommonwealthConnect [32827] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_WebDocs/CommonwealthConnect" [1]
+2017-01-01 21:37:37 URL: http://seekonk-ma.gov/Icons/0 200 OK
+unlink: No such file or directory
+2017-01-01 21:37:39 URL:http://seekonk-ma.gov/pages/quicklinks [33624] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/quicklinks" [1]
+2017-01-01 21:37:41 URL:http://seekonk-ma.gov/pages/employment [34235] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/employment" [1]
+2017-01-01 21:37:43 URL:http://seekonk-ma.gov/pages/residentlinks [34900] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/residentlinks" [1]
+2017-01-01 21:37:45 URL:http://seekonk-ma.gov/pages/moderator [53494] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/moderator" [1]
+2017-01-01 21:37:48 URL:http://seekonk-ma.gov/pages/SeekonkMA_Clerk/dog [36436] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_Clerk/dog" [1]
+http://seekonk-ma.gov/pages/Annual%20Budgets:
+Remote file does not exist -- broken link!!!
+2017-01-01 21:37:52 URL:http://seekonk-ma.gov/pages/businesslinks [35912] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/businesslinks" [1]
+2017-01-01 21:37:53 URL: http://seekonk-ma.gov/pages/SeekonkMA_Planning/subdivisionregs2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:37:53 URL: http://seekonk-ma.gov/pages/SeekonkMA_Assessors/fol.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:37:54 URL: http://seekonk-ma.gov/pages/SeekonkMA_Assessors/I&E.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:37:54 URL: http://seekonk-ma.gov/pages/SeekonkMA_Assessors/smallcomm.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:37:58 URL:http://seekonk-ma.gov/pages/Current%20Bids,%20RDP,%20and%20RFQ [32559] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/Current Bids, RDP, and RFQ" [1]
+2017-01-01 21:38:00 URL:http://seekonk-ma.gov/pages/SeekonkMA_News/ [36395] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_News" [1]
+2017-01-01 21:38:03 URL:http://seekonk-ma.gov/pages/SeekonkMA_News/02504588-000F8513 [32591] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_News/02504588-000F8513" [1]
+2017-01-01 21:38:04 URL:http://seekonk-ma.gov/pages/SeekonkMA_News/024F3B01-000F8513 [32612] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_News/024F3B01-000F8513" [1]
+2017-01-01 21:38:06 URL:http://seekonk-ma.gov/pages/SeekonkMA_News/015B8A64-000F8513 [32793] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_News/015B8A64-000F8513" [1]
+2017-01-01 21:38:07 URL:http://seekonk-ma.gov/pages/SeekonkMA_News/02354527-000F8513 [32932] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_News/02354527-000F8513" [1]
+2017-01-01 21:38:09 URL:http://seekonk-ma.gov/pages/SeekonkMA_News/025095EF-000F8513 [32543] -> "../data/townSites2/Seekonk/seekonk-ma.gov/pages/SeekonkMA_News/025095EF-000F8513" [1]
+2017-01-01 21:38:11 URL:http://seekonk-ma.gov/Pages/SeekonkMA_WebDocs/Disclaimer [33880] -> "../data/townSites2/Seekonk/seekonk-ma.gov/Pages/SeekonkMA_WebDocs/Disclaimer" [1]
+Found 1 broken link.
+
+http://seekonk-ma.gov/pages/Annual%20Budgets
+
+FINISHED --2017-01-01 21:38:11--
+Total wall clock time: 2m 31s
+Downloaded: 58 files, 2.4M in 1m 4s (39.1 KB/s)

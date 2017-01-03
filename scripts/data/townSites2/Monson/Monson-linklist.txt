@@ -1,0 +1,1063 @@
+2017-01-02 02:15:39 URL:http://www.monson-ma.gov/ [75890] -> "../data/townSites2/Monson/www.monson-ma.gov/index.html" [1]
+2017-01-02 02:15:40 URL: http://www.monson-ma.gov/sites/monsonma/themes/vts/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 02:15:41 URL:http://www.monson-ma.gov/home/pages/departments [34392] -> "../data/townSites2/Monson/www.monson-ma.gov/home/pages/departments" [1]
+2017-01-02 02:15:43 URL:http://www.monson-ma.gov/assessors-office [54078] -> "../data/townSites2/Monson/www.monson-ma.gov/assessors-office" [1]
+2017-01-02 02:15:45 URL:http://www.monson-ma.gov/board-health [61850] -> "../data/townSites2/Monson/www.monson-ma.gov/board-health" [1]
+2017-01-02 02:15:47 URL:http://www.monson-ma.gov/building-department-zoning-enforcement [54111] -> "../data/townSites2/Monson/www.monson-ma.gov/building-department-zoning-enforcement" [1]
+2017-01-02 02:15:49 URL:http://www.monson-ma.gov/cemetery-department [43113] -> "../data/townSites2/Monson/www.monson-ma.gov/cemetery-department" [1]
+2017-01-02 02:15:52 URL:http://www.monson-ma.gov/council-aging [59847] -> "../data/townSites2/Monson/www.monson-ma.gov/council-aging" [1]
+2017-01-02 02:15:54 URL:http://www.monson-ma.gov/emergency-management-director [38196] -> "../data/townSites2/Monson/www.monson-ma.gov/emergency-management-director" [1]
+2017-01-02 02:15:56 URL:http://www.monson-ma.gov/finance-director-town-accountant [50801] -> "../data/townSites2/Monson/www.monson-ma.gov/finance-director-town-accountant" [1]
+2017-01-02 02:15:58 URL:http://www.monson-ma.gov/fire-and-emergency-services [42895] -> "../data/townSites2/Monson/www.monson-ma.gov/fire-and-emergency-services" [1]
+2017-01-02 02:15:59 URL:http://www.monson-ma.gov/highway-department [41054] -> "../data/townSites2/Monson/www.monson-ma.gov/highway-department" [1]
+2017-01-02 02:16:01 URL:http://www.monson-ma.gov/library [38696] -> "../data/townSites2/Monson/www.monson-ma.gov/library" [1]
+2017-01-02 02:16:03 URL:http://www.monson-ma.gov/monson-public-schools [49242] -> "../data/townSites2/Monson/www.monson-ma.gov/monson-public-schools" [1]
+2017-01-02 02:16:05 URL:http://www.monson-ma.gov/parks-recreation-department [59817] -> "../data/townSites2/Monson/www.monson-ma.gov/parks-recreation-department" [1]
+2017-01-02 02:16:08 URL:http://www.monson-ma.gov/police-department [59981] -> "../data/townSites2/Monson/www.monson-ma.gov/police-department" [1]
+2017-01-02 02:16:10 URL:http://www.monson-ma.gov/board-selectmen [62965] -> "../data/townSites2/Monson/www.monson-ma.gov/board-selectmen" [1]
+2017-01-02 02:16:12 URL:http://www.monson-ma.gov/town-administrator [39639] -> "../data/townSites2/Monson/www.monson-ma.gov/town-administrator" [1]
+2017-01-02 02:16:14 URL:http://www.monson-ma.gov/town-clerk [56419] -> "../data/townSites2/Monson/www.monson-ma.gov/town-clerk" [1]
+2017-01-02 02:16:16 URL:http://www.monson-ma.gov/town-collector [53522] -> "../data/townSites2/Monson/www.monson-ma.gov/town-collector" [1]
+2017-01-02 02:16:18 URL:http://www.monson-ma.gov/town-planner [36134] -> "../data/townSites2/Monson/www.monson-ma.gov/town-planner" [1]
+2017-01-02 02:16:19 URL:http://www.monson-ma.gov/town-treasurer [38730] -> "../data/townSites2/Monson/www.monson-ma.gov/town-treasurer" [1]
+2017-01-02 02:16:20 URL:http://www.monson-ma.gov/veteran-services-department [37401] -> "../data/townSites2/Monson/www.monson-ma.gov/veteran-services-department" [1]
+2017-01-02 02:16:23 URL:http://www.monson-ma.gov/water-sewer-department [46782] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department" [1]
+2017-01-02 02:16:24 URL:http://www.monson-ma.gov/departments [45612] -> "../data/townSites2/Monson/www.monson-ma.gov/departments" [1]
+2017-01-02 02:16:25 URL:http://www.monson-ma.gov/home/pages/boards-committees [34038] -> "../data/townSites2/Monson/www.monson-ma.gov/home/pages/boards-committees" [1]
+2017-01-02 02:16:27 URL:http://www.monson-ma.gov/board-assessors [39610] -> "../data/townSites2/Monson/www.monson-ma.gov/board-assessors" [1]
+2017-01-02 02:16:29 URL:http://www.monson-ma.gov/cemetery-commission [48389] -> "../data/townSites2/Monson/www.monson-ma.gov/cemetery-commission" [1]
+2017-01-02 02:16:31 URL:http://www.monson-ma.gov/community-preservation [52235] -> "../data/townSites2/Monson/www.monson-ma.gov/community-preservation" [1]
+2017-01-02 02:16:33 URL:http://www.monson-ma.gov/conservation-commission [54431] -> "../data/townSites2/Monson/www.monson-ma.gov/conservation-commission" [1]
+2017-01-02 02:16:35 URL:http://www.monson-ma.gov/finance-committee [44043] -> "../data/townSites2/Monson/www.monson-ma.gov/finance-committee" [1]
+2017-01-02 02:16:37 URL:http://www.monson-ma.gov/historical-commission [41673] -> "../data/townSites2/Monson/www.monson-ma.gov/historical-commission" [1]
+2017-01-02 02:16:38 URL:http://www.keephomesteadmuseum.org/ [13587/13587] -> "../data/townSites2/Monson/www.monson-ma.gov/keep-homestead-museum-steering-committee" [1]
+2017-01-02 02:16:40 URL:http://www.monson-ma.gov/parks-recreation-commission [48905] -> "../data/townSites2/Monson/www.monson-ma.gov/parks-recreation-commission" [1]
+2017-01-02 02:16:42 URL:http://www.monson-ma.gov/planning-board [53222] -> "../data/townSites2/Monson/www.monson-ma.gov/planning-board" [1]
+2017-01-02 02:16:43 URL:http://www.monson-ma.gov/replanting-monson-tree-committee [50612] -> "../data/townSites2/Monson/www.monson-ma.gov/replanting-monson-tree-committee" [1]
+2017-01-02 02:16:45 URL:http://www.monson-ma.gov/school-committee [46553] -> "../data/townSites2/Monson/www.monson-ma.gov/school-committee" [1]
+2017-01-02 02:16:47 URL:http://www.monson-ma.gov/water-sewer-commission [51505] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-commission" [1]
+2017-01-02 02:16:49 URL:http://www.monson-ma.gov/zoning-board-appeals [53566] -> "../data/townSites2/Monson/www.monson-ma.gov/zoning-board-appeals" [1]
+2017-01-02 02:16:50 URL:http://www.monson-ma.gov/boards [39663] -> "../data/townSites2/Monson/www.monson-ma.gov/boards" [1]
+2017-01-02 02:16:52 URL:http://www.monson-ma.gov/minutes-and-agendas [32858] -> "../data/townSites2/Monson/www.monson-ma.gov/minutes-and-agendas" [1]
+2017-01-02 02:16:53 URL:http://www.monson-ma.gov/home/pages/community [36565] -> "../data/townSites2/Monson/www.monson-ma.gov/home/pages/community" [1]
+2017-01-02 02:16:54 URL:http://www.monson-ma.gov/home/pages/find-it-fast [33695] -> "../data/townSites2/Monson/www.monson-ma.gov/home/pages/find-it-fast" [1]
+2017-01-02 02:16:56 URL:http://www.monson-ma.gov/board-health/pages/applications-and-other-boh-forms [35772] -> "../data/townSites2/Monson/www.monson-ma.gov/board-health/pages/applications-and-other-boh-forms" [1]
+2017-01-02 02:16:57 URL:http://www.monson-ma.gov/building-department-zoning-enforcement/pages/applications [36404] -> "../data/townSites2/Monson/www.monson-ma.gov/building-department-zoning-enforcement/pages/applications" [1]
+2017-01-02 02:16:58 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/dog_licensing_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:59 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/memorial_hall_use_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:17:00 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/mvexciseabatement.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:17:01 URL:http://www.monson-ma.gov/town-clerk/pages/voter-information [39850] -> "../data/townSites2/Monson/www.monson-ma.gov/town-clerk/pages/voter-information" [1]
+2017-01-02 02:17:03 URL:http://www.monson-ma.gov/home/webforms/send-us-comments [40386/40386] -> "../data/townSites2/Monson/www.monson-ma.gov/home/webforms/send-us-comments" [1]
+2017-01-02 02:17:04 URL:http://www.monson-ma.gov/home/bulletins/report-issue [31381] -> "../data/townSites2/Monson/www.monson-ma.gov/home/bulletins/report-issue" [1]
+2017-01-02 02:17:06 URL:http://www.monson-ma.gov/subscribe [42918/42918] -> "../data/townSites2/Monson/www.monson-ma.gov/subscribe" [1]
+2017-01-02 02:17:07 URL:http://www.monson-ma.gov/home/pages/elections-town-meeting [30762] -> "../data/townSites2/Monson/www.monson-ma.gov/home/pages/elections-town-meeting" [1]
+2017-01-02 02:17:09 URL:http://www.monson-ma.gov/memorial-hall [51186] -> "../data/townSites2/Monson/www.monson-ma.gov/memorial-hall" [1]
+2017-01-02 02:17:11 URL:http://www.monson-ma.gov/home/pages/town-officials [78329] -> "../data/townSites2/Monson/www.monson-ma.gov/home/pages/town-officials" [1]
+2017-01-02 02:17:12 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/2016-2017_trash_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:17:13 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/zoning_map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:17:15 URL:http://www.monson-ma.gov/where [60291] -> "../data/townSites2/Monson/www.monson-ma.gov/where" [1]
+2017-01-02 02:17:16 URL:http://www.monson-ma.gov/visit-monson [46002] -> "../data/townSites2/Monson/www.monson-ma.gov/visit-monson" [1]
+2017-01-02 02:17:17 URL:http://www.monson-ma.gov/home/pages/public-information [30801] -> "../data/townSites2/Monson/www.monson-ma.gov/home/pages/public-information" [1]
+2017-01-02 02:17:19 URL:http://www.monson-ma.gov/home/pages/pay-bills-online [30524] -> "../data/townSites2/Monson/www.monson-ma.gov/home/pages/pay-bills-online" [1]
+2017-01-02 02:17:20 URL:http://www.monson-ma.gov/home/news/winter-parking-ban [30547] -> "../data/townSites2/Monson/www.monson-ma.gov/home/news/winter-parking-ban" [1]
+2017-01-02 02:17:21 URL:http://www.monson-ma.gov/home/news/second-annual-kids-monson-toy-drive [30834] -> "../data/townSites2/Monson/www.monson-ma.gov/home/news/second-annual-kids-monson-toy-drive" [1]
+2017-01-02 02:17:22 URL:http://www.monson-ma.gov/home/news/community-preservation-application-2017 [30953] -> "../data/townSites2/Monson/www.monson-ma.gov/home/news/community-preservation-application-2017" [1]
+2017-01-02 02:17:24 URL:http://www.monson-ma.gov/node/1/news [30141] -> "../data/townSites2/Monson/www.monson-ma.gov/node/1/news" [1]
+2017-01-02 02:17:26 URL:http://www.monson-ma.gov/calendar-by-event-type/20%2B17%2B19/day/2017-01-17 [34444] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/20+17+19/day/2017-01-17" [1]
+2017-01-02 02:17:27 URL:http://www.monson-ma.gov/memorial-hall/events/7283 [31466] -> "../data/townSites2/Monson/www.monson-ma.gov/memorial-hall/events/7283" [1]
+2017-01-02 02:17:29 URL:http://www.monson-ma.gov/calendar-by-event-type/20%2B17%2B19/day/2017-01-18 [34446] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/20+17+19/day/2017-01-18" [1]
+2017-01-02 02:17:30 URL:http://www.monson-ma.gov/calendar-by-event-type/20%2B17%2B19/day/2017-01-19 [34445] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/20+17+19/day/2017-01-19" [1]
+2017-01-02 02:17:31 URL:http://www.monson-ma.gov/calendar-by-event-type/20%2B17%2B19/day/2017-01-21 [34777] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/20+17+19/day/2017-01-21" [1]
+2017-01-02 02:17:32 URL:http://www.monson-ma.gov/memorial-hall/events/4183 [31299] -> "../data/townSites2/Monson/www.monson-ma.gov/memorial-hall/events/4183" [1]
+2017-01-02 02:17:34 URL:http://www.monson-ma.gov/memorial-hall/events/2303 [31239] -> "../data/townSites2/Monson/www.monson-ma.gov/memorial-hall/events/2303" [1]
+2017-01-02 02:17:35 URL:http://www.monson-ma.gov/calendar-by-event-type/20%2B17%2B19/day/2017-01-22 [34787] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/20+17+19/day/2017-01-22" [1]
+2017-01-02 02:17:36 URL:http://www.monson-ma.gov/memorial-hall/events/2313 [31261] -> "../data/townSites2/Monson/www.monson-ma.gov/memorial-hall/events/2313" [1]
+2017-01-02 02:17:37 URL:http://www.monson-ma.gov/memorial-hall/events/4203 [31482] -> "../data/townSites2/Monson/www.monson-ma.gov/memorial-hall/events/4203" [1]
+2017-01-02 02:17:39 URL:http://www.monson-ma.gov/calendar-by-event-type/20%2B17%2B19/day/2017-01-24 [34444] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/20+17+19/day/2017-01-24" [1]
+2017-01-02 02:17:40 URL:http://www.monson-ma.gov/memorial-hall/events/7293 [31465] -> "../data/townSites2/Monson/www.monson-ma.gov/memorial-hall/events/7293" [1]
+2017-01-02 02:17:41 URL:http://www.monson-ma.gov/calendar-by-event-type/20%2B17%2B19/day/2017-01-25 [34446] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/20+17+19/day/2017-01-25" [1]
+2017-01-02 02:17:43 URL:http://www.monson-ma.gov/calendar-by-event-type/20%2B17%2B19/day/2017-01-26 [34445] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/20+17+19/day/2017-01-26" [1]
+2017-01-02 02:17:45 URL:http://www.monson-ma.gov/calendar-by-event-type/20%2B17%2B19/day/2017-01-27 [34448] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/20+17+19/day/2017-01-27" [1]
+2017-01-02 02:17:46 URL:http://www.monson-ma.gov/memorial-hall/events/7183 [31500] -> "../data/townSites2/Monson/www.monson-ma.gov/memorial-hall/events/7183" [1]
+2017-01-02 02:17:47 URL:http://www.monson-ma.gov/calendar-by-event-type/20%2B17%2B19/day/2017-01-28 [34450] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/20+17+19/day/2017-01-28" [1]
+2017-01-02 02:17:49 URL:http://www.monson-ma.gov/calendar-by-event-type/20%2B17%2B19/month [87402] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/20+17+19/month" [1]
+2017-01-02 02:17:50 URL:http://www.monson-ma.gov/calendar-by-event-type/16/day/2017-01-04 [34649] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/16/day/2017-01-04" [1]
+2017-01-02 02:17:52 URL:http://www.monson-ma.gov/monson-public-schools/events/7983 [36936] -> "../data/townSites2/Monson/www.monson-ma.gov/monson-public-schools/events/7983" [1]
+2017-01-02 02:17:53 URL:http://www.monson-ma.gov/monson-public-schools/events/8003 [36844] -> "../data/townSites2/Monson/www.monson-ma.gov/monson-public-schools/events/8003" [1]
+2017-01-02 02:17:55 URL:http://www.monson-ma.gov/calendar-by-event-type/16/day/2017-01-05 [34980] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/16/day/2017-01-05" [1]
+2017-01-02 02:17:56 URL:http://www.monson-ma.gov/home/events/8083 [31561] -> "../data/townSites2/Monson/www.monson-ma.gov/home/events/8083" [1]
+2017-01-02 02:17:57 URL:http://www.monson-ma.gov/cemetery-commission/events/6963 [31439] -> "../data/townSites2/Monson/www.monson-ma.gov/cemetery-commission/events/6963" [1]
+2017-01-02 02:17:59 URL:http://www.monson-ma.gov/cemetery-commission/events/8043 [31439] -> "../data/townSites2/Monson/www.monson-ma.gov/cemetery-commission/events/8043" [1]
+2017-01-02 02:18:00 URL:http://www.monson-ma.gov/calendar-by-event-type/16/day/2017-01-11 [34605] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/16/day/2017-01-11" [1]
+2017-01-02 02:18:01 URL:http://www.monson-ma.gov/board-health/events/7953 [38288] -> "../data/townSites2/Monson/www.monson-ma.gov/board-health/events/7953" [1]
+2017-01-02 02:18:03 URL:http://www.monson-ma.gov/home/events/2883 [31307] -> "../data/townSites2/Monson/www.monson-ma.gov/home/events/2883" [1]
+2017-01-02 02:18:04 URL:http://www.monson-ma.gov/calendar-by-event-type/16/day/2017-01-18 [34268] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/16/day/2017-01-18" [1]
+2017-01-02 02:18:05 URL:http://www.monson-ma.gov/conservation-commission/events/8053 [34228] -> "../data/townSites2/Monson/www.monson-ma.gov/conservation-commission/events/8053" [1]
+2017-01-02 02:18:07 URL:http://www.monson-ma.gov/calendar-by-event-type/16/day/2017-01-26 [34475] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/16/day/2017-01-26" [1]
+2017-01-02 02:18:08 URL:http://www.monson-ma.gov/monson-public-schools/events/7693 [34210] -> "../data/townSites2/Monson/www.monson-ma.gov/monson-public-schools/events/7693" [1]
+2017-01-02 02:18:10 URL:http://www.monson-ma.gov/calendar-by-event-type/16/month [89541] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/16/month" [1]
+2017-01-02 02:18:11 URL:http://www.monson-ma.gov/home/pages/hours [37340] -> "../data/townSites2/Monson/www.monson-ma.gov/home/pages/hours" [1]
+2017-01-02 02:18:12 URL:http://www.monson-ma.gov/home/pages/online-services [31359] -> "../data/townSites2/Monson/www.monson-ma.gov/home/pages/online-services" [1]
+2017-01-02 02:18:15 URL:http://www.monson-ma.gov/files [57106] -> "../data/townSites2/Monson/www.monson-ma.gov/files" [1]
+2017-01-02 02:18:16 URL:http://www.monson-ma.gov/parks-recreation-department/pages/parks-and-playgrounds [36487] -> "../data/townSites2/Monson/www.monson-ma.gov/parks-recreation-department/pages/parks-and-playgrounds" [1]
+2017-01-02 02:18:18 URL:http://www.monson-ma.gov/home/pages/public-safety [31039] -> "../data/townSites2/Monson/www.monson-ma.gov/home/pages/public-safety" [1]
+2017-01-02 02:18:19 URL:http://www.monson-ma.gov/home/pages/privacy-statement [37893] -> "../data/townSites2/Monson/www.monson-ma.gov/home/pages/privacy-statement" [1]
+2017-01-02 02:18:20 URL:http://www.monson-ma.gov/home/pages/departments [34392] -> "../data/townSites2/Monson/www.monson-ma.gov/node/4723" [1]
+2017-01-02 02:18:21 URL:http://www.monson-ma.gov/print/4723 [10291] -> "../data/townSites2/Monson/www.monson-ma.gov/print/4723" [1]
+2017-01-02 02:18:22 URL:http://www.monson-ma.gov/assessors-office [54078] -> "../data/townSites2/Monson/www.monson-ma.gov/node/16" [1]
+2017-01-02 02:18:23 URL:http://www.monson-ma.gov/print/16 [13297] -> "../data/townSites2/Monson/www.monson-ma.gov/print/16" [1]
+2017-01-02 02:18:25 URL:http://www.monson-ma.gov/user/48/contact [32779] -> "../data/townSites2/Monson/www.monson-ma.gov/user/48/contact" [1]
+2017-01-02 02:18:26 URL:http://www.monson-ma.gov/user/49/contact [32789] -> "../data/townSites2/Monson/www.monson-ma.gov/user/49/contact" [1]
+2017-01-02 02:18:27 URL:http://www.monson-ma.gov/board-assessors [39610] -> "../data/townSites2/Monson/www.monson-ma.gov/assessors-office/links/board-assessors" [1]
+2017-01-02 02:18:29 URL:http://www.monson-ma.gov/assessors-office/pages/chapter-land-faqs [34828] -> "../data/townSites2/Monson/www.monson-ma.gov/assessors-office/pages/chapter-land-faqs" [1]
+2017-01-02 02:18:30 URL:http://www.mass.gov/dor/local-officials/ [41639] -> "../data/townSites2/Monson/www.monson-ma.gov/assessors-office/links/department-revenue" [1]
+2017-01-02 02:18:32 URL:http://www.monson-ma.gov/assessors-office/pages/downloadable-forms [35722] -> "../data/townSites2/Monson/www.monson-ma.gov/assessors-office/pages/downloadable-forms" [1]
+2017-01-02 02:18:33 URL:http://hosting.tighebond.com/Monson/Default.html [33139/33139] -> "../data/townSites2/Monson/www.monson-ma.gov/assessors-office/links/gis-maps-and-property-record-cards" [1]
+2017-01-02 02:18:35 URL:http://www.registryofdeeds.co.hampden.ma.us/ [8997/8997] -> "../data/townSites2/Monson/www.monson-ma.gov/assessors-office/links/hampden-county-registry-deeds" [1]
+2017-01-02 02:18:36 URL:http://www.mass.gov/anf/hearings-and-appeals/tax-appeals-process/forms-and-instructions/ [126305] -> "../data/townSites2/Monson/www.monson-ma.gov/assessors-office/links/link-appellate-tax-board" [1]
+2017-01-02 02:18:38 URL:https://netforum.avectra.com/eWeb/StartPage.aspx?Site=MAAO&WebCode=HomePage [29656/29656] -> "../data/townSites2/Monson/www.monson-ma.gov/assessors-office/links/massachusetts-association-assessing-officers" [1]
+2017-01-02 02:18:39 URL:http://www.mass.gov/portal/ [66165] -> "../data/townSites2/Monson/www.monson-ma.gov/assessors-office/links/registry-motor-vehicles" [1]
+2017-01-02 02:18:40 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/the_role_of_the_assessor.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:18:41 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/understanding_the_process.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:18:42 URL:http://www.monson-ma.gov/node/16/faq [32307] -> "../data/townSites2/Monson/www.monson-ma.gov/node/16/faq" [1]
+2017-01-02 02:18:43 URL:http://www.monson-ma.gov/assessors-office/faq/what-market-value-and-who-determines-my-property-value [35255] -> "../data/townSites2/Monson/www.monson-ma.gov/assessors-office/faq/what-market-value-and-who-determines-my-property-value" [1]
+2017-01-02 02:18:44 URL:http://www.monson-ma.gov/assessors-office/faq/how-will-i-know-if-my-assessment-equitable [35263] -> "../data/townSites2/Monson/www.monson-ma.gov/assessors-office/faq/how-will-i-know-if-my-assessment-equitable" [1]
+2017-01-02 02:18:46 URL:http://www.monson-ma.gov/assessors-office/faq/why-are-taxes-%E2%80%9Cactual%E2%80%9D-bill-different-%E2%80%9Cpreliminary%E2%80%9D-bill [35078] -> "../data/townSites2/Monson/www.monson-ma.gov/assessors-office/faq/why-are-taxes-â%80%9Cactualâ%80%9D-bill-different-â%80%9Cpreliminaryâ%80%9D-bill" [1]
+2017-01-02 02:18:47 URL:http://www.monson-ma.gov/assessors-office/faq/why-did-my-taxes-go-higher-my-neighbors [34875] -> "../data/townSites2/Monson/www.monson-ma.gov/assessors-office/faq/why-did-my-taxes-go-higher-my-neighbors" [1]
+2017-01-02 02:18:49 URL:http://www.monson-ma.gov/assessors-office/faq/why-wasn%E2%80%99t-there-value-my-first-tax-mailing [35122] -> "../data/townSites2/Monson/www.monson-ma.gov/assessors-office/faq/why-wasnâ%80%99t-there-value-my-first-tax-mailing" [1]
+2017-01-02 02:18:50 URL:http://www.monson-ma.gov/news [31127] -> "../data/townSites2/Monson/www.monson-ma.gov/news" [1]
+2017-01-02 02:18:51 URL:http://www.monson-ma.gov/home/news/official-presidentialgeneral-election-results [30577] -> "../data/townSites2/Monson/www.monson-ma.gov/home/news/official-presidentialgeneral-election-results" [1]
+2017-01-02 02:18:52 URL:http://www.monson-ma.gov/home/news/special-town-meeting-warrant-fincomm-recommendations [30858] -> "../data/townSites2/Monson/www.monson-ma.gov/home/news/special-town-meeting-warrant-fincomm-recommendations" [1]
+2017-01-02 02:18:54 URL:http://www.monson-ma.gov/node/16/events/month [50477] -> "../data/townSites2/Monson/www.monson-ma.gov/node/16/events/month" [1]
+2017-01-02 02:18:55 URL:http://www.monson-ma.gov/node/16/events/month/2017-01 [50534] -> "../data/townSites2/Monson/www.monson-ma.gov/node/16/events/month/2017-01" [1]
+2017-01-02 02:18:56 URL:http://www.monson-ma.gov/board-health [61850] -> "../data/townSites2/Monson/www.monson-ma.gov/node/17" [1]
+2017-01-02 02:18:57 URL:http://www.monson-ma.gov/print/17 [16452] -> "../data/townSites2/Monson/www.monson-ma.gov/print/17" [1]
+2017-01-02 02:18:59 URL:http://www.monson-ma.gov/user/50/contact [32829] -> "../data/townSites2/Monson/www.monson-ma.gov/user/50/contact" [1]
+2017-01-02 02:19:00 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/2015_town_report_of_the_monson_board_of_health.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:19:01 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/application_for_trash_abatement_or_exemption.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:19:02 URL:https://www.fema.gov/ [34633] -> "../data/townSites2/Monson/www.monson-ma.gov/board-health/links/federal-emergency-management-agency-fema" [1]
+2017-01-02 02:19:03 URL:http://www.monson-ma.gov/board-health/pages/floor-drain-regulations [45687] -> "../data/townSites2/Monson/www.monson-ma.gov/board-health/pages/floor-drain-regulations" [1]
+2017-01-02 02:19:05 URL:http://www.mass.gov/portal/global-a-z-list.html [183909] -> "../data/townSites2/Monson/www.monson-ma.gov/board-health/links/massachusetts-department-public-health" [1]
+2017-01-02 02:19:06 URL:http://www.mass.gov/portal/ [66165] -> "../data/townSites2/Monson/www.monson-ma.gov/board-health/links/massachusetts-emergency-management-agency-mema" [1]
+2017-01-02 02:19:08 URL:http://www.monson-ma.gov/board-health/pages/medical-reserve-corps-links [34908] -> "../data/townSites2/Monson/www.monson-ma.gov/board-health/pages/medical-reserve-corps-links" [1]
+2017-01-02 02:19:08 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/new_bulky_day_guidelines.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:19:10 URL:http://www.monson-ma.gov/board-health/pages/outdoor-hydronic-heaters [35864] -> "../data/townSites2/Monson/www.monson-ma.gov/board-health/pages/outdoor-hydronic-heaters" [1]
+2017-01-02 02:19:12 URL:http://www.ngwa.org/Pages/default.aspx [89336/89336] -> "../data/townSites2/Monson/www.monson-ma.gov/board-health/links/private-well-owner-information" [1]
+2017-01-02 02:19:13 URL:http://helpline-online.com/ [42100] -> "../data/townSites2/Monson/www.monson-ma.gov/board-health/links/substance-abuse-hotline" [1]
+2017-01-02 02:19:15 URL:http://www.monson-ma.gov/node/17/events/month [54436] -> "../data/townSites2/Monson/www.monson-ma.gov/node/17/events/month" [1]
+2017-01-02 02:19:16 URL:http://www.monson-ma.gov/node/17/events/day/2017-01-11 [33862] -> "../data/townSites2/Monson/www.monson-ma.gov/node/17/events/day/2017-01-11" [1]
+2017-01-02 02:19:18 URL:http://www.monson-ma.gov/node/17/events/month/2017-01 [54493] -> "../data/townSites2/Monson/www.monson-ma.gov/node/17/events/month/2017-01" [1]
+2017-01-02 02:19:19 URL:http://www.monson-ma.gov/node/17/agenda [30814] -> "../data/townSites2/Monson/www.monson-ma.gov/node/17/agenda" [1]
+2017-01-02 02:19:20 URL:http://www.monson-ma.gov/board-health/agenda/agenda-january-11-2017 [35939] -> "../data/townSites2/Monson/www.monson-ma.gov/board-health/agenda/agenda-january-11-2017" [1]
+2017-01-02 02:19:22 URL:http://www.monson-ma.gov/board-health/agenda/monson-board-health [35619] -> "../data/townSites2/Monson/www.monson-ma.gov/board-health/agenda/monson-board-health" [1]
+2017-01-02 02:19:23 URL:http://www.monson-ma.gov/board-health/agenda/agenda-december-14-2016 [35854] -> "../data/townSites2/Monson/www.monson-ma.gov/board-health/agenda/agenda-december-14-2016" [1]
+2017-01-02 02:19:25 URL:http://www.monson-ma.gov/board-health/agenda/agenda-november-9-2016 [35939] -> "../data/townSites2/Monson/www.monson-ma.gov/board-health/agenda/agenda-november-9-2016" [1]
+2017-01-02 02:19:26 URL:http://www.monson-ma.gov/board-health/agenda/agenda-2 [35296] -> "../data/townSites2/Monson/www.monson-ma.gov/board-health/agenda/agenda-2" [1]
+2017-01-02 02:19:27 URL:http://www.monson-ma.gov/node/17/minutes [30756] -> "../data/townSites2/Monson/www.monson-ma.gov/node/17/minutes" [1]
+2017-01-02 02:19:28 URL:http://www.monson-ma.gov/board-health/minutes/minutes-november-9-2016 [40481] -> "../data/townSites2/Monson/www.monson-ma.gov/board-health/minutes/minutes-november-9-2016" [1]
+2017-01-02 02:19:30 URL:http://www.monson-ma.gov/board-health/minutes/minutes-october-26-2016 [40671] -> "../data/townSites2/Monson/www.monson-ma.gov/board-health/minutes/minutes-october-26-2016" [1]
+2017-01-02 02:19:31 URL:http://www.monson-ma.gov/board-health/minutes/minutes-october-12-2016 [40306] -> "../data/townSites2/Monson/www.monson-ma.gov/board-health/minutes/minutes-october-12-2016" [1]
+2017-01-02 02:19:32 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/minutes_of_2016_9-14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:19:33 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/minutes_of_2016_8-31.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:19:34 URL:http://www.monson-ma.gov/building-department-zoning-enforcement [54111] -> "../data/townSites2/Monson/www.monson-ma.gov/node/18" [1]
+2017-01-02 02:19:35 URL:http://www.monson-ma.gov/print/18 [8941] -> "../data/townSites2/Monson/www.monson-ma.gov/print/18" [1]
+2017-01-02 02:19:37 URL:http://www.monson-ma.gov/user/403/contact [32784] -> "../data/townSites2/Monson/www.monson-ma.gov/user/403/contact" [1]
+2017-01-02 02:19:38 URL:http://www.monson-ma.gov/user/28/contact [32771] -> "../data/townSites2/Monson/www.monson-ma.gov/user/28/contact" [1]
+2017-01-02 02:19:40 URL:http://www.monson-ma.gov/user/58/contact [32799] -> "../data/townSites2/Monson/www.monson-ma.gov/user/58/contact" [1]
+2017-01-02 02:19:41 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/building_permit_fee_schedule.pdf 200 OK
+unlink: No such file or directory
+http://www.mass.gov/eopss/consumer-prot-and-bus-lic/license-type/csl/construction-control.html:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:19:43 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/fee_schedule_plumbing_electrical_gas.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:19:44 URL:http://www.monson-ma.gov/building-department-zoning-enforcement/pages/links-mass-state-building-codes [34983] -> "../data/townSites2/Monson/www.monson-ma.gov/building-department-zoning-enforcement/pages/links-mass-state-building-codes" [1]
+2017-01-02 02:19:45 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/monson_zoning_bylaws.pdf 200 OK
+unlink: No such file or directory
+failed: Operation timed out.
+failed: Operation timed out.
+2017-01-02 02:24:58 URL:http://www.awc.org/codes-standards/publications/dca6 [55354/55354] -> "../data/townSites2/Monson/www.monson-ma.gov/building-department-zoning-enforcement/links/new-deck-construction-details" [1]
+2017-01-02 02:25:00 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/requirements_for_new_residential_construction.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:25:01 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/subdivision_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:25:04 URL:http://www.monson-ma.gov/node/18/events/month [50605] -> "../data/townSites2/Monson/www.monson-ma.gov/node/18/events/month" [1]
+2017-01-02 02:25:05 URL:http://www.monson-ma.gov/node/18/events/month/2017-01 [50662] -> "../data/townSites2/Monson/www.monson-ma.gov/node/18/events/month/2017-01" [1]
+2017-01-02 02:25:07 URL:http://www.monson-ma.gov/node/18/agenda [30562] -> "../data/townSites2/Monson/www.monson-ma.gov/node/18/agenda" [1]
+2017-01-02 02:25:10 URL:http://www.monson-ma.gov/building-department-zoning-enforcement/agenda/monson-planning-board-0 [35761] -> "../data/townSites2/Monson/www.monson-ma.gov/building-department-zoning-enforcement/agenda/monson-planning-board-0" [1]
+2017-01-02 02:25:12 URL:http://www.monson-ma.gov/cemetery-department [43113] -> "../data/townSites2/Monson/www.monson-ma.gov/node/19" [1]
+2017-01-02 02:25:14 URL:http://www.monson-ma.gov/print/19 [13873] -> "../data/townSites2/Monson/www.monson-ma.gov/print/19" [1]
+2017-01-02 02:25:17 URL:http://www.monson-ma.gov/user/45/contact [32785] -> "../data/townSites2/Monson/www.monson-ma.gov/user/45/contact" [1]
+2017-01-02 02:25:19 URL:http://www.monson-ma.gov/user/36/contact [32789] -> "../data/townSites2/Monson/www.monson-ma.gov/user/36/contact" [1]
+2017-01-02 02:25:22 URL:http://www.monson-ma.gov/cemetery-department/pages/burials [34723] -> "../data/townSites2/Monson/www.monson-ma.gov/cemetery-department/pages/burials" [1]
+2017-01-02 02:25:24 URL:http://www.monson-ma.gov/cemetery-department/pages/cemetery-maps [33956] -> "../data/townSites2/Monson/www.monson-ma.gov/cemetery-department/pages/cemetery-maps" [1]
+2017-01-02 02:25:24 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/cemetery_price_list.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:25:27 URL:http://www.monson-ma.gov/cemetery-department/pages/monson-cemeteries-history [35994] -> "../data/townSites2/Monson/www.monson-ma.gov/cemetery-department/pages/monson-cemeteries-history" [1]
+2017-01-02 02:25:28 URL:http://www.monson-ma.gov/cemetery-department/pages/removal-winter-and-summer-decorations [34205] -> "../data/townSites2/Monson/www.monson-ma.gov/cemetery-department/pages/removal-winter-and-summer-decorations" [1]
+2017-01-02 02:25:30 URL:http://www.monson-ma.gov/cemetery-department/pages/rules-and-regulations [53719] -> "../data/townSites2/Monson/www.monson-ma.gov/cemetery-department/pages/rules-and-regulations" [1]
+2017-01-02 02:25:32 URL:http://www.monson-ma.gov/council-aging [59847] -> "../data/townSites2/Monson/www.monson-ma.gov/node/20" [1]
+2017-01-02 02:25:34 URL:http://www.monson-ma.gov/print/20 [18084] -> "../data/townSites2/Monson/www.monson-ma.gov/print/20" [1]
+2017-01-02 02:25:36 URL:http://www.monson-ma.gov/user/73/contact [32777] -> "../data/townSites2/Monson/www.monson-ma.gov/user/73/contact" [1]
+2017-01-02 02:25:38 URL:http://www.monson-ma.gov/user/74/contact [32803] -> "../data/townSites2/Monson/www.monson-ma.gov/user/74/contact" [1]
+2017-01-02 02:25:40 URL:http://www.monson-ma.gov/user/66/contact [32833] -> "../data/townSites2/Monson/www.monson-ma.gov/user/66/contact" [1]
+2017-01-02 02:25:41 URL:http://www.monson-ma.gov/council-aging/pages/activities [37331] -> "../data/townSites2/Monson/www.monson-ma.gov/council-aging/pages/activities" [1]
+2017-01-02 02:25:43 URL:http://www.monson-ma.gov/council-aging/pages/coa-announcements-updates [37448] -> "../data/townSites2/Monson/www.monson-ma.gov/council-aging/pages/coa-announcements-updates" [1]
+2017-01-02 02:25:45 URL:http://www.monson-ma.gov/council-aging/pages/community-resources [40919] -> "../data/townSites2/Monson/www.monson-ma.gov/council-aging/pages/community-resources" [1]
+2017-01-02 02:25:47 URL:http://www.monson-ma.gov/council-aging/pages/health-services [36950] -> "../data/townSites2/Monson/www.monson-ma.gov/council-aging/pages/health-services" [1]
+2017-01-02 02:25:48 URL:http://www.monson-ma.gov/council-aging/pages/human-services [40086] -> "../data/townSites2/Monson/www.monson-ma.gov/council-aging/pages/human-services" [1]
+2017-01-02 02:25:52 URL:https://www.800ageinfo.com/LCNet/ControlPanel/Security.aspx?CookiesNotAllowed=3kfVe2-9 [8815/8815] -> "../data/townSites2/Monson/www.monson-ma.gov/council-aging/links/mass-executive-office-elder-affairs" [1]
+2017-01-02 02:25:55 URL:https://www.ourseniorcenter.com/find/monson-senior-center [44680] -> "../data/townSites2/Monson/www.monson-ma.gov/council-aging/links/newsletters" [1]
+2017-01-02 02:25:57 URL:http://www.monson-ma.gov/council-aging/pages/nutrition-program [36594] -> "../data/townSites2/Monson/www.monson-ma.gov/council-aging/pages/nutrition-program" [1]
+2017-01-02 02:25:58 URL:http://www.monson-ma.gov/council-aging/pages/programs [35654] -> "../data/townSites2/Monson/www.monson-ma.gov/council-aging/pages/programs" [1]
+2017-01-02 02:26:00 URL:http://www.monson-ma.gov/council-aging/pages/safety [35147] -> "../data/townSites2/Monson/www.monson-ma.gov/council-aging/pages/safety" [1]
+2017-01-02 02:26:03 URL:http://www.monson-ma.gov/council-aging/pages/speakers-corner [34211] -> "../data/townSites2/Monson/www.monson-ma.gov/council-aging/pages/speakers-corner" [1]
+2017-01-02 02:26:05 URL:http://www.monson-ma.gov/council-aging/pages/transportation [36624] -> "../data/townSites2/Monson/www.monson-ma.gov/council-aging/pages/transportation" [1]
+2017-01-02 02:26:07 URL:http://www.monson-ma.gov/council-aging/pages/volunteer-opportunities [37630] -> "../data/townSites2/Monson/www.monson-ma.gov/council-aging/pages/volunteer-opportunities" [1]
+2017-01-02 02:26:10 URL:http://www.monson-ma.gov/node/20/events/month [50351] -> "../data/townSites2/Monson/www.monson-ma.gov/node/20/events/month" [1]
+2017-01-02 02:26:12 URL:http://www.monson-ma.gov/node/20/events/month/2017-01 [50408] -> "../data/townSites2/Monson/www.monson-ma.gov/node/20/events/month/2017-01" [1]
+2017-01-02 02:26:13 URL:http://www.monson-ma.gov/emergency-management-director [38196] -> "../data/townSites2/Monson/www.monson-ma.gov/node/21" [1]
+2017-01-02 02:26:14 URL:http://www.monson-ma.gov/print/21 [8169] -> "../data/townSites2/Monson/www.monson-ma.gov/print/21" [1]
+2017-01-02 02:26:16 URL:http://www.cdc.gov/ [64483/64483] -> "../data/townSites2/Monson/www.monson-ma.gov/emergency-management-director/links/centers-disease-control" [1]
+2017-01-02 02:26:18 URL:https://www.fema.gov/ [34633] -> "../data/townSites2/Monson/www.monson-ma.gov/emergency-management-director/links/federal-emergency-management-agency-fema" [1]
+2017-01-02 02:26:19 URL:https://www.ready.gov/ [34570] -> "../data/townSites2/Monson/www.monson-ma.gov/emergency-management-director/links/homeland-security" [1]
+2017-01-02 02:26:21 URL:http://www.mass.gov/eohhs/gov/departments/dph/ [51312] -> "../data/townSites2/Monson/www.monson-ma.gov/emergency-management-director/links/ma-dept-public-health" [1]
+2017-01-02 02:26:22 URL:http://www.mass.gov/portal/ [66165] -> "../data/townSites2/Monson/www.monson-ma.gov/emergency-management-director/links/massachusetts-emergency-management-agency-mema" [1]
+2017-01-02 02:26:24 URL:http://www.noaa.gov/ [54907] -> "../data/townSites2/Monson/www.monson-ma.gov/emergency-management-director/links/noaa-national-weather-service" [1]
+2017-01-02 02:26:29 URL:https://www.youtube.com/user/NationalGrid [461994] -> "../data/townSites2/Monson/www.monson-ma.gov/emergency-management-director/links/national-grid-power-outages" [1]
+2017-01-02 02:26:31 URL:http://www.cdc.gov/flu/ [86825/86825] -> "../data/townSites2/Monson/www.monson-ma.gov/emergency-management-director/links/pandemicflugov" [1]
+2017-01-02 02:26:37 URL:http://wmmrc.org/ [35621] -> "../data/townSites2/Monson/www.monson-ma.gov/emergency-management-director/links/western-ma-medical-reserve-corp" [1]
+2017-01-02 02:26:38 URL:http://www.monson-ma.gov/finance-director-town-accountant [50801] -> "../data/townSites2/Monson/www.monson-ma.gov/node/22" [1]
+2017-01-02 02:26:39 URL:http://www.monson-ma.gov/print/22 [12110] -> "../data/townSites2/Monson/www.monson-ma.gov/print/22" [1]
+2017-01-02 02:26:41 URL:http://www.monson-ma.gov/user/35/contact [32801] -> "../data/townSites2/Monson/www.monson-ma.gov/user/35/contact" [1]
+2017-01-02 02:26:42 URL:http://www.monson-ma.gov/user/61/contact [32785] -> "../data/townSites2/Monson/www.monson-ma.gov/user/61/contact" [1]
+2017-01-02 02:26:46 URL:http://www.monson-ma.gov/user/62/contact [32803] -> "../data/townSites2/Monson/www.monson-ma.gov/user/62/contact" [1]
+2017-01-02 02:26:48 URL:http://www.monson-ma.gov/board-assessors [39610] -> "../data/townSites2/Monson/www.monson-ma.gov/finance-director-town-accountant/links/board-assessors" [1]
+2017-01-02 02:26:49 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/fiscal_2015_budget.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:51 URL:http://www.mass.gov/dor/local-officials/ [41639] -> "../data/townSites2/Monson/www.monson-ma.gov/finance-director-town-accountant/links/massachusetts-department-revenue" [1]
+2017-01-02 02:26:53 URL:http://www.monson-ma.gov/town-collector [53522] -> "../data/townSites2/Monson/www.monson-ma.gov/finance-director-town-accountant/links/town-collector" [1]
+2017-01-02 02:26:54 URL:http://www.monson-ma.gov/town-treasurer [38730] -> "../data/townSites2/Monson/www.monson-ma.gov/finance-director-town-accountant/links/town-treasurer" [1]
+2017-01-02 02:26:56 URL:http://www.monson-ma.gov/node/22/events/month [49619] -> "../data/townSites2/Monson/www.monson-ma.gov/node/22/events/month" [1]
+2017-01-02 02:26:58 URL:http://www.monson-ma.gov/node/22/events/month/2017-01 [49676] -> "../data/townSites2/Monson/www.monson-ma.gov/node/22/events/month/2017-01" [1]
+2017-01-02 02:26:59 URL:http://www.monson-ma.gov/node/22/agenda [29588] -> "../data/townSites2/Monson/www.monson-ma.gov/node/22/agenda" [1]
+2017-01-02 02:27:00 URL: http://www.monson-ma.gov/sites/monsonma/files/agendas/fincomagenda_11-1-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:01 URL:http://www.monson-ma.gov/fire-and-emergency-services [42895] -> "../data/townSites2/Monson/www.monson-ma.gov/node/25" [1]
+2017-01-02 02:27:02 URL:http://www.monson-ma.gov/print/25 [10019] -> "../data/townSites2/Monson/www.monson-ma.gov/print/25" [1]
+2017-01-02 02:27:04 URL:http://www.monson-ma.gov/user/30/contact [32813] -> "../data/townSites2/Monson/www.monson-ma.gov/user/30/contact" [1]
+2017-01-02 02:27:06 URL:http://www.monson-ma.gov/user/31/contact [32799] -> "../data/townSites2/Monson/www.monson-ma.gov/user/31/contact" [1]
+2017-01-02 02:27:09 URL:http://www.monson-ma.gov/user/32/contact [32793] -> "../data/townSites2/Monson/www.monson-ma.gov/user/32/contact" [1]
+2017-01-02 02:27:11 URL:http://www.monson-ma.gov/user/33/contact [32787] -> "../data/townSites2/Monson/www.monson-ma.gov/user/33/contact" [1]
+2017-01-02 02:27:13 URL:http://www.monson-ma.gov/fire-department/pages/ambulance-billing-information [36900] -> "../data/townSites2/Monson/www.monson-ma.gov/fire-department/pages/ambulance-billing-information" [1]
+2017-01-02 02:27:16 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/ambulance_subscription_service_enrollment_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:18 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/annual_training_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:19 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/carbon_monoxide_co_fire_safety_info.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:20 URL:http://www.monson-ma.gov/fire-department/pages/customer-service-satisfaction-survey [38244] -> "../data/townSites2/Monson/www.monson-ma.gov/fire-department/pages/customer-service-satisfaction-survey" [1]
+2017-01-02 02:27:22 URL:https://www.mapquest.com/us/ma/monson/01057-1316/200-main-st-rear-42.095972,-72.312537 [22362/22362] -> "../data/townSites2/Monson/www.monson-ma.gov/fire-department/links/directions-fire-headquarters" [1]
+2017-01-02 02:27:24 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/monson_fd_job_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:26 URL:http://www.monson-ma.gov/fire-department/pages/employment-opportunities [38635] -> "../data/townSites2/Monson/www.monson-ma.gov/fire-department/pages/employment-opportunities" [1]
+2017-01-02 02:27:28 URL:http://www.monson-ma.gov/fire-department/pages/fire-prevention-and-life-safety [38226] -> "../data/townSites2/Monson/www.monson-ma.gov/fire-department/pages/fire-prevention-and-life-safety" [1]
+2017-01-02 02:27:30 URL:http://www.monson-ma.gov/fire-department/pages/hot-shots [36605] -> "../data/townSites2/Monson/www.monson-ma.gov/fire-department/pages/hot-shots" [1]
+2017-01-02 02:27:33 URL:http://www.broadcastify.com/listen/feed/6273/web [6502] -> "../data/townSites2/Monson/www.monson-ma.gov/fire-department/links/live-scanner-feed" [1]
+2017-01-02 02:27:34 URL:http://www.monson-ma.gov/fire-department/pages/message-fire-chief [37469] -> "../data/townSites2/Monson/www.monson-ma.gov/fire-department/pages/message-fire-chief" [1]
+2017-01-02 02:27:35 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/monthly_fire_log.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:37 URL:http://www.monson-ma.gov/fire-department/pages/open-burning-season-information [40571] -> "../data/townSites2/Monson/www.monson-ma.gov/fire-department/pages/open-burning-season-information" [1]
+2017-01-02 02:27:38 URL:http://www.monson-ma.gov/fire-department/pages/permit-fee-schedule [37830] -> "../data/townSites2/Monson/www.monson-ma.gov/fire-department/pages/permit-fee-schedule" [1]
+2017-01-02 02:27:40 URL:http://www.monson-ma.gov/highway-department [41054] -> "../data/townSites2/Monson/www.monson-ma.gov/node/23" [1]
+2017-01-02 02:27:41 URL:http://www.monson-ma.gov/print/23 [10144] -> "../data/townSites2/Monson/www.monson-ma.gov/print/23" [1]
+2017-01-02 02:27:43 URL:http://www.monson-ma.gov/user/25/contact [32861] -> "../data/townSites2/Monson/www.monson-ma.gov/user/25/contact" [1]
+2017-01-02 02:27:46 URL:http://www.monson-ma.gov/emergency-management-director [38196] -> "../data/townSites2/Monson/www.monson-ma.gov/highway-department/links/emergency-management-director-monson" [1]
+2017-01-02 02:27:50 URL:https://www.fema.gov/ [34633] -> "../data/townSites2/Monson/www.monson-ma.gov/highway-department/links/federal-emergency-management-agency-fema" [1]
+2017-01-02 02:27:51 URL:https://www.ready.gov/ [34570] -> "../data/townSites2/Monson/www.monson-ma.gov/highway-department/links/homeland-security" [1]
+2017-01-02 02:27:53 URL:http://www.mass.gov/portal/ [66165] -> "../data/townSites2/Monson/www.monson-ma.gov/highway-department/links/massachusetts-emergency-management-agency-mema" [1]
+2017-01-02 02:27:54 URL:http://www.mass.gov/portal/ [66165] -> "../data/townSites2/Monson/www.monson-ma.gov/highway-department/links/massachusetts-highway-department" [1]
+2017-01-02 02:27:56 URL:http://www.monson-ma.gov/highway-department/pages/snow-plowing-policy [40350] -> "../data/townSites2/Monson/www.monson-ma.gov/highway-department/pages/snow-plowing-policy" [1]
+2017-01-02 02:28:02 URL:http://www.ctriver.org/ [96556] -> "../data/townSites2/Monson/www.monson-ma.gov/highway-department/links/stormwater-management-connecticut-river-watershed-council" [1]
+2017-01-02 02:28:03 URL:https://www.epa.gov/aboutepa/about-office-water [38907/38907] -> "../data/townSites2/Monson/www.monson-ma.gov/highway-department/links/stormwater-management-epa-nonpoint-source-pollution" [1]
+2017-01-02 02:28:04 URL:http://www.monson-ma.gov/highway-department/pages/wood-policy [38080] -> "../data/townSites2/Monson/www.monson-ma.gov/highway-department/pages/wood-policy" [1]
+2017-01-02 02:28:05 URL:http://www.monson-ma.gov/library [38696] -> "../data/townSites2/Monson/www.monson-ma.gov/node/24" [1]
+2017-01-02 02:28:06 URL:http://www.monson-ma.gov/print/24 [8500] -> "../data/townSites2/Monson/www.monson-ma.gov/print/24" [1]
+2017-01-02 02:28:08 URL:http://www.monson-ma.gov/user/29/contact [32793] -> "../data/townSites2/Monson/www.monson-ma.gov/user/29/contact" [1]
+2017-01-02 02:28:10 URL:https://monsonlibrary.com/ [50512] -> "../data/townSites2/Monson/www.monson-ma.gov/library/links/monson-free-library-web-site" [1]
+2017-01-02 02:28:11 URL:http://www.monson-ma.gov/monson-public-schools [49242] -> "../data/townSites2/Monson/www.monson-ma.gov/node/26" [1]
+2017-01-02 02:28:13 URL:http://www.monson-ma.gov/print/26 [7531] -> "../data/townSites2/Monson/www.monson-ma.gov/print/26" [1]
+2017-01-02 02:28:14 URL:http://www.monson-ma.gov/user/65/contact [32795] -> "../data/townSites2/Monson/www.monson-ma.gov/user/65/contact" [1]
+2017-01-02 02:28:16 URL:http://www.doe.mass.edu/ [48589/48589] -> "../data/townSites2/Monson/www.monson-ma.gov/monson-public-schools/links/massachusetts-department-education" [1]
+2017-01-02 02:28:22 URL:http://www.monsonschools.com/ [44824] -> "../data/townSites2/Monson/www.monson-ma.gov/monson-public-schools/links/monson-public-schools-web-site" [1]
+2017-01-02 02:28:25 URL:http://www.monson-ma.gov/node/26/events/month [61708] -> "../data/townSites2/Monson/www.monson-ma.gov/node/26/events/month" [1]
+2017-01-02 02:28:28 URL:http://www.monson-ma.gov/node/26/events/day/2017-01-04 [32639] -> "../data/townSites2/Monson/www.monson-ma.gov/node/26/events/day/2017-01-04" [1]
+2017-01-02 02:28:29 URL:http://www.monson-ma.gov/node/26/events/day/2017-01-26 [32465] -> "../data/townSites2/Monson/www.monson-ma.gov/node/26/events/day/2017-01-26" [1]
+2017-01-02 02:28:31 URL:http://www.monson-ma.gov/node/26/events/month/2017-01 [61769] -> "../data/townSites2/Monson/www.monson-ma.gov/node/26/events/month/2017-01" [1]
+2017-01-02 02:28:32 URL:http://www.monson-ma.gov/node/26/agenda [29185] -> "../data/townSites2/Monson/www.monson-ma.gov/node/26/agenda" [1]
+2017-01-02 02:28:34 URL:http://www.monson-ma.gov/monson-public-schools/agenda/monson-school-committee [34090] -> "../data/townSites2/Monson/www.monson-ma.gov/monson-public-schools/agenda/monson-school-committee" [1]
+2017-01-02 02:28:35 URL:http://www.monson-ma.gov/monson-public-schools/agenda/pathfinder-regional-vocational-technical-high-school [34194] -> "../data/townSites2/Monson/www.monson-ma.gov/monson-public-schools/agenda/pathfinder-regional-vocational-technical-high-school" [1]
+2017-01-02 02:28:36 URL:http://www.monson-ma.gov/parks-recreation-department [59817] -> "../data/townSites2/Monson/www.monson-ma.gov/node/27" [1]
+2017-01-02 02:28:37 URL:http://www.monson-ma.gov/print/27 [8850] -> "../data/townSites2/Monson/www.monson-ma.gov/print/27" [1]
+2017-01-02 02:28:39 URL:http://www.monson-ma.gov/parks-recreation-department/bulletins/lacrosse-registration-starts-december-12 [36039] -> "../data/townSites2/Monson/www.monson-ma.gov/parks-recreation-department/bulletins/lacrosse-registration-starts-december-12" [1]
+2017-01-02 02:28:40 URL:http://www.monson-ma.gov/parks-recreation-department/pages/monson-skate-park [37546] -> "../data/townSites2/Monson/www.monson-ma.gov/parks-recreation-department/pages/monson-skate-park" [1]
+2017-01-02 02:28:42 URL:http://www.monson-ma.gov/parks-recreation-department/bulletins/now-registering-recreational-basketball [31612] -> "../data/townSites2/Monson/www.monson-ma.gov/parks-recreation-department/bulletins/now-registering-recreational-basketball" [1]
+2017-01-02 02:28:43 URL:http://www.monson-ma.gov/parks-recreation-department/bulletins/cancellation-information [36036] -> "../data/townSites2/Monson/www.monson-ma.gov/parks-recreation-department/bulletins/cancellation-information" [1]
+2017-01-02 02:28:45 URL:http://www.monson-ma.gov/user/39/contact [32799] -> "../data/townSites2/Monson/www.monson-ma.gov/user/39/contact" [1]
+2017-01-02 02:28:47 URL:http://www.monson-ma.gov/user/40/contact [32799] -> "../data/townSites2/Monson/www.monson-ma.gov/user/40/contact" [1]
+2017-01-02 02:28:48 URL:http://www.monson-ma.gov/user/41/contact [32795] -> "../data/townSites2/Monson/www.monson-ma.gov/user/41/contact" [1]
+2017-01-02 02:28:50 URL:http://www.monson-ma.gov/parks-recreation-department/pages/all-pool-information [37985] -> "../data/townSites2/Monson/www.monson-ma.gov/parks-recreation-department/pages/all-pool-information" [1]
+2017-01-02 02:28:51 URL:http://www.monson-ma.gov/parks-recreation-department/pages/coaches-corner [36372] -> "../data/townSites2/Monson/www.monson-ma.gov/parks-recreation-department/pages/coaches-corner" [1]
+2017-01-02 02:28:52 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/complaint_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:53 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/decpoolsch16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:54 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/employment_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:55 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/field_use_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:58 URL:https://www.facebook.com/search/151622478614096/local_search?surface=tyah [107215] -> "../data/townSites2/Monson/www.monson-ma.gov/parks-recreation-department/links/follow-us-facebook" [1]
+2017-01-02 02:28:59 URL:http://www.monson-ma.gov/parks-recreation-department/pages/hiking-links [36072] -> "../data/townSites2/Monson/www.monson-ma.gov/parks-recreation-department/pages/hiking-links" [1]
+2017-01-02 02:29:00 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/lax_reg_form_2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:01 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/monson_dolphins_winter_meet_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:02 URL:http://www.monson-ma.gov/parks-recreation-department/pages/newsletters [35387] -> "../data/townSites2/Monson/www.monson-ma.gov/parks-recreation-department/pages/newsletters" [1]
+2017-01-02 02:29:03 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/rec_basketball_regform_2016-17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:04 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/team_sponsor_form_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:05 URL:http://www.monson-ma.gov/node/27/faq [31725] -> "../data/townSites2/Monson/www.monson-ma.gov/node/27/faq" [1]
+2017-01-02 02:29:07 URL:http://www.monson-ma.gov/parks-recreation-department/faq/what-are-hours-quarry-hill-community-pool [35237] -> "../data/townSites2/Monson/www.monson-ma.gov/parks-recreation-department/faq/what-are-hours-quarry-hill-community-pool" [1]
+2017-01-02 02:29:08 URL:http://www.monson-ma.gov/parks-recreation-department/faq/how-do-i-file-complaint [35178] -> "../data/townSites2/Monson/www.monson-ma.gov/parks-recreation-department/faq/how-do-i-file-complaint" [1]
+2017-01-02 02:29:09 URL:http://www.monson-ma.gov/parks-recreation-department/faq/how-do-i-rent-field [35075] -> "../data/townSites2/Monson/www.monson-ma.gov/parks-recreation-department/faq/how-do-i-rent-field" [1]
+2017-01-02 02:29:11 URL:http://www.monson-ma.gov/parks-recreation-department/faq/how-do-i-know-about-cancellation-program [35430] -> "../data/townSites2/Monson/www.monson-ma.gov/parks-recreation-department/faq/how-do-i-know-about-cancellation-program" [1]
+2017-01-02 02:29:12 URL:http://www.monson-ma.gov/node/27/events/month [51006] -> "../data/townSites2/Monson/www.monson-ma.gov/node/27/events/month" [1]
+2017-01-02 02:29:13 URL:http://www.monson-ma.gov/node/27/events/month/2017-01 [51063] -> "../data/townSites2/Monson/www.monson-ma.gov/node/27/events/month/2017-01" [1]
+2017-01-02 02:29:15 URL:http://www.monson-ma.gov/node/27/minutes [30989] -> "../data/townSites2/Monson/www.monson-ma.gov/node/27/minutes" [1]
+2017-01-02 02:29:16 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/october_5_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:17 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/september_7_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:18 URL:http://www.monson-ma.gov/police-department [59981] -> "../data/townSites2/Monson/www.monson-ma.gov/node/28" [1]
+2017-01-02 02:29:20 URL:http://www.monson-ma.gov/print/28 [33634] -> "../data/townSites2/Monson/www.monson-ma.gov/print/28" [1]
+2017-01-02 02:29:21 URL:http://www.monson-ma.gov/user/68/contact [32807] -> "../data/townSites2/Monson/www.monson-ma.gov/user/68/contact" [1]
+2017-01-02 02:29:23 URL:http://www.monson-ma.gov/user/69/contact [32815] -> "../data/townSites2/Monson/www.monson-ma.gov/user/69/contact" [1]
+2017-01-02 02:29:25 URL:http://www.monson-ma.gov/user/71/contact [32805] -> "../data/townSites2/Monson/www.monson-ma.gov/user/71/contact" [1]
+2017-01-02 02:29:26 URL:http://www.monson-ma.gov/user/70/contact [32803] -> "../data/townSites2/Monson/www.monson-ma.gov/user/70/contact" [1]
+2017-01-02 02:29:28 URL:http://www.monson-ma.gov/user/72/contact [32827] -> "../data/townSites2/Monson/www.monson-ma.gov/user/72/contact" [1]
+2017-01-02 02:29:30 URL:http://www.monson-ma.gov/police-department/pages/employment-opportunity [34092] -> "../data/townSites2/Monson/www.monson-ma.gov/police-department/pages/employment-opportunity" [1]
+2017-01-02 02:29:31 URL:http://www.facebook.com/monsonpd [102254] -> "../data/townSites2/Monson/www.monson-ma.gov/police-department/links/monson-police-facebook-page" [1]
+2017-01-02 02:29:33 URL:http://www.monson-ma.gov/police-department/pages/weekly-police-log [53390] -> "../data/townSites2/Monson/www.monson-ma.gov/police-department/pages/weekly-police-log" [1]
+2017-01-02 02:29:34 URL:http://www.monson-ma.gov/board-selectmen [62965] -> "../data/townSites2/Monson/www.monson-ma.gov/node/29" [1]
+2017-01-02 02:29:35 URL:http://www.monson-ma.gov/print/29 [17809] -> "../data/townSites2/Monson/www.monson-ma.gov/print/29" [1]
+2017-01-02 02:29:37 URL:http://www.monson-ma.gov/user/59/contact [32797] -> "../data/townSites2/Monson/www.monson-ma.gov/user/59/contact" [1]
+2017-01-02 02:29:38 URL:http://www.monson-ma.gov/user/60/contact [32811] -> "../data/townSites2/Monson/www.monson-ma.gov/user/60/contact" [1]
+2017-01-02 02:29:40 URL:http://www.mass.gov/abcc/forms.htm [28010/28010] -> "../data/townSites2/Monson/www.monson-ma.gov/board-selectmen/links/abcc-website" [1]
+2017-01-02 02:29:41 URL:http://www.monson-ma.gov/board-selectmen/pages/annual-town-report-2015 [40808] -> "../data/townSites2/Monson/www.monson-ma.gov/board-selectmen/pages/annual-town-report-2015" [1]
+2017-01-02 02:29:42 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/application_for_gazebo_and_various_permits.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:43 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/banner_display_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:44 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/car_wash_applications.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:45 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/fee_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:45 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/final_bylaws_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:48 URL:http://m-pact.tv/maestrov/app/client/webSite/index.php [12609/12609] -> "../data/townSites2/Monson/www.monson-ma.gov/board-selectmen/links/m-pact-watch-selectmens-meetings" [1]
+2017-01-02 02:29:49 URL:http://www.allonehealth.com/MIIAEAP/ [36648/36648] -> "../data/townSites2/Monson/www.monson-ma.gov/board-selectmen/links/miia-employees-assistance-program" [1]
+2017-01-02 02:29:51 URL:https://www.mma.org/ [37384] -> "../data/townSites2/Monson/www.monson-ma.gov/board-selectmen/links/massachusetts-municipal-association" [1]
+2017-01-02 02:29:52 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/monson_developmental_center_reuse_plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:54 URL:http://blog.mass.gov/energy/uncategorized/monson-town-hall-rebuilt-efficiently-after-tornado/ [173463] -> "../data/townSites2/Monson/www.monson-ma.gov/board-selectmen/links/monson-town-hall-rebuilt-efficiently-after-tornado" [1]
+2017-01-02 02:29:55 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/one_day_liquor_license_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:56 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/parking_ban.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:58 URL:http://www.monson-ma.gov/board-selectmen/pages/policies [35635] -> "../data/townSites2/Monson/www.monson-ma.gov/board-selectmen/pages/policies" [1]
+2017-01-02 02:30:00 URL:http://www.monson-ma.gov/town-administrator/pages/volunteer-opportunities [34648] -> "../data/townSites2/Monson/www.monson-ma.gov/board-selectmen/links/volunteer-opportunities" [1]
+2017-01-02 02:30:01 URL:http://www.monson-ma.gov/node/29/events/month [51086] -> "../data/townSites2/Monson/www.monson-ma.gov/node/29/events/month" [1]
+2017-01-02 02:30:03 URL:http://www.monson-ma.gov/node/29/events/month/2017-01 [51143] -> "../data/townSites2/Monson/www.monson-ma.gov/node/29/events/month/2017-01" [1]
+2017-01-02 02:30:05 URL:http://www.monson-ma.gov/node/29/agenda [31087] -> "../data/townSites2/Monson/www.monson-ma.gov/node/29/agenda" [1]
+2017-01-02 02:30:07 URL:http://www.monson-ma.gov/board-selectmen/agenda/board-selectmen [35914] -> "../data/townSites2/Monson/www.monson-ma.gov/board-selectmen/agenda/board-selectmen" [1]
+2017-01-02 02:30:08 URL:http://www.monson-ma.gov/board-selectmen/agenda/monson-board-selectmen-1 [36576] -> "../data/townSites2/Monson/www.monson-ma.gov/board-selectmen/agenda/monson-board-selectmen-1" [1]
+2017-01-02 02:30:09 URL: http://www.monson-ma.gov/sites/monsonma/files/agendas/selectmen11-8-16_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:10 URL: http://www.monson-ma.gov/sites/monsonma/files/agendas/selectmen11-8-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:12 URL:http://www.monson-ma.gov/board-selectmen/agenda/agenda [35549] -> "../data/townSites2/Monson/www.monson-ma.gov/board-selectmen/agenda/agenda" [1]
+2017-01-02 02:30:13 URL:http://www.monson-ma.gov/node/29/minutes [31095] -> "../data/townSites2/Monson/www.monson-ma.gov/node/29/minutes" [1]
+2017-01-02 02:30:15 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/bos_november_22_2016.doc 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:16 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/bos_november_8_2016.doc 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:17 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/october_25_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:18 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/meeting_of_2016-10-11.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:19 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/meeting_of_2016-09-27.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:20 URL:http://www.monson-ma.gov/town-administrator [39639] -> "../data/townSites2/Monson/www.monson-ma.gov/node/30" [1]
+2017-01-02 02:30:21 URL:http://www.monson-ma.gov/print/30 [11954] -> "../data/townSites2/Monson/www.monson-ma.gov/print/30" [1]
+2017-01-02 02:30:21 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/green_communities_action_plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:24 URL:http://www.monson-ma.gov/town-clerk/pages/town-meeting-information [36813] -> "../data/townSites2/Monson/www.monson-ma.gov/town-administrator/links/town-meeting-information" [1]
+2017-01-02 02:30:24 URL:http://www.monson-ma.gov/town-administrator/pages/volunteer-opportunities [34648] -> "../data/townSites2/Monson/www.monson-ma.gov/town-administrator/pages/volunteer-opportunities" [1]
+2017-01-02 02:30:25 URL:http://www.monson-ma.gov/town-clerk [56419] -> "../data/townSites2/Monson/www.monson-ma.gov/node/31" [1]
+2017-01-02 02:30:27 URL:http://www.monson-ma.gov/print/31 [14123] -> "../data/townSites2/Monson/www.monson-ma.gov/print/31" [1]
+2017-01-02 02:30:29 URL:http://www.monson-ma.gov/user/22/contact [32809] -> "../data/townSites2/Monson/www.monson-ma.gov/user/22/contact" [1]
+2017-01-02 02:30:29 URL: http://www.sec.state.ma.us/ele/elepdf/absentee_ballot.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:31 URL:http://www.monson-ma.gov/town-clerk/pages/business-certificates-dbas [40697] -> "../data/townSites2/Monson/www.monson-ma.gov/town-clerk/pages/business-certificates-dbas" [1]
+2017-01-02 02:30:32 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/citizens_guide_to_town_meeting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:33 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/vote_early_flyer_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:35 URL:http://www.monson-ma.gov/town-clerk/pages/genealogy [36498] -> "../data/townSites2/Monson/www.monson-ma.gov/town-clerk/pages/genealogy" [1]
+2017-01-02 02:30:35 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/town_of_monson_ma_-_marriage_licenses.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:36 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/monson_general_by-laws.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:37 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/official_results_11-8-16_0.xlsx 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:38 URL:https://www.sec.state.ma.us/ovr/ [66026/66026] -> "../data/townSites2/Monson/www.monson-ma.gov/town-clerk/links/online-voter-registration" [1]
+2017-01-02 02:30:39 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/open_meeting_law-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:41 URL:http://www.monson-ma.gov/town-clerk/pages/raffle-permit-information [39673] -> "../data/townSites2/Monson/www.monson-ma.gov/town-clerk/pages/raffle-permit-information" [1]
+2017-01-02 02:30:42 URL:http://www.sec.state.ma.us/ [20711/20711] -> "../data/townSites2/Monson/www.monson-ma.gov/town-clerk/links/secretary-state-website" [1]
+2017-01-02 02:30:43 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/stm_11-14-2016_with_vote_requirements_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:44 URL:http://www.monson-ma.gov/town-clerk/pages/town-clerk-fees [37022] -> "../data/townSites2/Monson/www.monson-ma.gov/town-clerk/pages/town-clerk-fees" [1]
+2017-01-02 02:30:47 URL:https://unipaygold.unibank.com/default.aspx [101065/101065] -> "../data/townSites2/Monson/www.monson-ma.gov/town-clerk/links/town-clerk-online-payments-birth-marriage-death-dba-and-dog-license" [1]
+2017-01-02 02:30:48 URL:http://www.monson-ma.gov/town-clerk/pages/town-meeting-information [36813] -> "../data/townSites2/Monson/www.monson-ma.gov/town-clerk/pages/town-meeting-information" [1]
+2017-01-02 02:30:49 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/voter_registration_mail_in_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:50 URL:http://www.monson-ma.gov/node/31/faq [34151] -> "../data/townSites2/Monson/www.monson-ma.gov/node/31/faq" [1]
+2017-01-02 02:30:52 URL:http://www.monson-ma.gov/town-clerk/faq/if-i-am-operating-sole-proprietorship-under-my-personal-name-do-i-need-file-dba [35831] -> "../data/townSites2/Monson/www.monson-ma.gov/town-clerk/faq/if-i-am-operating-sole-proprietorship-under-my-personal-name-do-i-need-file-dba" [1]
+2017-01-02 02:30:53 URL:http://www.monson-ma.gov/town-clerk/faq/if-i-have-corporation-or-llc-name-do-i-also-have-file-dba-under-name-well [36222] -> "../data/townSites2/Monson/www.monson-ma.gov/town-clerk/faq/if-i-have-corporation-or-llc-name-do-i-also-have-file-dba-under-name-well" [1]
+2017-01-02 02:30:55 URL:http://www.monson-ma.gov/town-clerk/faq/what-difference-between-fictitious-business-name-and-dba-name [35359] -> "../data/townSites2/Monson/www.monson-ma.gov/town-clerk/faq/what-difference-between-fictitious-business-name-and-dba-name" [1]
+2017-01-02 02:30:56 URL:http://www.monson-ma.gov/town-clerk/faq/where-can-i-obtain-working-papers [35457] -> "../data/townSites2/Monson/www.monson-ma.gov/town-clerk/faq/where-can-i-obtain-working-papers" [1]
+2017-01-02 02:30:57 URL:http://www.monson-ma.gov/town-clerk/faq/how-do-i-file-declaration-homestead [35631] -> "../data/townSites2/Monson/www.monson-ma.gov/town-clerk/faq/how-do-i-file-declaration-homestead" [1]
+2017-01-02 02:30:58 URL:http://www.monson-ma.gov/node/31/news [31666] -> "../data/townSites2/Monson/www.monson-ma.gov/node/31/news" [1]
+2017-01-02 02:31:00 URL:http://www.monson-ma.gov/town-clerk/news/official-presidentialgeneral-election-results [35474] -> "../data/townSites2/Monson/www.monson-ma.gov/town-clerk/news/official-presidentialgeneral-election-results" [1]
+2017-01-02 02:31:02 URL:http://www.monson-ma.gov/node/31/events/month [51419] -> "../data/townSites2/Monson/www.monson-ma.gov/node/31/events/month" [1]
+2017-01-02 02:31:03 URL:http://www.monson-ma.gov/node/31/events/month/2017-01 [51476] -> "../data/townSites2/Monson/www.monson-ma.gov/node/31/events/month/2017-01" [1]
+2017-01-02 02:31:04 URL:http://www.monson-ma.gov/node/31/agenda [31436] -> "../data/townSites2/Monson/www.monson-ma.gov/node/31/agenda" [1]
+2017-01-02 02:31:05 URL: http://www.monson-ma.gov/sites/monsonma/files/agendas/pathfinder11-16-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:07 URL:http://www.monson-ma.gov/town-collector [53522] -> "../data/townSites2/Monson/www.monson-ma.gov/node/32" [1]
+2017-01-02 02:31:08 URL:http://www.monson-ma.gov/print/32 [11519] -> "../data/townSites2/Monson/www.monson-ma.gov/print/32" [1]
+2017-01-02 02:31:09 URL:http://www.monson-ma.gov/town-collector/pages/additional-information [48323] -> "../data/townSites2/Monson/www.monson-ma.gov/town-collector/pages/additional-information" [1]
+2017-01-02 02:31:10 URL:http://www.monson-ma.gov/town-collector/pages/annual-reports [34530] -> "../data/townSites2/Monson/www.monson-ma.gov/town-collector/pages/annual-reports" [1]
+2017-01-02 02:31:11 URL:http://www.registryofdeeds.co.hampden.ma.us/ [8997/8997] -> "../data/townSites2/Monson/www.monson-ma.gov/town-collector/links/hampden-county-registry-deeds" [1]
+2017-01-02 02:31:13 URL:http://www.mass.gov/portal/ [66165] -> "../data/townSites2/Monson/www.monson-ma.gov/town-collector/links/massachusetts-citizen-information-service" [1]
+2017-01-02 02:31:15 URL:http://www.masscta.com/Pages/index [34106] -> "../data/townSites2/Monson/www.monson-ma.gov/town-collector/links/massachusetts-collectorstreasurers-association" [1]
+2017-01-02 02:31:16 URL:http://www.mass.gov/dor/local-officials/ [41639] -> "../data/townSites2/Monson/www.monson-ma.gov/town-collector/links/massachusetts-department-revenue" [1]
+2017-01-02 02:31:18 URL:http://www.mass.gov/portal/ [66165] -> "../data/townSites2/Monson/www.monson-ma.gov/town-collector/links/massachusetts-registry-motor-vehicles" [1]
+2017-01-02 02:31:21 URL:https://unipaygold.unibank.com/default.aspx [101065/101065] -> "../data/townSites2/Monson/www.monson-ma.gov/town-collector/links/sign-log-line-payments-e-bill" [1]
+2017-01-02 02:31:22 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/tax_taking_advertisement.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:23 URL:http://www.monson-ma.gov/node/32/faq [34568] -> "../data/townSites2/Monson/www.monson-ma.gov/node/32/faq" [1]
+2017-01-02 02:31:25 URL:http://www.monson-ma.gov/town-collector/faq/do-i-have-pay-my-full-trash-bill-if-i-am-out-state-winter [34803] -> "../data/townSites2/Monson/www.monson-ma.gov/town-collector/faq/do-i-have-pay-my-full-trash-bill-if-i-am-out-state-winter" [1]
+2017-01-02 02:31:26 URL:http://www.monson-ma.gov/town-collector/faq/where-would-i-call-if-my-trash-or-recyclables-were-not-picked [34698] -> "../data/townSites2/Monson/www.monson-ma.gov/town-collector/faq/where-would-i-call-if-my-trash-or-recyclables-were-not-picked" [1]
+2017-01-02 02:31:27 URL:http://www.monson-ma.gov/town-collector/faq/when-are-trash-bills-due-and-payable [34593] -> "../data/townSites2/Monson/www.monson-ma.gov/town-collector/faq/when-are-trash-bills-due-and-payable" [1]
+2017-01-02 02:31:29 URL:http://www.monson-ma.gov/town-collector/faq/how-many-real-estate-and-personal-property-tax-bills-will-i-receive-yearly [34708] -> "../data/townSites2/Monson/www.monson-ma.gov/town-collector/faq/how-many-real-estate-and-personal-property-tax-bills-will-i-receive-yearly" [1]
+2017-01-02 02:31:31 URL:http://www.monson-ma.gov/town-collector/faq/who-do-i-make-my-check-out [34156] -> "../data/townSites2/Monson/www.monson-ma.gov/town-collector/faq/who-do-i-make-my-check-out" [1]
+2017-01-02 02:31:32 URL:http://www.monson-ma.gov/node/32/events/month [50140] -> "../data/townSites2/Monson/www.monson-ma.gov/node/32/events/month" [1]
+2017-01-02 02:31:33 URL:http://www.monson-ma.gov/node/32/events/month/2017-01 [50197] -> "../data/townSites2/Monson/www.monson-ma.gov/node/32/events/month/2017-01" [1]
+2017-01-02 02:31:35 URL:http://www.monson-ma.gov/town-planner [36134] -> "../data/townSites2/Monson/www.monson-ma.gov/node/33" [1]
+2017-01-02 02:31:35 URL:http://www.monson-ma.gov/print/33 [7898] -> "../data/townSites2/Monson/www.monson-ma.gov/print/33" [1]
+2017-01-02 02:31:37 URL:http://www.monson-ma.gov/user/23/contact [32797] -> "../data/townSites2/Monson/www.monson-ma.gov/user/23/contact" [1]
+2017-01-02 02:31:38 URL:http://www.monson-ma.gov/town-treasurer [38730] -> "../data/townSites2/Monson/www.monson-ma.gov/node/34" [1]
+2017-01-02 02:31:39 URL:http://www.monson-ma.gov/print/34 [8294] -> "../data/townSites2/Monson/www.monson-ma.gov/print/34" [1]
+2017-01-02 02:31:41 URL:http://www.monson-ma.gov/user/293/contact [32810] -> "../data/townSites2/Monson/www.monson-ma.gov/user/293/contact" [1]
+2017-01-02 02:31:43 URL:http://www.monson-ma.gov/user/27/contact [32771] -> "../data/townSites2/Monson/www.monson-ma.gov/user/27/contact" [1]
+2017-01-02 02:31:43 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/2015_town_salaries.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:45 URL:http://hcrb.org/ [9092/9092] -> "../data/townSites2/Monson/www.monson-ma.gov/town-treasurer/links/hampden-county-regional-retirement-board" [1]
+2017-01-02 02:31:46 URL:http://www.mass.gov/anf/employee-insurance-and-retirement-benefits/oversight-agencies/gic/ [132211] -> "../data/townSites2/Monson/www.monson-ma.gov/town-treasurer/links/link-gic-website" [1]
+2017-01-02 02:31:48 URL:http://www.allonehealth.com/MIIAEAP/ [36648/36648] -> "../data/townSites2/Monson/www.monson-ma.gov/town-treasurer/links/miia-employee-assistance-program" [1]
+2017-01-02 02:31:49 URL:https://mass-smart.gwrs.com/login.do [29832] -> "../data/townSites2/Monson/www.monson-ma.gov/town-treasurer/links/massachusetts-deferred-compensation-smart-plan" [1]
+2017-01-02 02:31:50 URL:http://www.mass.gov/mtrs/ [33923] -> "../data/townSites2/Monson/www.monson-ma.gov/town-treasurer/links/massachusetts-teachers-retirement-system" [1]
+2017-01-02 02:31:52 URL:https://www.nationwide.com/457-retirement-plans.jsp [45350] -> "../data/townSites2/Monson/www.monson-ma.gov/town-treasurer/links/nationwide-deferred-compensation-plan" [1]
+2017-01-02 02:31:53 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/tax_title_accounts_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:54 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/town_owned_property_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:55 URL:http://www.monson-ma.gov/veteran-services-department [37401] -> "../data/townSites2/Monson/www.monson-ma.gov/node/35" [1]
+2017-01-02 02:31:56 URL:http://www.monson-ma.gov/print/35 [8895] -> "../data/townSites2/Monson/www.monson-ma.gov/print/35" [1]
+2017-01-02 02:31:58 URL:http://www.monson-ma.gov/user/37/contact [32815] -> "../data/townSites2/Monson/www.monson-ma.gov/user/37/contact" [1]
+2017-01-02 02:31:59 URL:http://www.mass.gov/portal/ [66165] -> "../data/townSites2/Monson/www.monson-ma.gov/veteran-services-department/links/veterans-benefits" [1]
+2017-01-02 02:32:00 URL:http://www.monson-ma.gov/water-sewer-department [46782] -> "../data/townSites2/Monson/www.monson-ma.gov/node/36" [1]
+2017-01-02 02:32:01 URL:http://www.monson-ma.gov/print/36 [8170] -> "../data/townSites2/Monson/www.monson-ma.gov/print/36" [1]
+2017-01-02 02:32:03 URL:http://www.monson-ma.gov/user/52/contact [32954] -> "../data/townSites2/Monson/www.monson-ma.gov/user/52/contact" [1]
+2017-01-02 02:32:05 URL:http://www.monson-ma.gov/water-sewer-department/pages/annual-reports-water-sewer-commission [38927] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/pages/annual-reports-water-sewer-commission" [1]
+2017-01-02 02:32:06 URL:http://www.monson-ma.gov/water-sewer-department/pages/change-realty-sale-closing-procedure [38046] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/pages/change-realty-sale-closing-procedure" [1]
+2017-01-02 02:32:08 URL:http://www.monson-ma.gov/water-sewer-department/pages/contact-page [39065] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/pages/contact-page" [1]
+2017-01-02 02:32:09 URL:http://www.monson-ma.gov/water-sewer-department/pages/cross-connection-control-program [37987] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/pages/cross-connection-control-program" [1]
+2017-01-02 02:32:11 URL:http://www.monson-ma.gov/water-sewer-department/pages/drinking-water-test-results [39140] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/pages/drinking-water-test-results" [1]
+2017-01-02 02:32:12 URL:http://www.monson-ma.gov/emergency-management-director [38196] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/links/emergency-management-director-monson" [1]
+2017-01-02 02:32:13 URL:http://www.monson-ma.gov/water-sewer-department/pages/employment-oportunity [37476] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/pages/employment-oportunity" [1]
+2017-01-02 02:32:14 URL:https://www.fema.gov/ [34633] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/links/federal-emergency-management-agency-fema" [1]
+2017-01-02 02:32:15 URL:http://www.monson-ma.gov/water-sewer-department/pages/fiscal-year-2017-quarterly-water-sewer-bills [38226] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/pages/fiscal-year-2017-quarterly-water-sewer-bills" [1]
+2017-01-02 02:32:17 URL:http://www.monson-ma.gov/water-sewer-department/pages/homeserve-and-dominion-water-line-replacement-programs [39489] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/pages/homeserve-and-dominion-water-line-replacement-programs" [1]
+2017-01-02 02:32:18 URL:http://www.monson-ma.gov/water-sewer-department/pages/hospital-road-rehabilitation-project [37722] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/pages/hospital-road-rehabilitation-project" [1]
+2017-01-02 02:32:19 URL:http://www.monson-ma.gov/water-sewer-department/pages/hydrant-flushing-0 [38260] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/pages/hydrant-flushing-0" [1]
+2017-01-02 02:32:20 URL:http://www.mass.gov/eea/agencies/massdep/water/drinking/ [169147] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/links/massdep-drinking-water" [1]
+2017-01-02 02:32:22 URL:http://www.monson-ma.gov/water-sewer-department/pages/massdep-evaluation-reports [38105] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/pages/massdep-evaluation-reports" [1]
+2017-01-02 02:32:23 URL:http://www.mass.gov/eea/agencies/massdep/water/drinking/private-wells.html [181806] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/links/massdep-private-well-guidence" [1]
+2017-01-02 02:32:24 URL:http://www.mass.gov/eopss/agencies/mema/ [113050] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/links/massachusetts-emergency-management-agency-mema" [1]
+2017-01-02 02:32:26 URL:http://www.monson-ma.gov/water-sewer-department/pages/meetings [37638] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/pages/meetings" [1]
+2017-01-02 02:32:27 URL:http://www.monson-ma.gov/water-sewer-department/pages/monson-well-capacity [39701] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/pages/monson-well-capacity" [1]
+2017-01-02 02:32:29 URL:http://www.monson-ma.gov/water-sewer-department/pages/monson-wins-award [37522] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/pages/monson-wins-award" [1]
+2017-01-02 02:32:30 URL:http://www.mass.gov/eea/agencies/massdep/water/drinking/protect-your-family-a-guide-to-water-quality-testing-f.html [170633] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/links/private-well-testing-guide" [1]
+2017-01-02 02:32:31 URL:http://www.monson-ma.gov/water-sewer-department/pages/rates-fees-permits [38040] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/pages/rates-fees-permits" [1]
+2017-01-02 02:32:33 URL:http://www.monson-ma.gov/water-sewer-department/pages/rates-effective-april-1-2016 [38042] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/pages/rates-effective-april-1-2016" [1]
+2017-01-02 02:32:34 URL:http://www.monson-ma.gov/water-sewer-department/pages/realty-sale-closing-procedure [40448] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/pages/realty-sale-closing-procedure" [1]
+2017-01-02 02:32:36 URL:http://www.monson-ma.gov/water-sewer-department/pages/rules-regs-standards [40152] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/pages/rules-regs-standards" [1]
+2017-01-02 02:32:36 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/source_water_protection_plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:32:38 URL:http://www.monson-ma.gov/water-sewer-department/pages/water-quality-report-index [39078] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/pages/water-quality-report-index" [1]
+2017-01-02 02:32:39 URL:http://www.monson-ma.gov/water-sewer-department/pages/water-system-chlorination-status [37976] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/pages/water-system-chlorination-status" [1]
+2017-01-02 02:32:40 URL:http://www.monson-ma.gov/node/36/faq [34847] -> "../data/townSites2/Monson/www.monson-ma.gov/node/36/faq" [1]
+2017-01-02 02:32:41 URL:http://www.monson-ma.gov/water-sewer-department/faq/what-small-black-plastic-oval-shaped-thing-my-house [37628] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/faq/what-small-black-plastic-oval-shaped-thing-my-house" [1]
+2017-01-02 02:32:43 URL:http://www.monson-ma.gov/water-sewer-department/faq/how-can-i-help-conserve-water [37612] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/faq/how-can-i-help-conserve-water" [1]
+2017-01-02 02:32:44 URL:http://www.monson-ma.gov/water-sewer-department/faq/my-neighbors-bill-considerably-lower-then-mine-how-can-be [37446] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/faq/my-neighbors-bill-considerably-lower-then-mine-how-can-be" [1]
+2017-01-02 02:32:45 URL:http://www.monson-ma.gov/water-sewer-department/faq/how-can-i-homeowner-check-household-leaks-myself [37720] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/faq/how-can-i-homeowner-check-household-leaks-myself" [1]
+2017-01-02 02:32:47 URL:http://www.monson-ma.gov/water-sewer-department/faq/my-water-bill-seems-excessively-high-what-should-i-do [37448] -> "../data/townSites2/Monson/www.monson-ma.gov/water-sewer-department/faq/my-water-bill-seems-excessively-high-what-should-i-do" [1]
+2017-01-02 02:32:48 URL:http://www.monson-ma.gov/node/36/minutes [33041] -> "../data/townSites2/Monson/www.monson-ma.gov/node/36/minutes" [1]
+2017-01-02 02:32:49 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/minutes_2016.10.05.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:32:50 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/minutes_2016.09.14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:32:51 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/minutes_2016_08.17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:32:52 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/minutes_2016.07.20.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:32:53 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/minutes_2016.06.15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:32:54 URL:http://www.monson-ma.gov/home/pages/boards-committees [34038] -> "../data/townSites2/Monson/www.monson-ma.gov/node/4733" [1]
+2017-01-02 02:32:55 URL:http://www.monson-ma.gov/print/4733 [9858] -> "../data/townSites2/Monson/www.monson-ma.gov/print/4733" [1]
+2017-01-02 02:32:56 URL:http://www.monson-ma.gov/board-assessors [39610] -> "../data/townSites2/Monson/www.monson-ma.gov/node/37" [1]
+2017-01-02 02:32:57 URL:http://www.monson-ma.gov/print/37 [8848] -> "../data/townSites2/Monson/www.monson-ma.gov/print/37" [1]
+2017-01-02 02:32:58 URL:http://www.monson-ma.gov/assessors-office [54078] -> "../data/townSites2/Monson/www.monson-ma.gov/board-assessors/links/assessors-office" [1]
+2017-01-02 02:32:59 URL:http://www.monson-ma.gov/node/37/minutes [28911] -> "../data/townSites2/Monson/www.monson-ma.gov/node/37/minutes" [1]
+2017-01-02 02:33:00 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/8-8-2016_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:33:01 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/7-11-2016_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:33:02 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/6-13-2016_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:33:03 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/5-6-2016_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:33:04 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/5-2-2016_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:33:05 URL:http://www.monson-ma.gov/cemetery-commission [48389] -> "../data/townSites2/Monson/www.monson-ma.gov/node/38" [1]
+2017-01-02 02:33:06 URL:http://www.monson-ma.gov/print/38 [10620] -> "../data/townSites2/Monson/www.monson-ma.gov/print/38" [1]
+2017-01-02 02:33:08 URL:http://www.monson-ma.gov/node/38/events/month [56518] -> "../data/townSites2/Monson/www.monson-ma.gov/node/38/events/month" [1]
+2017-01-02 02:33:09 URL:http://www.monson-ma.gov/node/38/events/day/2017-01-05 [31778] -> "../data/townSites2/Monson/www.monson-ma.gov/node/38/events/day/2017-01-05" [1]
+2017-01-02 02:33:11 URL:http://www.monson-ma.gov/node/38/events/month/2017-01 [56579] -> "../data/townSites2/Monson/www.monson-ma.gov/node/38/events/month/2017-01" [1]
+2017-01-02 02:33:12 URL:http://www.monson-ma.gov/community-preservation [52235] -> "../data/townSites2/Monson/www.monson-ma.gov/node/39" [1]
+2017-01-02 02:33:13 URL:http://www.monson-ma.gov/print/39 [12174] -> "../data/townSites2/Monson/www.monson-ma.gov/print/39" [1]
+2017-01-02 02:33:14 URL:http://www.monson-ma.gov/user/63/contact [32875] -> "../data/townSites2/Monson/www.monson-ma.gov/user/63/contact" [1]
+2017-01-02 02:33:16 URL:http://www.monson-ma.gov/user/42/contact [32805] -> "../data/townSites2/Monson/www.monson-ma.gov/user/42/contact" [1]
+2017-01-02 02:33:17 URL:http://www.monson-ma.gov/community-preservation/pages/i-introduction [40286] -> "../data/townSites2/Monson/www.monson-ma.gov/community-preservation/pages/i-introduction" [1]
+2017-01-02 02:33:18 URL:http://www.monson-ma.gov/community-preservation/pages/ii-goals-needs-and-proposed-projects [48426] -> "../data/townSites2/Monson/www.monson-ma.gov/community-preservation/pages/ii-goals-needs-and-proposed-projects" [1]
+2017-01-02 02:33:20 URL:http://www.monson-ma.gov/community-preservation/pages/iii-project-eligibility-and-funding [35717] -> "../data/townSites2/Monson/www.monson-ma.gov/community-preservation/pages/iii-project-eligibility-and-funding" [1]
+2017-01-02 02:33:21 URL:http://www.monson-ma.gov/community-preservation/pages/iv-general-criteria [35203] -> "../data/townSites2/Monson/www.monson-ma.gov/community-preservation/pages/iv-general-criteria" [1]
+2017-01-02 02:33:22 URL:http://www.monson-ma.gov/community-preservation/pages/v-solicitation-project-proposals [35040] -> "../data/townSites2/Monson/www.monson-ma.gov/community-preservation/pages/v-solicitation-project-proposals" [1]
+2017-01-02 02:33:26 URL:http://www.communitypreservation.org/ [24154] -> "../data/townSites2/Monson/www.monson-ma.gov/community-preservation/links/massachusetts-community-preservation-coalition" [1]
+2017-01-02 02:33:27 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/community_preservation_application_2017.doc 200 OK
+unlink: No such file or directory
+2017-01-02 02:33:28 URL:http://www.monson-ma.gov/node/39/news [29986] -> "../data/townSites2/Monson/www.monson-ma.gov/node/39/news" [1]
+2017-01-02 02:33:29 URL:http://www.monson-ma.gov/community-preservation/news/community-preservation-application-2017 [34306] -> "../data/townSites2/Monson/www.monson-ma.gov/community-preservation/news/community-preservation-application-2017" [1]
+2017-01-02 02:33:30 URL:http://www.monson-ma.gov/node/39/events/month [49904] -> "../data/townSites2/Monson/www.monson-ma.gov/node/39/events/month" [1]
+2017-01-02 02:33:32 URL:http://www.monson-ma.gov/node/39/events/month/2017-01 [49961] -> "../data/townSites2/Monson/www.monson-ma.gov/node/39/events/month/2017-01" [1]
+2017-01-02 02:33:33 URL:http://www.monson-ma.gov/node/39/minutes [29905] -> "../data/townSites2/Monson/www.monson-ma.gov/node/39/minutes" [1]
+2017-01-02 02:33:34 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/cpc_september_1_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:33:34 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/meeting_of_2016-04-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:33:35 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/meeting_of_2016-03-02.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:33:36 URL:http://www.monson-ma.gov/conservation-commission [54431] -> "../data/townSites2/Monson/www.monson-ma.gov/node/40" [1]
+2017-01-02 02:33:37 URL:http://www.monson-ma.gov/print/40 [10921] -> "../data/townSites2/Monson/www.monson-ma.gov/print/40" [1]
+2017-01-02 02:33:39 URL:http://www.mass.gov/eea/agencies/massdep/service/massdep-site-help.html [164906] -> "../data/townSites2/Monson/www.monson-ma.gov/conservation-commission/links/dep-forms" [1]
+2017-01-02 02:33:40 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/monson_osrp_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:33:41 URL:http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/ [143104] -> "../data/townSites2/Monson/www.monson-ma.gov/conservation-commission/links/massgis" [1]
+2017-01-02 02:33:42 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/open_space_plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:33:44 URL:http://www.monson-ma.gov/node/40/events/month [53870] -> "../data/townSites2/Monson/www.monson-ma.gov/node/40/events/month" [1]
+2017-01-02 02:33:45 URL:http://www.monson-ma.gov/node/40/events/day/2017-01-18 [32437] -> "../data/townSites2/Monson/www.monson-ma.gov/node/40/events/day/2017-01-18" [1]
+2017-01-02 02:33:46 URL:http://www.monson-ma.gov/node/40/events/month/2017-01 [53927] -> "../data/townSites2/Monson/www.monson-ma.gov/node/40/events/month/2017-01" [1]
+2017-01-02 02:33:47 URL:http://www.monson-ma.gov/node/40/agenda [29362] -> "../data/townSites2/Monson/www.monson-ma.gov/node/40/agenda" [1]
+2017-01-02 02:33:48 URL:http://www.monson-ma.gov/conservation-commission/agenda/monson-conservation-commission-2 [34313] -> "../data/townSites2/Monson/www.monson-ma.gov/conservation-commission/agenda/monson-conservation-commission-2" [1]
+2017-01-02 02:33:50 URL:http://www.monson-ma.gov/conservation-commission/agenda/monson-conservation-commission-1 [35077] -> "../data/townSites2/Monson/www.monson-ma.gov/conservation-commission/agenda/monson-conservation-commission-1" [1]
+2017-01-02 02:33:51 URL:http://www.monson-ma.gov/node/40/minutes [29304] -> "../data/townSites2/Monson/www.monson-ma.gov/node/40/minutes" [1]
+2017-01-02 02:33:52 URL:http://www.monson-ma.gov/conservation-commission/minutes/minutes-10 [33192] -> "../data/townSites2/Monson/www.monson-ma.gov/conservation-commission/minutes/minutes-10" [1]
+2017-01-02 02:33:53 URL:http://www.monson-ma.gov/conservation-commission/minutes/minutes-9 [33190] -> "../data/townSites2/Monson/www.monson-ma.gov/conservation-commission/minutes/minutes-9" [1]
+2017-01-02 02:33:55 URL:http://www.monson-ma.gov/conservation-commission/minutes/minutes-8 [33189] -> "../data/townSites2/Monson/www.monson-ma.gov/conservation-commission/minutes/minutes-8" [1]
+2017-01-02 02:33:56 URL:http://www.monson-ma.gov/conservation-commission/minutes/minutes-7 [33187] -> "../data/townSites2/Monson/www.monson-ma.gov/conservation-commission/minutes/minutes-7" [1]
+2017-01-02 02:33:58 URL:http://www.monson-ma.gov/conservation-commission/minutes/minutes-6 [33187] -> "../data/townSites2/Monson/www.monson-ma.gov/conservation-commission/minutes/minutes-6" [1]
+2017-01-02 02:33:59 URL:http://www.monson-ma.gov/finance-committee [44043] -> "../data/townSites2/Monson/www.monson-ma.gov/node/41" [1]
+2017-01-02 02:34:00 URL:http://www.monson-ma.gov/print/41 [14241] -> "../data/townSites2/Monson/www.monson-ma.gov/print/41" [1]
+2017-01-02 02:34:01 URL:http://www.monson-ma.gov/user/54/contact [32805] -> "../data/townSites2/Monson/www.monson-ma.gov/user/54/contact" [1]
+2017-01-02 02:34:02 URL:http://www.monson-ma.gov/node/41/minutes [28313] -> "../data/townSites2/Monson/www.monson-ma.gov/node/41/minutes" [1]
+2017-01-02 02:34:03 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/meeting_of_2016-6_27.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:34:04 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/meeting_of_2016-05-09.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:34:05 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/meeting_of_2016-04-25.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:34:06 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/meeting_of_2016-03-28.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:34:07 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/meeting_of_2016-03-21.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:34:07 URL:http://www.monson-ma.gov/historical-commission [41673] -> "../data/townSites2/Monson/www.monson-ma.gov/node/42" [1]
+2017-01-02 02:34:08 URL:http://www.monson-ma.gov/print/42 [13988] -> "../data/townSites2/Monson/www.monson-ma.gov/print/42" [1]
+2017-01-02 02:34:10 URL:http://www.monson-ma.gov/user/24/contact [32797] -> "../data/townSites2/Monson/www.monson-ma.gov/user/24/contact" [1]
+2017-01-02 02:34:11 URL:http://www.sec.state.ma.us/mhc/ [68287/68287] -> "../data/townSites2/Monson/www.monson-ma.gov/historical-commission/links/massachusetts-historical-commission" [1]
+2017-01-02 02:34:12 URL:http://www.monson-ma.gov/community-preservation [52235] -> "../data/townSites2/Monson/www.monson-ma.gov/historical-commission/links/monson-community-preservation-committee" [1]
+2017-01-02 02:34:14 URL:http://www.preservationmass.org/ [27955/27955] -> "../data/townSites2/Monson/www.monson-ma.gov/historical-commission/links/preservation-massachusetts" [1]
+2017-01-02 02:34:15 URL:http://www.monson-ma.gov/parks-recreation-commission [48905] -> "../data/townSites2/Monson/www.monson-ma.gov/node/44" [1]
+2017-01-02 02:34:16 URL:http://www.monson-ma.gov/print/44 [8850] -> "../data/townSites2/Monson/www.monson-ma.gov/print/44" [1]
+2017-01-02 02:34:18 URL:http://www.monson-ma.gov/user/43/contact [32777] -> "../data/townSites2/Monson/www.monson-ma.gov/user/43/contact" [1]
+2017-01-02 02:34:20 URL:http://www.monson-ma.gov/user/44/contact [32777] -> "../data/townSites2/Monson/www.monson-ma.gov/user/44/contact" [1]
+2017-01-02 02:34:21 URL:http://www.monson-ma.gov/node/44/events/month [48402] -> "../data/townSites2/Monson/www.monson-ma.gov/node/44/events/month" [1]
+2017-01-02 02:34:22 URL:http://www.monson-ma.gov/node/44/events/month/2017-01 [48459] -> "../data/townSites2/Monson/www.monson-ma.gov/node/44/events/month/2017-01" [1]
+2017-01-02 02:34:23 URL:http://www.monson-ma.gov/node/44/minutes [28385] -> "../data/townSites2/Monson/www.monson-ma.gov/node/44/minutes" [1]
+2017-01-02 02:34:24 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/parks_and_rec_commission_minutes_9-7-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:34:25 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/parks_and_rec_commission_minutes_7-18-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:34:26 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/parks_and_rec_commission_minutes_5-26-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:34:27 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/parks_and_rec_commission_minutes_3-23-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:34:28 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/parks_and_rec_commission_minutes_2-24-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:34:29 URL:http://www.monson-ma.gov/planning-board [53222] -> "../data/townSites2/Monson/www.monson-ma.gov/node/45" [1]
+2017-01-02 02:34:30 URL:http://www.monson-ma.gov/print/45 [12384] -> "../data/townSites2/Monson/www.monson-ma.gov/print/45" [1]
+2017-01-02 02:34:31 URL:http://www.monson-ma.gov/planning-board/pages/monson-master-plan [34682] -> "../data/townSites2/Monson/www.monson-ma.gov/planning-board/pages/monson-master-plan" [1]
+2017-01-02 02:34:32 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/visioning_summary_report_final_06-30-12.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:34:34 URL:http://www.monson-ma.gov/node/45/events/month [49043] -> "../data/townSites2/Monson/www.monson-ma.gov/node/45/events/month" [1]
+2017-01-02 02:34:36 URL:http://www.monson-ma.gov/node/45/events/month/2017-01 [49100] -> "../data/townSites2/Monson/www.monson-ma.gov/node/45/events/month/2017-01" [1]
+2017-01-02 02:34:37 URL:http://www.monson-ma.gov/node/45/minutes [29060] -> "../data/townSites2/Monson/www.monson-ma.gov/node/45/minutes" [1]
+2017-01-02 02:34:38 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/minutes_10.18.2016_2.doc 200 OK
+unlink: No such file or directory
+2017-01-02 02:34:39 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/minutes_9.20.2016_2.doc 200 OK
+unlink: No such file or directory
+2017-01-02 02:34:40 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/planning_board_minutes_08-16-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:34:41 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/planning_board_minutes_07-19-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:34:42 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/planning_board_minutes_06-21-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:34:43 URL:http://www.monson-ma.gov/replanting-monson-tree-committee [50612] -> "../data/townSites2/Monson/www.monson-ma.gov/node/46" [1]
+2017-01-02 02:34:44 URL:http://www.monson-ma.gov/print/46 [13098] -> "../data/townSites2/Monson/www.monson-ma.gov/print/46" [1]
+2017-01-02 02:34:45 URL:http://www.monson-ma.gov/user/55/contact [32807] -> "../data/townSites2/Monson/www.monson-ma.gov/user/55/contact" [1]
+2017-01-02 02:34:46 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/2016_fruit_tree_order_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:34:47 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/trees_for_home_landscape.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:34:48 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/upcoming_events.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:34:50 URL:https://www.facebook.com/replantingmonsontreecommittee?ref=ts [120173] -> "../data/townSites2/Monson/www.monson-ma.gov/replanting-monson-tree-committee/links/visit-us-facebook" [1]
+2017-01-02 02:34:51 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/volunteer_signup_sheet.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:34:52 URL:http://www.monson-ma.gov/node/46/events/month [49627] -> "../data/townSites2/Monson/www.monson-ma.gov/node/46/events/month" [1]
+2017-01-02 02:34:53 URL:http://www.monson-ma.gov/node/46/events/month/2017-01 [49684] -> "../data/townSites2/Monson/www.monson-ma.gov/node/46/events/month/2017-01" [1]
+2017-01-02 02:34:54 URL:http://www.monson-ma.gov/school-committee [46553] -> "../data/townSites2/Monson/www.monson-ma.gov/node/47" [1]
+2017-01-02 02:34:55 URL:http://www.monson-ma.gov/print/47 [9877] -> "../data/townSites2/Monson/www.monson-ma.gov/print/47" [1]
+2017-01-02 02:34:57 URL:http://www.monson-ma.gov/node/47/events/month [48295] -> "../data/townSites2/Monson/www.monson-ma.gov/node/47/events/month" [1]
+2017-01-02 02:34:58 URL:http://www.monson-ma.gov/node/47/events/month/2017-01 [48352] -> "../data/townSites2/Monson/www.monson-ma.gov/node/47/events/month/2017-01" [1]
+2017-01-02 02:34:59 URL:http://www.monson-ma.gov/water-sewer-commission [51505] -> "../data/townSites2/Monson/www.monson-ma.gov/node/48" [1]
+2017-01-02 02:35:00 URL:http://www.monson-ma.gov/print/48 [11719] -> "../data/townSites2/Monson/www.monson-ma.gov/print/48" [1]
+2017-01-02 02:35:01 URL:http://www.monson-ma.gov/node/48/events/month [48349] -> "../data/townSites2/Monson/www.monson-ma.gov/node/48/events/month" [1]
+2017-01-02 02:35:03 URL:http://www.monson-ma.gov/node/48/events/month/2017-01 [48406] -> "../data/townSites2/Monson/www.monson-ma.gov/node/48/events/month/2017-01" [1]
+2017-01-02 02:35:04 URL:http://www.monson-ma.gov/node/48/minutes [28346] -> "../data/townSites2/Monson/www.monson-ma.gov/node/48/minutes" [1]
+2017-01-02 02:35:05 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/minutes_2016_08.17_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:35:07 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/minutes_2016.07.20_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:35:08 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/minutes_2016.06.15_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:35:09 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/minutes_2016.05.18_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:35:10 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/minutes_2016.04.20_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:35:11 URL:http://www.monson-ma.gov/zoning-board-appeals [53566] -> "../data/townSites2/Monson/www.monson-ma.gov/node/49" [1]
+2017-01-02 02:35:12 URL:http://www.monson-ma.gov/print/49 [13254] -> "../data/townSites2/Monson/www.monson-ma.gov/print/49" [1]
+2017-01-02 02:35:14 URL:http://www.monson-ma.gov/node/49/events/month [48341] -> "../data/townSites2/Monson/www.monson-ma.gov/node/49/events/month" [1]
+2017-01-02 02:35:15 URL:http://www.monson-ma.gov/node/49/events/month/2017-01 [48398] -> "../data/townSites2/Monson/www.monson-ma.gov/node/49/events/month/2017-01" [1]
+2017-01-02 02:35:16 URL:http://www.monson-ma.gov/node/49/minutes [28340] -> "../data/townSites2/Monson/www.monson-ma.gov/node/49/minutes" [1]
+2017-01-02 02:35:18 URL:http://www.monson-ma.gov/zoning-board-appeals/minutes/minutes-3 [32415] -> "../data/townSites2/Monson/www.monson-ma.gov/zoning-board-appeals/minutes/minutes-3" [1]
+2017-01-02 02:35:19 URL:http://www.monson-ma.gov/zoning-board-appeals/minutes/minutes-2 [32409] -> "../data/townSites2/Monson/www.monson-ma.gov/zoning-board-appeals/minutes/minutes-2" [1]
+2017-01-02 02:35:21 URL:http://www.monson-ma.gov/zoning-board-appeals/minutes/minutes-1 [32411] -> "../data/townSites2/Monson/www.monson-ma.gov/zoning-board-appeals/minutes/minutes-1" [1]
+2017-01-02 02:35:22 URL:http://www.monson-ma.gov/zoning-board-appeals/minutes/minutes-0 [32411] -> "../data/townSites2/Monson/www.monson-ma.gov/zoning-board-appeals/minutes/minutes-0" [1]
+2017-01-02 02:35:23 URL: http://www.monson-ma.gov/sites/monsonma/files/minutes/zoning_board_of_appeals_minutes_02-25-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:35:24 URL:http://www.monson-ma.gov/home/pages/community [36565] -> "../data/townSites2/Monson/www.monson-ma.gov/node/945" [1]
+2017-01-02 02:35:25 URL:http://www.monson-ma.gov/print/945 [11975] -> "../data/townSites2/Monson/www.monson-ma.gov/print/945" [1]
+2017-01-02 02:35:27 URL:http://www.monson-ma.gov/visit-monson/pages/governmental-information [40535] -> "../data/townSites2/Monson/www.monson-ma.gov/visit-monson/pages/governmental-information" [1]
+2017-01-02 02:35:27 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/town_of_monson_ma_-_marriage_licenses.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:35:27 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/dog_licensing_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:35:29 URL:http://www.monson-ma.gov/fire-and-emergency-services [42895] -> "../data/townSites2/Monson/www.monson-ma.gov/fire-department.1" [1]
+2017-01-02 02:35:29 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/field_use_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:35:29 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/mvexciseabatement.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:35:29 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/monson_zoning_bylaws.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:35:30 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/subdivision_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:35:31 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/new_residential_construction_building_permit_application_requirements.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:35:31 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/zoning_map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:35:31 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/plumbing_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:35:32 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/electrical_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:35:32 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/gas_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:35:32 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/building_permit_application_residential.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:35:33 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/demolition_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:35:34 URL:http://www.monson-ma.gov/home/pages/find-it-fast [33695] -> "../data/townSites2/Monson/www.monson-ma.gov/node/4713" [1]
+2017-01-02 02:35:35 URL:http://www.monson-ma.gov/print/4713 [9093] -> "../data/townSites2/Monson/www.monson-ma.gov/print/4713" [1]
+2017-01-02 02:35:37 URL:http://www.monson-ma.gov/board-health/pages/applications-and-other-boh-forms [35772] -> "../data/townSites2/Monson/www.monson-ma.gov/node/330" [1]
+2017-01-02 02:35:38 URL:http://www.monson-ma.gov/print/330 [6953] -> "../data/townSites2/Monson/www.monson-ma.gov/print/330" [1]
+2017-01-02 02:35:39 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/application_for_a_permit_to_opperate_a_food_establishment.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:35:41 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/application_for_milk_and_cream_license.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:35:42 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/application_for_perc_test.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:35:44 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/application_for_the_construction_of_a_private_well.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:35:46 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/application_for_various_food_permits.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:35:47 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/application_for_permit_to_install_spetic_systems.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:35:49 URL:http://www.monson-ma.gov/building-department-zoning-enforcement/pages/applications [36404] -> "../data/townSites2/Monson/www.monson-ma.gov/node/949" [1]
+2017-01-02 02:35:50 URL:http://www.monson-ma.gov/print/949 [7972] -> "../data/townSites2/Monson/www.monson-ma.gov/print/949" [1]
+2017-01-02 02:35:51 URL:http://www.monson-ma.gov/town-clerk/pages/voter-information [39850] -> "../data/townSites2/Monson/www.monson-ma.gov/node/79" [1]
+2017-01-02 02:35:52 URL:http://www.monson-ma.gov/print/79 [10407] -> "../data/townSites2/Monson/www.monson-ma.gov/print/79" [1]
+2017-01-02 02:35:55 URL:http://www.monson-ma.gov/home/webforms/send-us-comments [40386/40386] -> "../data/townSites2/Monson/www.monson-ma.gov/node/2" [1]
+2017-01-02 02:35:56 URL:http://www.monson-ma.gov/print/2 [16100/16100] -> "../data/townSites2/Monson/www.monson-ma.gov/print/2" [1]
+2017-01-02 02:35:58 URL:http://www.monson-ma.gov/home/bulletins/report-issue [31381] -> "../data/townSites2/Monson/www.monson-ma.gov/node/10" [1]
+2017-01-02 02:35:59 URL:http://www.monson-ma.gov/print/10 [6813] -> "../data/townSites2/Monson/www.monson-ma.gov/print/10" [1]
+2017-01-02 02:36:00 URL:http://www.monson-ma.gov/home/pages/elections-town-meeting [30762] -> "../data/townSites2/Monson/www.monson-ma.gov/node/153" [1]
+2017-01-02 02:36:01 URL:http://www.monson-ma.gov/print/153 [6213] -> "../data/townSites2/Monson/www.monson-ma.gov/print/153" [1]
+2017-01-02 02:36:02 URL:http://www.monson-ma.gov/town-clerk/pages/town-meeting-information [36813] -> "../data/townSites2/Monson/www.monson-ma.gov/town-clerk/pages/town-meeting" [1]
+2017-01-02 02:36:05 URL:http://www.monson-ma.gov/memorial-hall [51186] -> "../data/townSites2/Monson/www.monson-ma.gov/node/1513" [1]
+2017-01-02 02:36:06 URL:http://www.monson-ma.gov/print/1513 [7479] -> "../data/townSites2/Monson/www.monson-ma.gov/print/1513" [1]
+2017-01-02 02:36:07 URL:http://www.monson-ma.gov/node/1513/events/month [83853] -> "../data/townSites2/Monson/www.monson-ma.gov/node/1513/events/month" [1]
+2017-01-02 02:36:09 URL:http://www.monson-ma.gov/node/1513/events/day/2017-01-17 [32048] -> "../data/townSites2/Monson/www.monson-ma.gov/node/1513/events/day/2017-01-17" [1]
+2017-01-02 02:36:10 URL:http://www.monson-ma.gov/node/1513/events/day/2017-01-18 [32050] -> "../data/townSites2/Monson/www.monson-ma.gov/node/1513/events/day/2017-01-18" [1]
+2017-01-02 02:36:12 URL:http://www.monson-ma.gov/node/1513/events/day/2017-01-19 [32049] -> "../data/townSites2/Monson/www.monson-ma.gov/node/1513/events/day/2017-01-19" [1]
+2017-01-02 02:36:14 URL:http://www.monson-ma.gov/node/1513/events/day/2017-01-21 [32381] -> "../data/townSites2/Monson/www.monson-ma.gov/node/1513/events/day/2017-01-21" [1]
+2017-01-02 02:36:16 URL:http://www.monson-ma.gov/node/1513/events/day/2017-01-22 [32391] -> "../data/townSites2/Monson/www.monson-ma.gov/node/1513/events/day/2017-01-22" [1]
+2017-01-02 02:36:18 URL:http://www.monson-ma.gov/node/1513/events/day/2017-01-24 [32048] -> "../data/townSites2/Monson/www.monson-ma.gov/node/1513/events/day/2017-01-24" [1]
+2017-01-02 02:36:20 URL:http://www.monson-ma.gov/node/1513/events/day/2017-01-25 [32050] -> "../data/townSites2/Monson/www.monson-ma.gov/node/1513/events/day/2017-01-25" [1]
+2017-01-02 02:36:22 URL:http://www.monson-ma.gov/node/1513/events/day/2017-01-26 [32049] -> "../data/townSites2/Monson/www.monson-ma.gov/node/1513/events/day/2017-01-26" [1]
+2017-01-02 02:36:23 URL:http://www.monson-ma.gov/node/1513/events/day/2017-01-27 [32052] -> "../data/townSites2/Monson/www.monson-ma.gov/node/1513/events/day/2017-01-27" [1]
+2017-01-02 02:36:24 URL:http://www.monson-ma.gov/node/1513/events/day/2017-01-28 [32054] -> "../data/townSites2/Monson/www.monson-ma.gov/node/1513/events/day/2017-01-28" [1]
+2017-01-02 02:36:25 URL:http://www.monson-ma.gov/node/1513/events/month/2017-01 [83922] -> "../data/townSites2/Monson/www.monson-ma.gov/node/1513/events/month/2017-01" [1]
+2017-01-02 02:36:26 URL:http://www.monson-ma.gov/home/pages/town-officials [78329] -> "../data/townSites2/Monson/www.monson-ma.gov/node/947" [1]
+2017-01-02 02:36:28 URL:http://www.monson-ma.gov/print/947 [53726] -> "../data/townSites2/Monson/www.monson-ma.gov/print/947" [1]
+2017-01-02 02:36:29 URL:http://www.monson-ma.gov/where/2 [32394] -> "../data/townSites2/Monson/www.monson-ma.gov/where/2" [1]
+2017-01-02 02:36:30 URL:http://www.monson-ma.gov/where/a [35662] -> "../data/townSites2/Monson/www.monson-ma.gov/where/a" [1]
+2017-01-02 02:36:32 URL:http://www.monson-ma.gov/where/b [32611] -> "../data/townSites2/Monson/www.monson-ma.gov/where/b" [1]
+2017-01-02 02:36:33 URL:http://www.monson-ma.gov/where/c [32841] -> "../data/townSites2/Monson/www.monson-ma.gov/where/c" [1]
+2017-01-02 02:36:34 URL:http://www.monson-ma.gov/where/d [31801] -> "../data/townSites2/Monson/www.monson-ma.gov/where/d" [1]
+2017-01-02 02:36:35 URL:http://www.monson-ma.gov/where/e [32052] -> "../data/townSites2/Monson/www.monson-ma.gov/where/e" [1]
+2017-01-02 02:36:36 URL:http://www.monson-ma.gov/where/f [32343] -> "../data/townSites2/Monson/www.monson-ma.gov/where/f" [1]
+2017-01-02 02:36:37 URL:http://www.monson-ma.gov/where/g [31803] -> "../data/townSites2/Monson/www.monson-ma.gov/where/g" [1]
+2017-01-02 02:36:39 URL:http://www.monson-ma.gov/where/h [31434] -> "../data/townSites2/Monson/www.monson-ma.gov/where/h" [1]
+2017-01-02 02:36:40 URL:http://www.monson-ma.gov/where/m [35391] -> "../data/townSites2/Monson/www.monson-ma.gov/where/m" [1]
+2017-01-02 02:36:41 URL:http://www.monson-ma.gov/where/n [31840] -> "../data/townSites2/Monson/www.monson-ma.gov/where/n" [1]
+2017-01-02 02:36:42 URL:http://www.monson-ma.gov/where/o [32529] -> "../data/townSites2/Monson/www.monson-ma.gov/where/o" [1]
+2017-01-02 02:36:43 URL:http://www.monson-ma.gov/where/p [33170] -> "../data/townSites2/Monson/www.monson-ma.gov/where/p" [1]
+2017-01-02 02:36:44 URL:http://www.monson-ma.gov/where/r [31833] -> "../data/townSites2/Monson/www.monson-ma.gov/where/r" [1]
+2017-01-02 02:36:45 URL:http://www.monson-ma.gov/where/s [33470] -> "../data/townSites2/Monson/www.monson-ma.gov/where/s" [1]
+2017-01-02 02:36:46 URL:http://www.monson-ma.gov/where/t [32837] -> "../data/townSites2/Monson/www.monson-ma.gov/where/t" [1]
+2017-01-02 02:36:47 URL:http://www.monson-ma.gov/where/v [32309] -> "../data/townSites2/Monson/www.monson-ma.gov/where/v" [1]
+2017-01-02 02:36:49 URL:http://www.monson-ma.gov/where/w [32652] -> "../data/townSites2/Monson/www.monson-ma.gov/where/w" [1]
+2017-01-02 02:36:50 URL:http://www.monson-ma.gov/where/z [31791] -> "../data/townSites2/Monson/www.monson-ma.gov/where/z" [1]
+2017-01-02 02:36:51 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/2015_monson_yearly_total_pumping_chart.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:36:52 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/ambulance_subscription_enrollment-information_sheet.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:36:53 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/appendix_a_-_testing_of_water_distribution_systems_tighe_bond.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:36:54 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/appendix_b_-_disinfection_of_water_distribution_systems_tighe_bond.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:36:55 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/application_for_seniors.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:36:56 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/application_for_sign_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:36:57 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/blind_exemption.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:36:58 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/building_permit_application_residential.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:36:59 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/business_certificate.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:00 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/cell_phone_policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:01 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/demolition_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:02 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/electrical_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:03 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/employent_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:03 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/friends_of_animal_control_flyer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:04 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/gas_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:05 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/map_of_lower_portion_of_hillside_cemetery.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:06 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/massdep_testing_requirements_for_public_water_systems.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:07 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/memorial_hall_use_policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:08 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/monson_arts_council_seeking_volunteers.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:09 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/monson_dolphins_meet_directions.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:10 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/monson_dolphins_winter_swim_team.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:11 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/monson_fd_job_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:12 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/monson_sewer_rate_fee_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:13 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/monson_water_rate_fee_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:14 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/ongoing_pool_programs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:15 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/plumbing_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:16 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/pool_fees.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:17 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/pool_party_request.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:17 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/pool_program_gift_certificates.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:18 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/pool_program_survey-please_let_us_know_what_you_want.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:19 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/real_property_tax_abatement_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:20 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/sewer_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:21 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/sewer_system_rules_and_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:22 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/sexual_harassment_policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:23 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/special_permit_site_plan_variance_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:24 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/statement_of_discontinuance_change_etc.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:25 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/swim_registration_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:26 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/text_of_master_plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:27 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/trench_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:28 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/veterans_exemption.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:29 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/water_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:30 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/water_supply_protection.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:31 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/water_system_construction_standards.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:32 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/water_system_rules_and_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:32 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/wood_pellet_coal_etc._-_stove_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:33 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/zoning_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:34 URL:http://www.monson-ma.gov/visit-monson [46002] -> "../data/townSites2/Monson/www.monson-ma.gov/node/138" [1]
+2017-01-02 02:37:35 URL:http://www.monson-ma.gov/print/138 [7996] -> "../data/townSites2/Monson/www.monson-ma.gov/print/138" [1]
+2017-01-02 02:37:37 URL:http://www.monson-ma.gov/visit-monson/pages/attractions-and-dining [34775] -> "../data/townSites2/Monson/www.monson-ma.gov/visit-monson/pages/attractions-and-dining" [1]
+2017-01-02 02:37:38 URL:http://www.monson-ma.gov/visit-monson/pages/facts-interest [40138] -> "../data/townSites2/Monson/www.monson-ma.gov/visit-monson/pages/facts-interest" [1]
+2017-01-02 02:37:40 URL:http://www.monson-ma.gov/visit-monson/pages/important-links [42727] -> "../data/townSites2/Monson/www.monson-ma.gov/visit-monson/pages/important-links" [1]
+2017-01-02 02:37:41 URL:http://www.monson-ma.gov/memorial-hall [51186] -> "../data/townSites2/Monson/www.monson-ma.gov/visit-monson/links/memorial-hall" [1]
+2017-01-02 02:37:42 URL:http://www.monson-ma.gov/visit-monson/pages/organizations-monson [33848] -> "../data/townSites2/Monson/www.monson-ma.gov/visit-monson/pages/organizations-monson" [1]
+2017-01-02 02:37:44 URL:http://www.monson-ma.gov/parks-recreation-department/pages/parks-and-playgrounds [36487] -> "../data/townSites2/Monson/www.monson-ma.gov/visit-monson/links/parks-and-playgrounds" [1]
+2017-01-02 02:37:45 URL:http://www.monson-ma.gov/visit-monson/pages/religious-organizations [34923] -> "../data/townSites2/Monson/www.monson-ma.gov/visit-monson/pages/religious-organizations" [1]
+2017-01-02 02:37:46 URL:http://www.monson-ma.gov/visit-monson/events/4793 [33985] -> "../data/townSites2/Monson/www.monson-ma.gov/visit-monson/links/summerfest-independence-day-celebration" [1]
+2017-01-02 02:37:48 URL:http://www.monson-ma.gov/node/138/events/month [49933] -> "../data/townSites2/Monson/www.monson-ma.gov/node/138/events/month" [1]
+2017-01-02 02:37:49 URL:http://www.monson-ma.gov/node/138/events/month/2017-01 [49990] -> "../data/townSites2/Monson/www.monson-ma.gov/node/138/events/month/2017-01" [1]
+2017-01-02 02:37:50 URL:http://www.monson-ma.gov/home/pages/public-information [30801] -> "../data/townSites2/Monson/www.monson-ma.gov/node/1283" [1]
+2017-01-02 02:37:51 URL:http://www.monson-ma.gov/print/1283 [6216] -> "../data/townSites2/Monson/www.monson-ma.gov/print/1283" [1]
+2017-01-02 02:37:52 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/2017_budget_-_adobe_acrobat_document.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:53 URL:http://www.monson-ma.gov/home/pages/pay-bills-online [30524] -> "../data/townSites2/Monson/www.monson-ma.gov/node/1503" [1]
+2017-01-02 02:37:54 URL:http://www.monson-ma.gov/print/1503 [6000] -> "../data/townSites2/Monson/www.monson-ma.gov/print/1503" [1]
+2017-01-02 02:37:55 URL:http://www.monson-ma.gov/home/news/winter-parking-ban [30547] -> "../data/townSites2/Monson/www.monson-ma.gov/node/7363" [1]
+2017-01-02 02:37:56 URL:http://www.monson-ma.gov/print/7363 [5895] -> "../data/townSites2/Monson/www.monson-ma.gov/print/7363" [1]
+2017-01-02 02:37:56 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/parking_ban.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:37:57 URL:http://www.monson-ma.gov/home/news/second-annual-kids-monson-toy-drive [30834] -> "../data/townSites2/Monson/www.monson-ma.gov/node/7343" [1]
+2017-01-02 02:37:58 URL:http://www.monson-ma.gov/print/7343 [6280] -> "../data/townSites2/Monson/www.monson-ma.gov/print/7343" [1]
+2017-01-02 02:37:59 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/second_annual_kids_of_monson_toy_drive.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:38:00 URL:http://www.monson-ma.gov/home/news/community-preservation-application-2017 [30953] -> "../data/townSites2/Monson/www.monson-ma.gov/node/7123" [1]
+2017-01-02 02:38:02 URL:http://www.monson-ma.gov/print/7123 [6736] -> "../data/townSites2/Monson/www.monson-ma.gov/print/7123" [1]
+2017-01-02 02:38:02 URL: http://www.monson-ma.gov/sites/monsonma/files/news/community_preservation_application_2017_0.doc 200 OK
+unlink: No such file or directory
+2017-01-02 02:38:02 URL: http://www.monson-ma.gov/node/1/news/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:38:04 URL:http://www.monson-ma.gov/calendar-by-event-type/20%2B17%2B19 [87336] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/20+17+19.1" [1]
+2017-01-02 02:38:05 URL:http://www.monson-ma.gov/calendar-by-event-type/20%2B17%2B19/day [33945] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/20+17+19/day.1" [1]
+2017-01-02 02:38:07 URL:http://www.monson-ma.gov/calendar-by-event-type/20%2B17%2B19/week [33956] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/20+17+19/week" [1]
+2017-01-02 02:38:08 URL:http://www.monson-ma.gov/calendar-by-event-type/20%2B17%2B19/year [166125] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/20+17+19/year" [1]
+2017-01-02 02:38:09 URL:http://www.monson-ma.gov/calendar-by-event-type/20%2B17%2B19/day/2017-01-16 [34037] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/20+17+19/day/2017-01-16" [1]
+2017-01-02 02:38:10 URL:http://www.monson-ma.gov/memorial-hall/events/7283 [31466] -> "../data/townSites2/Monson/www.monson-ma.gov/node/7283" [1]
+2017-01-02 02:38:11 URL:http://www.monson-ma.gov/print/7283 [6342] -> "../data/townSites2/Monson/www.monson-ma.gov/print/7283" [1]
+2017-01-02 02:38:13 URL:http://www.monson-ma.gov/calendar-by-event-type/20%2B17%2B19/day/2017-01-20 [34037] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/20+17+19/day/2017-01-20" [1]
+2017-01-02 02:38:14 URL:http://www.monson-ma.gov/memorial-hall/events/4183 [31299] -> "../data/townSites2/Monson/www.monson-ma.gov/node/4183" [1]
+2017-01-02 02:38:14 URL:http://www.monson-ma.gov/print/4183 [6183] -> "../data/townSites2/Monson/www.monson-ma.gov/print/4183" [1]
+2017-01-02 02:38:16 URL:http://www.monson-ma.gov/memorial-hall/events/2303 [31239] -> "../data/townSites2/Monson/www.monson-ma.gov/node/2303" [1]
+2017-01-02 02:38:17 URL:http://www.monson-ma.gov/print/2303 [5995] -> "../data/townSites2/Monson/www.monson-ma.gov/print/2303" [1]
+2017-01-02 02:38:18 URL:http://www.monson-ma.gov/calendar-by-event-type/20%2B17%2B19/day/2017-01-23 [34037] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/20+17+19/day/2017-01-23" [1]
+2017-01-02 02:38:19 URL:http://www.monson-ma.gov/memorial-hall/events/2313 [31261] -> "../data/townSites2/Monson/www.monson-ma.gov/node/2313" [1]
+2017-01-02 02:38:20 URL:http://www.monson-ma.gov/print/2313 [6041] -> "../data/townSites2/Monson/www.monson-ma.gov/print/2313" [1]
+2017-01-02 02:38:21 URL:http://www.monson-ma.gov/memorial-hall/events/4203 [31482] -> "../data/townSites2/Monson/www.monson-ma.gov/node/4203" [1]
+2017-01-02 02:38:22 URL:http://www.monson-ma.gov/print/4203 [6318] -> "../data/townSites2/Monson/www.monson-ma.gov/print/4203" [1]
+2017-01-02 02:38:23 URL:http://www.monson-ma.gov/memorial-hall/events/7293 [31465] -> "../data/townSites2/Monson/www.monson-ma.gov/node/7293" [1]
+2017-01-02 02:38:24 URL:http://www.monson-ma.gov/print/7293 [6341] -> "../data/townSites2/Monson/www.monson-ma.gov/print/7293" [1]
+2017-01-02 02:38:25 URL:http://www.monson-ma.gov/memorial-hall/events/7183 [31500] -> "../data/townSites2/Monson/www.monson-ma.gov/node/7183" [1]
+2017-01-02 02:38:26 URL:http://www.monson-ma.gov/print/7183 [6386] -> "../data/townSites2/Monson/www.monson-ma.gov/print/7183" [1]
+2017-01-02 02:38:27 URL:http://www.monson-ma.gov/calendar-by-event-type/20%2B17%2B19/day/2017-01-29 [34037] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/20+17+19/day/2017-01-29" [1]
+2017-01-02 02:38:28 URL: http://www.monson-ma.gov/calendar-by-event-type/feed/20%2B17%2B19/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 02:38:30 URL:http://www.monson-ma.gov/calendar-by-event-type/20%2B17%2B19/month/2016-12 [102459] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/20+17+19/month/2016-12" [1]
+2017-01-02 02:38:32 URL:http://www.monson-ma.gov/calendar-by-event-type/20%2B17%2B19/month/2017-02 [87645] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/20+17+19/month/2017-02" [1]
+2017-01-02 02:38:33 URL:http://www.monson-ma.gov/calendar-by-event-type/16 [89458] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/16.1" [1]
+2017-01-02 02:38:35 URL:http://www.monson-ma.gov/calendar-by-event-type/16/day [33756] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/16/day.1" [1]
+2017-01-02 02:38:36 URL:http://www.monson-ma.gov/calendar-by-event-type/16/week [35716] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/16/week" [1]
+2017-01-02 02:38:38 URL:http://www.monson-ma.gov/calendar-by-event-type/16/year [143503] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/16/year" [1]
+2017-01-02 02:38:39 URL:http://www.monson-ma.gov/calendar-by-event-type/16/day/2017-01-03 [33841] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/16/day/2017-01-03" [1]
+2017-01-02 02:38:40 URL:http://www.monson-ma.gov/monson-public-schools/events/7983 [36936] -> "../data/townSites2/Monson/www.monson-ma.gov/node/7983" [1]
+2017-01-02 02:38:41 URL:http://www.monson-ma.gov/print/7983 [10016] -> "../data/townSites2/Monson/www.monson-ma.gov/print/7983" [1]
+2017-01-02 02:38:42 URL: http://www.monson-ma.gov/sites/monsonma/files/agendas/prvths1-4-17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:38:43 URL:http://www.monson-ma.gov/monson-public-schools/events/8003 [36844] -> "../data/townSites2/Monson/www.monson-ma.gov/node/8003" [1]
+2017-01-02 02:38:44 URL:http://www.monson-ma.gov/print/8003 [9916] -> "../data/townSites2/Monson/www.monson-ma.gov/print/8003" [1]
+2017-01-02 02:38:44 URL: http://www.monson-ma.gov/sites/monsonma/files/agendas/agenda_17_january_4.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:38:45 URL:http://www.monson-ma.gov/calendar-by-event-type/16/day/2017-01-06 [33840] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/16/day/2017-01-06" [1]
+2017-01-02 02:38:46 URL:http://www.monson-ma.gov/home/events/8083 [31561] -> "../data/townSites2/Monson/www.monson-ma.gov/node/8083" [1]
+2017-01-02 02:38:47 URL:http://www.monson-ma.gov/print/8083 [7117] -> "../data/townSites2/Monson/www.monson-ma.gov/print/8083" [1]
+2017-01-02 02:38:48 URL:http://www.monson-ma.gov/cemetery-commission/events/6963 [31439] -> "../data/townSites2/Monson/www.monson-ma.gov/node/6963" [1]
+2017-01-02 02:38:49 URL:http://www.monson-ma.gov/print/6963 [6878] -> "../data/townSites2/Monson/www.monson-ma.gov/print/6963" [1]
+2017-01-02 02:38:50 URL:http://www.monson-ma.gov/cemetery-commission/events/8043 [31439] -> "../data/townSites2/Monson/www.monson-ma.gov/node/8043" [1]
+2017-01-02 02:38:51 URL:http://www.monson-ma.gov/print/8043 [6723] -> "../data/townSites2/Monson/www.monson-ma.gov/print/8043" [1]
+2017-01-02 02:38:52 URL:http://www.monson-ma.gov/calendar-by-event-type/16/day/2017-01-10 [33842] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/16/day/2017-01-10" [1]
+2017-01-02 02:38:53 URL:http://www.monson-ma.gov/calendar-by-event-type/16/day/2017-01-12 [33843] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/16/day/2017-01-12" [1]
+2017-01-02 02:38:54 URL:http://www.monson-ma.gov/board-health/events/7953 [38288] -> "../data/townSites2/Monson/www.monson-ma.gov/node/7953" [1]
+2017-01-02 02:38:56 URL:http://www.monson-ma.gov/print/7953 [9690] -> "../data/townSites2/Monson/www.monson-ma.gov/print/7953" [1]
+2017-01-02 02:38:56 URL: http://www.monson-ma.gov/sites/monsonma/files/agendas/bohagenda1-11-17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:38:57 URL:http://www.monson-ma.gov/home/events/2883 [31307] -> "../data/townSites2/Monson/www.monson-ma.gov/node/2883" [1]
+2017-01-02 02:38:58 URL:http://www.monson-ma.gov/print/2883 [6887] -> "../data/townSites2/Monson/www.monson-ma.gov/print/2883" [1]
+2017-01-02 02:38:59 URL:http://www.monson-ma.gov/calendar-by-event-type/16/day/2017-01-17 [33842] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/16/day/2017-01-17" [1]
+2017-01-02 02:39:01 URL:http://www.monson-ma.gov/calendar-by-event-type/16/day/2017-01-19 [33843] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/16/day/2017-01-19" [1]
+2017-01-02 02:39:02 URL:http://www.monson-ma.gov/conservation-commission/events/8053 [34228] -> "../data/townSites2/Monson/www.monson-ma.gov/node/8053" [1]
+2017-01-02 02:39:02 URL:http://www.monson-ma.gov/print/8053 [6938] -> "../data/townSites2/Monson/www.monson-ma.gov/print/8053" [1]
+2017-01-02 02:39:04 URL:http://www.monson-ma.gov/calendar-by-event-type/16/day/2017-01-25 [33844] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/16/day/2017-01-25" [1]
+2017-01-02 02:39:05 URL:http://www.monson-ma.gov/calendar-by-event-type/16/day/2017-01-27 [33841] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/16/day/2017-01-27" [1]
+2017-01-02 02:39:06 URL:http://www.monson-ma.gov/monson-public-schools/events/7693 [34210] -> "../data/townSites2/Monson/www.monson-ma.gov/node/7693" [1]
+2017-01-02 02:39:07 URL:http://www.monson-ma.gov/print/7693 [7128] -> "../data/townSites2/Monson/www.monson-ma.gov/print/7693" [1]
+2017-01-02 02:39:08 URL: http://www.monson-ma.gov/calendar-by-event-type/feed/16/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 02:39:10 URL:http://www.monson-ma.gov/calendar-by-event-type/16/month/2016-12 [170841] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/16/month/2016-12" [1]
+2017-01-02 02:39:11 URL:http://www.monson-ma.gov/calendar-by-event-type/16/month/2017-02 [55830] -> "../data/townSites2/Monson/www.monson-ma.gov/calendar-by-event-type/16/month/2017-02" [1]
+2017-01-02 02:39:12 URL:http://www.monson-ma.gov/home/pages/hours [37340] -> "../data/townSites2/Monson/www.monson-ma.gov/node/145" [1]
+2017-01-02 02:39:13 URL:http://www.monson-ma.gov/print/145 [12715] -> "../data/townSites2/Monson/www.monson-ma.gov/print/145" [1]
+2017-01-02 02:39:14 URL:http://www.monson-ma.gov/home/pages/online-services [31359] -> "../data/townSites2/Monson/www.monson-ma.gov/node/147" [1]
+2017-01-02 02:39:15 URL:http://www.monson-ma.gov/print/147 [6822] -> "../data/townSites2/Monson/www.monson-ma.gov/print/147" [1]
+2017-01-02 02:39:16 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/chapterland_applications.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:39:17 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/ch_61_rights_and_acknowledgements.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:39:19 URL:http://www.monson-ma.gov/node/16/files [32996] -> "../data/townSites2/Monson/www.monson-ma.gov/node/16/files" [1]
+2017-01-02 02:39:20 URL:http://www.monson-ma.gov/node/17/files [33230] -> "../data/townSites2/Monson/www.monson-ma.gov/node/17/files" [1]
+2017-01-02 02:39:22 URL:http://www.monson-ma.gov/node/29/files [36902] -> "../data/townSites2/Monson/www.monson-ma.gov/node/29/files" [1]
+2017-01-02 02:39:23 URL:http://www.monson-ma.gov/node/18/files [35370] -> "../data/townSites2/Monson/www.monson-ma.gov/node/18/files" [1]
+2017-01-02 02:39:24 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/map_of_hillcrest_cemetery.jpg 200 OK
+unlink: No such file or directory
+2017-01-02 02:39:25 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/map_of_upper_portion_of_hillside_cemtery.jpg 200 OK
+unlink: No such file or directory
+2017-01-02 02:39:26 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/bumstead_road_mva_march_16_2010_image_3.jpg 200 OK
+unlink: No such file or directory
+2017-01-02 02:39:27 URL:http://www.monson-ma.gov/node/25/files [36666] -> "../data/townSites2/Monson/www.monson-ma.gov/node/25/files" [1]
+2017-01-02 02:39:28 URL:http://www.monson-ma.gov/node/27/files [34681] -> "../data/townSites2/Monson/www.monson-ma.gov/node/27/files" [1]
+2017-01-02 02:39:29 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/8-2_land_use_guide_plan_-_downtown.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:39:30 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/8-1_land_use_guide_plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:39:31 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/4-1_open_space.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:39:33 URL:http://www.monson-ma.gov/node/45/files [31208] -> "../data/townSites2/Monson/www.monson-ma.gov/node/45/files" [1]
+2017-01-02 02:39:34 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/mc_stone_wall_repairs_drawings_9-17-14_a101.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:39:35 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/mc_stone_wall_repairs_drawings_9-17-14_a103.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:39:36 URL:http://www.monson-ma.gov/node/30/files [32984] -> "../data/townSites2/Monson/www.monson-ma.gov/node/30/files" [1]
+2017-01-02 02:39:37 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/may_11_2015_special_town_meeting_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:39:38 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/may_11_2015_annual_town_meeting_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:39:39 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/may_11_2015_annual_town_meeting_presentation.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:39:40 URL:http://www.monson-ma.gov/node/31/files [35220] -> "../data/townSites2/Monson/www.monson-ma.gov/node/31/files" [1]
+2017-01-02 02:39:41 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/2013_town_collectors_annual_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:39:42 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/2014_collectors_annual_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:39:43 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/town_collectors_2015_annual_town_report_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:39:44 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/250_teal_1.png 200 OK
+unlink: No such file or directory
+2017-01-02 02:39:45 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/2015_monson_award.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:39:46 URL: http://www.monson-ma.gov/sites/monsonma/files/uploads/usc_cross-connection_household_plumbing.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:39:47 URL:http://www.monson-ma.gov/node/36/files [39142] -> "../data/townSites2/Monson/www.monson-ma.gov/node/36/files" [1]
+2017-01-02 02:39:48 URL:http://www.monson-ma.gov/parks-recreation-department/pages/parks-and-playgrounds [36487] -> "../data/townSites2/Monson/www.monson-ma.gov/node/4573" [1]
+2017-01-02 02:39:49 URL:http://www.monson-ma.gov/print/4573 [7454] -> "../data/townSites2/Monson/www.monson-ma.gov/print/4573" [1]
+2017-01-02 02:39:51 URL:http://www.monson-ma.gov/parks-recreation-department/pages/flynt-park [35908] -> "../data/townSites2/Monson/www.monson-ma.gov/parks-recreation-department/pages/flynt-park" [1]
+2017-01-02 02:39:52 URL:http://www.monson-ma.gov/parks-recreation-department/pages/veterans-field [35618] -> "../data/townSites2/Monson/www.monson-ma.gov/parks-recreation-department/pages/veterans-field" [1]
+2017-01-02 02:39:53 URL:http://www.monson-ma.gov/home/pages/public-safety [31039] -> "../data/townSites2/Monson/www.monson-ma.gov/node/148" [1]
+2017-01-02 02:39:54 URL:http://www.monson-ma.gov/print/148 [6457] -> "../data/townSites2/Monson/www.monson-ma.gov/print/148" [1]
+2017-01-02 02:39:55 URL:http://www.monson-ma.gov/home/pages/privacy-statement [37893] -> "../data/townSites2/Monson/www.monson-ma.gov/node/154" [1]
+2017-01-02 02:39:56 URL:http://www.monson-ma.gov/print/154 [13264] -> "../data/townSites2/Monson/www.monson-ma.gov/print/154" [1]
+Found 1 broken link.
+
+http://www.mass.gov/eopss/consumer-prot-and-bus-lic/license-type/csl/construction-control.html
+
+FINISHED --2017-01-02 02:39:56--
+Total wall clock time: 24m 19s
+Downloaded: 646 files, 25M in 1m 11s (358 KB/s)

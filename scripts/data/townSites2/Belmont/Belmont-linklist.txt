@@ -1,0 +1,1462 @@
+2017-01-02 03:16:19 URL:http://www.belmont-ma.gov/ [51109] -> "../data/townSites2/Belmont/www.belmont-ma.gov/index.html" [1]
+2017-01-02 03:16:19 URL: http://www.belmont-ma.gov/town-calendar/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 03:16:21 URL:http://www.belmont-ma.gov/social-media [33351] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/pages/social-media" [1]
+2017-01-02 03:16:22 URL:http://www.belmont-ma.gov/about-belmont [28222] -> "../data/townSites2/Belmont/www.belmont-ma.gov/about-belmont" [1]
+2017-01-02 03:16:23 URL:http://www.belmont-ma.gov/departments [54037] -> "../data/townSites2/Belmont/www.belmont-ma.gov/departments" [1]
+2017-01-02 03:16:26 URL:http://www.belmont-ma.gov/council-on-aging [58142] -> "../data/townSites2/Belmont/www.belmont-ma.gov/council-on-aging" [1]
+2017-01-02 03:16:29 URL:http://www.belmont-ma.gov/health-department [61366] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department" [1]
+2017-01-02 03:16:32 URL:http://www.belmont-ma.gov/town-clerk [67234] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk" [1]
+2017-01-02 03:16:35 URL:http://www.belmont-ma.gov/fire [46825] -> "../data/townSites2/Belmont/www.belmont-ma.gov/fire-department" [1]
+2017-01-02 03:16:38 URL:http://www.belmont-ma.gov/community-development [47138] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development" [1]
+2017-01-02 03:16:40 URL:http://www.belmontpd.org/ [1237] -> "../data/townSites2/Belmont/www.belmont-ma.gov/police-department" [1]
+2017-01-02 03:16:43 URL:http://www.belmont-ma.gov/dpw [53124] -> "../data/townSites2/Belmont/www.belmont-ma.gov/department-of-public-works" [1]
+2017-01-02 03:16:46 URL:http://www.belmont-ma.gov/town-administration [39925] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-administration" [1]
+2017-01-02 03:16:47 URL:http://www.belmont-ma.gov/home/pages/boards-commissions [43791] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/pages/boards-commissions" [1]
+2017-01-02 03:16:51 URL:http://www.belmont-ma.gov/selectmen [51675] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-selectmen" [1]
+2017-01-02 03:16:54 URL:http://www.belmont-ma.gov/board-of-health [46646] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-health" [1]
+2017-01-02 03:16:57 URL:http://www.belmont-ma.gov/board-of-assessors [49128] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-assessors" [1]
+2017-01-02 03:17:00 URL:http://www.belmont-ma.gov/board-of-cemetery-commissioners [49163] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-cemetery-commissioners" [1]
+2017-01-02 03:17:03 URL:http://www.belmont-ma.gov/housing-authority [49616] -> "../data/townSites2/Belmont/www.belmont-ma.gov/housing-authority" [1]
+2017-01-02 03:17:05 URL:http://www.belmont.k12.ma.us/bps/Committee [50390/50390] -> "../data/townSites2/Belmont/www.belmont-ma.gov/school-committee" [1]
+2017-01-02 03:17:06 URL:http://www.belmont-ma.gov/town-clerk/pages/town-meeting-documents-information [36293] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/pages/town-meeting-information" [1]
+2017-01-02 03:17:07 URL:http://www.belmont-ma.gov/home/pages/resources [26242] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/pages/resources" [1]
+2017-01-02 03:17:14 URL:http://www.belmont-ma.gov/files [51358] -> "../data/townSites2/Belmont/www.belmont-ma.gov/files" [1]
+2017-01-02 03:17:17 URL:http://www.belmont-ma.gov/projects-reports-presentations [41123] -> "../data/townSites2/Belmont/www.belmont-ma.gov/reports-presentations" [1]
+2017-01-02 03:17:24 URL:http://www.belmont-ma.gov/faqs [42677] -> "../data/townSites2/Belmont/www.belmont-ma.gov/faqs" [1]
+2017-01-02 03:17:25 URL:http://www.belmont-ma.gov/businesses [26402] -> "../data/townSites2/Belmont/www.belmont-ma.gov/businesses" [1]
+2017-01-02 03:17:27 URL:http://www.belmont-ma.gov/town-administration/pages/budget-information [43967] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-administration/pages/budget-information" [1]
+2017-01-02 03:17:28 URL:http://www.belmont-ma.gov/residents [39406] -> "../data/townSites2/Belmont/www.belmont-ma.gov/residents" [1]
+2017-01-02 03:17:29 URL:http://www.belmont-ma.gov/home/pages/opportunities [26395] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/pages/opportunities" [1]
+2017-01-02 03:17:31 URL:http://www.belmont-ma.gov/human-resources/pages/job-openings [32033] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/pages/job-openings" [1]
+2017-01-02 03:17:32 URL:http://www.belmont-ma.gov/home/pages/internship-opportunities [23263] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/pages/internship-opportunities" [1]
+2017-01-02 03:17:33 URL:http://www.belmont-ma.gov/town-administration/pages/volunteer-opportunities [29573] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/pages/volunteer-opportunities" [1]
+2017-01-02 03:17:36 URL:http://www.belmont-ma.gov/purchasing-bids [25748] -> "../data/townSites2/Belmont/www.belmont-ma.gov/purchasing-bids" [1]
+2017-01-02 03:17:38 URL:http://www.belmont-ma.gov/town-clerk/pages/elections-running-for-elected-office-campaigning [38543] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/pages/running-for-elected-office-in-belmont" [1]
+2017-01-02 03:17:39 URL:http://www.belmont-ma.gov/snow [29473] -> "../data/townSites2/Belmont/www.belmont-ma.gov/snow" [1]
+2017-01-02 03:17:40 URL:http://www.belmont-ma.gov/home/slides/irs-scam-posted-by-the-belmont-pd [24360] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/slides/irs-scam-posted-by-the-belmont-pd" [1]
+2017-01-02 03:17:41 URL:http://www.belmont-ma.gov/home/slides/cardboard-recycling-pilot-program [23650] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/slides/cardboard-recycling-pilot-program" [1]
+2017-01-02 03:17:42 URL:http://www.belmont-ma.gov/home/slides/2016-pavement-management-program [31677] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/slides/2016-pavement-management-program" [1]
+2017-01-02 03:17:43 URL:http://www.belmont-ma.gov/home/slides/health-department-community-conversation [23701] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/slides/health-department-community-conversation" [1]
+2017-01-02 03:17:44 URL:http://www.belmont-ma.gov/home/slides/mema-encourages-residents-to-stay-safe [23888] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/slides/mema-encourages-residents-to-stay-safe" [1]
+2017-01-02 03:17:45 URL:http://www.belmont-ma.gov/home/slides/town-offices-are-closed-on-122017 [24170] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/slides/town-offices-are-closed-on-122017" [1]
+2017-01-02 03:17:46 URL:http://www.belmont-ma.gov/home/slides/the-town-of-belmont%E2%80%99s-23rd-annual-dr-martin-luther-king-jr-community-breakfast-on-mlk-da [25943] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/slides/the-town-of-belmontâ%80%99s-23rd-annual-dr-martin-luther-king-jr-community-breakfast-on-mlk-da" [1]
+2017-01-02 03:17:47 URL:http://www.belmont-ma.gov/home/news/1217-belmont-drives-electric-event-postponed [23848] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/news/1217-belmont-drives-electric-event-postponed" [1]
+2017-01-02 03:17:48 URL:http://www.belmont-ma.gov/home/news/town-offices-are-closed-on-1-2-2017 [23623] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/news/town-offices-are-closed-on-1-2-2017" [1]
+2017-01-02 03:17:49 URL:http://www.belmont-ma.gov/home/news/belmont-water-division-thanks-residents [24309] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/news/belmont-water-division-thanks-residents" [1]
+2017-01-02 03:17:50 URL:http://www.belmont-ma.gov/home/news/town-hall-building-closed-on-121616-no-heat [23794] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/news/town-hall-building-closed-on-121616-no-heat" [1]
+2017-01-02 03:17:51 URL:http://www.belmont-ma.gov/home/news/stay-safe-during-cold-weather-advisory-from-mema [28339] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/news/stay-safe-during-cold-weather-advisory-from-mema" [1]
+2017-01-02 03:17:52 URL:http://www.belmont-ma.gov/node/111/news [43358] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/111/news" [1]
+2017-01-02 03:17:53 URL:http://www.belmont-ma.gov/print/111 [2829] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/111" [1]
+2017-01-02 03:17:54 URL:http://www.belmont-ma.gov/printmail/111 [23810] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/111" [1]
+2017-01-02 03:17:55 URL:http://www.belmont-ma.gov/about-our-town [22997] -> "../data/townSites2/Belmont/www.belmont-ma.gov/about-our-town" [1]
+2017-01-02 03:17:56 URL:http://www.belmont-ma.gov/boards [65106] -> "../data/townSites2/Belmont/www.belmont-ma.gov/boards" [1]
+2017-01-02 03:17:57 URL:http://www.belmont-ma.gov/pay-bills [24608] -> "../data/townSites2/Belmont/www.belmont-ma.gov/pay-bills" [1]
+2017-01-02 03:17:58 URL:http://www.belmont-ma.gov/forms [22938] -> "../data/townSites2/Belmont/www.belmont-ma.gov/forms" [1]
+2017-01-02 03:17:59 URL:http://www.belmont-ma.gov/town-facility-rentals/pages/applications [26456] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-facility-rentals/pages/applications" [1]
+http://www.beechstreetcenter.org/rental-overview.php:
+Remote file does not exist -- broken link!!!
+2017-01-02 03:18:03 URL:http://www.belmont-ma.gov/belmont-high-school-building-committee [55395] -> "../data/townSites2/Belmont/www.belmont-ma.gov/belmont-high-school-building-committee" [1]
+2017-01-02 03:18:04 URL:http://www.belmont-ma.gov/town-facility-rentals/pages/conference-rooms [28832] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-facility-rentals/pages/conference-rooms" [1]
+2017-01-02 03:18:05 URL:http://www.belmont-ma.gov/town-facility-rentals/pages/mid-size-meeting-rooms [29498] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-facility-rentals/pages/mid-size-meeting-rooms" [1]
+2017-01-02 03:18:10 URL:http://www.belmont-ma.gov/recreation [51305] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-facility-rentals/links/park-and-field-rentals" [1]
+2017-01-02 03:18:10 URL:http://www.belmont-ma.gov/projects-reports-presentations [41123] -> "../data/townSites2/Belmont/www.belmont-ma.gov/projects-reports-presentations" [1]
+2017-01-02 03:18:11 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/roomrentalrates.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:18:12 URL:http://www.belmont-ma.gov/town-calendar/2017-01 [49061] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar/2017-01" [1]
+2017-01-02 03:18:14 URL:http://www.belmont-ma.gov/town-calendar/2017-01-03 [31905] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar/2017-01-03" [1]
+2017-01-02 03:18:15 URL:http://www.belmont-ma.gov/town-calendar/2017-01-04 [31941] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar/2017-01-04" [1]
+2017-01-02 03:18:16 URL:http://www.belmont-ma.gov/town-calendar/2017-01-05 [34038] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar/2017-01-05" [1]
+2017-01-02 03:18:17 URL:http://www.belmont-ma.gov/town-calendar/2017-01-06 [32601] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar/2017-01-06" [1]
+2017-01-02 03:18:18 URL:http://www.belmont-ma.gov/town-calendar/2017-01-09 [32794] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar/2017-01-09" [1]
+2017-01-02 03:18:19 URL:http://www.belmont-ma.gov/town-calendar/2017-01-10 [33302] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar/2017-01-10" [1]
+2017-01-02 03:18:20 URL:http://www.belmont-ma.gov/town-calendar/2017-01-11 [31899] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar/2017-01-11" [1]
+2017-01-02 03:18:21 URL:http://www.belmont-ma.gov/town-calendar/2017-01-23 [32619] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar/2017-01-23" [1]
+2017-01-02 03:18:23 URL:http://www.belmont-ma.gov/where [55103] -> "../data/townSites2/Belmont/www.belmont-ma.gov/where" [1]
+2017-01-02 03:18:23 URL:http://www.belmont-ma.gov/user/login [22663] -> "../data/townSites2/Belmont/www.belmont-ma.gov/user/login" [1]
+2017-01-02 03:18:25 URL:http://www.belmont-ma.gov/website-disclaimer-and-privacy-policy [36098] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/468" [1]
+2017-01-02 03:18:26 URL:http://www.belmont-ma.gov/home/pages/browsealoud [24904] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/pages/browsealoud" [1]
+2017-01-02 03:18:27 URL:http://www.belmont-ma.gov/ [51109] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home.1" [1]
+2017-01-02 03:18:28 URL:http://www.belmont-ma.gov/print/9981 [10573] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/9981" [1]
+2017-01-02 03:18:29 URL:http://www.belmont-ma.gov/printmail/9981 [23832] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/9981" [1]
+2017-01-02 03:18:32 URL:http://www.belmont-ma.gov/animal-control-officer [32551] -> "../data/townSites2/Belmont/www.belmont-ma.gov/animal-control-officer" [1]
+http://www.belmont-ma.gov/www.facebook.com/BelmontAnimalControl:
+Remote file does not exist -- broken link!!!
+2017-01-02 03:18:35 URL:http://www.belmont-ma.gov/emergency-management-agency [40350] -> "../data/townSites2/Belmont/www.belmont-ma.gov/emergency-management-agency" [1]
+http://www.belmont-ma.gov/twitter.com/BelmontHealth:
+Remote file does not exist -- broken link!!!
+2017-01-02 03:18:36 URL:http://www.belmont-ma.gov/recreation [51305] -> "../data/townSites2/Belmont/www.belmont-ma.gov/recreation" [1]
+2017-01-02 03:18:38 URL:http://www.belmont-ma.gov/veterans-services-officer [31134] -> "../data/townSites2/Belmont/www.belmont-ma.gov/veterans-services-officer" [1]
+2017-01-02 03:18:39 URL:http://www.belmont-ma.gov/print/4751 [7953] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/4751" [1]
+2017-01-02 03:18:40 URL:http://www.belmont-ma.gov/printmail/4751 [23834] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/4751" [1]
+2017-01-02 03:18:41 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/phonenumberslist.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:18:42 URL:http://www.belmont-ma.gov/home/pages/history-facts [26554] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/pages/history-facts" [1]
+2017-01-02 03:18:43 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/walkingmap.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:18:44 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/belmontbikemap.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:18:44 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/belmontstreetmap.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:18:47 URL:http://www.belmont-ma.gov/assessors-office [48458] -> "../data/townSites2/Belmont/www.belmont-ma.gov/assessors-office" [1]
+2017-01-02 03:18:49 URL:http://www.belmontlight.com/ [34610/34610] -> "../data/townSites2/Belmont/www.belmont-ma.gov/belmont-light" [1]
+2017-01-02 03:18:51 URL:http://www.belmontmedia.org/ [45120] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/28691" [1]
+2017-01-02 03:18:53 URL:http://belmontpubliclibrary.net/ [66160] -> "../data/townSites2/Belmont/www.belmont-ma.gov/belmont-public-library" [1]
+2017-01-02 03:18:55 URL:http://www.belmont-ma.gov/community-development-building-division [39134] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development-building-division" [1]
+2017-01-02 03:18:58 URL:http://www.belmont-ma.gov/community-development-electrical-division [33356] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development-electrical-division" [1]
+2017-01-02 03:19:01 URL:http://www.belmont-ma.gov/community-development-engineering-division [35013] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development-engineering-division" [1]
+2017-01-02 03:19:04 URL:http://www.belmont-ma.gov/community-development-planning-division [46487] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development-planning-division" [1]
+2017-01-02 03:19:07 URL:http://www.belmont-ma.gov/community-development-plumbing-gas-division [33383] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development-plumbing-gas-division" [1]
+2017-01-02 03:19:10 URL:http://www.belmont-ma.gov/dpw [53124] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw" [1]
+2017-01-02 03:19:13 URL:http://www.belmont-ma.gov/dpw-highway-division [54445] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw-highway-division" [1]
+2017-01-02 03:19:16 URL:http://www.belmont-ma.gov/dpw-parks-cemetery-division [35266] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw-parks-cemetery-division" [1]
+2017-01-02 03:19:18 URL:http://www.belmont-ma.gov/dpw-water-division [60514] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw-water-division" [1]
+2017-01-02 03:19:21 URL:http://www.belmont-ma.gov/facilities-department [46581] -> "../data/townSites2/Belmont/www.belmont-ma.gov/facilities-department" [1]
+2017-01-02 03:19:24 URL:http://www.belmont-ma.gov/fire [46825] -> "../data/townSites2/Belmont/www.belmont-ma.gov/fire" [1]
+2017-01-02 03:19:27 URL:http://www.belmont-ma.gov/human-resources [33842] -> "../data/townSites2/Belmont/www.belmont-ma.gov/human-resources" [1]
+2017-01-02 03:19:30 URL:http://www.belmont-ma.gov/information-technology [33172] -> "../data/townSites2/Belmont/www.belmont-ma.gov/information-technology" [1]
+2017-01-02 03:19:33 URL:http://www.belmont-ma.gov/parking-clerk [39102] -> "../data/townSites2/Belmont/www.belmont-ma.gov/parking-clerk" [1]
+2017-01-02 03:19:36 URL:http://www.belmont-ma.gov/recreation-commission [50836] -> "../data/townSites2/Belmont/www.belmont-ma.gov/recreation-commission" [1]
+2017-01-02 03:19:39 URL:http://www.belmont-ma.gov/retirement-board [49282] -> "../data/townSites2/Belmont/www.belmont-ma.gov/retirement-board" [1]
+2017-01-02 03:19:41 URL:http://www.belmont.k12.ma.us/bps/ [139483/139483] -> "../data/townSites2/Belmont/www.belmont-ma.gov/school-department" [1]
+2017-01-02 03:19:44 URL:http://www.belmont-ma.gov/stormwater-management-program-swmp [35778] -> "../data/townSites2/Belmont/www.belmont-ma.gov/stormwater-management-program-swmp" [1]
+2017-01-02 03:19:47 URL:http://www.belmont-ma.gov/town-accountant [35468] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-accountant" [1]
+2017-01-02 03:19:49 URL:http://www.belmont-ma.gov/treasurer-and-tax-collector [37281] -> "../data/townSites2/Belmont/www.belmont-ma.gov/treasurer-and-tax-collector" [1]
+2017-01-02 03:19:52 URL:http://www.belmont-ma.gov/youth-family-services [32169] -> "../data/townSites2/Belmont/www.belmont-ma.gov/youth-family-services" [1]
+2017-01-02 03:19:53 URL: http://www.belmont-ma.gov/node/2121/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:19:54 URL: http://www.belmont-ma.gov/node/2121/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 03:19:56 URL:http://www.belmont-ma.gov/print/2121 [13294] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/2121" [1]
+2017-01-02 03:19:57 URL:http://www.belmont-ma.gov/printmail/2121 [23840] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/2121" [1]
+2017-01-02 03:19:58 URL:http://www.belmont-ma.gov/users/nnivvogel/contact [24999] -> "../data/townSites2/Belmont/www.belmont-ma.gov/users/nnivvogel/contact" [1]
+2017-01-02 03:19:59 URL:http://www.belmont-ma.gov/users/jamdur/contact [24963] -> "../data/townSites2/Belmont/www.belmont-ma.gov/users/jamdur/contact" [1]
+2017-01-02 03:20:00 URL:http://www.belmont-ma.gov/users/lhartman/contact [24993] -> "../data/townSites2/Belmont/www.belmont-ma.gov/users/lhartman/contact" [1]
+http://www.belmont-ma.gov/user/%252Fcontact:
+Remote file does not exist -- broken link!!!
+2017-01-02 03:20:02 URL:http://www.belmont-ma.gov/users/mpoore/contact [24963] -> "../data/townSites2/Belmont/www.belmont-ma.gov/users/mpoore/contact" [1]
+2017-01-02 03:20:03 URL:http://www.belmont-ma.gov/users/dboyle/contact [24967] -> "../data/townSites2/Belmont/www.belmont-ma.gov/users/dboyle/contact" [1]
+2017-01-02 03:20:04 URL:http://www.beechstreetcenter.org/ [47590] -> "../data/townSites2/Belmont/www.belmont-ma.gov/council-on-aging/links/beech-street-center-website" [1]
+2017-01-02 03:20:05 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/application070116updated092116.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:20:07 URL:http://www.belmont-ma.gov/council-on-aging/pages/coa-services [28785] -> "../data/townSites2/Belmont/www.belmont-ma.gov/council-on-aging/pages/coa-services" [1]
+2017-01-02 03:21:08 URL:http://www.ourseniorcenter.com/find/belmont-council-on-aging [45751] -> "../data/townSites2/Belmont/www.belmont-ma.gov/council-on-aging/links/monthly-newsletter" [1]
+2017-01-02 03:21:08 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/bcoa-senior-services-directory-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:21:09 URL:http://www.belmont-ma.gov/council-on-aging/faq/how-old-do-i-need-to-be-to-use-the-services-and-programs-of-the-council-on-agin [26813] -> "../data/townSites2/Belmont/www.belmont-ma.gov/council-on-aging/faq/how-old-do-i-need-to-be-to-use-the-services-and-programs-of-the-council-on-agin" [1]
+2017-01-02 03:21:11 URL:http://www.belmont-ma.gov/council-on-aging/faq/how-do-i-find-out-about-the-schedule-of-activities [26837] -> "../data/townSites2/Belmont/www.belmont-ma.gov/council-on-aging/faq/how-do-i-find-out-about-the-schedule-of-activities" [1]
+2017-01-02 03:21:12 URL:http://www.belmont-ma.gov/council-on-aging/faq/what-is-the-process-for-signing-up-for-programs [26337] -> "../data/townSites2/Belmont/www.belmont-ma.gov/council-on-aging/faq/what-is-the-process-for-signing-up-for-programs" [1]
+2017-01-02 03:21:13 URL:http://www.belmont-ma.gov/council-on-aging/faq/do-i-have-to-be-a-belmont-resident-to-attend-programs-at-the-belmont-council-on [26784] -> "../data/townSites2/Belmont/www.belmont-ma.gov/council-on-aging/faq/do-i-have-to-be-a-belmont-resident-to-attend-programs-at-the-belmont-council-on" [1]
+2017-01-02 03:21:14 URL:http://www.belmont-ma.gov/node/2121/news [21220] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2121/news" [1]
+2017-01-02 03:21:15 URL:http://www.belmont-ma.gov/node/2121/events/2017-01 [33396] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2121/events/2017-01" [1]
+2017-01-02 03:21:16 URL: http://www.belmont-ma.gov/sites/belmontma/files/agenda/agenda-file/boardmeetingforposting120516.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:21:17 URL: http://www.belmont-ma.gov/sites/belmontma/files/agenda/agenda-file/boardmeetingagendaforposting1116.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:21:18 URL: http://www.belmont-ma.gov/sites/belmontma/files/agenda/agenda-file/boardmeetingforposting100416.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:21:18 URL: http://www.belmont-ma.gov/sites/belmontma/files/agenda/agenda-file/boardmeetingagendaforposting090616.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:21:19 URL: http://www.belmont-ma.gov/sites/belmontma/files/agenda/agenda-file/boardmeetingagendaforposting071116.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:21:20 URL:http://www.belmont-ma.gov/node/2121/agenda [59716] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2121/agenda" [1]
+2017-01-02 03:21:21 URL: http://www.belmont-ma.gov/sites/belmontma/files/minutes/minutes-file/2016-05-03_council_on_aging_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:21:22 URL: http://www.belmont-ma.gov/sites/belmontma/files/minutes/minutes-file/council_on_aging_minutes060716.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:21:23 URL: http://www.belmont-ma.gov/sites/belmontma/files/minutes/minutes-file/2015-08-06_council_on_aging_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:21:24 URL: http://www.belmont-ma.gov/sites/belmontma/files/minutes/minutes-file/2015-01-05_council_on_aging_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:21:25 URL: http://www.belmont-ma.gov/sites/belmontma/files/minutes/minutes-file/2014-06-10_council_on_aging_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:21:27 URL:http://www.belmont-ma.gov/node/2121/minutes [133593] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2121/minutes" [1]
+2017-01-02 03:21:28 URL: http://www.belmont-ma.gov/node/2136/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:21:28 URL: http://www.belmont-ma.gov/node/2136/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 03:21:30 URL:http://www.belmont-ma.gov/health-department/slides/get-your-flu-shot [33004] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/slides/get-your-flu-shot" [1]
+2017-01-02 03:21:31 URL:http://www.belmont-ma.gov/print/2136 [9913] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/2136" [1]
+2017-01-02 03:21:32 URL:http://www.belmont-ma.gov/printmail/2136 [23842] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/2136" [1]
+2017-01-02 03:21:33 URL:http://www.belmont-ma.gov/users/abraun/contact [24655] -> "../data/townSites2/Belmont/www.belmont-ma.gov/users/abraun/contact" [1]
+2017-01-02 03:21:35 URL:http://www.belmont-ma.gov/users/wchin/contact [24963] -> "../data/townSites2/Belmont/www.belmont-ma.gov/users/wchin/contact" [1]
+2017-01-02 03:21:36 URL:http://www.belmont-ma.gov/users/jmaguranis/contact [25009] -> "../data/townSites2/Belmont/www.belmont-ma.gov/users/jmaguranis/contact" [1]
+2017-01-02 03:21:37 URL:http://www.belmont-ma.gov/users/mreddington/contact [25023] -> "../data/townSites2/Belmont/www.belmont-ma.gov/users/mreddington/contact" [1]
+2017-01-02 03:21:38 URL:http://www.belmont-ma.gov/users/rupton/contact [24965] -> "../data/townSites2/Belmont/www.belmont-ma.gov/users/rupton/contact" [1]
+2017-01-02 03:21:39 URL:http://www.belmont-ma.gov/users/dneylon/contact [25005] -> "../data/townSites2/Belmont/www.belmont-ma.gov/users/dneylon/contact" [1]
+2017-01-02 03:21:42 URL:http://www.belmont-ma.gov/animal-control-officer [32551] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/links/animal-care-control" [1]
+2017-01-02 03:21:44 URL:https://www.cdc.gov/flu/ [86825/86825] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/links/cdc-flu-website" [1]
+2017-01-02 03:21:45 URL:http://www.cdc.gov/vaccines/schedules/hcp/imz/adult.html [30759/30759] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/links/cdc-recommended-vaccine-schedule-for-adults" [1]
+2017-01-02 03:21:46 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/cateringregistrationform2016_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:21:47 URL:http://www.floodsafety.com/national/property/cleanup/ [21597/21597] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/links/cleaning-up-after-a-flood" [1]
+2017-01-02 03:21:48 URL:http://www.mass.gov/eohhs/provider/guidelines-resources/services-planning/diseases-conditions/influenza/flu-facts-what-you-need-to-know.html [29946/29946] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/links/dph-flu-information" [1]
+2017-01-02 03:21:49 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/emergency-action-plans.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:21:50 URL:http://www.fda.gov/Safety/Recalls/ [77599/77599] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/links/fda-food-recalls" [1]
+2017-01-02 03:21:51 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fallnewsletterfy16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:21:52 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/farmersmarketapplicationpacket2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:21:53 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/feeseffectivejan1.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:21:56 URL:https://vaccinefinder.org/ [88977] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/links/find-a-flu-shot" [1]
+2017-01-02 03:21:57 URL:http://www.belmont-ma.gov/health-department/pages/food-protection-links [33179] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/pages/food-protection-links" [1]
+2017-01-02 03:21:58 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/goldenshoes2016_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:21:59 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/belmonthealthfallnewsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:22:02 URL:https://www.lymediseaseassociation.org/ [96993] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/links/lyme-disease-information" [1]
+2017-01-02 03:22:03 URL:http://www.mass211.org/ [6565/6565] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/links/mass-211-info-resource" [1]
+2017-01-02 03:22:05 URL:http://www.belmont-ma.gov/health-department/pages/mosquito-links [32708] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/pages/mosquito-links" [1]
+2017-01-02 03:22:06 URL:http://www.mass.gov/eohhs/gov/departments/dph/programs/substance-abuse/prevention/opioid-overdose-prevention.html [34164] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/links/opiate-education-from-ma-dept-of-public-health" [1]
+2017-01-02 03:22:07 URL:http://www.belmont-ma.gov/health-department/pages/regulations [33346] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/pages/regulations" [1]
+2017-01-02 03:22:08 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/ratnotice.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:22:09 URL:http://www.mass.gov/eohhs/gov/departments/dph/ [51312] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/links/state-department-of-public-health" [1]
+2017-01-02 03:22:11 URL:https://wwwnc.cdc.gov/travel/ [69843/69843] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/links/travelers-health" [1]
+2017-01-02 03:22:12 URL:http://www.belmont-ma.gov/health-department/faq/how-can-i-dispose-of-my-used-needles [32566] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/faq/how-can-i-dispose-of-my-used-needles" [1]
+2017-01-02 03:22:14 URL:http://www.belmont-ma.gov/health-department/faq/where-do-i-drop-off-hazardous-waste [32445] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/faq/where-do-i-drop-off-hazardous-waste" [1]
+2017-01-02 03:22:15 URL:http://www.belmont-ma.gov/health-department/faq/how-can-i-report-a-barking-dog-complaint [32440] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/faq/how-can-i-report-a-barking-dog-complaint" [1]
+2017-01-02 03:22:16 URL:http://www.belmont-ma.gov/health-department/faq/how-can-i-report-a-lost-dog-or-cat [32299] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/faq/how-can-i-report-a-lost-dog-or-cat" [1]
+2017-01-02 03:22:17 URL:http://www.belmont-ma.gov/health-department/faq/where-can-i-dispose-of-rechargeable-batteries [32425] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/faq/where-can-i-dispose-of-rechargeable-batteries" [1]
+2017-01-02 03:22:21 URL:http://www.belmont-ma.gov/board-of-health [46646] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/links/board-of-health" [1]
+2017-01-02 03:22:23 URL:http://www.belmont-ma.gov/node/2241/minutes [82239] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/links/board-of-health-minutes" [1]
+2017-01-02 03:22:26 URL:http://www.belmont-ma.gov/veterans-services-officer [31134] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/links/veterans-service-officer" [1]
+2017-01-02 03:22:28 URL:http://www.belmont-ma.gov/health-department/news/community-conversation-opioid-needs-assessment [24915] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/news/community-conversation-opioid-needs-assessment" [1]
+2017-01-02 03:22:29 URL:http://www.belmont-ma.gov/health-department/news/drug-take-back-program [32413] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/news/drug-take-back-program" [1]
+2017-01-02 03:22:31 URL:http://www.belmont-ma.gov/health-department/news/boston-public-health-commission-opioid-advisory [32650] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/news/boston-public-health-commission-opioid-advisory" [1]
+2017-01-02 03:22:32 URL:http://www.belmont-ma.gov/health-department/news/addiction-recovery-forum [24135] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/news/addiction-recovery-forum" [1]
+2017-01-02 03:22:33 URL:http://www.belmont-ma.gov/health-department/news/be-emergency-alert-ready-message-from-mema [32601] -> "../data/townSites2/Belmont/www.belmont-ma.gov/health-department/news/be-emergency-alert-ready-message-from-mema" [1]
+2017-01-02 03:22:34 URL:http://www.belmont-ma.gov/node/2136/news [40092] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2136/news" [1]
+2017-01-02 03:22:36 URL:http://www.belmont-ma.gov/node/2136/events/2017-01 [33401] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2136/events/2017-01" [1]
+2017-01-02 03:22:36 URL: http://www.belmont-ma.gov/sites/belmontma/files/agenda/agenda-file/region4bmeetingagenda11.16.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:22:37 URL: http://www.belmont-ma.gov/sites/belmontma/files/agenda/agenda-file/region4bmeetingagenda10.19.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:22:38 URL: http://www.belmont-ma.gov/sites/belmontma/files/agenda/agenda-file/region4bmeetingagenda09.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:22:39 URL: http://www.belmont-ma.gov/sites/belmontma/files/agenda/agenda-file/june_2016_4b_coalition_meeting_agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:22:40 URL: http://www.belmont-ma.gov/sites/belmontma/files/agenda/agenda-file/mhhpcmeeting6.7.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:22:41 URL:http://www.belmont-ma.gov/node/2136/agenda [36928] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2136/agenda" [1]
+2017-01-02 03:22:42 URL: http://www.belmont-ma.gov/node/2201/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:22:43 URL: http://www.belmont-ma.gov/node/2201/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 03:22:44 URL:http://www.belmont-ma.gov/town-clerk/urgent-alerts/nomination-papers-available-in-the-town-clerks-office [33425] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/urgent-alerts/nomination-papers-available-in-the-town-clerks-office" [1]
+2017-01-02 03:22:46 URL:http://www.belmont-ma.gov/print/2201 [10320] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/2201" [1]
+2017-01-02 03:22:47 URL:http://www.belmont-ma.gov/printmail/2201 [23828] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/2201" [1]
+2017-01-02 03:22:47 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/town_clerk_organizational_chart.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:22:49 URL:http://www.belmont-ma.gov/town-clerk/pages/notary-services [29688] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/pages/notary-services" [1]
+2017-01-02 03:22:50 URL:http://www.belmont-ma.gov/users/ecushman/contact [25013] -> "../data/townSites2/Belmont/www.belmont-ma.gov/users/ecushman/contact" [1]
+2017-01-02 03:22:51 URL:http://www.belmont-ma.gov/users/mpiccione/contact [24995] -> "../data/townSites2/Belmont/www.belmont-ma.gov/users/mpiccione/contact" [1]
+2017-01-02 03:22:52 URL:http://www.belmont-ma.gov/users/ncasale/contact [24975] -> "../data/townSites2/Belmont/www.belmont-ma.gov/users/ncasale/contact" [1]
+2017-01-02 03:22:53 URL:http://www.belmont-ma.gov/users/dcane/contact [24947] -> "../data/townSites2/Belmont/www.belmont-ma.gov/users/dcane/contact" [1]
+2017-01-02 03:22:54 URL:http://www.belmont-ma.gov/town-clerk/pages/applying-for-marriage-licenses [39588] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/pages/applying-for-marriage-licenses" [1]
+2017-01-02 03:22:55 URL:http://www.belmont-ma.gov/town-clerk/pages/birth-death-marriage-records-certified-copies [33039] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/pages/birth-death-marriage-records-certified-copies" [1]
+2017-01-02 03:22:57 URL:http://www.belmont-ma.gov/town-clerk/pages/business-certificates-dba-business-licenses-entertainment-licenses [41711] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/pages/business-certificates-dba-business-licenses-entertainment-licenses" [1]
+2017-01-02 03:22:58 URL:http://www.belmont-ma.gov/town-clerk/pages/campaign-finance-reports-information [39832] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/pages/campaign-finance-reports-information" [1]
+2017-01-02 03:22:59 URL:http://www.belmont-ma.gov/town-clerk/pages/current-census-information [36061] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/pages/current-census-information" [1]
+2017-01-02 03:23:00 URL:http://www.belmont-ma.gov/town-clerk/pages/election-april-4-2017-local-election-offices-candidates [30516] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/pages/election-april-4-2017-local-election-offices-candidates" [1]
+2017-01-02 03:23:02 URL:http://www.belmont-ma.gov/town-clerk/pages/elections-am-i-registered-where-do-i-vote [35631] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/pages/elections-am-i-registered-where-do-i-vote" [1]
+2017-01-02 03:23:03 URL:http://www.belmont-ma.gov/town-clerk/pages/elections-early-voting-absentee-voting [35873] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/pages/elections-early-voting-absentee-voting" [1]
+2017-01-02 03:23:04 URL:http://www.belmont-ma.gov/town-clerk/pages/elections-election-results [30962] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/pages/elections-election-results" [1]
+2017-01-02 03:23:06 URL:http://www.belmont-ma.gov/town-clerk/pages/elections-information-for-residents-media [42478] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/pages/elections-information-for-residents-media" [1]
+2017-01-02 03:23:07 URL:https://www.sec.state.ma.us/OVR/Pages/SystemMaint.aspx [64541/64541] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/links/elections-register-to-vote-online" [1]
+2017-01-02 03:23:08 URL:http://www.belmont-ma.gov/town-clerk/pages/elections-running-for-elected-office-campaigning [38543] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/pages/elections-running-for-elected-office-campaigning" [1]
+2017-01-02 03:23:09 URL:http://ecode360.com/BE3086 [18343] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/links/general-bylaws" [1]
+2017-01-02 03:23:10 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/get_to_know_belmont_booklet_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:23:12 URL:http://www.belmont-ma.gov/town-clerk/pages/open-meeting-law-ethics [38523] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/pages/open-meeting-law-ethics" [1]
+2017-01-02 03:23:12 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/2016_belmont_pet_license_application_fillable.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:23:14 URL:https://www.mapsonline.net/belmontma/town_payments/ [53080] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/links/pet-license-online-renewal-application" [1]
+2017-01-02 03:23:15 URL:http://www.belmont-ma.gov/town-clerk/pages/raffle-permits-auctioneer-licenses [32655] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/pages/raffle-permits-auctioneer-licenses" [1]
+2017-01-02 03:23:17 URL:http://www.belmont-ma.gov/town-clerk/pages/residency-verification-school-registration [32648] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/pages/residency-verification-school-registration" [1]
+2017-01-02 03:23:18 URL:https://www.mapsonline.net/belmontma/forms/standalone.html.php?id=273012275 [72017] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/links/street-address-assignment-requests" [1]
+2017-01-02 03:23:20 URL:http://www.belmont-ma.gov/town-clerk/pages/town-meeting-documents-information [36293] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/pages/town-meeting-documents-information" [1]
+2017-01-02 03:23:21 URL:http://www.belmont-ma.gov/town-clerk/pages/town-meeting-members [32033] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/pages/town-meeting-members" [1]
+2017-01-02 03:23:22 URL:http://www.belmont-ma.gov/town-clerk/pages/yard-sale-permits [32829] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/pages/yard-sale-permits" [1]
+2017-01-02 03:23:24 URL:http://www.belmont-ma.gov/town-clerk/faq/i-have-a-dog-or-a-cat-do-i-have-to-license-them-whats-required [30209] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/faq/i-have-a-dog-or-a-cat-do-i-have-to-license-them-whats-required" [1]
+2017-01-02 03:23:25 URL:http://www.belmont-ma.gov/town-clerk/faq/does-belmont-have-any-town-by-laws-where-do-i-find-them [29773] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/faq/does-belmont-have-any-town-by-laws-where-do-i-find-them" [1]
+2017-01-02 03:23:26 URL:http://www.belmont-ma.gov/town-clerk/faq/who-are-belmonts-town-meeting-members [29474] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/faq/who-are-belmonts-town-meeting-members" [1]
+2017-01-02 03:23:28 URL:http://www.belmont-ma.gov/town-clerk/faq/whats-required-to-run-for-elected-office-either-as-a-representative-town-meeting-memb [30219] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/faq/whats-required-to-run-for-elected-office-either-as-a-representative-town-meeting-memb" [1]
+2017-01-02 03:23:30 URL:http://www.belmont-ma.gov/town-clerk/faq/what-is-the-total-number-of-residents-in-town [29411] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/faq/what-is-the-total-number-of-residents-in-town" [1]
+2017-01-02 03:23:31 URL:http://www.belmont-ma.gov/node/2201/faq [25334] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2201/faq" [1]
+2017-01-02 03:23:32 URL:http://www.belmont-ma.gov/town-clerk/news/nomination-papers-available-in-the-town-clerks-office [33515] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/news/nomination-papers-available-in-the-town-clerks-office" [1]
+2017-01-02 03:23:33 URL:http://www.belmont-ma.gov/town-clerk/news/apply-to-be-a-belmont-election-worker-here [32352] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/news/apply-to-be-a-belmont-election-worker-here" [1]
+2017-01-02 03:23:34 URL:http://www.belmont-ma.gov/town-clerk/news/volunteer-opportunities-available-in-the-town-clerks-office [31148] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/news/volunteer-opportunities-available-in-the-town-clerks-office" [1]
+2017-01-02 03:23:35 URL:http://www.belmont-ma.gov/node/2201/events/2017-01 [33366] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2201/events/2017-01" [1]
+2017-01-02 03:23:36 URL: http://www.belmont-ma.gov/sites/belmontma/files/agenda/agenda-file/2016-10-28_voting_machine_test.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:23:37 URL: http://www.belmont-ma.gov/sites/belmontma/files/agenda/agenda-file/notice_of_precinct_8_caucus_2016-09-28.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:23:38 URL: http://www.belmont-ma.gov/sites/belmontma/files/agenda/agenda-file/notice_of_precinct_7_caucus_2016-09-28.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:23:39 URL: http://www.belmont-ma.gov/sites/belmontma/files/agenda/agenda-file/2016-09-14_voting_machine_test.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:23:39 URL: http://www.belmont-ma.gov/sites/belmontma/files/agenda/agenda-file/2016-08-30_voting_machine_test.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:23:40 URL:http://www.belmont-ma.gov/node/2201/agenda [37010] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2201/agenda" [1]
+2017-01-02 03:23:42 URL: http://www.belmont-ma.gov/node/2091/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:23:44 URL:http://www.belmont-ma.gov/print/2091 [11223] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/2091" [1]
+2017-01-02 03:23:45 URL:http://www.belmont-ma.gov/printmail/2091 [23850] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/2091" [1]
+2017-01-02 03:23:46 URL:http://www.belmont-ma.gov/reports-presentations/pages/pavement-management [25964] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development-engineering-division/pages/pavement-management" [1]
+2017-01-02 03:23:49 URL:http://www.belmont-ma.gov/planning-board [52792] -> "../data/townSites2/Belmont/www.belmont-ma.gov/planning-board" [1]
+2017-01-02 03:23:52 URL:http://www.belmont-ma.gov/zoning-board-of-appeals [50815] -> "../data/townSites2/Belmont/www.belmont-ma.gov/zoning-board-of-appeals" [1]
+2017-01-02 03:23:53 URL:http://www.belmont-ma.gov/users/gclancy/contact [24975] -> "../data/townSites2/Belmont/www.belmont-ma.gov/users/gclancy/contact" [1]
+2017-01-02 03:23:55 URL:http://www.belmont-ma.gov/user/login?destination=user%2F146%2Fcontact [22795] -> "../data/townSites2/Belmont/www.belmont-ma.gov/users/lfierro/contact" [1]
+2017-01-02 03:23:56 URL:http://www.belmont-ma.gov/users/ayogurtian/contact [25007] -> "../data/townSites2/Belmont/www.belmont-ma.gov/users/ayogurtian/contact" [1]
+2017-01-02 03:23:57 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/09-29-14_public_hearing_-_stormwater_-_rules_and_regs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:23:58 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/public_presentation_-_nov_3_2014_-_updated_final_version_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:23:59 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/2014-11-17_special_town_meeting_belmont_center_reconstruction_plan_presentation_compatibility_mode.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:00 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/application_for_revision.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:01 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/1_2_family_building_permit_application_3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:01 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/commercial_building_permit_application_2_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:02 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/changeusecomtenant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:05 URL:http://www.belmont-ma.gov/community-development [47138] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development-building-division/links/community-development-home-page" [1]
+2017-01-02 03:24:06 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/driveway_expansion_application_4.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:07 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/standingsign.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:08 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/openingbusiness.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:09 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/home_occupation_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:10 URL:http://www.belmont-ma.gov/community-development-building-division/pages/monthly-permit-reports [29098] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development-building-division/pages/monthly-permit-reports" [1]
+2017-01-02 03:24:12 URL:http://www.belmont-ma.gov/community-development-building-division/pages/new-energy-efficiency-codes [29794] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development-building-division/pages/new-energy-efficiency-codes" [1]
+2017-01-02 03:24:12 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/revised_building_plot_plan_guidlines.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:13 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/surveyor_list_-_final.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:14 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/sm_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:15 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/signapplication.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:16 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/swimmingpools.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:18 URL:http://www.belmont-ma.gov/zoning-board-of-appeals/pages/zoning-by-law [40230] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development-building-division/links/zoning-by-laws" [1]
+2017-01-02 03:24:19 URL: http://www.belmont-ma.gov/sites/belmontma/files/u646/zoning_map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:20 URL:http://www.belmont-ma.gov/community-development [47138] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development-electrical-division/links/community-development-home-page" [1]
+2017-01-02 03:24:21 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/electrical_permit_app_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:22 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/electrical_permit_fees.pdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:22 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/11-6-2014_-_belmont_center_presentation_leg._of_women_voters_-_wc_1.1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:23 URL:http://www.belmont-ma.gov/community-development-engineering-division/pages/2016-pavement-management-program [31705] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development-engineering-division/pages/2016-pavement-management-program" [1]
+2017-01-02 03:24:24 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/belmont_center_green_space_original_plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:25 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/belmont_center_-_through_driveway.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:27 URL:http://www.belmont-ma.gov/projects-reports-presentations/belmont-center [28129] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development-engineering-division/links/belmont-center-reconstruction-project" [1]
+2017-01-02 03:24:28 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/board_of_survey.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:29 URL:http://www.belmont-ma.gov/community-development [47138] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development-engineering-division/links/community-development-home-page" [1]
+2017-01-02 03:24:30 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/01-25-16_private_ways.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:33 URL:http://www.belmont-ma.gov/projects-reports-presentations [41123] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development-engineering-division/links/projects-reports-presentations" [1]
+2017-01-02 03:24:34 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/2014-09-08_belmont_center_plan_bos_forum_invitation.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:35 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/2014-09-08_belmont_center_public_forum.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:36 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/sewer_permit_application_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:38 URL:http://www.belmont-ma.gov/community-development-planning-division/pages/forms-guidelines [29792] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development-planning-division/pages/forms-guidelines" [1]
+2017-01-02 03:24:39 URL:http://www.belmont-ma.gov/planning-board [52792] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development-planning-division/links/planning-board" [1]
+2017-01-02 03:24:40 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/pbrulesandregs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:41 URL:http://www.belmont-ma.gov/projects-reports-presentations [41123] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development-planning-division/links/projects-reports-presentations" [1]
+2017-01-02 03:24:42 URL:http://www.belmont-ma.gov/zoning-board-of-appeals [50815] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development-planning-division/links/zoning-board-of-appeals" [1]
+2017-01-02 03:24:44 URL:http://www.belmont-ma.gov/zoning-board-of-appeals/pages/zoning-by-law [40230] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development-planning-division/links/zoning-by-laws" [1]
+2017-01-02 03:24:45 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/zoning_map_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:46 URL:http://www.belmont-ma.gov/community-development [47138] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development-plumbing-gas-division/links/community-development-home-page" [1]
+2017-01-02 03:24:47 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/gaspermit_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:48 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/plumbingpermit_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:49 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/plumbing_fees_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:49 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/final_as_of_12162013_residential_snow_removal_general_bylaw_with_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:51 URL:http://www.belmont-ma.gov/community-development/pages/stormwater-bylaw-documents [36676] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development/pages/stormwater-bylaw-documents" [1]
+2017-01-02 03:24:52 URL:http://www.belmont-ma.gov/zoning-board-of-appeals/pages/zoning-by-law [40230] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development/links/zoning-by-laws" [1]
+2017-01-02 03:24:52 URL: http://www.belmont-ma.gov/sites/belmontma/files/u646/zoning_map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:54 URL:http://www.belmont-ma.gov/community-development/news/puiblic-safety-advisory-potential-roof-collape [46500] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development/news/puiblic-safety-advisory-potential-roof-collape" [1]
+2017-01-02 03:24:55 URL: http://www.belmont-ma.gov/node/2191/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:24:56 URL:http://www.belmont-ma.gov/print/2191 [9926] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/2191" [1]
+2017-01-02 03:24:57 URL:http://www.belmont-ma.gov/printmail/2191 [23846] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/2191" [1]
+2017-01-02 03:24:58 URL:http://www.belmont-ma.gov/users/dkale/contact [24961] -> "../data/townSites2/Belmont/www.belmont-ma.gov/users/dkale/contact" [1]
+2017-01-02 03:24:59 URL:http://www.belmont-ma.gov/users/pmarshall/contact [25007] -> "../data/townSites2/Belmont/www.belmont-ma.gov/users/pmarshall/contact" [1]
+2017-01-02 03:25:00 URL:http://www.belmont-ma.gov/users/gcastro/contact [24975] -> "../data/townSites2/Belmont/www.belmont-ma.gov/users/gcastro/contact" [1]
+2017-01-02 03:25:02 URL:http://www.belmont-ma.gov/users/scleary/contact [24977] -> "../data/townSites2/Belmont/www.belmont-ma.gov/users/scleary/contact" [1]
+2017-01-02 03:25:03 URL:http://www.belmont-ma.gov/annual-reports [32893] -> "../data/townSites2/Belmont/www.belmont-ma.gov/annual-reports" [1]
+2017-01-02 03:25:04 URL:http://www.belmont-ma.gov/town-administration/pages/block-parties [29413] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-administration/pages/block-parties" [1]
+2017-01-02 03:25:08 URL:http://www.belmont-ma.gov/selectmen [51675] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-administration/links/board-of-selectmen" [1]
+2017-01-02 03:25:09 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/community_volunteer_interest_form_4.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:25:12 URL:http://www.belmont-ma.gov/town-facility-rentals [29593] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-administration/links/facility-rentals" [1]
+2017-01-02 03:25:13 URL:http://www.belmont-ma.gov/town-administration/pages/liquor-licensing [31060] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-administration/pages/liquor-licensing" [1]
+2017-01-02 03:25:15 URL:http://www.belmont-ma.gov/town-administration/files/minuteman-high-school-building-project-presentation-11-10-2015 [28578] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-administration/files/minuteman-high-school-building-project-presentation-11-10-2015" [1]
+2017-01-02 03:25:16 URL:http://www.belmont-ma.gov/town-administration/pages/signage-policy-and-application [30808] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-administration/pages/signage-policy-and-application" [1]
+2017-01-02 03:25:17 URL:http://www.belmont-ma.gov/town-administration/faq/does-my-event-need-a-one-day-liquor-license [27976] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-administration/faq/does-my-event-need-a-one-day-liquor-license" [1]
+2017-01-02 03:25:19 URL:http://www.belmont-ma.gov/town-administration/faq/who-do-i-contact-if-my-trash-was-not-collected-as-scheduled [27958] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-administration/faq/who-do-i-contact-if-my-trash-was-not-collected-as-scheduled" [1]
+2017-01-02 03:25:20 URL:http://www.belmont-ma.gov/town-administration/faq/can-my-business-get-a-liquor-license [28057] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-administration/faq/can-my-business-get-a-liquor-license" [1]
+2017-01-02 03:25:21 URL:http://www.belmont-ma.gov/town-administration/faq/can-i-close-my-street-for-an-event [28384] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-administration/faq/can-i-close-my-street-for-an-event" [1]
+2017-01-02 03:25:22 URL:http://www.belmont-ma.gov/node/2191/news [21229] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2191/news" [1]
+2017-01-02 03:25:23 URL:http://www.belmont-ma.gov/print/16311 [23160] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/16311" [1]
+2017-01-02 03:25:24 URL:http://www.belmont-ma.gov/printmail/16311 [23867] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/16311" [1]
+2017-01-02 03:25:28 URL:http://www.belmont-ma.gov/bylaw-review-committee [44524] -> "../data/townSites2/Belmont/www.belmont-ma.gov/by-law-review-committee" [1]
+2017-01-02 03:25:31 URL:http://www.belmont-ma.gov/cable-television-advisory-committee [51155] -> "../data/townSites2/Belmont/www.belmont-ma.gov/cable-television-advisory-committee" [1]
+2017-01-02 03:25:34 URL:http://www.belmont-ma.gov/capital-budget-committee [50151] -> "../data/townSites2/Belmont/www.belmont-ma.gov/capital-budget-committee" [1]
+2017-01-02 03:25:37 URL:http://www.belmont-ma.gov/community-preservation-committee [49574] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-preservation-committee" [1]
+2017-01-02 03:25:40 URL:http://www.belmont-ma.gov/conservation-commission [52192] -> "../data/townSites2/Belmont/www.belmont-ma.gov/conservation-commission" [1]
+2017-01-02 03:25:43 URL:http://www.belmont-ma.gov/cultural-council [50653] -> "../data/townSites2/Belmont/www.belmont-ma.gov/cultural-council" [1]
+2017-01-02 03:25:46 URL:http://www.belmont-ma.gov/disability-access-commission [38316] -> "../data/townSites2/Belmont/www.belmont-ma.gov/disability-access-commission" [1]
+2017-01-02 03:25:48 URL:http://www.belmont-ma.gov/town-clerk/pages/town-meeting-documents-information [36293] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-clerk/pages/town-meeting-member-information" [1]
+2017-01-02 03:25:51 URL:http://www.belmont-ma.gov/education-scholarship-committee [48799] -> "../data/townSites2/Belmont/www.belmont-ma.gov/education-scholarship-committee" [1]
+2017-01-02 03:25:54 URL:http://www.belmont-ma.gov/energy-committee [52080] -> "../data/townSites2/Belmont/www.belmont-ma.gov/energy-committee" [1]
+2017-01-02 03:25:58 URL:http://www.belmont-ma.gov/historic-district-commission [54935] -> "../data/townSites2/Belmont/www.belmont-ma.gov/historic-district-commission" [1]
+2017-01-02 03:26:01 URL:http://www.belmont-ma.gov/housing-trust [55147] -> "../data/townSites2/Belmont/www.belmont-ma.gov/housing-trust" [1]
+2017-01-02 03:26:04 URL:http://www.belmont-ma.gov/committee-on-electronic-voting-at-town-meeting [41542] -> "../data/townSites2/Belmont/www.belmont-ma.gov/committee-on-electronic-voting-at-town-meeting" [1]
+2017-01-02 03:26:07 URL:http://www.belmont-ma.gov/human-rights-commission [52248] -> "../data/townSites2/Belmont/www.belmont-ma.gov/human-rights-commission" [1]
+2017-01-02 03:26:11 URL:http://www.belmont-ma.gov/community-path-implementation-advisory-committee [52521] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-path-implementation-advisory-committee" [1]
+2017-01-02 03:26:14 URL:http://www.belmont-ma.gov/information-technology-advisory-committee [56615] -> "../data/townSites2/Belmont/www.belmont-ma.gov/information-technology-advisory-committee" [1]
+2017-01-02 03:26:17 URL:http://www.belmont-ma.gov/economic-development-advisory-committee [48620] -> "../data/townSites2/Belmont/www.belmont-ma.gov/economic-development-advisory-committee" [1]
+2017-01-02 03:26:20 URL:http://www.belmont-ma.gov/land-management-committee-for-lone-tree-hill [65449] -> "../data/townSites2/Belmont/www.belmont-ma.gov/land-management-committee-for-lone-tree-hill" [1]
+2017-01-02 03:26:24 URL:http://www.belmont-ma.gov/financial-task-force [52557] -> "../data/townSites2/Belmont/www.belmont-ma.gov/financial-task-force" [1]
+2017-01-02 03:26:27 URL:http://www.belmont-ma.gov/local-emergency-planning-committee [33798] -> "../data/townSites2/Belmont/www.belmont-ma.gov/local-emergency-planning-committee" [1]
+2017-01-02 03:26:31 URL:http://www.belmont-ma.gov/fire-stations-building-committee [44760] -> "../data/townSites2/Belmont/www.belmont-ma.gov/fire-stations-building-committee" [1]
+2017-01-02 03:26:35 URL:http://www.belmont-ma.gov/highland-meadow-cemetery [47290] -> "../data/townSites2/Belmont/www.belmont-ma.gov/highland-meadows-cemetery-building-committee" [1]
+2017-01-02 03:26:38 URL:http://www.belmont-ma.gov/permanent-audit-committee [47668] -> "../data/townSites2/Belmont/www.belmont-ma.gov/permanent-audit-committee" [1]
+2017-01-02 03:26:43 URL:http://www.belmont-ma.gov/underwood-pool-building-committee [52643] -> "../data/townSites2/Belmont/www.belmont-ma.gov/underwood-pool-building-committee" [1]
+2017-01-02 03:26:47 URL:http://www.belmont-ma.gov/permanent-building-committee [45060] -> "../data/townSites2/Belmont/www.belmont-ma.gov/permanent-building-committee" [1]
+2017-01-02 03:26:50 URL:http://www.belmont-ma.gov/wellington-school-building-committee [44546] -> "../data/townSites2/Belmont/www.belmont-ma.gov/wellington-school-building-committee" [1]
+2017-01-02 03:26:54 URL:http://www.belmont-ma.gov/property-casualty-insurance-advisory-committee [46506] -> "../data/townSites2/Belmont/www.belmont-ma.gov/property-casualty-insurance-advisory-committee" [1]
+2017-01-02 03:26:58 URL:http://www.belmont-ma.gov/other-post-employment-benefits-opeb-funding-advisory-group [50139] -> "../data/townSites2/Belmont/www.belmont-ma.gov/other-post-employment-benefits-opeb-funding-advisory-group" [1]
+2017-01-02 03:27:02 URL:http://www.belmont-ma.gov/registrars-of-voters [47481] -> "../data/townSites2/Belmont/www.belmont-ma.gov/registrar-of-voters" [1]
+2017-01-02 03:27:05 URL:http://www.belmont-ma.gov/logan-airport-community-advisory-committee [44279] -> "../data/townSites2/Belmont/www.belmont-ma.gov/logan-airport-community-advisory-committee" [1]
+2017-01-02 03:27:08 URL:http://www.belmont-ma.gov/shade-tree-committee [50933] -> "../data/townSites2/Belmont/www.belmont-ma.gov/shade-tree-committee" [1]
+2017-01-02 03:27:11 URL:http://www.belmont-ma.gov/traffic-advisory-committee [51636] -> "../data/townSites2/Belmont/www.belmont-ma.gov/traffic-advisory-committee" [1]
+2017-01-02 03:27:15 URL:http://www.belmont-ma.gov/vision-21-implementation-committee [50399] -> "../data/townSites2/Belmont/www.belmont-ma.gov/vision-21-implementation-committee-0" [1]
+2017-01-02 03:27:18 URL:http://www.belmont-ma.gov/warrant-committee [54503] -> "../data/townSites2/Belmont/www.belmont-ma.gov/warrant-committee" [1]
+2017-01-02 03:27:21 URL:http://www.belmont-ma.gov/water-advisory-board [48835] -> "../data/townSites2/Belmont/www.belmont-ma.gov/water-advisory-board" [1]
+2017-01-02 03:27:21 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/community_volunteer_interest_form_4.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:27:22 URL: http://www.belmont-ma.gov/node/2251/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:27:23 URL: http://www.belmont-ma.gov/node/2251/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 03:27:24 URL:http://www.belmont-ma.gov/print/2251 [6435] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/2251" [1]
+2017-01-02 03:27:25 URL:http://www.belmont-ma.gov/printmail/2251 [23835] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/2251" [1]
+2017-01-02 03:27:26 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/board_of_selectmen_2015.docx 200 OK
+unlink: No such file or directory
+2017-01-02 03:27:27 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/community_volunteer_interest_form_4.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:27:27 URL: http://www.belmont-ma.gov/sites/belmontma/files/u486/2016_committee_draft_guidelines.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:27:28 URL: http://www.belmont-ma.gov/sites/belmontma/files/u486/minuteman_-_proposed_belmont_school_committee_member_job_description.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:27:32 URL:http://www.belmont-ma.gov/projects-reports-presentations [41123] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-selectmen/links/projects-reports-and-presentations" [1]
+2017-01-02 03:27:33 URL:http://www.belmont-ma.gov/subscribe [54359] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-selectmen/links/subscribe-to-e-alerts" [1]
+2017-01-02 03:27:36 URL:http://www.belmont-ma.gov/town-administration [39925] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-selectmen/links/town-administration-office" [1]
+2017-01-02 03:27:38 URL:http://www.belmont-ma.gov/board-of-selectmen/faq/how-do-i-contact-members-of-the-board-of-selectmen [27054] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-selectmen/faq/how-do-i-contact-members-of-the-board-of-selectmen" [1]
+2017-01-02 03:27:39 URL:http://www.belmont-ma.gov/board-of-selectmen/faq/which-selectman-represents-my-neighborhood [26826] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-selectmen/faq/which-selectman-represents-my-neighborhood" [1]
+2017-01-02 03:27:41 URL:http://www.belmont-ma.gov/board-of-selectmen/faq/can-i-request-a-board-of-selectmen-proclamation [27063] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-selectmen/faq/can-i-request-a-board-of-selectmen-proclamation" [1]
+2017-01-02 03:27:42 URL:http://www.belmont-ma.gov/board-of-selectmen/faq/when-does-the-board-of-selectmen-meet [27191] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-selectmen/faq/when-does-the-board-of-selectmen-meet" [1]
+2017-01-02 03:27:43 URL:http://www.belmont-ma.gov/node/2251/news [21217] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2251/news" [1]
+2017-01-02 03:27:44 URL:http://www.belmont-ma.gov/node/2251/events/2017-01 [33406] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2251/events/2017-01" [1]
+2017-01-02 03:27:45 URL:http://www.belmont-ma.gov/board-of-selectmen/agenda/board-of-selectmen-working-session-11 [28845] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-selectmen/agenda/board-of-selectmen-working-session-11" [1]
+2017-01-02 03:27:46 URL:http://www.belmont-ma.gov/board-of-selectmen/agenda/board-of-selectmen-251 [28339] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-selectmen/agenda/board-of-selectmen-251" [1]
+2017-01-02 03:27:47 URL:http://www.belmont-ma.gov/board-of-selectmen/agenda/board-of-selectmen-252 [28355] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-selectmen/agenda/board-of-selectmen-252" [1]
+2017-01-02 03:27:48 URL:http://www.belmont-ma.gov/board-of-selectmen/agenda/board-of-selectmen-revised [28769] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-selectmen/agenda/board-of-selectmen-revised" [1]
+2017-01-02 03:27:50 URL:http://www.belmont-ma.gov/board-of-selectmen/agenda/board-of-selectmen-working-session-10 [28478] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-selectmen/agenda/board-of-selectmen-working-session-10" [1]
+2017-01-02 03:27:53 URL:http://www.belmont-ma.gov/node/2251/agenda [401772] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2251/agenda" [1]
+2017-01-02 03:27:54 URL:http://www.belmont-ma.gov/board-of-selectmen/minutes/board-of-selectmen-meeting-minutes-48 [27726] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-selectmen/minutes/board-of-selectmen-meeting-minutes-48" [1]
+2017-01-02 03:27:55 URL:http://www.belmont-ma.gov/board-of-selectmen/minutes/board-of-selectmen-meeting-minutes-47 [27726] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-selectmen/minutes/board-of-selectmen-meeting-minutes-47" [1]
+2017-01-02 03:27:56 URL:http://www.belmont-ma.gov/board-of-selectmen/minutes/board-of-selectmen-meeting-minutes-46 [27728] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-selectmen/minutes/board-of-selectmen-meeting-minutes-46" [1]
+2017-01-02 03:27:58 URL:http://www.belmont-ma.gov/board-of-selectmen/minutes/board-of-selectmen-meeting-minutes-45 [27728] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-selectmen/minutes/board-of-selectmen-meeting-minutes-45" [1]
+2017-01-02 03:27:59 URL:http://www.belmont-ma.gov/board-of-selectmen/minutes/board-of-selectmen-meeting-minutes-44 [27724] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-selectmen/minutes/board-of-selectmen-meeting-minutes-44" [1]
+2017-01-02 03:28:03 URL:http://www.belmont-ma.gov/node/2251/minutes [571572] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2251/minutes" [1]
+2017-01-02 03:28:04 URL: http://www.belmont-ma.gov/node/2241/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:28:05 URL: http://www.belmont-ma.gov/node/2241/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 03:28:06 URL:http://www.belmont-ma.gov/print/2241 [5456] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/2241" [1]
+2017-01-02 03:28:08 URL:http://www.belmont-ma.gov/printmail/2241 [23838] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/2241" [1]
+2017-01-02 03:28:11 URL:http://www.belmont-ma.gov/health-department [61366] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-health/links/belmont-health-department" [1]
+2017-01-02 03:28:12 URL:http://www.belmont-ma.gov/subscribe [54359] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-health/links/subscribe-to-e-alerts" [1]
+2017-01-02 03:28:14 URL:http://www.belmont-ma.gov/board-of-health/news/health-department-emergency-preparedness-newsletter [26300] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-health/news/health-department-emergency-preparedness-newsletter" [1]
+2017-01-02 03:28:15 URL:http://www.belmont-ma.gov/node/2241/events/2017-01 [33391] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2241/events/2017-01" [1]
+2017-01-02 03:28:16 URL: http://www.belmont-ma.gov/sites/belmontma/files/agenda/agenda-file/boardofhealthmeetingnotice12.12.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:28:17 URL: http://www.belmont-ma.gov/sites/belmontma/files/agenda/agenda-file/boardofhealthmeetingnotice11.16.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:28:18 URL: http://www.belmont-ma.gov/sites/belmontma/files/agenda/agenda-file/boardofhealthmeetingnotice10.18.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:28:19 URL: http://www.belmont-ma.gov/sites/belmontma/files/agenda/agenda-file/boardofhealthrecreationcommissionjointmeetingnotice09.27.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:28:19 URL: http://www.belmont-ma.gov/sites/belmontma/files/agenda/agenda-file/boardofhealthmeetingnotice09.12.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:28:21 URL:http://www.belmont-ma.gov/node/2241/agenda [38588] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2241/agenda" [1]
+2017-01-02 03:28:21 URL: http://www.belmont-ma.gov/sites/belmontma/files/minutes/minutes-file/bohminutes11.16.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:28:22 URL: http://www.belmont-ma.gov/sites/belmontma/files/minutes/minutes-file/bohminutes10.18.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:28:23 URL: http://www.belmont-ma.gov/sites/belmontma/files/minutes/minutes-file/bohreccommminutes09.27.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:28:24 URL: http://www.belmont-ma.gov/sites/belmontma/files/minutes/minutes-file/bohminutes09.12.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:28:25 URL: http://www.belmont-ma.gov/sites/belmontma/files/minutes/minutes-file/bohminutes07.11.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:28:26 URL:http://www.belmont-ma.gov/node/2241/minutes [82239] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2241/minutes" [1]
+2017-01-02 03:28:27 URL: http://www.belmont-ma.gov/node/2231/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:28:28 URL: http://www.belmont-ma.gov/node/2231/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 03:28:30 URL:http://www.belmont-ma.gov/print/2231 [8358] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/2231" [1]
+2017-01-02 03:28:31 URL:http://www.belmont-ma.gov/printmail/2231 [23844] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/2231" [1]
+2017-01-02 03:28:34 URL:http://www.belmont-ma.gov/assessors-office [48458] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-assessors/links/assessors-office" [1]
+2017-01-02 03:28:35 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy2016_classification_hearing_material.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:28:37 URL:http://jfryan.com/belmont/ [1819/1819] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-assessors/links/property-database" [1]
+2017-01-02 03:28:38 URL:http://www.belmont-ma.gov/node/2231/news [21226] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2231/news" [1]
+2017-01-02 03:28:39 URL:http://www.belmont-ma.gov/node/2231/events/2017-01 [34133] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2231/events/2017-01" [1]
+2017-01-02 03:28:40 URL:http://www.belmont-ma.gov/node/2231/events/2017-01-11 [25936] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2231/events/2017-01-11" [1]
+2017-01-02 03:28:41 URL: http://www.belmont-ma.gov/sites/belmontma/files/agenda/agenda-file/board_of_assessors_agenda_tc_01112017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:28:41 URL: http://www.belmont-ma.gov/sites/belmontma/files/minutes/minutes-file/11282016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:28:42 URL: http://www.belmont-ma.gov/sites/belmontma/files/minutes/minutes-file/11042016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:28:43 URL: http://www.belmont-ma.gov/sites/belmontma/files/minutes/minutes-file/10122016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:28:44 URL: http://www.belmont-ma.gov/sites/belmontma/files/minutes/minutes-file/10052016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:28:45 URL: http://www.belmont-ma.gov/sites/belmontma/files/minutes/minutes-file/09152016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:28:47 URL:http://www.belmont-ma.gov/node/2231/minutes [283995] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2231/minutes" [1]
+2017-01-02 03:28:48 URL: http://www.belmont-ma.gov/node/2236/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:28:49 URL: http://www.belmont-ma.gov/node/2236/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 03:28:50 URL:http://www.belmont-ma.gov/print/2236 [5730] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/2236" [1]
+2017-01-02 03:28:51 URL:http://www.belmont-ma.gov/printmail/2236 [23870] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/2236" [1]
+2017-01-02 03:28:55 URL:http://www.belmont-ma.gov/board-of-cemetery-commissioners [49163] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-cemetery-commissioners/links/board-of-cemetery-commissioners" [1]
+2017-01-02 03:28:58 URL:http://www.belmont-ma.gov/dpw-parks-cemetery-division [35266] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-cemetery-commissioners/links/dpw-parks-and-cemetery-division" [1]
+2017-01-02 03:29:01 URL:http://www.belmont-ma.gov/highland-meadow-cemetery [47290] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-cemetery-commissioners/links/highland-meadow-cemetery" [1]
+2017-01-02 03:29:02 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/hmc_marketing_brochure-_6-2015_update-2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:29:03 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fees_9-1-2008_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:29:04 URL:http://www.belmont-ma.gov/subscribe [54359] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-cemetery-commissioners/links/subscribe-to-e-alerts" [1]
+2017-01-02 03:29:06 URL:http://www.belmont-ma.gov/node/2236/news [21265] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2236/news" [1]
+2017-01-02 03:29:07 URL:http://www.belmont-ma.gov/node/2236/events/2017-01 [33471] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2236/events/2017-01" [1]
+2017-01-02 03:29:08 URL:http://www.belmont-ma.gov/board-of-cemetery-commissioners/agenda/board-of-cemetery-commissioners-meeting-agenda-6 [28422] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-cemetery-commissioners/agenda/board-of-cemetery-commissioners-meeting-agenda-6" [1]
+2017-01-02 03:29:09 URL:http://www.belmont-ma.gov/board-of-cemetery-commissioners/agenda/board-of-cemetery-commissioners-meeting-agenda-4 [28417] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-cemetery-commissioners/agenda/board-of-cemetery-commissioners-meeting-agenda-4" [1]
+2017-01-02 03:29:11 URL:http://www.belmont-ma.gov/board-of-cemetery-commissioners/agenda/board-of-cemetery-commissioners-meeting-agenda-5 [28417] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-cemetery-commissioners/agenda/board-of-cemetery-commissioners-meeting-agenda-5" [1]
+2017-01-02 03:29:12 URL:http://www.belmont-ma.gov/board-of-cemetery-commissioners/agenda/board-of-cemetery-commissioners-meeting-agenda-3 [28403] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-cemetery-commissioners/agenda/board-of-cemetery-commissioners-meeting-agenda-3" [1]
+2017-01-02 03:29:13 URL:http://www.belmont-ma.gov/board-of-cemetery-commissioners/agenda/board-of-cemetery-commissioners [28664] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-cemetery-commissioners/agenda/board-of-cemetery-commissioners" [1]
+2017-01-02 03:29:14 URL:http://www.belmont-ma.gov/node/2236/agenda [45183] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2236/agenda" [1]
+2017-01-02 03:29:15 URL:http://www.belmont-ma.gov/board-of-cemetery-commissioners/minutes/meeting-minutes-30 [27386] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-cemetery-commissioners/minutes/meeting-minutes-30" [1]
+2017-01-02 03:29:16 URL:http://www.belmont-ma.gov/board-of-cemetery-commissioners/minutes/meeting-minutes-29 [27390] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-cemetery-commissioners/minutes/meeting-minutes-29" [1]
+2017-01-02 03:29:17 URL:http://www.belmont-ma.gov/board-of-cemetery-commissioners/minutes/meeting-minutes-28 [27392] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-cemetery-commissioners/minutes/meeting-minutes-28" [1]
+2017-01-02 03:29:19 URL:http://www.belmont-ma.gov/board-of-cemetery-commissioners/minutes/meeting-minutes-27 [27389] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-cemetery-commissioners/minutes/meeting-minutes-27" [1]
+2017-01-02 03:29:20 URL:http://www.belmont-ma.gov/board-of-cemetery-commissioners/minutes/cemetery-commissioners-meeting-minutes [27594] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-cemetery-commissioners/minutes/cemetery-commissioners-meeting-minutes" [1]
+2017-01-02 03:29:21 URL:http://www.belmont-ma.gov/node/2236/minutes [57402] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2236/minutes" [1]
+2017-01-02 03:29:22 URL: http://www.belmont-ma.gov/node/2306/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:29:22 URL: http://www.belmont-ma.gov/node/2306/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 03:29:24 URL:http://www.belmont-ma.gov/print/2306 [8104] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/2306" [1]
+2017-01-02 03:29:25 URL:http://www.belmont-ma.gov/printmail/2306 [23842] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/2306" [1]
+2017-01-02 03:29:26 URL:http://www.belmont-ma.gov/users/dhamilton/contact [25003] -> "../data/townSites2/Belmont/www.belmont-ma.gov/users/dhamilton/contact" [1]
+2017-01-02 03:29:28 URL:http://www.belmont-ma.gov/subscribe [54359] -> "../data/townSites2/Belmont/www.belmont-ma.gov/housing-authority/links/subscribe-to-e-alerts" [1]
+2017-01-02 03:29:29 URL:http://www.belmont-ma.gov/node/2306/news [21223] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2306/news" [1]
+2017-01-02 03:29:30 URL:http://www.belmont-ma.gov/node/2306/events/2017-01 [33401] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2306/events/2017-01" [1]
+2017-01-02 03:29:31 URL:http://www.belmont-ma.gov/housing-authority/agenda/belmont-housing-authority-3 [27407] -> "../data/townSites2/Belmont/www.belmont-ma.gov/housing-authority/agenda/belmont-housing-authority-3" [1]
+2017-01-02 03:29:32 URL:http://www.belmont-ma.gov/housing-authority/agenda/housing-authority-48 [27339] -> "../data/townSites2/Belmont/www.belmont-ma.gov/housing-authority/agenda/housing-authority-48" [1]
+2017-01-02 03:29:33 URL:http://www.belmont-ma.gov/housing-authority/agenda/housing-authority-47 [27337] -> "../data/townSites2/Belmont/www.belmont-ma.gov/housing-authority/agenda/housing-authority-47" [1]
+2017-01-02 03:29:35 URL:http://www.belmont-ma.gov/housing-authority/agenda/housing-authority-46 [27340] -> "../data/townSites2/Belmont/www.belmont-ma.gov/housing-authority/agenda/housing-authority-46" [1]
+2017-01-02 03:29:36 URL:http://www.belmont-ma.gov/housing-authority/agenda/housing-authority-45 [27337] -> "../data/townSites2/Belmont/www.belmont-ma.gov/housing-authority/agenda/housing-authority-45" [1]
+2017-01-02 03:29:38 URL:http://www.belmont-ma.gov/node/2306/agenda [93263] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2306/agenda" [1]
+2017-01-02 03:29:39 URL:http://www.belmont-ma.gov/housing-authority/minutes/meeting-minutes-20 [26169] -> "../data/townSites2/Belmont/www.belmont-ma.gov/housing-authority/minutes/meeting-minutes-20" [1]
+2017-01-02 03:29:40 URL:http://www.belmont-ma.gov/housing-authority/minutes/meeting-minutes-19 [26162] -> "../data/townSites2/Belmont/www.belmont-ma.gov/housing-authority/minutes/meeting-minutes-19" [1]
+2017-01-02 03:29:41 URL:http://www.belmont-ma.gov/housing-authority/minutes/meeting-minutes-18 [26161] -> "../data/townSites2/Belmont/www.belmont-ma.gov/housing-authority/minutes/meeting-minutes-18" [1]
+2017-01-02 03:29:42 URL:http://www.belmont-ma.gov/housing-authority/minutes/meeting-minutes-annual-meeting-0 [26306] -> "../data/townSites2/Belmont/www.belmont-ma.gov/housing-authority/minutes/meeting-minutes-annual-meeting-0" [1]
+2017-01-02 03:29:44 URL:http://www.belmont-ma.gov/housing-authority/minutes/meeting-minutes-17 [26165] -> "../data/townSites2/Belmont/www.belmont-ma.gov/housing-authority/minutes/meeting-minutes-17" [1]
+2017-01-02 03:29:45 URL:http://www.belmont-ma.gov/node/2306/minutes [45549] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2306/minutes" [1]
+2017-01-02 03:29:46 URL:http://www.belmont-ma.gov/print/21686 [5370] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/21686" [1]
+2017-01-02 03:29:47 URL:http://www.belmont-ma.gov/printmail/21686 [23843] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/21686" [1]
+2017-01-02 03:29:48 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/form_only_for_website.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:29:49 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/abate_appl_for_website_form_filler_fy17_revised_11302016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:29:49 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/22_exempt_appl_for_website_form_filler.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:29:50 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/file_no_income_tax_return_form_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:29:51 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/18_exempt_appl_for_website_form_filler_revised_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:29:52 URL:http://www.belmont-ma.gov/node/2076/files [29372] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2076/files" [1]
+2017-01-02 03:29:53 URL:http://www.belmont-ma.gov/node/2101/files [27785] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2101/files" [1]
+2017-01-02 03:29:54 URL:https://www.mapsonline.net/belmontma/forms/standalone.html.php?id=420 [46983] -> "../data/townSites2/Belmont/www.belmont-ma.gov/department-of-public-works/links/public-works-service-request-form" [1]
+2017-01-02 03:29:55 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/recycle_calendar_fy17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:29:56 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/solid_waste_contract_extension_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:29:57 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/2nd_meter_regulations_11-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:29:58 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/disposal_system_installers_app.tmp_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:29:59 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/backup_of_town_of_belmont-bodywork_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:00 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/tobacco_workplaces_mar_4_10.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:00 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/nuisance_regulations_june_5_07.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:01 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fog_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:02 URL:http://www.belmont-ma.gov/node/2136/files [25317] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2136/files" [1]
+2017-01-02 03:30:03 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/contestedticket.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:04 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/special_permit_variance_process_residential.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:05 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/zoning_compliance_check_list.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:06 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/designreviewguidelines.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:07 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/pbprocesssigns.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:08 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/appsignspb.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:09 URL:http://www.belmont-ma.gov/node/2351/files [25078] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2351/files" [1]
+2017-01-02 03:30:10 URL:http://www.belmont-ma.gov/recreation-division/files/super-soccer-stars-winter-sessions-2016-2017 [29265] -> "../data/townSites2/Belmont/www.belmont-ma.gov/recreation-division/files/super-soccer-stars-winter-sessions-2016-2017" [1]
+2017-01-02 03:30:11 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/one_day_liquor_license_application_-_updated_3-30-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:12 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/block_party_request_form_updated.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:13 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/farmersmarketapplicationform_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:14 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/license_rules_and_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:15 URL:http://www.belmont-ma.gov/node/2191/files [23355] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2191/files" [1]
+2017-01-02 03:30:16 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/citizens_petition_for_pdf_1_4.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:17 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/absentee_ballot_application_mailing_belmont_2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:18 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/common_vic_renewal_-_app_pkt_2016_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:19 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/request_form_-_voter_resident_tmm_data_6.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:20 URL:http://www.belmont-ma.gov/node/2201/files [27696] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2201/files" [1]
+2017-01-02 03:30:21 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/auditorium_seating_diagram.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:22 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/roomrentalsapplication.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:23 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/moodysaaa29mbondapril2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:24 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/mailadd.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:25 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/apport.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:26 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/reppappl.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:27 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/moodysbondratingupdate-december2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:28 URL:http://www.belmont-ma.gov/node/2196/files [26156] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2196/files" [1]
+2017-01-02 03:30:28 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/warrant_commitee_fy2016_report_5-14-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:29 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/special_permit_variance_process_commercial_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:30 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/special_permit_variance_process_residential_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:31 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/ftydparkingprocess.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:32 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/appftydparking.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:33 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/zoning_compliance_check_list_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:30:34 URL:http://www.belmont-ma.gov/node/2396/files [24215] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2396/files" [1]
+2017-01-02 03:30:35 URL:http://www.belmont-ma.gov/board-of-assessors-office/faq/real-estate-tax-faqs [44998] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-assessors-office/faq/real-estate-tax-faqs" [1]
+2017-01-02 03:30:36 URL:http://www.belmont-ma.gov/assessor/faq/community-preservation-act-cpa-faqs [43097] -> "../data/townSites2/Belmont/www.belmont-ma.gov/assessor/faq/community-preservation-act-cpa-faqs" [1]
+2017-01-02 03:30:37 URL:http://www.belmont-ma.gov/assessor/faq/motor-vehicle-excise-tax-faqs [44443] -> "../data/townSites2/Belmont/www.belmont-ma.gov/assessor/faq/motor-vehicle-excise-tax-faqs" [1]
+2017-01-02 03:30:38 URL:http://www.belmont-ma.gov/community-development-building-division/faq/do-i-need-a-building-permit-to-put-a-shed-in-my-yard [30300] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development-building-division/faq/do-i-need-a-building-permit-to-put-a-shed-in-my-yard" [1]
+2017-01-02 03:30:40 URL:http://www.belmont-ma.gov/community-development-building-division/faq/do-i-need-a-building-permit-to-put-up-a-fence-what-are-t [29695] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development-building-division/faq/do-i-need-a-building-permit-to-put-up-a-fence-what-are-t" [1]
+2017-01-02 03:30:41 URL:http://www.belmont-ma.gov/community-development-building-division/faq/is-a-building-permit-required-to-replace-windows-in-my-h [29146] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development-building-division/faq/is-a-building-permit-required-to-replace-windows-in-my-h" [1]
+2017-01-02 03:30:42 URL:http://www.belmont-ma.gov/community-development-building-division/faq/do-i-need-a-building-permit-for-painting-or-wallpapering [29444] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-development-building-division/faq/do-i-need-a-building-permit-for-painting-or-wallpapering" [1]
+2017-01-02 03:30:43 URL:http://www.belmont-ma.gov/dpw-highway-division/faq/i-recently-cut-down-a-tree-i-cut-the-wood-to-3-feet-in-length-tied-a-bundle [30111] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw-highway-division/faq/i-recently-cut-down-a-tree-i-cut-the-wood-to-3-feet-in-length-tied-a-bundle" [1]
+2017-01-02 03:30:44 URL:http://www.belmont-ma.gov/dpw-highway-division/faq/how-can-i-encourage-my-neighbors-to-recycle [29543] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw-highway-division/faq/how-can-i-encourage-my-neighbors-to-recycle" [1]
+2017-01-02 03:30:45 URL:http://www.belmont-ma.gov/dpw-highway-division/faq/can-i-recycle-bottle-caps [29064] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw-highway-division/faq/can-i-recycle-bottle-caps" [1]
+2017-01-02 03:30:47 URL:http://www.belmont-ma.gov/dpw-highway-division/faq/when-i-am-composting-i-do-not-see-any-worms-when-i-turn-the-soil-should-i-w [29564] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw-highway-division/faq/when-i-am-composting-i-do-not-see-any-worms-when-i-turn-the-soil-should-i-w" [1]
+2017-01-02 03:30:48 URL:http://www.belmont-ma.gov/dpw-highway-division/faq/when-composting-how-long-do-i-need-to-wait-for-good-soil-to-develop [29495] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw-highway-division/faq/when-composting-how-long-do-i-need-to-wait-for-good-soil-to-develop" [1]
+2017-01-02 03:30:49 URL:http://www.belmont-ma.gov/node/2141/faq [26299] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2141/faq" [1]
+2017-01-02 03:30:50 URL:http://www.belmont-ma.gov/dpw-water-division/faq/is-my-drinking-water-fluoridated [27737] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw-water-division/faq/is-my-drinking-water-fluoridated" [1]
+2017-01-02 03:30:51 URL:http://www.belmont-ma.gov/dpw-water-division/faq/is-my-water-considered-%E2%80%9Csoft-or-hard%E2%80%9D [27866] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw-water-division/faq/is-my-water-considered-â%80%9Csoft-or-hardâ%80%9D" [1]
+2017-01-02 03:30:52 URL:http://www.belmont-ma.gov/dpw-water-division/faq/what-is-the-ph-of-belmont%E2%80%99s-drinking-water [28280] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw-water-division/faq/what-is-the-ph-of-belmontâ%80%99s-drinking-water" [1]
+2017-01-02 03:30:53 URL:http://www.belmont-ma.gov/dpw-water-division/faq/what-is-the-ph-of-belmont%E2%80%99s-drinking-water-0 [28290] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw-water-division/faq/what-is-the-ph-of-belmontâ%80%99s-drinking-water-0" [1]
+2017-01-02 03:30:54 URL:http://www.belmont-ma.gov/dpw-water-division/faq/the-hot-and-cold-water-from-our-kitchen-sink-sometimes-comes-out-very-cloudy- [31293] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw-water-division/faq/the-hot-and-cold-water-from-our-kitchen-sink-sometimes-comes-out-very-cloudy-" [1]
+2017-01-02 03:30:55 URL:http://www.belmont-ma.gov/node/2211/faq [25484] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2211/faq" [1]
+2017-01-02 03:30:57 URL:http://www.belmont-ma.gov/emergency-management-agency/faq/how-do-i-reach-bema-in-an-emergency [27603] -> "../data/townSites2/Belmont/www.belmont-ma.gov/emergency-management-agency/faq/how-do-i-reach-bema-in-an-emergency" [1]
+2017-01-02 03:30:58 URL:http://www.belmont-ma.gov/emergency-management-agency/faq/what-is-the-cert-team [28305] -> "../data/townSites2/Belmont/www.belmont-ma.gov/emergency-management-agency/faq/what-is-the-cert-team" [1]
+2017-01-02 03:30:59 URL:http://www.belmont-ma.gov/facilities-department/faq/when-can-i-visit-the-belmont-gallery-of-art [26876] -> "../data/townSites2/Belmont/www.belmont-ma.gov/facilities-department/faq/when-can-i-visit-the-belmont-gallery-of-art" [1]
+2017-01-02 03:31:00 URL:http://www.belmont-ma.gov/facilities-department/faq/how-do-i-book-a-facility-rental [26743] -> "../data/townSites2/Belmont/www.belmont-ma.gov/facilities-department/faq/how-do-i-book-a-facility-rental" [1]
+2017-01-02 03:31:01 URL:http://www.belmont-ma.gov/facilities-department/faq/how-do-i-obtain-a-building-permit [26716] -> "../data/townSites2/Belmont/www.belmont-ma.gov/facilities-department/faq/how-do-i-obtain-a-building-permit" [1]
+2017-01-02 03:31:02 URL:http://www.belmont-ma.gov/facilities-department/faq/who-do-i-contact-for-smoke-detector-certificates [26823] -> "../data/townSites2/Belmont/www.belmont-ma.gov/facilities-department/faq/who-do-i-contact-for-smoke-detector-certificates" [1]
+2017-01-02 03:31:03 URL:http://www.belmont-ma.gov/facilities-department/faq/what-are-the-operating-hours-for-the-viglirolo-rink [26868] -> "../data/townSites2/Belmont/www.belmont-ma.gov/facilities-department/faq/what-are-the-operating-hours-for-the-viglirolo-rink" [1]
+2017-01-02 03:31:04 URL:http://www.belmont-ma.gov/node/2081/faq [23434] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/2081/faq" [1]
+2017-01-02 03:31:05 URL:http://www.belmont-ma.gov/highland-meadows-cemetery-building-committee/faq/highland-meadows-cemetery-faq [41059] -> "../data/townSites2/Belmont/www.belmont-ma.gov/highland-meadows-cemetery-building-committee/faq/highland-meadows-cemetery-faq" [1]
+2017-01-02 03:31:07 URL:http://www.belmont-ma.gov/parking/faq/do-parking-meters-work-on-sundays [27040] -> "../data/townSites2/Belmont/www.belmont-ma.gov/parking/faq/do-parking-meters-work-on-sundays" [1]
+2017-01-02 03:31:08 URL:http://www.belmont-ma.gov/parking/faq/can-i-pay-my-parking-ticket-online [27215] -> "../data/townSites2/Belmont/www.belmont-ma.gov/parking/faq/can-i-pay-my-parking-ticket-online" [1]
+2017-01-02 03:31:09 URL:http://www.belmont-ma.gov/treasurer-and-tax-collector/faq/motor-vehicle-excise-tax-faqs [37875] -> "../data/townSites2/Belmont/www.belmont-ma.gov/treasurer-and-tax-collector/faq/motor-vehicle-excise-tax-faqs" [1]
+2017-01-02 03:31:10 URL:http://www.belmont-ma.gov/treasurer-and-tax-collector/faq/real-estate-taxes-faqs [39449] -> "../data/townSites2/Belmont/www.belmont-ma.gov/treasurer-and-tax-collector/faq/real-estate-taxes-faqs" [1]
+2017-01-02 03:31:11 URL:http://www.belmont-ma.gov/treasurer-and-tax-collector/faq/municipal-lien-certificate-faqs [30294] -> "../data/townSites2/Belmont/www.belmont-ma.gov/treasurer-and-tax-collector/faq/municipal-lien-certificate-faqs" [1]
+2017-01-02 03:31:12 URL:http://www.belmont-ma.gov/dpw-water-division/pages/backflow-cross-connection-program [27806] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw-water-division/pages/backflow-cross-connection-program" [1]
+2017-01-02 03:31:13 URL:http://www.belmont-ma.gov/quick-view/332 [25080] -> "../data/townSites2/Belmont/www.belmont-ma.gov/quick-view/332" [1]
+2017-01-02 03:31:15 URL:http://www.belmont-ma.gov/projects-reports-presentations/pages/belmont-uplands-project [26156] -> "../data/townSites2/Belmont/www.belmont-ma.gov/projects-reports-presentations/pages/belmont-uplands-project" [1]
+2017-01-02 03:31:17 URL:http://www.belmont-ma.gov/information-technology/pages/belmont-geographical-information-system-gis [26540] -> "../data/townSites2/Belmont/www.belmont-ma.gov/information-technology/links/belmont-geographical-information-system-gis" [1]
+2017-01-02 03:31:18 URL:http://www.belmont-ma.gov/print/23171 [21637] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/23171" [1]
+2017-01-02 03:31:19 URL:http://www.belmont-ma.gov/printmail/23171 [23876] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/23171" [1]
+2017-01-02 03:31:20 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/table_of_contents_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:20 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/budget_message.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:21 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/budget_summary.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:22 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/general_governement.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:23 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/employee_benefits_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:24 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/public_safety_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:25 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/education_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:25 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/public_services_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:26 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/human_services_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:27 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/debt_and_interest.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:28 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/cherry_sheet_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:29 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/budget_detail.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:30 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/final_fy17_submitted_capital_request.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:31 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy17_revenue_detail.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:32 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy17_expenditure_detail_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:32 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy17_water_and_sewer_detail.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:33 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy17_capital_budget_committee_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:34 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy17_budget_summary.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:34 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/warrant_committee_report_fy2017_5-14-16_final_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:35 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy17_warrant_committee_report_to_town_meeting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:36 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fiscal_year_2017_capital_budget_report_to_town_meeting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:37 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/table_of_contents_final_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:38 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/section_i_budget_message_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:39 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/section_2_budget_summary_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:39 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/section_3_general_government_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:40 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/section_3_employee_benefits_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:41 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/section_3_public_safety_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:42 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/section_3_education_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:43 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/section_3_public_services_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:45 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/section_3_human_services_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:46 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/section_3_debt_and_interest_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:47 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/section_3_cherry_sheet_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:48 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/section_4_budget_detail_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:48 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy16_budget_bos_presentation_feb_14_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:49 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy16_supt._budget_presentation_2-11-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:50 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy16_supt_bgt_presentation_wc_02252015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:51 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy16_capital_town_depts._march_6_0914am_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:52 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy16_budget_presentation_precinct_meetings_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:53 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/1_fy16_final_revenue_detail.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:54 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/2_fy16_final_expenditure_detail.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:55 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/3_fy16_final_watersewer_budget.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:56 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/4_fy16_final_capital_budget_committee_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:56 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/5_fy16_final_budget_summary.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:56 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/warrant_commitee_fy2016_report_5-14-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:57 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy_16_capital_budget_report_to_town_meeting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:58 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy2016_budget_for_june_tm_6-1-15final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:31:59 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/tableofcontents-final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:00 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/sectioni.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:02 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/section_ii_budget_summaries.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:03 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/general_government.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:04 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/employee_benefits.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:05 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/public_safety.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:06 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/education.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:07 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/public_services.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:08 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/human_services.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:08 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/debt_services.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:09 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/cherry_sheet.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:10 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/section_iv.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:11 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/submittedcapitalbudgetrequest.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:12 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/finalfy15revenuedetail.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:12 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/finalfy15budgetexpenditure.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:13 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/finalfy15budgetwatersewer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:14 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy15capitalbudgetcommittee.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:15 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy15revenueexpenditure.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:16 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/warrantcommittteefy15report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:17 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/budget_book_front_cover.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:17 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/a_table_of_contents.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:18 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy14_section_i.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:19 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy14_section_ii.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:20 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy14_section_iii_pubser.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:21 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy14_section_iii_debt.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:22 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy14_section_iii_culturerecpdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:23 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy14_section_iii_hs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:24 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy14_section_iii_gen_govt.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:25 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy14_section_iii_education.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:25 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy14_section_iii_ps.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:26 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy14_section_iv_exp.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:27 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy14_section_iv_enter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:28 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy14_section_iv_rev.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:29 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/01_fy14_capital_budget.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:29 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy14_wc_budget2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:30 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy14_final_adopted_capital_budget_committee_projects.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:31 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy14_approved_budget_revenues.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:32 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy14_approved_sewer_budget.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:33 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy14_approved_water_budget.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:34 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy14_approved_budget_detail.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:35 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy14_approved_budget_summary_town_meeting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:36 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/wc_-_fy14_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:37 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/updatefinalfy13_executiveboardrecommendedbudgetmay04.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:37 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/letterfromtarefy13budget.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:39 URL:http://www.belmont-ma.gov/town-administration/pages/fy13-budget-by-department [30199] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-administration/pages/fy13-budget-by-department" [1]
+2017-01-02 03:32:40 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy13_preliminary_budget.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:40 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/cbc_it_3_pdf_-_adobe_acrobat_pro.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:41 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy13capitalbudgetreqpres_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:42 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/capital_budget_requests.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:43 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/coa_budget_narrative_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:44 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy12_narrative_all_town_depts_-_perf_mgmt_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:45 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy12_budgets_by_dept_level_vs_avail_funds.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:46 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy12_performance_charts_all_town_depts.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:47 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy12_budget_cover_letter_misc_charts.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:47 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/capitalplanstatusupdatebosmtg092611final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:48 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/capitalprojects081511.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:49 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/capitalprojects.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:50 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy11townadmcoverletterfteinfobydept.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:51 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy11narrativebydepartment_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:51 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy11_budget_water_and_sewer_as_of_may_12_2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:52 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy11_override_avail_funds.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:53 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy11genfundrevenueestimates2-8-10.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:54 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy11deptoverviewperfdataalldepts.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:55 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy11lineitembudgetbydept.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:55 URL:http://www.belmont-ma.gov/information-technology/pages/belmont-geographical-information-system-gis [26540] -> "../data/townSites2/Belmont/www.belmont-ma.gov/information-technology/pages/belmont-geographical-information-system-gis" [1]
+2017-01-02 03:32:56 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/how_to_file_for_an_abatement_on_your_fy2014_assessed_value.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:57 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/levylimits_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:58 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/charity.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:59 URL:http://www.belmont-ma.gov/quick-view/145 [25377] -> "../data/townSites2/Belmont/www.belmont-ma.gov/quick-view/145" [1]
+2017-01-02 03:33:00 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/reppappl_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:00 URL:http://www.belmont-ma.gov/quick-view/147 [27073] -> "../data/townSites2/Belmont/www.belmont-ma.gov/quick-view/147" [1]
+2017-01-02 03:33:02 URL:http://www.belmont-ma.gov/animal-control-officer/pages/pets-available-for-adoption [36583] -> "../data/townSites2/Belmont/www.belmont-ma.gov/animal-control-officer/pages/pets-available-for-adoption" [1]
+2017-01-02 03:33:03 URL:http://www.belmont-ma.gov/youth-family-services/pages/available-services [28837] -> "../data/townSites2/Belmont/www.belmont-ma.gov/youth-family-services/pages/available-services" [1]
+2017-01-02 03:33:04 URL:http://www.libraryinsight.net/horzcal.asp?jx=bl [79886/79886] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/links/library-events" [1]
+2017-01-02 03:33:06 URL:http://www.belmont-ma.gov/animal-control-officer/pages/feral-animals [33185] -> "../data/townSites2/Belmont/www.belmont-ma.gov/animal-control-officer/pages/feral-animals" [1]
+2017-01-02 03:33:07 URL:http://www.belmont-ma.gov/animal-control-officer/pages/pet-safety [40716] -> "../data/townSites2/Belmont/www.belmont-ma.gov/animal-control-officer/pages/pet-safety" [1]
+2017-01-02 03:33:08 URL:http://www.belmont-ma.gov/dpw-highway-division/pages/current-water-and-sewer-rates [30034] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw-highway-division/pages/current-water-and-sewer-rates" [1]
+2017-01-02 03:33:09 URL:http://www.belmont-ma.gov/dpw-highway-division/pages/sewer-bills-and-service [29760] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw-highway-division/pages/sewer-bills-and-service" [1]
+2017-01-02 03:33:10 URL:http://www.belmont-ma.gov/board-of-assessors-office/pages/community-preservation-act-cpa-surcharge [31883] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-assessors-office/pages/community-preservation-act-cpa-surcharge" [1]
+2017-01-02 03:33:12 URL:http://www.belmont-ma.gov/board-of-assessors-office/pages/tax-relief-exemption-programs [45216] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-assessors-office/pages/tax-relief-exemption-programs" [1]
+2017-01-02 03:33:13 URL:http://www.belmont-ma.gov/assessors-office/pages/brochures-applications-forms [43880] -> "../data/townSites2/Belmont/www.belmont-ma.gov/assessors-office/pages/brochures-applications-forms" [1]
+2017-01-02 03:33:14 URL:http://www.belmont-ma.gov/quick-view/150 [25073] -> "../data/townSites2/Belmont/www.belmont-ma.gov/quick-view/150" [1]
+2017-01-02 03:33:15 URL:http://www.belmont-ma.gov/dpw-highway-division/pages/recycle-tips [30027] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw-highway-division/pages/recycle-tips" [1]
+2017-01-02 03:33:16 URL:http://www.belmont-ma.gov/dpw-highway-division/pages/waste-oil-hazardous-waste [30592] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw-highway-division/pages/waste-oil-hazardous-waste" [1]
+2017-01-02 03:33:17 URL:http://www.belmont-ma.gov/dpw-highway-division/pages/recycling-sticker-information [34896] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw-highway-division/pages/recycling-sticker-information" [1]
+2017-01-02 03:33:19 URL:http://www.belmont-ma.gov/dpw-highway-division/pages/recycling-trash-yard-waste-information [32661] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw-highway-division/pages/recycling-trash-yard-waste-information" [1]
+2017-01-02 03:33:21 URL:http://www.belmont-ma.gov/dpw-highway-division/pages/recycle-trash-street-collection-schedule [108721] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw-highway-division/pages/recycle-trash-street-collection-schedule" [1]
+2017-01-02 03:33:22 URL:http://www.belmont-ma.gov/quick-view/149 [25702] -> "../data/townSites2/Belmont/www.belmont-ma.gov/quick-view/149" [1]
+2017-01-02 03:33:23 URL:http://www.belmont-ma.gov/human-resources/pages/job-openings [32033] -> "../data/townSites2/Belmont/www.belmont-ma.gov/human-resources/pages/job-openings" [1]
+2017-01-02 03:33:24 URL:http://www.belmont-ma.gov/print/21691 [5956] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/21691" [1]
+2017-01-02 03:33:25 URL:http://www.belmont-ma.gov/printmail/21691 [23851] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/21691" [1]
+2017-01-02 03:33:25 URL: http://www.belmont-ma.gov/sites/belmontma/files/u66/interns-wanted.jpeg 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:26 URL:http://www.belmont-ma.gov/town-administration/pages/volunteer-opportunities [29573] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-administration/pages/volunteer-opportunities" [1]
+2017-01-02 03:33:27 URL:http://www.belmont-ma.gov/print/2861 [2933] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/2861" [1]
+2017-01-02 03:33:28 URL:http://www.belmont-ma.gov/printmail/2861 [23867] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/2861" [1]
+2017-01-02 03:33:28 URL: http://www.belmont-ma.gov/node/17751/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:30 URL:http://www.belmont-ma.gov/print/17751 [3847] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/17751" [1]
+2017-01-02 03:33:31 URL:http://www.belmont-ma.gov/printmail/17751 [23850] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/17751" [1]
+2017-01-02 03:33:31 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/pq_playground_survey_design_rfp_6-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:33 URL:http://www.belmont-ma.gov/purchasing-bids/news/winn-brook-tennis-court-renovations-invitation-to-bid [24762] -> "../data/townSites2/Belmont/www.belmont-ma.gov/purchasing-bids/news/winn-brook-tennis-court-renovations-invitation-to-bid" [1]
+2017-01-02 03:33:34 URL:http://www.belmont-ma.gov/print/40031 [8735] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/40031" [1]
+2017-01-02 03:33:35 URL:http://www.belmont-ma.gov/printmail/40031 [23844] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/40031" [1]
+2017-01-02 03:33:35 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/snow_brochure_2015_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:36 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/final_as_of_12162013_residential_snow_removal_general_bylaw_with_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:36 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/commercial_sidewalk_-_10-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:37 URL:http://www.belmont-ma.gov/subscribe [54359] -> "../data/townSites2/Belmont/www.belmont-ma.gov/subscribe" [1]
+2017-01-02 03:33:38 URL:http://www.belmont-ma.gov/print/71396 [4053] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/71396" [1]
+2017-01-02 03:33:39 URL:http://www.belmont-ma.gov/printmail/71396 [23892] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/71396" [1]
+2017-01-02 03:33:40 URL:http://www.belmont-ma.gov/print/70751 [3379] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/70751" [1]
+2017-01-02 03:33:41 URL:http://www.belmont-ma.gov/printmail/70751 [23892] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/70751" [1]
+2017-01-02 03:33:42 URL:http://www.belmont-ma.gov/print/65646 [11204] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/65646" [1]
+2017-01-02 03:33:43 URL:http://www.belmont-ma.gov/printmail/65646 [23890] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/65646" [1]
+2017-01-02 03:33:43 URL: http://www.belmont-ma.gov/sites/belmontma/files/u146/clifton_5.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:43 URL: http://www.belmont-ma.gov/sites/belmontma/files/u146/bartlett_9.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:43 URL: http://www.belmont-ma.gov/sites/belmontma/files/u146/winslow_10.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:44 URL: http://www.belmont-ma.gov/sites/belmontma/files/u146/palfrey_8.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:44 URL: http://www.belmont-ma.gov/sites/belmontma/files/u146/payson_3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:45 URL: http://www.belmont-ma.gov/sites/belmontma/files/u146/glendale_4.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:45 URL: http://www.belmont-ma.gov/sites/belmontma/files/u146/cushing_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:45 URL: http://www.belmont-ma.gov/sites/belmontma/files/u146/sharpe_16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:46 URL: http://www.belmont-ma.gov/sites/belmontma/files/u146/marion_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:46 URL: http://www.belmont-ma.gov/sites/belmontma/files/u146/albert_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:46 URL: http://www.belmont-ma.gov/sites/belmontma/files/u146/simmons_12.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:47 URL: http://www.belmont-ma.gov/sites/belmontma/files/u146/middlecot_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:47 URL: http://www.belmont-ma.gov/sites/belmontma/files/u146/sherman_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:47 URL: http://www.belmont-ma.gov/sites/belmontma/files/u146/maple_5.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:48 URL: http://www.belmont-ma.gov/sites/belmontma/files/u146/lexington_12.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:48 URL: http://www.belmont-ma.gov/sites/belmontma/files/u146/lexington_st_detour.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:48 URL: http://www.belmont-ma.gov/sites/belmontma/files/u146/pmp_-_general_information.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:49 URL: http://www.belmont-ma.gov/sites/belmontma/files/u146/tac_speeding_complaints.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:50 URL:http://www.belmont-ma.gov/print/71606 [3423] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/71606" [1]
+2017-01-02 03:33:50 URL:http://www.belmont-ma.gov/printmail/71606 [23906] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/71606" [1]
+2017-01-02 03:33:51 URL:http://www.belmont-ma.gov/print/72241 [3606] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/72241" [1]
+2017-01-02 03:33:52 URL:http://www.belmont-ma.gov/printmail/72241 [23903] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/72241" [1]
+2017-01-02 03:33:54 URL:http://www.belmont-ma.gov/print/72381 [3901] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/72381" [1]
+2017-01-02 03:33:54 URL:http://www.belmont-ma.gov/printmail/72381 [23894] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/72381" [1]
+2017-01-02 03:33:56 URL:http://www.belmont-ma.gov/print/71451 [5577] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/71451" [1]
+2017-01-02 03:33:57 URL:http://www.belmont-ma.gov/printmail/71451 [24016] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/71451" [1]
+2017-01-02 03:33:57 URL:http://www.belmont-ma.gov/print/72336 [3551] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/72336" [1]
+2017-01-02 03:33:58 URL:http://www.belmont-ma.gov/printmail/72336 [23913] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/72336" [1]
+2017-01-02 03:34:00 URL:http://www.belmont-ma.gov/print/72721 [3334] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/72721" [1]
+2017-01-02 03:34:01 URL:http://www.belmont-ma.gov/printmail/72721 [23894] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/72721" [1]
+2017-01-02 03:34:02 URL:http://www.belmont-ma.gov/print/72596 [4016] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/72596" [1]
+2017-01-02 03:34:03 URL:http://www.belmont-ma.gov/printmail/72596 [23902] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/72596" [1]
+2017-01-02 03:34:03 URL:http://www.belmont-ma.gov/print/72296 [3499] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/72296" [1]
+2017-01-02 03:34:04 URL:http://www.belmont-ma.gov/printmail/72296 [23912] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/72296" [1]
+2017-01-02 03:34:05 URL:http://www.belmont-ma.gov/print/72246 [8037] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/72246" [1]
+2017-01-02 03:34:06 URL:http://www.belmont-ma.gov/printmail/72246 [23920] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/72246" [1]
+2017-01-02 03:34:07 URL: http://www.belmont-ma.gov/node/111/news/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:34:08 URL:http://www.belmont-ma.gov/home/news/transfer-station-open-for-one-more-week [23742] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/news/transfer-station-open-for-one-more-week" [1]
+2017-01-02 03:34:09 URL:http://www.belmont-ma.gov/home/news/lwv-early-voting-recap-with-town-clerk-ellen-cushman [26863] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/news/lwv-early-voting-recap-with-town-clerk-ellen-cushman" [1]
+2017-01-02 03:34:10 URL:http://www.belmont-ma.gov/home/news/downsize-your-home-workshop [24935] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/news/downsize-your-home-workshop" [1]
+2017-01-02 03:34:11 URL:http://www.belmont-ma.gov/home/news/reducing-homeownership-costs [24827] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/news/reducing-homeownership-costs" [1]
+2017-01-02 03:34:12 URL:http://www.belmont-ma.gov/home/news/community-conversation-with-the-belmont-health-department [25074] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/news/community-conversation-with-the-belmont-health-department" [1]
+2017-01-02 03:34:13 URL:http://www.belmont-ma.gov/home/news/the-town-of-belmont%E2%80%99s-23rd-annual-dr-martin-luther-king-jr-community-breakfast-on-mlk-day [26414] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/news/the-town-of-belmontâ%80%99s-23rd-annual-dr-martin-luther-king-jr-community-breakfast-on-mlk-day" [1]
+2017-01-02 03:34:14 URL:http://www.belmont-ma.gov/home/news/irs-scam [24615] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/news/irs-scam" [1]
+2017-01-02 03:34:15 URL:http://www.belmont-ma.gov/home/news/2017-police-officer-and-state-trooper-exam [24450] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/news/2017-police-officer-and-state-trooper-exam" [1]
+2017-01-02 03:34:16 URL:http://www.belmont-ma.gov/home/news/town-offices-are-closed-on-1124-and-1125 [23574] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/news/town-offices-are-closed-on-1124-and-1125" [1]
+2017-01-02 03:34:17 URL:http://www.belmont-ma.gov/home/news/dpw-highway-division-team-wins-award [24619] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/news/dpw-highway-division-team-wins-award" [1]
+2017-01-02 03:34:18 URL:http://www.belmont-ma.gov/home/news/board-of-selectmen-seek-a-volunteer-for-one-committee [25681] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/news/board-of-selectmen-seek-a-volunteer-for-one-committee" [1]
+2017-01-02 03:34:19 URL:http://www.belmont-ma.gov/home/news/board-of-selectmen-seek-volunteers-for-two-committees [26254] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/news/board-of-selectmen-seek-volunteers-for-two-committees" [1]
+2017-01-02 03:34:20 URL:http://www.belmont-ma.gov/home/news/town-clerks-office-will-be-closed-for-all-non-audit-business-on-tuesday-november-15th [24599] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/news/town-clerks-office-will-be-closed-for-all-non-audit-business-on-tuesday-november-15th" [1]
+2017-01-02 03:34:21 URL:http://www.belmont-ma.gov/home/news/town-offices-are-closed-on-veterans-day [23577] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/news/town-offices-are-closed-on-veterans-day" [1]
+2017-01-02 03:34:22 URL:http://www.belmont-ma.gov/home/news/library-feasibility-events [24086] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/news/library-feasibility-events" [1]
+2017-01-02 03:34:23 URL:http://www.belmont-ma.gov/departments [54037] -> "../data/townSites2/Belmont/www.belmont-ma.gov/og" [1]
+2017-01-02 03:34:24 URL:http://www.belmont-ma.gov/print/400 [2695] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/400" [1]
+2017-01-02 03:34:25 URL:http://www.belmont-ma.gov/printmail/400 [23830] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/400" [1]
+2017-01-02 03:34:28 URL:http://belmontpubliclibrary.net/about/board-of-library-trustees-gift-program/ [50287] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-library-trustees" [1]
+2017-01-02 03:34:30 URL:http://www.belmont-ma.gov/bylaw-review-committee [44524] -> "../data/townSites2/Belmont/www.belmont-ma.gov/bylaw-review-committee" [1]
+2017-01-02 03:34:33 URL:http://www.belmont-ma.gov/community-path-advisory-committee-cpac [51918] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-path-advisory-committee-cpac" [1]
+2017-01-02 03:34:36 URL:http://www.belmont-ma.gov/highland-meadow-cemetery [47290] -> "../data/townSites2/Belmont/www.belmont-ma.gov/highland-meadow-cemetery" [1]
+2017-01-02 03:34:37 URL:http://www.belmontlight.com/about-us/management.php [20176/20176] -> "../data/townSites2/Belmont/www.belmont-ma.gov/municipal-light-department-advisory-board" [1]
+2017-01-02 03:34:40 URL:http://www.belmont-ma.gov/mwra-advisory-board [28227] -> "../data/townSites2/Belmont/www.belmont-ma.gov/mwra-advisory-board" [1]
+2017-01-02 03:34:43 URL:http://www.belmont-ma.gov/registrars-of-voters [47481] -> "../data/townSites2/Belmont/www.belmont-ma.gov/registrars-of-voters" [1]
+2017-01-02 03:34:46 URL:http://www.belmont-ma.gov/vision-21-implementation-committee [50399] -> "../data/townSites2/Belmont/www.belmont-ma.gov/vision-21-implementation-committee" [1]
+2017-01-02 03:34:47 URL:http://www.belmont-ma.gov/print/401 [4266] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/401" [1]
+2017-01-02 03:34:48 URL:http://www.belmont-ma.gov/printmail/401 [23820] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/401" [1]
+2017-01-02 03:34:48 URL:http://www.belmont-ma.gov/print/396 [2672] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/396" [1]
+2017-01-02 03:34:49 URL:http://www.belmont-ma.gov/printmail/396 [23812] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/396" [1]
+2017-01-02 03:34:52 URL:http://www.belmont-ma.gov/town-facility-rentals [29593] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-facility-rentals.1" [1]
+2017-01-02 03:34:53 URL:http://www.belmont-ma.gov/print/16701 [3638] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/16701" [1]
+2017-01-02 03:34:54 URL:http://www.belmont-ma.gov/printmail/16701 [23866] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/16701" [1]
+2017-01-02 03:34:54 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/signagerequestandpolicy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:34:55 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/blockpartyrequestform.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:34:56 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/catering_form_91012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:34:57 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/onedayliqlicapplication.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:34:58 URL:http://www.beechstreetcenter.org/rentals.html [41901] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-facility-rentals/links/beech-street-center-rentals-page" [1]
+2017-01-02 03:34:59 URL: http://www.belmont-ma.gov/node/62311/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:00 URL: http://www.belmont-ma.gov/node/62311/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:02 URL:http://www.belmont-ma.gov/print/62311 [10452] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/62311" [1]
+2017-01-02 03:35:03 URL:http://www.belmont-ma.gov/printmail/62311 [23890] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/62311" [1]
+2017-01-02 03:35:04 URL:http://www.belmont-ma.gov/users/gboyle/contact [24965] -> "../data/townSites2/Belmont/www.belmont-ma.gov/users/gboyle/contact" [1]
+2017-01-02 03:35:05 URL:http://www.belmont-ma.gov/users/jphelan/contact [24973] -> "../data/townSites2/Belmont/www.belmont-ma.gov/users/jphelan/contact" [1]
+2017-01-02 03:35:06 URL:http://www.belmont-ma.gov/users/drichards/contact [25001] -> "../data/townSites2/Belmont/www.belmont-ma.gov/users/drichards/contact" [1]
+2017-01-02 03:35:07 URL:http://www.belmont-ma.gov/belmont-high-school-building-committee/pages/2004-master-plan-and-feasibility-study [27726] -> "../data/townSites2/Belmont/www.belmont-ma.gov/belmont-high-school-building-committee/pages/2004-master-plan-and-feasibility-study" [1]
+2017-01-02 03:35:11 URL:http://www.belmont.k12.ma.us/bps/bhs/ [148101/148101] -> "../data/townSites2/Belmont/www.belmont-ma.gov/belmont-high-school-building-committee/links/belmont-high-school" [1]
+2017-01-02 03:35:12 URL:http://www.belmont-ma.gov/belmont-high-school-building-committee/slideshows/committee-votes-to-approve-feasibility-study-bud-0 [29129] -> "../data/townSites2/Belmont/www.belmont-ma.gov/belmont-high-school-building-committee/slideshows/committee-votes-to-approve-feasibility-study-bud-0" [1]
+2017-01-02 03:35:13 URL:http://www.belmont-ma.gov/belmont-high-school-building-committee/pages/eligibility-period-documents [29347] -> "../data/townSites2/Belmont/www.belmont-ma.gov/belmont-high-school-building-committee/pages/eligibility-period-documents" [1]
+2017-01-02 03:35:17 URL:http://www.belmont-ma.gov/facilities-department [46581] -> "../data/townSites2/Belmont/www.belmont-ma.gov/belmont-high-school-building-committee/links/facilities-department" [1]
+2017-01-02 03:35:18 URL:http://www.belmont-ma.gov/belmont-high-school-building-committee/pages/fully-executed-feasibility-study-agreement [27295] -> "../data/townSites2/Belmont/www.belmont-ma.gov/belmont-high-school-building-committee/pages/fully-executed-feasibility-study-agreement" [1]
+2017-01-02 03:35:21 URL:http://www.massschoolbuildings.org/ [40372] -> "../data/townSites2/Belmont/www.belmont-ma.gov/belmont-high-school-building-committee/links/msba-website" [1]
+2017-01-02 03:35:22 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/2016-05-04_town_mtg_presentation.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:22 URL:http://www.belmont-ma.gov/node/62311/news [21295] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/62311/news" [1]
+2017-01-02 03:35:24 URL:http://www.belmont-ma.gov/node/62311/events/2017-01 [34288] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/62311/events/2017-01" [1]
+2017-01-02 03:35:25 URL:http://www.belmont-ma.gov/node/62311/events/2017-01-05 [26083] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/62311/events/2017-01-05" [1]
+2017-01-02 03:35:26 URL:http://www.belmont-ma.gov/belmont-high-school-building-committee/agenda/belmont-high-school-building-committee-meeting-11 [29379] -> "../data/townSites2/Belmont/www.belmont-ma.gov/belmont-high-school-building-committee/agenda/belmont-high-school-building-committee-meeting-11" [1]
+2017-01-02 03:35:27 URL:http://www.belmont-ma.gov/belmont-high-school-building-committee/agenda/belmont-high-school-building-committee-meeting-10 [29392] -> "../data/townSites2/Belmont/www.belmont-ma.gov/belmont-high-school-building-committee/agenda/belmont-high-school-building-committee-meeting-10" [1]
+2017-01-02 03:35:28 URL:http://www.belmont-ma.gov/belmont-high-school-building-committee/agenda/belmont-high-school-building-commitee-meeting [29367] -> "../data/townSites2/Belmont/www.belmont-ma.gov/belmont-high-school-building-committee/agenda/belmont-high-school-building-commitee-meeting" [1]
+2017-01-02 03:35:29 URL:http://www.belmont-ma.gov/belmont-high-school-building-committee/agenda/belmont-high-school-building-committee-meeting-9 [28993] -> "../data/townSites2/Belmont/www.belmont-ma.gov/belmont-high-school-building-committee/agenda/belmont-high-school-building-committee-meeting-9" [1]
+2017-01-02 03:35:30 URL:http://www.belmont-ma.gov/belmont-high-school-building-committee/agenda/belmont-high-school-building-committee-meeting-8 [28993] -> "../data/townSites2/Belmont/www.belmont-ma.gov/belmont-high-school-building-committee/agenda/belmont-high-school-building-committee-meeting-8" [1]
+2017-01-02 03:35:32 URL:http://www.belmont-ma.gov/node/62311/agenda [39572] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/62311/agenda" [1]
+2017-01-02 03:35:33 URL:http://www.belmont-ma.gov/belmont-high-school-building-committee/minutes/belmont-high-school-building-committee-meeting-minu-4 [28287] -> "../data/townSites2/Belmont/www.belmont-ma.gov/belmont-high-school-building-committee/minutes/belmont-high-school-building-committee-meeting-minu-4" [1]
+2017-01-02 03:35:34 URL:http://www.belmont-ma.gov/belmont-high-school-building-committee/minutes/belmont-high-school-building-committee-0 [28188] -> "../data/townSites2/Belmont/www.belmont-ma.gov/belmont-high-school-building-committee/minutes/belmont-high-school-building-committee-0" [1]
+2017-01-02 03:35:35 URL:http://www.belmont-ma.gov/belmont-high-school-building-committee/minutes/belmont-high-school-building-committee-meeting-minu-3 [28283] -> "../data/townSites2/Belmont/www.belmont-ma.gov/belmont-high-school-building-committee/minutes/belmont-high-school-building-committee-meeting-minu-3" [1]
+2017-01-02 03:35:37 URL:http://www.belmont-ma.gov/belmont-high-school-building-committee/minutes/belmont-high-school-building-committee-meeting-minu-2 [28282] -> "../data/townSites2/Belmont/www.belmont-ma.gov/belmont-high-school-building-committee/minutes/belmont-high-school-building-committee-meeting-minu-2" [1]
+2017-01-02 03:35:38 URL:http://www.belmont-ma.gov/belmont-high-school-building-committee/minutes/belmont-high-school-building-committee-meeting-minu-1 [28281] -> "../data/townSites2/Belmont/www.belmont-ma.gov/belmont-high-school-building-committee/minutes/belmont-high-school-building-committee-meeting-minu-1" [1]
+2017-01-02 03:35:39 URL:http://www.belmont-ma.gov/node/62311/minutes [29511] -> "../data/townSites2/Belmont/www.belmont-ma.gov/node/62311/minutes" [1]
+2017-01-02 03:35:40 URL:http://www.belmont-ma.gov/print/10536 [5885] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/10536" [1]
+2017-01-02 03:35:41 URL:http://www.belmont-ma.gov/printmail/10536 [23874] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/10536" [1]
+2017-01-02 03:35:42 URL:http://www.belmont-ma.gov/print/10586 [6545] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/10586" [1]
+2017-01-02 03:35:43 URL:http://www.belmont-ma.gov/printmail/10586 [23886] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/10586" [1]
+2017-01-02 03:35:44 URL: http://www.belmont-ma.gov/node/17756/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:46 URL:http://www.belmont-ma.gov/print/17756 [20863] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/17756" [1]
+2017-01-02 03:35:47 URL:http://www.belmont-ma.gov/printmail/17756 [23881] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/17756" [1]
+2017-01-02 03:35:49 URL:http://www.belmont-ma.gov/annual-reports [32893] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-administration/pages/annual-town-reports" [1]
+2017-01-02 03:35:49 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/computer_use_policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:50 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/alcohol_drug_policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:51 URL:http://www.belmont-ma.gov/warrant-committee/pages/index-of-warrant-committee-reports [28151] -> "../data/townSites2/Belmont/www.belmont-ma.gov/warrant-committee/pages/index-of-warrant-committee-reports" [1]
+2017-01-02 03:35:52 URL:http://www.belmont-ma.gov/zoning-board-of-appeals/pages/zoning-by-law [40230] -> "../data/townSites2/Belmont/www.belmont-ma.gov/zoning-board-of-appeals/pages/zoning-by-law" [1]
+2017-01-02 03:35:52 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/2014-comm-needs-reportappendices-1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:53 URL: http://www.belmont-ma.gov/sites/belmontma/files/u486/dese_approval_of_2016_mm_ra_3.11.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:53 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/pp_for_meeting_in_belmont_on_11-10-2015_scs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:53 URL: http://www.belmont-ma.gov/sites/belmontma/files/u486/mchester_letter_9.15.16_minuteman_non-res_capital_increment.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:54 URL: http://www.belmont-ma.gov/sites/belmontma/files/u486/press_release_minuteman_superintendent_thanks_district_voters_for_their_support_09-21-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:54 URL: http://www.belmont-ma.gov/sites/belmontma/files/u486/district_wide_voting_results_09-20-2016_v3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:54 URL: http://www.belmont-ma.gov/sites/belmontma/files/u486/notice_of_withdrawal_of_the_town_of_belmont.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:56 URL:http://www.belmont-ma.gov/town-accountant/pages/audited-financial-statements-2015-and-prior [27940] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-accountant/pages/basic-financial-statements-2012-and-prior" [1]
+2017-01-02 03:35:56 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/moodysaaa29mbondapril2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:56 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/belmont_contributory_retirement_system_-_actuarial_valuation_as_of_january_1_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:58 URL:http://www.belmont-ma.gov/town-accountant/pages/other-post-employment-benefits-reports-presentations [27934] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-accountant/pages/other-post-employment-benefit-report-2014-prior" [1]
+2017-01-02 03:35:59 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/10-20-14_bos_precinct_mtg._on_pension_and_opeb_liabilities_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:59 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/pension_report_final_10-15-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:59 URL: http://www.belmont-ma.gov/sites/belmontma/files/u486/pension_obligation_bonds_overview-bos_presentation_12-21-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:59 URL: http://www.belmont-ma.gov/sites/belmontma/files/u486/belmont_7-1-2014_valuation_results_bos_12-21-2015_ppt_v3_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:00 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/interim_report_-_opeb_study_group_march_7_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:00 URL: http://www.belmont-ma.gov/sites/belmontma/files/u486/member_meeting_102016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:01 URL: http://www.belmont-ma.gov/sites/belmontma/files/u486/group1chart_no_mcrs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:01 URL: http://www.belmont-ma.gov/sites/belmontma/files/u486/group2chart_no_mcrs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:01 URL: http://www.belmont-ma.gov/sites/belmontma/files/u486/group4chart_no_mcrs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:02 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/ftf_exec_summ_ppt_jan_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:02 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/executive_summary.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:02 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/financial_task_force_final_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:03 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/ftf_recreation_revenue_opportunities_final_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:03 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/bcoa-senior-services-directory-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:03 URL: http://www.belmont-ma.gov/sites/belmontma/files/u486/belmont_finalumassreport6_8_16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:05 URL:http://www.belmont-ma.gov/facilities-department/pages/green-communities-application [29327] -> "../data/townSites2/Belmont/www.belmont-ma.gov/facilities-department/pages/green-communities-application" [1]
+2017-01-02 03:36:05 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/public_presentation_-_nov_3_2014_-_updated_final_version_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:06 URL:http://www.belmont-ma.gov/facilities-management/pages/on-going-projects [28862] -> "../data/townSites2/Belmont/www.belmont-ma.gov/facilities-management/pages/on-going-projects" [1]
+2017-01-02 03:36:07 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/belmont_final_version_powerpoint_for_04-21-2015_updated_youtube_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:08 URL:http://www.belmont-ma.gov/underwood-pool-building-committee/pages/underwood-pool-building-committee-document-index [27538] -> "../data/townSites2/Belmont/www.belmont-ma.gov/underwood-pool-building-committee/pages/underwood-pool-building-committee-document-index" [1]
+2017-01-02 03:36:08 URL: http://www.belmont-ma.gov/sites/belmontma/files/u486/belmont_final_report.2016.03.03.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:10 URL:http://www.belmont-ma.gov/reports-presentations/pages/pavement-management [25964] -> "../data/townSites2/Belmont/www.belmont-ma.gov/reports-presentations/pages/pavement-management" [1]
+2017-01-02 03:36:11 URL:http://www.belmont-ma.gov/reports-presentations/pages/current-roadway-reconstruction-projects [24406] -> "../data/townSites2/Belmont/www.belmont-ma.gov/reports-presentations/pages/current-roadway-reconstruction-projects" [1]
+2017-01-02 03:36:12 URL:http://www.belmont-ma.gov/reports-presentations/pages/trapelo-roadbelmont-street-reconstruction [36857] -> "../data/townSites2/Belmont/www.belmont-ma.gov/reports-presentations/pages/trapelo-roadbelmont-street-reconstruction" [1]
+2017-01-02 03:36:13 URL:http://www.belmont-ma.gov/projects-reports-presentations/belmont-center [28129] -> "../data/townSites2/Belmont/www.belmont-ma.gov/projects-reports-presentations/belmont-center" [1]
+2017-01-02 03:36:14 URL:http://www.belmont-ma.gov/reports-presentations/pages/belmont-center-redesign [29857] -> "../data/townSites2/Belmont/www.belmont-ma.gov/reports-presentations/pages/belmont-center-redesign" [1]
+2017-01-02 03:36:15 URL:http://www.belmont-ma.gov/reports-presentations/pages/stormwater-management-program-swmp [32765] -> "../data/townSites2/Belmont/www.belmont-ma.gov/reports-presentations/pages/stormwater-management-program-swmp" [1]
+2017-01-02 03:36:17 URL:http://www.belmont-ma.gov/reports-presentations/pages/wellington-brook-watershed-investigation [26868] -> "../data/townSites2/Belmont/www.belmont-ma.gov/reports-presentations/pages/wellington-brook-watershed-investigation" [1]
+2017-01-02 03:36:18 URL:http://www.belmont-ma.gov/reports-presentations/pages/infiltration-inflow-study [27203] -> "../data/townSites2/Belmont/www.belmont-ma.gov/reports-presentations/pages/infiltration-inflow-study" [1]
+2017-01-02 03:36:19 URL:http://www.belmont-ma.gov/reports-presentations/pages/winns-brook-notice-of-noncompliance-phase-ii-2008 [27844] -> "../data/townSites2/Belmont/www.belmont-ma.gov/reports-presentations/pages/winns-brook-notice-of-noncompliance-phase-ii-2008" [1]
+2017-01-02 03:36:20 URL:http://www.belmont-ma.gov/reports-presentations/pages/flood-insurance-rate-maps-program [30037] -> "../data/townSites2/Belmont/www.belmont-ma.gov/reports-presentations/pages/flood-insurance-rate-maps-program" [1]
+2017-01-02 03:36:21 URL: http://www.belmont-ma.gov/sites/belmontma/files/u486/01-07-16_presentation_2.2_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:21 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/board_of_survey_-_strawberry_i.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:22 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/board_of_survey_-_strawberry_ii.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:23 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/bos_-_strawberry_lane_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:24 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/bos_-_strawberry_lane_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:24 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/bos_-_strawberry_lane_3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:26 URL:http://www.belmont-ma.gov/reports-presentations/pages/woodfall-road-request-for-proposals [26112] -> "../data/townSites2/Belmont/www.belmont-ma.gov/reports-presentations/pages/woodfall-road-request-for-proposals" [1]
+2017-01-02 03:36:27 URL:http://www.belmont-ma.gov/planning-board/pages/cushing-village-development [29831] -> "../data/townSites2/Belmont/www.belmont-ma.gov/planning-board/pages/cushing-village-development" [1]
+2017-01-02 03:36:28 URL:http://www.belmont-ma.gov/projects-reports-presentations/belmont-center [28129] -> "../data/townSites2/Belmont/www.belmont-ma.gov/projects-reports-presentations/pages/belmont-center-parking-management-plan" [1]
+2017-01-02 03:36:29 URL:http://www.belmont-ma.gov/community-path-implementation-advisory-committee-cpiac/pages/community-path-feasibility-study [37691] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-path-implementation-advisory-committee-cpiac/pages/community-path-feasibility-study" [1]
+2017-01-02 03:36:31 URL:http://www.belmont-ma.gov/community-path-implementation-advisory-committee-cpiac/pages/community-path-feasibility-study-rfp [30801] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-path-implementation-advisory-committee/pages/belmont-community-path-feasibility-study-rfp" [1]
+2017-01-02 03:36:31 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/cpiac_update_to_bos_121415.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:32 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/belmont-community-path-advisory-committee_final-report_2014-06-07.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:33 URL:http://www.belmont-ma.gov/community-path-advisory-committee/pages/cpac-document-index [30812] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-path-advisory-committee/pages/cpac-document-index" [1]
+2017-01-02 03:36:34 URL:http://www.belmont-ma.gov/department-of-public-works-dpw/pages/grove-street-playground-master-plan [32498] -> "../data/townSites2/Belmont/www.belmont-ma.gov/department-of-public-works-dpw/pages/grove-street-playground-master-plan" [1]
+2017-01-02 03:36:35 URL:http://www.belmont-ma.gov/projects-reports-presentations/pages/south-pleasant-street [26281] -> "../data/townSites2/Belmont/www.belmont-ma.gov/projects-reports-presentations/pages/south-pleasant-street" [1]
+2017-01-02 03:36:36 URL: http://www.belmont-ma.gov/sites/belmontma/files/u151/comp_plan_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:36 URL: http://www.belmont-ma.gov/sites/belmontma/files/u151/comp_plan_volume_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:37 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/belmont_strategic_action_plan_process_summary_final_10-26-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:37 URL: http://www.belmont-ma.gov/sites/belmontma/files/u486/belmont_sap_selectman_presentation_11-2-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:38 URL: http://www.belmont-ma.gov/sites/belmontma/files/u486/architectural_access_bd_5-31-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:38 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/waverley_aab_letter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:38 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/mdot_ltr._to_aab_re_waverley_train_station.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:39 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/belmont_meeting_09282015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:40 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/mass_dot_-waverly_station_letter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:41 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/belmont_meeting_11162015-community1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:41 URL: http://www.belmont-ma.gov/sites/belmontma/files/u486/mbta_letter_-follow_up_11-16-15_bos_meeting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:42 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fy_16_water_sewer_rates_-_bos_0_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:42 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/consumer_confidence_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:42 URL: http://www.belmont-ma.gov/sites/belmontma/files/u486/fy_17_water_sewer_rates_-_final_bos_with_dk_edits_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:44 URL: http://www.belmont-ma.gov/node/2017-01/town-events/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:45 URL:http://www.belmont-ma.gov/town-calendar/2017 [125838] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar/2017" [1]
+2017-01-02 03:36:46 URL:http://www.belmont-ma.gov/town-calendar/2017-W01 [41986] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar/2017-W01" [1]
+2017-01-02 03:36:47 URL:http://www.belmont-ma.gov/town-calendar/2017-01-01 [30839] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar/2017-01-01" [1]
+2017-01-02 03:36:49 URL:http://www.belmont-ma.gov/events [36477] -> "../data/townSites2/Belmont/www.belmont-ma.gov/events" [1]
+2017-01-02 03:36:50 URL:http://www.belmont-ma.gov/town-calendar [49061] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar.1" [1]
+2017-01-02 03:36:51 URL:http://www.belmont-ma.gov/town-calendar/2016-12 [75442] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar/2016-12" [1]
+2017-01-02 03:36:53 URL:http://www.belmont-ma.gov/town-calendar/2017-02 [38980] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar/2017-02" [1]
+2017-01-02 03:36:54 URL:http://www.belmont-ma.gov/town-calendar/2017-W1 [41976] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar/2017-W1" [1]
+2017-01-02 03:36:55 URL:http://www.belmont-ma.gov/conservation-commission/events/72671 [27003] -> "../data/townSites2/Belmont/www.belmont-ma.gov/conservation-commission/events/72671" [1]
+2017-01-02 03:36:55 URL:http://www.belmont-ma.gov/land-management-committee-for-lone-tree-hill/events/72346 [27346] -> "../data/townSites2/Belmont/www.belmont-ma.gov/land-management-committee-for-lone-tree-hill/events/72346" [1]
+2017-01-02 03:36:57 URL:http://www.belmont-ma.gov/wellington-school-building-committee/events/72411 [27005] -> "../data/townSites2/Belmont/www.belmont-ma.gov/wellington-school-building-committee/events/72411" [1]
+2017-01-02 03:36:58 URL:http://www.belmont-ma.gov/belmont-high-school-building-committee/events/72591 [27523] -> "../data/townSites2/Belmont/www.belmont-ma.gov/belmont-high-school-building-committee/events/72591" [1]
+2017-01-02 03:36:59 URL:http://www.belmont-ma.gov/human-rights-commission/events/72536 [26775] -> "../data/townSites2/Belmont/www.belmont-ma.gov/human-rights-commission/events/72536" [1]
+2017-01-02 03:37:00 URL:http://www.belmont-ma.gov/planning-board/events/72611 [26862] -> "../data/townSites2/Belmont/www.belmont-ma.gov/planning-board/events/72611" [1]
+2017-01-02 03:37:01 URL:http://www.belmont-ma.gov/warrant-committee/events/72656 [26838] -> "../data/townSites2/Belmont/www.belmont-ma.gov/warrant-committee/events/72656" [1]
+2017-01-02 03:37:02 URL:http://www.belmont-ma.gov/home/events/72496 [26655] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/events/72496" [1]
+2017-01-02 03:37:03 URL:http://www.belmont-ma.gov/town-calendar/2017-W2 [43485] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar/2017-W2" [1]
+2017-01-02 03:37:04 URL:http://www.belmont-ma.gov/home/events/72186 [26961] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/events/72186" [1]
+2017-01-02 03:37:05 URL:http://www.belmont-ma.gov/home/events/72556 [24149] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/events/72556" [1]
+2017-01-02 03:37:06 URL:http://www.belmont-ma.gov/home/events/72686 [26557] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/events/72686" [1]
+2017-01-02 03:37:07 URL:http://www.belmont-ma.gov/home/events/72746 [26782] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/events/72746" [1]
+2017-01-02 03:37:08 URL:http://www.belmont-ma.gov/information-technology-advisory-committee/events/72566 [27112] -> "../data/townSites2/Belmont/www.belmont-ma.gov/information-technology-advisory-committee/events/72566" [1]
+2017-01-02 03:37:09 URL:http://www.belmont-ma.gov/board-of-assessors/events/72441 [26938] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-assessors/events/72441" [1]
+2017-01-02 03:37:10 URL:http://www.belmont-ma.gov/town-calendar/2017-W3 [32477] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar/2017-W3" [1]
+2017-01-02 03:37:12 URL:http://www.belmont-ma.gov/town-calendar/2017-W4 [36467] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar/2017-W4" [1]
+2017-01-02 03:37:13 URL:http://www.belmont-ma.gov/cable-television-advisory-committee/events/72641 [27004] -> "../data/townSites2/Belmont/www.belmont-ma.gov/cable-television-advisory-committee/events/72641" [1]
+2017-01-02 03:37:14 URL:http://www.belmont-ma.gov/shade-tree-committee/events/72626 [26717] -> "../data/townSites2/Belmont/www.belmont-ma.gov/shade-tree-committee/events/72626" [1]
+2017-01-02 03:37:15 URL:http://www.belmont-ma.gov/town-calendar/2017-W5 [32473] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar/2017-W5" [1]
+2017-01-02 03:37:15 URL: http://www.belmont-ma.gov/town-calendar/ical/2017-01-03 200 OK
+unlink: No such file or directory
+2017-01-02 03:37:16 URL: http://www.belmont-ma.gov/node/2017-01-03/town-events/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:37:17 URL:http://www.belmont-ma.gov/town-calendar/2017-01-02 [30839] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar/2017-01-02" [1]
+2017-01-02 03:37:17 URL: http://www.belmont-ma.gov/town-calendar/ical/2017-01-04 200 OK
+unlink: No such file or directory
+2017-01-02 03:37:18 URL: http://www.belmont-ma.gov/node/2017-01-04/town-events/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:37:19 URL: http://www.belmont-ma.gov/town-calendar/ical/2017-01-05 200 OK
+unlink: No such file or directory
+2017-01-02 03:37:19 URL: http://www.belmont-ma.gov/node/2017-01-05/town-events/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:37:20 URL: http://www.belmont-ma.gov/town-calendar/ical/2017-01-06 200 OK
+unlink: No such file or directory
+2017-01-02 03:37:20 URL: http://www.belmont-ma.gov/node/2017-01-06/town-events/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:37:21 URL:http://www.belmont-ma.gov/town-calendar/2017-01-07 [30841] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar/2017-01-07" [1]
+2017-01-02 03:37:22 URL: http://www.belmont-ma.gov/town-calendar/ical/2017-01-09 200 OK
+unlink: No such file or directory
+2017-01-02 03:37:22 URL: http://www.belmont-ma.gov/node/2017-01-09/town-events/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:37:24 URL:http://www.belmont-ma.gov/town-calendar/2017-W02 [43495] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar/2017-W02" [1]
+2017-01-02 03:37:25 URL:http://www.belmont-ma.gov/town-calendar/2017-01-08 [30839] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar/2017-01-08" [1]
+2017-01-02 03:37:25 URL: http://www.belmont-ma.gov/town-calendar/ical/2017-01-10 200 OK
+unlink: No such file or directory
+2017-01-02 03:37:26 URL: http://www.belmont-ma.gov/node/2017-01-10/town-events/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:37:26 URL: http://www.belmont-ma.gov/town-calendar/ical/2017-01-11 200 OK
+unlink: No such file or directory
+2017-01-02 03:37:27 URL: http://www.belmont-ma.gov/node/2017-01-11/town-events/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:37:28 URL:http://www.belmont-ma.gov/town-calendar/2017-01-12 [30842] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar/2017-01-12" [1]
+2017-01-02 03:37:28 URL: http://www.belmont-ma.gov/town-calendar/ical/2017-01-23 200 OK
+unlink: No such file or directory
+2017-01-02 03:37:29 URL: http://www.belmont-ma.gov/node/2017-01-23/town-events/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:37:30 URL:http://www.belmont-ma.gov/town-calendar/2017-W04 [36477] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar/2017-W04" [1]
+2017-01-02 03:37:31 URL:http://www.belmont-ma.gov/town-calendar/2017-01-22 [30840] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar/2017-01-22" [1]
+2017-01-02 03:37:32 URL:http://www.belmont-ma.gov/town-calendar/2017-01-24 [30841] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-calendar/2017-01-24" [1]
+2017-01-02 03:37:34 URL:http://www.belmont-ma.gov/where/1 [24769] -> "../data/townSites2/Belmont/www.belmont-ma.gov/where/1" [1]
+2017-01-02 03:37:34 URL:http://www.belmont-ma.gov/where/a [26283] -> "../data/townSites2/Belmont/www.belmont-ma.gov/where/a" [1]
+2017-01-02 03:37:35 URL:http://www.belmont-ma.gov/where/b [27653] -> "../data/townSites2/Belmont/www.belmont-ma.gov/where/b" [1]
+2017-01-02 03:37:36 URL:http://www.belmont-ma.gov/where/c [26710] -> "../data/townSites2/Belmont/www.belmont-ma.gov/where/c" [1]
+2017-01-02 03:37:37 URL:http://www.belmont-ma.gov/where/d [24646] -> "../data/townSites2/Belmont/www.belmont-ma.gov/where/d" [1]
+2017-01-02 03:37:38 URL:http://www.belmont-ma.gov/where/e [24920] -> "../data/townSites2/Belmont/www.belmont-ma.gov/where/e" [1]
+2017-01-02 03:37:39 URL:http://www.belmont-ma.gov/where/f [26039] -> "../data/townSites2/Belmont/www.belmont-ma.gov/where/f" [1]
+2017-01-02 03:37:40 URL:http://www.belmont-ma.gov/where/g [24896] -> "../data/townSites2/Belmont/www.belmont-ma.gov/where/g" [1]
+2017-01-02 03:37:41 URL:http://www.belmont-ma.gov/where/h [24309] -> "../data/townSites2/Belmont/www.belmont-ma.gov/where/h" [1]
+2017-01-02 03:37:42 URL:http://www.belmont-ma.gov/where/i [24362] -> "../data/townSites2/Belmont/www.belmont-ma.gov/where/i" [1]
+2017-01-02 03:37:43 URL:http://www.belmont-ma.gov/where/k [24315] -> "../data/townSites2/Belmont/www.belmont-ma.gov/where/k" [1]
+2017-01-02 03:37:44 URL:http://www.belmont-ma.gov/where/l [25088] -> "../data/townSites2/Belmont/www.belmont-ma.gov/where/l" [1]
+2017-01-02 03:37:45 URL:http://www.belmont-ma.gov/where/m [25555] -> "../data/townSites2/Belmont/www.belmont-ma.gov/where/m" [1]
+2017-01-02 03:37:46 URL:http://www.belmont-ma.gov/where/n [24581] -> "../data/townSites2/Belmont/www.belmont-ma.gov/where/n" [1]
+2017-01-02 03:37:47 URL:http://www.belmont-ma.gov/where/o [24867] -> "../data/townSites2/Belmont/www.belmont-ma.gov/where/o" [1]
+2017-01-02 03:37:48 URL:http://www.belmont-ma.gov/where/p [26273] -> "../data/townSites2/Belmont/www.belmont-ma.gov/where/p" [1]
+2017-01-02 03:37:49 URL:http://www.belmont-ma.gov/where/r [27267] -> "../data/townSites2/Belmont/www.belmont-ma.gov/where/r" [1]
+2017-01-02 03:37:50 URL:http://www.belmont-ma.gov/where/s [26293] -> "../data/townSites2/Belmont/www.belmont-ma.gov/where/s" [1]
+2017-01-02 03:37:51 URL:http://www.belmont-ma.gov/where/t [25673] -> "../data/townSites2/Belmont/www.belmont-ma.gov/where/t" [1]
+2017-01-02 03:37:51 URL:http://www.belmont-ma.gov/where/v [24326] -> "../data/townSites2/Belmont/www.belmont-ma.gov/where/v" [1]
+2017-01-02 03:37:53 URL:http://www.belmont-ma.gov/where/w [25429] -> "../data/townSites2/Belmont/www.belmont-ma.gov/where/w" [1]
+2017-01-02 03:37:54 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/10-20-14_bos_precinct_mtg._on_pension_and_opeb_liabilities_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:37:54 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/11-6-2014_-_belmont_center_presentation_leg._of_women_voters_-_wc_1.1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:37:55 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/mvappl_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:37:56 URL:http://www.belmont-ma.gov/about-belmont [28222] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/links/about-belmont" [1]
+2017-01-02 03:37:57 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/web_page_arbor_day_announcement_16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:37:58 URL:http://www.belmont-ma.gov/board-of-assessors-office/pages/assessing-database-fy-2014 [31264] -> "../data/townSites2/Belmont/www.belmont-ma.gov/board-of-assessors-office/pages/assessing-database-fy-2014" [1]
+2017-01-02 03:37:59 URL:http://www.belmont-ma.gov/town-accountant/pages/audited-financial-statements-2015-and-prior [27940] -> "../data/townSites2/Belmont/www.belmont-ma.gov/town-accountant/pages/audited-financial-statements-2015-and-prior" [1]
+2017-01-02 03:38:00 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/standard_specs_04-16-10.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:38:01 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/townofbelmontactsof1926-chapter302_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:38:02 URL:http://www.belmont-ma.gov/animal-control-officer/pages/belmont-wildlife [43506] -> "../data/townSites2/Belmont/www.belmont-ma.gov/animal-control-officer/pages/belmont-wildlife" [1]
+2017-01-02 03:38:03 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/bylaws_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:38:04 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/campaigningbrochure_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:38:05 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/cardboard.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:38:07 URL:https://www.mapsonline.net/belmontma/forms/standalone.html.php?id=922621682&sid=6b8153f6d40f79a8d08fc83cd20fbfbb [59766] -> "../data/townSites2/Belmont/www.belmont-ma.gov/assessors-office/links/change-in-mailing-address-form-online-form" [1]
+2017-01-02 03:38:08 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/commercial_sidewalk_-_10-2016_stamped_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:38:09 URL:http://www.belmont-ma.gov/community-path-implementation-advisory-committee/pages/community-path-implementation-advisory-comm-0 [27903] -> "../data/townSites2/Belmont/www.belmont-ma.gov/community-path-implementation-advisory-committee/pages/community-path-implementation-advisory-comm-0" [1]
+2017-01-02 03:38:10 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/donate_recycle_dispose_4-21-16_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:38:11 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/stormwater_management_and_erosion_control_-_rules_and_regs_draft_bos_mtg_7_21_14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:38:12 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/fall_leaf_collection_flyer_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:38:13 URL:http://www.belmont-ma.gov/fire-department/pages/fire-prevention-division [28967] -> "../data/townSites2/Belmont/www.belmont-ma.gov/fire-department/pages/fire-prevention-division" [1]
+2017-01-02 03:38:14 URL:http://www.belmont-ma.gov/animal-control-officer/pages/found-pets [29058] -> "../data/townSites2/Belmont/www.belmont-ma.gov/animal-control-officer/pages/found-pets" [1]
+2017-01-02 03:38:15 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/belmont_fy2013_bfs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:38:16 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/runningforelectedoffice.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:38:17 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/dates.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:38:20 URL:http://www.kittyconnection.net/ [51231] -> "../data/townSites2/Belmont/www.belmont-ma.gov/animal-control-officer/links/kitty-connection" [1]
+2017-01-02 03:38:22 URL:http://www.belmont-ma.gov/animal-control-officer/pages/lost-missing-pets [30749] -> "../data/townSites2/Belmont/www.belmont-ma.gov/animal-control-officer/pages/lost-missing-pets" [1]
+2017-01-02 03:38:22 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/pollinglocations150ftradius_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:38:23 URL:http://www.belmont-ma.gov/dpw-water-division/pages/meter-application-regulations [27761] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw-water-division/pages/meter-application-regulations" [1]
+2017-01-02 03:38:24 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/mvappl.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:38:26 URL:https://www.mapsonline.net/belmontma/forms/standalone.html.php?id=583650219&sid=85b8e3a0c7da55c2fbb373b5cc7440c1 [65459] -> "../data/townSites2/Belmont/www.belmont-ma.gov/assessors-office/links/motor-vehicle-excise-abatement-application-online-form" [1]
+2017-01-02 03:38:27 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/sharps_disposal_may_2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:38:28 URL:http://www.belmont-ma.gov/treasurer-and-tax-collector/pages/online-tax-payments [29468] -> "../data/townSites2/Belmont/www.belmont-ma.gov/treasurer-and-tax-collector/pages/online-tax-payments" [1]
+2017-01-02 03:38:29 URL:http://www.belmont-ma.gov/parking/pages/parking-lot-meter-rates [27836] -> "../data/townSites2/Belmont/www.belmont-ma.gov/parking/pages/parking-lot-meter-rates" [1]
+2017-01-02 03:38:30 URL:http://www.belmont-ma.gov/parking/pages/parking-rules-regulations [29609] -> "../data/townSites2/Belmont/www.belmont-ma.gov/parking/pages/parking-rules-regulations" [1]
+2017-01-02 03:38:32 URL:https://www.youtube.com/watch?v=TQ4eyYJEoww [157827] -> "../data/townSites2/Belmont/www.belmont-ma.gov/department-of-public-works-dpw/links/public-works-makes-it-happen-video" [1]
+2017-01-02 03:38:33 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/raffle_annual_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:38:34 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/raffle_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:38:35 URL:http://www.belmont-ma.gov/dpw-highway-division/pages/recycling-trash-information [33711] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw-highway-division/pages/recycling-trash-information" [1]
+2017-01-02 03:38:36 URL:http://www.belmont-ma.gov/dpw-highway-division/pages/recycling-trash-information [33711] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw-highway-division/links/recycling-and-trash-information" [1]
+2017-01-02 03:38:37 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/2014-comm-needs-reportappendices-1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:38:41 URL:http://www.belmont-ma.gov/projects-reports-presentations [41123] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/links/reports-presentations" [1]
+2017-01-02 03:38:42 URL:http://www.belmont-ma.gov/dpw-highway-division/pages/sand-barrel-locations [29201] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw-highway-division/pages/sand-barrel-locations" [1]
+2017-01-02 03:38:43 URL:http://www.belmont-ma.gov/veterans-services-officer/pages/special-discounts [30717] -> "../data/townSites2/Belmont/www.belmont-ma.gov/veterans-services-officer/pages/special-discounts" [1]
+2017-01-02 03:38:44 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/spring_-_resident_memo.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:38:46 URL:https://www.mapsonline.net/belmontma/forms/standalone.html.php?id=61919895 [121626] -> "../data/townSites2/Belmont/www.belmont-ma.gov/department-of-public-works/links/street-opening-permit-application" [1]
+2017-01-02 03:38:49 URL:http://www.belmont-ma.gov/town-facility-rentals [29593] -> "../data/townSites2/Belmont/www.belmont-ma.gov/home/links/town-facility-rental" [1]
+2017-01-02 03:38:50 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/tmm_effective_17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:38:52 URL:http://www.belmont-ma.gov/dpw-highway-division/pages/recycling-trash-information [33711] -> "../data/townSites2/Belmont/www.belmont-ma.gov/department-of-public-works-dpw/links/trash-recycling-information" [1]
+2017-01-02 03:38:53 URL:http://www.belmont-ma.gov/dpw-highway-division/pages/trees-grounds [31471] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw-highway-division/pages/trees-grounds" [1]
+2017-01-02 03:38:54 URL:http://www.belmont-ma.gov/dpw-water-division/faq/who-do-i-contact-if-there-is-a-leak-at-the-water-meter [27937] -> "../data/townSites2/Belmont/www.belmont-ma.gov/dpw-water-division/faq/who-do-i-contact-if-there-is-a-leak-at-the-water-meter" [1]
+2017-01-02 03:38:55 URL: http://www.belmont-ma.gov/sites/belmontma/files/file/file/snow_brochure_2015_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:38:56 URL:http://www.belmont-ma.gov/user [23249] -> "../data/townSites2/Belmont/www.belmont-ma.gov/user.1" [1]
+2017-01-02 03:38:57 URL:http://www.belmont-ma.gov/user/password [22802] -> "../data/townSites2/Belmont/www.belmont-ma.gov/user/password" [1]
+2017-01-02 03:38:59 URL:http://www.belmont-ma.gov/user/login?destination=help%2Fvth_adv_help_inject%2FNew-Website-Guidelines [22919] -> "../data/townSites2/Belmont/www.belmont-ma.gov/help/vth_adv_help_inject/New-Website-Guidelines" [1]
+2017-01-02 03:39:00 URL:http://www.belmont-ma.gov/print/468 [15794] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/468" [1]
+2017-01-02 03:39:00 URL:http://www.belmont-ma.gov/printmail/468 [23876] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/468" [1]
+2017-01-02 03:39:01 URL:http://www.belmont-ma.gov/print/6176 [4587] -> "../data/townSites2/Belmont/www.belmont-ma.gov/print/6176" [1]
+2017-01-02 03:39:02 URL:http://www.belmont-ma.gov/printmail/6176 [23841] -> "../data/townSites2/Belmont/www.belmont-ma.gov/printmail/6176" [1]
+Found 4 broken links.
+
+http://www.belmont-ma.gov/twitter.com/BelmontHealth
+http://www.beechstreetcenter.org/rental-overview.php
+http://www.belmont-ma.gov/www.facebook.com/BelmontAnimalControl
+http://www.belmont-ma.gov/user/%252Fcontact
+
+FINISHED --2017-01-02 03:39:02--
+Total wall clock time: 22m 45s
+Downloaded: 654 files, 22M in 34s (662 KB/s)

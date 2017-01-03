@@ -1,0 +1,1081 @@
+2017-01-02 07:00:33 URL:http://www.wilmingtonma.gov/ [63107] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/index.html" [1]
+2017-01-02 07:00:33 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/themes/vts/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 07:00:36 URL:http://www.wilmingtonma.gov/home/webforms/contact-us [43711/43711] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/home/webforms/contact-us" [1]
+2017-01-02 07:00:37 URL:http://www.wilmingtonma.gov/departments [53179] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/departments" [1]
+2017-01-02 07:00:39 URL:http://www.wilmingtonma.gov/accountants-office [40675] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/accountants-office" [1]
+2017-01-02 07:00:42 URL:http://wpd.org/divisions/animal-control/ [23921] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/animal-control" [1]
+2017-01-02 07:00:43 URL:http://www.wilmingtonma.gov/assessors-office [42381] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/assessors-office" [1]
+2017-01-02 07:00:45 URL:http://www.wilmingtonma.gov/building-inspector [45762] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/building-inspector" [1]
+2017-01-02 07:00:48 URL:http://www.wilmingtonma.gov/elderly-services [90394] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services" [1]
+2017-01-02 07:00:50 URL:http://www.wilmingtonma.gov/fire-department [45946] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/fire-department" [1]
+2017-01-02 07:00:52 URL:http://www.wilmingtonma.gov/health-department [62918] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/health-department" [1]
+2017-01-02 07:00:53 URL:http://www.wilmingtonma.gov/human-resources [38949] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/human-resources" [1]
+2017-01-02 07:00:56 URL:http://wilmlibrary.org/ [62424/62424] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/library" [1]
+2017-01-02 07:00:58 URL:http://www.wilmingtonma.gov/planning-conservation [54253] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/planning-conservation" [1]
+2017-01-02 07:00:59 URL:http://www.wpd.org/ [22840/22840] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/police-department" [1]
+2017-01-02 07:01:01 URL:http://www.wilmingtonma.gov/public-buildings-department [41844] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-buildings-department" [1]
+2017-01-02 07:01:03 URL:http://www.wilmingtonma.gov/public-works [67600] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-works" [1]
+2017-01-02 07:01:05 URL:http://www.wilmingtonma.gov/purchasing-department [40741] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/purchasing-department" [1]
+2017-01-02 07:01:07 URL:http://www.wilmingtonma.gov/recreation [67392] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation" [1]
+2017-01-02 07:01:10 URL:http://www.wilmingtonma.gov/town-clerk [52199] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-clerk" [1]
+2017-01-02 07:01:12 URL:http://www.wilmingtonma.gov/town-manager-selectmen [70734] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-manager-selectmen" [1]
+2017-01-02 07:01:13 URL:http://www.wilmingtonma.gov/town-museum [41189] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-museum" [1]
+2017-01-02 07:01:15 URL:http://www.wilmingtonma.gov/trash-recycling [44705] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/trash-recycling" [1]
+2017-01-02 07:01:17 URL:http://www.wilmingtonma.gov/treasurertax-collectors-office [43535] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/treasurertax-collectors-office" [1]
+2017-01-02 07:01:18 URL:http://www.wilmingtonma.gov/veterans [61879] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/veterans" [1]
+2017-01-02 07:01:20 URL:http://www.wilmingtonma.gov/town-manager-selectmen/pages/boards-committees [42078] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/boards" [1]
+2017-01-02 07:01:22 URL:http://wilmingtonartcenter.org/ [15103] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/wilmington-arts-council" [1]
+2017-01-02 07:01:24 URL:http://www.wilmingtonma.gov/board-appeals [62196] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/board-appeals" [1]
+2017-01-02 07:01:26 URL:http://www.wilmingtonma.gov/board-assessors [55569] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/board-assessors" [1]
+http://wilmlibrary.org/about/trustees/:
+2017-01-02 07:01:34 URL:http://wilmlibrary.org/about/trustees/ [48008] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/board-library-trustees" [2]
+2017-01-02 07:01:36 URL:http://www.wilmingtonma.gov/board-registrars [49938] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/board-registrars" [1]
+2017-01-02 07:01:38 URL:http://www.wilmingtonma.gov/cable-tv-advisory-task-force [49743] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/cable-tv-advisory-task-force" [1]
+2017-01-02 07:01:40 URL:http://www.wilmingtonma.gov/carter-lecture-fund-committee [52767] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/carter-lecture-fund-committee" [1]
+2017-01-02 07:01:42 URL:http://www.wilmingtonma.gov/cemetery-commission [48873] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/cemetery-commission" [1]
+2017-01-02 07:01:45 URL:http://www.rmld.com/citizens-advisory-board [38030] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/citizens-advisory-board-rmld" [1]
+2017-01-02 07:01:47 URL:http://www.wilmingtonma.gov/commission-disabilities [37599] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/commission-disabilities" [1]
+2017-01-02 07:01:49 URL:http://www.wilmingtonma.gov/conservation-commission [62850] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/conservation-commission" [1]
+2017-01-02 07:01:51 URL:http://www.wilmingtonma.gov/facility-master-plan [62065] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/facility-master-plan" [1]
+2017-01-02 07:01:54 URL:http://www.wilmingtonma.gov/finance-committee [61082] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/finance-committee" [1]
+2017-01-02 07:01:56 URL:http://www.wilmingtonma.gov/historical-commission [58981] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/historical-commission" [1]
+2017-01-02 07:01:57 URL:http://www.wilmingtonma.gov/permanent-building-committee [39405] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/permanent-building-committee" [1]
+2017-01-02 07:01:59 URL:http://www.wilmingtonma.gov/planning-board [60771] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/planning-board" [1]
+2017-01-02 07:02:02 URL:http://www.wilmingtonma.gov/water-sewer-division [67674] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/water-sewer-division" [1]
+2017-01-02 07:02:05 URL:http://www.wilmingtonha.org/ [65710/65710] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/wilmington-housing-authority" [1]
+http://wpsk12.com/:
+Remote file does not exist -- broken link!!!
+http://wpsk12.com/:
+Remote file does not exist -- broken link!!!
+2017-01-02 07:02:08 URL:http://www.shawsheentech.org/ [16966] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/school-department/links/shawsheen-valley-technical-high-school" [1]
+2017-01-02 07:02:10 URL:http://www.wilmingtonma.gov/home/pages/help-center [53014] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/where" [1]
+2017-01-02 07:02:12 URL:http://www.wilmingtonma.gov/welcome-wilmington [40228] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/about-wilmington" [1]
+2017-01-02 07:02:13 URL:http://www.wilmingtonma.gov/home/pages/housing-other-assistance [34695] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/home/pages/housing-other-assistance" [1]
+2017-01-02 07:02:15 URL:http://www.wilmingtonma.gov/town-manager-selectmen/pages/employment-opportunities [40346] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-manager-selectmen/pages/employment-opportunities" [1]
+2017-01-02 07:02:17 URL:http://www.wilmingtonma.gov/faqs [52333] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/faqs" [1]
+2017-01-02 07:02:18 URL:http://www.wilmingtonma.gov/home/pages/online-services [35334] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/home/pages/online-services" [1]
+2017-01-02 07:02:20 URL:http://www.wilmingtonma.gov/home/news/board-selectmen-issue-letter-relative-new-england-transrail [34911] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/home/news/board-selectmen-issue-letter-relative-new-england-transrail" [1]
+2017-01-02 07:02:21 URL:http://www.wilmingtonma.gov/home/news/wilmington-fire-department-and-wilmington-department-elderly-services-are-selected [37044] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/home/news/wilmington-fire-department-and-wilmington-department-elderly-services-are-selected" [1]
+2017-01-02 07:02:23 URL:http://www.wilmingtonma.gov/home/news/drought-warning-water-restriction-reminder [35914] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/home/news/drought-warning-water-restriction-reminder" [1]
+2017-01-02 07:02:24 URL:http://www.wilmingtonma.gov/node/1/news [35600] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/1/news" [1]
+2017-01-02 07:02:25 URL:http://www.wilmingtonma.gov/calendar/day/2017-01-02 [39765] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day/2017-01-02" [1]
+2017-01-02 07:02:27 URL:http://www.wilmingtonma.gov/town-manager-selectmen/events/23243 [39306] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-manager-selectmen/events/23243" [1]
+2017-01-02 07:02:28 URL:http://www.wilmingtonma.gov/calendar/day/2017-01-03 [40418] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day/2017-01-03" [1]
+2017-01-02 07:02:30 URL:http://www.wilmingtonma.gov/public-works/events/23353 [41765] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-works/events/23353" [1]
+2017-01-02 07:02:31 URL:http://www.wilmingtonma.gov/health-department/events/22923 [41489] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/health-department/events/22923" [1]
+2017-01-02 07:02:33 URL:http://www.wilmingtonma.gov/planning-board/events/23743 [39848] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/planning-board/events/23743" [1]
+2017-01-02 07:02:34 URL:http://www.wilmingtonma.gov/calendar/day/2017-01-04 [40115] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day/2017-01-04" [1]
+2017-01-02 07:02:36 URL:http://www.wilmingtonma.gov/public-works/events/23253 [41767] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-works/events/23253" [1]
+2017-01-02 07:02:38 URL:http://www.wilmingtonma.gov/conservation-commission/events/21933 [40913] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/conservation-commission/events/21933" [1]
+2017-01-02 07:02:39 URL:http://www.wilmingtonma.gov/calendar/day/2017-01-05 [40772] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day/2017-01-05" [1]
+2017-01-02 07:02:40 URL:http://www.wilmingtonma.gov/public-works/events/23263 [41766] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-works/events/23263" [1]
+2017-01-02 07:02:41 URL:http://www.wilmingtonma.gov/board-assessors/events/24183 [40024] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/board-assessors/events/24183" [1]
+2017-01-02 07:02:43 URL:http://www.wilmingtonma.gov/recreation/events/22163 [42251] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/events/22163" [1]
+2017-01-02 07:02:44 URL:http://www.wilmingtonma.gov/cable-tv-advisory-task-force/events/24203 [38245] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/cable-tv-advisory-task-force/events/24203" [1]
+2017-01-02 07:02:45 URL:http://www.wilmingtonma.gov/calendar/day/2017-01-06 [39774] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day/2017-01-06" [1]
+2017-01-02 07:02:47 URL:http://www.wilmingtonma.gov/public-works/events/23273 [41764] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-works/events/23273" [1]
+2017-01-02 07:02:48 URL:http://www.wilmingtonma.gov/calendar/day/2017-01-07 [39776] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day/2017-01-07" [1]
+2017-01-02 07:02:50 URL:http://www.wilmingtonma.gov/public-works/events/23283 [41766] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-works/events/23283" [1]
+2017-01-02 07:02:51 URL:http://www.wilmingtonma.gov/calendar/day/2017-01-08 [39972] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day/2017-01-08" [1]
+2017-01-02 07:02:53 URL:http://www.wilmingtonma.gov/historical-commission/events/23363 [37742] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/historical-commission/events/23363" [1]
+2017-01-02 07:02:54 URL:http://www.wilmingtonma.gov/calendar/day/2017-01-09 [40106] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day/2017-01-09" [1]
+2017-01-02 07:02:56 URL:http://www.wilmingtonma.gov/public-works/events/23303 [41764] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-works/events/23303" [1]
+2017-01-02 07:02:57 URL:http://www.wilmingtonma.gov/town-manager-selectmen/events/24063 [39382] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-manager-selectmen/events/24063" [1]
+2017-01-02 07:02:59 URL:http://www.wilmingtonma.gov/calendar/day/2017-01-10 [39776] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day/2017-01-10" [1]
+2017-01-02 07:03:00 URL:http://www.wilmingtonma.gov/public-works/events/23313 [41766] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-works/events/23313" [1]
+2017-01-02 07:03:02 URL:http://www.wilmingtonma.gov/calendar/day/2017-01-11 [40143] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day/2017-01-11" [1]
+2017-01-02 07:03:03 URL:http://www.wilmingtonma.gov/public-works/events/23323 [41768] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-works/events/23323" [1]
+2017-01-02 07:03:05 URL:http://www.wilmingtonma.gov/board-appeals/events/22063 [38444] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/board-appeals/events/22063" [1]
+2017-01-02 07:03:07 URL:http://www.wilmingtonma.gov/calendar/day/2017-01-12 [39777] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day/2017-01-12" [1]
+2017-01-02 07:03:08 URL:http://www.wilmingtonma.gov/public-works/events/23333 [41767] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-works/events/23333" [1]
+2017-01-02 07:03:10 URL:http://www.wilmingtonma.gov/calendar/day/2017-01-13 [39775] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day/2017-01-13" [1]
+2017-01-02 07:03:11 URL:http://www.wilmingtonma.gov/public-works/events/23343 [41765] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-works/events/23343" [1]
+2017-01-02 07:03:13 URL:http://www.wilmingtonma.gov/calendar/day/2017-01-17 [40414] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day/2017-01-17" [1]
+2017-01-02 07:03:14 URL:http://www.wilmingtonma.gov/health-department/events/23153 [38765] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/health-department/events/23153" [1]
+2017-01-02 07:03:15 URL:http://www.wilmingtonma.gov/board-appeals/events/23473 [38354] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/board-appeals/events/23473" [1]
+2017-01-02 07:03:17 URL:http://www.wilmingtonma.gov/board-library-trustees/events/22283 [35385] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/board-library-trustees/events/22283" [1]
+2017-01-02 07:03:18 URL:http://www.wilmingtonma.gov/calendar/day/2017-01-19 [40107] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day/2017-01-19" [1]
+2017-01-02 07:03:20 URL:http://www.wilmingtonma.gov/elderly-services/events/23423 [38125] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/23423" [1]
+2017-01-02 07:03:21 URL:http://www.wilmingtonma.gov/water-sewer-division/events/23633 [39350] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/water-sewer-division/events/23633" [1]
+2017-01-02 07:03:23 URL:http://www.wilmingtonma.gov/calendar/day/2017-01-23 [40118] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day/2017-01-23" [1]
+2017-01-02 07:03:24 URL:http://www.wilmingtonma.gov/community-development/events/23883 [35379] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/community-development/events/23883" [1]
+2017-01-02 07:03:25 URL:http://www.wilmingtonma.gov/town-manager-selectmen/events/24153 [39383] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-manager-selectmen/events/24153" [1]
+2017-01-02 07:03:27 URL:http://www.wilmingtonma.gov/calendar/day/2017-01-24 [39822] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day/2017-01-24" [1]
+2017-01-02 07:03:28 URL:http://www.wilmingtonma.gov/shawsheen-valley-technical-high-school/events/22383 [37227] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/shawsheen-valley-technical-high-school/events/22383" [1]
+2017-01-02 07:03:30 URL:http://www.wilmingtonma.gov/calendar/day/2017-01-30 [39762] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day/2017-01-30" [1]
+2017-01-02 07:03:31 URL:http://www.wilmingtonma.gov/town-manager-selectmen/events/24163 [39383] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-manager-selectmen/events/24163" [1]
+2017-01-02 07:03:33 URL:http://www.wilmingtonma.gov/calendar/day/2017-01-31 [39792] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day/2017-01-31" [1]
+2017-01-02 07:03:34 URL:http://www.wilmingtonma.gov/shawsheen-valley-technical-high-school/events/23463 [37167] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/shawsheen-valley-technical-high-school/events/23463" [1]
+2017-01-02 07:03:37 URL:http://www.wilmingtonma.gov/calendar/month/2017-01 [166692] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/month/2017-01" [1]
+2017-01-02 07:03:39 URL:http://www.wilmingtonma.gov/node/29/events [307960] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events" [1]
+2017-01-02 07:03:41 URL:http://www.wilmingtonma.gov/calendar/month [166618] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/month.1" [1]
+2017-01-02 07:03:42 URL:http://www.wilmingtonma.gov/home/slideshows/dog-park-unleashed-6152016 [37494] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/home/slideshows/dog-park-unleashed-6152016" [1]
+2017-01-02 07:03:43 URL:http://www.wilmingtonma.gov/welcome-wilmington [40228] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/welcome-wilmington" [1]
+2017-01-02 07:03:45 URL:http://www.wilmingtonma.gov/files [35842] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/files" [1]
+2017-01-02 07:03:46 URL:http://www.wilmingtonma.gov/minutes-and-agendas [42312] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/minutes-and-agendas" [1]
+2017-01-02 07:03:48 URL:http://www.wilmingtonma.gov/home/pages/online-payments [35087] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/home/pages/online-payments" [1]
+2017-01-02 07:03:51 URL:http://www.wilmingtonma.gov/subscribe [41245/41245] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/subscribe" [1]
+2017-01-02 07:03:52 URL:http://www.wilmingtonma.gov/home/pages/maps-gis [35405] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/home/pages/maps-gis" [1]
+2017-01-02 07:03:53 URL:http://www.wilmingtonma.gov/home/pages/website-disclaimer-privacy-policy [38363] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/home/pages/website-disclaimer-privacy-policy" [1]
+2017-01-02 07:03:56 URL:http://www.wilmingtonma.gov/user/login?destination=node/21303 [34128] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/staff-only" [1]
+2017-01-02 07:03:58 URL:http://www.wilmingtonma.gov/home/webforms/contact-us [43711/43711] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/2" [1]
+2017-01-02 07:03:59 URL:http://www.wilmingtonma.gov/print/2 [15866/15866] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/2" [1]
+2017-01-02 07:04:00 URL:http://www.wilmingtonma.gov/accountants-office [40675] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/25" [1]
+2017-01-02 07:04:01 URL:http://www.wilmingtonma.gov/print/25 [8515] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/25" [1]
+2017-01-02 07:04:03 URL:http://www.wilmingtonma.gov/user/67/contact [36794] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/67/contact" [1]
+2017-01-02 07:04:05 URL:http://www.wilmingtonma.gov/user/68/contact [36754] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/68/contact" [1]
+2017-01-02 07:04:06 URL:http://www.wilmingtonma.gov/accountants-office/pages/abandoned-and-unclaimed-funds [39367] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/accountants-office/pages/abandoned-and-unclaimed-funds" [1]
+2017-01-02 07:04:08 URL:http://www.wilmingtonma.gov/accountants-office/pages/budgets-financial-statements [39813] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/accountants-office/pages/budgets-financial-statements" [1]
+2017-01-02 07:04:09 URL:http://www.wilmingtonma.gov/finance-committee [61082] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/accountants-office/links/finance-committee" [1]
+2017-01-02 07:04:10 URL:http://www.wilmingtonma.gov/home/pages/online-payments [35087] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/accountants-office/links/online-payments" [1]
+2017-01-02 07:04:12 URL:http://www.wilmingtonma.gov/treasurertax-collectors-office [43535] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/accountants-office/links/tax-collector" [1]
+2017-01-02 07:04:13 URL:http://www.wilmingtonma.gov/assessors-office [42381] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/5453" [1]
+2017-01-02 07:04:14 URL:http://www.wilmingtonma.gov/print/5453 [9468] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/5453" [1]
+2017-01-02 07:04:16 URL:http://www.wilmingtonma.gov/user/37/contact [36782] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/37/contact" [1]
+2017-01-02 07:04:17 URL:https://www.mapsonline.net/wilmingtonma/map.html [43322/43322] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/assessors-office/links/assessor-maps" [1]
+2017-01-02 07:04:19 URL:http://gis.vgsi.com/wilmingtonma/ [8987/8987] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/assessors-office/links/assessors-online-database" [1]
+2017-01-02 07:04:21 URL:http://www.wilmingtonma.gov/assessors-office/pages/exemptions [39664] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/assessors-office/pages/exemptions" [1]
+2017-01-02 07:04:22 URL:http://www.wilmingtonma.gov/assessors-office/pages/forms-and-applications [38718] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/assessors-office/pages/forms-and-applications" [1]
+2017-01-02 07:04:24 URL:http://www.wilmingtonma.gov/node/5453/faq [34092] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/assessors-office/links/frequently-asked-questions" [1]
+2017-01-02 07:04:26 URL:https://www.mass.gov/dor/ [44863] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/assessors-office/links/ma-department-revenue" [1]
+2017-01-02 07:04:27 URL:http://www.lowelldeeds.com/ [13572/13572] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/assessors-office/links/middlesex-north-registry-deeds" [1]
+2017-01-02 07:04:29 URL:http://www.wilmingtonma.gov/assessors-office/pages/motor-vehicle-excise-tax [38495] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/assessors-office/pages/motor-vehicle-excise-tax" [1]
+2017-01-02 07:04:31 URL:http://www.wilmingtonma.gov/assessors-office/pages/personal-property-taxes [38524] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/assessors-office/pages/personal-property-taxes" [1]
+2017-01-02 07:04:32 URL:http://www.wilmingtonma.gov/assessors-office/pages/tax-calculator [38525] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/assessors-office/pages/tax-calculator" [1]
+2017-01-02 07:04:34 URL:http://www.wilmingtonma.gov/treasurertax-collectors-office [43535] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/assessors-office/links/treasurertax-collector" [1]
+2017-01-02 07:04:34 URL:http://www.wilmingtonma.gov/node/5453/faq [34092] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/5453/faq" [1]
+2017-01-02 07:04:36 URL:http://www.wilmingtonma.gov/assessors-office/faq/what-proposition-25 [39345] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/assessors-office/faq/what-proposition-25" [1]
+2017-01-02 07:04:37 URL:http://www.wilmingtonma.gov/building-inspector [45762] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/28" [1]
+2017-01-02 07:04:38 URL:http://www.wilmingtonma.gov/print/28 [13255] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/28" [1]
+2017-01-02 07:04:40 URL:http://www.wilmingtonma.gov/user/46/contact [36770] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/46/contact" [1]
+2017-01-02 07:04:42 URL:http://www.wilmingtonma.gov/user/47/contact [36758] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/47/contact" [1]
+2017-01-02 07:04:43 URL:http://www.wilmingtonma.gov/user/48/contact [36750] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/48/contact" [1]
+2017-01-02 07:04:45 URL:http://www.wilmingtonma.gov/user/49/contact [36742] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/49/contact" [1]
+2017-01-02 07:04:47 URL:http://www.wilmingtonma.gov/building-inspector/pages/applications [39329] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/building-inspector/pages/applications" [1]
+http://www.mass.gov/eopss/consumer-prot-and-bus-lic/license-type/csl/construction-control.html:
+Remote file does not exist -- broken link!!!
+2017-01-02 07:04:48 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/fee_schedule_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:04:49 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/license_requirements.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:04:50 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/surveyors-engineers-contractors.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:04:51 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/lot_dimensions_regulation_table.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:04:52 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/newdwellingpackage_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:04:53 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/property_info.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:04:54 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/swimming_pool_requirements.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:04:55 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/use_regulation_table.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:04:56 URL:http://www.wilmingtonma.gov/elderly-services [90394] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29.1" [1]
+2017-01-02 07:04:57 URL:http://www.wilmingtonma.gov/print/29 [13910] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/29" [1]
+2017-01-02 07:04:59 URL:http://www.wilmingtonma.gov/user/50/contact [36776] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/50/contact" [1]
+2017-01-02 07:05:00 URL:http://www.wilmingtonma.gov/user/51/contact [36760] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/51/contact" [1]
+2017-01-02 07:05:03 URL:http://www.wilmingtonma.gov/user/53/contact [36744] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/53/contact" [1]
+2017-01-02 07:05:05 URL:http://www.wilmingtonma.gov/user/52/contact [36744] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/52/contact" [1]
+2017-01-02 07:05:07 URL:http://www.wilmingtonma.gov/elderly-services/pages/buzzell-live [37125] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/pages/buzzell-live" [1]
+2017-01-02 07:05:09 URL:http://www.wilmingtonma.gov/elderly-services/pages/helpful-organizations-resources [40383] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/pages/helpful-organizations-resources" [1]
+2017-01-02 07:05:11 URL:http://www.wilmingtonma.gov/subscribe [41245/41245] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/links/subscribe-e-alerts" [1]
+2017-01-02 07:05:13 URL:http://www.wilmingtonma.gov/elderly-services/pages/buzzell-buzz-newsletter [38694] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/pages/buzzell-buzz-newsletter" [1]
+2017-01-02 07:05:14 URL:http://www.wilmingtonma.gov/elderly-services/pages/useful-links [38726] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/pages/useful-links" [1]
+2017-01-02 07:05:16 URL:http://www.wilmingtonma.gov/node/29/faq [34125] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/faq" [1]
+2017-01-02 07:05:17 URL:http://www.wilmingtonma.gov/elderly-services/faq/what-subscribe-e-alerts [37532] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/faq/what-subscribe-e-alerts" [1]
+2017-01-02 07:05:19 URL:http://www.wilmingtonma.gov/elderly-services/faq/where-senior-center-located [37504] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/faq/where-senior-center-located" [1]
+2017-01-02 07:05:20 URL:http://www.wilmingtonma.gov/elderly-services/faq/what-programs-and-activities-do-you-have [37858] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/faq/what-programs-and-activities-do-you-have" [1]
+2017-01-02 07:05:22 URL:http://www.wilmingtonma.gov/elderly-services/faq/how-do-i-get-copy-buzzell-buzz-delivered-my-house [37635] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/faq/how-do-i-get-copy-buzzell-buzz-delivered-my-house" [1]
+2017-01-02 07:05:24 URL:http://www.wilmingtonma.gov/node/29/news [39225] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/news" [1]
+2017-01-02 07:05:25 URL:http://www.wilmingtonma.gov/elderly-services/news/decenber-2016-edition-buzzell-buzz-now-available-download [38415] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/news/decenber-2016-edition-buzzell-buzz-now-available-download" [1]
+2017-01-02 07:05:26 URL:http://www.wilmingtonma.gov/elderly-services/news/november-2016-edition-buzzell-buzz-now-available-download [37965] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/news/november-2016-edition-buzzell-buzz-now-available-download" [1]
+2017-01-02 07:05:28 URL:http://www.wilmingtonma.gov/elderly-services/news/october-2016-edition-buzzell-buzz-now-available-download-0 [37972] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/news/october-2016-edition-buzzell-buzz-now-available-download-0" [1]
+2017-01-02 07:05:29 URL:http://www.wilmingtonma.gov/elderly-services/news/kayaking [37596] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/news/kayaking" [1]
+2017-01-02 07:05:31 URL:http://www.wilmingtonma.gov/elderly-services/news/tracks-giving-back-2016 [38612] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/news/tracks-giving-back-2016" [1]
+2017-01-02 07:05:33 URL:http://www.wilmingtonma.gov/node/29/events/month [307980] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/month" [1]
+2017-01-02 07:05:35 URL:http://www.wilmingtonma.gov/node/29/events/day/2017-01-02 [36812] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/day/2017-01-02" [1]
+2017-01-02 07:05:36 URL:http://www.wilmingtonma.gov/elderly-services/events/3197 [37368] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/3197" [1]
+2017-01-02 07:05:37 URL:http://www.wilmingtonma.gov/elderly-services/events/3297 [37366] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/3297" [1]
+2017-01-02 07:05:39 URL:http://www.wilmingtonma.gov/node/29/events/day/2017-01-03 [36793] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/day/2017-01-03" [1]
+2017-01-02 07:05:40 URL:http://www.wilmingtonma.gov/elderly-services/events/3931 [37344] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/3931" [1]
+2017-01-02 07:05:42 URL:http://www.wilmingtonma.gov/elderly-services/events/3996 [37350] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/3996" [1]
+2017-01-02 07:05:43 URL:http://www.wilmingtonma.gov/node/29/events/day/2017-01-04 [37756] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/day/2017-01-04" [1]
+2017-01-02 07:05:44 URL:http://www.wilmingtonma.gov/elderly-services/events/4096 [37341] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4096" [1]
+2017-01-02 07:05:46 URL:http://www.wilmingtonma.gov/elderly-services/events/3697 [37370] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/3697" [1]
+2017-01-02 07:05:47 URL:http://www.wilmingtonma.gov/elderly-services/events/4196 [37369] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4196" [1]
+2017-01-02 07:05:49 URL:http://www.wilmingtonma.gov/elderly-services/events/4331 [37339] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4331" [1]
+2017-01-02 07:05:50 URL:http://www.wilmingtonma.gov/elderly-services/events/4396 [37351] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4396" [1]
+2017-01-02 07:05:51 URL:http://www.wilmingtonma.gov/node/29/events/day/2017-01-05 [37758] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/day/2017-01-05" [1]
+2017-01-02 07:05:52 URL:http://www.wilmingtonma.gov/elderly-services/events/4496 [37356] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4496" [1]
+2017-01-02 07:05:54 URL:http://www.wilmingtonma.gov/elderly-services/events/4596 [37361] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4596" [1]
+2017-01-02 07:05:55 URL:http://www.wilmingtonma.gov/elderly-services/events/3932 [37345] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/3932" [1]
+2017-01-02 07:05:57 URL:http://www.wilmingtonma.gov/elderly-services/events/15653 [37351] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/15653" [1]
+2017-01-02 07:05:58 URL:http://www.wilmingtonma.gov/elderly-services/events/4696 [37362] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4696" [1]
+2017-01-02 07:05:59 URL:http://www.wilmingtonma.gov/node/29/events/day/2017-01-06 [37102] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/day/2017-01-06" [1]
+2017-01-02 07:06:01 URL:http://www.wilmingtonma.gov/elderly-services/events/4796 [37355] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4796" [1]
+2017-01-02 07:06:02 URL:http://www.wilmingtonma.gov/elderly-services/events/4896 [37336] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4896" [1]
+2017-01-02 07:06:03 URL:http://www.wilmingtonma.gov/elderly-services/events/4332 [37336] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4332" [1]
+2017-01-02 07:06:05 URL:http://www.wilmingtonma.gov/node/29/events/day/2017-01-09 [36812] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/day/2017-01-09" [1]
+2017-01-02 07:06:06 URL:http://www.wilmingtonma.gov/elderly-services/events/3198 [37368] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/3198" [1]
+2017-01-02 07:06:07 URL:http://www.wilmingtonma.gov/elderly-services/events/3298 [37366] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/3298" [1]
+2017-01-02 07:06:08 URL:http://www.wilmingtonma.gov/node/29/events/day/2017-01-10 [36794] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/day/2017-01-10" [1]
+2017-01-02 07:06:10 URL:http://www.wilmingtonma.gov/elderly-services/events/3933 [37345] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/3933" [1]
+2017-01-02 07:06:11 URL:http://www.wilmingtonma.gov/elderly-services/events/3997 [37351] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/3997" [1]
+2017-01-02 07:06:13 URL:http://www.wilmingtonma.gov/node/29/events/day/2017-01-11 [37757] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/day/2017-01-11" [1]
+2017-01-02 07:06:14 URL:http://www.wilmingtonma.gov/elderly-services/events/4097 [37342] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4097" [1]
+2017-01-02 07:06:15 URL:http://www.wilmingtonma.gov/elderly-services/events/3698 [37371] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/3698" [1]
+2017-01-02 07:06:16 URL:http://www.wilmingtonma.gov/elderly-services/events/4197 [37370] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4197" [1]
+2017-01-02 07:06:18 URL:http://www.wilmingtonma.gov/elderly-services/events/4333 [37340] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4333" [1]
+2017-01-02 07:06:19 URL:http://www.wilmingtonma.gov/elderly-services/events/4397 [37352] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4397" [1]
+2017-01-02 07:06:21 URL:http://www.wilmingtonma.gov/node/29/events/day/2017-01-12 [37759] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/day/2017-01-12" [1]
+2017-01-02 07:06:21 URL:http://www.wilmingtonma.gov/elderly-services/events/4497 [37357] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4497" [1]
+2017-01-02 07:06:23 URL:http://www.wilmingtonma.gov/elderly-services/events/4597 [37362] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4597" [1]
+2017-01-02 07:06:24 URL:http://www.wilmingtonma.gov/elderly-services/events/3934 [37346] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/3934" [1]
+2017-01-02 07:06:25 URL:http://www.wilmingtonma.gov/elderly-services/events/15663 [37352] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/15663" [1]
+2017-01-02 07:06:26 URL:http://www.wilmingtonma.gov/elderly-services/events/4697 [37363] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4697" [1]
+2017-01-02 07:06:28 URL:http://www.wilmingtonma.gov/node/29/events/day/2017-01-13 [37103] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/day/2017-01-13" [1]
+2017-01-02 07:06:29 URL:http://www.wilmingtonma.gov/elderly-services/events/4797 [37356] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4797" [1]
+2017-01-02 07:06:31 URL:http://www.wilmingtonma.gov/elderly-services/events/4897 [37337] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4897" [1]
+2017-01-02 07:06:32 URL:http://www.wilmingtonma.gov/elderly-services/events/4334 [37337] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4334" [1]
+2017-01-02 07:06:34 URL:http://www.wilmingtonma.gov/node/29/events/day/2017-01-16 [36813] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/day/2017-01-16" [1]
+2017-01-02 07:06:35 URL:http://www.wilmingtonma.gov/elderly-services/events/3199 [37369] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/3199" [1]
+2017-01-02 07:06:36 URL:http://www.wilmingtonma.gov/elderly-services/events/3299 [37367] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/3299" [1]
+2017-01-02 07:06:38 URL:http://www.wilmingtonma.gov/node/29/events/day/2017-01-17 [36794] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/day/2017-01-17" [1]
+2017-01-02 07:06:39 URL:http://www.wilmingtonma.gov/elderly-services/events/3935 [37345] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/3935" [1]
+2017-01-02 07:06:41 URL:http://www.wilmingtonma.gov/elderly-services/events/3998 [37351] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/3998" [1]
+2017-01-02 07:06:42 URL:http://www.wilmingtonma.gov/node/29/events/day/2017-01-18 [37757] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/day/2017-01-18" [1]
+2017-01-02 07:06:43 URL:http://www.wilmingtonma.gov/elderly-services/events/4098 [37342] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4098" [1]
+2017-01-02 07:06:44 URL:http://www.wilmingtonma.gov/elderly-services/events/3699 [37371] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/3699" [1]
+2017-01-02 07:06:46 URL:http://www.wilmingtonma.gov/elderly-services/events/4198 [37370] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4198" [1]
+2017-01-02 07:06:47 URL:http://www.wilmingtonma.gov/elderly-services/events/4335 [37340] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4335" [1]
+2017-01-02 07:06:48 URL:http://www.wilmingtonma.gov/elderly-services/events/4398 [37352] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4398" [1]
+2017-01-02 07:06:50 URL:http://www.wilmingtonma.gov/node/29/events/day/2017-01-19 [38094] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/day/2017-01-19" [1]
+2017-01-02 07:06:51 URL:http://www.wilmingtonma.gov/elderly-services/events/4498 [37357] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4498" [1]
+2017-01-02 07:06:53 URL:http://www.wilmingtonma.gov/elderly-services/events/4598 [37362] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4598" [1]
+2017-01-02 07:06:54 URL:http://www.wilmingtonma.gov/elderly-services/events/3936 [37346] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/3936" [1]
+2017-01-02 07:06:55 URL:http://www.wilmingtonma.gov/elderly-services/events/15673 [37352] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/15673" [1]
+2017-01-02 07:06:57 URL:http://www.wilmingtonma.gov/elderly-services/events/4698 [37363] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4698" [1]
+2017-01-02 07:06:58 URL:http://www.wilmingtonma.gov/node/29/events/day/2017-01-20 [37103] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/day/2017-01-20" [1]
+2017-01-02 07:07:00 URL:http://www.wilmingtonma.gov/elderly-services/events/4798 [37356] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4798" [1]
+2017-01-02 07:07:01 URL:http://www.wilmingtonma.gov/elderly-services/events/4898 [37337] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4898" [1]
+2017-01-02 07:07:02 URL:http://www.wilmingtonma.gov/elderly-services/events/4336 [37337] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4336" [1]
+2017-01-02 07:07:04 URL:http://www.wilmingtonma.gov/node/29/events/day/2017-01-23 [36813] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/day/2017-01-23" [1]
+2017-01-02 07:07:05 URL:http://www.wilmingtonma.gov/elderly-services/events/3200 [37369] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/3200" [1]
+2017-01-02 07:07:07 URL:http://www.wilmingtonma.gov/elderly-services/events/3300 [37367] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/3300" [1]
+2017-01-02 07:07:08 URL:http://www.wilmingtonma.gov/node/29/events/day/2017-01-24 [36794] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/day/2017-01-24" [1]
+2017-01-02 07:07:10 URL:http://www.wilmingtonma.gov/elderly-services/events/3937 [37345] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/3937" [1]
+2017-01-02 07:07:11 URL:http://www.wilmingtonma.gov/elderly-services/events/3999 [37351] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/3999" [1]
+2017-01-02 07:07:12 URL:http://www.wilmingtonma.gov/node/29/events/day/2017-01-25 [37757] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/day/2017-01-25" [1]
+2017-01-02 07:07:13 URL:http://www.wilmingtonma.gov/elderly-services/events/4099 [37342] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4099" [1]
+2017-01-02 07:07:15 URL:http://www.wilmingtonma.gov/elderly-services/events/3700 [37371] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/3700" [1]
+2017-01-02 07:07:16 URL:http://www.wilmingtonma.gov/elderly-services/events/4199 [37370] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4199" [1]
+2017-01-02 07:07:18 URL:http://www.wilmingtonma.gov/elderly-services/events/4337 [37340] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4337" [1]
+2017-01-02 07:07:19 URL:http://www.wilmingtonma.gov/elderly-services/events/4399 [37352] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4399" [1]
+2017-01-02 07:07:20 URL:http://www.wilmingtonma.gov/node/29/events/day/2017-01-26 [37759] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/day/2017-01-26" [1]
+2017-01-02 07:07:22 URL:http://www.wilmingtonma.gov/elderly-services/events/4499 [37357] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4499" [1]
+2017-01-02 07:07:23 URL:http://www.wilmingtonma.gov/elderly-services/events/4599 [37362] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4599" [1]
+2017-01-02 07:07:24 URL:http://www.wilmingtonma.gov/elderly-services/events/3938 [37346] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/3938" [1]
+2017-01-02 07:07:26 URL:http://www.wilmingtonma.gov/elderly-services/events/15683 [37352] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/15683" [1]
+2017-01-02 07:07:27 URL:http://www.wilmingtonma.gov/elderly-services/events/4699 [37363] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4699" [1]
+2017-01-02 07:07:28 URL:http://www.wilmingtonma.gov/node/29/events/day/2017-01-27 [37103] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/day/2017-01-27" [1]
+2017-01-02 07:07:30 URL:http://www.wilmingtonma.gov/elderly-services/events/4799 [37356] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4799" [1]
+2017-01-02 07:07:31 URL:http://www.wilmingtonma.gov/elderly-services/events/4899 [37337] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4899" [1]
+2017-01-02 07:07:33 URL:http://www.wilmingtonma.gov/elderly-services/events/4338 [37337] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4338" [1]
+2017-01-02 07:07:34 URL:http://www.wilmingtonma.gov/node/29/events/day/2017-01-30 [36813] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/day/2017-01-30" [1]
+2017-01-02 07:07:36 URL:http://www.wilmingtonma.gov/elderly-services/events/3201 [37369] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/3201" [1]
+2017-01-02 07:07:37 URL:http://www.wilmingtonma.gov/elderly-services/events/3301 [37367] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/3301" [1]
+2017-01-02 07:07:38 URL:http://www.wilmingtonma.gov/node/29/events/day/2017-01-31 [36794] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/day/2017-01-31" [1]
+2017-01-02 07:07:39 URL:http://www.wilmingtonma.gov/elderly-services/events/3939 [37345] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/3939" [1]
+2017-01-02 07:07:41 URL:http://www.wilmingtonma.gov/elderly-services/events/4000 [37351] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/events/4000" [1]
+2017-01-02 07:07:44 URL:http://www.wilmingtonma.gov/node/29/events/month/2017-01 [308037] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/month/2017-01" [1]
+2017-01-02 07:07:45 URL:http://www.wilmingtonma.gov/node/29/agenda [33273] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/agenda" [1]
+2017-01-02 07:07:46 URL:http://www.wilmingtonma.gov/elderly-services/agenda/elderly-services-commission-0 [37815] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/agenda/elderly-services-commission-0" [1]
+2017-01-02 07:07:48 URL:http://www.wilmingtonma.gov/elderly-services/agenda/elderly-services-commission-1 [38344] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/agenda/elderly-services-commission-1" [1]
+2017-01-02 07:07:49 URL:http://www.wilmingtonma.gov/elderly-services/agenda/elderly-services-commission [38351] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/agenda/elderly-services-commission" [1]
+2017-01-02 07:07:51 URL:http://www.wilmingtonma.gov/elderly-services/agenda/elderly-services-commission-10202016 [38393] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/agenda/elderly-services-commission-10202016" [1]
+2017-01-02 07:07:52 URL:http://www.wilmingtonma.gov/elderly-services/agenda/elderly-services-commission-9152016 [38381] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/elderly-services/agenda/elderly-services-commission-9152016" [1]
+2017-01-02 07:07:53 URL:http://www.wilmingtonma.gov/fire-department [45946] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/30" [1]
+2017-01-02 07:07:54 URL:http://www.wilmingtonma.gov/print/30 [8718] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/30" [1]
+2017-01-02 07:07:56 URL:http://www.wilmingtonma.gov/user/33/contact [36780] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/33/contact" [1]
+2017-01-02 07:07:58 URL:http://www.wilmingtonma.gov/user/34/contact [36758] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/34/contact" [1]
+2017-01-02 07:08:00 URL:http://www.wilmingtonma.gov/user/35/contact [36794] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/35/contact" [1]
+2017-01-02 07:08:02 URL:http://www.wilmingtonma.gov/user/36/contact [36754] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/36/contact" [1]
+2017-01-02 07:08:03 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/grouproster.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:08:04 URL:http://www.wilmingtonma.gov/fire-department/pages/fire-prevention-carbon-monoxide-safety [40040] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/fire-department/pages/fire-prevention-carbon-monoxide-safety" [1]
+2017-01-02 07:08:06 URL:http://www.wilmingtonma.gov/fire-department/pages/useful-information-links [40855] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/fire-department/pages/useful-information-links" [1]
+2017-01-02 07:08:07 URL:http://www.wilmingtonma.gov/node/30/faq [36901] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/30/faq" [1]
+2017-01-02 07:08:09 URL:http://www.wilmingtonma.gov/fire-department/faq/can-i-have-fire-pit-or-chiminea-my-yard [39794] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/fire-department/faq/can-i-have-fire-pit-or-chiminea-my-yard" [1]
+2017-01-02 07:08:10 URL:http://www.wilmingtonma.gov/fire-department/faq/i%E2%80%99m-selling-my-house-and-need-smoke-and-carbon-monoxide-detector-inspection-%E2%80%9C26f [39796] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/fire-department/faq/iâ%80%99m-selling-my-house-and-need-smoke-and-carbon-monoxide-detector-inspection-â%80%9C26f" [1]
+2017-01-02 07:08:11 URL:http://www.wilmingtonma.gov/fire-department/faq/i-just-had-oil-appliance-installed-how-do-i-request-inspection [39334] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/fire-department/faq/i-just-had-oil-appliance-installed-how-do-i-request-inspection" [1]
+2017-01-02 07:08:13 URL:http://www.wilmingtonma.gov/fire-department/faq/how-do-i-request-burn-permit [39726] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/fire-department/faq/how-do-i-request-burn-permit" [1]
+2017-01-02 07:08:14 URL:http://www.wilmingtonma.gov/fire-department/faq/who-should-i-contact-questions-about-my-ambulance-bill [39511] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/fire-department/faq/who-should-i-contact-questions-about-my-ambulance-bill" [1]
+2017-01-02 07:08:15 URL:http://www.wilmingtonma.gov/health-department [62918] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/31" [1]
+2017-01-02 07:08:16 URL:http://www.wilmingtonma.gov/print/31 [9345] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/31" [1]
+2017-01-02 07:08:18 URL:http://www.wilmingtonma.gov/user/29/contact [36758] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/29/contact" [1]
+2017-01-02 07:08:19 URL:http://www.wilmingtonma.gov/people/shelly-newhouse-rs [40204] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/people/shelly-newhouse-rs" [1]
+2017-01-02 07:08:21 URL:http://www.wilmingtonma.gov/user/31/contact [36756] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/31/contact" [1]
+2017-01-02 07:08:23 URL:http://www.wilmingtonma.gov/user/30/contact [36748] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/30/contact" [1]
+2017-01-02 07:08:25 URL:http://www.wilmingtonma.gov/people/elizabeth-sabounjian [39183] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/people/elizabeth-sabounjian" [1]
+2017-01-02 07:08:26 URL:http://www.wilmingtonma.gov/people/dr-jane-williams-md-mph [39028] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/people/dr-jane-williams-md-mph" [1]
+2017-01-02 07:08:27 URL:http://www.wilmingtonma.gov/people/dr-daniel-king-dds [39135] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/people/dr-daniel-king-dds" [1]
+2017-01-02 07:08:29 URL:http://www.wilmingtonma.gov/health-department/pages/downloadable-permits-fees [43168] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/health-department/pages/downloadable-permits-fees" [1]
+2017-01-02 07:08:30 URL:http://www.wilmingtonma.gov/health-department/pages/emergency-management [38233] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/health-department/pages/emergency-management" [1]
+2017-01-02 07:08:32 URL:http://www.wilmingtonma.gov/health-department/pages/helpful-links [39173] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/health-department/pages/helpful-links" [1]
+2017-01-02 07:08:33 URL:http://www.wilmingtonma.gov/health-department/pages/mosquitotick-information [38885] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/health-department/pages/mosquitotick-information" [1]
+2017-01-02 07:08:34 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/service_requestcomplaint.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:08:35 URL:http://www.wilmingtonma.gov/health-department/pages/silver-lake-information [39762] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/health-department/pages/silver-lake-information" [1]
+2017-01-02 07:08:37 URL:http://www.wilmingtonma.gov/health-department/pages/title-5-info [38704] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/health-department/pages/title-5-info" [1]
+2017-01-02 07:08:38 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:08:39 URL:http://www.mass.gov/eohhs/gov/departments/dph/programs/id/epidemiology/providers/mosquito/zika-virus.html [45734] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/health-department/links/zika-virus-information" [1]
+2017-01-02 07:08:40 URL:http://www.wilmingtonma.gov/node/31/faq [36336] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/31/faq" [1]
+2017-01-02 07:08:41 URL:http://www.wilmingtonma.gov/health-department/faq/how-does-septic-system-work [38416] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/health-department/faq/how-does-septic-system-work" [1]
+2017-01-02 07:08:43 URL:http://www.wilmingtonma.gov/health-department/faq/why-are-failing-septic-systems-harmful [38256] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/health-department/faq/why-are-failing-septic-systems-harmful" [1]
+2017-01-02 07:08:44 URL:http://www.wilmingtonma.gov/health-department/faq/how-do-i-know-if-my-system-having-problems [38231] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/health-department/faq/how-do-i-know-if-my-system-having-problems" [1]
+2017-01-02 07:08:45 URL:http://www.wilmingtonma.gov/health-department/faq/what-are-most-important-things-do-take-care-my-system [38372] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/health-department/faq/what-are-most-important-things-do-take-care-my-system" [1]
+2017-01-02 07:08:47 URL:http://www.wilmingtonma.gov/health-department/faq/will-additives-help-my-system [38210] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/health-department/faq/will-additives-help-my-system" [1]
+2017-01-02 07:08:48 URL:http://www.wilmingtonma.gov/node/31/events/month [61229] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/31/events/month" [1]
+2017-01-02 07:08:49 URL:http://www.wilmingtonma.gov/node/31/events/day/2017-01-03 [37046] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/31/events/day/2017-01-03" [1]
+2017-01-02 07:08:51 URL:http://www.wilmingtonma.gov/node/31/events/day/2017-01-17 [37047] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/31/events/day/2017-01-17" [1]
+2017-01-02 07:08:52 URL:http://www.wilmingtonma.gov/node/31/events/month/2017-01 [61282] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/31/events/month/2017-01" [1]
+2017-01-02 07:08:54 URL:http://www.wilmingtonma.gov/node/31/agenda [33902] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/31/agenda" [1]
+2017-01-02 07:08:55 URL:http://www.wilmingtonma.gov/health-department/agenda/board-health-3 [38873] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/health-department/agenda/board-health-3" [1]
+2017-01-02 07:08:56 URL:http://www.wilmingtonma.gov/health-department/agenda/board-health-2 [38872] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/health-department/agenda/board-health-2" [1]
+2017-01-02 07:08:57 URL:http://www.wilmingtonma.gov/health-department/agenda/board-health-1 [38875] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/health-department/agenda/board-health-1" [1]
+2017-01-02 07:08:59 URL:http://www.wilmingtonma.gov/health-department/agenda/board-health-0 [38872] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/health-department/agenda/board-health-0" [1]
+2017-01-02 07:09:00 URL:http://www.wilmingtonma.gov/health-department/agenda/board-health [38868] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/health-department/agenda/board-health" [1]
+2017-01-02 07:09:01 URL:http://www.wilmingtonma.gov/node/31/minutes [33846] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/31/minutes" [1]
+2017-01-02 07:09:02 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/10-18-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:09:03 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/10-4-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:09:04 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/9-20-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:09:05 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/9-6-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:09:06 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/8-16-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:09:07 URL:http://www.wilmingtonma.gov/human-resources [38949] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/5014" [1]
+2017-01-02 07:09:08 URL:http://www.wilmingtonma.gov/print/5014 [7920] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/5014" [1]
+2017-01-02 07:09:10 URL:http://www.wilmingtonma.gov/town-manager-selectmen/pages/employment-opportunities [40346] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/human-resources/links/employment-opportunities" [1]
+2017-01-02 07:09:11 URL:http://www.wilmingtonma.gov/human-resources/pages/staff-resources [36651] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/human-resources/pages/staff-resources" [1]
+2017-01-02 07:09:12 URL:http://www.wilmingtonma.gov/planning-conservation [54253] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/33" [1]
+2017-01-02 07:09:13 URL:http://www.wilmingtonma.gov/print/33 [8541] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/33" [1]
+2017-01-02 07:09:15 URL:http://www.wilmingtonma.gov/user/54/contact [36772] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/54/contact" [1]
+2017-01-02 07:09:17 URL:http://www.wilmingtonma.gov/user/23/contact [36766] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/23/contact" [1]
+2017-01-02 07:09:19 URL:http://www.wilmingtonma.gov/user/55/contact [36756] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/55/contact" [1]
+2017-01-02 07:09:20 URL:http://www.wilmingtonma.gov/user/133/contact [36785] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/133/contact" [1]
+2017-01-02 07:09:23 URL:http://www.wilmingtonma.gov/user/673/contact [36743] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/673/contact" [1]
+2017-01-02 07:09:24 URL:http://www.wilmingtonma.gov/planning-conservation/pages/applications-forms-conservation [38981] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/planning-conservation/pages/applications-forms-conservation" [1]
+2017-01-02 07:09:25 URL:http://www.wilmingtonma.gov/planning-conservation/pages/applications-forms-planning [41645] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/planning-conservation/pages/applications-forms-planning" [1]
+2017-01-02 07:09:27 URL:http://www.wilmingtonma.gov/planning-conservation/pages/bylaws-regulations [39449] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/planning-conservation/pages/bylaws-regulations" [1]
+2017-01-02 07:09:28 URL:http://www.wilmingtonma.gov/planning-conservation/pages/housing-mnrhso [38492] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/planning-conservation/pages/housing-mnrhso" [1]
+2017-01-02 07:09:30 URL:http://www.wilmingtonma.gov/planning-conservation/pages/plans-reports [38032] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/planning-conservation/pages/plans-reports" [1]
+2017-01-02 07:09:31 URL:http://www.wilmingtonma.gov/planning-conservation/pages/resources [38907] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/planning-conservation/pages/resources" [1]
+2017-01-02 07:09:32 URL:http://www.wilmingtonma.gov/node/33/faq [36007] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/33/faq" [1]
+2017-01-02 07:09:34 URL:http://www.wilmingtonma.gov/planning-conservation/faq/what-zoning-district-my-lot [37698] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/planning-conservation/faq/what-zoning-district-my-lot" [1]
+2017-01-02 07:09:35 URL:http://www.wilmingtonma.gov/planning-conservation/faq/how-do-i-know-if-there-are-wetlands-or-near-my-property [38068] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/planning-conservation/faq/how-do-i-know-if-there-are-wetlands-or-near-my-property" [1]
+2017-01-02 07:09:36 URL:http://www.wilmingtonma.gov/planning-conservation/faq/when-next-planning-board-or-conservation-commission-meeting [37986] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/planning-conservation/faq/when-next-planning-board-or-conservation-commission-meeting" [1]
+2017-01-02 07:09:38 URL:http://www.wilmingtonma.gov/planning-conservation/faq/what-are-submission-deadlines-planning-board-and-conservation-commission [37951] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/planning-conservation/faq/what-are-submission-deadlines-planning-board-and-conservation-commission" [1]
+2017-01-02 07:09:39 URL:http://www.wilmingtonma.gov/planning-conservation/faq/what-planning-and-conservation-review-required-when-building-addition-my [38356] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/planning-conservation/faq/what-planning-and-conservation-review-required-when-building-addition-my" [1]
+2017-01-02 07:09:41 URL:http://www.wilmingtonma.gov/node/33/events/month [53597] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/33/events/month" [1]
+2017-01-02 07:09:42 URL:http://www.wilmingtonma.gov/node/33/events/month/2017-01 [53654] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/33/events/month/2017-01" [1]
+2017-01-02 07:09:44 URL:http://www.wilmingtonma.gov/node/33/agenda [33351] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/33/agenda" [1]
+2017-01-02 07:09:45 URL:http://www.wilmingtonma.gov/planning-conservation/agenda/planning-board-1042016 [38436] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/planning-conservation/agenda/planning-board-1042016" [1]
+2017-01-02 07:09:46 URL:http://www.wilmingtonma.gov/public-buildings-department [41844] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/35" [1]
+2017-01-02 07:09:47 URL:http://www.wilmingtonma.gov/print/35 [8521] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/35" [1]
+2017-01-02 07:09:48 URL:http://www.wilmingtonma.gov/public-buildings-department/pages/recent-upcoming-projects [40291] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-buildings-department/pages/recent-upcoming-projects" [1]
+2017-01-02 07:09:50 URL:http://www.wilmingtonma.gov/user/69/contact [36766] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/69/contact" [1]
+2017-01-02 07:09:52 URL:http://www.wilmingtonma.gov/user/70/contact [36760] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/70/contact" [1]
+2017-01-02 07:09:54 URL:http://www.wilmingtonma.gov/user/71/contact [36754] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/71/contact" [1]
+2017-01-02 07:09:55 URL:http://www.wilmingtonma.gov/building-inspector [45762] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-buildings-department/links/building-permits-inspections" [1]
+2017-01-02 07:09:57 URL:http://www.wilmingtonma.gov/public-buildings-department/slideshows/building-slide-show [45811] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-buildings-department/slideshows/building-slide-show" [1]
+2017-01-02 07:09:59 URL:http://www.wilmingtonma.gov/people/sharon-dunnette [37580] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-buildings-department/links/facility-permits" [1]
+2017-01-02 07:10:00 URL:http://www.wilmingtonma.gov/public-buildings-department/slideshows/recent-projects-slideshow [41604] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-buildings-department/slideshows/recent-projects-slideshow" [1]
+2017-01-02 07:10:01 URL:http://www.wilmingtonma.gov/public-works [67600] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/36" [1]
+2017-01-02 07:10:02 URL:http://www.wilmingtonma.gov/print/36 [10974] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/36" [1]
+2017-01-02 07:10:04 URL:http://www.wilmingtonma.gov/water-sewer-division/news/drought-warning-water-restrictions [39556] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/water-sewer-division/news/drought-warning-water-restrictions" [1]
+2017-01-02 07:10:08 URL:http://www.wilmingtonma.gov/public-works/cemetery-division [45871] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/cemetery-division" [1]
+2017-01-02 07:10:10 URL:http://www.wilmingtonma.gov/engineering-division [43236] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/engineering-division" [1]
+2017-01-02 07:10:12 URL:http://www.wilmingtonma.gov/garage-division [42235] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/garage-division" [1]
+2017-01-02 07:10:15 URL:http://www.wilmingtonma.gov/public-works/highway-division [43488] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/highway-division" [1]
+2017-01-02 07:10:17 URL:http://www.wilmingtonma.gov/parks-grounds-division [41013] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/parks-grounds-division" [1]
+2017-01-02 07:10:20 URL:http://www.wilmingtonma.gov/public-works/tree-division [44326] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/tree-division" [1]
+2017-01-02 07:10:22 URL:http://www.wilmingtonma.gov/user/72/contact [36810] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/72/contact" [1]
+2017-01-02 07:10:23 URL:http://www.wilmingtonma.gov/purchasing-department [40741] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-works/links/current-bid-opportunities" [1]
+2017-01-02 07:10:25 URL:http://www.wilmingtonma.gov/public-works/pages/divisions [42329] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-works/pages/divisions" [1]
+2017-01-02 07:10:25 URL:http://www.wilmingtonma.gov/public-works/highway-division [43488] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-works/highway-division" [1]
+2017-01-02 07:10:27 URL:http://www.wilmingtonma.gov/parks-grounds-division/pages/photo-album [37978] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/parks-grounds-division/pages/photo-album" [1]
+2017-01-02 07:10:27 URL:http://www.wilmingtonma.gov/public-works/tree-division [44326] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-works/tree-division" [1]
+2017-01-02 07:10:29 URL:http://www.wilmingtonma.gov/water-sewer-division/pages/additional-links [39424] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/water-sewer-division/pages/additional-links" [1]
+2017-01-02 07:10:30 URL:http://www.wilmingtonma.gov/water-sewer-division/pages/cross-connection-program [45651] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/water-sewer-division/pages/cross-connection-program" [1]
+2017-01-02 07:10:32 URL:http://www.wilmingtonma.gov/water-sewer-division/pages/downloadable-forms [39510] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/water-sewer-division/pages/downloadable-forms" [1]
+2017-01-02 07:10:33 URL:http://www.wilmingtonma.gov/water-sewer-division/pages/drinking-water-quality-reports [39635] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/water-sewer-division/pages/drinking-water-quality-reports" [1]
+2017-01-02 07:10:34 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/fee_schedule_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:10:35 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/how_is_water_treated.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:10:36 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/rates.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:10:37 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/rules_regs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:10:38 URL:http://www.wilmingtonma.gov/water-sewer-division/pages/water-conservation-program [40590] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/water-sewer-division/pages/water-conservation-program" [1]
+2017-01-02 07:10:40 URL:http://www.wilmingtonma.gov/water-sewer-division/pages/water-restrictions [39758] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/water-sewer-division/pages/water-restrictions" [1]
+2017-01-02 07:10:42 URL:http://www.wilmingtonma.gov/water-sewer-division/webforms/water-service-request [51412/51412] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/water-sewer-division/webforms/water-service-request" [1]
+2017-01-02 07:10:44 URL:http://www.wilmingtonma.gov/public-works/pages/downloadable-forms [42096] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-works/pages/downloadable-forms" [1]
+2017-01-02 07:10:46 URL:http://www.wilmingtonma.gov/user/login?destination=node/5433 [34125] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-works/links/member-log" [1]
+2017-01-02 07:10:48 URL:http://www.wilmingtonma.gov/public-works/pages/rules-regulations [42402] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-works/pages/rules-regulations" [1]
+2017-01-02 07:10:49 URL:http://www.wilmingtonma.gov/public-works/pages/spring-and-summer-projects-2016 [42328] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-works/pages/spring-and-summer-projects-2016" [1]
+2017-01-02 07:10:51 URL:http://www.wilmingtonma.gov/stormwater-management [44703] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/stormwater-management" [1]
+2017-01-02 07:10:52 URL:http://www.wilmingtonma.gov/stormwater-management/pages/catch-basin-stenciling-program [39702] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/stormwater-management/pages/catch-basin-stenciling-program" [1]
+2017-01-02 07:10:54 URL:https://www.epa.gov/npdes [31840/31840] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/stormwater-management/links/epas-npdes-frequently-asked-questions" [1]
+2017-01-02 07:10:56 URL:http://www.wilmingtonma.gov/illicit-discharge-detection-elimination [41980] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/illicit-discharge-detection-elimination" [1]
+2017-01-02 07:10:57 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/illicit_discharge_bylaw_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:10:58 URL:http://www.wilmingtonma.gov/illicit-discharge-detection-elimination/pages/more-information [38711] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/illicit-discharge-detection-elimination/pages/more-information" [1]
+2017-01-02 07:11:00 URL:http://www.mass.gov/eea/agencies/massdep/water/wastewater/stormwater.html [207481] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/stormwater-management/links/massdep-stormwater-information" [1]
+2017-01-02 07:11:01 URL:http://www.neiwpcc.org/stormwaterphase2.asp [23799/23799] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/stormwater-management/links/neiwppc-water-quality-information" [1]
+2017-01-02 07:11:02 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/permit_to_connect_to_sewer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:11:03 URL:http://www.wilmingtonma.gov/stormwater-management/pages/stormwater-bylaw-regulations-applications [38917] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/stormwater-management/pages/stormwater-bylaw-regulations-applications" [1]
+2017-01-02 07:11:04 URL:http://www.wilmingtonma.gov/trash-recycling [44705] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-works/links/trash-recycling" [1]
+2017-01-02 07:11:06 URL:http://www.wilmingtonma.gov/node/36/news [38435] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/36/news" [1]
+2017-01-02 07:11:07 URL:http://www.wilmingtonma.gov/public-works/news/drought-warning-water-restrictions [42824] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-works/news/drought-warning-water-restrictions" [1]
+2017-01-02 07:11:08 URL:http://www.wilmingtonma.gov/public-works/news/automated-trash-recycling-collection [42334] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/public-works/news/automated-trash-recycling-collection" [1]
+2017-01-02 07:11:10 URL:http://www.wilmingtonma.gov/node/36/events/month [93850] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/36/events/month" [1]
+2017-01-02 07:11:11 URL:http://www.wilmingtonma.gov/node/36/events/day/2017-01-03 [40709] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/36/events/day/2017-01-03" [1]
+2017-01-02 07:11:13 URL:http://www.wilmingtonma.gov/node/36/events/day/2017-01-04 [40711] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/36/events/day/2017-01-04" [1]
+2017-01-02 07:11:14 URL:http://www.wilmingtonma.gov/node/36/events/day/2017-01-05 [40710] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/36/events/day/2017-01-05" [1]
+2017-01-02 07:11:15 URL:http://www.wilmingtonma.gov/node/36/events/day/2017-01-06 [40708] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/36/events/day/2017-01-06" [1]
+2017-01-02 07:11:17 URL:http://www.wilmingtonma.gov/node/36/events/day/2017-01-07 [40710] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/36/events/day/2017-01-07" [1]
+2017-01-02 07:11:18 URL:http://www.wilmingtonma.gov/node/36/events/day/2017-01-09 [40708] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/36/events/day/2017-01-09" [1]
+2017-01-02 07:11:19 URL:http://www.wilmingtonma.gov/node/36/events/day/2017-01-10 [40710] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/36/events/day/2017-01-10" [1]
+2017-01-02 07:11:21 URL:http://www.wilmingtonma.gov/node/36/events/day/2017-01-11 [40712] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/36/events/day/2017-01-11" [1]
+2017-01-02 07:11:22 URL:http://www.wilmingtonma.gov/node/36/events/day/2017-01-12 [40711] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/36/events/day/2017-01-12" [1]
+2017-01-02 07:11:23 URL:http://www.wilmingtonma.gov/node/36/events/day/2017-01-13 [40709] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/36/events/day/2017-01-13" [1]
+2017-01-02 07:11:25 URL:http://www.wilmingtonma.gov/node/36/events/month/2017-01 [93911] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/36/events/month/2017-01" [1]
+2017-01-02 07:11:26 URL:http://www.wilmingtonma.gov/purchasing-department [40741] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/37" [1]
+2017-01-02 07:11:27 URL:http://www.wilmingtonma.gov/print/37 [9867] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/37" [1]
+2017-01-02 07:11:29 URL:http://www.wilmingtonma.gov/purchasing-department/files/2016-annual-report [38547] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/purchasing-department/files/ifb-2016-annual-report" [1]
+2017-01-02 07:11:30 URL:http://www.wilmingtonma.gov/purchasing-department/files/2017-2018-calendar [38561] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/purchasing-department/files/ifb-2017-2018-calendar" [1]
+2017-01-02 07:11:32 URL:http://www.wilmingtonma.gov/user/43/contact [36792] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/43/contact" [1]
+2017-01-02 07:11:51 URL:http://archives.lib.state.ma.us/handle/2452/35812 [44896/44896] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/purchasing-department/links/central-register" [1]
+2017-01-02 07:12:11 URL:http://archives.lib.state.ma.us/handle/2452/35909 [45351/45351] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/purchasing-department/links/goods-services-bulletin" [1]
+2017-01-02 07:12:12 URL:http://www.wilmingtonma.gov/recreation [67392] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/38" [1]
+2017-01-02 07:12:13 URL:http://www.wilmingtonma.gov/print/38 [13988] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/38" [1]
+2017-01-02 07:12:15 URL:http://www.wilmingtonma.gov/user/38/contact [36788] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/38/contact" [1]
+2017-01-02 07:12:17 URL:http://www.wilmingtonma.gov/user/41/contact [36768] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/41/contact" [1]
+2017-01-02 07:12:19 URL:http://www.wilmingtonma.gov/user/40/contact [36752] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/40/contact" [1]
+2017-01-02 07:12:20 URL:http://www.wilmingtonma.gov/user/753/contact [36767] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/753/contact" [1]
+2017-01-02 07:12:21 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/2017_winter_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:12:23 URL:http://www.wilmingtonma.gov/recreation/pages/admission-tickets-discounts [41046] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/pages/admission-tickets-discounts" [1]
+2017-01-02 07:12:24 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/2017winteradult.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:12:25 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/2017wintercomevents.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:12:26 URL:http://www.wilmingtonma.gov/recreation/pages/gift-certificates [39241] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/pages/gift-certificates" [1]
+2017-01-02 07:12:27 URL:http://www.wilmingtonma.gov/recreation/pages/merchandise [39087] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/pages/merchandise" [1]
+2017-01-02 07:12:29 URL:http://www.wilmingtonma.gov/recreation/pages/sports-tickets [40200] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/pages/sports-tickets" [1]
+2017-01-02 07:12:30 URL:http://www.wilmingtonma.gov/recreation/pages/theatre-tickets-trips-events [39691] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/pages/theatre-tickets-trips-events" [1]
+2017-01-02 07:12:32 URL:http://www.wilmingtonma.gov/recreation/pages/trips [41891] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/pages/trips" [1]
+2017-01-02 07:12:33 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/2017winteryouth.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:12:35 URL:http://www.wilmingtonma.gov/node/38/faq [36546] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/links/frequently-asked-questions" [1]
+2017-01-02 07:12:36 URL:http://www.wilmingtonma.gov/recreation/pages/general-information [41590] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/pages/general-information" [1]
+2017-01-02 07:12:37 URL:http://www.wilmingtonma.gov/recreation/pages/newsletter-archives [39125] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/pages/newsletter-archives" [1]
+2017-01-02 07:12:40 URL:https://register.communitypass.net/reg/login.cfm?cuBOAf%2Fd0p4trnasCJNBkrfRqBVbC8M1ugTdgJwcwr%2BLxIFL2ZCtvf%2Fw [15645/15645] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/links/online-registration" [1]
+2017-01-02 07:12:41 URL:http://www.wilmingtonma.gov/recreation/pages/registration-formscori-form [39217] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/pages/registration-formscori-form" [1]
+2017-01-02 07:12:44 URL:http://www.wilmingtonma.gov/subscribe [41245/41245] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/links/subscribe-e-alerts" [1]
+2017-01-02 07:12:46 URL:http://www.wilmingtonma.gov/recreation/pages/wilmington-community-links [39012] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/pages/wilmington-community-links" [1]
+2017-01-02 07:12:47 URL:http://www.wilmingtonma.gov/node/38/faq [36546] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/38/faq" [1]
+2017-01-02 07:12:48 URL:http://www.wilmingtonma.gov/recreation/faq/how-often-recreation-department-newsletter-recreation-matters-published [39359] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/faq/how-often-recreation-department-newsletter-recreation-matters-published" [1]
+2017-01-02 07:12:49 URL:http://www.wilmingtonma.gov/recreation/faq/how-can-i-get-copy [38724] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/faq/how-can-i-get-copy" [1]
+2017-01-02 07:12:50 URL:http://www.wilmingtonma.gov/recreation/faq/if-i-am-unable-come-recreation-department-during-office-hours-how-can-i-register [39456] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/faq/if-i-am-unable-come-recreation-department-during-office-hours-how-can-i-register" [1]
+2017-01-02 07:12:53 URL:http://www.wilmingtonma.gov/recreation/faq/can-i-register-program-or-trip-without-payment [39110] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/faq/can-i-register-program-or-trip-without-payment" [1]
+2017-01-02 07:12:54 URL:http://www.wilmingtonma.gov/recreation/faq/i-don%E2%80%99t-live-wilmington-are-your-offerings-available-me [39207] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/faq/i-donâ%80%99t-live-wilmington-are-your-offerings-available-me" [1]
+2017-01-02 07:12:55 URL:http://www.wilmingtonma.gov/node/38/news [36102] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/38/news" [1]
+2017-01-02 07:12:56 URL:http://www.wilmingtonma.gov/recreation/news/give-gift-travel [40851] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/news/give-gift-travel" [1]
+2017-01-02 07:12:58 URL:http://www.wilmingtonma.gov/recreation/news/winter-2017-recreation-matters-newsletter-available [40139] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/news/winter-2017-recreation-matters-newsletter-available" [1]
+2017-01-02 07:12:59 URL:http://www.wilmingtonma.gov/recreation/news/colorado-rockies-rails-trip [40276] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/news/colorado-rockies-rails-trip" [1]
+2017-01-02 07:13:00 URL:http://www.wilmingtonma.gov/recreation/news/watch-here-program-updates-weather-cancellations-etc [38550] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/news/watch-here-program-updates-weather-cancellations-etc" [1]
+2017-01-02 07:13:02 URL:http://www.wilmingtonma.gov/node/38/events/month [58326] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/38/events/month" [1]
+2017-01-02 07:13:03 URL:http://www.wilmingtonma.gov/node/38/events/day/2017-01-05 [37758] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/38/events/day/2017-01-05" [1]
+2017-01-02 07:13:04 URL:http://www.wilmingtonma.gov/node/38/events/month/2017-01 [58379] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/38/events/month/2017-01" [1]
+2017-01-02 07:13:05 URL:http://www.wilmingtonma.gov/node/38/agenda [34621] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/38/agenda" [1]
+2017-01-02 07:13:06 URL:http://www.wilmingtonma.gov/recreation/agenda/recreation-commission-0 [39634] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/agenda/recreation-commission-0" [1]
+2017-01-02 07:13:08 URL:http://www.wilmingtonma.gov/recreation/agenda/recreation-department [39630] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/agenda/recreation-department" [1]
+2017-01-02 07:13:09 URL:http://www.wilmingtonma.gov/recreation/agenda/recreation-commission [39629] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/agenda/recreation-commission" [1]
+2017-01-02 07:13:10 URL:http://www.wilmingtonma.gov/recreation/agenda/recreation-commission-1062016 [39670] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/agenda/recreation-commission-1062016" [1]
+2017-01-02 07:13:12 URL:http://www.wilmingtonma.gov/recreation/agenda/recreation-commission-912016 [39665] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/recreation/agenda/recreation-commission-912016" [1]
+2017-01-02 07:13:13 URL:http://www.wilmingtonma.gov/node/38/minutes [34565] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/38/minutes" [1]
+2017-01-02 07:13:14 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/october_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:13:15 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/16september_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:13:16 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/16june.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:13:17 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/16may_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:13:18 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/rec_minutes_4-7.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:13:19 URL:http://www.wilmingtonma.gov/town-clerk [52199] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/39" [1]
+2017-01-02 07:13:20 URL:http://www.wilmingtonma.gov/print/39 [7699] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/39" [1]
+2017-01-02 07:13:22 URL:http://www.wilmingtonma.gov/user/57/contact [36754] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/57/contact" [1]
+2017-01-02 07:13:23 URL:http://www.wilmingtonma.gov/user/58/contact [36752] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/58/contact" [1]
+2017-01-02 07:13:25 URL:http://www.wilmingtonma.gov/user/96/contact [36784] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/96/contact" [1]
+2017-01-02 07:13:26 URL:http://www.sec.state.ma.us/ele/eleifv/howabs.htm [71761/71761] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-clerk/links/absentee-ballot-application" [1]
+2017-01-02 07:13:27 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/business_certificate.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:13:29 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/bylaws.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:13:30 URL:http://www.wilmingtonma.gov/town-clerk/pages/campaign-finance [42877] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-clerk/pages/campaign-finance" [1]
+2017-01-02 07:13:31 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/2017_dog_license_new_and_renewal_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:13:32 URL:http://www.wilmingtonma.gov/town-clerk/pages/fees [40569] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-clerk/pages/fees" [1]
+2017-01-02 07:13:33 URL:http://www.mass.gov/portal/ [66165] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-clerk/links/ma-state-website" [1]
+2017-01-02 07:13:35 URL:http://www.wilmingtonma.gov/town-clerk/pages/marriage-licenses [39277] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-clerk/pages/marriage-licenses" [1]
+2017-01-02 07:13:36 URL:https://travel.state.gov/content/travel/en.html [31444] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-clerk/links/obtaining-passport" [1]
+2017-01-02 07:13:37 URL:http://www.wilmingtonma.gov/town-clerk/pages/state-primary [38291] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-clerk/pages/state-primary" [1]
+2017-01-02 07:13:39 URL:http://www.wilmingtonma.gov/town-clerk/pages/vital-records [38438] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-clerk/pages/vital-records" [1]
+2017-01-02 07:13:40 URL:http://www.wilmingtonma.gov/town-clerk/pages/voting-elections [39178] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-clerk/pages/voting-elections" [1]
+2017-01-02 07:13:41 URL:http://www.wilmingtonma.gov/node/39/events/month [54060] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/39/events/month" [1]
+2017-01-02 07:13:42 URL:http://www.wilmingtonma.gov/node/39/events/month/2017-01 [54117] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/39/events/month/2017-01" [1]
+2017-01-02 07:13:44 URL:http://www.wilmingtonma.gov/node/39/agenda [33844] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/39/agenda" [1]
+2017-01-02 07:13:45 URL:http://www.wilmingtonma.gov/town-clerk/agenda/wilmington-housing-authority [39081] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-clerk/agenda/wilmington-housing-authority" [1]
+2017-01-02 07:13:47 URL:http://www.wilmingtonma.gov/town-clerk/agenda/board-registrars-meeting-0 [38794] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-clerk/agenda/board-registrars-meeting-0" [1]
+2017-01-02 07:13:48 URL:http://www.wilmingtonma.gov/town-clerk/agenda/board-registrars-meeting [39082] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-clerk/agenda/board-registrars-meeting" [1]
+2017-01-02 07:13:49 URL:http://www.wilmingtonma.gov/town-manager-selectmen [70734] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/40" [1]
+2017-01-02 07:13:50 URL:http://www.wilmingtonma.gov/print/40 [15720] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/40" [1]
+2017-01-02 07:13:52 URL:http://www.wilmingtonma.gov/user/62/contact [36776] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/62/contact" [1]
+2017-01-02 07:13:54 URL:http://www.wilmingtonma.gov/user/59/contact [36746] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/59/contact" [1]
+2017-01-02 07:13:56 URL:http://www.wilmingtonma.gov/user/863/contact [36759] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/863/contact" [1]
+2017-01-02 07:13:57 URL:http://www.wilmingtonma.gov/user/61/contact [36762] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/61/contact" [1]
+2017-01-02 07:13:59 URL:http://www.wilmingtonma.gov/town-manager-selectmen/pages/annual-reports [39362] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-manager-selectmen/pages/annual-reports" [1]
+2017-01-02 07:14:00 URL:http://www.wilmingtonma.gov/town-manager-selectmen/pages/boards-committees [42078] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-manager-selectmen/links/board-committee-vacancies" [1]
+2017-01-02 07:14:02 URL:http://www.wilmingtonma.gov/town-manager-selectmen/pages/bond-rating [39596] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-manager-selectmen/pages/bond-rating" [1]
+2017-01-02 07:14:03 URL:http://www.wilmingtonma.gov/accountants-office/pages/budgets-financial-statements [39813] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-manager-selectmen/links/budgets-financial-statements" [1]
+2017-01-02 07:14:04 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/fmp_executive_summary.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:14:05 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/wilmington_facilities_map_-_final.jpg 200 OK
+unlink: No such file or directory
+2017-01-02 07:14:06 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/fmppresentation.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:14:08 URL:https://www.surveymonkey.com/r/FMPopinion [27446/27446] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/facility-master-plan/links/facility-master-plan-presentation-survey-june-2016" [1]
+2017-01-02 07:14:09 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/mission_statement.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:14:10 URL:http://www.wilmingtonma.gov/town-manager-selectmen/pages/quarterly-newsletter-town-topics [41364] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-manager-selectmen/pages/quarterly-newsletter-town-topics" [1]
+2017-01-02 07:14:11 URL:http://www.wilmingtonma.gov/news [36617] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/news" [1]
+2017-01-02 07:14:13 URL:http://www.wilmingtonma.gov/home/news/conclusion-water-testing-school-buildings [37342] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/home/news/conclusion-water-testing-school-buildings" [1]
+2017-01-02 07:14:14 URL:http://www.wilmingtonma.gov/home/news/facility-master-plan-presentation-available-online [36041] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/home/news/facility-master-plan-presentation-available-online" [1]
+2017-01-02 07:14:15 URL:http://www.wilmingtonma.gov/news/1 [36631] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/news/1" [1]
+2017-01-02 07:14:17 URL:http://www.wilmingtonma.gov/node/40/events/month [69209] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/40/events/month" [1]
+2017-01-02 07:14:18 URL:http://www.wilmingtonma.gov/node/40/events/day/2017-01-02 [37654] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/40/events/day/2017-01-02" [1]
+2017-01-02 07:14:20 URL:http://www.wilmingtonma.gov/node/40/events/day/2017-01-09 [37650] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/40/events/day/2017-01-09" [1]
+2017-01-02 07:14:21 URL:http://www.wilmingtonma.gov/node/40/events/day/2017-01-23 [37651] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/40/events/day/2017-01-23" [1]
+2017-01-02 07:14:22 URL:http://www.wilmingtonma.gov/node/40/events/day/2017-01-30 [37651] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/40/events/day/2017-01-30" [1]
+2017-01-02 07:14:24 URL:http://www.wilmingtonma.gov/node/40/events/month/2017-01 [69278] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/40/events/month/2017-01" [1]
+2017-01-02 07:14:25 URL:http://www.wilmingtonma.gov/node/40/agenda [34426] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/40/agenda" [1]
+2017-01-02 07:14:26 URL:http://www.wilmingtonma.gov/town-manager-selectmen/agenda/board-selectmen-24 [39898] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-manager-selectmen/agenda/board-selectmen-24" [1]
+2017-01-02 07:14:28 URL:http://www.wilmingtonma.gov/town-manager-selectmen/agenda/board-selectmen-22 [39601] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-manager-selectmen/agenda/board-selectmen-22" [1]
+2017-01-02 07:14:29 URL:http://www.wilmingtonma.gov/town-manager-selectmen/agenda/board-selectmen-23 [39509] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-manager-selectmen/agenda/board-selectmen-23" [1]
+2017-01-02 07:14:30 URL:http://www.wilmingtonma.gov/town-manager-selectmen/agenda/board-selectmen-21 [39509] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-manager-selectmen/agenda/board-selectmen-21" [1]
+2017-01-02 07:14:32 URL:http://www.wilmingtonma.gov/town-manager-selectmen/agenda/board-selectmen-19 [39507] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/town-manager-selectmen/agenda/board-selectmen-19" [1]
+2017-01-02 07:14:33 URL:http://www.wilmingtonma.gov/node/40/minutes [34436] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/40/minutes" [1]
+2017-01-02 07:14:34 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/september_26_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:14:35 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/july_25_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:14:36 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/may_23_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:14:37 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/may_9_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:14:38 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/april_25_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:14:39 URL:http://www.wilmingtonma.gov/town-museum [41189] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/41" [1]
+2017-01-02 07:14:40 URL:http://www.wilmingtonma.gov/print/41 [8464] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/41" [1]
+2017-01-02 07:14:41 URL:http://www.wilmingtonma.gov/user/25/contact [36780] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/25/contact" [1]
+2017-01-02 07:14:42 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/forsale.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:14:43 URL:http://www.wilmingtonma.gov/historical-commission [58981] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/wilmington-town-museum/links/historical-commission" [1]
+2017-01-02 07:14:44 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/wilmington_1775_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:14:46 URL:http://wilmingtonminutemen.weebly.com/ [14987] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/wilmington-town-museum/links/wilmington-minutemen" [1]
+2017-01-02 07:14:47 URL:http://www.wilmingtonma.gov/trash-recycling [44705] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/42" [1]
+2017-01-02 07:14:48 URL:http://www.wilmingtonma.gov/print/42 [9475] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/42" [1]
+2017-01-02 07:14:49 URL:http://www.wilmingtonma.gov/trash-recycling/pages/excessive-trash-home-cleanout [38400] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/trash-recycling/pages/excessive-trash-home-cleanout" [1]
+2017-01-02 07:14:50 URL:http://www.wilmingtonma.gov/trash-recycling/pages/pick-schedules [37856] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/trash-recycling/pages/pick-schedules" [1]
+2017-01-02 07:14:51 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/booklet1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:14:52 URL:http://www.wilmingtonma.gov/trash-recycling/pages/useful-links [38196] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/trash-recycling/pages/useful-links" [1]
+2017-01-02 07:14:54 URL:http://www.wilmingtonma.gov/trash-recycling/pages/yard-waste [39400] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/trash-recycling/pages/yard-waste" [1]
+2017-01-02 07:14:55 URL:http://www.wilmingtonma.gov/node/42/faq [36286] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/42/faq" [1]
+2017-01-02 07:14:56 URL:http://www.wilmingtonma.gov/trash-recycling/faq/what-do-i-do-bulky-material-furniture-mattresses-grills-etc [38073] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/trash-recycling/faq/what-do-i-do-bulky-material-furniture-mattresses-grills-etc" [1]
+2017-01-02 07:14:57 URL:http://www.wilmingtonma.gov/trash-recycling/faq/what-are-overflow-bags [38032] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/trash-recycling/faq/what-are-overflow-bags" [1]
+2017-01-02 07:14:58 URL:http://www.wilmingtonma.gov/trash-recycling/faq/what-do-i-do-extra-trash [38367] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/trash-recycling/faq/what-do-i-do-extra-trash" [1]
+2017-01-02 07:15:00 URL:http://www.wilmingtonma.gov/trash-recycling/faq/what-should-i-do-my-old-containers [37905] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/trash-recycling/faq/what-should-i-do-my-old-containers" [1]
+2017-01-02 07:15:01 URL:http://www.wilmingtonma.gov/trash-recycling/faq/do-i-have-pay-my-barrels [37657] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/trash-recycling/faq/do-i-have-pay-my-barrels" [1]
+2017-01-02 07:15:02 URL:http://www.wilmingtonma.gov/treasurertax-collectors-office [43535] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/43" [1]
+2017-01-02 07:15:03 URL:http://www.wilmingtonma.gov/print/43 [9558] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/43" [1]
+2017-01-02 07:15:05 URL:http://www.wilmingtonma.gov/user/64/contact [36786] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/64/contact" [1]
+2017-01-02 07:15:07 URL:http://www.wilmingtonma.gov/treasurercollectors-office/pages/collector-mission-statement [38186] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/treasurercollectors-office/pages/collector-mission-statement" [1]
+2017-01-02 07:15:08 URL:http://www.wilmingtonma.gov/treasurercollectors-office/pages/treasurer-mission-statement [38264] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/treasurercollectors-office/pages/treasurer-mission-statement" [1]
+2017-01-02 07:15:10 URL:http://www.wilmingtonma.gov/user/65/contact [36772] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/65/contact" [1]
+2017-01-02 07:15:11 URL:http://www.wilmingtonma.gov/assessors-office [42381] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/treasurertax-collectors-office/links/assessors-office" [1]
+2017-01-02 07:15:13 URL:http://www.wilmingtonma.gov/node/43/faq [40559] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/treasurertax-collectors-office/links/frequently-asked-questions" [1]
+2017-01-02 07:15:15 URL:http://www.massrmv.com/ [93250/93250] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/treasurertax-collectors-office/links/massachusetts-registry-motor-vehicles" [1]
+2017-01-02 07:15:16 URL:http://www.wilmingtonma.gov/home/pages/online-payments [35087] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/treasurertax-collectors-office/links/online-payments" [1]
+2017-01-02 07:15:18 URL:http://www.wilmingtonma.gov/treasurertax-collectors-office/pages/payment-information [41240] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/treasurertax-collectors-office/pages/payment-information" [1]
+2017-01-02 07:15:19 URL:http://www.wilmingtonma.gov/water-sewer-division [67674] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/treasurertax-collectors-office/links/water-sewer-department" [1]
+2017-01-02 07:15:21 URL:http://www.wilmingtonma.gov/trash-recycling/pages/curbside-recycling [40663] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/treasurertax-collectors-office/links/white-goods-stickers" [1]
+2017-01-02 07:15:22 URL:http://www.wilmingtonma.gov/node/43/faq [40559] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/43/faq" [1]
+2017-01-02 07:15:24 URL:http://www.wilmingtonma.gov/treasurertax-collectors-office/faq/what-are-my-tax-dollars-used [38639] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/treasurertax-collectors-office/faq/what-are-my-tax-dollars-used" [1]
+2017-01-02 07:15:25 URL:http://www.wilmingtonma.gov/treasurertax-collectors-office/faq/what-personal-property-tax [38466] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/treasurertax-collectors-office/faq/what-personal-property-tax" [1]
+2017-01-02 07:15:26 URL:http://www.wilmingtonma.gov/treasurertax-collectors-office/faq/how-amount-my-property-tax-determined [38477] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/treasurertax-collectors-office/faq/how-amount-my-property-tax-determined" [1]
+2017-01-02 07:15:28 URL:http://www.wilmingtonma.gov/treasurertax-collectors-office/faq/what-normal-tax-billing-schedule [38828] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/treasurertax-collectors-office/faq/what-normal-tax-billing-schedule" [1]
+2017-01-02 07:15:29 URL:http://www.wilmingtonma.gov/treasurertax-collectors-office/faq/what-do-i-do-if-i-feel-either-my-property-or-real-estate-tax [38799] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/treasurertax-collectors-office/faq/what-do-i-do-if-i-feel-either-my-property-or-real-estate-tax" [1]
+2017-01-02 07:15:30 URL:http://www.wilmingtonma.gov/veterans [61879] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/44" [1]
+2017-01-02 07:15:31 URL:http://www.wilmingtonma.gov/print/44 [24232] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/44" [1]
+2017-01-02 07:15:32 URL:http://www.wilmingtonma.gov/user/45/contact [36774] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/45/contact" [1]
+2017-01-02 07:15:34 URL:http://www.wilmingtonma.gov/veterans/pages/forms [37653] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/veterans/pages/forms" [1]
+2017-01-02 07:15:35 URL:http://www.wilmingtonma.gov/veterans/pages/military-links [38458] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/veterans/pages/military-links" [1]
+2017-01-02 07:15:36 URL:http://www.wilmingtonma.gov/veterans/pages/useful-links-information [38588] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/veterans/pages/useful-links-information" [1]
+2017-01-02 07:15:38 URL:http://www.wilmingtonma.gov/node/44/faq [34929] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/44/faq" [1]
+2017-01-02 07:15:39 URL:http://www.wilmingtonma.gov/veterans/faq/i%E2%80%99ve-moved-and-need-change-my-address-or-i%E2%80%99ve-changed-banks-what-do-i-need-do [37957] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/veterans/faq/iâ%80%99ve-moved-and-need-change-my-address-or-iâ%80%99ve-changed-banks-what-do-i-need-do" [1]
+2017-01-02 07:15:40 URL:http://www.wilmingtonma.gov/veterans/faq/how-do-i-obtain-my-discharge-record [37756] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/veterans/faq/how-do-i-obtain-my-discharge-record" [1]
+2017-01-02 07:15:41 URL:http://www.wilmingtonma.gov/veterans/faq/can-i-just-go-veterans-hospital-and-obtain-prescriptions [37880] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/veterans/faq/can-i-just-go-veterans-hospital-and-obtain-prescriptions" [1]
+2017-01-02 07:15:43 URL:http://www.wilmingtonma.gov/veterans/faq/if-i%E2%80%99m-veteran-will-va-pay-my-prescriptions-i-obtain-local-pharmacy [37537] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/veterans/faq/if-iâ%80%99m-veteran-will-va-pay-my-prescriptions-i-obtain-local-pharmacy" [1]
+2017-01-02 07:15:44 URL:http://www.wilmingtonma.gov/veterans/faq/i%E2%80%99m-veteran-and-want-use-va-healthcare-what-do-i-do [37962] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/veterans/faq/iâ%80%99m-veteran-and-want-use-va-healthcare-what-do-i-do" [1]
+2017-01-02 07:15:45 URL:http://www.wilmingtonma.gov/node/44/news [33165] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/44/news" [1]
+2017-01-02 07:15:47 URL:http://www.wilmingtonma.gov/veterans/news/mental-health-effects-serving-afghanistan-and-iraq [42266] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/veterans/news/mental-health-effects-serving-afghanistan-and-iraq" [1]
+2017-01-02 07:15:48 URL:http://www.wilmingtonma.gov/town-manager-selectmen/pages/boards-committees [42078] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/4970" [1]
+2017-01-02 07:15:49 URL:http://www.wilmingtonma.gov/print/4970 [9454] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/4970" [1]
+2017-01-02 07:15:50 URL:http://www.wilmingtonma.gov/board-appeals [62196] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/46" [1]
+2017-01-02 07:15:51 URL:http://www.wilmingtonma.gov/print/46 [13331] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/46" [1]
+2017-01-02 07:15:52 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/application_process.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:15:53 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/application_for_hearing.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:15:54 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/deadline2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:15:55 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/rules_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:15:56 URL:http://www.wilmingtonma.gov/board-appeals/pages/upcoming-applications-hearing [37908] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/board-appeals/pages/upcoming-applications-hearing" [1]
+2017-01-02 07:15:57 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/zoning_bylaw.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:15:59 URL:http://www.wilmingtonma.gov/board-appeals/pages/zoning-history [37753] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/board-appeals/pages/zoning-history" [1]
+2017-01-02 07:16:00 URL:http://www.wilmingtonma.gov/node/46/events/month [61298] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/46/events/month" [1]
+2017-01-02 07:16:02 URL:http://www.wilmingtonma.gov/node/46/events/day/2017-01-11 [36764] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/46/events/day/2017-01-11" [1]
+2017-01-02 07:16:03 URL:http://www.wilmingtonma.gov/node/46/events/day/2017-01-17 [36718] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/46/events/day/2017-01-17" [1]
+2017-01-02 07:16:05 URL:http://www.wilmingtonma.gov/node/46/events/month/2017-01 [61351] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/46/events/month/2017-01" [1]
+2017-01-02 07:16:06 URL:http://www.wilmingtonma.gov/node/46/agenda [33445] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/46/agenda" [1]
+2017-01-02 07:16:07 URL:http://www.wilmingtonma.gov/board-appeals/agenda/board-appeals-1 [38463] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/board-appeals/agenda/board-appeals-1" [1]
+2017-01-02 07:16:08 URL:http://www.wilmingtonma.gov/board-appeals/agenda/board-appeals-0 [38463] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/board-appeals/agenda/board-appeals-0" [1]
+2017-01-02 07:16:10 URL:http://www.wilmingtonma.gov/board-appeals/agenda/board-appeals-10122016 [38501] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/board-appeals/agenda/board-appeals-10122016" [1]
+2017-01-02 07:16:11 URL:http://www.wilmingtonma.gov/board-appeals/agenda/board-appeals [38462] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/board-appeals/agenda/board-appeals" [1]
+2017-01-02 07:16:12 URL:http://www.wilmingtonma.gov/board-appeals/agenda/board-appeals-8102016 [38494] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/board-appeals/agenda/board-appeals-8102016" [1]
+2017-01-02 07:16:14 URL:http://www.wilmingtonma.gov/node/46/minutes [33387] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/46/minutes" [1]
+2017-01-02 07:16:15 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/051116m.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:16:16 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/041316m_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:16:17 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/032416m.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:16:18 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/030916m.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:16:19 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/021016m.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:16:20 URL:http://www.wilmingtonma.gov/board-assessors [55569] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/27" [1]
+2017-01-02 07:16:21 URL:http://www.wilmingtonma.gov/print/27 [8020] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/27" [1]
+2017-01-02 07:16:22 URL:http://www.wilmingtonma.gov/node/27/events/month [55934] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/27/events/month" [1]
+2017-01-02 07:16:24 URL:http://www.wilmingtonma.gov/node/27/events/day/2017-01-05 [35354] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/27/events/day/2017-01-05" [1]
+2017-01-02 07:16:25 URL:http://www.wilmingtonma.gov/node/27/events/month/2017-01 [55991] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/27/events/month/2017-01" [1]
+2017-01-02 07:16:26 URL:http://www.wilmingtonma.gov/node/27/agenda [32207] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/27/agenda" [1]
+2017-01-02 07:16:27 URL:http://www.wilmingtonma.gov/board-assessors/agenda/board-assessors-1 [37390] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/board-assessors/agenda/board-assessors-1" [1]
+2017-01-02 07:16:29 URL:http://www.wilmingtonma.gov/board-assessors/agenda/board-assessors-0 [37391] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/board-assessors/agenda/board-assessors-0" [1]
+2017-01-02 07:16:30 URL:http://www.wilmingtonma.gov/board-assessors/agenda/board-assessors [37387] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/board-assessors/agenda/board-assessors" [1]
+2017-01-02 07:16:32 URL:http://www.wilmingtonma.gov/board-assessors/agenda/board-assessors-9292016 [37430] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/board-assessors/agenda/board-assessors-9292016" [1]
+2017-01-02 07:16:33 URL:http://www.wilmingtonma.gov/board-assessors/agenda/board-assessors-912016 [37423] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/board-assessors/agenda/board-assessors-912016" [1]
+2017-01-02 07:16:34 URL:http://www.wilmingtonma.gov/node/27/minutes [32151] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/27/minutes" [1]
+2017-01-02 07:16:35 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/minutes.assessors.09.01.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:16:35 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/minutes.assessors.07.28.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:16:36 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/minutes.assessors.06.08.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:16:37 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/minutes.assessors.05.26.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:16:38 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/minutes.assessors.04.29.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:16:39 URL:http://www.wilmingtonma.gov/board-registrars [49938] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/48" [1]
+2017-01-02 07:16:41 URL:http://www.wilmingtonma.gov/print/48 [6254] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/48" [1]
+2017-01-02 07:16:42 URL:http://www.wilmingtonma.gov/node/48/events/month [52247] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/48/events/month" [1]
+2017-01-02 07:16:43 URL:http://www.wilmingtonma.gov/node/48/events/month/2017-01 [52304] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/48/events/month/2017-01" [1]
+2017-01-02 07:16:44 URL:http://www.wilmingtonma.gov/node/48/agenda [32145] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/48/agenda" [1]
+2017-01-02 07:16:46 URL:http://www.wilmingtonma.gov/board-registrars/agenda/board-registrars-8232016 [35473] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/board-registrars/agenda/board-registrars-8232016" [1]
+2017-01-02 07:16:47 URL:http://www.wilmingtonma.gov/board-registrars/agenda/board-registrars-agenda [35167] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/board-registrars/agenda/board-registrars-agenda" [1]
+2017-01-02 07:16:48 URL:http://www.wilmingtonma.gov/board-registrars/agenda/board-registrars-agenda-0 [35169] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/board-registrars/agenda/board-registrars-agenda-0" [1]
+2017-01-02 07:16:49 URL:http://www.wilmingtonma.gov/board-registrars/agenda/board-registrars-agenda-1 [35172] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/board-registrars/agenda/board-registrars-agenda-1" [1]
+2017-01-02 07:16:50 URL:http://www.wilmingtonma.gov/cable-tv-advisory-task-force [49743] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/12333" [1]
+2017-01-02 07:16:51 URL:http://www.wilmingtonma.gov/print/12333 [6756] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/12333" [1]
+2017-01-02 07:16:52 URL:http://www.wilmingtonma.gov/node/12333/events/month [56284] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/12333/events/month" [1]
+2017-01-02 07:16:54 URL:http://www.wilmingtonma.gov/node/12333/events/day/2017-01-05 [35497] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/12333/events/day/2017-01-05" [1]
+2017-01-02 07:16:55 URL:http://www.wilmingtonma.gov/node/12333/events/month/2017-01 [56341] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/12333/events/month/2017-01" [1]
+2017-01-02 07:16:56 URL:http://www.wilmingtonma.gov/node/12333/agenda [32151] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/12333/agenda" [1]
+2017-01-02 07:16:58 URL:http://www.wilmingtonma.gov/cable-tv-advisory-task-force/agenda/cable-tv-advisory-task-force-0 [35563] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/cable-tv-advisory-task-force/agenda/cable-tv-advisory-task-force-0" [1]
+2017-01-02 07:16:59 URL:http://www.wilmingtonma.gov/cable-tv-advisory-task-force/agenda/cable-tv-advisory-task-force [35559] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/cable-tv-advisory-task-force/agenda/cable-tv-advisory-task-force" [1]
+2017-01-02 07:17:01 URL:http://www.wilmingtonma.gov/cable-tv-advisory-task-force/agenda/cable-tv-advisory-task-force-meeting [35589] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/cable-tv-advisory-task-force/agenda/cable-tv-advisory-task-force-meeting" [1]
+2017-01-02 07:17:02 URL:http://www.wilmingtonma.gov/carter-lecture-fund-committee [52767] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/49" [1]
+2017-01-02 07:17:03 URL:http://www.wilmingtonma.gov/print/49 [11615] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/49" [1]
+2017-01-02 07:17:04 URL:http://www.wilmingtonma.gov/node/49/events/month [52320] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/49/events/month" [1]
+2017-01-02 07:17:06 URL:http://www.wilmingtonma.gov/node/49/events/month/2017-01 [52377] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/49/events/month/2017-01" [1]
+2017-01-02 07:17:07 URL:http://www.wilmingtonma.gov/cemetery-commission [48873] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/50" [1]
+2017-01-02 07:17:08 URL:http://www.wilmingtonma.gov/print/50 [8936] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/50" [1]
+2017-01-02 07:17:09 URL:http://www.wilmingtonma.gov/node/50/events/month [52250] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/50/events/month" [1]
+2017-01-02 07:17:11 URL:http://www.wilmingtonma.gov/node/50/events/month/2017-01 [52307] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/50/events/month/2017-01" [1]
+2017-01-02 07:17:12 URL:http://www.wilmingtonma.gov/node/50/agenda [32016] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/50/agenda" [1]
+2017-01-02 07:17:13 URL:http://www.wilmingtonma.gov/cemetery-commission/agenda/cemetery-commission [35454] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/cemetery-commission/agenda/cemetery-commission" [1]
+2017-01-02 07:17:14 URL:http://www.wilmingtonma.gov/commission-disabilities [37599] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/51" [1]
+2017-01-02 07:17:15 URL:http://www.wilmingtonma.gov/print/51 [8953] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/51" [1]
+2017-01-02 07:17:17 URL:http://www.wilmingtonma.gov/conservation-commission [62850] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/52" [1]
+2017-01-02 07:17:18 URL:http://www.wilmingtonma.gov/print/52 [14231] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/52" [1]
+2017-01-02 07:17:19 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/compostbrochure.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:17:20 URL:http://www.wilmingtonma.gov/conservation-commission/pages/open-space [37764] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/conservation-commission/pages/open-space" [1]
+2017-01-02 07:17:21 URL:http://www.wilmingtonma.gov/conservation-commission/pages/regulations-policies [37878] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/conservation-commission/pages/regulations-policies" [1]
+2017-01-02 07:17:23 URL:http://www.wilmingtonma.gov/conservation-commission/pages/resources [38533] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/conservation-commission/pages/resources" [1]
+2017-01-02 07:17:24 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/wilm_tree_policy_adopted_7-6-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:17:25 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/wetlandsfactsheet.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:17:26 URL:http://www.wilmingtonma.gov/node/52/events/month [57330] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/52/events/month" [1]
+2017-01-02 07:17:28 URL:http://www.wilmingtonma.gov/node/52/events/day/2017-01-04 [36641] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/52/events/day/2017-01-04" [1]
+2017-01-02 07:17:30 URL:http://www.wilmingtonma.gov/node/52/events/month/2017-01 [57383] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/52/events/month/2017-01" [1]
+2017-01-02 07:17:31 URL:http://www.wilmingtonma.gov/node/52/agenda [33475] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/52/agenda" [1]
+2017-01-02 07:17:32 URL:http://www.wilmingtonma.gov/conservation-commission/agenda/conservation-commission-2 [38267] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/conservation-commission/agenda/conservation-commission-2" [1]
+2017-01-02 07:17:33 URL:http://www.wilmingtonma.gov/conservation-commission/agenda/conservation-commission-1 [38266] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/conservation-commission/agenda/conservation-commission-1" [1]
+2017-01-02 07:17:35 URL:http://www.wilmingtonma.gov/conservation-commission/agenda/conservation-commission-0 [38266] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/conservation-commission/agenda/conservation-commission-0" [1]
+2017-01-02 07:17:36 URL:http://www.wilmingtonma.gov/conservation-commission/agenda/conservation-commission-1052016 [38302] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/conservation-commission/agenda/conservation-commission-1052016" [1]
+2017-01-02 07:17:37 URL:http://www.wilmingtonma.gov/conservation-commission/agenda/conservation-commission-972016 [38302] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/conservation-commission/agenda/conservation-commission-972016" [1]
+2017-01-02 07:17:38 URL:http://www.wilmingtonma.gov/node/52/minutes [33352] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/52/minutes" [1]
+2017-01-02 07:17:39 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/minutes_11-2-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:17:40 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/minutes_9-7-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:17:41 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/minutes_7-6-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:17:42 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/minutes_6-1-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:17:43 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/minutes_5-4-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:17:44 URL:http://www.wilmingtonma.gov/facility-master-plan [62065] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/3053" [1]
+2017-01-02 07:17:45 URL:http://www.wilmingtonma.gov/print/3053 [10963] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/3053" [1]
+2017-01-02 07:17:47 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/fmppresentation.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:17:48 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/public_survey_results.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:17:49 URL:http://www.wilmingtonma.gov/user/24/contact [36794] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/24/contact" [1]
+2017-01-02 07:17:51 URL:http://www.wilmingtonma.gov/node/3053/events/month [53397] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/3053/events/month" [1]
+2017-01-02 07:17:52 URL:http://www.wilmingtonma.gov/node/3053/events/month/2017-01 [53454] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/3053/events/month/2017-01" [1]
+2017-01-02 07:17:53 URL:http://www.wilmingtonma.gov/node/3053/agenda [33137] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/3053/agenda" [1]
+2017-01-02 07:17:54 URL:http://www.wilmingtonma.gov/facility-master-plan/agenda/facility-master-plan-committee-2 [38165] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/facility-master-plan/agenda/facility-master-plan-committee-2" [1]
+2017-01-02 07:17:56 URL:http://www.wilmingtonma.gov/facility-master-plan/agenda/facility-master-plan-committee-1 [38153] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/facility-master-plan/agenda/facility-master-plan-committee-1" [1]
+2017-01-02 07:17:57 URL:http://www.wilmingtonma.gov/facility-master-plan/agenda/facility-master-plan-committee-0 [38163] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/facility-master-plan/agenda/facility-master-plan-committee-0" [1]
+2017-01-02 07:17:58 URL:http://www.wilmingtonma.gov/facility-master-plan/agenda/facility-master-plan-committee [38220] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/facility-master-plan/agenda/facility-master-plan-committee" [1]
+2017-01-02 07:17:59 URL:http://www.wilmingtonma.gov/node/3053/minutes [33214] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/3053/minutes" [1]
+2017-01-02 07:18:00 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/2016_11_17_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:18:01 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/2016.10.20_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:18:02 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/2016.09.15_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:18:03 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/2016.07.21_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:18:04 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/2016.06.16_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:18:05 URL:http://www.wilmingtonma.gov/finance-committee [61082] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/53" [1]
+2017-01-02 07:18:06 URL:http://www.wilmingtonma.gov/print/53 [14630] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/53" [1]
+2017-01-02 07:18:07 URL:http://www.wilmingtonma.gov/accountants-office/pages/budgets-financial-statements [39813] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/finance-committee/links/budgets-financial-statements" [1]
+2017-01-02 07:18:09 URL:http://www.wilmingtonma.gov/node/53/events/month [52858] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/53/events/month" [1]
+2017-01-02 07:18:10 URL:http://www.wilmingtonma.gov/node/53/events/month/2017-01 [52915] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/53/events/month/2017-01" [1]
+2017-01-02 07:18:11 URL:http://www.wilmingtonma.gov/node/53/agenda [32760] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/53/agenda" [1]
+2017-01-02 07:18:12 URL:http://www.wilmingtonma.gov/finance-committee/agenda/finance-committee-982016 [37509] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/finance-committee/agenda/finance-committee-982016" [1]
+2017-01-02 07:18:14 URL:http://www.wilmingtonma.gov/finance-committee/agenda/finance-committee-agenda-11 [37205] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/finance-committee/agenda/finance-committee-agenda-11" [1]
+2017-01-02 07:18:15 URL:http://www.wilmingtonma.gov/finance-committee/agenda/finance-committee-agenda-appointing-committee-0 [37313] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/finance-committee/agenda/finance-committee-agenda-appointing-committee-0" [1]
+2017-01-02 07:18:16 URL:http://www.wilmingtonma.gov/finance-committee/agenda/finance-committee-agenda-appointing-committee [37309] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/finance-committee/agenda/finance-committee-agenda-appointing-committee" [1]
+2017-01-02 07:18:18 URL:http://www.wilmingtonma.gov/finance-committee/agenda/finance-committee-agenda-10 [37208] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/finance-committee/agenda/finance-committee-agenda-10" [1]
+2017-01-02 07:18:19 URL:http://www.wilmingtonma.gov/node/53/minutes [32770] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/53/minutes" [1]
+2017-01-02 07:18:20 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/finance_minutes_2-23.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:18:21 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/finance_minutes_2-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:18:21 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/finance_minutes_2-11_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:18:22 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/finance_minutes_2-9.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:18:23 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/finance_minutes_2-4.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:18:24 URL:http://www.wilmingtonma.gov/historical-commission [58981] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/55" [1]
+2017-01-02 07:18:25 URL:http://www.wilmingtonma.gov/print/55 [14231] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/55" [1]
+2017-01-02 07:18:27 URL:http://www.wilmingtonma.gov/user/26/contact [36772] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/26/contact" [1]
+2017-01-02 07:18:29 URL:http://www.wilmingtonma.gov/town-museum [41189] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/historical-commission/links/town-museum" [1]
+2017-01-02 07:18:30 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/whitefield_school_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:18:32 URL:http://www.wilmingtonma.gov/node/55/events/month [57630] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/55/events/month" [1]
+2017-01-02 07:18:33 URL:http://www.wilmingtonma.gov/node/55/events/day/2017-01-08 [36321] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/55/events/day/2017-01-08" [1]
+2017-01-02 07:18:34 URL:http://www.wilmingtonma.gov/node/55/events/month/2017-01 [57687] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/55/events/month/2017-01" [1]
+2017-01-02 07:18:35 URL:http://www.wilmingtonma.gov/node/55/agenda [32889] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/55/agenda" [1]
+2017-01-02 07:18:37 URL:http://www.wilmingtonma.gov/historical-commission/agenda/wilmington-historical-commission-0 [37802] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/historical-commission/agenda/wilmington-historical-commission-0" [1]
+2017-01-02 07:18:38 URL:http://www.wilmingtonma.gov/historical-commission/agenda/wilmington-historical-commission [37798] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/historical-commission/agenda/wilmington-historical-commission" [1]
+2017-01-02 07:18:39 URL:http://www.wilmingtonma.gov/historical-commission/agenda/wilmington-historical-commission-10112016 [37841] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/historical-commission/agenda/wilmington-historical-commission-10112016" [1]
+2017-01-02 07:18:41 URL:http://www.wilmingtonma.gov/historical-commission/agenda/historical-commission-9122016 [37781] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/historical-commission/agenda/historical-commission-9122016" [1]
+2017-01-02 07:18:42 URL:http://www.wilmingtonma.gov/historical-commission/agenda/historic-commission [37436] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/historical-commission/agenda/historic-commission" [1]
+2017-01-02 07:18:43 URL:http://www.wilmingtonma.gov/permanent-building-committee [39405] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/58" [1]
+2017-01-02 07:18:44 URL:http://www.wilmingtonma.gov/print/58 [10991] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/58" [1]
+2017-01-02 07:18:45 URL:http://www.wilmingtonma.gov/planning-board [60771] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/59" [1]
+2017-01-02 07:18:46 URL:http://www.wilmingtonma.gov/print/59 [13505] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/59" [1]
+2017-01-02 07:18:48 URL:http://www.wilmingtonma.gov/node/59/events/month [55864] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/59/events/month" [1]
+2017-01-02 07:18:49 URL:http://www.wilmingtonma.gov/node/59/events/day/2017-01-03 [35326] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/59/events/day/2017-01-03" [1]
+2017-01-02 07:18:51 URL:http://www.wilmingtonma.gov/node/59/events/month/2017-01 [55917] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/59/events/month/2017-01" [1]
+2017-01-02 07:18:52 URL:http://www.wilmingtonma.gov/node/59/agenda [32189] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/59/agenda" [1]
+2017-01-02 07:18:53 URL:http://www.wilmingtonma.gov/planning-board/agenda/planning-board-4 [37240] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/planning-board/agenda/planning-board-4" [1]
+2017-01-02 07:18:54 URL:http://www.wilmingtonma.gov/planning-board/agenda/planning-board-2 [37237] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/planning-board/agenda/planning-board-2" [1]
+2017-01-02 07:18:56 URL:http://www.wilmingtonma.gov/planning-board/agenda/planning-board-1 [37237] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/planning-board/agenda/planning-board-1" [1]
+2017-01-02 07:18:57 URL:http://www.wilmingtonma.gov/planning-board/agenda/planning-board-revised [37286] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/planning-board/agenda/planning-board-revised" [1]
+2017-01-02 07:18:59 URL:http://www.wilmingtonma.gov/planning-board/agenda/planning-board-962016 [37271] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/planning-board/agenda/planning-board-962016" [1]
+2017-01-02 07:19:00 URL:http://www.wilmingtonma.gov/node/59/minutes [32066] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/59/minutes" [1]
+2017-01-02 07:19:01 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/8.2.16pb.min_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:19:02 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/7.12.16pb.min_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:19:03 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/6.7.16pb.min__0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:19:04 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/5.3.16pb.min_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:19:05 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/4.5.16pb.min_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:19:06 URL:http://www.wilmingtonma.gov/water-sewer-division [67674] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/45" [1]
+2017-01-02 07:19:07 URL:http://www.wilmingtonma.gov/print/45 [11165] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/45" [1]
+2017-01-02 07:19:08 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/lead_bullets.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:19:09 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/lead_in_drinking_water_quick_facts.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:19:09 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/lead_in_drinking_water_faq.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:19:10 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/copper-drinking-water-faq.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:19:12 URL:http://www.wilmingtonma.gov/node/45/faq [36491] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/45/faq" [1]
+2017-01-02 07:19:13 URL:http://www.wilmingtonma.gov/water-sewer-division/faq/where-does-our-water-come [38926] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/water-sewer-division/faq/where-does-our-water-come" [1]
+2017-01-02 07:19:14 URL:http://www.wilmingtonma.gov/water-sewer-division/faq/who-do-i-contact-case-water-or-sewer-emergency [38870] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/water-sewer-division/faq/who-do-i-contact-case-water-or-sewer-emergency" [1]
+2017-01-02 07:19:15 URL:http://www.wilmingtonma.gov/water-sewer-division/faq/who-do-i-contact-if-i-am-purchasing-or-selling-house [38771] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/water-sewer-division/faq/who-do-i-contact-if-i-am-purchasing-or-selling-house" [1]
+2017-01-02 07:19:16 URL:http://www.wilmingtonma.gov/water-sewer-division/faq/who-do-i-contact-when-i-have-question-about-my-bill [38919] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/water-sewer-division/faq/who-do-i-contact-when-i-have-question-about-my-bill" [1]
+2017-01-02 07:19:18 URL:http://www.wilmingtonma.gov/water-sewer-division/faq/how-do-i-check-leaks-my-home [39278] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/water-sewer-division/faq/how-do-i-check-leaks-my-home" [1]
+2017-01-02 07:19:19 URL:http://www.wilmingtonma.gov/node/45/news [36035] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/45/news" [1]
+2017-01-02 07:19:20 URL:http://www.wilmingtonma.gov/water-sewer-division/news/department-public-health-lead-fact-sheet [38694] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/water-sewer-division/news/department-public-health-lead-fact-sheet" [1]
+2017-01-02 07:19:22 URL:http://www.wilmingtonma.gov/water-sewer-division/news/mwra-lead-brochure [39323] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/water-sewer-division/news/mwra-lead-brochure" [1]
+2017-01-02 07:19:23 URL:http://www.wilmingtonma.gov/water-sewer-division/news/hydrant-use-reminder-wilmington-customers-and-contractors [38845] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/water-sewer-division/news/hydrant-use-reminder-wilmington-customers-and-contractors" [1]
+2017-01-02 07:19:24 URL:http://www.wilmingtonma.gov/node/45/events/month [58063] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/45/events/month" [1]
+2017-01-02 07:19:25 URL:http://www.wilmingtonma.gov/node/45/events/day/2017-01-19 [37351] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/45/events/day/2017-01-19" [1]
+2017-01-02 07:19:27 URL:http://www.wilmingtonma.gov/node/45/events/month/2017-01 [58116] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/45/events/month/2017-01" [1]
+2017-01-02 07:19:28 URL:http://www.wilmingtonma.gov/node/45/agenda [34118] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/45/agenda" [1]
+2017-01-02 07:19:29 URL:http://www.wilmingtonma.gov/water-sewer-division/agenda/water-sewer-commission-1 [39506] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/water-sewer-division/agenda/water-sewer-commission-1" [1]
+2017-01-02 07:19:30 URL:http://www.wilmingtonma.gov/water-sewer-division/agenda/water-sewer-commission-0 [39507] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/water-sewer-division/agenda/water-sewer-commission-0" [1]
+2017-01-02 07:19:31 URL:http://www.wilmingtonma.gov/water-sewer-division/agenda/water-sewer-commission [39503] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/water-sewer-division/agenda/water-sewer-commission" [1]
+2017-01-02 07:19:33 URL:http://www.wilmingtonma.gov/water-sewer-division/agenda/water-sewer-commission-9222016 [39546] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/water-sewer-division/agenda/water-sewer-commission-9222016" [1]
+2017-01-02 07:19:34 URL:http://www.wilmingtonma.gov/water-sewer-division/agenda/water-sewer-commission-8182016 [39537] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/water-sewer-division/agenda/water-sewer-commission-8182016" [1]
+2017-01-02 07:19:35 URL:http://www.wilmingtonma.gov/node/45/minutes [34128] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/45/minutes" [1]
+2017-01-02 07:19:36 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/2016-09-22_minutes_df.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:19:37 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/2016-07-21_minutes_df.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:19:38 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/2016-06-23_minutes_df.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:19:39 URL:http://www.wilmingtonma.gov/water-sewer-division/minutes/water-sewer-commission [38555] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/water-sewer-division/minutes/water-sewer-commission" [1]
+2017-01-02 07:19:40 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/minutes/2016-04-21_meeting_cancelled.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:19:41 URL:http://www.wilmingtonma.gov/home/pages/help-center [53014] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/4969" [1]
+2017-01-02 07:19:42 URL:http://www.wilmingtonma.gov/print/4969 [24634] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/4969" [1]
+2017-01-02 07:19:43 URL:http://www.wilmingtonma.gov/home/pages/housing-other-assistance [34695] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/8863" [1]
+2017-01-02 07:19:44 URL:http://www.wilmingtonma.gov/print/8863 [6323] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/8863" [1]
+2017-01-02 07:19:45 URL:http://www.wilmingtonma.gov/town-manager-selectmen/pages/employment-opportunities [40346] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/700" [1]
+2017-01-02 07:19:46 URL:http://www.wilmingtonma.gov/print/700 [7639] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/700" [1]
+2017-01-02 07:19:48 URL:http://www.wilmingtonma.gov/user/63/contact [36740] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/user/63/contact" [1]
+2017-01-02 07:19:49 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/application_for_employment.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:19:50 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/application_for_appointment.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:19:51 URL:http://www.wilmingtonma.gov/cemetery-division/faq/who-can-purchase-cemetery-lot [37737] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/cemetery-division/faq/who-can-purchase-cemetery-lot" [1]
+2017-01-02 07:19:53 URL:http://www.wilmingtonma.gov/cemetery-division/faq/why-can%E2%80%99t-i-pre-buy-cemetery-lot [37832] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/cemetery-division/faq/why-canâ%80%99t-i-pre-buy-cemetery-lot" [1]
+2017-01-02 07:19:54 URL:http://www.wilmingtonma.gov/cemetery-division/faq/how-much-does-cemetery-lot-cost [37634] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/cemetery-division/faq/how-much-does-cemetery-lot-cost" [1]
+2017-01-02 07:19:56 URL:http://www.wilmingtonma.gov/cemetery-division/faq/can-i-sell-my-unused-lot [37622] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/cemetery-division/faq/can-i-sell-my-unused-lot" [1]
+2017-01-02 07:19:57 URL:http://www.wilmingtonma.gov/cemetery-division/faq/how-do-i-transfer-ownership-my-lot [37895] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/cemetery-division/faq/how-do-i-transfer-ownership-my-lot" [1]
+2017-01-02 07:19:58 URL:http://www.wilmingtonma.gov/node/858/faq [35641] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/858/faq" [1]
+2017-01-02 07:19:59 URL:http://www.wilmingtonma.gov/home/pages/online-services [35334] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/61" [1]
+2017-01-02 07:20:00 URL:http://www.wilmingtonma.gov/print/61 [6932] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/61" [1]
+2017-01-02 07:20:01 URL:http://www.wilmingtonma.gov/home/news/board-selectmen-issue-letter-relative-new-england-transrail [34911] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/22403" [1]
+2017-01-02 07:20:02 URL:http://www.wilmingtonma.gov/print/22403 [6837] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/22403" [1]
+2017-01-02 07:20:02 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/news/letter_to_congressional_delegation_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:20:04 URL:http://www.wilmingtonma.gov/home/news/wilmington-fire-department-and-wilmington-department-elderly-services-are-selected [37044] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/18613" [1]
+2017-01-02 07:20:05 URL:http://www.wilmingtonma.gov/print/18613 [8835] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/18613" [1]
+2017-01-02 07:20:06 URL:http://www.wilmingtonma.gov/home/news/drought-warning-water-restriction-reminder [35914] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/17243" [1]
+2017-01-02 07:20:07 URL:http://www.wilmingtonma.gov/print/17243 [7487] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/17243" [1]
+2017-01-02 07:20:08 URL: http://www.wilmingtonma.gov/node/1/news/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:20:09 URL:http://www.wilmingtonma.gov/home/news/town-seeking-interested-individuals-serve-commission-disabilities [35792] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/home/news/town-seeking-interested-individuals-serve-commission-disabilities" [1]
+2017-01-02 07:20:10 URL:http://www.wilmingtonma.gov/home/news/town-trails-now-gis-map [36659] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/home/news/town-trails-now-gis-map" [1]
+2017-01-02 07:20:13 URL:http://www.wilmingtonma.gov/calendar [166633] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar.1" [1]
+2017-01-02 07:20:14 URL:http://www.wilmingtonma.gov/calendar/day [39695] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day.1" [1]
+2017-01-02 07:20:16 URL:http://www.wilmingtonma.gov/calendar/week [43716] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/week" [1]
+2017-01-02 07:20:19 URL:http://www.wilmingtonma.gov/calendar/year [197991] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/year" [1]
+2017-01-02 07:20:21 URL:http://www.wilmingtonma.gov/calendar/upcoming [51323] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/upcoming" [1]
+2017-01-02 07:20:22 URL:http://www.wilmingtonma.gov/calendar/day/2017-01-01 [39349] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day/2017-01-01" [1]
+2017-01-02 07:20:23 URL:http://www.wilmingtonma.gov/town-manager-selectmen/events/23243 [39306] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/23243" [1]
+2017-01-02 07:20:24 URL:http://www.wilmingtonma.gov/print/23243 [6842] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/23243" [1]
+2017-01-02 07:20:25 URL:http://www.wilmingtonma.gov/public-works/events/23353 [41765] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/23353" [1]
+2017-01-02 07:20:26 URL:http://www.wilmingtonma.gov/print/23353 [6162] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/23353" [1]
+2017-01-02 07:20:27 URL:http://www.wilmingtonma.gov/health-department/events/22923 [41489] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/22923" [1]
+2017-01-02 07:20:28 URL:http://www.wilmingtonma.gov/print/22923 [9749] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/22923" [1]
+2017-01-02 07:20:29 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/agendas/agenda.boh_.01.03.2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:20:30 URL:http://www.wilmingtonma.gov/planning-board/events/23743 [39848] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/23743" [1]
+2017-01-02 07:20:31 URL:http://www.wilmingtonma.gov/print/23743 [9736] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/23743" [1]
+2017-01-02 07:20:31 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/agendas/agenda.planning.01.03.2017_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:20:32 URL:http://www.wilmingtonma.gov/public-works/events/23253 [41767] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/23253" [1]
+2017-01-02 07:20:33 URL:http://www.wilmingtonma.gov/print/23253 [6164] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/23253" [1]
+2017-01-02 07:20:34 URL:http://www.wilmingtonma.gov/conservation-commission/events/21933 [40913] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/21933" [1]
+2017-01-02 07:20:35 URL:http://www.wilmingtonma.gov/print/21933 [9877] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/21933" [1]
+2017-01-02 07:20:35 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/agendas/agenda.concom.01.04.2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:20:36 URL:http://www.wilmingtonma.gov/public-works/events/23263 [41766] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/23263" [1]
+2017-01-02 07:20:37 URL:http://www.wilmingtonma.gov/print/23263 [6163] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/23263" [1]
+2017-01-02 07:20:38 URL:http://www.wilmingtonma.gov/board-assessors/events/24183 [40024] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/24183" [1]
+2017-01-02 07:20:39 URL:http://www.wilmingtonma.gov/print/24183 [9789] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/24183" [1]
+2017-01-02 07:20:39 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/agendas/agenda.assessors.01.05.2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:20:40 URL:http://www.wilmingtonma.gov/recreation/events/22163 [42251] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/22163" [1]
+2017-01-02 07:20:41 URL:http://www.wilmingtonma.gov/print/22163 [9776] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/22163" [1]
+2017-01-02 07:20:41 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/agendas/agenda.recreation.01.05.2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:20:42 URL:http://www.wilmingtonma.gov/cable-tv-advisory-task-force/events/24203 [38245] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/24203" [1]
+2017-01-02 07:20:43 URL:http://www.wilmingtonma.gov/print/24203 [9983] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/24203" [1]
+2017-01-02 07:20:43 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/agendas/agenda.cable_.tv_.01.05.2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:20:44 URL:http://www.wilmingtonma.gov/public-works/events/23273 [41764] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/23273" [1]
+2017-01-02 07:20:45 URL:http://www.wilmingtonma.gov/print/23273 [6161] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/23273" [1]
+2017-01-02 07:20:47 URL:http://www.wilmingtonma.gov/public-works/events/23283 [41766] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/23283" [1]
+2017-01-02 07:20:48 URL:http://www.wilmingtonma.gov/print/23283 [6163] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/23283" [1]
+2017-01-02 07:20:48 URL:http://www.wilmingtonma.gov/historical-commission/events/23363 [37742] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/23363" [1]
+2017-01-02 07:20:49 URL:http://www.wilmingtonma.gov/print/23363 [7077] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/23363" [1]
+2017-01-02 07:20:50 URL:http://www.wilmingtonma.gov/public-works/events/23303 [41764] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/23303" [1]
+2017-01-02 07:20:51 URL:http://www.wilmingtonma.gov/print/23303 [6161] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/23303" [1]
+2017-01-02 07:20:52 URL:http://www.wilmingtonma.gov/town-manager-selectmen/events/24063 [39382] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/24063" [1]
+2017-01-02 07:20:54 URL:http://www.wilmingtonma.gov/print/24063 [6916] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/24063" [1]
+2017-01-02 07:20:54 URL:http://www.wilmingtonma.gov/public-works/events/23313 [41766] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/23313" [1]
+2017-01-02 07:20:55 URL:http://www.wilmingtonma.gov/print/23313 [6163] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/23313" [1]
+2017-01-02 07:20:56 URL:http://www.wilmingtonma.gov/public-works/events/23323 [41768] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/23323" [1]
+2017-01-02 07:20:57 URL:http://www.wilmingtonma.gov/print/23323 [6165] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/23323" [1]
+2017-01-02 07:20:59 URL:http://www.wilmingtonma.gov/board-appeals/events/22063 [38444] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/22063" [1]
+2017-01-02 07:21:00 URL:http://www.wilmingtonma.gov/print/22063 [7052] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/22063" [1]
+2017-01-02 07:21:01 URL:http://www.wilmingtonma.gov/public-works/events/23333 [41767] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/23333" [1]
+2017-01-02 07:21:02 URL:http://www.wilmingtonma.gov/print/23333 [6164] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/23333" [1]
+2017-01-02 07:21:03 URL:http://www.wilmingtonma.gov/calendar/day/2017-01-14 [39352] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day/2017-01-14" [1]
+2017-01-02 07:21:04 URL:http://www.wilmingtonma.gov/public-works/events/23343 [41765] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/23343" [1]
+2017-01-02 07:21:05 URL:http://www.wilmingtonma.gov/print/23343 [6162] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/23343" [1]
+2017-01-02 07:21:06 URL:http://www.wilmingtonma.gov/calendar/day/2017-01-16 [39350] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day/2017-01-16" [1]
+2017-01-02 07:21:07 URL:http://www.wilmingtonma.gov/calendar/day/2017-01-18 [39353] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day/2017-01-18" [1]
+2017-01-02 07:21:08 URL:http://www.wilmingtonma.gov/health-department/events/23153 [38765] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/23153" [1]
+2017-01-02 07:21:09 URL:http://www.wilmingtonma.gov/print/23153 [6886] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/23153" [1]
+2017-01-02 07:21:10 URL:http://www.wilmingtonma.gov/board-appeals/events/23473 [38354] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/23473" [1]
+2017-01-02 07:21:11 URL:http://www.wilmingtonma.gov/print/23473 [6874] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/23473" [1]
+2017-01-02 07:21:12 URL:http://www.wilmingtonma.gov/board-library-trustees/events/22283 [35385] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/22283" [1]
+2017-01-02 07:21:13 URL:http://www.wilmingtonma.gov/print/22283 [6982] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/22283" [1]
+2017-01-02 07:21:15 URL:http://www.wilmingtonma.gov/calendar/day/2017-01-20 [39350] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day/2017-01-20" [1]
+2017-01-02 07:21:16 URL:http://www.wilmingtonma.gov/elderly-services/events/23423 [38125] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/23423" [1]
+2017-01-02 07:21:16 URL:http://www.wilmingtonma.gov/print/23423 [6870] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/23423" [1]
+2017-01-02 07:21:17 URL:http://www.wilmingtonma.gov/water-sewer-division/events/23633 [39350] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/23633" [1]
+2017-01-02 07:21:18 URL:http://www.wilmingtonma.gov/print/23633 [6951] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/23633" [1]
+2017-01-02 07:21:19 URL:http://www.wilmingtonma.gov/calendar/day/2017-01-22 [39350] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day/2017-01-22" [1]
+2017-01-02 07:21:21 URL:http://www.wilmingtonma.gov/community-development/events/23883 [35379] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/23883" [1]
+2017-01-02 07:21:22 URL:http://www.wilmingtonma.gov/print/23883 [7013] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/23883" [1]
+2017-01-02 07:21:23 URL:http://www.wilmingtonma.gov/community-development [48712] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/community-development.1" [1]
+2017-01-02 07:21:24 URL:http://www.wilmingtonma.gov/town-manager-selectmen/events/24153 [39383] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/24153" [1]
+2017-01-02 07:21:25 URL:http://www.wilmingtonma.gov/print/24153 [6917] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/24153" [1]
+2017-01-02 07:21:26 URL:http://www.wilmingtonma.gov/calendar/day/2017-01-25 [39353] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day/2017-01-25" [1]
+2017-01-02 07:21:27 URL:http://www.wilmingtonma.gov/shawsheen-valley-technical-high-school/events/22383 [37227] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/22383" [1]
+2017-01-02 07:21:28 URL:http://www.wilmingtonma.gov/print/22383 [7197] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/22383" [1]
+2017-01-02 07:21:30 URL:http://www.wilmingtonma.gov/shawsheen-valley-technical-high-school [51075] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/shawsheen-valley-technical-high-school.1" [1]
+2017-01-02 07:21:31 URL:http://www.wilmingtonma.gov/calendar/day/2017-01-29 [39350] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day/2017-01-29" [1]
+2017-01-02 07:21:32 URL:http://www.wilmingtonma.gov/town-manager-selectmen/events/24163 [39383] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/24163" [1]
+2017-01-02 07:21:33 URL:http://www.wilmingtonma.gov/print/24163 [6917] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/24163" [1]
+2017-01-02 07:21:34 URL:http://www.wilmingtonma.gov/calendar/day/2017-02-01 [39771] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/day/2017-02-01" [1]
+2017-01-02 07:21:36 URL:http://www.wilmingtonma.gov/shawsheen-valley-technical-high-school/events/23463 [37167] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/23463" [1]
+2017-01-02 07:21:37 URL:http://www.wilmingtonma.gov/print/23463 [7077] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/23463" [1]
+2017-01-02 07:21:37 URL: http://www.wilmingtonma.gov/calendar/feed/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 07:21:39 URL:http://www.wilmingtonma.gov/calendar/month/2016-12 [186753] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/month/2016-12" [1]
+2017-01-02 07:21:41 URL:http://www.wilmingtonma.gov/calendar/month/2017-02 [100839] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/calendar/month/2017-02" [1]
+2017-01-02 07:21:42 URL: http://www.wilmingtonma.gov/node/29/events/feed/rss.xml/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 07:21:43 URL:http://www.wilmingtonma.gov/node/29/events/week [41776] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/week" [1]
+2017-01-02 07:21:44 URL:http://www.wilmingtonma.gov/node/29/events/day [36739] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/day.1" [1]
+2017-01-02 07:21:52 URL:http://www.wilmingtonma.gov/node/29/events/year [401427] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/year" [1]
+2017-01-02 07:21:53 URL:http://www.wilmingtonma.gov/node/29/events/upcoming [44585] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/upcoming" [1]
+2017-01-02 07:21:56 URL:http://www.wilmingtonma.gov/node/29/events/month/2016-12 [349389] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/month/2016-12" [1]
+2017-01-02 07:21:58 URL:http://www.wilmingtonma.gov/node/29/events/month/2017-02 [290414] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/29/events/month/2017-02" [1]
+2017-01-02 07:21:59 URL:http://www.wilmingtonma.gov/home/slideshows/dog-park-unleashed-6152016 [37494] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/5000" [1]
+2017-01-02 07:22:00 URL:http://www.wilmingtonma.gov/print/5000 [9603] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/5000" [1]
+2017-01-02 07:22:02 URL:http://www.wilmingtonma.gov/welcome-wilmington [40228] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/22" [1]
+2017-01-02 07:22:02 URL:http://www.wilmingtonma.gov/print/22 [10060] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/22" [1]
+2017-01-02 07:22:03 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/zoning_bylaw.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:22:04 URL:http://www.wilmingtonma.gov/welcome-wilmington/pages/general-information [38078] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/welcome-wilmington/pages/general-information" [1]
+2017-01-02 07:22:05 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/eft.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:22:06 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/ap-pumper.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:22:07 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/pension.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:22:08 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/direct_deposite.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:22:09 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/vets1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:22:10 URL:http://www.wilmingtonma.gov/node/47/agenda [32175] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/47/agenda" [1]
+2017-01-02 07:22:11 URL:http://www.wilmingtonma.gov/node/11833/agenda [32101] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/11833/agenda" [1]
+2017-01-02 07:22:12 URL:http://www.wilmingtonma.gov/node/12023/agenda [32185] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/12023/agenda" [1]
+2017-01-02 07:22:13 URL:http://www.wilmingtonma.gov/node/54/agenda [32203] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/54/agenda" [1]
+2017-01-02 07:22:14 URL:http://www.wilmingtonma.gov/node/16983/agenda [32170] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/16983/agenda" [1]
+2017-01-02 07:22:16 URL:http://www.wilmingtonma.gov/node/66/agenda [32958] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/66/agenda" [1]
+2017-01-02 07:22:17 URL:http://www.wilmingtonma.gov/node/13383/agenda [32132] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/13383/agenda" [1]
+2017-01-02 07:22:18 URL:http://www.wilmingtonma.gov/node/12973/agenda [32146] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/12973/agenda" [1]
+2017-01-02 07:22:19 URL:http://www.wilmingtonma.gov/node/70/agenda [32061] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/70/agenda" [1]
+2017-01-02 07:22:20 URL:http://www.wilmingtonma.gov/node/12493/agenda [32112] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/12493/agenda" [1]
+2017-01-02 07:22:21 URL:http://www.wilmingtonma.gov/home/pages/online-payments [35087] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/62" [1]
+2017-01-02 07:22:22 URL:http://www.wilmingtonma.gov/print/62 [6724] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/62" [1]
+2017-01-02 07:22:23 URL:http://www.wilmingtonma.gov/home/pages/maps-gis [35405] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/4968" [1]
+2017-01-02 07:22:24 URL:http://www.wilmingtonma.gov/print/4968 [6944] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/4968" [1]
+2017-01-02 07:22:25 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/cemetery_map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:22:26 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/zoning_map_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:22:27 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/wilmington_street_map.jpg 200 OK
+unlink: No such file or directory
+2017-01-02 07:22:28 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/map.jpg 200 OK
+unlink: No such file or directory
+2017-01-02 07:22:30 URL:http://www.wilmingtonma.gov/engineering-division/pages/wilmingtons-usgs-quad-maps [37553] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/engineering-division/pages/wilmingtons-usgs-quad-maps" [1]
+2017-01-02 07:22:31 URL: http://www.wilmingtonma.gov/sites/wilmingtonma/files/uploads/vegetation_map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:22:32 URL:http://www.wilmingtonma.gov/home/pages/website-disclaimer-privacy-policy [38363] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/node/21" [1]
+2017-01-02 07:22:33 URL:http://www.wilmingtonma.gov/print/21 [9896] -> "../data/townSites2/Wilmington/www.wilmingtonma.gov/print/21" [1]
+Found 2 broken links.
+
+http://wpsk12.com/
+http://www.mass.gov/eopss/consumer-prot-and-bus-lic/license-type/csl/construction-control.html
+
+FINISHED --2017-01-02 07:22:33--
+Total wall clock time: 22m 2s
+Downloaded: 828 files, 32M in 49s (681 KB/s)

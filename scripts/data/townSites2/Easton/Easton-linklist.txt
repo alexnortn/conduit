@@ -1,0 +1,922 @@
+2017-01-01 22:04:23 URL:http://www.easton.ma.us/ [62299/62299] -> "../data/townSites2/Easton/www.easton.ma.us/index.html" [1]
+2017-01-01 22:04:23 URL: http://www.easton.ma.us/ico/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-01 22:04:24 URL:http://www.easton.ma.us/easton_residents/about_easton/contact_us.php [58691/58691] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/about_easton/contact_us.php" [1]
+2017-01-01 22:04:25 URL:http://www.easton.ma.us/easton_residents/index.php [53365/53365] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/index.php" [1]
+2017-01-01 22:04:26 URL:http://www.easton.ma.us/easton_residents/services.php [49969/49969] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/services.php" [1]
+2017-01-01 22:04:27 URL:http://www.easton.ma.us/easton_residents/trash_pickup_and_recycling/index.php [54231/54231] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/trash_pickup_and_recycling/index.php" [1]
+2017-01-01 22:04:28 URL:http://www.easton.ma.us/departments/recreation_department/recreation_programs.php [53895/53895] -> "../data/townSites2/Easton/www.easton.ma.us/departments/recreation_department/recreation_programs.php" [1]
+2017-01-01 22:04:29 URL:http://www.easton.ma.us/departments/veterans_service/index.php [52380/52380] -> "../data/townSites2/Easton/www.easton.ma.us/departments/veterans_service/index.php" [1]
+2017-01-01 22:04:30 URL:http://www.easton.ma.us/departments/council_on_aging/programs.php [53235/53235] -> "../data/townSites2/Easton/www.easton.ma.us/departments/council_on_aging/programs.php" [1]
+2017-01-01 22:04:31 URL:http://www.easton.ma.us/departments/council_on_aging/transportation.php [52335/52335] -> "../data/townSites2/Easton/www.easton.ma.us/departments/council_on_aging/transportation.php" [1]
+2017-01-01 22:04:33 URL:http://www.easton.ma.us/pay_your_bills_online.php [51337/51337] -> "../data/townSites2/Easton/www.easton.ma.us/pay_your_bills_online.php" [1]
+2017-01-01 22:04:34 URL:http://www.easton.ma.us/easton_residents/commonwealth_connect/index.php [50581/50581] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/commonwealth_connect/index.php" [1]
+2017-01-01 22:04:35 URL:http://www.easton.ma.us/departments/dpw/maps/index.php [56358/56358] -> "../data/townSites2/Easton/www.easton.ma.us/departments/dpw/maps/index.php" [1]
+2017-01-01 22:04:36 URL:http://www.easton.ma.us/departments/dpw/permits.php [60377/60377] -> "../data/townSites2/Easton/www.easton.ma.us/departments/dpw/permits.php" [1]
+2017-01-01 22:04:36 URL:http://www.easton.ma.us/easton_residents/about_easton/index.php [61112/61112] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/about_easton/index.php" [1]
+2017-01-01 22:04:38 URL:http://www.easton.ma.us/departments/town_clerk1/election_information.php [70207/70207] -> "../data/townSites2/Easton/www.easton.ma.us/departments/town_clerk1/election_information.php" [1]
+2017-01-01 22:04:38 URL:http://www.easton.ma.us/easton_residents/senators_and_representatives/index.php [51162/51162] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/senators_and_representatives/index.php" [1]
+2017-01-01 22:04:39 URL:http://www.easton.ma.us/departments/town_clerk1/town_meeting_information.php [63363/63363] -> "../data/townSites2/Easton/www.easton.ma.us/departments/town_clerk1/town_meeting_information.php" [1]
+2017-01-01 22:04:40 URL:http://www.easton.ma.us/departments/planning_and_community_development/projects.php [53511/53511] -> "../data/townSites2/Easton/www.easton.ma.us/departments/planning_and_community_development/projects.php" [1]
+2017-01-01 22:04:42 URL:http://www.easton.ma.us/sewer/ [65355/65355] -> "../data/townSites2/Easton/www.easton.ma.us/sewer" [1]
+2017-01-01 22:04:43 URL:http://www.easton.ma.us/departments/planning_and_community_development/aggregation.php [54328/54328] -> "../data/townSites2/Easton/www.easton.ma.us/departments/planning_and_community_development/aggregation.php" [1]
+2017-01-01 22:04:44 URL:http://www.easton.ma.us/departments/planning_and_community_development/click_here2.php [62030/62030] -> "../data/townSites2/Easton/www.easton.ma.us/departments/planning_and_community_development/click_here2.php" [1]
+2017-01-01 22:04:45 URL:http://www.easton.ma.us/departments/planning_and_community_development/north_easton_revitalization.php [53298/53298] -> "../data/townSites2/Easton/www.easton.ma.us/departments/planning_and_community_development/north_easton_revitalization.php" [1]
+2017-01-01 22:04:46 URL:http://www.easton.ma.us/departments/planning_and_community_development/south_coast_rail.php [53753/53753] -> "../data/townSites2/Easton/www.easton.ma.us/departments/planning_and_community_development/south_coast_rail.php" [1]
+2017-01-01 22:04:47 URL:http://www.easton.ma.us/departments/planning_and_community_development/queset_commercial_district.php [55037/55037] -> "../data/townSites2/Easton/www.easton.ma.us/departments/planning_and_community_development/queset_commercial_district.php" [1]
+2017-01-01 22:04:48 URL:http://www.easton.ma.us/departments/planning_and_community_development/envision_easton.php [55427/55427] -> "../data/townSites2/Easton/www.easton.ma.us/departments/planning_and_community_development/envision_easton.php" [1]
+2017-01-01 22:04:49 URL:http://www.easton.ma.us/departments/planning_and_community_development/click_here.php [54428/54428] -> "../data/townSites2/Easton/www.easton.ma.us/departments/planning_and_community_development/click_here.php" [1]
+2017-01-01 22:04:50 URL:http://www.easton.ma.us/easton_residents/financial_assistance/index.php [56591/56591] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/financial_assistance/index.php" [1]
+2017-01-01 22:04:50 URL:http://www.easton.ma.us/easton_residents/financial_assistance/housing_resources.php [83876/83876] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/financial_assistance/housing_resources.php" [1]
+2017-01-01 22:04:51 URL: http://www.easton.ma.us/easton_residents/financial_assistance/docs/3Housing_Assistance_Brochure.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:04:51 URL: http://www.easton.ma.us/Microsoft_Word___Easton_Vet_TriFold.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:04:52 URL:http://www.easton.ma.us/easton_residents/town_government_information.php [52441/52441] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/town_government_information.php" [1]
+2017-01-01 22:04:53 URL:http://www.easton.ma.us/easton_residents/town_code_and_charter/index.php [49771/49771] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/town_code_and_charter/index.php" [1]
+2017-01-01 22:04:54 URL:http://www.easton.ma.us/easton_residents/financial_information/fy_2017_budget.php [77685/77685] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/financial_information/fy_2017_budget.php" [1]
+2017-01-01 22:04:55 URL:http://www.easton.ma.us/easton_residents/financial_information/index.php [73041/73041] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/financial_information/index.php" [1]
+2017-01-01 22:04:56 URL:http://www.easton.ma.us/easton_residents/employment_volunteer_opportunities/index.php [57012/57012] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/employment_volunteer_opportunities/index.php" [1]
+2017-01-01 22:04:57 URL:http://www.easton.ma.us/easton_residents/about_easton/hours.php [53229/53229] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/about_easton/hours.php" [1]
+2017-01-01 22:04:58 URL:http://www.easton.ma.us/calendar_app/ [86180/86180] -> "../data/townSites2/Easton/www.easton.ma.us/calendar_app/index.html" [1]
+2017-01-01 22:04:59 URL:http://www.easton.ma.us/newslist.php [504905/504905] -> "../data/townSites2/Easton/www.easton.ma.us/newslist.php" [1]
+2017-01-01 22:05:00 URL:http://www.easton.ma.us/easton_residents/employment_opportunities.php [56734/56734] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/employment_opportunities.php" [1]
+2017-01-01 22:05:01 URL:http://www.easton.ma.us/visitors/biking_and_walking_routes/index.php [52627/52627] -> "../data/townSites2/Easton/www.easton.ma.us/visitors/biking_and_walking_routes/index.php" [1]
+2017-01-01 22:05:02 URL:http://www.easton.ma.us/boards_and_committees/agricultural_commission/click_here.php [57713/57713] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/agricultural_commission/click_here.php" [1]
+2017-01-01 22:05:03 URL:http://www.easton.ma.us/businesses/index.php [48869/48869] -> "../data/townSites2/Easton/www.easton.ma.us/businesses/index.php" [1]
+2017-01-01 22:05:04 URL:http://www.easton.ma.us/businesses/doing_business_in_easton/index.php [54011/54011] -> "../data/townSites2/Easton/www.easton.ma.us/businesses/doing_business_in_easton/index.php" [1]
+2017-01-01 22:05:04 URL:http://www.easton.ma.us/businesses/requests_for_proposals_quotes_bids/index.php [50113/50113] -> "../data/townSites2/Easton/www.easton.ma.us/businesses/requests_for_proposals_quotes_bids/index.php" [1]
+2017-01-01 22:05:05 URL:http://www.easton.ma.us/licenses_and_permits.php [53366/53366] -> "../data/townSites2/Easton/www.easton.ma.us/licenses_and_permits.php" [1]
+2017-01-01 22:05:05 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_fire_department/burn_permit.php [54872/54872] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_fire_department/burn_permit.php" [1]
+2017-01-01 22:05:07 URL:http://www.easton.ma.us/departments/town_clerk1/business_certificate.php [61273/61273] -> "../data/townSites2/Easton/www.easton.ma.us/departments/town_clerk1/business_certificate.php" [1]
+2017-01-01 22:05:07 URL:http://www.easton.ma.us/visitors/index.php [49420/49420] -> "../data/townSites2/Easton/www.easton.ma.us/visitors/index.php" [1]
+2017-01-01 22:05:09 URL:http://www.easton.ma.us/boards_and_committees/cultural_council/easton_shovel_town_cultural_district.php [66898/66898] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/cultural_council/easton_shovel_town_cultural_district.php" [1]
+2017-01-01 22:05:10 URL:http://www.easton.ma.us/visitors/drinking_and_dining/index.php [50644/50644] -> "../data/townSites2/Easton/www.easton.ma.us/visitors/drinking_and_dining/index.php" [1]
+2017-01-01 22:05:11 URL:http://www.easton.ma.us/visitors/community_events/index.php [49322/49322] -> "../data/townSites2/Easton/www.easton.ma.us/visitors/community_events/index.php" [1]
+2017-01-01 22:05:11 URL:http://www.easton.ma.us/visitors/inns_and_accomadations/index.php [50341/50341] -> "../data/townSites2/Easton/www.easton.ma.us/visitors/inns_and_accomadations/index.php" [1]
+2017-01-01 22:05:12 URL:http://www.easton.ma.us/departments/conservation_commission/conservation_land.php [58282/58282] -> "../data/townSites2/Easton/www.easton.ma.us/departments/conservation_commission/conservation_land.php" [1]
+2017-01-01 22:05:13 URL:http://www.easton.ma.us/departments/index.php [49403/49403] -> "../data/townSites2/Easton/www.easton.ma.us/departments/index.php" [1]
+2017-01-01 22:05:14 URL:http://www.easton.ma.us/departments/a-p.php [48621/48621] -> "../data/townSites2/Easton/www.easton.ma.us/departments/a-p.php" [1]
+2017-01-01 22:05:15 URL:http://www.easton.ma.us/departments/assessors/index.php [58044/58044] -> "../data/townSites2/Easton/www.easton.ma.us/departments/assessors/index.php" [1]
+2017-01-01 22:05:16 URL:http://www.easton.ma.us/departments/building_inspector/index.php [55802/55802] -> "../data/townSites2/Easton/www.easton.ma.us/departments/building_inspector/index.php" [1]
+2017-01-01 22:05:17 URL:http://www.easton.ma.us/departments/data_processing/index.php [50295/50295] -> "../data/townSites2/Easton/www.easton.ma.us/departments/data_processing/index.php" [1]
+2017-01-01 22:05:18 URL:http://www.easton.ma.us/departments/planning_and_community_development/index.php [58000/58000] -> "../data/townSites2/Easton/www.easton.ma.us/departments/planning_and_community_development/index.php" [1]
+2017-01-01 22:05:19 URL:http://www.easton.ma.us/departments/dpw/index.php [58836/58836] -> "../data/townSites2/Easton/www.easton.ma.us/departments/dpw/index.php" [1]
+2017-01-01 22:05:19 URL:http://www.easton.ma.us/departments/r-w.php [48621/48621] -> "../data/townSites2/Easton/www.easton.ma.us/departments/r-w.php" [1]
+2017-01-01 22:05:20 URL:http://www.easton.ma.us/departments/town_accountant/index.php [51384/51384] -> "../data/townSites2/Easton/www.easton.ma.us/departments/town_accountant/index.php" [1]
+2017-01-01 22:05:21 URL:http://www.easton.ma.us/departments/town_administrator/index.php [61593/61593] -> "../data/townSites2/Easton/www.easton.ma.us/departments/town_administrator/index.php" [1]
+2017-01-01 22:05:22 URL:http://www.easton.ma.us/departments/town_clerk1/index.php [60727/60727] -> "../data/townSites2/Easton/www.easton.ma.us/departments/town_clerk1/index.php" [1]
+2017-01-01 22:05:23 URL:http://www.easton.ma.us/departments/treasurer_collector_s_office/index.php [55948/55948] -> "../data/townSites2/Easton/www.easton.ma.us/departments/treasurer_collector_s_office/index.php" [1]
+2017-01-01 22:05:24 URL:http://www.easton.ma.us/departments/dpw/water_division/index.php [54166/54166] -> "../data/townSites2/Easton/www.easton.ma.us/departments/dpw/water_division/index.php" [1]
+2017-01-01 22:05:24 URL:http://www.easton.ma.us/departments/health_and_community_services/index.php [52570/52570] -> "../data/townSites2/Easton/www.easton.ma.us/departments/health_and_community_services/index.php" [1]
+2017-01-01 22:05:25 URL:http://www.easton.ma.us/departments/board_of_health/index.php [60662/60662] -> "../data/townSites2/Easton/www.easton.ma.us/departments/board_of_health/index.php" [1]
+2017-01-01 22:05:26 URL:http://www.easton.ma.us/departments/council_on_aging/index.php [57221/57221] -> "../data/townSites2/Easton/www.easton.ma.us/departments/council_on_aging/index.php" [1]
+2017-01-01 22:05:27 URL:http://www.easton.ma.us/departments/recreation_department/index.php [55777/55777] -> "../data/townSites2/Easton/www.easton.ma.us/departments/recreation_department/index.php" [1]
+2017-01-01 22:05:28 URL:http://www.easton.ma.us/departments/public_safety/index.php [49346/49346] -> "../data/townSites2/Easton/www.easton.ma.us/departments/public_safety/index.php" [1]
+2017-01-01 22:05:29 URL:http://www.easton.ma.us/departments/public_safety/animal_control/index.php [51463/51463] -> "../data/townSites2/Easton/www.easton.ma.us/departments/public_safety/animal_control/index.php" [1]
+2017-01-01 22:05:30 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_fire_department/index.php [53212/53212] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_fire_department/index.php" [1]
+2017-01-01 22:05:31 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/index.php [65839/65839] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/index.php" [1]
+2017-01-01 22:05:32 URL:http://www.easton.ma.us/easton_residents/emergency_information/index.php [61598/61598] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/index.php" [1]
+2017-01-01 22:05:33 URL:http://www.easton.ma.us/boards_and_committees/index.php [49915/49915] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/index.php" [1]
+2017-01-01 22:05:34 URL:http://www.easton.ma.us/boards_and_committees/a-b.php [48689/48689] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/a-b.php" [1]
+2017-01-01 22:05:35 URL:http://www.easton.ma.us/boards_and_committees/affordable_housing_trust/index.php [54192/54192] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/affordable_housing_trust/index.php" [1]
+2017-01-01 22:05:36 URL:http://www.easton.ma.us/boards_and_committees/agricultural_commission/index.php [55835/55835] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/agricultural_commission/index.php" [1]
+2017-01-01 22:05:37 URL:http://www.easton.ma.us/boards_and_committees/audit_committee/index.php [55047/55047] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/audit_committee/index.php" [1]
+2017-01-01 22:05:37 URL:http://www.easton.ma.us/boards_and_committees/budget_subcommittee/index.php [52748/52748] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/budget_subcommittee/index.php" [1]
+2017-01-01 22:05:38 URL:http://www.easton.ma.us/boards_and_committees/c.php [48671/48671] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/c.php" [1]
+2017-01-01 22:05:39 URL:http://www.easton.ma.us/boards_and_committees/cable_advisory_committee/index.php [52926/52926] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/cable_advisory_committee/index.php" [1]
+2017-01-01 22:05:41 URL:http://www.easton.ma.us/boards_and_committees/capital_planning_committee/index.php [54259/54259] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/capital_planning_committee/index.php" [1]
+2017-01-01 22:05:41 URL:http://www.easton.ma.us/boards_and_committees/cemetery_commission/index.php [51987/51987] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/cemetery_commission/index.php" [1]
+2017-01-01 22:05:42 URL:http://www.easton.ma.us/boards_and_committees/commission_on_disabilities/index.php [53523/53523] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/commission_on_disabilities/index.php" [1]
+2017-01-01 22:05:43 URL:http://www.easton.ma.us/boards_and_committees/community_preservation_act_committee/index.php [55605/55605] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/community_preservation_act_committee/index.php" [1]
+2017-01-01 22:05:44 URL:http://www.easton.ma.us/departments/conservation_commission/index.php [58884/58884] -> "../data/townSites2/Easton/www.easton.ma.us/departments/conservation_commission/index.php" [1]
+2017-01-01 22:05:45 URL:http://www.easton.ma.us/boards_and_committees/cultural_council/index.php [53160/53160] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/cultural_council/index.php" [1]
+2017-01-01 22:05:46 URL:http://www.easton.ma.us/boards_and_committees/e-h.php [48689/48689] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/e-h.php" [1]
+2017-01-01 22:05:47 URL:http://www.easton.ma.us/boards_and_committees/economic_development_council.php [54094/54094] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/economic_development_council.php" [1]
+2017-01-01 22:05:48 URL:http://www.easton.ma.us/boards_and_committees/finance_committee/index.php [55659/55659] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/finance_committee/index.php" [1]
+2017-01-01 22:05:49 URL:http://www.easton.ma.us/boards_and_committees/green_communities_committee/index.php [55711/55711] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/green_communities_committee/index.php" [1]
+2017-01-01 22:05:51 URL:http://www.easton.ma.us/boards_and_committees/historical_commission/index.php [57081/57081] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/historical_commission/index.php" [1]
+2017-01-01 22:05:55 URL:http://www.easton.ma.us/boards_and_committees/human_resources_board/index.php [50264/50264] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/human_resources_board/index.php" [1]
+2017-01-01 22:05:57 URL:http://www.easton.ma.us/boards_and_committees/humanrightscommittee/index.php [52274/52274] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/humanrightscommittee/index.php" [1]
+2017-01-01 22:06:00 URL:http://www.easton.ma.us/boards_and_committees/m-z.php [48689/48689] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/m-z.php" [1]
+2017-01-01 22:06:01 URL:http://www.easton.ma.us/boards_and_committees/mpsc/mpsc.php [54040/54040] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/mpsc/mpsc.php" [1]
+2017-01-01 22:06:02 URL:http://www.easton.ma.us/boards_and_committees/municipal_building_committee/index.php [51743/51743] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/municipal_building_committee/index.php" [1]
+2017-01-01 22:06:04 URL:http://www.easton.ma.us/boards_and_committees/planning_and_zoning_board/index.php [57329/57329] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/planning_and_zoning_board/index.php" [1]
+2017-01-01 22:06:09 URL:http://www.easton.ma.us/boards_and_committees/public_spaces_committee/index.php [52724/52724] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/public_spaces_committee/index.php" [1]
+2017-01-01 22:06:11 URL:http://www.easton.ma.us/boards_and_committees/board_of_selectmen/rent_control_board.php [54101/54101] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/board_of_selectmen/rent_control_board.php" [1]
+2017-01-01 22:06:13 URL:http://www.easton.ma.us/boards_and_committees/board_of_selectmen/index.php [59595/59595] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/board_of_selectmen/index.php" [1]
+2017-01-01 22:06:14 URL:http://www.easton.ma.us/boards_and_committees/special_act_charter_committee/index.php [55296/55296] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/special_act_charter_committee/index.php" [1]
+2017-01-01 22:06:17 URL:http://www.easton.ma.us/boards_and_committees/zoning_board_of_appeals/index.php [53568/53568] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/zoning_board_of_appeals/index.php" [1]
+2017-01-01 22:06:19 URL:http://www.easton.ma.us/boards_and_committees/resources_for_committee_members/index.php [56435/56435] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/resources_for_committee_members/index.php" [1]
+2017-01-01 22:06:21 URL:http://www.easton.ma.us/faq/index.php [52188/52188] -> "../data/townSites2/Easton/www.easton.ma.us/faq/index.php" [1]
+2017-01-01 22:06:22 URL:http://www.easton.ma.us/town_crier.php [51670/51670] -> "../data/townSites2/Easton/www.easton.ma.us/town_crier.php" [1]
+2017-01-01 22:06:23 URL:http://www.easton.ma.us/more_easton_links.php [58603/58603] -> "../data/townSites2/Easton/www.easton.ma.us/more_easton_links.php" [1]
+2017-01-01 22:06:24 URL:http://www.easton.ma.us/newsdetail_T2_R379.php [51091/51091] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R379.php" [1]
+2017-01-01 22:06:24 URL: http://www.easton.ma.us/newsimage/Queset%20Gardens%20III%20C.JPG 200 OK
+unlink: No such file or directory
+2017-01-01 22:06:25 URL:http://www.easton.ma.us/boards_and_committees/historical_commission/news.php [57808/57808] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/historical_commission/news.php" [1]
+2017-01-01 22:06:26 URL:http://www.easton.ma.us/calendar_app/index.html [86180/86180] -> "../data/townSites2/Easton/www.easton.ma.us/calendar_app/index.html" [1]
+2017-01-01 22:06:28 URL:http://www.easton.ma.us/override/index.php [66433/66433] -> "../data/townSites2/Easton/www.easton.ma.us/override/index.php" [1]
+2017-01-01 22:06:29 URL:http://www.easton.ma.us/sewer/index.php [65355/65355] -> "../data/townSites2/Easton/www.easton.ma.us/sewer/index.php" [1]
+2017-01-01 22:06:31 URL:http://www.easton.ma.us/index.php [62299/62299] -> "../data/townSites2/Easton/www.easton.ma.us/index.php" [1]
+2017-01-01 22:06:32 URL:http://www.easton.ma.us/snow/index.php [54505/54505] -> "../data/townSites2/Easton/www.easton.ma.us/snow/index.php" [1]
+2017-01-01 22:06:34 URL:http://www.easton.ma.us/easton_residents/about_easton/services_by_department.php [60016/60016] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/about_easton/services_by_department.php" [1]
+2017-01-01 22:06:35 URL:http://www.easton.ma.us/easton_residents/about_easton/town_office_addresses.php [53689/53689] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/about_easton/town_office_addresses.php" [1]
+2017-01-01 22:06:35 URL:http://www.easton.ma.us/easton_residents/trash_pickup_and_recycling/faqs.php [53180/53180] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/trash_pickup_and_recycling/faqs.php" [1]
+2017-01-01 22:06:36 URL:http://www.easton.ma.us/easton_residents/trash_pickup_and_recycling/bulky_item_pick_up.php [51210/51210] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/trash_pickup_and_recycling/bulky_item_pick_up.php" [1]
+2017-01-01 22:06:37 URL: http://www.easton.ma.us/easton/easton_residents/trash_pickup_and_recycling/uploads/sharps_flyer_2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:06:37 URL: http://www.easton.ma.us/easton_residents/trash_pickup_and_recycling/docs/Oct12014Flyer.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:06:37 URL: http://www.easton.ma.us/easton_residents/trash_pickup_and_recycling/docs/RecyclingProg.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:06:38 URL: http://www.easton.ma.us/easton_residents/trash_pickup_and_recycling/docs/5Composting.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:06:38 URL: http://www.easton.ma.us/easton_residents/trash_pickup_and_recycling/docs/6Yard_Waste_Sites.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:06:40 URL:http://www.easton.ma.us/departments/recreation_department/tee_ball.php [53055/53055] -> "../data/townSites2/Easton/www.easton.ma.us/departments/recreation_department/tee_ball.php" [1]
+2017-01-01 22:06:42 URL:http://www.easton.ma.us/departments/recreation_department/today_s_cancellations_and_make_up_information.php [53036/53036] -> "../data/townSites2/Easton/www.easton.ma.us/departments/recreation_department/today_s_cancellations_and_make_up_information.php" [1]
+2017-01-01 22:06:43 URL:http://www.easton.ma.us/departments/recreation_department/field_conditions.php [52476/52476] -> "../data/townSites2/Easton/www.easton.ma.us/departments/recreation_department/field_conditions.php" [1]
+2017-01-01 22:06:44 URL:http://www.easton.ma.us/departments/recreation_department/town_pool_information.php [53457/53457] -> "../data/townSites2/Easton/www.easton.ma.us/departments/recreation_department/town_pool_information.php" [1]
+2017-01-01 22:06:45 URL:http://www.easton.ma.us/departments/recreation_department/seasonal_employment_forms.php [52982/52982] -> "../data/townSites2/Easton/www.easton.ma.us/departments/recreation_department/seasonal_employment_forms.php" [1]
+2017-01-01 22:06:46 URL:http://www.easton.ma.us/departments/recreation_department/easton_recreational_resources.php [55469/55469] -> "../data/townSites2/Easton/www.easton.ma.us/departments/recreation_department/easton_recreational_resources.php" [1]
+2017-01-01 22:06:47 URL:http://www.easton.ma.us/departments/recreation_department/contact_us.php [53851/53851] -> "../data/townSites2/Easton/www.easton.ma.us/departments/recreation_department/contact_us.php" [1]
+2017-01-01 22:06:48 URL:http://www.easton.ma.us/departments/veterans_service/news_and_upcoming_events.php [55031/55031] -> "../data/townSites2/Easton/www.easton.ma.us/departments/veterans_service/news_and_upcoming_events.php" [1]
+2017-01-01 22:06:50 URL:http://www.easton.ma.us/departments/veterans_service/veterans_benefits.php [65101/65101] -> "../data/townSites2/Easton/www.easton.ma.us/departments/veterans_service/veterans_benefits.php" [1]
+2017-01-01 22:06:51 URL:http://www.easton.ma.us/departments/veterans_service/veterans_resources.php [54820/54820] -> "../data/townSites2/Easton/www.easton.ma.us/departments/veterans_service/veterans_resources.php" [1]
+2017-01-01 22:06:52 URL:http://www.easton.ma.us/newsletter/index.php [49116/49116] -> "../data/townSites2/Easton/www.easton.ma.us/newsletter/index.php" [1]
+2017-01-01 22:06:52 URL: http://www.easton.ma.us/easton/departments/council_on_aging/uploads/sharps_flyer_2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:06:53 URL:http://www.easton.ma.us/departments/council_on_aging/contact_us.php [51991/51991] -> "../data/townSites2/Easton/www.easton.ma.us/departments/council_on_aging/contact_us.php" [1]
+2017-01-01 22:06:53 URL: http://www.easton.ma.us/citizenfactsheeteastontax.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:06:54 URL: http://www.easton.ma.us/docs/CityHallSystemsInstructions.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:06:54 URL:http://www.easton.ma.us/departments/dpw/dpw_administration.php [58272/58272] -> "../data/townSites2/Easton/www.easton.ma.us/departments/dpw/dpw_administration.php" [1]
+2017-01-01 22:06:55 URL:http://www.easton.ma.us/departments/dpw/water_division/annual_reports.php [60702/60702] -> "../data/townSites2/Easton/www.easton.ma.us/departments/dpw/water_division/annual_reports.php" [1]
+2017-01-01 22:06:57 URL:http://www.easton.ma.us/departments/dpw/water_division/ccr_reports.php [59302/59302] -> "../data/townSites2/Easton/www.easton.ma.us/departments/dpw/water_division/ccr_reports.php" [1]
+2017-01-01 22:06:57 URL:http://www.easton.ma.us/departments/dpw/water_division/cross-connection_control_program.php [53579/53579] -> "../data/townSites2/Easton/www.easton.ma.us/departments/dpw/water_division/cross-connection_control_program.php" [1]
+2017-01-01 22:06:58 URL:http://www.easton.ma.us/departments/dpw/water_division/directions.php [53487/53487] -> "../data/townSites2/Easton/www.easton.ma.us/departments/dpw/water_division/directions.php" [1]
+2017-01-01 22:07:00 URL:http://www.easton.ma.us/departments/dpw/water_division/water_events.php [58816/58816] -> "../data/townSites2/Easton/www.easton.ma.us/departments/dpw/water_division/water_events.php" [1]
+2017-01-01 22:07:01 URL:http://www.easton.ma.us/departments/dpw/water_division/faqs.php [54841/54841] -> "../data/townSites2/Easton/www.easton.ma.us/departments/dpw/water_division/faqs.php" [1]
+2017-01-01 22:07:03 URL:http://www.easton.ma.us/departments/dpw/water_division/links.php [53568/53568] -> "../data/townSites2/Easton/www.easton.ma.us/departments/dpw/water_division/links.php" [1]
+2017-01-01 22:07:04 URL:http://www.easton.ma.us/departments/dpw/water_division/misc_information.php [53591/53591] -> "../data/townSites2/Easton/www.easton.ma.us/departments/dpw/water_division/misc_information.php" [1]
+2017-01-01 22:07:05 URL:http://www.easton.ma.us/departments/dpw/water_division/photovoltaic.php [53293/53293] -> "../data/townSites2/Easton/www.easton.ma.us/departments/dpw/water_division/photovoltaic.php" [1]
+2017-01-01 22:07:06 URL:http://www.easton.ma.us/departments/dpw/water_division/rules_and_regulations.php [101326/101326] -> "../data/townSites2/Easton/www.easton.ma.us/departments/dpw/water_division/rules_and_regulations.php" [1]
+2017-01-01 22:07:07 URL:http://www.easton.ma.us/departments/dpw/water_division/staff.php [59139/59139] -> "../data/townSites2/Easton/www.easton.ma.us/departments/dpw/water_division/staff.php" [1]
+2017-01-01 22:07:08 URL:http://www.easton.ma.us/departments/dpw/water_division/rates.php [62372/62372] -> "../data/townSites2/Easton/www.easton.ma.us/departments/dpw/water_division/rates.php" [1]
+2017-01-01 22:07:10 URL:http://www.easton.ma.us/departments/dpw/water_division/water_restriction.php [55022/55022] -> "../data/townSites2/Easton/www.easton.ma.us/departments/dpw/water_division/water_restriction.php" [1]
+2017-01-01 22:07:11 URL:http://www.easton.ma.us/departments/dpw/highway_division.php [61675/61675] -> "../data/townSites2/Easton/www.easton.ma.us/departments/dpw/highway_division.php" [1]
+2017-01-01 22:07:12 URL:http://www.easton.ma.us/departments/dpw/building_and_grounds_division.php [60881/60881] -> "../data/townSites2/Easton/www.easton.ma.us/departments/dpw/building_and_grounds_division.php" [1]
+2017-01-01 22:07:14 URL:http://www.easton.ma.us/departments/dpw/Five_Corners_Sewer.php [59898/59898] -> "../data/townSites2/Easton/www.easton.ma.us/departments/dpw/Five_Corners_Sewer.php" [1]
+2017-01-01 22:07:15 URL:http://www.easton.ma.us/departments/dpw/documents.php [61042/61042] -> "../data/townSites2/Easton/www.easton.ma.us/departments/dpw/documents.php" [1]
+2017-01-01 22:07:18 URL:http://www.easton.ma.us/departments/dpw/green_information/index.php [64889/64889] -> "../data/townSites2/Easton/www.easton.ma.us/departments/dpw/green_information/index.php" [1]
+2017-01-01 22:07:19 URL: http://www.easton.ma.us/departments/building_inspector/forms_and_permit_applications/docs/Trench_Permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:19 URL: http://www.easton.ma.us/easton/departments/town_clerk1/uploads/StreetAddressPrecinct.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:19 URL: http://www.easton.ma.us/easton_residents/senators_and_representatives/docs/State_Representatives_Easton_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:22 URL:http://www.easton.ma.us/departments/town_clerk1/absentee_ballots_applications.php [56585/56585] -> "../data/townSites2/Easton/www.easton.ma.us/departments/town_clerk1/absentee_ballots_applications.php" [1]
+2017-01-01 22:07:23 URL: http://www.easton.ma.us/easton/departments/town_clerk1/uploads/YourVotingEnrollment.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:23 URL: http://www.easton.ma.us/easton/departments/town_clerk1/uploads/PollWorkerApplication.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:25 URL:http://www.easton.ma.us/departments/town_clerk1/marriage_license.php [58288/58288] -> "../data/townSites2/Easton/www.easton.ma.us/departments/town_clerk1/marriage_license.php" [1]
+2017-01-01 22:07:26 URL:http://www.easton.ma.us/departments/town_clerk1/birth_death_marriage_records.php [57694/57694] -> "../data/townSites2/Easton/www.easton.ma.us/departments/town_clerk1/birth_death_marriage_records.php" [1]
+2017-01-01 22:07:26 URL: http://www.easton.ma.us/easton/departments/town_clerk1/uploads/Town_Clerk_Fee_Schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:27 URL:http://www.easton.ma.us/departments/town_clerk1/dog_license.php [56986/56986] -> "../data/townSites2/Easton/www.easton.ma.us/departments/town_clerk1/dog_license.php" [1]
+2017-01-01 22:07:29 URL:http://www.easton.ma.us/departments/town_clerk1/yard_sale_permit.php [55894/55894] -> "../data/townSites2/Easton/www.easton.ma.us/departments/town_clerk1/yard_sale_permit.php" [1]
+2017-01-01 22:07:31 URL:http://www.easton.ma.us/departments/town_clerk1/raffle_permit.php [56165/56165] -> "../data/townSites2/Easton/www.easton.ma.us/departments/town_clerk1/raffle_permit.php" [1]
+2017-01-01 22:07:32 URL:http://www.easton.ma.us/departments/town_clerk1/state_ethics_requirements.php [56006/56006] -> "../data/townSites2/Easton/www.easton.ma.us/departments/town_clerk1/state_ethics_requirements.php" [1]
+2017-01-01 22:07:32 URL: http://www.easton.ma.us/easton/departments/town_clerk1/uploads/streetlistingmemo.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:33 URL: http://www.easton.ma.us/departments/town_clerk1/uploads/Important_dates_to_remember__2_.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:34 URL:http://www.easton.ma.us/departments/town_clerk1/contact_us.php [57106/57106] -> "../data/townSites2/Easton/www.easton.ma.us/departments/town_clerk1/contact_us.php" [1]
+2017-01-01 22:07:34 URL: http://www.easton.ma.us/departments/town_clerk1/docs/2017%20town%20election%20calendar_cmr.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:34 URL: http://www.easton.ma.us/departments/town_clerk1/docs/2017_CANDIDATES_INFO_PACKAGE.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:35 URL: http://www.easton.ma.us/easton_residents/election_information/docs/2Tips_For_Voters.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:35 URL: http://www.easton.ma.us/easton_residents/election_information/docs/4Elections__How_to_Request_a_Recount.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:36 URL: http://www.easton.ma.us/easton_residents/senators_and_representatives/docs/1Easton_precincts_basedonFedCensus2010_effect_Jan_one_2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:36 URL: http://www.easton.ma.us/easton_residents/senators_and_representatives/docs/2015_12_09_State_Reps_for_Easton.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:36 URL: http://www.easton.ma.us/departments/town_clerk1/docs/2009-2016_ARTICLES_REQUIRING_BYLAW_SUBMISSION.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:37 URL:http://www.easton.ma.us/departments/planning_and_community_development/contact_us/index.php [50108/50108] -> "../data/townSites2/Easton/www.easton.ma.us/departments/planning_and_community_development/contact_us/index.php" [1]
+2017-01-01 22:07:38 URL:http://www.easton.ma.us/departments/planning_and_community_development/news_and_events.php [53791/53791] -> "../data/townSites2/Easton/www.easton.ma.us/departments/planning_and_community_development/news_and_events.php" [1]
+2017-01-01 22:07:43 URL:http://www.easton.ma.us/departments/planning_and_community_development/regulations_and_applications.php [57636/57636] -> "../data/townSites2/Easton/www.easton.ma.us/departments/planning_and_community_development/regulations_and_applications.php" [1]
+2017-01-01 22:07:45 URL:http://www.easton.ma.us/departments/planning_and_community_development/plans_and_maps.php [54488/54488] -> "../data/townSites2/Easton/www.easton.ma.us/departments/planning_and_community_development/plans_and_maps.php" [1]
+2017-01-01 22:07:46 URL:http://www.easton.ma.us/departments/planning_and_community_development/links.php [54521/54521] -> "../data/townSites2/Easton/www.easton.ma.us/departments/planning_and_community_development/links.php" [1]
+2017-01-01 22:07:46 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/4_14_2015PublicHearing.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:47 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/STM2014ESCOpresentation.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:48 URL:http://www.easton.ma.us/departments/planning_and_community_development/to_learn_more_about_the_master_plan_process.php [55399/55399] -> "../data/townSites2/Easton/www.easton.ma.us/departments/planning_and_community_development/to_learn_more_about_the_master_plan_process.php" [1]
+2017-01-01 22:07:48 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/Easton_Industrial_Park_Study_Final.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:48 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/Easton_Industrial_Park_Website.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:50 URL:http://www.easton.ma.us/NEV.php [55389/55389] -> "../data/townSites2/Easton/www.easton.ma.us/NEV.php" [1]
+2017-01-01 22:07:51 URL:http://www.easton.ma.us/easton_center.php [58669/58669] -> "../data/townSites2/Easton/www.easton.ma.us/easton_center.php" [1]
+2017-01-01 22:07:52 URL:http://www.easton.ma.us/five_corners.php [53593/53593] -> "../data/townSites2/Easton/www.easton.ma.us/five_corners.php" [1]
+2017-01-01 22:07:53 URL:http://www.easton.ma.us/s_easton.php [49751/49751] -> "../data/townSites2/Easton/www.easton.ma.us/s_easton.php" [1]
+2017-01-01 22:07:54 URL:http://www.easton.ma.us/turnpike.php [49760/49760] -> "../data/townSites2/Easton/www.easton.ma.us/turnpike.php" [1]
+2017-01-01 22:07:54 URL: http://www.easton.ma.us/docs/June29BOSMeetingQuesetInvite.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:54 URL: http://www.easton.ma.us/docs/QuesetDistrictInvites.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:55 URL:http://www.easton.ma.us/departments/planning_and_community_development/2015Zoning.php [52571/52571] -> "../data/townSites2/Easton/www.easton.ma.us/departments/planning_and_community_development/2015Zoning.php" [1]
+2017-01-01 22:07:57 URL:http://www.easton.ma.us/departments/dpw/nev_sewer_project.php [59551/59551] -> "../data/townSites2/Easton/www.easton.ma.us/departments/dpw/nev_sewer_project.php" [1]
+2017-01-01 22:07:57 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/warrant051710_results.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:58 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/warrant04052010_results.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:59 URL:http://www.easton.ma.us/newsdetail_T2_R272.php [54828/54828] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R272.php" [1]
+2017-01-01 22:08:00 URL:http://www.easton.ma.us/departments/planning_and_community_development/all_documents_and_plans.php [51990/51990] -> "../data/townSites2/Easton/www.easton.ma.us/departments/planning_and_community_development/all_documents_and_plans.php" [1]
+2017-01-01 22:08:01 URL: http://www.easton.ma.us/departments/planning_and_community_development/images/Stables.JPG 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:01 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/NEVillagePresentation2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:02 URL:http://www.easton.ma.us/departments/planning_and_community_development/visit_this_page.php [58237/58237] -> "../data/townSites2/Easton/www.easton.ma.us/departments/planning_and_community_development/visit_this_page.php" [1]
+2017-01-01 22:08:02 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/1Secretary_Energy_Environmenta__Affairs_certificate_DEIS_DEIR.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:03 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/2South_Coast_Rail_DEIR_DEIS_Comment_Letter.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:04 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/3Comment_letter.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:04 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/4notice_of_DEIS_commentperiod_publichearings.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:05 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/scr_deis_chapter_0_4_massdot_preface.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:06 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/massdot_to_reviewers_re_DEIS_3_18_11.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:06 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/Easton_Grade_Crossings.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:09 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/neaston_station_concept_plan_aug_2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:12 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/Queset_Commercial_District_24x36_11_29_2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:12 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/washington_st_ped1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:12 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/washington__st_ped2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:13 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/washington_st_ped3.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:14 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/Washington_S_aerial3.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:14 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/Belmont_sidewalk2l.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:15 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/EEFinalvolume1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:15 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/EEFinalvolume2Withappendix.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:16 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/ACE.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:16 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/ED.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:17 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/NRR.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:18 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/HN.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:19 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/TMA.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:19 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/EEFINALvolume3.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:20 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/EEFINALappendixB.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:20 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/EE_Final_Survey_Results.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:21 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/1_2_Year_Spreadsheet_Final.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:21 URL: http://www.easton.ma.us/easton_residents/financial_assistance/docs/2Re_Exemption_information_for_web.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:23 URL:http://www.easton.ma.us/easton_residents/financial_assistance/homebuyer_assistance_program.php [54012/54012] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/financial_assistance/homebuyer_assistance_program.php" [1]
+2017-01-01 22:08:24 URL: http://www.easton.ma.us/easton_residents/financial_assistance/docs/Ames_Free_Library_Employment_Resources___Services.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:24 URL: http://www.easton.ma.us/easton_residents/financial_assistance/docs/4Lifeline.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:25 URL: http://www.easton.ma.us/easton_residents/financial_assistance/docs/5CableServicesBuyingGuide.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:26 URL: http://www.easton.ma.us/easton_residents/financial_assistance/docs/244WashingtonInfoPacket.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:27 URL: http://www.easton.ma.us/easton_residents/financial_assistance/docs/Mortgage_Options.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:42 URL:http://www.easton.ma.us/easton_residents/financial_assistance/town_of_easton_home_repair_grants_program.php [54951/54951] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/financial_assistance/town_of_easton_home_repair_grants_program.php" [1]
+2017-01-01 22:08:43 URL: http://www.easton.ma.us/Town%20of%20Easton%20Financial%20Management%20Guidelines.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:44 URL: http://www.easton.ma.us/Fund%20Balance%20Policy%20as%20Adopted.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:46 URL:http://www.easton.ma.us/easton_residents/financial_information/past_budget_information.php [53893/53893] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/financial_information/past_budget_information.php" [1]
+2017-01-01 22:08:52 URL:http://www.easton.ma.us/easton_residents/financial_information/fy_2016_budget.php [56389/56389] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/financial_information/fy_2016_budget.php" [1]
+2017-01-01 22:08:58 URL:http://www.easton.ma.us/easton_residents/financial_information/fy_2015_budget.php [55809/55809] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/financial_information/fy_2015_budget.php" [1]
+2017-01-01 22:09:06 URL:http://www.easton.ma.us/easton_residents/financial_information/fy_2014_budget.php [55611/55611] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/financial_information/fy_2014_budget.php" [1]
+2017-01-01 22:09:07 URL:http://www.easton.ma.us/easton_residents/financial_information/fy_2013_budget.php [56373/56373] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/financial_information/fy_2013_budget.php" [1]
+2017-01-01 22:09:08 URL:http://www.easton.ma.us/easton_residents/financial_information/fy_2012_budget.php [55760/55760] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/financial_information/fy_2012_budget.php" [1]
+2017-01-01 22:09:09 URL:http://www.easton.ma.us/easton_residents/financial_information/fy_2011_budget.php [54395/54395] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/financial_information/fy_2011_budget.php" [1]
+http://www.easton.ma.us/Icons/0:
+Remote file does not exist -- broken link!!!
+2017-01-01 22:09:12 URL:http://www.easton.ma.us/easton_residents/financial_information/fiscal_year_2018.php [53405/53405] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/financial_information/fiscal_year_2018.php" [1]
+2017-01-01 22:09:15 URL:http://www.easton.ma.us/easton_residents/financial_information/fy_2010_budget.php [53423/53423] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/financial_information/fy_2010_budget.php" [1]
+2017-01-01 22:09:15 URL: http://www.easton.ma.us/boards_and_committees/capital_planning_committee/docs/1towncode_chap_6.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:16 URL: http://www.easton.ma.us/easton_residents/financial_information/docs/Moody's%20Rating%20August%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:17 URL: http://www.easton.ma.us/easton_residents/financial_information/docs/Moody_s_Rating_August_2015.PDF 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:17 URL: http://www.easton.ma.us/easton_residents/financial_information/docs/Moodys2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:18 URL: http://www.easton.ma.us/easton_residents/financial_information/docs/Moody_s_Rating_August_2013.PDF 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:20 URL: http://www.easton.ma.us/easton_residents/financial_information/docs/Moody_s_Rating_Aug2012.PDF 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:20 URL: http://www.easton.ma.us/easton_residents/financial_information/docs/Moodys2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:21 URL: http://www.easton.ma.us/easton_residents/financial_information/docs/Moody_s_Rating_April_2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:21 URL: http://www.easton.ma.us/easton_residents/financial_information/docs/Moody_s_Rating_April_2009.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:21 URL: http://www.easton.ma.us/easton_residents/financial_information/docs/Moody_s_Rating_April_2008.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:22 URL: http://www.easton.ma.us/easton_residents/financial_information/docs/Easton%20SOI%20FY16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:23 URL: http://www.easton.ma.us/easton_residents/financial_information/docs/Easton_FY15_SOI__Revised_11_17_15_.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:23 URL: http://www.easton.ma.us/easton_residents/financial_information/docs/Easton_FY14_SOI.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:23 URL: http://www.easton.ma.us/easton_residents/financial_information/docs/Easton_FY13_SOI.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:24 URL: http://www.easton.ma.us/easton_residents/financial_information/docs/Easton,%20MA%20FS15%20Final.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:24 URL: http://www.easton.ma.us/easton_residents/financial_information/docs/Easton__MA_FS14_Final.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:26 URL: http://www.easton.ma.us/easton_residents/financial_information/docs/Easton_Final_FS13.pdf 200 OK
+unlink: No such file or directory
+http://www.easton.ma.us/Directory/selectmen/BoardOfSelectmen.htm:
+Remote file does not exist -- broken link!!!
+http://www.easton.ma.us/Directory/selectmen/Town%20of%20Easton%20Annual%20Report%202008.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-01 22:09:27 URL: http://www.easton.ma.us/easton_residents/financial_information/docs/16-03-26%20Easton%20Annual%20Report%20FY15%20Amended.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:27 URL: http://www.easton.ma.us/easton_residents/financial_information/docs/Easton_Annual_Report_FY14.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:28 URL: http://www.easton.ma.us/easton_residents/financial_information/docs/CPA%20Financial%20Report%20FY16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:28 URL: http://www.easton.ma.us/easton_residents/financial_information/docs/CPA_Financial_Report_FY15.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:28 URL: http://www.easton.ma.us/easton_residents/financial_information/docs/CPA_Financial_Report_FY14.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:29 URL: http://www.easton.ma.us/easton_residents/financial_information/docs/CPA_Debt_Service_Schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:29 URL: http://www.easton.ma.us/easton_residents/financial_information/docs/ATM%205%2016%2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:30 URL: http://www.easton.ma.us/easton_residents/financial_information/docs/STM_11_16_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:30 URL: http://www.easton.ma.us/easton_residents/financial_information/docs/ATM_5_18_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:30 URL: http://www.easton.ma.us/easton_residents/employment_volunteer_opportunities/docs/Sewer%20System%20Technical%20Advisory%20Board%20Charge.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:31 URL:http://www.easton.ma.us/boards_and_committees/community_preservation_act_committee/fy15_project_funding.php [52677/52677] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/community_preservation_act_committee/fy15_project_funding.php" [1]
+2017-01-01 22:09:31 URL: http://www.easton.ma.us/docs/2016-10-01-EASTON%20EARLY%20VOTING%20PRESS%20RELEASE.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:32 URL: http://www.easton.ma.us/docs/SCR_PublicMeetings%20Final%20Flyer.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:33 URL:http://www.easton.ma.us/newsdetail_T2_R364.php [53481/53481] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R364.php" [1]
+2017-01-01 22:09:35 URL:http://www.easton.ma.us/newsdetail_T2_R360.php [51269/51269] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R360.php" [1]
+2017-01-01 22:09:36 URL:http://www.easton.ma.us/newsdetail_T2_R359.php [51273/51273] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R359.php" [1]
+2017-01-01 22:09:36 URL: http://www.easton.ma.us/businesses/requests_for_proposals_quotes_bids/docs/Surplus%20Computers%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:39 URL:http://www.easton.ma.us/override/ [66433/66433] -> "../data/townSites2/Easton/www.easton.ma.us/override.1" [1]
+2017-01-01 22:09:39 URL:http://www.easton.ma.us/newsdetail_T2_R339.php [50707/50707] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R339.php" [1]
+2017-01-01 22:09:40 URL:http://www.easton.ma.us/newsdetail_T2_R346.php [51786/51786] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R346.php" [1]
+2017-01-01 22:09:41 URL:http://www.easton.ma.us/newsdetail_T2_R342.php [50079/50079] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R342.php" [1]
+2017-01-01 22:09:42 URL:http://www.easton.ma.us/departments/planning_and_community_development/proposed_complete_streets_policy.php [53458/53458] -> "../data/townSites2/Easton/www.easton.ma.us/departments/planning_and_community_development/proposed_complete_streets_policy.php" [1]
+2017-01-01 22:09:43 URL:http://www.easton.ma.us/newsdetail_T2_R337.php [53396/53396] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R337.php" [1]
+2017-01-01 22:09:44 URL:http://www.easton.ma.us/newsdetail_T2_R333.php [50340/50340] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R333.php" [1]
+2017-01-01 22:09:45 URL:http://www.easton.ma.us/newsdetail_T2_R332.php [51244/51244] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R332.php" [1]
+2017-01-01 22:09:45 URL:http://www.easton.ma.us/newsdetail_T2_R331.php [52198/52198] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R331.php" [1]
+2017-01-01 22:09:46 URL:http://www.easton.ma.us/newsdetail_T2_R330.php [51748/51748] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R330.php" [1]
+2017-01-01 22:09:48 URL:http://www.easton.ma.us/newsdetail_T2_R325.php [50288/50288] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R325.php" [1]
+2017-01-01 22:09:49 URL:http://www.easton.ma.us/newsdetail_T2_R324.php [52590/52590] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R324.php" [1]
+2017-01-01 22:09:50 URL: http://www.easton.ma.us/docs/MBTA_PublicMeetingCalendar_Translated_v6.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:52 URL:http://www.easton.ma.us/newsdetail_T2_R322.php [50318/50318] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R322.php" [1]
+2017-01-01 22:09:53 URL:http://www.easton.ma.us/snow/ [54505/54505] -> "../data/townSites2/Easton/www.easton.ma.us/snow.1" [1]
+2017-01-01 22:09:54 URL:http://www.easton.ma.us/newsdetail_T2_R321.php [51204/51204] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R321.php" [1]
+2017-01-01 22:09:55 URL:http://www.easton.ma.us/newsdetail_T2_R318.php [51761/51761] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R318.php" [1]
+2017-01-01 22:09:56 URL:http://www.easton.ma.us/newsdetail_T2_R315.php [50085/50085] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R315.php" [1]
+2017-01-01 22:09:57 URL:http://www.easton.ma.us/departments/board_of_health/hot_topic_-_flu_information.php [56305/56305] -> "../data/townSites2/Easton/www.easton.ma.us/departments/board_of_health/hot_topic_-_flu_information.php" [1]
+2017-01-01 22:09:58 URL:http://www.easton.ma.us/newsdetail_T2_R309.php [50742/50742] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R309.php" [1]
+2017-01-01 22:09:59 URL: http://www.easton.ma.us/docs/NexampCommunitySolar.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:00 URL:http://www.easton.ma.us/newsdetail_T2_R299.php [49935/49935] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R299.php" [1]
+2017-01-01 22:10:00 URL:http://www.easton.ma.us/newsdetail_T2_R302.php [53126/53126] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R302.php" [1]
+2017-01-01 22:10:01 URL:http://www.easton.ma.us/newsdetail_T2_R301.php [51348/51348] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R301.php" [1]
+2017-01-01 22:10:02 URL:http://www.easton.ma.us/newsdetail_T2_R300.php [50109/50109] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R300.php" [1]
+2017-01-01 22:10:03 URL:http://www.easton.ma.us/newsdetail_T2_R296.php [49773/49773] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R296.php" [1]
+2017-01-01 22:10:03 URL: http://www.easton.ma.us/docs/Easton_Police_Department_Participating_in_10th_National_Prescription_Drug_Take.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:04 URL:http://www.easton.ma.us/newsdetail_T2_R295.php [51743/51743] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R295.php" [1]
+2017-01-01 22:10:04 URL:http://www.easton.ma.us/departments/board_of_health/hot_topic_-_mosquito_control.php [62857/62857] -> "../data/townSites2/Easton/www.easton.ma.us/departments/board_of_health/hot_topic_-_mosquito_control.php" [1]
+2017-01-01 22:10:05 URL: http://www.easton.ma.us/departments/board_of_health/docs/BOH_mosquito_WNV_press_release_Sept_1_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:05 URL:http://www.easton.ma.us/newsdetail_T2_R292.php [50029/50029] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R292.php" [1]
+2017-01-01 22:10:06 URL: http://www.easton.ma.us/easton_residents/trash_pickup_and_recycling/docs/WM_Bulk_item_list.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:07 URL:http://www.easton.ma.us/newsdetail_T2_R287.php [53738/53738] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R287.php" [1]
+2017-01-01 22:10:08 URL: http://www.easton.ma.us/newsimage/Bike.jpeg 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:11 URL:http://www.easton.ma.us/newsdetail_T2_R284.php [51734/51734] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R284.php" [1]
+2017-01-01 22:10:12 URL:http://www.easton.ma.us/newsdetail_T2_R283.php [49885/49885] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R283.php" [1]
+2017-01-01 22:10:12 URL: http://www.easton.ma.us/departments/veterans_service/docs/PurpleHeartProclamation.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:13 URL: http://www.easton.ma.us/docs/commaleasespaceneeded.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:14 URL:http://www.easton.ma.us/newsdetail_T2_R279.php [51854/51854] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R279.php" [1]
+2017-01-01 22:10:15 URL:http://www.easton.ma.us/newsdetail_T2_R275.php [49939/49939] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R275.php" [1]
+2017-01-01 22:10:16 URL:http://www.easton.ma.us/newsdetail_T2_R271.php [50207/50207] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R271.php" [1]
+2017-01-01 22:10:17 URL: http://www.easton.ma.us/docs/PreferredPlanWashingtonElm.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:18 URL: http://www.easton.ma.us/docs/NGrid_Safety_Notice___Transmission_Line_Inspection_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:19 URL:http://www.easton.ma.us/newsdetail_T2_R266.php [49998/49998] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R266.php" [1]
+2017-01-01 22:10:21 URL:http://www.easton.ma.us/newsdetail_T2_R264.php [50080/50080] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R264.php" [1]
+2017-01-01 22:10:21 URL: http://www.easton.ma.us/easton_residents/employment_volunteer_opportunities/docs/Volunteerform2014.pdf 200 OK
+unlink: No such file or directory
+http://www.easton.ma.us/repository/easton/mailto:cread@easton.ma.us:
+Remote file does not exist -- broken link!!!
+2017-01-01 22:10:23 URL:http://www.easton.ma.us/newsdetail_T2_R261.php [50309/50309] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R261.php" [1]
+2017-01-01 22:10:23 URL: http://www.easton.ma.us/boards_and_committees/cultural_council/docs/PRESSRELEASE1Legacy.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:24 URL:http://www.easton.ma.us/newsdetail_T2_R255.php [50123/50123] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R255.php" [1]
+2017-01-01 22:10:24 URL:http://www.easton.ma.us/newsdetail_T2_R256.php [50186/50186] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R256.php" [1]
+2017-01-01 22:10:25 URL:http://www.easton.ma.us/boards_and_committees/board_of_selectmen/one_day_liquor_license.php [54596/54596] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/board_of_selectmen/one_day_liquor_license.php" [1]
+2017-01-01 22:10:26 URL:http://www.easton.ma.us/boards_and_committees/board_of_selectmen/road_race_application.php [54098/54098] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/board_of_selectmen/road_race_application.php" [1]
+2017-01-01 22:10:27 URL: http://www.easton.ma.us/docs/EastonHousingFairFlyer2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:28 URL:http://www.easton.ma.us/newsdetail_T2_R244.php [50016/50016] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R244.php" [1]
+2017-01-01 22:10:30 URL: http://www.easton.ma.us/departments/town_clerk1/docs/Draft_ATM_Warrant_03302015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:34 URL: http://www.easton.ma.us/docs/roof_collapse_DPS_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:36 URL:http://www.easton.ma.us/newsdetail_T2_R220.php [49837/49837] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R220.php" [1]
+2017-01-01 22:10:36 URL: http://www.easton.ma.us/docs/NGridNewsRelease.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:38 URL:http://www.easton.ma.us/newsdetail_T2_R218.php [50071/50071] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R218.php" [1]
+2017-01-01 22:10:38 URL: http://www.easton.ma.us/docs/EastonTownMapROW2000.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:39 URL: http://www.easton.ma.us/docs/FluClinic12032014.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:40 URL:http://www.easton.ma.us/newsdetail_T2_R210.php [50101/50101] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R210.php" [1]
+2017-01-01 22:10:41 URL:http://www.easton.ma.us/newsdetail_T2_R208.php [50208/50208] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R208.php" [1]
+2017-01-01 22:10:42 URL:http://www.easton.ma.us/newsdetail_T2_R209.php [50048/50048] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R209.php" [1]
+2017-01-01 22:10:43 URL:http://www.easton.ma.us/newsdetail_T2_R203.php [50085/50085] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R203.php" [1]
+2017-01-01 22:10:44 URL:http://www.easton.ma.us/newsdetail_T2_R207.php [50993/50993] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R207.php" [1]
+2017-01-01 22:10:44 URL:http://www.easton.ma.us/newsdetail_T2_R205.php [50230/50230] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R205.php" [1]
+2017-01-01 22:10:45 URL: http://www.easton.ma.us/docs/CharretteFlyer.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:45 URL:http://www.easton.ma.us/newsdetail_T2_R198.php [51458/51458] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R198.php" [1]
+2017-01-01 22:10:46 URL:http://www.easton.ma.us/newsdetail_T2_R197.php [50186/50186] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R197.php" [1]
+2017-01-01 22:10:48 URL:http://www.easton.ma.us/newsdetail_T2_R193.php [50505/50505] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R193.php" [1]
+2017-01-01 22:10:49 URL: http://www.easton.ma.us/newsimage/EASTON_PATCH.JPG 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:51 URL:http://www.easton.ma.us/newsdetail_T2_R188.php [50833/50833] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R188.php" [1]
+2017-01-01 22:10:52 URL:http://www.easton.ma.us/newsdetail_T2_R186.php [50824/50824] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R186.php" [1]
+2017-01-01 22:10:58 URL:http://www.easton.ma.us/newsdetail_T2_R181.php [51007/51007] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R181.php" [1]
+2017-01-01 22:10:59 URL:http://www.easton.ma.us/newsdetail_T2_R182.php [49740/49740] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R182.php" [1]
+2017-01-01 22:11:01 URL:http://www.easton.ma.us/newsdetail_T2_R180.php [49549/49549] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R180.php" [1]
+2017-01-01 22:11:02 URL:http://www.easton.ma.us/newsdetail_T2_R174.php [50464/50464] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R174.php" [1]
+2017-01-01 22:11:03 URL:http://www.easton.ma.us/newsdetail_T2_R171.php [51623/51623] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R171.php" [1]
+2017-01-01 22:11:12 URL:http://www.easton.ma.us/newsdetail_T2_R169.php [49903/49903] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R169.php" [1]
+2017-01-01 22:11:26 URL:http://www.easton.ma.us/newsdetail_T2_R165.php [49805/49805] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R165.php" [1]
+2017-01-01 22:11:28 URL:http://www.easton.ma.us/newsdetail_T2_R162.php [49659/49659] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R162.php" [1]
+2017-01-01 22:11:33 URL:http://www.easton.ma.us/newsdetail_T2_R160.php [50783/50783] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R160.php" [1]
+2017-01-01 22:11:41 URL:http://www.easton.ma.us/newsdetail_T2_R156.php [50508/50508] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R156.php" [1]
+2017-01-01 22:11:43 URL:http://www.easton.ma.us/newsdetail_T2_R155.php [50828/50828] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R155.php" [1]
+2017-01-01 22:11:58 URL:http://www.easton.ma.us/newsdetail_T2_R154.php [50262/50262] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R154.php" [1]
+2017-01-01 22:12:00 URL:http://www.easton.ma.us/newsdetail_T2_R153.php [50177/50177] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R153.php" [1]
+2017-01-01 22:12:00 URL: http://www.easton.ma.us/docs/NGrid_ROW_Treetrimming.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:12:04 URL:http://www.easton.ma.us/newsdetail_T2_R149.php [50534/50534] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R149.php" [1]
+2017-01-01 22:12:06 URL:http://www.easton.ma.us/newsdetail_T2_R141.php [49540/49540] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R141.php" [1]
+2017-01-01 22:12:08 URL: http://www.easton.ma.us/docs/Wheaton_Farm_Community_Garden_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:12:11 URL:http://www.easton.ma.us/newsdetail_T2_R130.php [49873/49873] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R130.php" [1]
+2017-01-01 22:12:13 URL:http://www.easton.ma.us/newsdetail_T2_R129.php [49876/49876] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R129.php" [1]
+2017-01-01 22:12:14 URL:http://www.easton.ma.us/newsdetail_T2_R119.php [51183/51183] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R119.php" [1]
+2017-01-01 22:12:14 URL: http://www.easton.ma.us/docs/Easton_Housing_Fair_Flyer_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:12:15 URL:http://www.easton.ma.us/newsdetail_T2_R121.php [49727/49727] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R121.php" [1]
+2017-01-01 22:12:16 URL:http://www.easton.ma.us/newsdetail_T2_R120.php [54322/54322] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R120.php" [1]
+2017-01-01 22:12:17 URL:http://www.easton.ma.us/newsdetail_T2_R108.php [49995/49995] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R108.php" [1]
+2017-01-01 22:12:17 URL:http://www.easton.ma.us/newsdetail_T2_R110.php [50575/50575] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R110.php" [1]
+2017-01-01 22:12:18 URL: http://www.easton.ma.us/docs/ta_qtrrep_09302013.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:12:23 URL:http://www.easton.ma.us/newsdetail_T2_R101.php [49588/49588] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R101.php" [1]
+2017-01-01 22:12:24 URL:http://www.easton.ma.us/newsdetail_T2_R103.php [50194/50194] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R103.php" [1]
+2017-01-01 22:12:29 URL:http://www.easton.ma.us/newsdetail_T2_R104.php [49947/49947] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R104.php" [1]
+2017-01-01 22:12:33 URL:http://www.easton.ma.us/newsdetail_T2_R96.php [49750/49750] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R96.php" [1]
+2017-01-01 22:12:36 URL:http://www.easton.ma.us/newsdetail_T2_R95.php [49644/49644] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R95.php" [1]
+2017-01-01 22:12:37 URL:http://www.easton.ma.us/newsdetail_T2_R93.php [49847/49847] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R93.php" [1]
+2017-01-01 22:12:37 URL:http://www.easton.ma.us/newsdetail_T2_R83.php [49822/49822] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R83.php" [1]
+2017-01-01 22:12:38 URL:http://www.easton.ma.us/newsdetail_T2_R84.php [51597/51597] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R84.php" [1]
+2017-01-01 22:12:38 URL: http://www.easton.ma.us/docs/Clifford_Grant_2013_Trail_Work_Announcement_rev_4.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:12:39 URL:http://www.easton.ma.us/newsdetail_T2_R80.php [51298/51298] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R80.php" [1]
+2017-01-01 22:12:40 URL:http://www.easton.ma.us/newsdetail_T2_R78.php [50829/50829] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R78.php" [1]
+2017-01-01 22:12:40 URL: http://www.easton.ma.us/easton_residents/town_meeting_warrants/docs/STM_Warrant_11042013.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:12:41 URL:http://www.easton.ma.us/easton_residents/town_meeting_warrants/index.php [51734/51734] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/town_meeting_warrants/index.php" [1]
+2017-01-01 22:12:42 URL:http://www.easton.ma.us/newsdetail_T2_R74.php [49797/49797] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R74.php" [1]
+2017-01-01 22:12:42 URL: http://www.easton.ma.us/departments/board_of_health/docs/Flu_Clinic_Poster_GENERAL_10_23.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:12:43 URL:http://www.easton.ma.us/newsdetail_T2_R69.php [49652/49652] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R69.php" [1]
+2017-01-01 22:12:44 URL:http://www.easton.ma.us/newsdetail_T2_R66.php [50219/50219] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R66.php" [1]
+2017-01-01 22:12:44 URL:http://www.easton.ma.us/newsdetail_T2_R58.php [50219/50219] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R58.php" [1]
+2017-01-01 22:12:45 URL:http://www.easton.ma.us/newsdetail_T2_R59.php [49785/49785] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R59.php" [1]
+2017-01-01 22:12:46 URL:http://www.easton.ma.us/newsdetail_T2_R57.php [49839/49839] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R57.php" [1]
+2017-01-01 22:12:47 URL: http://www.easton.ma.us/docs/OpenHousePoster.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:12:48 URL:http://www.easton.ma.us/newsdetail_T2_R54.php [50268/50268] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R54.php" [1]
+2017-01-01 22:12:49 URL:http://www.easton.ma.us/newsdetail_T2_R51.php [50179/50179] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R51.php" [1]
+2017-01-01 22:12:51 URL:http://www.easton.ma.us/newsdetail_T2_R49.php [50003/50003] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R49.php" [1]
+2017-01-01 22:12:51 URL:http://www.easton.ma.us/newsdetail_T2_R48.php [50538/50538] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R48.php" [1]
+2017-01-01 22:12:52 URL:http://www.easton.ma.us/newsdetail_T2_R42.php [53581/53581] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R42.php" [1]
+2017-01-01 22:12:54 URL:http://www.easton.ma.us/newsdetail_T2_R41.php [49902/49902] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R41.php" [1]
+2017-01-01 22:13:04 URL:http://www.easton.ma.us/newsdetail_T2_R40.php [50245/50245] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R40.php" [1]
+2017-01-01 22:13:05 URL:http://www.easton.ma.us/newsdetail_T2_R35.php [50056/50056] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R35.php" [1]
+2017-01-01 22:13:06 URL:http://www.easton.ma.us/newsdetail_T2_R39.php [54004/54004] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R39.php" [1]
+2017-01-01 22:13:07 URL:http://www.easton.ma.us/departments/town_administrator/town_administrator_tv.php [55374/55374] -> "../data/townSites2/Easton/www.easton.ma.us/departments/town_administrator/town_administrator_tv.php" [1]
+2017-01-01 22:13:07 URL: http://www.easton.ma.us/docs/NNOAC_Flyer_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:13:08 URL:http://www.easton.ma.us/newsdetail_T2_R30.php [49268/49268] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R30.php" [1]
+2017-01-01 22:13:09 URL:http://www.easton.ma.us/newsdetail_T2_R25.php [50266/50266] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R25.php" [1]
+2017-01-01 22:13:10 URL:http://www.easton.ma.us/newsdetail_T2_R28.php [51261/51261] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R28.php" [1]
+2017-01-01 22:13:11 URL:http://www.easton.ma.us/newsdetail_T2_R26.php [49932/49932] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R26.php" [1]
+2017-01-01 22:13:12 URL:http://www.easton.ma.us/newsdetail_T2_R24.php [55923/55923] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R24.php" [1]
+2017-01-01 22:13:13 URL:http://www.easton.ma.us/newsdetail_T2_R23.php [50147/50147] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R23.php" [1]
+2017-01-01 22:13:15 URL:http://www.easton.ma.us/newsdetail_T2_R22.php [49764/49764] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R22.php" [1]
+2017-01-01 22:13:16 URL: http://www.easton.ma.us/docs/Notice_Howard_Street_Paving_06062013.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:13:19 URL:http://www.easton.ma.us/newsdetail_T2_R15.php [50195/50195] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R15.php" [1]
+2017-01-01 22:13:20 URL:http://www.easton.ma.us/newsdetail_T2_R14.php [51238/51238] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R14.php" [1]
+2017-01-01 22:13:21 URL:http://www.easton.ma.us/newsdetail_T2_R46.php [50171/50171] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R46.php" [1]
+2017-01-01 22:13:24 URL:http://www.easton.ma.us/newsdetail_T2_R67.php [49652/49652] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R67.php" [1]
+2017-01-01 22:13:24 URL:http://www.easton.ma.us/newsdetail_T2_R89.php [49849/49849] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R89.php" [1]
+2017-01-01 22:13:25 URL:http://www.easton.ma.us/newsdetail_T2_R178.php [49865/49865] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R178.php" [1]
+2017-01-01 22:13:27 URL:http://www.easton.ma.us/newsdetail_T2_R199.php [49390/49390] -> "../data/townSites2/Easton/www.easton.ma.us/newsdetail_T2_R199.php" [1]
+2017-01-01 22:13:27 URL: http://www.easton.ma.us/easton_residents/docs/Easton_Job_Application_Nov2016_fillable.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:13:27 URL: http://www.easton.ma.us/visitors/biking_and_walking_routes/docs/New_Pond_Gate_Access.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:13:27 URL: http://www.easton.ma.us/AgComtrifold.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:13:29 URL:http://www.easton.ma.us/boards_and_committees/agricultural_commission/resources_for_citizens.php [51302/51302] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/agricultural_commission/resources_for_citizens.php" [1]
+2017-01-01 22:13:35 URL:http://www.easton.ma.us/boards_and_committees/agricultural_commission/resources_for_farmers.php [52544/52544] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/agricultural_commission/resources_for_farmers.php" [1]
+2017-01-01 22:13:40 URL: http://www.easton.ma.us/Wheaton_Farm_Community_Garden_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:13:43 URL: http://www.easton.ma.us/boards_and_committees/agricultural_commission/images/photo.JPG 200 OK
+unlink: No such file or directory
+2017-01-01 22:13:43 URL: http://www.easton.ma.us/boards_and_committees/agricultural_commission/images/7d0441_1670b78a549c47689693a0e1b9a8b32c_jpg_srz_p_80_79_75_22_0_50_1_20_0_00_jpg_srz.jpeg 200 OK
+unlink: No such file or directory
+2017-01-01 22:13:44 URL: http://www.easton.ma.us/boards_and_committees/agricultural_commission/images/Velo_Urbano.jpeg 200 OK
+unlink: No such file or directory
+2017-01-01 22:13:53 URL:http://www.easton.ma.us/boards_and_committees/board_of_selectmen/all_other_licenses_and_permits.php [68592/68592] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/board_of_selectmen/all_other_licenses_and_permits.php" [1]
+2017-01-01 22:13:53 URL: http://www.easton.ma.us/docs/Retail_License_Renewal_ABCC_Easton.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:13:56 URL:http://www.easton.ma.us/departments/building_inspector/forms_and_permit_applications/index.php [58564/58564] -> "../data/townSites2/Easton/www.easton.ma.us/departments/building_inspector/forms_and_permit_applications/index.php" [1]
+2017-01-01 22:14:00 URL:http://www.easton.ma.us/departments/conservation_commission/applications_and_forms.php [54544/54544] -> "../data/townSites2/Easton/www.easton.ma.us/departments/conservation_commission/applications_and_forms.php" [1]
+2017-01-01 22:14:03 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_fire_department/firefighter_of_the_year_ceremony.php [57897/57897] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_fire_department/firefighter_of_the_year_ceremony.php" [1]
+2017-01-01 22:14:05 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_fire_department/easton_fire_stations.php [55491/55491] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_fire_department/easton_fire_stations.php" [1]
+2017-01-01 22:14:07 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_fire_department/iaff_memorial_observance.php [54393/54393] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_fire_department/iaff_memorial_observance.php" [1]
+2017-01-01 22:14:10 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_fire_department/donation_to_honduras.php [55679/55679] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_fire_department/donation_to_honduras.php" [1]
+2017-01-01 22:14:11 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_fire_department/fire_prevention_division.php [52517/52517] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_fire_department/fire_prevention_division.php" [1]
+2017-01-01 22:14:14 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_fire_department/emergency_medical_services.php [53426/53426] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_fire_department/emergency_medical_services.php" [1]
+2017-01-01 22:14:16 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_fire_department/department_roster.php [59903/59903] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_fire_department/department_roster.php" [1]
+2017-01-01 22:14:16 URL: http://www.easton.ma.us/easton/easton_residents/emergency_information/easton_fire_department/uploads/sharps_flyer_2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:18 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_fire_department/fire_department_news.php [52920/52920] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_fire_department/fire_department_news.php" [1]
+2017-01-01 22:14:19 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_fire_department/fire_safety_bulletin.php [52423/52423] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_fire_department/fire_safety_bulletin.php" [1]
+2017-01-01 22:14:19 URL: http://www.easton.ma.us/departments/town_clerk1/docs/Businesscertificate.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:19 URL: http://www.easton.ma.us/departments/town_clerk1/docs/BUSINESS_CERTIFICATE_NONfillable_2009.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:19 URL: http://www.easton.ma.us/Map%20of%20Cultural%20District%20Final%2010-8-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:21 URL:http://www.easton.ma.us/boards_and_committees/cultural_council/information_for_grant_applicants.php [52870/52870] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/cultural_council/information_for_grant_applicants.php" [1]
+2017-01-01 22:14:21 URL:http://www.easton.ma.us/boards_and_committees/cultural_council/application_and_reimbursement_forms.php [51751/51751] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/cultural_council/application_and_reimbursement_forms.php" [1]
+2017-01-01 22:14:22 URL: http://www.easton.ma.us/FY16CulturalCouncilGrantRecipients.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:22 URL: http://www.easton.ma.us/boards_and_committees/cultural_council/docs/10%20minute%20press%20release%20II.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:22 URL: http://www.easton.ma.us/boards_and_committees/cultural_council/docs/PRESS%20RELEAS52016%20Legacy.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:23 URL: http://www.easton.ma.us/boards_and_committees/cultural_council/docs/JUNIOR%20JURIED%20Art%20Show%20Flyer.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:23 URL: http://www.easton.ma.us/boards_and_committees/cultural_council/docs/shoveltownfestivalsept2526.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:24 URL: http://www.easton.ma.us/boards_and_committees/cultural_council/docs/tcan.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:24 URL: http://www.easton.ma.us/boards_and_committees/cultural_council/docs/cwf.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:24 URL: http://www.easton.ma.us/boards_and_committees/cultural_council/docs/poster__1_.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:25 URL:http://www.easton.ma.us/departments/conservation_commission/regulations.php [52414/52414] -> "../data/townSites2/Easton/www.easton.ma.us/departments/conservation_commission/regulations.php" [1]
+2017-01-01 22:14:26 URL:http://www.easton.ma.us/departments/conservation_commission/meetings_and_public_hearings.php [55898/55898] -> "../data/townSites2/Easton/www.easton.ma.us/departments/conservation_commission/meetings_and_public_hearings.php" [1]
+2017-01-01 22:14:27 URL:http://www.easton.ma.us/departments/conservation_commission/links_resources.php [51426/51426] -> "../data/townSites2/Easton/www.easton.ma.us/departments/conservation_commission/links_resources.php" [1]
+2017-01-01 22:14:29 URL:http://www.easton.ma.us/departments/conservation_commission/contact_us.php [51782/51782] -> "../data/townSites2/Easton/www.easton.ma.us/departments/conservation_commission/contact_us.php" [1]
+2017-01-01 22:14:29 URL: http://www.easton.ma.us/departments/conservation_commission/docs/Regulations_for_Use_of_Conservation_Land_2007.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:31 URL:http://www.easton.ma.us/departments/assessors/revaluation_faqs.php [67896/67896] -> "../data/townSites2/Easton/www.easton.ma.us/departments/assessors/revaluation_faqs.php" [1]
+2017-01-01 22:14:32 URL:http://www.easton.ma.us/departments/dpw/maps/assessor_maps.php [55948/55948] -> "../data/townSites2/Easton/www.easton.ma.us/departments/dpw/maps/assessor_maps.php" [1]
+2017-01-01 22:14:33 URL:http://www.easton.ma.us/departments/assessors/2011_sales_for_fy_2013.php [52565/52565] -> "../data/townSites2/Easton/www.easton.ma.us/departments/assessors/2011_sales_for_fy_2013.php" [1]
+2017-01-01 22:14:33 URL: http://www.easton.ma.us/easton/departments/assessors/uploads/3abc.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:34 URL:http://www.easton.ma.us/departments/assessors/motor_vehicle.php [52565/52565] -> "../data/townSites2/Easton/www.easton.ma.us/departments/assessors/motor_vehicle.php" [1]
+2017-01-01 22:14:34 URL:http://www.easton.ma.us/departments/assessors/income_and_expense.php [53642/53642] -> "../data/townSites2/Easton/www.easton.ma.us/departments/assessors/income_and_expense.php" [1]
+2017-01-01 22:14:35 URL: http://www.easton.ma.us/easton/departments/assessors/uploads/Mailing_Address_Change_Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:36 URL:http://www.easton.ma.us/departments/assessors/contact_us.php [53556/53556] -> "../data/townSites2/Easton/www.easton.ma.us/departments/assessors/contact_us.php" [1]
+2017-01-01 22:14:36 URL: http://www.easton.ma.us/departments/assessors/images/rob.JPG 200 OK
+unlink: No such file or directory
+http://www.easton.ma.us/Directory/assessors/ralford@easton.ma.us:
+Remote file does not exist -- broken link!!!
+2017-01-01 22:14:37 URL:http://www.easton.ma.us/departments/assessors/please_visit_our_frequently_asked_questions_page.php [62808/62808] -> "../data/townSites2/Easton/www.easton.ma.us/departments/assessors/please_visit_our_frequently_asked_questions_page.php" [1]
+2017-01-01 22:14:38 URL:http://www.easton.ma.us/departments/building_inspector/fee_schedules.php [52151/52151] -> "../data/townSites2/Easton/www.easton.ma.us/departments/building_inspector/fee_schedules.php" [1]
+2017-01-01 22:14:38 URL: http://www.easton.ma.us/easton/departments/building_inspector/uploads/Sign_bylaw_asof_5212012.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:39 URL:http://www.easton.ma.us/departments/building_inspector/contact_us.php [51991/51991] -> "../data/townSites2/Easton/www.easton.ma.us/departments/building_inspector/contact_us.php" [1]
+2017-01-01 22:14:39 URL: http://www.easton.ma.us/departments/building_inspector/images/Trivett.JPG 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:40 URL: http://www.easton.ma.us/departments/building_inspector/docs/Public_Notice___Eighth_Edition_of_the_Massachusetts_Commercial_Building_Code.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:40 URL: http://www.easton.ma.us/departments/data_processing/docs/Easton%20WAN%20with%20Fiber.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:41 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/Public%20Meeting%20Announcement.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:41 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/Complete%20Streets%20Policy%20proposed%2010242016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:42 URL:http://www.easton.ma.us/new_departments/planning_and_community_development/Zoning_Bylaw_Recoding.php [56755/56755] -> "../data/townSites2/Easton/www.easton.ma.us/new_departments/planning_and_community_development/Zoning_Bylaw_Recoding.php" [1]
+2017-01-01 22:14:43 URL:http://www.easton.ma.us/boards_and_committees/community_preservation_act_committee/2015CPAplan.php [51164/51164] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/community_preservation_act_committee/2015CPAplan.php" [1]
+2017-01-01 22:14:44 URL: http://www.easton.ma.us/departments/planning_and_community_development/docs/What_is_the_Department_of_Planning___Community_Development.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:46 URL:http://www.easton.ma.us/departments/planning_and_community_development/master_plan_steering_committee.php [52692/52692] -> "../data/townSites2/Easton/www.easton.ma.us/departments/planning_and_community_development/master_plan_steering_committee.php" [1]
+2017-01-01 22:14:47 URL: http://www.easton.ma.us/easton_residents/emergency_information/easton_dpw/images/image18.jpeg 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:48 URL: http://www.easton.ma.us/easton_residents/emergency_information/easton_dpw/images/image37.jpeg 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:49 URL: http://www.easton.ma.us/easton_residents/emergency_information/easton_dpw/images/image40.jpeg 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:52 URL: http://www.easton.ma.us/easton_residents/emergency_information/easton_dpw/images/image19.jpeg 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:54 URL:http://www.easton.ma.us/departments/town_administrator/reports_home_page.php [51948/51948] -> "../data/townSites2/Easton/www.easton.ma.us/departments/town_administrator/reports_home_page.php" [1]
+2017-01-01 22:15:00 URL:http://www.easton.ma.us/departments/town_administrator/personnel_management.php [56631/56631] -> "../data/townSites2/Easton/www.easton.ma.us/departments/town_administrator/personnel_management.php" [1]
+2017-01-01 22:15:07 URL:http://www.easton.ma.us/departments/town_administrator/procurement.php [51968/51968] -> "../data/townSites2/Easton/www.easton.ma.us/departments/town_administrator/procurement.php" [1]
+2017-01-01 22:15:07 URL: http://www.easton.ma.us/departments/town_administrator/images/Jon_Holbrook__David_Colton__Claire_Cronin__1_.JPG 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:09 URL: http://www.easton.ma.us/departments/town_administrator/docs/ta-qtrrep-12312015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:15 URL: http://www.easton.ma.us/departments/town_administrator/docs/ta-qtrrep-09302015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:16 URL: http://www.easton.ma.us/departments/town_administrator/docs/ta_qtrrep_06302015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:16 URL: http://www.easton.ma.us/departments/town_administrator/docs/ta_qtrrep_03312015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:17 URL: http://www.easton.ma.us/departments/town_administrator/docs/ta_qtrrep_12312014.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:17 URL: http://www.easton.ma.us/departments/town_administrator/docs/ta_qtrrep_09302014.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:18 URL: http://www.easton.ma.us/departments/town_administrator/docs/ta_qtrrep_06302014.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:19 URL: http://www.easton.ma.us/departments/town_administrator/docs/ta_qtrrep_03312014.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:21 URL: http://www.easton.ma.us/departments/town_administrator/docs/ta_qtrrep_12312013.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:21 URL: http://www.easton.ma.us/departments/town_clerk1/docs/Open_Meeting_Law_2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:21 URL: http://www.easton.ma.us/departments/town_clerk1/docs/Notice_on_Executive_Session_May_19_2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:22 URL: http://www.easton.ma.us/departments/town_clerk1/docs/Town_Clerk_Notice_Open_Meeting_Law_Feb_2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:23 URL:http://www.easton.ma.us/departments/treasurer_collector_s_office/contact_us.php [52198/52198] -> "../data/townSites2/Easton/www.easton.ma.us/departments/treasurer_collector_s_office/contact_us.php" [1]
+2017-01-01 22:15:23 URL: http://www.easton.ma.us/MLC_request_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:24 URL: http://www.easton.ma.us/departments/treasurer_collector_s_office/docs/Moody_s_Rating_August_2013.PDF 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:24 URL:http://www.easton.ma.us/departments/treasurer_collector_s_office/SMHG.php [53030/53030] -> "../data/townSites2/Easton/www.easton.ma.us/departments/treasurer_collector_s_office/SMHG.php" [1]
+2017-01-01 22:15:25 URL: http://www.easton.ma.us/departments/treasurer_collector_s_office/docs/B_12_08_23_Easton_Bond_Sale_Press_Release_DOC.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:25 URL: http://www.easton.ma.us/departments/treasurer_collector_s_office/docs/Moody_s_Rating_Aug2012.PDF 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:25 URL: http://www.easton.ma.us/departments/treasurer_collector_s_office/docs/Sale_Bond_Rating_Easton_April_14_2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:25 URL:http://www.easton.ma.us/departments/health_and_community_services/the_friends_of_frothingham.php [51436/51436] -> "../data/townSites2/Easton/www.easton.ma.us/departments/health_and_community_services/the_friends_of_frothingham.php" [1]
+2017-01-01 22:15:26 URL:http://www.easton.ma.us/departments/board_of_health/forms.php [53117/53117] -> "../data/townSites2/Easton/www.easton.ma.us/departments/board_of_health/forms.php" [1]
+2017-01-01 22:15:26 URL: http://www.easton.ma.us/departments/board_of_health/uploads/Easton_Board_of_Health_Fee_Schedule_Effective_January_1_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:27 URL:http://www.easton.ma.us/departments/board_of_health/forms_and_application.php [53652/53652] -> "../data/townSites2/Easton/www.easton.ma.us/departments/board_of_health/forms_and_application.php" [1]
+2017-01-01 22:15:28 URL:http://www.easton.ma.us/departments/board_of_health/septic_information.php [59368/59368] -> "../data/townSites2/Easton/www.easton.ma.us/departments/board_of_health/septic_information.php" [1]
+2017-01-01 22:15:28 URL: http://www.easton.ma.us/Public%20Nurse%20Schedule%20Town%20of%20Easton%202017.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:29 URL:http://www.easton.ma.us/departments/board_of_health/septic_betterment_loan_program.php [54625/54625] -> "../data/townSites2/Easton/www.easton.ma.us/departments/board_of_health/septic_betterment_loan_program.php" [1]
+2017-01-01 22:15:30 URL:http://www.easton.ma.us/departments/board_of_health/contact_us.php [54733/54733] -> "../data/townSites2/Easton/www.easton.ma.us/departments/board_of_health/contact_us.php" [1]
+2017-01-01 22:15:30 URL: http://www.easton.ma.us/boards_and_committees/enterod68.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:30 URL: http://www.easton.ma.us/Waste_Bylaw_BOH.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:31 URL: http://www.easton.ma.us/ticks.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:31 URL: http://www.easton.ma.us/easton/departments/board_of_health/uploads/MRSA.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:31 URL: http://www.easton.ma.us/easton/departments/board_of_health/uploads/bedbugs_faq.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:32 URL:http://www.easton.ma.us/departments/board_of_health/hot_topic_-_drug_kiosk_unwanted_medications.php [54433/54433] -> "../data/townSites2/Easton/www.easton.ma.us/departments/board_of_health/hot_topic_-_drug_kiosk_unwanted_medications.php" [1]
+2017-01-01 22:15:32 URL: http://www.easton.ma.us/Sharps%20Disposal%20options%202016%20update.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:33 URL: http://www.easton.ma.us/Regulation%20of%20the%20Easton%20Board%20of%20Health%20Restricting%20the%20Sale%20of%20Tobacco%20Products%20stamped%20copy.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:33 URL: http://www.easton.ma.us/departments/public_safety/animal_control/docs/Town_of_Easton_Code_relating_to_Animals__including_Dogs_.PDF 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:34 URL: http://www.easton.ma.us/departments/public_safety/animal_control/docs/dfw_living_with_coyotes.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:34 URL: http://www.easton.ma.us/departments/public_safety/animal_control/docs/Coyotes_Incidents_in_Massachusetts.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:35 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/message_from_the_chief_of_police.php [61896/61896] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/message_from_the_chief_of_police.php" [1]
+2017-01-01 22:15:36 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/weekly_police_log.php [60308/60308] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/weekly_police_log.php" [1]
+2017-01-01 22:15:36 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/mission_statement.php [60893/60893] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/mission_statement.php" [1]
+2017-01-01 22:15:38 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/firearms_licensing_information.php [62565/62565] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/firearms_licensing_information.php" [1]
+2017-01-01 22:15:41 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/divisions/index.php [51614/51614] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/divisions/index.php" [1]
+2017-01-01 22:15:41 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/divisions/administration.php [53176/53176] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/divisions/administration.php" [1]
+2017-01-01 22:15:42 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/divisions/detectives.php [53004/53004] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/divisions/detectives.php" [1]
+2017-01-01 22:15:43 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/divisions/patrol.php [55048/55048] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/divisions/patrol.php" [1]
+2017-01-01 22:15:44 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/divisions/school_resources_officers.php [54038/54038] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/divisions/school_resources_officers.php" [1]
+2017-01-01 22:15:45 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/divisions/communications.php [58647/58647] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/divisions/communications.php" [1]
+2017-01-01 22:15:45 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/divisions/special_officers.php [58137/58137] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/divisions/special_officers.php" [1]
+2017-01-01 22:15:46 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/divisions/animal_control.php [54324/54324] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/divisions/animal_control.php" [1]
+2017-01-01 22:15:47 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/divisions/motorcycle.php [53240/53240] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/divisions/motorcycle.php" [1]
+2017-01-01 22:15:48 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/divisions/honor_guard.php [52187/52187] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/divisions/honor_guard.php" [1]
+2017-01-01 22:15:49 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/divisions/metro_lec.php [54972/54972] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/divisions/metro_lec.php" [1]
+2017-01-01 22:15:49 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/community_news/index.php [53783/53783] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/community_news/index.php" [1]
+2017-01-01 22:15:50 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/community_news/special_events.php [54722/54722] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/community_news/special_events.php" [1]
+2017-01-01 22:15:51 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/community_news/school_resource_officers.php [53650/53650] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/community_news/school_resource_officers.php" [1]
+2017-01-01 22:15:53 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/community_news/child_passenger_safety.php [58417/58417] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/community_news/child_passenger_safety.php" [1]
+2017-01-01 22:15:54 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/community_news/missing_persons.php [53020/53020] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/community_news/missing_persons.php" [1]
+2017-01-01 22:15:55 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/community_news/wanted.php [53099/53099] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/community_news/wanted.php" [1]
+2017-01-01 22:15:57 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/community_news/fingerprinting.php [52969/52969] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/community_news/fingerprinting.php" [1]
+2017-01-01 22:15:58 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/community_news/traffic_enforcement.php [53366/53366] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/community_news/traffic_enforcement.php" [1]
+2017-01-01 22:15:59 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/community_news/winter_parking_ban.php [53553/53553] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/community_news/winter_parking_ban.php" [1]
+2017-01-01 22:16:00 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/community_news/memorials.php [54554/54554] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/community_news/memorials.php" [1]
+2017-01-01 22:16:01 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/community_news/texting_law.php [58320/58320] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/community_news/texting_law.php" [1]
+2017-01-01 22:16:02 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/crime_watch/index.php [51117/51117] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/crime_watch/index.php" [1]
+2017-01-01 22:16:03 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/crime_watch/domestic_violence.php [75077/75077] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/crime_watch/domestic_violence.php" [1]
+2017-01-01 22:16:04 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/crime_watch/sex_offender_registry.php [59868/59868] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/crime_watch/sex_offender_registry.php" [1]
+2017-01-01 22:16:05 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/crime_watch/identity_theft.php [60348/60348] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/crime_watch/identity_theft.php" [1]
+2017-01-01 22:16:05 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/crime_watch/internet_safety.php [54572/54572] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/crime_watch/internet_safety.php" [1]
+2017-01-01 22:16:06 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/crime_watch/crime_prevention.php [62874/62874] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/crime_watch/crime_prevention.php" [1]
+2017-01-01 22:16:07 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/crime_watch/triad.php [52598/52598] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/crime_watch/triad.php" [1]
+2017-01-01 22:16:07 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/crime_watch/pedestrian_safety.php [57224/57224] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/crime_watch/pedestrian_safety.php" [1]
+2017-01-01 22:16:08 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/related_links/index.php [56483/56483] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/related_links/index.php" [1]
+2017-01-01 22:16:09 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/related_links/easton_police.php [53041/53041] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/related_links/easton_police.php" [1]
+2017-01-01 22:16:09 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/related_links/patch_collectors.php [57112/57112] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/related_links/patch_collectors.php" [1]
+2017-01-01 22:16:10 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/related_links/employment.php [53688/53688] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/related_links/employment.php" [1]
+2017-01-01 22:16:11 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/contact_us/index.php [52032/52032] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/contact_us/index.php" [1]
+2017-01-01 22:16:17 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/contact_us/when_to_use_911.php [53276/53276] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/contact_us/when_to_use_911.php" [1]
+2017-01-01 22:16:18 URL:http://www.easton.ma.us/easton_residents/emergency_information/easton_police_department/contact_us/directions.php [51682/51682] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/emergency_information/easton_police_department/contact_us/directions.php" [1]
+2017-01-01 22:16:19 URL: http://www.easton.ma.us/easton_residents/emergency_information/docs/Easton_emegency_assistance_brochure.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:16:19 URL:http://www.easton.ma.us/boards_and_committees/affordable_housing_trust/documents_and_plans.php [87454/87454] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/affordable_housing_trust/documents_and_plans.php" [1]
+2017-01-01 22:16:20 URL: http://www.easton.ma.us/boards_and_committees/affordable_housing_trust/docs/Application-Rolling-8.1.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:16:20 URL: http://www.easton.ma.us/boards_and_committees/affordable_housing_trust/docs/Housing_Assistance_Brochure.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:16:20 URL: http://www.easton.ma.us/boards_and_committees/affordable_housing_trust/docs/AFHTbylaw2008.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:16:21 URL: http://www.easton.ma.us/boards_and_committees/affordable_housing_trust/docs/Affordable_Housing_Trust_Board_Charge_amended_11_15_10.pdf 200 OK
+unlink: No such file or directory
+http://www.easton.ma.us/Directory/affordable_housing/Affordable%20Housing%20Trust%20Board%20Charge%20amended%2011%2015%2010.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-01 22:16:22 URL: http://www.easton.ma.us/boards_and_committees/agricultural_commission/docs/Right_to_Farm_Bylaw___Section_189.docx 200 OK
+unlink: No such file or directory
+2017-01-01 22:16:22 URL: http://www.easton.ma.us/boards_and_committees/agricultural_commission/docs/Agricultural_Commission_Bylaw.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:16:23 URL:http://www.easton.ma.us/easton_residents/calendar/index.php [48577/48577] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/calendar/index.php" [1]
+2017-01-01 22:16:24 URL:http://www.easton.ma.us/boards_and_committees/budget_subcommittee/budget_subcommittee_reports_and_presentations.php [51185/51185] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/budget_subcommittee/budget_subcommittee_reports_and_presentations.php" [1]
+2017-01-01 22:16:25 URL: http://www.easton.ma.us/boards_and_committees/budget_subcommittee/docs/Budget_Subcommittee_Bylaw.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:16:27 URL:http://www.easton.ma.us/boards_and_committees/cable_advisory_committee/comcast_verizon_information.php [53665/53665] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/cable_advisory_committee/comcast_verizon_information.php" [1]
+2017-01-01 22:16:28 URL:http://www.easton.ma.us/boards_and_committees/cable_advisory_committee/faqs.php [65547/65547] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/cable_advisory_committee/faqs.php" [1]
+http://www.easton.ma.us/Directory/cable_adv/Cable%20Advisory%20Committee%20Charge.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-01 22:16:28 URL: http://www.easton.ma.us/boards_and_committees/cable_advisory_committee/docs/Cable_Advisory_Committee_Charge.pdf 200 OK
+unlink: No such file or directory
+http://www.easton.ma.us/Directory/capital_planning/towncode_chap_6.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-01 22:16:29 URL: http://www.easton.ma.us/boards_and_committees/capital_planning_committee/docs/2easton_code_capital_improvement_plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:16:29 URL: http://www.easton.ma.us/boards_and_committees/capital_planning_committee/docs/2013_05_21_Article34ATM.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:16:29 URL: http://www.easton.ma.us/easton/boards_and_committees/cemetery_commission/uploads/Town_of_Easton_MA_Cemeteries_Town___Private_listed_2008.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:16:30 URL:http://www.easton.ma.us/boards_and_committees/cemetery_commission/easton_cemetery_records.php [52670/52670] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/cemetery_commission/easton_cemetery_records.php" [1]
+2017-01-01 22:16:31 URL:http://www.easton.ma.us/boards_and_committees/cemetery_commission/adopt-a-cemetery.php [52462/52462] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/cemetery_commission/adopt-a-cemetery.php" [1]
+2017-01-01 22:16:32 URL:http://www.easton.ma.us/boards_and_committees/cemetery_commission/commission_members.php [51148/51148] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/cemetery_commission/commission_members.php" [1]
+2017-01-01 22:16:32 URL:http://www.easton.ma.us/boards_and_committees/cemetery_commission/pine_grove_cemetery.php [53092/53092] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/cemetery_commission/pine_grove_cemetery.php" [1]
+2017-01-01 22:16:33 URL:http://www.easton.ma.us/boards_and_committees/commission_on_disabilities/local_resources.php [53215/53215] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/commission_on_disabilities/local_resources.php" [1]
+2017-01-01 22:16:34 URL:http://www.easton.ma.us/boards_and_committees/commission_on_disabilities/transportation.php [51050/51050] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/commission_on_disabilities/transportation.php" [1]
+2017-01-01 22:16:34 URL:http://www.easton.ma.us/boards_and_committees/commission_on_disabilities/accessibility_tax_incentives.php [51876/51876] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/commission_on_disabilities/accessibility_tax_incentives.php" [1]
+2017-01-01 22:16:35 URL:http://www.easton.ma.us/boards_and_committees/commission_on_disabilities/regional_and_national_resources.php [58512/58512] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/commission_on_disabilities/regional_and_national_resources.php" [1]
+2017-01-01 22:16:36 URL:http://www.easton.ma.us/boards_and_committees/community_preservation_act_committee/projects_and_proposals.php [54897/54897] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/community_preservation_act_committee/projects_and_proposals.php" [1]
+2017-01-01 22:16:37 URL:http://www.easton.ma.us/boards_and_committees/community_preservation_act_committee/about_the_community_preservation_act_in_easton.php [55955/55955] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/community_preservation_act_committee/about_the_community_preservation_act_in_easton.php" [1]
+2017-01-01 22:16:37 URL: http://www.easton.ma.us/departments/conservation_commission/docs/Losing%20and%20Saving%20Wetlands%20Article.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:16:37 URL: http://www.easton.ma.us/departments/conservation_commission/docs/Chapter_227.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:16:38 URL:http://www.easton.ma.us/boards_and_committees/finance_committee/televised_meetings.php [52187/52187] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/finance_committee/televised_meetings.php" [1]
+2017-01-01 22:16:39 URL:http://www.easton.ma.us/boards_and_committees/finance_committee/memoranda.php [50765/50765] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/finance_committee/memoranda.php" [1]
+2017-01-01 22:16:40 URL: http://www.easton.ma.us/boards_and_committees/finance_committee/docs/FinCom_Memo_to_CPC__Jan_2010.pdf 200 OK
+unlink: No such file or directory
+http://www.easton.ma.us/Directory/finance_committee/Town%20of%20Easton%20Financial%20Management%20Principals.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-01 22:16:40 URL: http://www.easton.ma.us/boards_and_committees/green_communities_committee/docs/Green_Communities_Committee_Charge_approved_3_23_09.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:16:41 URL: http://www.easton.ma.us/boards_and_committees/green_communities_committee/docs/GreenFlyer_notCEC.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:16:41 URL: http://www.easton.ma.us/boards_and_committees/green_communities_committee/docs/GBFall2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:16:41 URL: http://www.easton.ma.us/boards_and_committees/green_communities_committee/docs/Greenest_of_Easton_Flyer_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:16:42 URL: http://www.easton.ma.us/boards_and_committees/green_communities_committee/docs/Greenest_of_Easton_Awards_2015.docx 200 OK
+unlink: No such file or directory
+2017-01-01 22:16:42 URL:http://www.easton.ma.us/boards_and_committees/historical_commission/meeting_protocol.php [54176/54176] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/historical_commission/meeting_protocol.php" [1]
+2017-01-01 22:16:43 URL:http://www.easton.ma.us/boards_and_committees/historical_commission/demolition_review.php [56985/56985] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/historical_commission/demolition_review.php" [1]
+2017-01-01 22:16:44 URL: http://www.easton.ma.us/easton/boards_and_committees/historical_commission/uploads/Easton_Historic_Preservation_Plan_07142008.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:16:44 URL:http://www.easton.ma.us/boards_and_committees/historical_commission/local_historic_district/index.php [53927/53927] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/historical_commission/local_historic_district/index.php" [1]
+2017-01-01 22:16:45 URL:http://www.easton.ma.us/boards_and_committees/historical_commission/local_historic_district/reports_and_presentations.php [51852/51852] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/historical_commission/local_historic_district/reports_and_presentations.php" [1]
+2017-01-01 22:16:46 URL:http://www.easton.ma.us/boards_and_committees/historical_commission/resources.php [53418/53418] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/historical_commission/resources.php" [1]
+2017-01-01 22:16:46 URL: http://www.easton.ma.us/boards_and_committees/historical_commission/docs/1Demolition_Review_Rules_Regulations___Amended_2012_06_12__1_.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:16:46 URL: http://www.easton.ma.us/boards_and_committees/historical_commission/docs/2Chapter_114_amended_5_18_09.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:16:46 URL: http://www.easton.ma.us/boards_and_committees/humanrightscommittee/docs/Human%20Rights%20Committee%20Charge%20approved%203%2023%2009.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:16:47 URL: http://www.easton.ma.us/boards_and_committees/municipal_building_committee/docs/MBC_Charge.pdf 200 OK
+unlink: No such file or directory
+http://www.easton.ma.us/Directory/mbc/MBC%20Charge.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-01 22:16:48 URL:http://www.easton.ma.us/boards_and_committees/planning_and_zoning_board/roles_and_responsibilities.php [64531/64531] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/planning_and_zoning_board/roles_and_responsibilities.php" [1]
+2017-01-01 22:16:48 URL:http://www.easton.ma.us/boards_and_committees/planning_and_zoning_board/rules_and_regulations.php [54506/54506] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/planning_and_zoning_board/rules_and_regulations.php" [1]
+2017-01-01 22:16:49 URL:http://www.easton.ma.us/boards_and_committees/planning_and_zoning_board/applications_and_fees.php [69432/69432] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/planning_and_zoning_board/applications_and_fees.php" [1]
+2017-01-01 22:16:50 URL:http://www.easton.ma.us/boards_and_committees/planning_and_zoning_board/calendar.php [50645/50645] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/planning_and_zoning_board/calendar.php" [1]
+2017-01-01 22:16:51 URL: http://www.easton.ma.us/boards_and_committees/public_spaces_committee/docs/Public_Spaces_Committee_Charge.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:16:52 URL:http://www.easton.ma.us/boards_and_committees/board_of_selectmen/selectmen_s_meeting_schedule.php [54059/54059] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/board_of_selectmen/selectmen_s_meeting_schedule.php" [1]
+2017-01-01 22:16:54 URL:http://www.easton.ma.us/boards_and_committees/board_of_selectmen/selectmen_s_televised_meetings.php [52197/52197] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/board_of_selectmen/selectmen_s_televised_meetings.php" [1]
+2017-01-01 22:16:57 URL:http://www.easton.ma.us/boards_and_committees/board_of_selectmen/licensing.php [54044/54044] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/board_of_selectmen/licensing.php" [1]
+2017-01-01 22:16:58 URL:http://www.easton.ma.us/boards_and_committees/board_of_selectmen/liquor_license_annual.php [54041/54041] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/board_of_selectmen/liquor_license_annual.php" [1]
+2017-01-01 22:16:58 URL: http://www.easton.ma.us/boards_and_committees/board_of_selectmen/docs/3ATR2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:16:58 URL: http://www.easton.ma.us/boards_and_committees/board_of_selectmen/docs/4Town_of_Easton_2010_annualreport.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:17:00 URL: http://www.easton.ma.us/boards_and_committees/board_of_selectmen/docs/5Town_of_Easton_Annual_Report_2009.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:17:00 URL: http://www.easton.ma.us/boards_and_committees/board_of_selectmen/docs/6Town_of_Easton_Annual_Report_2008.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:17:01 URL: http://www.easton.ma.us/boards_and_committees/board_of_selectmen/docs/TOWN_OF_EASTON_Annual_Report_2007.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:17:02 URL: http://www.easton.ma.us/boards_and_committees/special_act_charter_committee/docs/Final_Recommended_Charter_Easton.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:17:07 URL:http://www.easton.ma.us/boards_and_committees/zoning_board_of_appeals/forms_and_applications.php [51740/51740] -> "../data/townSites2/Easton/www.easton.ma.us/boards_and_committees/zoning_board_of_appeals/forms_and_applications.php" [1]
+2017-01-01 22:17:07 URL: http://www.easton.ma.us/boards_and_committees/resources_for_committee_members/docs/Social_Media_Policy_board_commissions.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:17:07 URL: http://www.easton.ma.us/easton_residents/employment_volunteer_opportunities/docs/Volunteer_form_fillable.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:17:08 URL:http://www.easton.ma.us/easton_residents/financial_assistance/easton_food_pantry.php [53214/53214] -> "../data/townSites2/Easton/www.easton.ma.us/easton_residents/financial_assistance/easton_food_pantry.php" [1]
+2017-01-01 22:17:10 URL: http://www.easton.ma.us/prop2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:17:10 URL: http://www.easton.ma.us/Winter_Storm_Prep.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:17:11 URL: http://www.easton.ma.us/Outages.pdf 200 OK
+unlink: No such file or directory
+Found 10 broken links.
+
+http://www.easton.ma.us/Directory/mbc/MBC%20Charge.pdf
+http://www.easton.ma.us/Directory/cable_adv/Cable%20Advisory%20Committee%20Charge.pdf
+http://www.easton.ma.us/Directory/selectmen/BoardOfSelectmen.htm
+http://www.easton.ma.us/Directory/affordable_housing/Affordable%20Housing%20Trust%20Board%20Charge%20amended%2011%2015%2010.pdf
+http://www.easton.ma.us/Directory/finance_committee/Town%20of%20Easton%20Financial%20Management%20Principals.pdf
+http://www.easton.ma.us/Directory/selectmen/Town%20of%20Easton%20Annual%20Report%202008.pdf
+http://www.easton.ma.us/Directory/assessors/ralford@easton.ma.us
+http://www.easton.ma.us/Directory/capital_planning/towncode_chap_6.pdf
+http://www.easton.ma.us/Icons/0
+http://www.easton.ma.us/repository/easton/mailto:cread@easton.ma.us
+
+FINISHED --2017-01-01 22:17:11--
+Total wall clock time: 12m 50s
+Downloaded: 422 files, 22M in 3m 55s (97.4 KB/s)

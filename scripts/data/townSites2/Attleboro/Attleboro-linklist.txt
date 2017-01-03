@@ -1,0 +1,8 @@
+2017-01-02 00:13:10 URL:http://www.cityofattleboro.us/ [23422/23422] -> "../data/townSites2/Attleboro/www.cityofattleboro.us/index.html" [1]
+2017-01-02 00:13:11 URL:http://www.cityofattleboro.us/collector/onlinebill.htm [49037/49037] -> "../data/townSites2/Attleboro/www.cityofattleboro.us/collector/onlinebill.htm" [1]
+2017-01-02 00:13:12 URL:http://www.cityofattleboro.us/collector/ [13734/13734] -> "../data/townSites2/Attleboro/www.cityofattleboro.us/collector/index.html" [1]
+Found no broken links.
+
+FINISHED --2017-01-02 00:13:12--
+Total wall clock time: 3.1s
+Downloaded: 3 files, 84K in 0.3s (320 KB/s)

@@ -1,0 +1,35 @@
+2017-01-02 04:00:55 URL:http://www.town.raynham.ma.us/ [1200] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/index.html" [1]
+2017-01-02 04:00:58 URL:http://www.town.raynham.ma.us/Public_Documents/index [43977] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/Public_Documents/index" [1]
+2017-01-02 04:01:02 URL:http://www.town.raynham.ma.us/Public_Documents/index2 [46741] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/Public_Documents/index2" [1]
+2017-01-02 04:01:05 URL:http://www.town.raynham.ma.us/Public_Documents/RaynhamMA_WebDocs/residents [32572] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/Public_Documents/RaynhamMA_WebDocs/residents" [1]
+2017-01-02 04:01:07 URL:http://www.town.raynham.ma.us/Public_Documents/RaynhamMA_WebDocs/businesses [21150] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/Public_Documents/RaynhamMA_WebDocs/businesses" [1]
+2017-01-02 04:01:09 URL:http://www.town.raynham.ma.us/Public_Documents/RaynhamMA_WebDocs/about [22499] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/Public_Documents/RaynhamMA_WebDocs/about" [1]
+2017-01-02 04:01:10 URL:http://www.town.raynham.ma.us/Public_Documents/RaynhamMA_WebDocs/departments [31150] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/Public_Documents/RaynhamMA_WebDocs/departments" [1]
+2017-01-02 04:01:11 URL:http://www.town.raynham.ma.us/Public_Documents/RaynhamMA_BComm/index [34051] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/Public_Documents/RaynhamMA_BComm/index" [1]
+2017-01-02 04:01:13 URL:http://www.town.raynham.ma.us/Public_Documents/RaynhamMA_WebDocs/forms [34387] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/Public_Documents/RaynhamMA_WebDocs/forms" [1]
+2017-01-02 04:01:14 URL:http://www.town.raynham.ma.us/Public_Documents/RaynhamMA_WebDocs/links [24678] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/Public_Documents/RaynhamMA_WebDocs/links" [1]
+2017-01-02 04:01:15 URL:http://www.town.raynham.ma.us/Public_Documents/RaynhamMA_Library/index [29561] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/Public_Documents/RaynhamMA_Library/index" [1]
+2017-01-02 04:01:17 URL:http://www.town.raynham.ma.us/Public_Documents/RaynhamMA_School/index [23022] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/Public_Documents/RaynhamMA_School/index" [1]
+2017-01-02 04:01:18 URL:http://www.town.raynham.ma.us/subscriber [24153] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/subscriber" [1]
+2017-01-02 04:01:19 URL:http://www.town.raynham.ma.us/Public_Documents/RaynhamMA_WebDocs/comments [25973] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/Public_Documents/RaynhamMA_WebDocs/comments" [1]
+2017-01-02 04:01:20 URL:http://www.town.raynham.ma.us/Public_Documents/RaynhamMA_Highway/BagandTag [35911] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/Public_Documents/RaynhamMA_Highway/BagandTag" [1]
+2017-01-02 04:01:22 URL:http://www.town.raynham.ma.us/Public_Documents/RaynhamMA_Recreation/index [29764] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/Public_Documents/RaynhamMA_Recreation/index" [1]
+2017-01-02 04:01:24 URL:http://www.town.raynham.ma.us/Public_Documents/RaynhamMA_Clerk/index [63698] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/Public_Documents/RaynhamMA_Clerk/index" [1]
+2017-01-02 04:01:24 URL: http://www.town.raynham.ma.us/Public_Documents/RaynhamMA_Admin/Annual%20Town%20Meeting%202011-2012.doc 200 OK
+unlink: No such file or directory
+2017-01-02 04:01:25 URL:http://www.town.raynham.ma.us/Public_Documents/RaynhamMA_Assessor/index [31395] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/Public_Documents/RaynhamMA_Assessor/index" [1]
+2017-01-02 04:01:27 URL:http://www.town.raynham.ma.us/Public_Documents/RaynhamMA_Admin/override [20095] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/Public_Documents/RaynhamMA_Admin/override" [1]
+2017-01-02 04:01:30 URL:http://www.town.raynham.ma.us/Public_Documents/RaynhamMA_Admin/2009OpenSpaceSurvey [46593] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/Public_Documents/RaynhamMA_Admin/2009OpenSpaceSurvey" [1]
+2017-01-02 04:01:32 URL:http://www.town.raynham.ma.us/Public_Documents/RaynhamMA_ZoningRegs/index [32045] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/Public_Documents/RaynhamMA_ZoningRegs/index" [1]
+2017-01-02 04:01:33 URL:http://www.town.raynham.ma.us/Public_Documents/RaynhamMA_Building/index [30993] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/Public_Documents/RaynhamMA_Building/index" [1]
+2017-01-02 04:01:36 URL:http://www.town.raynham.ma.us/Public_Documents/RaynhamMA_BBoard/ [29581] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/Public_Documents/RaynhamMA_BBoard/index.html" [1]
+2017-01-02 04:01:38 URL:http://www.town.raynham.ma.us/Public_Documents/RaynhamMA_BBoard/0587F03A-000F8513 [21505] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/Public_Documents/RaynhamMA_BBoard/0587F03A-000F8513" [1]
+2017-01-02 04:01:40 URL:http://www.town.raynham.ma.us/Public_Documents/RaynhamMA_BBoard/05863A3B-000F8513 [16565] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/Public_Documents/RaynhamMA_BBoard/05863A3B-000F8513" [1]
+2017-01-02 04:01:42 URL:http://www.town.raynham.ma.us/Public_Documents/RaynhamMA_BBoard/05860FD5-000F8513 [21363] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/Public_Documents/RaynhamMA_BBoard/05860FD5-000F8513" [1]
+2017-01-02 04:01:45 URL:http://www.town.raynham.ma.us/Public_Documents/RaynhamMA_BBoard/0584ADA3-000F8513 [20985] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/Public_Documents/RaynhamMA_BBoard/0584ADA3-000F8513" [1]
+2017-01-02 04:01:47 URL:http://www.town.raynham.ma.us/Public_Documents/RaynhamMA_BBoard/05822FFF-000F8513 [17822] -> "../data/townSites2/Raynham/www.town.raynham.ma.us/Public_Documents/RaynhamMA_BBoard/05822FFF-000F8513" [1]
+Found no broken links.
+
+FINISHED --2017-01-02 04:01:47--
+Total wall clock time: 53s
+Downloaded: 28 files, 794K in 19s (42.8 KB/s)

@@ -1,0 +1,60 @@
+2017-01-02 00:15:10 URL:http://www.ci.lancaster.ma.us/ [1205] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/index.html" [1]
+2017-01-02 00:15:16 URL:http://www.ci.lancaster.ma.us/Pages/index [82247] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/index" [1]
+2017-01-02 00:15:18 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/departments [23867] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/departments" [1]
+2017-01-02 00:15:31 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_BComm/index [26342] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_BComm/index" [1]
+2017-01-02 00:15:40 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/contact [27523] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/contact" [1]
+2017-01-02 00:15:47 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_Schools/index [28174] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_Schools/index" [1]
+2017-01-02 00:15:50 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_BComm/LCC [32446] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_BComm/LCC" [1]
+2017-01-02 00:15:54 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/linksofinterest [41849] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/linksofinterest" [1]
+2017-01-02 00:15:56 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/forms [36260] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/forms" [1]
+2017-01-02 00:15:59 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/billpay [31733] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/billpay" [1]
+2017-01-02 00:16:03 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_EmployeeInfo/index [23967] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_EmployeeInfo/index" [1]
+2017-01-02 00:16:06 URL:http://www.ci.lancaster.ma.us/subscriber [33781] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/subscriber" [1]
+2017-01-02 00:16:09 URL:http://www.ci.lancaster.ma.us/Pages/search [42483] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/search" [1]
+2017-01-02 00:16:09 URL: http://www.ci.lancaster.ma.us/Icons/0 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:10 URL: http://www.ci.lancaster.ma.us/Pages/02044128-000F8513.2/Community%20Development%20Block%20Grant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:12 URL: http://www.ci.lancaster.ma.us/Pages/02044128-000F8513.4/Updated%20Drought%20Advisory.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:14 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_Admin/index [35979] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_Admin/index" [1]
+2017-01-02 00:16:14 URL: http://www.ci.lancaster.ma.us/Pages/LancasterMA_TownClerk/2017%20Dog%20License%20Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:15 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_Job/ [19161] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_Job/index.html" [1]
+2017-01-02 00:16:17 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_BComm/coa [51487] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_BComm/coa" [1]
+2017-01-02 00:16:18 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_TownClerk/Newsletters/ [18669] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_TownClerk/Newsletters/index.html" [1]
+2017-01-02 00:16:19 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/about [19508] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/about" [1]
+2017-01-02 00:16:20 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_Bid/ [17563] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_Bid" [1]
+2017-01-02 00:16:22 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_Job/ [19393] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_Job.1" [1]
+2017-01-02 00:16:24 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/Community%20Development%20Grant%20Information/ [20560] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/Community Development Grant Information" [1]
+2017-01-02 00:16:25 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_Recycling/index [31350] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_Recycling/index" [1]
+2017-01-02 00:16:25 URL: http://www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/TownHall%20Departments%203-16-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:26 URL: http://www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/Points%20of%20Interest%20Map%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:26 URL: http://www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/Lancaster_OfficialStreetMap_2015_11x17P.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:27 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/Noise%20at%20Devens%20Notifications%20by%20Month/ [21493] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/Noise at Devens Notifications by Month" [1]
+2017-01-02 00:16:32 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/water [17814] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/water" [1]
+2017-01-02 00:16:33 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/farm [18684] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/farm" [1]
+2017-01-02 00:16:33 URL: http://www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/Lancaster%20Scenic%20Roads.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:34 URL: http://www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/Lancaster%20Business%20List.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:35 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/Zoning%20and%20Development%20Maps/ [21295] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/Zoning and Development Maps" [1]
+2017-01-02 00:16:35 URL: http://www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/Expedited%20Permitting%20Guidebook%20-%20October.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:37 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/RegionalEconomicDevelopment [18846] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/RegionalEconomicDevelopment" [1]
+2017-01-02 00:16:38 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_News/ [29783] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_News/index.html" [1]
+2017-01-02 00:16:39 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_News/025149E2-000F8513 [18676] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_News/025149E2-000F8513" [1]
+2017-01-02 00:16:40 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_News/024FF8B3-000F8513 [18458] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_News/024FF8B3-000F8513" [1]
+2017-01-02 00:16:41 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_News/02507D70-000F8513 [19446] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_News/02507D70-000F8513" [1]
+2017-01-02 00:16:42 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_News/024FF1C0-000F8513 [18582] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_News/024FF1C0-000F8513" [1]
+2017-01-02 00:16:43 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_News/024E3EA8-000F8513 [26267] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_News/024E3EA8-000F8513" [1]
+2017-01-02 00:16:44 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/disclaimer [19567] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/disclaimer" [1]
+2017-01-02 00:16:46 URL:http://www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/privacy [17385] -> "../data/townSites2/Lancaster/www.ci.lancaster.ma.us/Pages/LancasterMA_WebDocs/privacy" [1]
+Found no broken links.
+
+FINISHED --2017-01-02 00:16:46--
+Total wall clock time: 1m 39s
+Downloaded: 35 files, 910K in 30s (30.7 KB/s)

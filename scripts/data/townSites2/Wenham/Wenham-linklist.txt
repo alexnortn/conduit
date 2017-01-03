@@ -1,0 +1,427 @@
+2017-01-02 01:58:18 URL:http://www.wenhamma.gov/ [53296/53296] -> "../data/townSites2/Wenham/www.wenhamma.gov/index.html" [1]
+2017-01-02 01:58:18 URL: http://www.wenhamma.gov/_images_/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 01:58:19 URL:http://www.wenhamma.gov/index.php [53296/53296] -> "../data/townSites2/Wenham/www.wenhamma.gov/index.php" [1]
+2017-01-02 01:58:19 URL:http://www.wenhamma.gov/town_government/index.php [30200/30200] -> "../data/townSites2/Wenham/www.wenhamma.gov/town_government/index.php" [1]
+2017-01-02 01:58:20 URL:http://www.wenhamma.gov/town_government/board_of_selectmen.php [35127/35127] -> "../data/townSites2/Wenham/www.wenhamma.gov/town_government/board_of_selectmen.php" [1]
+2017-01-02 01:58:21 URL:http://www.wenhamma.gov/town_government/town_administrator.php [34696/34696] -> "../data/townSites2/Wenham/www.wenhamma.gov/town_government/town_administrator.php" [1]
+2017-01-02 01:58:21 URL:http://www.wenhamma.gov/departments/index.php [32063/32063] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/index.php" [1]
+2017-01-02 01:58:22 URL:http://www.wenhamma.gov/departments/accountant.php [33316/33316] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/accountant.php" [1]
+2017-01-02 01:58:23 URL:http://www.wenhamma.gov/departments/assessors.php [37360/37360] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/assessors.php" [1]
+2017-01-02 01:58:23 URL:http://www.wenhamma.gov/departments/board_of_health.php [36004/36004] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/board_of_health.php" [1]
+2017-01-02 01:58:24 URL:http://www.wenhamma.gov/departments/building_department.php [36784/36784] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/building_department.php" [1]
+2017-01-02 01:58:25 URL:http://www.wenhamma.gov/departments/council_on_aging.php [33881/33881] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/council_on_aging.php" [1]
+2017-01-02 01:58:25 URL:http://www.wenhamma.gov/departments/department_of_public_works.php [40924/40924] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/department_of_public_works.php" [1]
+2017-01-02 01:58:26 URL:http://www.wenhamma.gov/departments/eastern_essex_district_of_veterans_affairs.php [33231/33231] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/eastern_essex_district_of_veterans_affairs.php" [1]
+2017-01-02 01:58:27 URL:http://www.wenhamma.gov/departments/fire_department.php [34529/34529] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/fire_department.php" [1]
+2017-01-02 01:58:27 URL:http://www.wenhamma.gov/departments/library.php [35482/35482] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/library.php" [1]
+2017-01-02 01:58:28 URL:http://www.wenhamma.gov/departments/police_department.php [40805/40805] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/police_department.php" [1]
+2017-01-02 01:58:29 URL:http://www.wenhamma.gov/departments/recreation.php [33363/33363] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/recreation.php" [1]
+2017-01-02 01:58:29 URL:http://www.wenhamma.gov/departments/school_department.php [35853/35853] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/school_department.php" [1]
+2017-01-02 01:58:30 URL:http://www.wenhamma.gov/departments/town_clerk.php [34881/34881] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/town_clerk.php" [1]
+2017-01-02 01:58:31 URL:http://www.wenhamma.gov/departments/treasurer_and_tax_collector.php [35495/35495] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/treasurer_and_tax_collector.php" [1]
+2017-01-02 01:58:31 URL:http://www.wenhamma.gov/departments/tree_warden.php [33318/33318] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/tree_warden.php" [1]
+2017-01-02 01:58:32 URL:http://www.wenhamma.gov/departments/water_department.php [39541/39541] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/water_department.php" [1]
+2017-01-02 01:58:32 URL:http://www.wenhamma.gov/boards_and_committees/index.php [33286/33286] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/index.php" [1]
+2017-01-02 01:58:33 URL:http://www.wenhamma.gov/boards_and_committees/375th_annivsersary_committee.php [31773/31773] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/375th_annivsersary_committee.php" [1]
+2017-01-02 01:58:34 URL:http://www.wenhamma.gov/boards_and_committees/american_with_disability_act_(ada).php [33090/33090] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/american_with_disability_act_(ada).php" [1]
+2017-01-02 01:58:34 URL:http://www.wenhamma.gov/boards_and_committees/cemetery_commission.php [34114/34114] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/cemetery_commission.php" [1]
+2017-01-02 01:58:35 URL:http://www.wenhamma.gov/boards_and_committees/community_preservation_committee.php [37732/37732] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/community_preservation_committee.php" [1]
+2017-01-02 01:58:36 URL:http://www.wenhamma.gov/boards_and_committees/conservation_commission.php [35944/35944] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/conservation_commission.php" [1]
+2017-01-02 01:58:36 URL:http://www.wenhamma.gov/boards_and_committees/council_on_aging_-_coa.php [31516/31516] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/council_on_aging_-_coa.php" [1]
+2017-01-02 01:58:37 URL:http://www.wenhamma.gov/boards_and_committees/cultural_council.php [34120/34120] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/cultural_council.php" [1]
+2017-01-02 01:58:37 URL:http://www.wenhamma.gov/boards_and_committees/economic_developement_committee.php [31807/31807] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/economic_developement_committee.php" [1]
+2017-01-02 01:58:38 URL:http://www.wenhamma.gov/boards_and_committees/finance_and_advisory_committee.php [33381/33381] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/finance_and_advisory_committee.php" [1]
+2017-01-02 01:58:39 URL:http://www.wenhamma.gov/boards_and_committees/historic_district_commission.php [35057/35057] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/historic_district_commission.php" [1]
+2017-01-02 01:58:39 URL:http://www.wenhamma.gov/boards_and_committees/iron_rail_commission.php [39159/39159] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/iron_rail_commission.php" [1]
+2017-01-02 01:58:40 URL:http://www.wenhamma.gov/boards_and_committees/logan_airport_community_advisory_committee.php [35212/35212] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/logan_airport_community_advisory_committee.php" [1]
+2017-01-02 01:58:41 URL:http://www.wenhamma.gov/boards_and_committees/open_space_and_recreation_committee.php [32614/32614] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/open_space_and_recreation_committee.php" [1]
+2017-01-02 01:58:41 URL:http://www.wenhamma.gov/boards_and_committees/pingree_park_playground_committee.php [30515/30515] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/pingree_park_playground_committee.php" [1]
+2017-01-02 01:58:42 URL:http://www.wenhamma.gov/boards_and_committees/planning_board.php [35650/35650] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/planning_board.php" [1]
+2017-01-02 01:58:42 URL:http://www.wenhamma.gov/boards_and_committees/war_memorial_committee.php [34996/34996] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/war_memorial_committee.php" [1]
+2017-01-02 01:58:43 URL:http://www.wenhamma.gov/boards_and_committees/wenham_affordable_housing_trust.php [34106/34106] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/wenham_affordable_housing_trust.php" [1]
+2017-01-02 01:58:44 URL:http://www.wenhamma.gov/boards_and_committees/wenham_housing_authority.php [31960/31960] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/wenham_housing_authority.php" [1]
+2017-01-02 01:58:45 URL:http://www.wenhamma.gov/boards_and_committees/wenham_issues_of_social_service_help_(wissh).php [36473/36473] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/wenham_issues_of_social_service_help_(wissh).php" [1]
+2017-01-02 01:58:45 URL:http://www.wenhamma.gov/boards_and_committees/zoning_board_of_appeals.php [36693/36693] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/zoning_board_of_appeals.php" [1]
+2017-01-02 01:58:46 URL:http://www.wenhamma.gov/community/index.php [25808/25808] -> "../data/townSites2/Wenham/www.wenhamma.gov/community/index.php" [1]
+2017-01-02 01:58:46 URL:http://www.wenhamma.gov/community/pleasant_pond_beach.php [32834/32834] -> "../data/townSites2/Wenham/www.wenhamma.gov/community/pleasant_pond_beach.php" [1]
+2017-01-02 01:58:47 URL:http://www.wenhamma.gov/volunteer_opportunities_board_and_committees.php [36699/36699] -> "../data/townSites2/Wenham/www.wenhamma.gov/volunteer_opportunities_board_and_committees.php" [1]
+2017-01-02 01:58:48 URL:http://www.wenhamma.gov/staff_directory/index.php [150218/150218] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory/index.php" [1]
+2017-01-02 01:58:48 URL:http://www.wenhamma.gov/town_government/town_administrator_reports.php [32965/32965] -> "../data/townSites2/Wenham/www.wenhamma.gov/town_government/town_administrator_reports.php" [1]
+2017-01-02 01:58:49 URL:http://www.wenhamma.gov/important_documents/index.php [32622/32622] -> "../data/townSites2/Wenham/www.wenhamma.gov/important_documents/index.php" [1]
+2017-01-02 01:58:50 URL:http://www.wenhamma.gov/meeting_minutes/index.php [32999/32999] -> "../data/townSites2/Wenham/www.wenhamma.gov/meeting_minutes/index.php" [1]
+2017-01-02 01:58:50 URL:http://www.wenhamma.gov/citizens_leadership_academy/index.php [36803/36803] -> "../data/townSites2/Wenham/www.wenhamma.gov/citizens_leadership_academy/index.php" [1]
+2017-01-02 01:58:51 URL:http://www.wenhamma.gov/job_and_volunteer_opportunities_in_wenham/index.php [31907/31907] -> "../data/townSites2/Wenham/www.wenhamma.gov/job_and_volunteer_opportunities_in_wenham/index.php" [1]
+2017-01-02 01:58:52 URL:http://www.wenhamma.gov/seeclickfix/index.php [35611/35611] -> "../data/townSites2/Wenham/www.wenhamma.gov/seeclickfix/index.php" [1]
+2017-01-02 01:58:52 URL:http://www.wenhamma.gov/newslist.php [77698/77698] -> "../data/townSites2/Wenham/www.wenhamma.gov/newslist.php" [1]
+2017-01-02 01:58:53 URL:http://www.wenhamma.gov/calendar_app/index.html [85898/85898] -> "../data/townSites2/Wenham/www.wenhamma.gov/calendar_app/index.html" [1]
+2017-01-02 01:58:53 URL:http://www.wenhamma.gov/calendar/index.php [26459/26459] -> "../data/townSites2/Wenham/www.wenhamma.gov/calendar/index.php" [1]
+2017-01-02 01:58:54 URL:http://www.wenhamma.gov/town_government/2014_meeting_minutes.php [35172/35172] -> "../data/townSites2/Wenham/www.wenhamma.gov/town_government/2014_meeting_minutes.php" [1]
+2017-01-02 01:58:55 URL:http://www.wenhamma.gov/town_government/2015_meeting_minutes.php [36260/36260] -> "../data/townSites2/Wenham/www.wenhamma.gov/town_government/2015_meeting_minutes.php" [1]
+2017-01-02 01:58:55 URL:http://www.wenhamma.gov/town_government/2016_meeting_minutes.php [37448/37448] -> "../data/townSites2/Wenham/www.wenhamma.gov/town_government/2016_meeting_minutes.php" [1]
+2017-01-02 01:58:56 URL:http://www.wenhamma.gov/town_government/fy2017_bos_meeting_minutes.php [32510/32510] -> "../data/townSites2/Wenham/www.wenhamma.gov/town_government/fy2017_bos_meeting_minutes.php" [1]
+2017-01-02 01:58:56 URL: http://www.wenhamma.gov/SIGNED_CONTRACT_PETER_LOMBARDI_2015_2018.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:58:57 URL: http://www.wenhamma.gov/Town_Department_Profiles_TA_08_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:58:57 URL:http://www.wenhamma.gov/town_government/2015_ta_reports.php [32915/32915] -> "../data/townSites2/Wenham/www.wenhamma.gov/town_government/2015_ta_reports.php" [1]
+2017-01-02 01:58:58 URL:http://www.wenhamma.gov/town_government/2016_ta_reports.php [33660/33660] -> "../data/townSites2/Wenham/www.wenhamma.gov/town_government/2016_ta_reports.php" [1]
+2017-01-02 01:58:59 URL:http://www.wenhamma.gov/departments/department_profiles.php [33443/33443] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/department_profiles.php" [1]
+2017-01-02 01:58:59 URL:http://www.wenhamma.gov/departments/real_estate_and_personal_property_abatements.php [34570/34570] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/real_estate_and_personal_property_abatements.php" [1]
+2017-01-02 01:58:59 URL: http://www.wenhamma.gov/Copy%20of%20FY2016WebsiteValues.xls 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:00 URL:http://www.wenhamma.gov/departments/mosquito_information.php [33987/33987] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/mosquito_information.php" [1]
+2017-01-02 01:59:01 URL:http://www.wenhamma.gov/departments/septic_and_title_v_information.php [34103/34103] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/septic_and_title_v_information.php" [1]
+2017-01-02 01:59:01 URL:http://www.wenhamma.gov/departments/food_service.php [34248/34248] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/food_service.php" [1]
+2017-01-02 01:59:02 URL: http://www.wenhamma.gov/Pool%20Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:02 URL: http://www.wenhamma.gov/Well%20and%20Pump%20Permit%20Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:02 URL: http://www.wenhamma.gov/Building_Permit_Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:03 URL: http://www.wenhamma.gov/ELECT__PERMIT_APPLICATION.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:03 URL: http://www.wenhamma.gov/Gas_Application_2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:03 URL: http://www.wenhamma.gov/Plumbing_Application_2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:04 URL: http://www.wenhamma.gov/Sheet_Metal_Permit_Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:04 URL: http://www.wenhamma.gov/E-Permitting%20Guidelines.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:04 URL: http://www.wenhamma.gov/Wenham_Fee_Schedule___All_Departments.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:05 URL: http://www.wenhamma.gov/BEM%20Fee%20Schedule.%20Effective%201.1.17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:05 URL: http://www.wenhamma.gov/departments/docs/Permitting%20Fees%20Announcement.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:05 URL:http://www.wenhamma.gov/departments/newsletters_-_2/index.php [35561/35561] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/newsletters_-_2/index.php" [1]
+2017-01-02 01:59:06 URL: http://www.wenhamma.gov/Van_Program_Description.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:06 URL: http://www.wenhamma.gov/Wenham_Newsletter_Calendar_December_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:06 URL: http://www.wenhamma.gov/COA_Board_Matrix___PDF.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:07 URL: http://www.wenhamma.gov/2017%20Trash%20Calendar.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:07 URL: http://www.wenhamma.gov/2016%20Trash%20Calendar3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:08 URL:http://www.wenhamma.gov/departments/electronic_and_metal_waste.php [39063/39063] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/electronic_and_metal_waste.php" [1]
+2017-01-02 01:59:08 URL: http://www.wenhamma.gov/Solid_Waste_Flyer_pdf_update_7_31_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:09 URL: http://www.wenhamma.gov/Updated%20Organic_Waste_COMPOST_Page_2__2_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:09 URL: http://www.wenhamma.gov/FROZEN_FOOD_IN_BINS.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:09 URL: http://www.wenhamma.gov/New_Wenham_Single_Stream_Recycling.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:09 URL: http://www.wenhamma.gov/CurbsideCompostGuidelines__2_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:10 URL: http://www.wenhamma.gov/Word%20Recycl%20That%20FlyerPDF.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:10 URL: http://www.wenhamma.gov/HHW%20Day%20Flyer%20Fall%202017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:10 URL:http://www.wenhamma.gov/departments/compost_available!.php [36033/36033] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/compost_available!.php" [1]
+2017-01-02 01:59:11 URL: http://www.wenhamma.gov/Snow_Plowing_Policies.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:11 URL:http://www.wenhamma.gov/departments/street_opening_permit_and_regulations.php [35597/35597] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/street_opening_permit_and_regulations.php" [1]
+2017-01-02 01:59:12 URL:http://www.wenhamma.gov/energy_efficiency_initiatives.php [38320/38320] -> "../data/townSites2/Wenham/www.wenhamma.gov/energy_efficiency_initiatives.php" [1]
+2017-01-02 01:59:12 URL: http://www.wenhamma.gov/Wenham_Energy_Cover_Page.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:12 URL: http://www.wenhamma.gov/departments/Wenham_Streetlight_LED_Project_Page.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:12 URL: http://www.wenhamma.gov/Wenham_Exterior_Building_Lighting_Project_Page.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:13 URL: http://www.wenhamma.gov/Wenham_Community_Energy_Strategies_Project_Page.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:13 URL: http://www.wenhamma.gov/Wenham_Green_Communities_Project_Page.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:14 URL: http://www.wenhamma.gov/dpw_dep_stormdrains.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:14 URL: http://www.wenhamma.gov/dpw_watershedhotlinetips.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:14 URL: http://www.wenhamma.gov/Hazardous%20Waste%20Materials%20Info%20Sheet%20Dec2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:14 URL: http://www.wenhamma.gov/departments/docs/Recycling%20Christmas%20Trees%20Flyer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:15 URL: http://www.wenhamma.gov/departments/docs/textile-flyer52416.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:15 URL:http://www.wenhamma.gov/departments/chapter_115_financial_fuel_and_medical_assistance.php [32737/32737] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/chapter_115_financial_fuel_and_medical_assistance.php" [1]
+2017-01-02 01:59:16 URL:http://www.wenhamma.gov/departments/veteran_s_property_tax_exemptions.php [32386/32386] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/veteran_s_property_tax_exemptions.php" [1]
+2017-01-02 01:59:17 URL:http://www.wenhamma.gov/departments/documents_and_forms.php [30789/30789] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/documents_and_forms.php" [1]
+2017-01-02 01:59:17 URL: http://www.wenhamma.gov/boards_and_committees/crashreport.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:18 URL: http://www.wenhamma.gov/police_appfirearms.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:18 URL: http://www.wenhamma.gov/police_coriform.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:18 URL: http://www.wenhamma.gov/police_no_solicitation_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:19 URL: http://www.wenhamma.gov/Complaint_Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:19 URL:http://www.wenhamma.gov/departments/patton_park_pool_project.php [32098/32098] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/patton_park_pool_project.php" [1]
+2017-01-02 01:59:20 URL:http://www.wenhamma.gov/departments/elections.php [41873/41873] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/elections.php" [1]
+2017-01-02 01:59:21 URL:http://www.wenhamma.gov/departments/2015.php [32664/32664] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/2015.php" [1]
+2017-01-02 01:59:21 URL:http://www.wenhamma.gov/departments/2014.php [33475/33475] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/2014.php" [1]
+2017-01-02 01:59:22 URL:http://www.wenhamma.gov/departments/2013.php [33606/33606] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/2013.php" [1]
+2017-01-02 01:59:23 URL:http://www.wenhamma.gov/departments/2012.php [36361/36361] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/2012.php" [1]
+2017-01-02 01:59:23 URL:http://www.wenhamma.gov/departments/licenses_and_certificates.php [43588/43588] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/licenses_and_certificates.php" [1]
+2017-01-02 01:59:24 URL:http://www.wenhamma.gov/departments/town_meetings.php [33803/33803] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/town_meetings.php" [1]
+2017-01-02 01:59:25 URL:http://www.wenhamma.gov/departments/16.php [32751/32751] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/16.php" [1]
+2017-01-02 01:59:26 URL:http://www.wenhamma.gov/departments/15.php [32764/32764] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/15.php" [1]
+2017-01-02 01:59:26 URL:http://www.wenhamma.gov/departments/14.php [33133/33133] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/14.php" [1]
+2017-01-02 01:59:27 URL:http://www.wenhamma.gov/departments/13.php [32476/32476] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/13.php" [1]
+2017-01-02 01:59:27 URL:http://www.wenhamma.gov/departments/public_notices.php [35207/35207] -> "../data/townSites2/Wenham/www.wenhamma.gov/departments/public_notices.php" [1]
+2017-01-02 01:59:28 URL: http://www.wenhamma.gov/MLC_Certificates.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:28 URL: http://www.wenhamma.gov/Motor_Vehicle_Excise.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:28 URL: http://www.wenhamma.gov/Treas_Collector_Tax_Drop_Box.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:28 URL: http://www.wenhamma.gov/water_new_rates_2009.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:29 URL: http://www.wenhamma.gov/water_main_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:29 URL: http://www.wenhamma.gov/water_main_specs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:29 URL: http://www.wenhamma.gov/WATERBANNOTICE103116.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:30 URL: http://www.wenhamma.gov/WATERBANNOTICE05232016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:30 URL: http://www.wenhamma.gov/FlushingNotice04112016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:30 URL: http://www.wenhamma.gov/water_servspecs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:30 URL: http://www.wenhamma.gov/2012ccr_EGM.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:31 URL: http://www.wenhamma.gov/2013ccr.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:31 URL: http://www.wenhamma.gov/2014ccr.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:31 URL: http://www.wenhamma.gov/2015ccr.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:32 URL:http://www.wenhamma.gov/boards_and_committees/bike_and_pedestrian_committee.php [30681/30681] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/bike_and_pedestrian_committee.php" [1]
+2017-01-02 01:59:32 URL: http://www.wenhamma.gov/boards_and_committees/docs/Wenham_COA_Board_Members.docx 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:33 URL: http://www.wenhamma.gov/BOS%20Memo%20-%20375th%20Anniversary%20Committee%20Proposed%20Charge%2011.10.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:33 URL: http://www.wenhamma.gov/Weham_Cemetery_Rates.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:33 URL: http://www.wenhamma.gov/Cemetery_Rules_and_Regs03_15_11.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:34 URL:http://www.wenhamma.gov/boards_and_committees/applications.php [33014/33014] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/applications.php" [1]
+2017-01-02 01:59:34 URL:http://www.wenhamma.gov/boards_and_committees/fy2015_cpc_minutes.php [31582/31582] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/fy2015_cpc_minutes.php" [1]
+2017-01-02 01:59:35 URL:http://www.wenhamma.gov/boards_and_committees/fy_2015_cpc_minutes.php [33126/33126] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/fy_2015_cpc_minutes.php" [1]
+2017-01-02 01:59:36 URL:http://www.wenhamma.gov/boards_and_committees/fy_2016_minutes.php [32890/32890] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/fy_2016_minutes.php" [1]
+2017-01-02 01:59:36 URL:http://www.wenhamma.gov/boards_and_committees/cpa_tax_exemptions.php [32178/32178] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/cpa_tax_exemptions.php" [1]
+2017-01-02 01:59:37 URL: http://www.wenhamma.gov/boards_and_committees/docs/CPA_Q_A.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:37 URL: http://www.wenhamma.gov/boards_and_committees/docs/Wenham_CPA_Bonding_and_Update_12_17_13_FILEminimizer_.ppt 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:38 URL:http://www.wenhamma.gov/boards_and_committees/application.php [32995/32995] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/application.php" [1]
+2017-01-02 01:59:38 URL:http://www.wenhamma.gov/boards_and_committees/notice_of_intent.php [35234/35234] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/notice_of_intent.php" [1]
+2017-01-02 01:59:39 URL:http://www.wenhamma.gov/boards_and_committees/request_for_determination_of_applicability.php [34474/34474] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/request_for_determination_of_applicability.php" [1]
+2017-01-02 01:59:40 URL:http://www.wenhamma.gov/boards_and_committees/forms.php [33294/33294] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/forms.php" [1]
+2017-01-02 01:59:40 URL:http://www.wenhamma.gov/boards_and_committees/laws_and_regulations.php [35064/35064] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/laws_and_regulations.php" [1]
+2017-01-02 01:59:41 URL:http://www.wenhamma.gov/boards_and_committees/meeting_agendas_and_minutes.php [32933/32933] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/meeting_agendas_and_minutes.php" [1]
+2017-01-02 01:59:42 URL:http://www.wenhamma.gov/boards_and_committees/2016_minutes.php [33920/33920] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/2016_minutes.php" [1]
+2017-01-02 01:59:42 URL:http://www.wenhamma.gov/boards_and_committees/fy17_concom_meeting_minutes.php [34144/34144] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/fy17_concom_meeting_minutes.php" [1]
+2017-01-02 01:59:42 URL: http://www.wenhamma.gov/Posted%20CC%20Meeting%20Schedule%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:43 URL: http://www.wenhamma.gov/Town%20Department%20Profiles%20Planning%2010.16_FINAL.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:43 URL:http://www.wenhamma.gov/boards_and_committees/wenham_pines_notice_of_intent.php [33927/33927] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/wenham_pines_notice_of_intent.php" [1]
+2017-01-02 01:59:44 URL:http://www.wenhamma.gov/boards_and_committees/touchteam_program.php [32403/32403] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/touchteam_program.php" [1]
+2017-01-02 01:59:45 URL: http://www.wenhamma.gov/Economic%20Development%20Committee%20Schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:45 URL: http://www.wenhamma.gov/BOS%20Memo%20-%20Economic%20Development%20Committee%20Proposed%20Amendment%20to%20Charge%2010.28.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:46 URL:http://www.wenhamma.gov/boards_and_committees/meeting_minutes.php [33214/33214] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/meeting_minutes.php" [1]
+2017-01-02 01:59:46 URL:http://www.wenhamma.gov/boards_and_committees/2014_meeting_minutes.php [33538/33538] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/2014_meeting_minutes.php" [1]
+2017-01-02 01:59:47 URL:http://www.wenhamma.gov/boards_and_committees/fy2015_meeting_minutes.php [33174/33174] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/fy2015_meeting_minutes.php" [1]
+2017-01-02 01:59:47 URL:http://www.wenhamma.gov/boards_and_committees/fy2016_meeting_minutes.php [33546/33546] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/fy2016_meeting_minutes.php" [1]
+2017-01-02 01:59:48 URL:http://www.wenhamma.gov/boards_and_committees/fiincom_fy2017_meeting_minutes.php [31993/31993] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/fiincom_fy2017_meeting_minutes.php" [1]
+http://www.wenhamma.gov/hdc_guidelines.pdf:
+Remote file does not exist -- broken link!!!
+http://www.wenhamma.gov/HISTORIC_DISTRICT_APPLICATION.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:59:48 URL: http://www.wenhamma.gov/Draft_Demo_Delay_Bylaw___11_05_15.docx 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:49 URL:http://www.wenhamma.gov/boards_and_committees/2015_iron_rail_meeting_minutes.php [31000/31000] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/2015_iron_rail_meeting_minutes.php" [1]
+2017-01-02 01:59:50 URL:http://www.wenhamma.gov/boards_and_committees/2016.php [31302/31302] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/2016.php" [1]
+2017-01-02 01:59:50 URL: http://www.wenhamma.gov/boards_and_committees/docs/Logan%20Airport%20impact%20on%20North%20Shore%20Communities%2007.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:50 URL: http://www.wenhamma.gov/boards_and_committees/docs/BOS%20Memo%20-%20Logan%20CAC%20Appointment%2006.19.15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:51 URL: http://www.wenhamma.gov/boards_and_committees/docs/Logan%20CAC%20packet%20for%20BOS%2006.23.15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:51 URL: http://www.wenhamma.gov/MA%20Open%20Space%20and%20Recreation%20Plan%20Requirements.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:51 URL: http://www.wenhamma.gov/OSRP%202001.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:52 URL: http://www.wenhamma.gov/Open%20Space%20and%20Recreation%20Committee%20Meeting%20Schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:52 URL: http://www.wenhamma.gov/OSRP%20Charge.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:52 URL: http://www.wenhamma.gov/boards_and_committees/docs/OSRP%202001.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:52 URL: http://www.wenhamma.gov/bylaw_rules_subdivisionofland_1984.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:53 URL: http://www.wenhamma.gov/PB%20Rules%20&%20Regs%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:53 URL: http://www.wenhamma.gov/PB_Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:53 URL: http://www.wenhamma.gov/ANR_Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:53 URL: http://www.wenhamma.gov/Form_C_Definitive_Plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:54 URL: http://www.wenhamma.gov/Planning%20Board%20Meeting%20Schedule%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:54 URL:http://www.wenhamma.gov/boards_and_committees/planning_board/meeting_minutes.php [33261/33261] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/planning_board/meeting_minutes.php" [1]
+2017-01-02 01:59:55 URL:http://www.wenhamma.gov/boards_and_committees/meeting_minutes_2015.php [33435/33435] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/meeting_minutes_2015.php" [1]
+2017-01-02 01:59:55 URL:http://www.wenhamma.gov/boards_and_committees/meeting_minutes_2016.php [33974/33974] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/meeting_minutes_2016.php" [1]
+2017-01-02 01:59:56 URL:http://www.wenhamma.gov/boards_and_committees/fy2017_meeting_minutes.php [33221/33221] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/fy2017_meeting_minutes.php" [1]
+2017-01-02 01:59:57 URL:http://www.wenhamma.gov/boards_and_committees/wenham_pines_special_permit_filing.php [35672/35672] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/wenham_pines_special_permit_filing.php" [1]
+2017-01-02 01:59:57 URL: http://www.wenhamma.gov/boards_and_committees/docs/PAVER_APPLICATION.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:59:58 URL:http://www.wenhamma.gov/boards_and_committees/2014_minutes.php [32211/32211] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/2014_minutes.php" [1]
+2017-01-02 01:59:58 URL:http://www.wenhamma.gov/boards_and_committees/2015_waht_minutes.php [31973/31973] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/2015_waht_minutes.php" [1]
+2017-01-02 01:59:59 URL:http://www.wenhamma.gov/boards_and_committees/2016_wath_minutes.php [32454/32454] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/2016_wath_minutes.php" [1]
+2017-01-02 01:59:59 URL:http://www.wenhamma.gov/boards_and_committees/fy17_waht_meeting_minutes.php [31929/31929] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/fy17_waht_meeting_minutes.php" [1]
+2017-01-02 02:00:00 URL: http://www.wenhamma.gov/boards_and_committees/docs/Declaration_of_Trust.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:00 URL: http://www.wenhamma.gov/boards_and_committees/docs/Wenham_Housing_Production_Plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:00 URL:http://www.wenhamma.gov/boards_and_committees/minutes_2013.php [31234/31234] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/minutes_2013.php" [1]
+2017-01-02 02:00:01 URL:http://www.wenhamma.gov/boards_and_committees/fy2016_wissh_meeting_minutes.php [31594/31594] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/fy2016_wissh_meeting_minutes.php" [1]
+2017-01-02 02:00:01 URL: http://www.wenhamma.gov/WISSH_Bylaws___Ammendments_December_1__2009.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:02 URL: http://www.wenhamma.gov/Wenham-Zoning%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:02 URL: http://www.wenhamma.gov/Zoning_11x17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:02 URL: http://www.wenhamma.gov/FEMA_11x17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:02 URL: http://www.wenhamma.gov/APOD_11x17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:03 URL:http://www.wenhamma.gov/boards_and_committees/agendas_and_minutes.php [33280/33280] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/agendas_and_minutes.php" [1]
+2017-01-02 02:00:04 URL:http://www.wenhamma.gov/boards_and_committees/2014_zba_minutes.php [33595/33595] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/2014_zba_minutes.php" [1]
+2017-01-02 02:00:05 URL:http://www.wenhamma.gov/boards_and_committees/2015_zba_minutes.php [35000/35000] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/2015_zba_minutes.php" [1]
+2017-01-02 02:00:05 URL:http://www.wenhamma.gov/boards_and_committees/2016_zba_minutes.php [33974/33974] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/2016_zba_minutes.php" [1]
+2017-01-02 02:00:06 URL: http://www.wenhamma.gov/Special%20Permit%20-%20ZBA%20Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:06 URL: http://www.wenhamma.gov/ZBA_Rules___Regulations_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:07 URL: http://www.wenhamma.gov/40B_Local_regs_PDF.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:07 URL:http://www.wenhamma.gov/boards_and_committees/maple_woods_project.php [41167/41167] -> "../data/townSites2/Wenham/www.wenhamma.gov/boards_and_committees/maple_woods_project.php" [1]
+http://www.wenhamma.gov/pleasant_pond_beach/docs/Pleasant%20Pond%20Resident%20Parking%20Sticker%20Regulations%20-%20Updated%207.27.16.pdf:
+Remote file does not exist -- broken link!!!
+http://www.wenhamma.gov/pleasant_pond_beach/docs/Pleasant%20Pond%20Sticker%20Application%20-%20Updated%207.27.16.pdf:
+Remote file does not exist -- broken link!!!
+http://www.wenhamma.gov/pleasant_pond_beach/docs/Pleasant%20Pond%20Beach%20Rules.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:00:09 URL:http://www.wenhamma.gov/wenham_history.php [38472/38472] -> "../data/townSites2/Wenham/www.wenhamma.gov/wenham_history.php" [1]
+2017-01-02 02:00:09 URL:http://www.wenhamma.gov/state_senator.php [32678/32678] -> "../data/townSites2/Wenham/www.wenhamma.gov/state_senator.php" [1]
+2017-01-02 02:00:10 URL:http://www.wenhamma.gov/state_representative.php [32568/32568] -> "../data/townSites2/Wenham/www.wenhamma.gov/state_representative.php" [1]
+2017-01-02 02:00:11 URL:http://www.wenhamma.gov/welcome_to_wenham_information.php [31869/31869] -> "../data/townSites2/Wenham/www.wenhamma.gov/welcome_to_wenham_information.php" [1]
+2017-01-02 02:00:11 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R81.php [30800/30800] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R81.php" [1]
+2017-01-02 02:00:12 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R83.php [30769/30769] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R83.php" [1]
+2017-01-02 02:00:12 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R17.php [30771/30771] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R17.php" [1]
+2017-01-02 02:00:13 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R25.php [30774/30774] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R25.php" [1]
+2017-01-02 02:00:14 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R24.php [30771/30771] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R24.php" [1]
+2017-01-02 02:00:14 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R54.php [30762/30762] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R54.php" [1]
+2017-01-02 02:00:15 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R56.php [30749/30749] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R56.php" [1]
+2017-01-02 02:00:16 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R57.php [30768/30768] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R57.php" [1]
+2017-01-02 02:00:16 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R52.php [30782/30782] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R52.php" [1]
+2017-01-02 02:00:17 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R48.php [30768/30768] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R48.php" [1]
+2017-01-02 02:00:18 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R49.php [30739/30739] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R49.php" [1]
+2017-01-02 02:00:18 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R51.php [30749/30749] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R51.php" [1]
+2017-01-02 02:00:19 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R77.php [30763/30763] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R77.php" [1]
+2017-01-02 02:00:20 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R79.php [30729/30729] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R79.php" [1]
+2017-01-02 02:00:20 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R86.php [30781/30781] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R86.php" [1]
+2017-01-02 02:00:21 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R39.php [30756/30756] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R39.php" [1]
+2017-01-02 02:00:22 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R29.php [30778/30778] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R29.php" [1]
+2017-01-02 02:00:22 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R82.php [30736/30736] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R82.php" [1]
+2017-01-02 02:00:23 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R28.php [30756/30756] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R28.php" [1]
+2017-01-02 02:00:24 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R35.php [30759/30759] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R35.php" [1]
+2017-01-02 02:00:25 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R37.php [30757/30757] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R37.php" [1]
+2017-01-02 02:00:25 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R42.php [30753/30753] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R42.php" [1]
+2017-01-02 02:00:26 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R85.php [30781/30781] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R85.php" [1]
+2017-01-02 02:00:27 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R46.php [30762/30762] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R46.php" [1]
+2017-01-02 02:00:27 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R44.php [30753/30753] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R44.php" [1]
+2017-01-02 02:00:28 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R45.php [30751/30751] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R45.php" [1]
+2017-01-02 02:00:29 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R63.php [30774/30774] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R63.php" [1]
+2017-01-02 02:00:29 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R62.php [30764/30764] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R62.php" [1]
+2017-01-02 02:00:30 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R80.php [30744/30744] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R80.php" [1]
+2017-01-02 02:00:31 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R14.php [30786/30786] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R14.php" [1]
+2017-01-02 02:00:31 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R65.php [30761/30761] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R65.php" [1]
+2017-01-02 02:00:32 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R31.php [30776/30776] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R31.php" [1]
+2017-01-02 02:00:32 URL:http://www.wenhamma.gov/staff_directory_detail_T28_R84.php [30781/30781] -> "../data/townSites2/Wenham/www.wenhamma.gov/staff_directory_detail_T28_R84.php" [1]
+2017-01-02 02:00:33 URL: http://www.wenhamma.gov/town_government/docs/TA%20Update%20-%2012.20.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:33 URL:http://www.wenhamma.gov/important_documents/annual_town_reports.php [32540/32540] -> "../data/townSites2/Wenham/www.wenhamma.gov/important_documents/annual_town_reports.php" [1]
+2017-01-02 02:00:34 URL:http://www.wenhamma.gov/important_documents/town_by-laws.php [32873/32873] -> "../data/townSites2/Wenham/www.wenhamma.gov/important_documents/town_by-laws.php" [1]
+2017-01-02 02:00:34 URL:http://www.wenhamma.gov/important_documents/board_of_selectmen_meeting_packets.php [31679/31679] -> "../data/townSites2/Wenham/www.wenhamma.gov/important_documents/board_of_selectmen_meeting_packets.php" [1]
+2017-01-02 02:00:35 URL:http://www.wenhamma.gov/important_documents/hw_school_committee_spotlight_monthly_newsletters.php [32643/32643] -> "../data/townSites2/Wenham/www.wenhamma.gov/important_documents/hw_school_committee_spotlight_monthly_newsletters.php" [1]
+2017-01-02 02:00:35 URL: http://www.wenhamma.gov/important_documents/docs/BOS%20Memo%20-%20Proposed%20Public%20Records%20Request%20Policy%2012%2020%2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:36 URL:http://www.wenhamma.gov/meeting_minutes/board_of_selectmen.php [32977/32977] -> "../data/townSites2/Wenham/www.wenhamma.gov/meeting_minutes/board_of_selectmen.php" [1]
+2017-01-02 02:00:37 URL:http://www.wenhamma.gov/meeting_minutes/community_preservation_committee.php [32682/32682] -> "../data/townSites2/Wenham/www.wenhamma.gov/meeting_minutes/community_preservation_committee.php" [1]
+2017-01-02 02:00:37 URL:http://www.wenhamma.gov/meeting_minutes/conservation_commission.php [32662/32662] -> "../data/townSites2/Wenham/www.wenhamma.gov/meeting_minutes/conservation_commission.php" [1]
+2017-01-02 02:00:38 URL:http://www.wenhamma.gov/meeting_minutes/finance_and_advisory_committee.php [33167/33167] -> "../data/townSites2/Wenham/www.wenhamma.gov/meeting_minutes/finance_and_advisory_committee.php" [1]
+2017-01-02 02:00:39 URL:http://www.wenhamma.gov/meeting_minutes/iron_rail_commission.php [32484/32484] -> "../data/townSites2/Wenham/www.wenhamma.gov/meeting_minutes/iron_rail_commission.php" [1]
+2017-01-02 02:00:39 URL:http://www.wenhamma.gov/meeting_minutes/planning_board.php [32732/32732] -> "../data/townSites2/Wenham/www.wenhamma.gov/meeting_minutes/planning_board.php" [1]
+2017-01-02 02:00:40 URL:http://www.wenhamma.gov/meeting_minutes/wenham_affordable_housing_trust.php [32983/32983] -> "../data/townSites2/Wenham/www.wenhamma.gov/meeting_minutes/wenham_affordable_housing_trust.php" [1]
+2017-01-02 02:00:40 URL:http://www.wenhamma.gov/meeting_minutes/wenham_issues_of_social_serivce_(wissh).php [32606/32606] -> "../data/townSites2/Wenham/www.wenhamma.gov/meeting_minutes/wenham_issues_of_social_serivce_(wissh).php" [1]
+2017-01-02 02:00:41 URL:http://www.wenhamma.gov/meeting_minutes/zoning_board_of_appeals.php [32782/32782] -> "../data/townSites2/Wenham/www.wenhamma.gov/meeting_minutes/zoning_board_of_appeals.php" [1]
+2017-01-02 02:00:41 URL: http://www.wenhamma.gov/agendas_and_minutes/docs/OML__FINAL_Response_from_AG_to_the_12_30_13_complaint.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:42 URL: http://www.wenhamma.gov/Citizens%20Leadership%20Academy%20Schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:42 URL: http://www.wenhamma.gov/Citizens%20Academy%20Flyer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:42 URL: http://www.wenhamma.gov/What%20is%20a%20citizens%20leadership%20academy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:43 URL: http://www.wenhamma.gov/Registration%20form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:43 URL:http://www.wenhamma.gov/job_and_volunteer_opportunities_in_wenham/current_job_openings.php [31523/31523] -> "../data/townSites2/Wenham/www.wenhamma.gov/job_and_volunteer_opportunities_in_wenham/current_job_openings.php" [1]
+2017-01-02 02:00:44 URL:http://www.wenhamma.gov/job_and_volunteer_opportunities_in_wenham/volunteer_opportunities.php [37113/37113] -> "../data/townSites2/Wenham/www.wenhamma.gov/job_and_volunteer_opportunities_in_wenham/volunteer_opportunities.php" [1]
+2017-01-02 02:00:45 URL:http://www.wenhamma.gov/job_and_volunteer_opportunities_in_wenham/senior_property_tax_work-off_program.php [32587/32587] -> "../data/townSites2/Wenham/www.wenhamma.gov/job_and_volunteer_opportunities_in_wenham/senior_property_tax_work-off_program.php" [1]
+2017-01-02 02:00:45 URL:http://www.wenhamma.gov/seeclickfix/whatisseeclickfix.php [32623/32623] -> "../data/townSites2/Wenham/www.wenhamma.gov/seeclickfix/whatisseeclickfix.php" [1]
+2017-01-02 02:00:46 URL:http://www.wenhamma.gov/seeclickfix/tutorial_video.php [31745/31745] -> "../data/townSites2/Wenham/www.wenhamma.gov/seeclickfix/tutorial_video.php" [1]
+2017-01-02 02:00:46 URL: http://www.wenhamma.gov/SeeClickFix%20Wenham%20Press%20Release%201%20page.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:47 URL: http://www.wenhamma.gov/docs/BOS%20Memo%20-%20375th%20Anniversary%20Committee%20Proposed%20Charge%2011.10.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:47 URL: http://www.wenhamma.gov/docs/2016%20Tree%20Recycling%20Reminder.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:47 URL: http://www.wenhamma.gov/docs/WATERBANNOTICE103116.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:47 URL: http://www.wenhamma.gov/docs/FINAL%20WELCOME%20TO%20WENHAM-web%20ready.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:48 URL: http://www.wenhamma.gov/docs/textile-flyer52416.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:48 URL: http://www.wenhamma.gov/docs/Word%20Recycl%20That%20FlyerPDF.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:48 URL: http://www.wenhamma.gov/docs/Lakeview%20Host%20Community%20Agreement%20-%20Signed%2001.12.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:49 URL: http://www.wenhamma.gov/docs/Lakeview%20HCA%20-%20age%20restriction%20amendment%20-%20signed%2002.02.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:49 URL: http://www.wenhamma.gov/docs/2nd%20Amendment%20PDF%20for%20website.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:49 URL: http://www.wenhamma.gov/docs/Senior%20Tax%20Work%20Off%20Program5.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:50 URL: http://www.wenhamma.gov/docs/FY15_New_and_Old_Assessed_Values.pdf 200 OK
+unlink: No such file or directory
+Found 5 broken links.
+
+http://www.wenhamma.gov/pleasant_pond_beach/docs/Pleasant%20Pond%20Beach%20Rules.pdf
+http://www.wenhamma.gov/pleasant_pond_beach/docs/Pleasant%20Pond%20Resident%20Parking%20Sticker%20Regulations%20-%20Updated%207.27.16.pdf
+http://www.wenhamma.gov/HISTORIC_DISTRICT_APPLICATION.pdf
+http://www.wenhamma.gov/pleasant_pond_beach/docs/Pleasant%20Pond%20Sticker%20Application%20-%20Updated%207.27.16.pdf
+http://www.wenhamma.gov/hdc_guidelines.pdf
+
+FINISHED --2017-01-02 02:00:50--
+Total wall clock time: 2m 33s
+Downloaded: 182 files, 6.0M in 2.1s (2.85 MB/s)

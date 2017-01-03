@@ -1,0 +1,1406 @@
+2017-01-02 05:01:43 URL:http://www.northfieldma.gov/ [97661] -> "../data/townSites2/Northfield/www.northfieldma.gov/index.html" [1]
+2017-01-02 05:01:43 URL: http://www.northfieldma.gov/sites/northfieldma/themes/vts/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 05:01:45 URL:http://www.northfieldma.gov/about-northfield [85219] -> "../data/townSites2/Northfield/www.northfieldma.gov/about-northfield" [1]
+2017-01-02 05:01:46 URL:http://www.northfieldma.gov/board-selectmen/pages/employment-opportunities [86720] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-selectmen/pages/employment-opportunities" [1]
+2017-01-02 05:01:48 URL:http://www.northfieldma.gov/about-northfield/pages/demographics [82338] -> "../data/townSites2/Northfield/www.northfieldma.gov/about-northfield/pages/demographics" [1]
+2017-01-02 05:01:50 URL:http://www.northfieldma.gov/about-northfield/pages/town-hall-hours [81985] -> "../data/townSites2/Northfield/www.northfieldma.gov/about-northfield/pages/town-hall-hours" [1]
+2017-01-02 05:01:51 URL:http://www.northfieldma.gov/departments [93028] -> "../data/townSites2/Northfield/www.northfieldma.gov/departments" [1]
+2017-01-02 05:01:53 URL:http://www.northfieldma.gov/building-inspector [87413] -> "../data/townSites2/Northfield/www.northfieldma.gov/building-inspector" [1]
+2017-01-02 05:01:55 URL:http://www.northfieldma.gov/building-commissioner/pages/applications [83658] -> "../data/townSites2/Northfield/www.northfieldma.gov/building-commissioner/pages/applications" [1]
+2017-01-02 05:01:56 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/complete_application_with_fees_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:01:57 URL:http://www.mass.gov/eopss/agencies/dps/ [102750] -> "../data/townSites2/Northfield/www.northfieldma.gov/building-inspector/links/massachusetts-building-code" [1]
+2017-01-02 05:01:59 URL:http://www.northfieldma.gov/cemeteries [86310] -> "../data/townSites2/Northfield/www.northfieldma.gov/cemeteries" [1]
+2017-01-02 05:02:01 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/cemetery_rules_regs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:02:03 URL:http://www.northfieldma.gov/dickinson-memorial-library-northfields-public-library [91967] -> "../data/townSites2/Northfield/www.northfieldma.gov/dickinson-memorial-library-northfields-public-library" [1]
+2017-01-02 05:02:05 URL:http://www.northfieldma.gov/board-library-trustees [93457] -> "../data/townSites2/Northfield/www.northfieldma.gov/dickinson-memorial-library-northfields-public-library/links/board-library-trustees" [1]
+2017-01-02 05:02:08 URL:http://www.northfieldpubliclibrary.org/ [15415] -> "../data/townSites2/Northfield/www.northfieldma.gov/dickinson-memorial-library-northfields-public-library/links/dickinson-memorial-library-website" [1]
+2017-01-02 05:02:10 URL:http://bark.cwmars.org/eg/opac/home [116365] -> "../data/townSites2/Northfield/www.northfieldma.gov/dickinson-memorial-library-northfields-public-library/links/library-catalog" [1]
+2017-01-02 05:02:12 URL:http://www.northfieldpubliclibrary.org/index.php/museum-passes [13998] -> "../data/townSites2/Northfield/www.northfieldma.gov/dickinson-memorial-library-northfields-public-library/links/museum-passes" [1]
+2017-01-02 05:02:14 URL:http://www.northfieldma.gov/dog-officer [86346] -> "../data/townSites2/Northfield/www.northfieldma.gov/dog-officer" [1]
+2017-01-02 05:02:15 URL:http://www.northfieldma.gov/dog-officer/pages/animal-shelters [82287] -> "../data/townSites2/Northfield/www.northfieldma.gov/dog-officer/pages/animal-shelters" [1]
+2017-01-02 05:02:17 URL:http://www.northfieldma.gov/dog-officer/pages/dog-related-bylaws [85006] -> "../data/townSites2/Northfield/www.northfieldma.gov/dog-officer/pages/dog-related-bylaws" [1]
+2017-01-02 05:02:19 URL:http://www.northfieldma.gov/northfield-ems [85715] -> "../data/townSites2/Northfield/www.northfieldma.gov/northfield-ems" [1]
+2017-01-02 05:02:20 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/ambulance_rates.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:02:22 URL:http://www.northfieldma.gov/electrical-inspector [86048] -> "../data/townSites2/Northfield/www.northfieldma.gov/electrical-inspector" [1]
+2017-01-02 05:02:24 URL:http://www.northfieldma.gov/electrical-inspector/pages/applications [82805] -> "../data/townSites2/Northfield/www.northfieldma.gov/electrical-inspector/pages/applications" [1]
+2017-01-02 05:02:25 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/fee_schedule_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:02:27 URL:http://www.northfieldma.gov/highway-department [91037] -> "../data/townSites2/Northfield/www.northfieldma.gov/highway-department" [1]
+2017-01-02 05:02:29 URL:http://www.northfieldma.gov/highway-department/pages/applications [83655] -> "../data/townSites2/Northfield/www.northfieldma.gov/highway-department/pages/applications" [1]
+2017-01-02 05:02:30 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/curb_cut_application_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:02:32 URL:http://www.northfieldma.gov/highway-updates [81877] -> "../data/townSites2/Northfield/www.northfieldma.gov/highway-updates" [1]
+2017-01-02 05:02:33 URL:http://www.northfieldma.gov/highway-department/pages/how-keep-your-driveway-clear-during-snowplowing-season [85056] -> "../data/townSites2/Northfield/www.northfieldma.gov/highway-department/pages/how-keep-your-driveway-clear-during-snowplowing-season" [1]
+2017-01-02 05:02:34 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/road_opening_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:02:35 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/road_opening_repair_standards.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:02:37 URL:http://www.northfieldma.gov/highway-department/pages/shade-tree-philosophy [88359] -> "../data/townSites2/Northfield/www.northfieldma.gov/highway-department/pages/shade-tree-philosophy" [1]
+2017-01-02 05:02:38 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/snow_bylaws_and_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:02:40 URL:http://www.northfieldmafire.com/ [4677/4677] -> "../data/townSites2/Northfield/www.northfieldma.gov/northfield-fire-department" [1]
+2017-01-02 05:02:41 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/fcts_assessment.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:02:43 URL:http://www.northfieldma.gov/plumbing-gas-inspector [86085] -> "../data/townSites2/Northfield/www.northfieldma.gov/plumbing-gas-inspector" [1]
+2017-01-02 05:02:44 URL:http://www.northfieldma.gov/plumbing-gas-inspector/pages/applications [82773] -> "../data/townSites2/Northfield/www.northfieldma.gov/plumbing-gas-inspector/pages/applications" [1]
+2017-01-02 05:02:45 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/fee_schedule_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:02:47 URL:http://www.northfieldma.gov/police-department [92449] -> "../data/townSites2/Northfield/www.northfieldma.gov/police-department" [1]
+2017-01-02 05:02:48 URL: http://www.mass.gov/eopss/docs/chsb/firearms/change-of-address-notification-rev-08-20-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:02:50 URL:http://www.northfieldma.gov/police-department/pages/faqs [93311] -> "../data/townSites2/Northfield/www.northfieldma.gov/police-department/pages/faqs" [1]
+2017-01-02 05:02:51 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/house_check_request.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:02:52 URL:http://www.mass.gov/eopss/firearms-reg-and-laws/frb/firearms-forms-and-applications.html [87029] -> "../data/townSites2/Northfield/www.northfieldma.gov/police-department/links/massachusetts-firearms-forms-and-applications" [1]
+2017-01-02 05:02:54 URL:https://mircs.chs.state.ma.us/fa10/action/home?app_context=home&app_action=presentHome [5941/5941] -> "../data/townSites2/Northfield/www.northfieldma.gov/police-department/links/massachusetts-gun-transaction-portal" [1]
+2017-01-02 05:02:56 URL: http://www.mass.gov/eopss/docs/chsb/firearms/updated-ltc-fid-card-app-revised-05-19-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:02:58 URL: http://www.massrmv.com/Portals/30/docs/21278.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:02:59 URL: http://www.mass.gov/eopss/docs/chsb/firearms/updated-ltc-fid-card-app-revised-05-19-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:03:03 URL:https://sorb.chs.state.ma.us/sorbpublic/errors.action;jsessionid=7F46507A9AF8E4FCAEEEA8634C261643?_p=lC2A7BuvBCiuAg_M4mb1-TuoZJThFrVQk32chqRG05fLgjP3l-c2cg [4338] -> "../data/townSites2/Northfield/www.northfieldma.gov/police-department/links/sex-offender-registry" [1]
+2017-01-02 05:03:07 URL:https://www.facebook.com/NorthfieldPD [440818] -> "../data/townSites2/Northfield/www.northfieldma.gov/police-department/links/visit-our-facebook-page" [1]
+2017-01-02 05:03:09 URL:http://www.northfieldma.gov/schools [84942] -> "../data/townSites2/Northfield/www.northfieldma.gov/schools" [1]
+2017-01-02 05:03:10 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/fcts_assessment_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:03:17 URL:http://nespto.org/ [51825] -> "../data/townSites2/Northfield/www.northfieldma.gov/schools/links/northfield-elementary-school-pto" [1]
+2017-01-02 05:03:21 URL:http://www.northfieldma.gov/senior-center [88677] -> "../data/townSites2/Northfield/www.northfieldma.gov/senior-center" [1]
+2017-01-02 05:03:23 URL:http://www.northfieldma.gov/senior-center/pages/care-givers-support-group [84094] -> "../data/townSites2/Northfield/www.northfieldma.gov/senior-center/pages/care-givers-support-group" [1]
+2017-01-02 05:03:26 URL:http://www.northfieldma.gov/council-aging [100572] -> "../data/townSites2/Northfield/www.northfieldma.gov/senior-center/links/council-aging" [1]
+2017-01-02 05:03:28 URL:http://www.northfieldma.gov/senior-center/pages/health-clinics [84560] -> "../data/townSites2/Northfield/www.northfieldma.gov/senior-center/pages/health-clinics" [1]
+2017-01-02 05:03:31 URL:http://www.northfieldma.gov/senior-center/pages/meals-wheels-and-lunch [84351] -> "../data/townSites2/Northfield/www.northfieldma.gov/senior-center/pages/meals-wheels-and-lunch" [1]
+2017-01-02 05:03:32 URL:http://www.northfieldma.gov/senior-center/pages/senior-center-activities [87125] -> "../data/townSites2/Northfield/www.northfieldma.gov/senior-center/pages/senior-center-activities" [1]
+2017-01-02 05:03:35 URL:http://www.northfieldma.gov/senior-center/pages/senior-newsletter [88232] -> "../data/townSites2/Northfield/www.northfieldma.gov/senior-center/pages/senior-newsletter" [1]
+2017-01-02 05:03:38 URL:http://www.northfieldma.gov/senior-center/pages/sixty-fitness [86080] -> "../data/townSites2/Northfield/www.northfieldma.gov/senior-center/pages/sixty-fitness" [1]
+2017-01-02 05:03:40 URL:http://www.northfieldma.gov/senior-center/pages/transportation [84807] -> "../data/townSites2/Northfield/www.northfieldma.gov/senior-center/pages/transportation" [1]
+2017-01-02 05:03:42 URL:http://www.northfieldma.gov/tax-collector [96065] -> "../data/townSites2/Northfield/www.northfieldma.gov/tax-collector" [1]
+2017-01-02 05:03:45 URL:http://www.northfieldma.gov/tax-collector/pages/delinquent-motor-vehicle-excise-taxes [83190] -> "../data/townSites2/Northfield/www.northfieldma.gov/tax-collector/pages/delinquent-motor-vehicle-excise-taxes" [1]
+2017-01-02 05:03:52 URL:https://unipaygold.unibank.com/default.aspx [101065/101065] -> "../data/townSites2/Northfield/www.northfieldma.gov/tax-collector/links/online-payment-center" [1]
+2017-01-02 05:03:53 URL:http://www.northfieldma.gov/town-accountant [84855] -> "../data/townSites2/Northfield/www.northfieldma.gov/town-accountant" [1]
+2017-01-02 05:03:55 URL:http://www.northfieldma.gov/town-administrator [89083] -> "../data/townSites2/Northfield/www.northfieldma.gov/town-administrator" [1]
+2017-01-02 05:03:56 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/cobranew.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:03:57 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/cori_policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:03:58 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/dog_complaint_rev_12-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:03:59 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/film_permit_application_rev_12-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:04:00 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/internal_public_records_request_form_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:04:01 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/remote_participation_policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:04:02 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/northfield_severe_weather_closing_policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:04:03 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/special_muncipal_employees.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:04:04 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/town_hall_rental_full_copy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:04:06 URL:http://www.northfieldma.gov/town-clerk [93291] -> "../data/townSites2/Northfield/www.northfieldma.gov/town-clerk" [1]
+2017-01-02 05:04:08 URL:http://www.sec.state.ma.us/ele/eleabsentee/absidx.htm [67098/67098] -> "../data/townSites2/Northfield/www.northfieldma.gov/town-clerk/links/apply-absentee-ballot" [1]
+2017-01-02 05:04:10 URL:http://www.northfieldma.gov/town-clerk/pages/business-certificate [91614] -> "../data/townSites2/Northfield/www.northfieldma.gov/town-clerk/pages/business-certificate" [1]
+2017-01-02 05:04:11 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/guide_muni_cand.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:04:12 URL:http://www.northfieldma.gov/town-clerk/files/campaign-finance-report-form [85268] -> "../data/townSites2/Northfield/www.northfieldma.gov/town-clerk/files/campaign-finance-report-form" [1]
+2017-01-02 05:04:13 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/committee_handbook_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:04:16 URL:http://www.northfieldma.gov/town-clerk/pages/dog-licensing [87343] -> "../data/townSites2/Northfield/www.northfieldma.gov/town-clerk/pages/dog-licensing" [1]
+2017-01-02 05:04:17 URL:http://www.northfieldma.gov/town-clerk/pages/elections-and-voter-registration [101061] -> "../data/townSites2/Northfield/www.northfieldma.gov/town-clerk/pages/elections-and-voter-registration" [1]
+2017-01-02 05:04:19 URL:http://www.muniprog.eth.state.ma.us/ [101807/101807] -> "../data/townSites2/Northfield/www.northfieldma.gov/town-clerk/links/ethics-commission-conflict-interest-municipal-exam" [1]
+2017-01-02 05:04:21 URL:http://www.mass.gov/ethics/disclosure-forms/municipal-employee-disclosure-forms/ [91054] -> "../data/townSites2/Northfield/www.northfieldma.gov/town-clerk/links/ethics-commission-disclosure-forms" [1]
+2017-01-02 05:04:22 URL:http://www.northfieldma.gov/town-clerk/pages/fee-schedule [87686] -> "../data/townSites2/Northfield/www.northfieldma.gov/town-clerk/pages/fee-schedule" [1]
+2017-01-02 05:04:24 URL:http://www.northfieldma.gov/town-clerk/pages/fuel-storage-permit [94183] -> "../data/townSites2/Northfield/www.northfieldma.gov/town-clerk/pages/fuel-storage-permit" [1]
+2017-01-02 05:04:26 URL:https://www.ma.wildlifelicense.com/IS/Customer/InternetCustomerSearch [8249/8249] -> "../data/townSites2/Northfield/www.northfieldma.gov/town-clerk/links/hunting-fishing-licenses-online" [1]
+2017-01-02 05:04:27 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/open_meeting_law_guide.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:04:29 URL:https://travel.state.gov/content/passports/en/passports.html [59178] -> "../data/townSites2/Northfield/www.northfieldma.gov/town-clerk/links/passport-information" [1]
+2017-01-02 05:04:29 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/internal_public_records_request_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:04:31 URL:http://www.northfieldma.gov/town-clerk/pages/raffles-bazaars [94933] -> "../data/townSites2/Northfield/www.northfieldma.gov/town-clerk/pages/raffles-bazaars" [1]
+2017-01-02 05:04:33 URL:https://www.sec.state.ma.us/ovr/ [66026/66026] -> "../data/townSites2/Northfield/www.northfieldma.gov/town-clerk/links/register-vote-online" [1]
+2017-01-02 05:04:36 URL:https://unipaygold.unibank.com/default.aspx [101065/101065] -> "../data/townSites2/Northfield/www.northfieldma.gov/town-clerk/links/vital-records-marriage-birth-death-certificates" [1]
+2017-01-02 05:04:38 URL:http://www.northfieldma.gov/town-secretary [87085] -> "../data/townSites2/Northfield/www.northfieldma.gov/town-secretary" [1]
+2017-01-02 05:04:39 URL:http://www.mass.gov/abcc/forms.htm [28010/28010] -> "../data/townSites2/Northfield/www.northfieldma.gov/town-secretary/links/abcc-forms" [1]
+2017-01-02 05:04:41 URL:http://www.bnctv.net/ [30946/30946] -> "../data/townSites2/Northfield/www.northfieldma.gov/town-secretary/links/bnc-tv" [1]
+2017-01-02 05:04:42 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/film_permit_application_rev_12-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:04:44 URL:http://www.northfieldma.gov/home/pages/public-records-request [85336] -> "../data/townSites2/Northfield/www.northfieldma.gov/town-secretary/links/public-records-request" [1]
+2017-01-02 05:04:45 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/town_hall_rental_full_copy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:04:46 URL:http://www.northfieldma.gov/transfer-station [86358] -> "../data/townSites2/Northfield/www.northfieldma.gov/transfer-station" [1]
+2017-01-02 05:04:47 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/all_town_battery_graphic_2016_events_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:04:50 URL:http://www.northfieldma.gov/home/news/bulky-items-companies-offering-pickup-disposal [81701] -> "../data/townSites2/Northfield/www.northfieldma.gov/transfer-station/links/bulky-items-companies-offering-pickup-disposal" [1]
+2017-01-02 05:04:51 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/holiday_recycling_reminder_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:04:53 URL:http://www.northfieldma.gov/board-health/pages/household-hazardous-waste-schedule [84978] -> "../data/townSites2/Northfield/www.northfieldma.gov/transfer-station/links/household-hazardous-waste-schedule" [1]
+2017-01-02 05:04:54 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/transfer_station_brochure_7.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:04:57 URL:https://unipaygold.unibank.com/default.aspx [101065/101065] -> "../data/townSites2/Northfield/www.northfieldma.gov/transfer-station/links/yearly-sticker-bulky-item-online-payments" [1]
+2017-01-02 05:04:59 URL:http://www.northfieldma.gov/boards [96388] -> "../data/townSites2/Northfield/www.northfieldma.gov/boards" [1]
+2017-01-02 05:05:01 URL:http://www.northfieldma.gov/agricultural-commission [93032] -> "../data/townSites2/Northfield/www.northfieldma.gov/agricultural-commission" [1]
+2017-01-02 05:05:03 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/northfield_farm_map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:04 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/right_to_farm.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:07 URL:http://www.northfieldma.gov/board-assessors [95787] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-assessors" [1]
+2017-01-02 05:05:08 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/ch61-v2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:10 URL:http://www.northfieldma.gov/board-assessors/pages/forms [83825] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-assessors/pages/forms" [1]
+2017-01-02 05:05:11 URL:http://www.mass.gov/dor/local-officials/ [41639] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-assessors/links/mass-bureau-local-assessment" [1]
+2017-01-02 05:05:13 URL:http://www.mass.gov/dor/local-officials/ [41639] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-assessors/links/mass-dept-local-services" [1]
+2017-01-02 05:05:14 URL:http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/ [143104] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-assessors/links/massgis" [1]
+2017-01-02 05:05:15 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/mvabate.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:16 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/re_pp_abatement_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:18 URL:http://www.northfieldma.gov/board-assessors/pages/tax-facts-about-northfield [84500] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-assessors/pages/tax-facts-about-northfield" [1]
+2017-01-02 05:05:21 URL:http://www.northfieldma.gov/board-health [99579] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-health" [1]
+2017-01-02 05:05:21 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/perc_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:23 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/application_for_septage_hauler_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:24 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/installers_application_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:25 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/all_town_battery_graphic_2016_events.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:25 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/disposal_works_permit_fillable_july_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:26 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/public_health_fact_sheets_on_eastern_equine_encephalitis_and_west_nile_virus_from_the_board_of_health.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:27 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/2016_hhwdayflier_for_towns_2_pages.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:28 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/board_of_health_fees_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:29 URL:http://www.northfieldma.gov/board-health/pages/household-hazardous-waste-schedule [84978] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-health/pages/household-hazardous-waste-schedule" [1]
+2017-01-02 05:05:30 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/system_pumping_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:31 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/temp_food_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:32 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/lymediseasebrochure.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:33 URL:http://www.northfieldma.gov/transfer-station [86358] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-health/links/transfer-station" [1]
+2017-01-02 05:05:34 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/well_permit_2016_updated.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:35 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/workmans_compensation_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:36 URL:http://www.northfieldma.gov/board-library-trustees [93457] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-library-trustees" [1]
+2017-01-02 05:05:37 URL:http://www.northfieldpubliclibrary.org/ [15415] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-library-trustees/links/library-website" [1]
+2017-01-02 05:05:39 URL:http://www.northfieldma.gov/board-selectmen [100827] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-selectmen.1" [1]
+2017-01-02 05:05:41 URL:http://www.northfieldma.gov/board-selectmen/pages/additional-information-links [86501] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-selectmen/pages/additional-information-links" [1]
+2017-01-02 05:05:42 URL:http://www.mass.gov/abcc/ [39106] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-selectmen/links/alchohol-beverages-control-commission" [1]
+2017-01-02 05:05:44 URL:http://www.northfieldma.gov/board-selectmen/pages/annual-reports [87727] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-selectmen/pages/annual-reports" [1]
+2017-01-02 05:05:45 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/budget_fy17_presentation.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:46 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/bylaws_and_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:47 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/committee_handbook_2015_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:48 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/community_development_strategy_cds_plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:49 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/conduct_guidelines.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:51 URL:http://www.northfieldma.gov/board-selectmen/pages/current-board-committee-openings [87855] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-selectmen/pages/current-board-committee-openings" [1]
+2017-01-02 05:05:51 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/dor_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:53 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/town_of_northfield_stm2016_warrant_posting_11-3-2016_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:54 URL:http://www.northfieldma.gov/board-selectmen/pages/elections [88853] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-selectmen/pages/elections" [1]
+2017-01-02 05:05:55 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/employment_application_-_northfield_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:56 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/northfield_event_permits_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:57 URL:http://www.northfieldma.gov/board-selectmen/pages/multi-hazard-mitigation-plan [86412] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-selectmen/pages/multi-hazard-mitigation-plan" [1]
+2017-01-02 05:05:58 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/one_day_liquor_license_application_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:59 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/open_meeting_law_guide.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:06:01 URL:http://www.northfieldma.gov/pipeline-information-archive/news/pipeline-information-archive [85679] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-selectmen/links/pipeline-information-archive" [1]
+2017-01-02 05:06:03 URL:http://www.northfieldma.gov/board-selectmen/pages/proposed-2017-selectboard-meeting-schedule [86712] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-selectmen/pages/proposed-2017-selectboard-meeting-schedule" [1]
+2017-01-02 05:06:04 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/van_driver_ad_bernardston.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:06:05 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/treatment_plant_laborer_2016_ad_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:06:08 URL:http://www.northfieldma.gov/user/login?destination=node/6333 [79832] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-selectmen/links/town-meeting-forum-april-27-2016" [1]
+2017-01-02 05:06:10 URL:http://www.northfieldma.gov/board-selectmen/pages/town-meeting-warrants [85079] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-selectmen/pages/town-meeting-warrants" [1]
+2017-01-02 05:06:11 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/zoning_map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:06:13 URL:http://www.northfieldma.gov/board-sewer-commissioners [89244] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-sewer-commissioners" [1]
+2017-01-02 05:06:14 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/sewer_service_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:06:15 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/sewer_abatement_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:06:18 URL:http://www.northfieldma.gov/board-trustees-veterans-memorials-veterans-services-information [91078] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-trustees-veterans-memorials-veterans-services-information" [1]
+2017-01-02 05:06:21 URL:http://www.northfieldma.gov/user/login?destination=node/7863 [79832] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-trustees-veterans-memorials-veterans-services-information/links/memorial-day-2016" [1]
+2017-01-02 05:06:22 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/speech_given_by_bob_henry_lt._col._usaf_ret.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:06:24 URL:http://greenfield-ma.gov/p/41/Upper-Pioneer-Valley-Veteransrsquo-Services-District [42011/42011] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-trustees-veterans-memorials-veterans-services/links/upper-pioneer-valley-veterans-services" [1]
+2017-01-02 05:06:26 URL:http://www.northfieldma.gov/building-utilization-planning-advisory-committee [85903] -> "../data/townSites2/Northfield/www.northfieldma.gov/building-utilization-planning-advisory-committee" [1]
+2017-01-02 05:06:28 URL:http://www.northfieldma.gov/community-park-committee-0 [94375] -> "../data/townSites2/Northfield/www.northfieldma.gov/community-park-committee-0" [1]
+2017-01-02 05:06:30 URL:http://www.northfieldma.gov/community-preservation-committee [89746] -> "../data/townSites2/Northfield/www.northfieldma.gov/community-preservation-committee" [1]
+2017-01-02 05:06:31 URL:http://www.northfieldma.gov/community-preservation-committee/pages/acquisition-creation-and-preservation-open-space [82633] -> "../data/townSites2/Northfield/www.northfieldma.gov/community-preservation-committee/pages/acquisition-creation-and-preservation-open-space" [1]
+2017-01-02 05:06:33 URL:http://www.northfieldma.gov/community-preservation-committee/pages/creation-preservation-and-support-community-and-affordable [82767] -> "../data/townSites2/Northfield/www.northfieldma.gov/community-preservation-committee/pages/creation-preservation-and-support-community-and-affordable" [1]
+2017-01-02 05:06:35 URL:http://www.northfieldma.gov/community-preservation-committee/pages/preservation-rehabilitation-and-restoration-historic [82834] -> "../data/townSites2/Northfield/www.northfieldma.gov/community-preservation-committee/pages/preservation-rehabilitation-and-restoration-historic" [1]
+2017-01-02 05:06:36 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/northfield_application_for_cpa_funds.doc 200 OK
+unlink: No such file or directory
+2017-01-02 05:06:38 URL:http://www.northfieldma.gov/conservation-commission [95096] -> "../data/townSites2/Northfield/www.northfieldma.gov/conservation-commission" [1]
+2017-01-02 05:06:39 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/maconsrestrict08.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:06:43 URL:https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40/Section8C [70120/70120] -> "../data/townSites2/Northfield/www.northfieldma.gov/conservation-commission/links/general-law-conservation-commissions" [1]
+2017-01-02 05:06:45 URL:http://www.northfieldma.gov/conservation-commission/pages/role-wetlands [86527] -> "../data/townSites2/Northfield/www.northfieldma.gov/conservation-commission/pages/role-wetlands" [1]
+2017-01-02 05:06:46 URL:http://www.mass.gov/eea/agencies/massdep/water/approvals/wetlands-and-waterways-forms.html [199431] -> "../data/townSites2/Northfield/www.northfieldma.gov/conservation-commission/links/wetlands-protection-act-permit-forms" [1]
+2017-01-02 05:06:47 URL:http://www.northfieldma.gov/council-aging [100572] -> "../data/townSites2/Northfield/www.northfieldma.gov/council-aging" [1]
+2017-01-02 05:06:51 URL:http://www.northfieldma.gov/user/login?destination=node/1701 [79832] -> "../data/townSites2/Northfield/www.northfieldma.gov/council-aging/links/announcements-and-news" [1]
+2017-01-02 05:06:52 URL:http://www.northfieldma.gov/council-aging/pages/senior-center-activities [82891] -> "../data/townSites2/Northfield/www.northfieldma.gov/council-aging/pages/senior-center-activities" [1]
+2017-01-02 05:06:53 URL:http://www.northfieldma.gov/senior-center [88677] -> "../data/townSites2/Northfield/www.northfieldma.gov/council-aging/links/senior-center" [1]
+2017-01-02 05:06:56 URL:http://www.northfieldma.gov/cultural-council [94184] -> "../data/townSites2/Northfield/www.northfieldma.gov/cultural-council" [1]
+2017-01-02 05:06:57 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/lcc_program_information_-_about_your_lcc.pdf 200 OK
+unlink: No such file or directory
+failed: Network is unreachable.
+2017-01-02 05:07:06 URL:http://www.northfieldma.gov/electronic-communication-cable-committee [87736] -> "../data/townSites2/Northfield/www.northfieldma.gov/electronic-communication-cable-committee" [1]
+2017-01-02 05:07:09 URL:http://www.northfieldma.gov/emergency-services-facility-committee [88503] -> "../data/townSites2/Northfield/www.northfieldma.gov/emergency-services-facility-committee" [1]
+2017-01-02 05:07:10 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/usda_grant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:12 URL:http://www.northfieldma.gov/energy-committee [96818] -> "../data/townSites2/Northfield/www.northfieldma.gov/energy-committee" [1]
+2017-01-02 05:07:14 URL:https://www.energystar.gov/ [134428] -> "../data/townSites2/Northfield/www.northfieldma.gov/energy-committee/links/energy-efficient-appliances" [1]
+2017-01-02 05:07:15 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/green_communities.pdf 200 OK
+unlink: No such file or directory
+http://www.masssave.org/:
+Remote file does not exist -- broken link!!!
+2017-01-02 05:07:17 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/qa_for_the_stretch_code.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:18 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/taming_your_energy_beast.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:19 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/window_inserts.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:21 URL:http://www.northfieldma.gov/finance-committee [96409] -> "../data/townSites2/Northfield/www.northfieldma.gov/finance-committee" [1]
+2017-01-02 05:07:25 URL:http://www.northfieldma.gov/user/login?destination=node/6333 [79832] -> "../data/townSites2/Northfield/www.northfieldma.gov/finance-committee/links/town-meeting-forum-april-27-2016" [1]
+2017-01-02 05:07:27 URL:http://www.northfieldma.gov/four-mile-brook-watershed-advisory-committee [85697] -> "../data/townSites2/Northfield/www.northfieldma.gov/four-mile-brook-watershed-advisory-committee" [1]
+2017-01-02 05:07:29 URL:http://www.northfieldma.gov/historical-commission [97525] -> "../data/townSites2/Northfield/www.northfieldma.gov/historical-commission" [1]
+2017-01-02 05:07:30 URL:http://www.northfieldma.gov/historical-commission/pages/additional-links [84014] -> "../data/townSites2/Northfield/www.northfieldma.gov/historical-commission/pages/additional-links" [1]
+2017-01-02 05:07:32 URL:http://www.northfieldma.gov/historical-commission/pages/designated-historic-places [83177] -> "../data/townSites2/Northfield/www.northfieldma.gov/historical-commission/pages/designated-historic-places" [1]
+2017-01-02 05:07:33 URL:http://www.northfieldma.gov/historical-commission/pages/initiatives [83685] -> "../data/townSites2/Northfield/www.northfieldma.gov/historical-commission/pages/initiatives" [1]
+2017-01-02 05:07:35 URL:http://www.northfieldma.gov/master-plan-roundtable [88157] -> "../data/townSites2/Northfield/www.northfieldma.gov/master-plan-roundtable" [1]
+2017-01-02 05:07:37 URL:http://www.northfieldma.gov/master-plan-roundtable/pages/final-master-plan-documents [82072] -> "../data/townSites2/Northfield/www.northfieldma.gov/master-plan-roundtable/pages/final-master-plan-documents" [1]
+2017-01-02 05:07:39 URL:http://www.northfieldma.gov/open-space-committee [98927] -> "../data/townSites2/Northfield/www.northfieldma.gov/open-space-committee" [1]
+2017-01-02 05:07:41 URL:http://www.northfieldmass.org/trails/ [15936/15936] -> "../data/townSites2/Northfield/www.northfieldma.gov/open-space-committee/links/northfield-trails" [1]
+2017-01-02 05:07:42 URL:http://www.northfieldma.gov/open-space-committee/pages/open-space-recreation-plan [83400] -> "../data/townSites2/Northfield/www.northfieldma.gov/open-space-committee/pages/open-space-recreation-plan" [1]
+2017-01-02 05:07:44 URL:http://www.northfieldma.gov/open-space-committee/pages/open-space-annual-reports [84198] -> "../data/townSites2/Northfield/www.northfieldma.gov/open-space-committee/pages/open-space-annual-reports" [1]
+2017-01-02 05:07:46 URL:http://www.northfieldma.gov/open-space-committee/pages/open-space-links [83828] -> "../data/townSites2/Northfield/www.northfieldma.gov/open-space-committee/pages/open-space-links" [1]
+2017-01-02 05:07:48 URL:http://www.northfieldma.gov/planning-board [95091] -> "../data/townSites2/Northfield/www.northfieldma.gov/planning-board" [1]
+2017-01-02 05:07:49 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/pb_annual_report_2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:50 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/planning_board_application_for_site_plan_approval.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:51 URL:http://www.northfieldma.gov/planning-board/pages/bylaws [85445] -> "../data/townSites2/Northfield/www.northfieldma.gov/planning-board/pages/bylaws" [1]
+2017-01-02 05:07:53 URL:http://www.northfieldma.gov/planning-board/pages/community-development-plan-2003 [84576] -> "../data/townSites2/Northfield/www.northfieldma.gov/planning-board/pages/community-development-plan-2003" [1]
+2017-01-02 05:07:54 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/masterplanappendixbfinal.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:55 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/pathway_to_tommorrow_nfld_masterplan_1977.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:56 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/planning_board_form_a_-_anr.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:57 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/subdivision_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:59 URL:http://www.northfieldma.gov/home/news/zoning-revision-proposal [84297] -> "../data/townSites2/Northfield/www.northfieldma.gov/planning-board/links/zoning-revision-proposal" [1]
+2017-01-02 05:08:01 URL:http://www.northfieldma.gov/recreation-commission [96436] -> "../data/townSites2/Northfield/www.northfieldma.gov/recreation-commission" [1]
+2017-01-02 05:08:02 URL:http://www.northfieldma.gov/recreation-commission/pages/2016-recreation-events-trips [83347] -> "../data/townSites2/Northfield/www.northfieldma.gov/recreation-commission/pages/2016-recreation-events-trips" [1]
+2017-01-02 05:08:04 URL:http://www.northfieldma.gov/recreation-commission/pages/additional-information-links [84181] -> "../data/townSites2/Northfield/www.northfieldma.gov/recreation-commission/pages/additional-information-links" [1]
+2017-01-02 05:08:06 URL:http://www.northfieldma.gov/recreation-commission/pages/coaches-forms-all-sports [83628] -> "../data/townSites2/Northfield/www.northfieldma.gov/recreation-commission/pages/coaches-forms-all-sports" [1]
+2017-01-02 05:08:07 URL:http://www.northfieldma.gov/recreation-commission/pages/karate-information [83297] -> "../data/townSites2/Northfield/www.northfieldma.gov/recreation-commission/pages/karate-information" [1]
+2017-01-02 05:08:08 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/nrc_parent_child_code_of_ethics.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:08:10 URL:http://www.northfieldma.gov/stewardship-advisory-subcommittee [93213] -> "../data/townSites2/Northfield/www.northfieldma.gov/stewardship-advisory-subcommittee" [1]
+2017-01-02 05:08:12 URL:http://www.northfieldma.gov/zoning-board-appeals [97641] -> "../data/townSites2/Northfield/www.northfieldma.gov/zoning-board-appeals" [1]
+2017-01-02 05:08:16 URL:https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40a/Section15 [69387/69387] -> "../data/townSites2/Northfield/www.northfieldma.gov/zoning-board-appeals/links/general-laws" [1]
+2017-01-02 05:08:17 URL:http://www.northfieldma.gov/zoning-board-appeals/pages/notice-decisions [83407] -> "../data/townSites2/Northfield/www.northfieldma.gov/zoning-board-appeals/pages/notice-decisions" [1]
+2017-01-02 05:08:19 URL:http://www.sec.state.ma.us/cis/cistel/northfield.htm [66004/66004] -> "../data/townSites2/Northfield/www.northfieldma.gov/zoning-board-appeals/links/william-francis-galvin" [1]
+2017-01-02 05:08:20 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/zba_application_and_guidelines_updated_2014_online_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:08:23 URL:http://www.northfieldma.gov/zoning-revision-committee [90193] -> "../data/townSites2/Northfield/www.northfieldma.gov/zoning-revision-committee" [1]
+2017-01-02 05:08:25 URL:http://www.northfieldma.gov/board-selectmen/pages/current-board-committee-openings [87855] -> "../data/townSites2/Northfield/www.northfieldma.gov/about-northfield/links/current-openings" [1]
+2017-01-02 05:08:27 URL:http://www.northfieldma.gov/files [112977] -> "../data/townSites2/Northfield/www.northfieldma.gov/files" [1]
+2017-01-02 05:08:29 URL:http://www.northfieldma.gov/northfield-open-business [82855] -> "../data/townSites2/Northfield/www.northfieldma.gov/northfield-open-business" [1]
+2017-01-02 05:08:31 URL:http://www.northfieldma.gov/northfield-open-business [82855] -> "../data/townSites2/Northfield/www.northfieldma.gov/open-business" [1]
+2017-01-02 05:08:32 URL:http://www.northfieldma.gov/home/pages/help-center [81672] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/pages/help-center" [1]
+2017-01-02 05:08:34 URL:http://www.northfieldma.gov/board-selectmen/pages/current-board-committee-openings [87855] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-selectmen/pages/current-openings" [1]
+2017-01-02 05:08:36 URL:http://www.northfieldma.gov/home/pages/licenses-permits [80843] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/pages/licenses-permits" [1]
+2017-01-02 05:08:38 URL:http://www.northfieldma.gov/calendar [101759] -> "../data/townSites2/Northfield/www.northfieldma.gov/calendar" [1]
+2017-01-02 05:08:40 URL:http://www.northfieldma.gov/faqs [80247] -> "../data/townSites2/Northfield/www.northfieldma.gov/faqs" [1]
+2017-01-02 05:08:43 URL:http://www.northfieldma.gov/where [102332] -> "../data/townSites2/Northfield/www.northfieldma.gov/where" [1]
+2017-01-02 05:08:43 URL:http://www.northfieldma.gov/home/news/zoning-revision-proposal [84297] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/news/zoning-revision-proposal" [1]
+2017-01-02 05:08:45 URL:http://www.northfieldma.gov/home/news/real-estate-tax-bills-mailed-december-14 [80558] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/news/real-estate-tax-bills-mailed-december-14" [1]
+2017-01-02 05:08:46 URL:http://www.northfieldma.gov/home/news/town-hall-office-holiday-closings [80401] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/news/town-hall-office-holiday-closings" [1]
+2017-01-02 05:08:48 URL:http://www.northfieldma.gov/node/1/news [94860] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/1/news" [1]
+2017-01-02 05:08:50 URL:http://www.northfieldma.gov/highway-department/news/highway-department-improvements-2016 [84751] -> "../data/townSites2/Northfield/www.northfieldma.gov/highway-department/news/highway-department-improvements-2016" [1]
+2017-01-02 05:08:51 URL:http://www.northfieldma.gov/highway-department/news/glenwood-ave-culvert-replacement-completed [83989] -> "../data/townSites2/Northfield/www.northfieldma.gov/highway-department/news/glenwood-ave-culvert-replacement-completed" [1]
+2017-01-02 05:08:53 URL:http://www.northfieldma.gov/highway-department/news/pratt-hollow-road-re-gravel-and-new-guard-rails [83616] -> "../data/townSites2/Northfield/www.northfieldma.gov/highway-department/news/pratt-hollow-road-re-gravel-and-new-guard-rails" [1]
+2017-01-02 05:08:55 URL:http://www.northfieldma.gov/node/41/news [81977] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/41/news" [1]
+2017-01-02 05:08:57 URL:http://www.northfieldma.gov/home/pages/town-rezoning [90000] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/pages/town-rezoning" [1]
+2017-01-02 05:08:59 URL:http://www.northfieldma.gov/minutes-and-agendas [87755] -> "../data/townSites2/Northfield/www.northfieldma.gov/minutes-and-agendas" [1]
+2017-01-02 05:09:01 URL:http://www.northfieldma.gov/subscribe [96441/96441] -> "../data/townSites2/Northfield/www.northfieldma.gov/subscribe" [1]
+2017-01-02 05:09:03 URL:http://www.northfieldma.gov/bids-rfps [89369] -> "../data/townSites2/Northfield/www.northfieldma.gov/bids-rfps" [1]
+2017-01-02 05:09:04 URL:http://www.northfieldma.gov/home/pages/public-records-request [85336] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/pages/public-records-request" [1]
+2017-01-02 05:09:07 URL:http://www.northfieldma.gov/webforms/contact-us [88935/88935] -> "../data/townSites2/Northfield/www.northfieldma.gov/webforms/contact-us" [1]
+2017-01-02 05:09:08 URL:http://www.northfieldma.gov/department-contacts [94880] -> "../data/townSites2/Northfield/www.northfieldma.gov/department-contacts" [1]
+2017-01-02 05:09:10 URL:http://www.northfieldma.gov/home/pages/disclaimer-privacy-policy [82801] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/pages/disclaimer-privacy-policy" [1]
+2017-01-02 05:09:13 URL:http://www.northfieldma.gov/about-northfield [85219] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/206" [1]
+2017-01-02 05:09:14 URL:http://www.northfieldma.gov/print/206 [7602] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/206" [1]
+2017-01-02 05:09:15 URL: http://www.northfieldma.gov/node/206/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:09:17 URL:http://www.northfieldma.gov/news [95682] -> "../data/townSites2/Northfield/www.northfieldma.gov/news" [1]
+2017-01-02 05:09:18 URL:http://www.northfieldma.gov/news/1 [95704] -> "../data/townSites2/Northfield/www.northfieldma.gov/news/1" [1]
+2017-01-02 05:09:19 URL:http://www.northfieldma.gov/board-selectmen/pages/employment-opportunities [86720] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/7743" [1]
+2017-01-02 05:09:20 URL:http://www.northfieldma.gov/print/7743 [6772] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/7743" [1]
+2017-01-02 05:09:21 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/highway_truck_driver_laborer2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:09:22 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/employment_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:09:23 URL:http://www.northfieldma.gov/about-northfield/pages/demographics [82338] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/231" [1]
+2017-01-02 05:09:24 URL:http://www.northfieldma.gov/print/231 [6788] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/231" [1]
+2017-01-02 05:09:26 URL:http://www.northfieldma.gov/about-northfield/pages/town-hall-hours [81985] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/4416" [1]
+2017-01-02 05:09:27 URL:http://www.northfieldma.gov/print/4416 [6226] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/4416" [1]
+2017-01-02 05:09:28 URL:http://www.northfieldma.gov/building-inspector [87413] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/26" [1]
+2017-01-02 05:09:30 URL:http://www.northfieldma.gov/print/26 [9952] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/26" [1]
+2017-01-02 05:09:32 URL:http://www.northfieldma.gov/user/15681/contact [82581] -> "../data/townSites2/Northfield/www.northfieldma.gov/user/15681/contact" [1]
+2017-01-02 05:09:33 URL: http://www.northfieldma.gov/node/26/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:09:34 URL:http://www.northfieldma.gov/building-commissioner/pages/applications [83658] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/3306" [1]
+2017-01-02 05:09:35 URL:http://www.northfieldma.gov/print/3306 [6818] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/3306" [1]
+2017-01-02 05:09:36 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/permit_instructions.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:09:37 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/building_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:09:38 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/application_for_certificate_of_inspection.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:09:40 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/appl_trench_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:09:41 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/woodstove_pelletstove_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:09:42 URL:http://www.northfieldma.gov/cemeteries [86310] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/211" [1]
+2017-01-02 05:09:43 URL:http://www.northfieldma.gov/print/211 [8051] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/211" [1]
+2017-01-02 05:09:44 URL: http://www.northfieldma.gov/node/211/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:09:46 URL:http://www.northfieldma.gov/dickinson-memorial-library-northfields-public-library [91967] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/4511" [1]
+2017-01-02 05:09:47 URL:http://www.northfieldma.gov/print/4511 [11884] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/4511" [1]
+http://www.northfieldma.gov/user//contact:
+Remote file does not exist -- broken link!!!
+2017-01-02 05:09:49 URL: http://www.northfieldma.gov/node/4511/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:09:50 URL:http://www.northfieldma.gov/node/4511/agenda [79139] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/4511/agenda" [1]
+2017-01-02 05:09:52 URL:http://www.northfieldma.gov/dickinson-memorial-library-northfields-public-library/agenda/agenda-1 [83488] -> "../data/townSites2/Northfield/www.northfieldma.gov/dickinson-memorial-library-northfields-public-library/agenda/agenda-1" [1]
+2017-01-02 05:09:53 URL:http://www.northfieldma.gov/dog-officer [86346] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/31" [1]
+2017-01-02 05:09:54 URL:http://www.northfieldma.gov/print/31 [7762] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/31" [1]
+2017-01-02 05:09:55 URL: http://www.northfieldma.gov/node/31/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:09:57 URL:http://www.northfieldma.gov/dog-officer/pages/animal-shelters [82287] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/561" [1]
+2017-01-02 05:09:58 URL:http://www.northfieldma.gov/print/561 [6550] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/561" [1]
+2017-01-02 05:10:01 URL:http://www.northfieldma.gov/dog-officer/pages/dog-related-bylaws [85006] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/551" [1]
+2017-01-02 05:10:02 URL:http://www.northfieldma.gov/print/551 [9293] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/551" [1]
+2017-01-02 05:10:03 URL:http://www.northfieldma.gov/northfield-ems [85715] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/4461" [1]
+2017-01-02 05:10:05 URL:http://www.northfieldma.gov/print/4461 [8766] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/4461" [1]
+2017-01-02 05:10:05 URL: http://www.northfieldma.gov/node/4461/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:10:07 URL:http://www.northfieldma.gov/node/4461/news [78943] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/4461/news" [1]
+2017-01-02 05:10:09 URL:http://www.northfieldma.gov/northfield-ems/news/new-ambulance-update [81012] -> "../data/townSites2/Northfield/www.northfieldma.gov/northfield-ems/news/new-ambulance-update" [1]
+2017-01-02 05:10:10 URL:http://www.northfieldma.gov/electrical-inspector [86048] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/36" [1]
+2017-01-02 05:10:11 URL:http://www.northfieldma.gov/print/36 [7762] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/36" [1]
+2017-01-02 05:10:11 URL: http://www.northfieldma.gov/node/36/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:10:12 URL:http://www.northfieldma.gov/electrical-inspector/pages/applications [82805] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/3316" [1]
+2017-01-02 05:10:13 URL:http://www.northfieldma.gov/print/3316 [6323] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/3316" [1]
+2017-01-02 05:10:14 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/application_for_electrical_permits.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:10:15 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/application_for_institutional_permits.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:10:16 URL:http://www.northfieldma.gov/highway-department [91037] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/41.1" [1]
+2017-01-02 05:10:18 URL:http://www.northfieldma.gov/print/41 [9505] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/41" [1]
+2017-01-02 05:10:20 URL:http://www.northfieldma.gov/user/15741/contact [82560] -> "../data/townSites2/Northfield/www.northfieldma.gov/user/15741/contact" [1]
+2017-01-02 05:10:21 URL: http://www.northfieldma.gov/node/41/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:10:23 URL:http://www.northfieldma.gov/node/41/faq [79589] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/41/faq" [1]
+2017-01-02 05:10:25 URL:http://www.northfieldma.gov/highway-department/faq/snow-removal-questions [86232] -> "../data/townSites2/Northfield/www.northfieldma.gov/highway-department/faq/snow-removal-questions" [1]
+2017-01-02 05:10:27 URL:http://www.northfieldma.gov/highway-department/news/salt-shed-complete [84177] -> "../data/townSites2/Northfield/www.northfieldma.gov/highway-department/news/salt-shed-complete" [1]
+2017-01-02 05:10:28 URL:http://www.northfieldma.gov/highway-department/news/completed-old-wendell-road-construction [83762] -> "../data/townSites2/Northfield/www.northfieldma.gov/highway-department/news/completed-old-wendell-road-construction" [1]
+2017-01-02 05:10:30 URL:http://www.northfieldma.gov/highway-department/pages/applications [83655] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/3311" [1]
+2017-01-02 05:10:30 URL:http://www.northfieldma.gov/print/3311 [6307] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/3311" [1]
+2017-01-02 05:10:31 URL:http://www.northfieldma.gov/highway-updates [81877] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/10273" [1]
+2017-01-02 05:10:32 URL:http://www.northfieldma.gov/print/10273 [5973] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/10273" [1]
+2017-01-02 05:10:33 URL: http://www.northfieldma.gov/node/10273/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:10:35 URL:http://www.northfieldma.gov/node/10273/news [78016] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/10273/news" [1]
+2017-01-02 05:10:36 URL:http://www.northfieldma.gov/highway-updates/news/highway-updates-archive [80125] -> "../data/townSites2/Northfield/www.northfieldma.gov/highway-updates/news/highway-updates-archive" [1]
+2017-01-02 05:10:37 URL:http://www.northfieldma.gov/highway-department/pages/how-keep-your-driveway-clear-during-snowplowing-season [85056] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/4641" [1]
+2017-01-02 05:10:38 URL:http://www.northfieldma.gov/print/4641 [7893] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/4641" [1]
+2017-01-02 05:10:39 URL:http://www.northfieldma.gov/highway-department/pages/shade-tree-philosophy [88359] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/9983" [1]
+2017-01-02 05:10:40 URL:http://www.northfieldma.gov/print/9983 [11193] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/9983" [1]
+2017-01-02 05:10:40 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/benefits_of_shade_trees_pdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:10:41 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/invasive_trees_pdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:10:41 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/tree_biology_pdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:10:42 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/why_leaves_change_color_pdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:10:42 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/pest_species_chart.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:10:43 URL:http://www.northfieldma.gov/plumbing-gas-inspector [86085] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/56" [1]
+2017-01-02 05:10:44 URL:http://www.northfieldma.gov/print/56 [7578] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/56" [1]
+2017-01-02 05:10:44 URL: http://www.northfieldma.gov/node/56/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:10:45 URL:http://www.northfieldma.gov/plumbing-gas-inspector/pages/applications [82773] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/3321" [1]
+2017-01-02 05:10:46 URL:http://www.northfieldma.gov/print/3321 [6315] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/3321" [1]
+2017-01-02 05:10:47 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/gas_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:10:48 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/plumbing_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:10:49 URL:http://www.northfieldma.gov/police-department [92449] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/61" [1]
+2017-01-02 05:10:51 URL:http://www.northfieldma.gov/police-department/urgent-alerts/northfield-police-dept-scam-alerts [90844] -> "../data/townSites2/Northfield/www.northfieldma.gov/police-department/urgent-alerts/northfield-police-dept-scam-alerts" [1]
+2017-01-02 05:10:52 URL:http://www.northfieldma.gov/print/61 [11590] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/61" [1]
+2017-01-02 05:10:54 URL:http://www.northfieldma.gov/user/15816/contact [82552] -> "../data/townSites2/Northfield/www.northfieldma.gov/user/15816/contact" [1]
+2017-01-02 05:10:54 URL: http://www.northfieldma.gov/node/61/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:10:55 URL:http://www.northfieldma.gov/police-department/pages/faqs [93311] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/4001" [1]
+2017-01-02 05:10:56 URL:http://www.northfieldma.gov/print/4001 [15231] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/4001" [1]
+2017-01-02 05:10:58 URL:http://www.northfieldma.gov/schools [84942] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/7093" [1]
+2017-01-02 05:10:59 URL:http://www.northfieldma.gov/print/7093 [7359] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/7093" [1]
+2017-01-02 05:10:59 URL: http://www.northfieldma.gov/node/7093/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:00 URL:http://www.northfieldma.gov/senior-center [88677] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/66" [1]
+2017-01-02 05:11:01 URL:http://www.northfieldma.gov/print/66 [8858] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/66" [1]
+2017-01-02 05:11:03 URL:http://www.northfieldma.gov/user/15711/contact [82478] -> "../data/townSites2/Northfield/www.northfieldma.gov/user/15711/contact" [1]
+2017-01-02 05:11:04 URL: http://www.northfieldma.gov/node/66/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:05 URL:http://www.northfieldma.gov/node/66/news [80885] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/66/news" [1]
+2017-01-02 05:11:07 URL:http://www.northfieldma.gov/senior-center/news/tax-time-liberty-tax [83740] -> "../data/townSites2/Northfield/www.northfieldma.gov/senior-center/news/tax-time-liberty-tax" [1]
+2017-01-02 05:11:08 URL:http://www.northfieldma.gov/senior-center/news/fuel-assistance [84054] -> "../data/townSites2/Northfield/www.northfieldma.gov/senior-center/news/fuel-assistance" [1]
+2017-01-02 05:11:10 URL:http://www.northfieldma.gov/senior-center/news/romeos [83268] -> "../data/townSites2/Northfield/www.northfieldma.gov/senior-center/news/romeos" [1]
+2017-01-02 05:11:11 URL:http://www.northfieldma.gov/senior-center/news/highlights-january [89996] -> "../data/townSites2/Northfield/www.northfieldma.gov/senior-center/news/highlights-january" [1]
+2017-01-02 05:11:12 URL:http://www.northfieldma.gov/senior-center/pages/care-givers-support-group [84094] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/806" [1]
+2017-01-02 05:11:13 URL:http://www.northfieldma.gov/print/806 [6726] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/806" [1]
+2017-01-02 05:11:14 URL:http://www.northfieldma.gov/senior-center/pages/health-clinics [84560] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/3701" [1]
+2017-01-02 05:11:15 URL:http://www.northfieldma.gov/print/3701 [7327] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/3701" [1]
+2017-01-02 05:11:16 URL:http://www.northfieldma.gov/senior-center/pages/meals-wheels-and-lunch [84351] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/1686" [1]
+2017-01-02 05:11:17 URL:http://www.northfieldma.gov/print/1686 [7089] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/1686" [1]
+2017-01-02 05:11:18 URL:http://www.northfieldma.gov/senior-center/pages/senior-center-activities [87125] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/1696" [1]
+2017-01-02 05:11:19 URL:http://www.northfieldma.gov/print/1696 [9852] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/1696" [1]
+2017-01-02 05:11:20 URL:http://www.northfieldma.gov/senior-center/pages/senior-newsletter [88232] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/3706" [1]
+2017-01-02 05:11:21 URL:http://www.northfieldma.gov/print/3706 [11194] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/3706" [1]
+2017-01-02 05:11:21 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/dec.2015_newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:22 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/january_2016_newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:22 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/february_2016_newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:22 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/march_2016_newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:23 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/april_2016_newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:23 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/may_2016_newsletter_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:23 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/june_2016_newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:24 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/july_2016_newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:24 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/august_2016_newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:25 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/september_16_newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:25 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/october_16_newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:25 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/november_2016_newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:26 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/dec.2016_newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:26 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/january_2017_newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:27 URL:http://www.northfieldma.gov/senior-center/pages/sixty-fitness [86080] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/801" [1]
+2017-01-02 05:11:28 URL:http://www.northfieldma.gov/print/801 [8933] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/801" [1]
+2017-01-02 05:11:30 URL:http://www.northfieldma.gov/senior-center/pages/transportation [84807] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/1691" [1]
+2017-01-02 05:11:30 URL:http://www.northfieldma.gov/print/1691 [7577] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/1691" [1]
+2017-01-02 05:11:32 URL:http://www.northfieldma.gov/tax-collector [96065] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/71" [1]
+2017-01-02 05:11:33 URL:http://www.northfieldma.gov/print/71 [9346] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/71" [1]
+2017-01-02 05:11:35 URL:http://www.northfieldma.gov/user/15801/contact [82500] -> "../data/townSites2/Northfield/www.northfieldma.gov/user/15801/contact" [1]
+2017-01-02 05:11:36 URL: http://www.northfieldma.gov/node/71/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:37 URL:http://www.northfieldma.gov/node/71/news [78914] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/71/news" [1]
+2017-01-02 05:11:39 URL:http://www.northfieldma.gov/tax-collector/news/announcements-collectors-office [83068] -> "../data/townSites2/Northfield/www.northfieldma.gov/tax-collector/news/announcements-collectors-office" [1]
+2017-01-02 05:11:41 URL:http://www.northfieldma.gov/node/71/events/month [98714] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/71/events/month" [1]
+2017-01-02 05:11:42 URL:http://www.northfieldma.gov/node/71/events/month/2017-01 [98771] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/71/events/month/2017-01" [1]
+2017-01-02 05:11:44 URL:http://www.northfieldma.gov/tax-collector/pages/delinquent-motor-vehicle-excise-taxes [83190] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/1496" [1]
+2017-01-02 05:11:45 URL:http://www.northfieldma.gov/print/1496 [6524] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/1496" [1]
+2017-01-02 05:11:46 URL:http://www.northfieldma.gov/town-accountant [84855] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/76" [1]
+2017-01-02 05:11:47 URL:http://www.northfieldma.gov/print/76 [8062] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/76" [1]
+2017-01-02 05:11:48 URL:http://www.northfieldma.gov/user/15686/contact [82536] -> "../data/townSites2/Northfield/www.northfieldma.gov/user/15686/contact" [1]
+2017-01-02 05:11:49 URL: http://www.northfieldma.gov/node/76/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:50 URL:http://www.northfieldma.gov/town-administrator [89083] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/81" [1]
+2017-01-02 05:11:51 URL:http://www.northfieldma.gov/print/81 [9297] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/81" [1]
+2017-01-02 05:11:54 URL:http://www.northfieldma.gov/user/15721/contact [82480] -> "../data/townSites2/Northfield/www.northfieldma.gov/user/15721/contact" [1]
+2017-01-02 05:11:56 URL:http://www.northfieldma.gov/user/15751/contact [82474] -> "../data/townSites2/Northfield/www.northfieldma.gov/user/15751/contact" [1]
+2017-01-02 05:11:57 URL: http://www.northfieldma.gov/node/81/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:58 URL:http://www.northfieldma.gov/town-clerk [93291] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/86" [1]
+2017-01-02 05:11:59 URL:http://www.northfieldma.gov/print/86 [11891] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/86" [1]
+2017-01-02 05:12:01 URL:http://www.northfieldma.gov/user/15716/contact [82494] -> "../data/townSites2/Northfield/www.northfieldma.gov/user/15716/contact" [1]
+2017-01-02 05:12:02 URL: http://www.northfieldma.gov/node/86/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:12:03 URL:http://www.northfieldma.gov/node/86/faq [82090] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/86/faq" [1]
+2017-01-02 05:12:06 URL:http://www.northfieldma.gov/town-clerk/faq/obtaining-death-certificate [85579] -> "../data/townSites2/Northfield/www.northfieldma.gov/town-clerk/faq/obtaining-death-certificate" [1]
+2017-01-02 05:12:08 URL:http://www.northfieldma.gov/town-clerk/faq/where-do-i-get-copy-my-birth-certificate [86331] -> "../data/townSites2/Northfield/www.northfieldma.gov/town-clerk/faq/where-do-i-get-copy-my-birth-certificate" [1]
+2017-01-02 05:12:10 URL:http://www.northfieldma.gov/town-clerk/faq/what-do-i-need-order-get-marriage-license [85563] -> "../data/townSites2/Northfield/www.northfieldma.gov/town-clerk/faq/what-do-i-need-order-get-marriage-license" [1]
+2017-01-02 05:12:11 URL:http://www.northfieldma.gov/town-clerk/faq/what-are-some-responsiblities-town-clerk [85060] -> "../data/townSites2/Northfield/www.northfieldma.gov/town-clerk/faq/what-are-some-responsiblities-town-clerk" [1]
+2017-01-02 05:12:13 URL:http://www.northfieldma.gov/town-clerk/pages/business-certificate [91614] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/3911" [1]
+2017-01-02 05:12:14 URL:http://www.northfieldma.gov/print/3911 [12795] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/3911" [1]
+2017-01-02 05:12:15 URL:http://www.northfieldma.gov/town-clerk/files/campaign-finance-report-form [85268] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/4106" [1]
+2017-01-02 05:12:16 URL:http://www.northfieldma.gov/print/4106 [6551] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/4106" [1]
+2017-01-02 05:12:16 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/campaign_finance_notification2015.doc 200 OK
+unlink: No such file or directory
+2017-01-02 05:12:18 URL:http://www.northfieldma.gov/town-clerk/pages/dog-licensing [87343] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/7353" [1]
+2017-01-02 05:12:19 URL:http://www.northfieldma.gov/print/7353 [8412] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/7353" [1]
+2017-01-02 05:12:20 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/dog_license_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:12:21 URL:http://www.northfieldma.gov/town-clerk/pages/elections-and-voter-registration [101061] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/3921" [1]
+2017-01-02 05:12:22 URL:http://www.northfieldma.gov/print/3921 [22086] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/3921" [1]
+2017-01-02 05:12:23 URL:http://www.northfieldma.gov/town-clerk/pages/fee-schedule [87686] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/3741" [1]
+2017-01-02 05:12:24 URL:http://www.northfieldma.gov/print/3741 [8775] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/3741" [1]
+2017-01-02 05:12:25 URL:http://www.northfieldma.gov/town-clerk/pages/fuel-storage-permit [94183] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/3931" [1]
+2017-01-02 05:12:26 URL:http://www.northfieldma.gov/print/3931 [15335] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/3931" [1]
+2017-01-02 05:12:27 URL:http://www.northfieldma.gov/town-clerk/pages/raffles-bazaars [94933] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/3906" [1]
+2017-01-02 05:12:28 URL:http://www.northfieldma.gov/print/3906 [16000] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/3906" [1]
+2017-01-02 05:12:29 URL:http://www.northfieldma.gov/town-secretary [87085] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/91" [1]
+2017-01-02 05:12:30 URL:http://www.northfieldma.gov/print/91 [8351] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/91" [1]
+2017-01-02 05:12:31 URL: http://www.northfieldma.gov/node/91/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:12:32 URL:http://www.northfieldma.gov/transfer-station [86358] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/236" [1]
+2017-01-02 05:12:33 URL:http://www.northfieldma.gov/print/236 [8272] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/236" [1]
+2017-01-02 05:12:33 URL: http://www.northfieldma.gov/node/236/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:12:35 URL:http://www.northfieldma.gov/node/236/news [80200] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/236/news" [1]
+2017-01-02 05:12:36 URL:http://www.northfieldma.gov/transfer-station/news/holiday-recycling-reminder [83392] -> "../data/townSites2/Northfield/www.northfieldma.gov/transfer-station/news/holiday-recycling-reminder" [1]
+2017-01-02 05:12:38 URL:http://www.northfieldma.gov/transfer-station/news/price-change-2017-transfer-station-stickers [83507] -> "../data/townSites2/Northfield/www.northfieldma.gov/transfer-station/news/price-change-2017-transfer-station-stickers" [1]
+2017-01-02 05:12:39 URL:http://www.northfieldma.gov/home/news/bulky-items-companies-offering-pickup-disposal [81701] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/8143" [1]
+2017-01-02 05:12:40 URL:http://www.northfieldma.gov/print/8143 [7656] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/8143" [1]
+2017-01-02 05:12:41 URL:http://www.northfieldma.gov/agricultural-commission [93032] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/96" [1]
+2017-01-02 05:12:42 URL:http://www.northfieldma.gov/print/96 [14043] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/96" [1]
+2017-01-02 05:12:45 URL:http://www.northfieldma.gov/user/login?destination=user/15796/contact [79860] -> "../data/townSites2/Northfield/www.northfieldma.gov/user/15796/contact" [1]
+2017-01-02 05:12:45 URL: http://www.northfieldma.gov/node/96/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:12:46 URL:http://www.northfieldma.gov/node/96/agenda [78507] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/96/agenda" [1]
+2017-01-02 05:12:48 URL:http://www.northfieldma.gov/agricultural-commission/agenda/agenda-3 [83009] -> "../data/townSites2/Northfield/www.northfieldma.gov/agricultural-commission/agenda/agenda-3" [1]
+2017-01-02 05:12:50 URL:http://www.northfieldma.gov/agricultural-commission/agenda/agenda-2 [83010] -> "../data/townSites2/Northfield/www.northfieldma.gov/agricultural-commission/agenda/agenda-2" [1]
+2017-01-02 05:12:51 URL:http://www.northfieldma.gov/board-assessors [95787] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/101" [1]
+2017-01-02 05:12:52 URL:http://www.northfieldma.gov/print/101 [10579] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/101" [1]
+2017-01-02 05:12:54 URL:http://www.northfieldma.gov/user/15676/contact [82486] -> "../data/townSites2/Northfield/www.northfieldma.gov/user/15676/contact" [1]
+2017-01-02 05:12:55 URL: http://www.northfieldma.gov/node/101/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:12:56 URL:http://www.northfieldma.gov/node/101/news [80044] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/101/news" [1]
+2017-01-02 05:12:57 URL:http://www.northfieldma.gov/board-assessors/news/do-you-need-copy-property-record-card-or-tax-map [83706] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-assessors/news/do-you-need-copy-property-record-card-or-tax-map" [1]
+2017-01-02 05:12:59 URL:http://www.northfieldma.gov/node/101/agenda [79446] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/101/agenda" [1]
+2017-01-02 05:13:00 URL:http://www.northfieldma.gov/board-assessors/agenda/agenda-13 [83920] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-assessors/agenda/agenda-13" [1]
+2017-01-02 05:13:02 URL:http://www.northfieldma.gov/board-assessors/agenda/selectboard-assessors-agenda [84041] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-assessors/agenda/selectboard-assessors-agenda" [1]
+2017-01-02 05:13:03 URL:http://www.northfieldma.gov/board-assessors/agenda/agenda-12 [83919] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-assessors/agenda/agenda-12" [1]
+2017-01-02 05:13:05 URL:http://www.northfieldma.gov/board-assessors/agenda/agenda-11 [83922] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-assessors/agenda/agenda-11" [1]
+2017-01-02 05:13:06 URL:http://www.northfieldma.gov/board-assessors/agenda/agenda-10 [83922] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-assessors/agenda/agenda-10" [1]
+2017-01-02 05:13:08 URL:http://www.northfieldma.gov/node/101/minutes [79522] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/101/minutes" [1]
+2017-01-02 05:13:09 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/board_of_assessors_selectmen_joint_meeting_minutes_5-24-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:13:09 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/board_of_assessors_minutes_5-11-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:13:10 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/board_of_assessors_minutes_4-13-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:13:11 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/board_of_assessors_minutes_3-9-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:13:12 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/board_of_assessors_minutes_1-13-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:13:13 URL:http://www.northfieldma.gov/board-assessors/pages/forms [83825] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/286" [1]
+2017-01-02 05:13:14 URL:http://www.northfieldma.gov/print/286 [6486] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/286" [1]
+2017-01-02 05:13:15 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/fol_business.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:13:16 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/fol_2nd_home.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:13:17 URL:http://www.northfieldma.gov/board-assessors/pages/tax-facts-about-northfield [84500] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/3591" [1]
+2017-01-02 05:13:18 URL:http://www.northfieldma.gov/print/3591 [7176] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/3591" [1]
+2017-01-02 05:13:19 URL:http://www.northfieldma.gov/board-health [99579] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/16" [1]
+2017-01-02 05:13:20 URL:http://www.northfieldma.gov/print/16 [13241] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/16" [1]
+2017-01-02 05:13:22 URL:http://www.northfieldma.gov/user/15806/contact [82524] -> "../data/townSites2/Northfield/www.northfieldma.gov/user/15806/contact" [1]
+2017-01-02 05:13:23 URL: http://www.northfieldma.gov/node/16/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:13:24 URL:http://www.northfieldma.gov/node/16/agenda [80577] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/16/agenda" [1]
+2017-01-02 05:13:25 URL:http://www.northfieldma.gov/board-health/agenda/agenda-22 [85037] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-health/agenda/agenda-22" [1]
+2017-01-02 05:13:27 URL:http://www.northfieldma.gov/board-health/agenda/agenda-21 [85055] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-health/agenda/agenda-21" [1]
+2017-01-02 05:13:28 URL:http://www.northfieldma.gov/board-health/agenda/agenda-20 [85053] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-health/agenda/agenda-20" [1]
+2017-01-02 05:13:30 URL:http://www.northfieldma.gov/board-health/agenda/agenda-19 [85052] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-health/agenda/agenda-19" [1]
+2017-01-02 05:13:31 URL:http://www.northfieldma.gov/board-health/agenda/agenda-18 [85040] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-health/agenda/agenda-18" [1]
+2017-01-02 05:13:32 URL:http://www.northfieldma.gov/node/16/minutes [80585] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/16/minutes" [1]
+2017-01-02 05:13:33 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/board_of_health_meeting_minutes_11-17-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:13:34 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/board_of_health_minutes_9-22-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:13:35 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/board_of_health_minutes_8-24-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:13:36 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/board_of_health_minutes_8-11-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:13:37 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/board_of_health_minutes_for_05-12-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:13:38 URL:http://www.northfieldma.gov/board-health/pages/household-hazardous-waste-schedule [84978] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/1576" [1]
+2017-01-02 05:13:39 URL:http://www.northfieldma.gov/print/1576 [6526] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/1576" [1]
+2017-01-02 05:13:40 URL:http://www.northfieldma.gov/board-library-trustees [93457] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/106" [1]
+2017-01-02 05:13:41 URL:http://www.northfieldma.gov/print/106 [12730] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/106" [1]
+2017-01-02 05:13:42 URL: http://www.northfieldma.gov/node/106/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:13:43 URL:http://www.northfieldma.gov/node/106/agenda [78371] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/106/agenda" [1]
+2017-01-02 05:13:45 URL:http://www.northfieldma.gov/board-library-trustees/agenda/agenda-0 [83044] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-library-trustees/agenda/agenda-0" [1]
+2017-01-02 05:13:46 URL:http://www.northfieldma.gov/node/106/minutes [78379] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/106/minutes" [1]
+2017-01-02 05:13:47 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/010516.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:13:48 URL:http://www.northfieldma.gov/board-selectmen [100827] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/111" [1]
+2017-01-02 05:13:49 URL:http://www.northfieldma.gov/print/111 [12294] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/111" [1]
+2017-01-02 05:13:51 URL:http://www.northfieldma.gov/user/login?destination=user/15761/contact [79860] -> "../data/townSites2/Northfield/www.northfieldma.gov/user/15761/contact" [1]
+2017-01-02 05:13:53 URL: http://www.northfieldma.gov/node/111/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:13:55 URL:http://www.northfieldma.gov/node/111/agenda [82335] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/111/agenda" [1]
+2017-01-02 05:13:56 URL: http://www.northfieldma.gov/sites/northfieldma/files/agendas/agenda_122016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:13:57 URL:http://www.northfieldma.gov/board-selectmen/agenda/agenda-35 [86600] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-selectmen/agenda/agenda-35" [1]
+2017-01-02 05:13:58 URL: http://www.northfieldma.gov/sites/northfieldma/files/agendas/agenda_120616.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:13:59 URL: http://www.northfieldma.gov/sites/northfieldma/files/agendas/120516stm.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:00 URL: http://www.northfieldma.gov/sites/northfieldma/files/agendas/agenda_112916.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:02 URL:http://www.northfieldma.gov/node/111/minutes [82547] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/111/minutes" [1]
+2017-01-02 05:14:03 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/120616.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:04 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/120516.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:04 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/112916.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:05 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/112316.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:06 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/110116.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:07 URL:http://www.northfieldma.gov/board-selectmen/pages/additional-information-links [86501] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/1291" [1]
+2017-01-02 05:14:08 URL:http://www.northfieldma.gov/print/1291 [6536] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/1291" [1]
+2017-01-02 05:14:09 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/community_development_strategy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:10 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/webcopy_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:11 URL:http://www.northfieldma.gov/board-selectmen/pages/annual-reports [87727] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/3016" [1]
+2017-01-02 05:14:12 URL:http://www.northfieldma.gov/print/3016 [7735] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/3016" [1]
+2017-01-02 05:14:13 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/2015_annual_report_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:14 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/2014_annual_report_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:15 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/2013_annual_report_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:16 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/annual_town_report_2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:17 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/2011_annual_report_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:18 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/annual_report_2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:19 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/2009_annual_town_report_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:20 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/2008_annual_town_report_0.pdf 200 OK
+unlink: No such file or directory
+http://www.northfieldma.gov/board-selectmen/files/accountants-report-page-1:
+Remote file does not exist -- broken link!!!
+http://www.northfieldma.gov/board-selectmen/files/accountants-report-page-2:
+Remote file does not exist -- broken link!!!
+http://www.northfieldma.gov/board-selectmen/files/accountants-report-page-3:
+Remote file does not exist -- broken link!!!
+http://www.northfieldma.gov/board-selectmen/files/accountants-report-page-4:
+Remote file does not exist -- broken link!!!
+http://www.northfieldma.gov/board-selectmen/files/accountants-report-page-5:
+Remote file does not exist -- broken link!!!
+2017-01-02 05:14:25 URL:http://www.northfieldma.gov/board-selectmen/pages/current-board-committee-openings [87855] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/1276" [1]
+2017-01-02 05:14:26 URL:http://www.northfieldma.gov/print/1276 [7860] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/1276" [1]
+2017-01-02 05:14:27 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/citizen_interest_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:28 URL:http://www.northfieldma.gov/board-selectmen/pages/elections [88853] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/3286" [1]
+2017-01-02 05:14:29 URL:http://www.northfieldma.gov/print/3286 [8748] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/3286" [1]
+2017-01-02 05:14:30 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/special_election_june_23_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:31 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/results_from_may_7_2013_annual_election.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:32 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/results_from_april_30_2013_primary_election.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:33 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/november_6_2012_election_results.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:34 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/may_8_2012_annual_town_election_results.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:34 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/may_3_annual_election_results.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:36 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/state_election_november_2_2010_results.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:37 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/special_municipal_election.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:38 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/aug._24_2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:38 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/results.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:39 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/state_primary_results.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:41 URL:http://www.northfieldma.gov/board-selectmen/pages/may-4-2010-election-results [86677] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-selectmen/pages/may-4-2010-election-results" [1]
+2017-01-02 05:14:42 URL:http://www.northfieldma.gov/board-selectmen/pages/multi-hazard-mitigation-plan [86412] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/2136" [1]
+2017-01-02 05:14:43 URL:http://www.northfieldma.gov/print/2136 [6456] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/2136" [1]
+2017-01-02 05:14:44 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/multi_hazard_mitigation_plan_draft.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:45 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:46 URL:http://www.northfieldma.gov/pipeline-information-archive/news/pipeline-information-archive [85679] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/2766" [1]
+2017-01-02 05:14:47 URL:http://www.northfieldma.gov/print/2766 [7715] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/2766" [1]
+2017-01-02 05:14:49 URL:http://www.northfieldma.gov/pipeline-information-archive [87100] -> "../data/townSites2/Northfield/www.northfieldma.gov/pipeline-information-archive" [1]
+2017-01-02 05:14:50 URL:http://www.northfieldma.gov/pipeline-updates/pages/additional-links-pipeline-permitting-process [85181] -> "../data/townSites2/Northfield/www.northfieldma.gov/pipeline-updates/pages/additional-links-pipeline-permitting-process" [1]
+2017-01-02 05:14:51 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/faq_of_dpu.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:52 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/dpu_hearing.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:14:54 URL:http://www.northfieldma.gov/pipeline-updates/pages/deerfield-board-health-v-kinder-morgan [86042] -> "../data/townSites2/Northfield/www.northfieldma.gov/pipeline-updates/pages/deerfield-board-health-v-kinder-morgan" [1]
+2017-01-02 05:14:56 URL:https://www.ferc.gov/ [55058/55058] -> "../data/townSites2/Northfield/www.northfieldma.gov/pipeline-updates/links/federal-energy-regulatory-commission-ferc" [1]
+2017-01-02 05:14:58 URL:http://www.northfieldma.gov/pipeline-updates/pages/filing-intervener-status-julia-blyth [85770] -> "../data/townSites2/Northfield/www.northfieldma.gov/pipeline-updates/pages/filing-intervener-status-julia-blyth" [1]
+2017-01-02 05:14:59 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/billh3990.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:00 URL:http://www.northfieldma.gov/pipeline-updates/pages/information-provided-franklin-county-regional-government [86311] -> "../data/townSites2/Northfield/www.northfieldma.gov/pipeline-updates/pages/information-provided-franklin-county-regional-government" [1]
+2017-01-02 05:15:02 URL:http://www.northfieldma.gov/pipeline-updates/pages/kinder-morgantennessee-pipelinenortheast-energy-direct-project-provided [85343] -> "../data/townSites2/Northfield/www.northfieldma.gov/pipeline-updates/pages/kinder-morgantennessee-pipelinenortheast-energy-direct-project-provided" [1]
+2017-01-02 05:15:03 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/complaint_holly_and_gordon_lovelace_et_al._plaintiffs_v._the_united_s.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:04 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/ma_ago_motion_to_intervene_tgp_ned_cp16-21-000.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:05 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/northfield_motion_to_intervenor.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:06 URL:http://www.northfieldma.gov/pipeline-updates/pages/ned-project-links [84700] -> "../data/townSites2/Northfield/www.northfieldma.gov/pipeline-updates/pages/ned-project-links" [1]
+2017-01-02 05:15:08 URL:http://www.northfieldma.gov/pipeline-updates/pages/northeast-energy-direct-project [85619] -> "../data/townSites2/Northfield/www.northfieldma.gov/pipeline-updates/pages/northeast-energy-direct-project" [1]
+2017-01-02 05:15:09 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/power_system_reliability_in_new_england.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:10 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/siting_interstate_natural_gas_pipelines.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:12 URL:http://www.northfieldma.gov/pipeline-updates/pages/tennessee-gas-pipeline-files-certificate-application-proposed-northeast [98078] -> "../data/townSites2/Northfield/www.northfieldma.gov/pipeline-updates/pages/tennessee-gas-pipeline-files-certificate-application-proposed-northeast" [1]
+2017-01-02 05:15:13 URL:http://www.northfieldma.gov/board-selectmen/pages/proposed-2017-selectboard-meeting-schedule [86712] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/11173" [1]
+2017-01-02 05:15:14 URL:http://www.northfieldma.gov/print/11173 [6803] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/11173" [1]
+2017-01-02 05:15:15 URL:http://www.northfieldma.gov/board-selectmen/pages/town-meeting-warrants [85079] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/3096" [1]
+2017-01-02 05:15:16 URL:http://www.northfieldma.gov/print/3096 [10492] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/3096" [1]
+2017-01-02 05:15:17 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/town_of_northfield_stm2016_warrant_posting_11-3-2016_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:17 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/town_of_northfield_atm2017_warrant_draft_4-7-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:18 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/may_4_2015_annual_town_meeting_warrant_results.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:19 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/2015_annual_town_meeting_results.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:20 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/source_of_funds.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:21 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/annual_town_meeting_warrant_may_5_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:22 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/motions_for_atm_2014_revised_05-05-14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:23 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/special_town_meeting_warrant_december_9_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:24 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/results_of_12-9-2013_stm.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:25 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/annual_town_meeting_warrant_may_6_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:26 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/fy14_budget.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:27 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/map_for_article_30.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:28 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/special_town_meeting_warrant_for_feb._25_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:29 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/proposed_fy13_budget.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:30 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/annual_town_meeting_warrant_for_may_7_2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:30 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/september_26_2011_special_town_meeting_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:30 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/fy12_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:31 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/special_town_meeting_warrant_sept._27_2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:32 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/state_primary_warrant_for_september_14_2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:33 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/may_3_special_town_meeting_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:33 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/may_3_annual_town_meeting_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:34 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/fy10_annual_town_meeting_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:34 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/results_of_3-26-09_special_town_meeting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:36 URL:http://www.northfieldma.gov/board-sewer-commissioners [89244] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/21" [1]
+2017-01-02 05:15:37 URL:http://www.northfieldma.gov/print/21 [10895] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/21" [1]
+2017-01-02 05:15:41 URL:http://www.northfieldma.gov/user/15696/contact [82618] -> "../data/townSites2/Northfield/www.northfieldma.gov/user/15696/contact" [1]
+2017-01-02 05:15:42 URL: http://www.northfieldma.gov/node/21/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:43 URL:http://www.northfieldma.gov/node/21/agenda [78574] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/21/agenda" [1]
+2017-01-02 05:15:46 URL:http://www.northfieldma.gov/board-sewer-commissioners/agenda/agenda-1 [83359] -> "../data/townSites2/Northfield/www.northfieldma.gov/board-sewer-commissioners/agenda/agenda-1" [1]
+2017-01-02 05:15:47 URL:http://www.northfieldma.gov/board-trustees-veterans-memorials-veterans-services-information [91078] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/116" [1]
+2017-01-02 05:15:49 URL:http://www.northfieldma.gov/print/116 [13471] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/116" [1]
+2017-01-02 05:15:49 URL: http://www.northfieldma.gov/node/116/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:51 URL:http://www.northfieldma.gov/building-utilization-planning-advisory-committee [85903] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/121" [1]
+2017-01-02 05:15:53 URL:http://www.northfieldma.gov/print/121 [8527] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/121" [1]
+2017-01-02 05:15:53 URL: http://www.northfieldma.gov/node/121/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:15:55 URL:http://www.northfieldma.gov/node/121/agenda [77885] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/121/agenda" [1]
+2017-01-02 05:15:58 URL:http://www.northfieldma.gov/building-utilization-planning-advisory-committee/agenda/agenda-1 [81006] -> "../data/townSites2/Northfield/www.northfieldma.gov/building-utilization-planning-advisory-committee/agenda/agenda-1" [1]
+2017-01-02 05:15:59 URL:http://www.northfieldma.gov/community-park-committee-0 [94375] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/4021" [1]
+2017-01-02 05:16:00 URL:http://www.northfieldma.gov/print/4021 [13807] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/4021" [1]
+2017-01-02 05:16:05 URL:http://www.northfieldma.gov/user/login?destination=user/15791/contact [79860] -> "../data/townSites2/Northfield/www.northfieldma.gov/user/15791/contact" [1]
+2017-01-02 05:16:08 URL:http://www.northfieldma.gov/user/login?destination=user/15766/contact [79860] -> "../data/townSites2/Northfield/www.northfieldma.gov/user/15766/contact" [1]
+2017-01-02 05:16:09 URL: http://www.northfieldma.gov/node/4021/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:16:12 URL:http://www.northfieldma.gov/node/4021/agenda [77772] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/4021/agenda" [1]
+2017-01-02 05:16:14 URL:http://www.northfieldma.gov/community-park-committee/agenda/agenda-7 [80888] -> "../data/townSites2/Northfield/www.northfieldma.gov/community-park-committee/agenda/agenda-7" [1]
+2017-01-02 05:16:15 URL:http://www.northfieldma.gov/community-park-committee/agenda/agenda-6 [80888] -> "../data/townSites2/Northfield/www.northfieldma.gov/community-park-committee/agenda/agenda-6" [1]
+2017-01-02 05:16:17 URL:http://www.northfieldma.gov/community-park-committee/agenda/agenda-5 [80873] -> "../data/townSites2/Northfield/www.northfieldma.gov/community-park-committee/agenda/agenda-5" [1]
+2017-01-02 05:16:19 URL:http://www.northfieldma.gov/node/4021/minutes [77780] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/4021/minutes" [1]
+2017-01-02 05:16:21 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/scan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:16:23 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/community_park_committee_minutes_04-04-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:16:26 URL:http://www.northfieldma.gov/community-preservation-committee [89746] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/126" [1]
+2017-01-02 05:16:27 URL:http://www.northfieldma.gov/print/126 [11061] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/126" [1]
+2017-01-02 05:16:28 URL: http://www.northfieldma.gov/node/126/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:16:30 URL:http://www.northfieldma.gov/node/126/minutes [79207] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/126/minutes" [1]
+2017-01-02 05:16:31 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/comm_pres_comm_022315_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:16:32 URL:http://www.northfieldma.gov/community-preservation-committee/pages/acquisition-creation-and-preservation-open-space [82633] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/501" [1]
+2017-01-02 05:16:33 URL:http://www.northfieldma.gov/print/501 [7060] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/501" [1]
+2017-01-02 05:16:35 URL:http://www.northfieldma.gov/community-preservation-committee/pages/creation-preservation-and-support-community-and-affordable [82767] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/496" [1]
+2017-01-02 05:16:36 URL:http://www.northfieldma.gov/print/496 [7271] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/496" [1]
+2017-01-02 05:16:39 URL:http://www.northfieldma.gov/community-preservation-committee/pages/preservation-rehabilitation-and-restoration-historic [82834] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/491" [1]
+2017-01-02 05:16:40 URL:http://www.northfieldma.gov/print/491 [7225] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/491" [1]
+2017-01-02 05:16:42 URL:http://www.northfieldma.gov/conservation-commission [95096] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/131" [1]
+2017-01-02 05:16:43 URL:http://www.northfieldma.gov/print/131 [14227] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/131" [1]
+2017-01-02 05:16:46 URL:http://www.northfieldma.gov/user/15726/contact [82595] -> "../data/townSites2/Northfield/www.northfieldma.gov/user/15726/contact" [1]
+2017-01-02 05:16:48 URL:http://www.northfieldma.gov/user/login?destination=user/15756/contact [79860] -> "../data/townSites2/Northfield/www.northfieldma.gov/user/15756/contact" [1]
+2017-01-02 05:16:51 URL:http://www.northfieldma.gov/user/login?destination=user/15781/contact [79860] -> "../data/townSites2/Northfield/www.northfieldma.gov/user/15781/contact" [1]
+2017-01-02 05:16:51 URL: http://www.northfieldma.gov/node/131/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:16:53 URL:http://www.northfieldma.gov/node/131/agenda [78989] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/131/agenda" [1]
+2017-01-02 05:16:54 URL:http://www.northfieldma.gov/conservation-commission/agenda/agenda-13 [83729] -> "../data/townSites2/Northfield/www.northfieldma.gov/conservation-commission/agenda/agenda-13" [1]
+2017-01-02 05:16:56 URL:http://www.northfieldma.gov/conservation-commission/agenda/agenda-12 [83727] -> "../data/townSites2/Northfield/www.northfieldma.gov/conservation-commission/agenda/agenda-12" [1]
+2017-01-02 05:16:57 URL:http://www.northfieldma.gov/conservation-commission/agenda/agenda-11 [83727] -> "../data/townSites2/Northfield/www.northfieldma.gov/conservation-commission/agenda/agenda-11" [1]
+2017-01-02 05:16:59 URL:http://www.northfieldma.gov/conservation-commission/agenda/agenda-10 [83728] -> "../data/townSites2/Northfield/www.northfieldma.gov/conservation-commission/agenda/agenda-10" [1]
+2017-01-02 05:17:00 URL:http://www.northfieldma.gov/conservation-commission/agenda/agenda-9 [83723] -> "../data/townSites2/Northfield/www.northfieldma.gov/conservation-commission/agenda/agenda-9" [1]
+2017-01-02 05:17:01 URL:http://www.northfieldma.gov/conservation-commission/pages/role-wetlands [86527] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/3881" [1]
+2017-01-02 05:17:02 URL:http://www.northfieldma.gov/print/3881 [9286] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/3881" [1]
+2017-01-02 05:17:03 URL:http://www.northfieldma.gov/council-aging [100572] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/136" [1]
+2017-01-02 05:17:04 URL:http://www.northfieldma.gov/print/136 [17865] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/136" [1]
+2017-01-02 05:17:05 URL: http://www.northfieldma.gov/node/136/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:17:06 URL:http://www.northfieldma.gov/node/136/agenda [78626] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/136/agenda" [1]
+2017-01-02 05:17:07 URL:http://www.northfieldma.gov/council-aging/agenda/agenda-9 [83198] -> "../data/townSites2/Northfield/www.northfieldma.gov/council-aging/agenda/agenda-9" [1]
+2017-01-02 05:17:09 URL:http://www.northfieldma.gov/council-aging/agenda/agenda-8 [83189] -> "../data/townSites2/Northfield/www.northfieldma.gov/council-aging/agenda/agenda-8" [1]
+2017-01-02 05:17:10 URL:http://www.northfieldma.gov/council-aging/agenda/agenda-7 [83187] -> "../data/townSites2/Northfield/www.northfieldma.gov/council-aging/agenda/agenda-7" [1]
+2017-01-02 05:17:12 URL:http://www.northfieldma.gov/council-aging/agenda/agenda-6 [83178] -> "../data/townSites2/Northfield/www.northfieldma.gov/council-aging/agenda/agenda-6" [1]
+2017-01-02 05:17:13 URL:http://www.northfieldma.gov/council-aging/agenda/agenda-5 [83187] -> "../data/townSites2/Northfield/www.northfieldma.gov/council-aging/agenda/agenda-5" [1]
+2017-01-02 05:17:15 URL:http://www.northfieldma.gov/council-aging/pages/senior-center-activities [82891] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/791" [1]
+2017-01-02 05:17:15 URL:http://www.northfieldma.gov/print/791 [6254] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/791" [1]
+2017-01-02 05:17:17 URL:http://www.northfieldma.gov/cultural-council [94184] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/141" [1]
+2017-01-02 05:17:18 URL:http://www.northfieldma.gov/print/141 [14465] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/141" [1]
+2017-01-02 05:17:18 URL: http://www.northfieldma.gov/node/141/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:17:20 URL:http://www.northfieldma.gov/node/141/agenda [78509] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/141/agenda" [1]
+2017-01-02 05:17:21 URL: http://www.northfieldma.gov/sites/northfieldma/files/agendas/111916_agenda_cultural_council.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:17:21 URL: http://www.northfieldma.gov/sites/northfieldma/files/agendas/111916_agenda_cultural_council_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:17:23 URL:http://www.northfieldma.gov/cultural-council/agenda/agenda-1 [82949] -> "../data/townSites2/Northfield/www.northfieldma.gov/cultural-council/agenda/agenda-1" [1]
+2017-01-02 05:17:24 URL:http://www.northfieldma.gov/electronic-communication-cable-committee [87736] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/146" [1]
+2017-01-02 05:17:25 URL:http://www.northfieldma.gov/print/146 [10734] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/146" [1]
+2017-01-02 05:17:26 URL: http://www.northfieldma.gov/node/146/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:17:27 URL:http://www.northfieldma.gov/emergency-services-facility-committee [88503] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/151" [1]
+2017-01-02 05:17:28 URL:http://www.northfieldma.gov/print/151 [11121] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/151" [1]
+2017-01-02 05:17:29 URL: http://www.northfieldma.gov/node/151/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:17:30 URL:http://www.northfieldma.gov/energy-committee [96818] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/156" [1]
+2017-01-02 05:17:31 URL:http://www.northfieldma.gov/print/156 [13349] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/156" [1]
+2017-01-02 05:17:31 URL: http://www.northfieldma.gov/node/156/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:17:33 URL:http://www.northfieldma.gov/node/156/agenda [79189] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/156/agenda" [1]
+2017-01-02 05:17:34 URL: http://www.northfieldma.gov/sites/northfieldma/files/agendas/energy_122016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:17:35 URL:http://www.northfieldma.gov/energy-committee/agenda/agenda-9 [84616] -> "../data/townSites2/Northfield/www.northfieldma.gov/energy-committee/agenda/agenda-9" [1]
+2017-01-02 05:17:36 URL:http://www.northfieldma.gov/energy-committee/agenda/agenda-7 [84615] -> "../data/townSites2/Northfield/www.northfieldma.gov/energy-committee/agenda/agenda-7" [1]
+2017-01-02 05:17:38 URL:http://www.northfieldma.gov/energy-committee/agenda/agenda-6 [84603] -> "../data/townSites2/Northfield/www.northfieldma.gov/energy-committee/agenda/agenda-6" [1]
+2017-01-02 05:17:39 URL:http://www.northfieldma.gov/energy-committee/agenda/agenda-5 [84575] -> "../data/townSites2/Northfield/www.northfieldma.gov/energy-committee/agenda/agenda-5" [1]
+2017-01-02 05:17:41 URL:http://www.northfieldma.gov/node/156/minutes [79197] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/156/minutes" [1]
+2017-01-02 05:17:42 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/energy_committee_minutes_11-15-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:17:43 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/energy_committee_minutes_10-18-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:17:44 URL:http://www.northfieldma.gov/finance-committee [96409] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/161" [1]
+2017-01-02 05:17:45 URL:http://www.northfieldma.gov/print/161 [12629] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/161" [1]
+2017-01-02 05:17:46 URL: http://www.northfieldma.gov/node/161/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:17:47 URL:http://www.northfieldma.gov/node/161/agenda [78500] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/161/agenda" [1]
+2017-01-02 05:17:49 URL:http://www.northfieldma.gov/finance-committee/agenda/agenda-26 [82874] -> "../data/townSites2/Northfield/www.northfieldma.gov/finance-committee/agenda/agenda-26" [1]
+2017-01-02 05:17:50 URL:http://www.northfieldma.gov/finance-committee/agenda/agenda-25 [82872] -> "../data/townSites2/Northfield/www.northfieldma.gov/finance-committee/agenda/agenda-25" [1]
+2017-01-02 05:17:51 URL:http://www.northfieldma.gov/finance-committee/agenda/agenda-24 [82871] -> "../data/townSites2/Northfield/www.northfieldma.gov/finance-committee/agenda/agenda-24" [1]
+2017-01-02 05:17:52 URL: http://www.northfieldma.gov/sites/northfieldma/files/agendas/121516fincom.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:17:54 URL:http://www.northfieldma.gov/finance-committee/agenda/agenda-23 [82894] -> "../data/townSites2/Northfield/www.northfieldma.gov/finance-committee/agenda/agenda-23" [1]
+2017-01-02 05:17:55 URL:http://www.northfieldma.gov/node/161/minutes [78374] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/161/minutes" [1]
+2017-01-02 05:17:56 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/finance_committee_minutes_12-12-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:17:57 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/finance_committee_meeting_minutes_12-05-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:17:58 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/finance_committee_meeting_minutes_11-14-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:17:59 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/101716fincom.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:18:00 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/finance_committee_minutes_9-12-2016_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:18:01 URL:http://www.northfieldma.gov/four-mile-brook-watershed-advisory-committee [85697] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/4421" [1]
+2017-01-02 05:18:02 URL:http://www.northfieldma.gov/print/4421 [9443] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/4421" [1]
+2017-01-02 05:18:03 URL: http://www.northfieldma.gov/node/4421/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:18:04 URL:http://www.northfieldma.gov/historical-commission [97525] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/166" [1]
+2017-01-02 05:18:05 URL:http://www.northfieldma.gov/print/166 [14009] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/166" [1]
+2017-01-02 05:18:07 URL:http://www.northfieldma.gov/user/login?destination=user/15786/contact [79860] -> "../data/townSites2/Northfield/www.northfieldma.gov/user/15786/contact" [1]
+2017-01-02 05:18:10 URL:http://www.northfieldma.gov/user/login?destination=user/15771/contact [79860] -> "../data/townSites2/Northfield/www.northfieldma.gov/user/15771/contact" [1]
+2017-01-02 05:18:11 URL: http://www.northfieldma.gov/node/166/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:18:12 URL:http://www.northfieldma.gov/node/166/agenda [78661] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/166/agenda" [1]
+2017-01-02 05:18:13 URL:http://www.northfieldma.gov/historical-commission/agenda/agenda-8 [83292] -> "../data/townSites2/Northfield/www.northfieldma.gov/historical-commission/agenda/agenda-8" [1]
+2017-01-02 05:18:15 URL:http://www.northfieldma.gov/historical-commission/agenda/agenda-7 [83294] -> "../data/townSites2/Northfield/www.northfieldma.gov/historical-commission/agenda/agenda-7" [1]
+2017-01-02 05:18:16 URL:http://www.northfieldma.gov/historical-commission/agenda/agenda-6 [83293] -> "../data/townSites2/Northfield/www.northfieldma.gov/historical-commission/agenda/agenda-6" [1]
+2017-01-02 05:18:18 URL:http://www.northfieldma.gov/historical-commission/agenda/agenda-5 [83280] -> "../data/townSites2/Northfield/www.northfieldma.gov/historical-commission/agenda/agenda-5" [1]
+2017-01-02 05:18:19 URL:http://www.northfieldma.gov/node/166/minutes [78737] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/166/minutes" [1]
+2017-01-02 05:18:20 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/051216_hst_com_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:18:21 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/historic_commission_minutes_02-11-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:18:22 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/120315.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:18:23 URL:http://www.northfieldma.gov/historical-commission/pages/additional-links [84014] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/1351" [1]
+2017-01-02 05:18:24 URL:http://www.northfieldma.gov/print/1351 [7370] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/1351" [1]
+2017-01-02 05:18:25 URL:http://www.northfieldma.gov/historical-commission/pages/designated-historic-places [83177] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/1346" [1]
+2017-01-02 05:18:26 URL:http://www.northfieldma.gov/print/1346 [6407] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/1346" [1]
+2017-01-02 05:18:27 URL:http://www.northfieldma.gov/historical-commission/pages/initiatives [83685] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/1341" [1]
+2017-01-02 05:18:28 URL:http://www.northfieldma.gov/print/1341 [6815] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/1341" [1]
+2017-01-02 05:18:29 URL:http://www.northfieldma.gov/master-plan-roundtable [88157] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/171" [1]
+2017-01-02 05:18:30 URL:http://www.northfieldma.gov/print/171 [7438] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/171" [1]
+2017-01-02 05:18:30 URL: http://www.northfieldma.gov/node/171/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:18:31 URL:http://www.northfieldma.gov/node/171/minutes [78459] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/171/minutes" [1]
+2017-01-02 05:18:33 URL:http://www.northfieldma.gov/master-plan-roundtable/minutes/minutes-18 [81398] -> "../data/townSites2/Northfield/www.northfieldma.gov/master-plan-roundtable/minutes/minutes-18" [1]
+2017-01-02 05:18:35 URL:http://www.northfieldma.gov/master-plan-roundtable/minutes/minutes-17 [81395] -> "../data/townSites2/Northfield/www.northfieldma.gov/master-plan-roundtable/minutes/minutes-17" [1]
+2017-01-02 05:18:36 URL:http://www.northfieldma.gov/master-plan-roundtable/minutes/minutes-16 [81399] -> "../data/townSites2/Northfield/www.northfieldma.gov/master-plan-roundtable/minutes/minutes-16" [1]
+2017-01-02 05:18:37 URL:http://www.northfieldma.gov/master-plan-roundtable/minutes/minutes-15 [81398] -> "../data/townSites2/Northfield/www.northfieldma.gov/master-plan-roundtable/minutes/minutes-15" [1]
+2017-01-02 05:18:39 URL:http://www.northfieldma.gov/master-plan-roundtable/minutes/minutes-14 [81403] -> "../data/townSites2/Northfield/www.northfieldma.gov/master-plan-roundtable/minutes/minutes-14" [1]
+2017-01-02 05:18:40 URL:http://www.northfieldma.gov/master-plan-roundtable/pages/final-master-plan-documents [82072] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/1106" [1]
+2017-01-02 05:18:41 URL:http://www.northfieldma.gov/print/1106 [7229] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/1106" [1]
+2017-01-02 05:18:42 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/a_master_plan_for_northfield.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:18:43 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/appendix_a_-_summary_of_public_input_part_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:18:44 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/appendix_a_-_summary_of_public_input_part_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:18:45 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/appendix_a_-_summary_of_public_input_part_3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:18:46 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/appendix_b_-_inventory.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:18:47 URL:http://www.northfieldma.gov/open-space-committee [98927] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/181" [1]
+2017-01-02 05:18:48 URL:http://www.northfieldma.gov/print/181 [15643] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/181" [1]
+2017-01-02 05:18:50 URL:http://www.northfieldma.gov/user/login?destination=user/15776/contact [79860] -> "../data/townSites2/Northfield/www.northfieldma.gov/user/15776/contact" [1]
+2017-01-02 05:18:51 URL: http://www.northfieldma.gov/node/181/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:18:52 URL:http://www.northfieldma.gov/node/181/agenda [78839] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/181/agenda" [1]
+2017-01-02 05:18:54 URL:http://www.northfieldma.gov/open-space-committee/agenda/agenda-5 [83455] -> "../data/townSites2/Northfield/www.northfieldma.gov/open-space-committee/agenda/agenda-5" [1]
+2017-01-02 05:18:55 URL:http://www.northfieldma.gov/open-space-committee/agenda/agenda-4 [83435] -> "../data/townSites2/Northfield/www.northfieldma.gov/open-space-committee/agenda/agenda-4" [1]
+2017-01-02 05:18:57 URL:http://www.northfieldma.gov/open-space-committee/agenda/agenda-3 [83425] -> "../data/townSites2/Northfield/www.northfieldma.gov/open-space-committee/agenda/agenda-3" [1]
+2017-01-02 05:18:58 URL: http://www.northfieldma.gov/sites/northfieldma/files/agendas/open_space_041916.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:18:59 URL:http://www.northfieldma.gov/node/181/minutes [79051] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/181/minutes" [1]
+2017-01-02 05:19:00 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/041916opsp.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:01 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/031516opsp.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:02 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/011916opsp.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:03 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/open_space_121515.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:04 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/open_space_111715.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:05 URL:http://www.northfieldma.gov/open-space-committee/pages/open-space-recreation-plan [83400] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/1391" [1]
+2017-01-02 05:19:06 URL:http://www.northfieldma.gov/print/1391 [6638] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/1391" [1]
+2017-01-02 05:19:07 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/2013_plan_sans_appendices_5.2mb.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:08 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/appendices_e.g._town_survey_5.0mb.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:09 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/seven-year_2013-2020_action_plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:10 URL:http://www.northfieldma.gov/open-space-committee/pages/open-space-annual-reports [84198] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/1401" [1]
+2017-01-02 05:19:11 URL:http://www.northfieldma.gov/print/1401 [7433] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/1401" [1]
+2017-01-02 05:19:12 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/2014_annual_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:13 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/2013_annual_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:14 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/2012_annual_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:15 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/2011_annual_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:15 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/2010_annual_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:16 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/2009_annual_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:17 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/2008_annual_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:18 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/2007_annual_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:19 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/2006_annual_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:20 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/millbrook_report_2006.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:21 URL:http://www.northfieldma.gov/open-space-committee/pages/open-space-links [83828] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/1456" [1]
+2017-01-02 05:19:22 URL:http://www.northfieldma.gov/print/1456 [6958] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/1456" [1]
+2017-01-02 05:19:23 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/chapter_61_fact_sheet.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:24 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/cocs_summary.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:25 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/cocs_detail.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:26 URL:http://www.northfieldma.gov/planning-board [95091] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/186" [1]
+2017-01-02 05:19:28 URL:http://www.northfieldma.gov/print/186 [12561] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/186" [1]
+2017-01-02 05:19:30 URL:http://www.northfieldma.gov/user/15706/contact [82528] -> "../data/townSites2/Northfield/www.northfieldma.gov/user/15706/contact" [1]
+2017-01-02 05:19:31 URL: http://www.northfieldma.gov/node/186/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:32 URL:http://www.northfieldma.gov/node/186/agenda [79551] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/186/agenda" [1]
+2017-01-02 05:19:34 URL:http://www.northfieldma.gov/planning-board/agenda/agenda-9 [84130] -> "../data/townSites2/Northfield/www.northfieldma.gov/planning-board/agenda/agenda-9" [1]
+2017-01-02 05:19:35 URL:http://www.northfieldma.gov/planning-board/agenda/agenda-7 [84128] -> "../data/townSites2/Northfield/www.northfieldma.gov/planning-board/agenda/agenda-7" [1]
+2017-01-02 05:19:37 URL:http://www.northfieldma.gov/planning-board/agenda/agenda-6 [84132] -> "../data/townSites2/Northfield/www.northfieldma.gov/planning-board/agenda/agenda-6" [1]
+2017-01-02 05:19:39 URL:http://www.northfieldma.gov/planning-board/agenda/agenda-5 [84122] -> "../data/townSites2/Northfield/www.northfieldma.gov/planning-board/agenda/agenda-5" [1]
+2017-01-02 05:19:40 URL:http://www.northfieldma.gov/planning-board/agenda/agenda-4 [84115] -> "../data/townSites2/Northfield/www.northfieldma.gov/planning-board/agenda/agenda-4" [1]
+2017-01-02 05:19:41 URL:http://www.northfieldma.gov/node/186/minutes [79559] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/186/minutes" [1]
+2017-01-02 05:19:42 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/planning_board_meeting_minutes_9-28-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:43 URL:http://www.northfieldma.gov/planning-board/pages/bylaws [85445] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/651" [1]
+2017-01-02 05:19:44 URL:http://www.northfieldma.gov/print/651 [7881] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/651" [1]
+2017-01-02 05:19:45 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/protective_zoning_bylaws.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:46 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/7.02_-_setback_addition.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:47 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/11.01_-_material_removal_revision.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:48 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/11.07_-_open_space_residential_design.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:49 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/11.08_-_solar_overlay_district.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:50 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/solar_overlay_district_map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:51 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/village_center_bylaw.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:52 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/village_center_map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:53 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/anr_application_not_required.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:54 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/site_plan_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:55 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/access_not_off_frontage.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:56 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/subdivision_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:57 URL:http://www.northfieldma.gov/planning-board/pages/community-development-plan-2003 [84576] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/721" [1]
+2017-01-02 05:19:58 URL:http://www.northfieldma.gov/print/721 [7148] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/721" [1]
+2017-01-02 05:19:59 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/sustainable_dev._principles.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:19:59 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/title_page.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:20:00 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/table_of_contents.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:20:01 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/executive_summary.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:20:02 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/open_space.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:20:03 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/economic_development.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:20:04 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/housing.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:20:05 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/transportation.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:20:06 URL:http://www.northfieldma.gov/recreation-commission [96436] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/191" [1]
+2017-01-02 05:20:07 URL:http://www.northfieldma.gov/print/191 [12270] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/191" [1]
+2017-01-02 05:20:09 URL:http://www.northfieldma.gov/user/15736/contact [82583] -> "../data/townSites2/Northfield/www.northfieldma.gov/user/15736/contact" [1]
+2017-01-02 05:20:10 URL: http://www.northfieldma.gov/node/191/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:20:12 URL:http://www.northfieldma.gov/node/191/agenda [79059] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/191/agenda" [1]
+2017-01-02 05:20:13 URL:http://www.northfieldma.gov/recreation-commission/agenda/agenda-11 [83657] -> "../data/townSites2/Northfield/www.northfieldma.gov/recreation-commission/agenda/agenda-11" [1]
+2017-01-02 05:20:15 URL:http://www.northfieldma.gov/recreation-commission/agenda/agenda-10 [83599] -> "../data/townSites2/Northfield/www.northfieldma.gov/recreation-commission/agenda/agenda-10" [1]
+2017-01-02 05:20:17 URL:http://www.northfieldma.gov/recreation-commission/agenda/agenda-9 [83650] -> "../data/townSites2/Northfield/www.northfieldma.gov/recreation-commission/agenda/agenda-9" [1]
+2017-01-02 05:20:18 URL:http://www.northfieldma.gov/recreation-commission/agenda/agenda-8 [83644] -> "../data/townSites2/Northfield/www.northfieldma.gov/recreation-commission/agenda/agenda-8" [1]
+2017-01-02 05:20:20 URL:http://www.northfieldma.gov/node/191/minutes [79135] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/191/minutes" [1]
+2017-01-02 05:20:21 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/reccom121316.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:20:22 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/reccom120915_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:20:23 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/reccom_111015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:20:24 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/reccom110315.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:20:25 URL:http://www.northfieldma.gov/recreation-commission/pages/2016-recreation-events-trips [83347] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/3561" [1]
+2017-01-02 05:20:26 URL:http://www.northfieldma.gov/print/3561 [6442] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/3561" [1]
+2017-01-02 05:20:27 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/event_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:20:28 URL:http://www.northfieldma.gov/recreation-commission/pages/additional-information-links [84181] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/1051" [1]
+2017-01-02 05:20:29 URL:http://www.northfieldma.gov/print/1051 [7221] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/1051" [1]
+2017-01-02 05:20:30 URL:http://www.northfieldma.gov/recreation-commission/pages/coaches-forms-all-sports [83628] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/1046" [1]
+2017-01-02 05:20:31 URL:http://www.northfieldma.gov/print/1046 [6686] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/1046" [1]
+2017-01-02 05:20:32 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/nrc_coach_reg_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:20:33 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/nrc_coaching_code_of_ethics.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:20:34 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/soccer_sign_up_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:20:35 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/basketball_sign_up_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:20:36 URL:http://www.northfieldma.gov/recreation-commission/pages/karate-information [83297] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/1021" [1]
+2017-01-02 05:20:37 URL:http://www.northfieldma.gov/print/1021 [6338] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/1021" [1]
+2017-01-02 05:20:37 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/karate_flyer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:20:38 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/karate_waiver_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:20:39 URL:http://www.northfieldma.gov/stewardship-advisory-subcommittee [93213] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/4251" [1]
+2017-01-02 05:20:40 URL:http://www.northfieldma.gov/print/4251 [11663] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/4251" [1]
+2017-01-02 05:20:41 URL: http://www.northfieldma.gov/node/4251/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:20:42 URL:http://www.northfieldma.gov/node/4251/agenda [77804] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/4251/agenda" [1]
+2017-01-02 05:20:44 URL:http://www.northfieldma.gov/stewardship-advisory-subcommittee/agenda/agenda-3 [82596] -> "../data/townSites2/Northfield/www.northfieldma.gov/stewardship-advisory-subcommittee/agenda/agenda-3" [1]
+2017-01-02 05:20:46 URL:http://www.northfieldma.gov/stewardship-advisory-subcommittee/agenda/agenda-2 [82555] -> "../data/townSites2/Northfield/www.northfieldma.gov/stewardship-advisory-subcommittee/agenda/agenda-2" [1]
+2017-01-02 05:20:47 URL:http://www.northfieldma.gov/node/4251/minutes [77881] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/4251/minutes" [1]
+2017-01-02 05:20:48 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/stewardship_advisory_committee_minutes_10-06-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:20:49 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/land_sterardship_advisory_subcommittee_minutes_03032016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:20:50 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/stewardship_advisory_sub-committee_04-07-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:20:51 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/100115.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:20:52 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/090315.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:20:53 URL:http://www.northfieldma.gov/zoning-board-appeals [97641] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/201" [1]
+2017-01-02 05:20:54 URL:http://www.northfieldma.gov/print/201 [12273] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/201" [1]
+2017-01-02 05:20:54 URL: http://www.northfieldma.gov/node/201/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:20:56 URL:http://www.northfieldma.gov/node/201/agenda [78991] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/201/agenda" [1]
+2017-01-02 05:20:57 URL:http://www.northfieldma.gov/zoning-board-appeals/agenda/agenda-11 [83540] -> "../data/townSites2/Northfield/www.northfieldma.gov/zoning-board-appeals/agenda/agenda-11" [1]
+2017-01-02 05:20:59 URL:http://www.northfieldma.gov/zoning-board-appeals/agenda/agenda-12 [83536] -> "../data/townSites2/Northfield/www.northfieldma.gov/zoning-board-appeals/agenda/agenda-12" [1]
+2017-01-02 05:21:01 URL:http://www.northfieldma.gov/zoning-board-appeals/agenda/agenda-10 [83540] -> "../data/townSites2/Northfield/www.northfieldma.gov/zoning-board-appeals/agenda/agenda-10" [1]
+2017-01-02 05:21:01 URL: http://www.northfieldma.gov/sites/northfieldma/files/agendas/zba_120816.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:21:02 URL: http://www.northfieldma.gov/sites/northfieldma/files/agendas/agenda_and_posting_for_11-17-_2016_business_meeting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:21:04 URL:http://www.northfieldma.gov/node/201/minutes [78932] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/201/minutes" [1]
+2017-01-02 05:21:05 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/zoning_board_of_appeals_meeting_minutes_11-17-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:21:05 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/zoning_board_of_appeals_meeting_minutes_8-31-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:21:06 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/zoning_baord_minutes_8-17-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:21:08 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/zoning_board_minutes_8-11-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:21:08 URL: http://www.northfieldma.gov/sites/northfieldma/files/minutes/zonind_board_minutes_6-23-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:21:10 URL:http://www.northfieldma.gov/zoning-board-appeals/pages/notice-decisions [83407] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/9133" [1]
+2017-01-02 05:21:10 URL:http://www.northfieldma.gov/print/9133 [6768] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/9133" [1]
+2017-01-02 05:21:11 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/lane_june_23_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:21:12 URL:http://www.northfieldma.gov/zoning-revision-committee [90193] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/4366" [1]
+2017-01-02 05:21:13 URL:http://www.northfieldma.gov/print/4366 [9852] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/4366" [1]
+2017-01-02 05:21:14 URL:http://www.northfieldma.gov/home/news/zoning-bylaw-revision-public-forum [81448] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/news/zoning-bylaw-revision-public-forum" [1]
+2017-01-02 05:21:15 URL: http://www.northfieldma.gov/node/4366/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:21:16 URL:http://www.northfieldma.gov/node/4366/agenda [77767] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/4366/agenda" [1]
+2017-01-02 05:21:18 URL:http://www.northfieldma.gov/zoning-revision-committee/agenda/agenda-8 [80901] -> "../data/townSites2/Northfield/www.northfieldma.gov/zoning-revision-committee/agenda/agenda-8" [1]
+2017-01-02 05:21:19 URL:http://www.northfieldma.gov/zoning-revision-committee/agenda/agenda-7 [80887] -> "../data/townSites2/Northfield/www.northfieldma.gov/zoning-revision-committee/agenda/agenda-7" [1]
+2017-01-02 05:21:21 URL:http://www.northfieldma.gov/zoning-revision-committee/agenda/agenda-6 [80874] -> "../data/townSites2/Northfield/www.northfieldma.gov/zoning-revision-committee/agenda/agenda-6" [1]
+2017-01-02 05:21:22 URL:http://www.northfieldma.gov/zoning-revision-committee/agenda/agenda-2 [80313] -> "../data/townSites2/Northfield/www.northfieldma.gov/zoning-revision-committee/agenda/agenda-2" [1]
+2017-01-02 05:21:23 URL:http://www.northfieldma.gov/zoning-revision-committee/agenda/agenda-3 [80311] -> "../data/townSites2/Northfield/www.northfieldma.gov/zoning-revision-committee/agenda/agenda-3" [1]
+2017-01-02 05:21:25 URL:http://www.northfieldma.gov/node/16/files [83343] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/16/files" [1]
+2017-01-02 05:21:27 URL:http://www.northfieldma.gov/node/111/files [88171] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/111/files" [1]
+2017-01-02 05:21:27 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/appl_trench_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:21:29 URL:http://www.northfieldma.gov/node/26/files [80224] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/26/files" [1]
+2017-01-02 05:21:30 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/notice_of_intent_wpa_form_3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:21:31 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/request_for_determination_wpa_form_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:21:32 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/keeping_business_local_survey_for_newsletter_rev._12.14.15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:21:33 URL:http://www.northfieldma.gov/node/181/files [82978] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/181/files" [1]
+2017-01-02 05:21:35 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/notice_for_ned_efsb_comment_hearings.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:21:36 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/intro_to_gas_pipeline_presentation_of_5-26-15_part_3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:21:37 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/intro_to_gas_pipeline_presentation_of_5-26-15_part_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:21:38 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/intro_to_gas_pipeline_presentation_of_5-26-15_part_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:21:40 URL:http://www.northfieldma.gov/node/1821/files [86692] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/1821/files" [1]
+2017-01-02 05:21:41 URL:http://www.northfieldma.gov/node/186/files [84921] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/186/files" [1]
+2017-01-02 05:21:42 URL:http://www.northfieldma.gov/node/191/files [80698] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/191/files" [1]
+2017-01-02 05:21:44 URL:http://www.northfieldma.gov/node/86/files [83453] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/86/files" [1]
+2017-01-02 05:21:45 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/transfer_station_brochure_6.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:21:46 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/fcswmd_battery_disposal.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:21:47 URL:http://www.northfieldma.gov/northfield-open-business [82855] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/7733" [1]
+2017-01-02 05:21:48 URL:http://www.northfieldma.gov/print/7733 [9059] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/7733" [1]
+2017-01-02 05:21:48 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/zba_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:21:49 URL: http://www.northfieldma.gov/sites/northfieldma/files/resize/imce/northfield_girls_school-450x299.jpeg 200 OK
+unlink: No such file or directory
+2017-01-02 05:21:50 URL:http://www.northfieldma.gov/home/pages/help-center [81672] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/3346" [1]
+2017-01-02 05:21:50 URL:http://www.northfieldma.gov/print/3346 [7610] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/3346" [1]
+2017-01-02 05:21:52 URL:http://www.northfieldma.gov/home/pages/licenses-permits [80843] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/3341" [1]
+2017-01-02 05:21:53 URL:http://www.northfieldma.gov/print/3341 [6806] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/3341" [1]
+2017-01-02 05:21:55 URL:http://www.northfieldma.gov/user/login?destination=node/3296 [79832] -> "../data/townSites2/Northfield/www.northfieldma.gov/transfer-station/pages/2015-transfer-station-stickers" [1]
+2017-01-02 05:21:55 URL: http://www.northfieldma.gov/calendar/feed/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 05:21:57 URL:http://www.northfieldma.gov/calendar/month [101812] -> "../data/townSites2/Northfield/www.northfieldma.gov/calendar/month" [1]
+2017-01-02 05:21:58 URL:http://www.northfieldma.gov/calendar/week [84553] -> "../data/townSites2/Northfield/www.northfieldma.gov/calendar/week" [1]
+2017-01-02 05:22:00 URL:http://www.northfieldma.gov/calendar/day [84542] -> "../data/townSites2/Northfield/www.northfieldma.gov/calendar/day" [1]
+2017-01-02 05:22:02 URL:http://www.northfieldma.gov/calendar/year [180152] -> "../data/townSites2/Northfield/www.northfieldma.gov/calendar/year" [1]
+2017-01-02 05:22:03 URL:http://www.northfieldma.gov/calendar/upcoming [79174] -> "../data/townSites2/Northfield/www.northfieldma.gov/calendar/upcoming" [1]
+2017-01-02 05:22:05 URL:http://www.northfieldma.gov/calendar/month/2016-12 [101745] -> "../data/townSites2/Northfield/www.northfieldma.gov/calendar/month/2016-12" [1]
+2017-01-02 05:22:07 URL:http://www.northfieldma.gov/calendar/month/2017-02 [101987] -> "../data/townSites2/Northfield/www.northfieldma.gov/calendar/month/2017-02" [1]
+2017-01-02 05:22:08 URL:http://www.northfieldma.gov/where/a [82321] -> "../data/townSites2/Northfield/www.northfieldma.gov/where/a" [1]
+2017-01-02 05:22:10 URL:http://www.northfieldma.gov/where/b [82630] -> "../data/townSites2/Northfield/www.northfieldma.gov/where/b" [1]
+2017-01-02 05:22:11 URL:http://www.northfieldma.gov/where/c [83586] -> "../data/townSites2/Northfield/www.northfieldma.gov/where/c" [1]
+2017-01-02 05:22:13 URL:http://www.northfieldma.gov/where/d [82318] -> "../data/townSites2/Northfield/www.northfieldma.gov/where/d" [1]
+2017-01-02 05:22:14 URL:http://www.northfieldma.gov/where/e [82147] -> "../data/townSites2/Northfield/www.northfieldma.gov/where/e" [1]
+2017-01-02 05:22:16 URL:http://www.northfieldma.gov/where/f [82387] -> "../data/townSites2/Northfield/www.northfieldma.gov/where/f" [1]
+2017-01-02 05:22:17 URL:http://www.northfieldma.gov/where/g [81623] -> "../data/townSites2/Northfield/www.northfieldma.gov/where/g" [1]
+2017-01-02 05:22:19 URL:http://www.northfieldma.gov/where/h [81344] -> "../data/townSites2/Northfield/www.northfieldma.gov/where/h" [1]
+2017-01-02 05:22:20 URL:http://www.northfieldma.gov/where/k [81314] -> "../data/townSites2/Northfield/www.northfieldma.gov/where/k" [1]
+2017-01-02 05:22:22 URL:http://www.northfieldma.gov/where/l [81597] -> "../data/townSites2/Northfield/www.northfieldma.gov/where/l" [1]
+2017-01-02 05:22:23 URL:http://www.northfieldma.gov/where/m [82880] -> "../data/townSites2/Northfield/www.northfieldma.gov/where/m" [1]
+2017-01-02 05:22:25 URL:http://www.northfieldma.gov/where/n [81890] -> "../data/townSites2/Northfield/www.northfieldma.gov/where/n" [1]
+2017-01-02 05:22:27 URL:http://www.northfieldma.gov/where/o [81557] -> "../data/townSites2/Northfield/www.northfieldma.gov/where/o" [1]
+2017-01-02 05:22:28 URL:http://www.northfieldma.gov/where/p [81854] -> "../data/townSites2/Northfield/www.northfieldma.gov/where/p" [1]
+2017-01-02 05:22:29 URL:http://www.northfieldma.gov/where/r [82104] -> "../data/townSites2/Northfield/www.northfieldma.gov/where/r" [1]
+2017-01-02 05:22:31 URL:http://www.northfieldma.gov/where/s [81372] -> "../data/townSites2/Northfield/www.northfieldma.gov/where/s" [1]
+2017-01-02 05:22:32 URL:http://www.northfieldma.gov/where/t [82676] -> "../data/townSites2/Northfield/www.northfieldma.gov/where/t" [1]
+2017-01-02 05:22:34 URL:http://www.northfieldma.gov/where/u [81285] -> "../data/townSites2/Northfield/www.northfieldma.gov/where/u" [1]
+2017-01-02 05:22:35 URL:http://www.northfieldma.gov/where/w [81619] -> "../data/townSites2/Northfield/www.northfieldma.gov/where/w" [1]
+2017-01-02 05:22:36 URL:http://www.northfieldma.gov/where/y [81311] -> "../data/townSites2/Northfield/www.northfieldma.gov/where/y" [1]
+2017-01-02 05:22:38 URL:http://www.northfieldma.gov/where/z [81980] -> "../data/townSites2/Northfield/www.northfieldma.gov/where/z" [1]
+2017-01-02 05:22:39 URL:http://www.northfieldma.gov/bids-rfps/pages/older-bidsrfps [84449] -> "../data/townSites2/Northfield/www.northfieldma.gov/bids-rfps/pages/older-bidsrfps" [1]
+2017-01-02 05:22:41 URL:http://www.northfieldma.gov/home/pages/useful-links [82436] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/pages/useful-links" [1]
+2017-01-02 05:22:42 URL:https://www.sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx [83947/83947] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/links/your-voter-status" [1]
+2017-01-02 05:22:43 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/2016-07-18_northfield_zbl_second_reading_draft_clean_copy_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:22:45 URL:http://www.northfieldma.gov/home/news/zoning-revision-proposal [84297] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/11243" [1]
+2017-01-02 05:22:46 URL:http://www.northfieldma.gov/print/11243 [10398] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/11243" [1]
+2017-01-02 05:22:46 URL: http://www.northfieldma.gov/sites/northfieldma/files/news/northfield-zoning_villagecenter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:22:46 URL: http://www.northfieldma.gov/sites/northfieldma/files/news/northfield-zoning_recreationaltourism_area2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:22:46 URL: http://www.northfieldma.gov/sites/northfieldma/files/news/northfield-zoning_recreationaltourism_area1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:22:47 URL: http://www.northfieldma.gov/sites/northfieldma/files/news/northfield-zoning_planneddevelopment.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:22:47 URL: http://www.northfieldma.gov/sites/northfieldma/files/news/2016-10-12_northfield_zbl_hearing_draft.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:22:48 URL:http://www.northfieldma.gov/home/news/real-estate-tax-bills-mailed-december-14 [80558] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/12773" [1]
+2017-01-02 05:22:49 URL:http://www.northfieldma.gov/print/12773 [6539] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/12773" [1]
+2017-01-02 05:22:50 URL:http://www.northfieldma.gov/home/news/town-hall-office-holiday-closings [80401] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/12713" [1]
+2017-01-02 05:22:52 URL:http://www.northfieldma.gov/print/12713 [6359] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/12713" [1]
+2017-01-02 05:22:52 URL: http://www.northfieldma.gov/node/1/news/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:22:54 URL:http://www.northfieldma.gov/home/news/eversource-survey-work [80495] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/news/eversource-survey-work" [1]
+2017-01-02 05:22:55 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/eversource_row_letter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:22:56 URL:http://www.northfieldma.gov/home/news/2017-transfer-station-stickers-now-available [80750] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/news/2017-transfer-station-stickers-now-available" [1]
+2017-01-02 05:22:58 URL:http://www.northfieldma.gov/home/news/no-evening-hours-assessors-tax-collector [80619] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/news/no-evening-hours-assessors-tax-collector" [1]
+2017-01-02 05:22:59 URL:http://www.northfieldma.gov/home/news/holiday-recycling-reminder [80482] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/news/holiday-recycling-reminder" [1]
+2017-01-02 05:23:00 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/holiday_recycling_reminder_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:23:01 URL:http://www.northfieldma.gov/home/news/fred-w-wells-fund-2017-2018-scholarship-applications-available [80666] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/news/fred-w-wells-fund-2017-2018-scholarship-applications-available" [1]
+2017-01-02 05:23:03 URL:http://www.northfieldma.gov/home/news/winter-parking-ban-0 [80533] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/news/winter-parking-ban-0" [1]
+2017-01-02 05:23:04 URL:http://www.northfieldma.gov/home/news/nes-pto-news [82311] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/news/nes-pto-news" [1]
+2017-01-02 05:23:06 URL:http://www.northfieldma.gov/home/news/pvrs-district-school-committee-voting-results [80734] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/news/pvrs-district-school-committee-voting-results" [1]
+2017-01-02 05:23:07 URL:http://www.northfieldma.gov/home/news/northfield-election-results [92854] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/news/northfield-election-results" [1]
+2017-01-02 05:23:08 URL:http://www.northfieldma.gov/home/news/notice-tax-classification-hearing [81495] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/news/notice-tax-classification-hearing" [1]
+2017-01-02 05:23:10 URL:http://www.northfieldma.gov/home/news/special-town-meeting-dec-5 [81514] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/news/special-town-meeting-dec-5" [1]
+2017-01-02 05:23:12 URL:http://www.northfieldma.gov/home/news/bid-documents-phase-i-electrical-upgrades-northfield-town-hall-available-now [81143] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/news/bid-documents-phase-i-electrical-upgrades-northfield-town-hall-available-now" [1]
+2017-01-02 05:23:13 URL:http://www.northfieldma.gov/home/news/northfield-elementary-school-pto-newsletter-0 [85935] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/news/northfield-elementary-school-pto-newsletter-0" [1]
+2017-01-02 05:23:15 URL:http://www.northfieldma.gov/home/news/town-clerk-office-closed-week-november-14 [80574] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/news/town-clerk-office-closed-week-november-14" [1]
+2017-01-02 05:23:16 URL:http://www.northfieldma.gov/home/news/upper-pioneer-valley-veterans-rep-hours-canceled [80611] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/news/upper-pioneer-valley-veterans-rep-hours-canceled" [1]
+2017-01-02 05:23:18 URL:http://www.northfieldma.gov/home/news/clean-sweep-day-sponsored-franklin-county-solid-waste-district [84117] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/news/clean-sweep-day-sponsored-franklin-county-solid-waste-district" [1]
+2017-01-02 05:23:19 URL:http://www.northfieldma.gov/home/news/some-trails-closed-during-substation-upgrade [81288] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/news/some-trails-closed-during-substation-upgrade" [1]
+2017-01-02 05:23:20 URL:http://www.northfieldma.gov/highway-department/news/highway-department-improvements-2016 [84751] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/12003" [1]
+2017-01-02 05:23:21 URL:http://www.northfieldma.gov/print/12003 [7431] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/12003" [1]
+2017-01-02 05:23:22 URL:http://www.northfieldma.gov/highway-department/news/glenwood-ave-culvert-replacement-completed [83989] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/11993" [1]
+2017-01-02 05:23:23 URL:http://www.northfieldma.gov/print/11993 [6853] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/11993" [1]
+2017-01-02 05:23:24 URL:http://www.northfieldma.gov/highway-department/news/pratt-hollow-road-re-gravel-and-new-guard-rails [83616] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/11323" [1]
+2017-01-02 05:23:25 URL:http://www.northfieldma.gov/print/11323 [6448] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/11323" [1]
+2017-01-02 05:23:26 URL: http://www.northfieldma.gov/node/41/news/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:23:27 URL:http://www.northfieldma.gov/highway-department/news/completed-upper-s-mountain-roadwork [83723] -> "../data/townSites2/Northfield/www.northfieldma.gov/highway-department/news/completed-upper-s-mountain-roadwork" [1]
+2017-01-02 05:23:29 URL:http://www.northfieldma.gov/highway-department/news/completed-roadwork-murdock-and-new-plain [84054] -> "../data/townSites2/Northfield/www.northfieldma.gov/highway-department/news/completed-roadwork-murdock-and-new-plain" [1]
+2017-01-02 05:23:30 URL:http://www.northfieldma.gov/home/pages/town-rezoning [90000] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/3351" [1]
+2017-01-02 05:23:31 URL:http://www.northfieldma.gov/print/3351 [16053] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/3351" [1]
+2017-01-02 05:23:31 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/public_outreach_participation_plan_phase-ii_rkg_cc.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:23:31 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/meeting_flyer_first-reading-draft_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:23:32 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/2016-04-21_northfield_zbl_first_reading_draft_rev.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:23:32 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/summary-public_forum-may-31-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:23:32 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/2016-07-18_northfield_zbl_second_reading_draft_clean_copy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:23:33 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/northfield-zoning_villagecenter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:23:33 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/northfield-zoning_recreationaltourism_area2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:23:34 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/northfield-zoning_recreationaltourism_area1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:23:34 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/northfield-zoning_planneddevelopment.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:23:34 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/2016-10-12_northfield_zbl_hearing_draft.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:23:35 URL:http://www.northfieldma.gov/bids-rfps [89369] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/1826" [1]
+2017-01-02 05:23:36 URL:http://www.northfieldma.gov/print/1826 [10477] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/1826" [1]
+2017-01-02 05:23:37 URL: http://www.northfieldma.gov/node/1826/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:23:38 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/architectural_conservation.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:23:39 URL:http://www.northfieldma.gov/bids-rfps/pages/highway-garage-roof-bid-information-closed [85004] -> "../data/townSites2/Northfield/www.northfieldma.gov/bids-rfps/pages/highway-garage-roof-bid-information-closed" [1]
+2017-01-02 05:23:42 URL:http://frcog.org/ifb-phase-electrical-upgrades-northfield-town-hall/ [48181] -> "../data/townSites2/Northfield/www.northfieldma.gov/bids-rfps/links/ifb-phase-i-electrical-upgrades-northfield-town-hall-closed" [1]
+2017-01-02 05:23:45 URL:http://frcog.org/rfq-for-town-hall-electrical-northfield-ma/ [48106] -> "../data/townSites2/Northfield/www.northfieldma.gov/bids-rfps/links/request-qualificationsproposal-town-hall-electrical-project-closed" [1]
+2017-01-02 05:23:46 URL: http://www.northfieldma.gov/sites/northfieldma/files/uploads/bid_packet_for_hwy_surplus_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:23:48 URL:http://www.northfieldma.gov/bids-rfps/webforms/wood-pellet-boiler-installation-bid-documents-closed [88485/88485] -> "../data/townSites2/Northfield/www.northfieldma.gov/bids-rfps/webforms/wood-pellet-boiler-installation-bid-documents-closed" [1]
+2017-01-02 05:23:49 URL:http://www.northfieldma.gov/home/pages/public-records-request [85336] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/10043" [1]
+2017-01-02 05:23:50 URL:http://www.northfieldma.gov/print/10043 [11327] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/10043" [1]
+2017-01-02 05:23:53 URL:http://www.northfieldma.gov/home/webforms/public-records-request [84283/84283] -> "../data/townSites2/Northfield/www.northfieldma.gov/home/webforms/public-records-request" [1]
+2017-01-02 05:23:53 URL: http://www.northfieldma.gov/sites/northfieldma/files/pages/public_records_request.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:23:56 URL:http://www.northfieldma.gov/webforms/contact-us [88935/88935] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/2" [1]
+2017-01-02 05:23:57 URL:http://www.northfieldma.gov/print/2 [15469/15469] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/2" [1]
+2017-01-02 05:23:59 URL:http://www.northfieldma.gov/home/pages/disclaimer-privacy-policy [82801] -> "../data/townSites2/Northfield/www.northfieldma.gov/node/221" [1]
+2017-01-02 05:23:59 URL:http://www.northfieldma.gov/print/221 [8693] -> "../data/townSites2/Northfield/www.northfieldma.gov/print/221" [1]
+Found 7 broken links.
+
+http://www.northfieldma.gov/board-selectmen/files/accountants-report-page-2
+http://www.northfieldma.gov/board-selectmen/files/accountants-report-page-3
+http://www.northfieldma.gov/board-selectmen/files/accountants-report-page-4
+http://www.northfieldma.gov/board-selectmen/files/accountants-report-page-5
+http://www.masssave.org/
+http://www.northfieldma.gov/user//contact
+http://www.northfieldma.gov/board-selectmen/files/accountants-report-page-1
+
+FINISHED --2017-01-02 05:23:59--
+Total wall clock time: 22m 18s
+Downloaded: 646 files, 44M in 1m 37s (465 KB/s)

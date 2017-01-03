@@ -1,0 +1,898 @@
+2017-01-02 05:25:16 URL:http://www.rockland-ma.gov/ [61863] -> "../data/townSites2/Rockland/www.rockland-ma.gov/index.html" [1]
+2017-01-02 05:25:16 URL: http://www.rockland-ma.gov/sites/rocklandma/themes/vts/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 05:25:18 URL:http://www.rockland-ma.gov/about-rockland [40756] -> "../data/townSites2/Rockland/www.rockland-ma.gov/about-rockland" [1]
+2017-01-02 05:25:20 URL:http://www.rockland-ma.gov/about-rockland/pages/community-links-and-resources [40800] -> "../data/townSites2/Rockland/www.rockland-ma.gov/about-rockland/pages/community-links-and-resources" [1]
+2017-01-02 05:25:22 URL:http://www.rockland-ma.gov/human-resources/pages/employment-opportunities [38523] -> "../data/townSites2/Rockland/www.rockland-ma.gov/about-rockland/links/employment" [1]
+2017-01-02 05:25:24 URL:http://www.rockland-ma.gov/about-rockland/pages/massachusetts-state-legislation-and-town-rockland-ma [39741] -> "../data/townSites2/Rockland/www.rockland-ma.gov/about-rockland/pages/massachusetts-state-legislation-and-town-rockland-ma" [1]
+2017-01-02 05:25:25 URL:http://www.rockland-ma.gov/about-rockland/pages/new-resident-information [40876] -> "../data/townSites2/Rockland/www.rockland-ma.gov/about-rockland/pages/new-resident-information" [1]
+2017-01-02 05:25:27 URL:http://www.rockland-ma.gov/rockland-public-schools/pages/list-schools [41908] -> "../data/townSites2/Rockland/www.rockland-ma.gov/rockland-public-schools/pages/list-schools" [1]
+2017-01-02 05:25:29 URL:http://www.rockland-ma.gov/about-rockland/pages/town-history-data [40879] -> "../data/townSites2/Rockland/www.rockland-ma.gov/about-rockland/pages/town-history-data" [1]
+2017-01-02 05:25:30 URL:http://www.rockland-ma.gov/about-rockland/pages/videos [37818] -> "../data/townSites2/Rockland/www.rockland-ma.gov/about-rockland/pages/videos" [1]
+2017-01-02 05:25:32 URL:http://www.rockland-ma.gov/about-rockland/pages/your-government [40879] -> "../data/townSites2/Rockland/www.rockland-ma.gov/about-rockland/pages/your-government" [1]
+2017-01-02 05:25:33 URL:http://www.rockland-ma.gov/departments [49313] -> "../data/townSites2/Rockland/www.rockland-ma.gov/departments" [1]
+2017-01-02 05:25:35 URL:http://www.rockland-ma.gov/accounting [42692] -> "../data/townSites2/Rockland/www.rockland-ma.gov/accounting" [1]
+2017-01-02 05:25:38 URL:http://www.rockland-ma.gov/assessors [58583] -> "../data/townSites2/Rockland/www.rockland-ma.gov/assessors" [1]
+2017-01-02 05:25:40 URL:http://www.rockland-ma.gov/board-health [57224] -> "../data/townSites2/Rockland/www.rockland-ma.gov/board-health" [1]
+2017-01-02 05:25:42 URL:http://www.rockland-ma.gov/building-department [42913] -> "../data/townSites2/Rockland/www.rockland-ma.gov/building-department" [1]
+2017-01-02 05:25:44 URL:http://www.rockland-ma.gov/council-aging-coa [69918] -> "../data/townSites2/Rockland/www.rockland-ma.gov/council-aging-coa" [1]
+2017-01-02 05:25:46 URL:http://www.rockland-ma.gov/fire-department [44262] -> "../data/townSites2/Rockland/www.rockland-ma.gov/fire-department" [1]
+2017-01-02 05:25:48 URL:http://www.rockland-ma.gov/highway-department [44679] -> "../data/townSites2/Rockland/www.rockland-ma.gov/highway-department" [1]
+2017-01-02 05:25:50 URL:http://www.rockland-ma.gov/human-resources [41001] -> "../data/townSites2/Rockland/www.rockland-ma.gov/human-resources" [1]
+2017-01-02 05:25:51 URL:http://www.rockland-ma.gov/rockland-memorial-library [38291] -> "../data/townSites2/Rockland/www.rockland-ma.gov/rockland-memorial-library" [1]
+2017-01-02 05:25:53 URL:http://www.rockland-ma.gov/office-community-development [40897] -> "../data/townSites2/Rockland/www.rockland-ma.gov/office-community-development" [1]
+2017-01-02 05:25:54 URL:http://www.rockland-ma.gov/park-department [47870] -> "../data/townSites2/Rockland/www.rockland-ma.gov/park-department" [1]
+2017-01-02 05:25:55 URL:http://www.rockland-ma.gov/rockland-police-department [37992] -> "../data/townSites2/Rockland/www.rockland-ma.gov/rockland-police-department" [1]
+2017-01-02 05:25:57 URL:http://www.rockland-ma.gov/recycling-center [41814] -> "../data/townSites2/Rockland/www.rockland-ma.gov/recycling-center" [1]
+2017-01-02 05:25:59 URL:http://www.rocklandschools.org/ [21748] -> "../data/townSites2/Rockland/www.rockland-ma.gov/rockland-public-schools.1" [1]
+2017-01-02 05:26:01 URL:http://www.rockland-ma.gov/board-selectmen [64678] -> "../data/townSites2/Rockland/www.rockland-ma.gov/board-selectmen" [1]
+2017-01-02 05:26:03 URL:http://www.rockland-ma.gov/sewer-department [43438] -> "../data/townSites2/Rockland/www.rockland-ma.gov/sewer-department" [1]
+2017-01-02 05:26:04 URL:http://www.rockland-ma.gov/town-administrator [41148] -> "../data/townSites2/Rockland/www.rockland-ma.gov/town-administrator" [1]
+2017-01-02 05:26:06 URL:http://www.rockland-ma.gov/town-clerk [51840] -> "../data/townSites2/Rockland/www.rockland-ma.gov/town-clerk" [1]
+2017-01-02 05:26:08 URL:http://www.rockland-ma.gov/town-collector [41655] -> "../data/townSites2/Rockland/www.rockland-ma.gov/town-collector" [1]
+2017-01-02 05:26:09 URL:http://www.rockland-ma.gov/treasurer [42096] -> "../data/townSites2/Rockland/www.rockland-ma.gov/treasurer" [1]
+2017-01-02 05:26:11 URL:http://www.rockland-ma.gov/veterans-services [40342] -> "../data/townSites2/Rockland/www.rockland-ma.gov/veterans-services" [1]
+2017-01-02 05:26:13 URL:http://www.rockland-ma.gov/water-department [57785] -> "../data/townSites2/Rockland/www.rockland-ma.gov/water-department" [1]
+2017-01-02 05:26:15 URL:http://www.rockland-ma.gov/rockland-youth-commission [37808] -> "../data/townSites2/Rockland/www.rockland-ma.gov/rockland-youth-commission" [1]
+2017-01-02 05:26:16 URL:http://www.rockland-ma.gov/boards [53507] -> "../data/townSites2/Rockland/www.rockland-ma.gov/boards" [1]
+2017-01-02 05:26:18 URL:http://www.rockland-ma.gov/40r-sgod-committee [49170] -> "../data/townSites2/Rockland/www.rockland-ma.gov/40r-sgod-committee" [1]
+2017-01-02 05:26:20 URL:http://www.rockland-ma.gov/ambulance-committee [40349] -> "../data/townSites2/Rockland/www.rockland-ma.gov/ambulance-committee" [1]
+2017-01-02 05:26:22 URL:http://www.rockland-ma.gov/beech-street-landfill-solar-project-committee [41412] -> "../data/townSites2/Rockland/www.rockland-ma.gov/beech-street-landfill-solar-project-committee" [1]
+2017-01-02 05:26:23 URL:http://www.rockland-ma.gov/cable-advisory-committee [37878] -> "../data/townSites2/Rockland/www.rockland-ma.gov/cable-advisory-committee" [1]
+2017-01-02 05:26:25 URL:http://www.rockland-ma.gov/capital-planning-committee [39542] -> "../data/townSites2/Rockland/www.rockland-ma.gov/capital-planning-committee" [1]
+2017-01-02 05:26:27 URL:http://www.rockland-ma.gov/community-center-building-supervisory [39078] -> "../data/townSites2/Rockland/www.rockland-ma.gov/community-center-building-supervisory" [1]
+2017-01-02 05:26:29 URL:http://www.rockland-ma.gov/community-development-advisory-committee [41476] -> "../data/townSites2/Rockland/www.rockland-ma.gov/community-development-advisory-committee" [1]
+2017-01-02 05:26:30 URL:http://www.rockland-ma.gov/conservation-commission [43621] -> "../data/townSites2/Rockland/www.rockland-ma.gov/conservation-commission" [1]
+2017-01-02 05:26:32 URL:http://www.rockland-ma.gov/cultural-council [41078] -> "../data/townSites2/Rockland/www.rockland-ma.gov/cultural-council" [1]
+2017-01-02 05:26:34 URL:http://www.rockland-ma.gov/design-review-board [39277] -> "../data/townSites2/Rockland/www.rockland-ma.gov/design-review-board" [1]
+2017-01-02 05:26:36 URL:http://www.rockland-ma.gov/education-fund-committee [37878] -> "../data/townSites2/Rockland/www.rockland-ma.gov/education-fund-committee" [1]
+2017-01-02 05:26:37 URL:http://www.rockland-ma.gov/energy-committee [39835] -> "../data/townSites2/Rockland/www.rockland-ma.gov/energy-committee" [1]
+2017-01-02 05:26:39 URL:http://www.rockland-ma.gov/finance-committee [56155] -> "../data/townSites2/Rockland/www.rockland-ma.gov/finance-committee" [1]
+2017-01-02 05:26:41 URL:http://www.rockland-ma.gov/fire-station-building-committee [39652] -> "../data/townSites2/Rockland/www.rockland-ma.gov/fire-station-building-committee" [1]
+2017-01-02 05:26:43 URL:http://www.rockland-ma.gov/forest-committee [39766] -> "../data/townSites2/Rockland/www.rockland-ma.gov/forest-committee" [1]
+2017-01-02 05:26:44 URL:http://www.rockland-ma.gov/historical-commission [38998] -> "../data/townSites2/Rockland/www.rockland-ma.gov/historical-commission" [1]
+2017-01-02 05:26:46 URL:http://www.rockland-ma.gov/housing-partnership-committee [39187] -> "../data/townSites2/Rockland/www.rockland-ma.gov/housing-partnership-committee" [1]
+2017-01-02 05:26:47 URL:http://www.rockland-ma.gov/information-technology-committee [38097] -> "../data/townSites2/Rockland/www.rockland-ma.gov/information-technology-committee" [1]
+2017-01-02 05:26:49 URL:http://www.rockland-ma.gov/land-use-counsel-search-committee [38071] -> "../data/townSites2/Rockland/www.rockland-ma.gov/land-use-counsel-search-committee" [1]
+2017-01-02 05:26:50 URL:http://www.rockland-ma.gov/board-library-trustees [43159] -> "../data/townSites2/Rockland/www.rockland-ma.gov/board-library-trustees" [1]
+2017-01-02 05:26:52 URL:http://www.rockland-ma.gov/memorial-committee [39543] -> "../data/townSites2/Rockland/www.rockland-ma.gov/memorial-committee" [1]
+2017-01-02 05:26:53 URL:http://www.rockland-ma.gov/metropolitan-area-planning-council [37928] -> "../data/townSites2/Rockland/www.rockland-ma.gov/metropolitan-area-planning-council" [1]
+2017-01-02 05:26:55 URL:http://www.rockland-ma.gov/old-colony-elderly-services [38911] -> "../data/townSites2/Rockland/www.rockland-ma.gov/old-colony-elderly-services" [1]
+2017-01-02 05:26:57 URL:http://www.rockland-ma.gov/old-colony-planning-council-area-agency-aging [38855] -> "../data/townSites2/Rockland/www.rockland-ma.gov/old-colony-planning-council-area-agency-aging" [1]
+2017-01-02 05:26:58 URL:http://www.rockland-ma.gov/open-space-committee [49525] -> "../data/townSites2/Rockland/www.rockland-ma.gov/open-space-committee" [1]
+2017-01-02 05:27:00 URL:http://www.rockland-ma.gov/permanent-town-building-committee [39343] -> "../data/townSites2/Rockland/www.rockland-ma.gov/permanent-town-building-committee" [1]
+2017-01-02 05:27:01 URL:http://www.rockland-ma.gov/personnel-law-committee [38076] -> "../data/townSites2/Rockland/www.rockland-ma.gov/personnel-law-committee" [1]
+2017-01-02 05:27:03 URL:http://www.rockland-ma.gov/planning-board [42167] -> "../data/townSites2/Rockland/www.rockland-ma.gov/planning-board" [1]
+2017-01-02 05:27:04 URL:http://www.rockland-ma.gov/plymouth-county-advisory-commission [38816] -> "../data/townSites2/Rockland/www.rockland-ma.gov/plymouth-county-advisory-commission" [1]
+2017-01-02 05:27:06 URL:http://www.rockland-ma.gov/rent-control-board [49337] -> "../data/townSites2/Rockland/www.rockland-ma.gov/rent-control-board" [1]
+2017-01-02 05:27:08 URL:http://www.rockland-ma.gov/school-building-committee [43511] -> "../data/townSites2/Rockland/www.rockland-ma.gov/school-building-committee" [1]
+2017-01-02 05:27:09 URL:http://www.rockland-ma.gov/school-committee [44848] -> "../data/townSites2/Rockland/www.rockland-ma.gov/school-committee" [1]
+2017-01-02 05:27:11 URL:http://www.rockland-ma.gov/senior-center-building-committee [41623] -> "../data/townSites2/Rockland/www.rockland-ma.gov/senior-center-building-committee" [1]
+2017-01-02 05:27:12 URL:http://www.rockland-ma.gov/taxation-aid-committee [39988] -> "../data/townSites2/Rockland/www.rockland-ma.gov/taxation-aid-committee" [1]
+2017-01-02 05:27:14 URL:http://www.rockland-ma.gov/teen-center-advisory-committee [47550] -> "../data/townSites2/Rockland/www.rockland-ma.gov/teen-center-advisory-committee" [1]
+2017-01-02 05:27:16 URL:http://www.rockland-ma.gov/zoning-board-appeals [42658] -> "../data/townSites2/Rockland/www.rockland-ma.gov/zoning-board-appeals" [1]
+2017-01-02 05:27:18 URL:http://www.rockland-ma.gov/residents [43814] -> "../data/townSites2/Rockland/www.rockland-ma.gov/residents" [1]
+2017-01-02 05:27:19 URL:http://www.rockland-ma.gov/businesses [40177] -> "../data/townSites2/Rockland/www.rockland-ma.gov/businesses" [1]
+2017-01-02 05:27:21 URL:http://www.rockland-ma.gov/where [39206] -> "../data/townSites2/Rockland/www.rockland-ma.gov/where" [1]
+2017-01-02 05:27:22 URL:http://www.rockland-ma.gov/assessors [58583] -> "../data/townSites2/Rockland/www.rockland-ma.gov/assessor" [1]
+2017-01-02 05:27:23 URL:http://www.rockland-ma.gov/town-collector [41655] -> "../data/townSites2/Rockland/www.rockland-ma.gov/collector" [1]
+2017-01-02 05:27:24 URL:http://www.rockland-ma.gov/rockland-police-department [37992] -> "../data/townSites2/Rockland/www.rockland-ma.gov/police-department" [1]
+2017-01-02 05:27:25 URL:http://www.rockland-ma.gov/human-resources/pages/employment-opportunities [38523] -> "../data/townSites2/Rockland/www.rockland-ma.gov/about-rockland/pages/job-opportunities" [1]
+2017-01-02 05:27:27 URL:http://www.rockland-ma.gov/human-resources/pages/union-contracts-and-moas [41069] -> "../data/townSites2/Rockland/www.rockland-ma.gov/about-rockland/pages/town-employment-contracts" [1]
+2017-01-02 05:27:27 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/vote_early_flyer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:27:30 URL:http://www.rockland-ma.gov/files [45264] -> "../data/townSites2/Rockland/www.rockland-ma.gov/files" [1]
+2017-01-02 05:27:31 URL:http://www.rockland-ma.gov/home/pages/online-payments [35495] -> "../data/townSites2/Rockland/www.rockland-ma.gov/home/pages/online-payments" [1]
+http://www.rockland-ma.gov/trash-recycling:
+Remote file does not exist -- broken link!!!
+2017-01-02 05:27:33 URL:http://www.rockland-ma.gov/node/1/news [35289] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/1/news" [1]
+2017-01-02 05:27:34 URL:http://www.rockland-ma.gov/home/bulletins/census [34218] -> "../data/townSites2/Rockland/www.rockland-ma.gov/home/bulletins/census" [1]
+2017-01-02 05:27:35 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/winter_street_parking_ban.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:27:36 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/top_dog.docx 200 OK
+unlink: No such file or directory
+2017-01-02 05:27:37 URL:http://www.rockland-ma.gov/home/news/town-hall-holiday-hours-town-hall-will-be-closed-monday-december-26th-monday-january-2nd [34049] -> "../data/townSites2/Rockland/www.rockland-ma.gov/home/news/town-hall-holiday-hours-town-hall-will-be-closed-monday-december-26th-monday-january-2nd" [1]
+2017-01-02 05:27:39 URL:http://www.rockland-ma.gov/home/news/adopt-hydrant-program-needs-you [34562] -> "../data/townSites2/Rockland/www.rockland-ma.gov/home/news/adopt-hydrant-program-needs-you" [1]
+2017-01-02 05:27:40 URL:http://www.rockland-ma.gov/home/news/community-development-grant-funding-now-available-home-repairs-fuel-assistance [34547] -> "../data/townSites2/Rockland/www.rockland-ma.gov/home/news/community-development-grant-funding-now-available-home-repairs-fuel-assistance" [1]
+2017-01-02 05:27:41 URL:http://www.rockland-ma.gov/minutes-and-agendas [36500] -> "../data/townSites2/Rockland/www.rockland-ma.gov/minutes-and-agendas" [1]
+2017-01-02 05:27:42 URL:http://www.rockland-ma.gov/human-resources/pages/employment-opportunities [38523] -> "../data/townSites2/Rockland/www.rockland-ma.gov/human-resources/pages/employment-opportunities" [1]
+2017-01-02 05:27:44 URL:http://www.rockland-ma.gov/subscribe [42861/42861] -> "../data/townSites2/Rockland/www.rockland-ma.gov/subscribe" [1]
+2017-01-02 05:27:45 URL:http://www.rockland-ma.gov/home/webforms/contact-us [43087/43087] -> "../data/townSites2/Rockland/www.rockland-ma.gov/home/webforms/contact-us" [1]
+2017-01-02 05:27:47 URL:http://www.rockland-ma.gov/calendar/day/2017-01-03 [41156] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/day/2017-01-03" [1]
+2017-01-02 05:27:48 URL:http://www.rockland-ma.gov/home/events/6203 [35327] -> "../data/townSites2/Rockland/www.rockland-ma.gov/home/events/6203" [1]
+2017-01-02 05:27:50 URL:http://www.rockland-ma.gov/assessors/events/7743 [38316] -> "../data/townSites2/Rockland/www.rockland-ma.gov/assessors/events/7743" [1]
+2017-01-02 05:27:51 URL:http://www.rockland-ma.gov/home/events/1873 [35259] -> "../data/townSites2/Rockland/www.rockland-ma.gov/home/events/1873" [1]
+2017-01-02 05:27:53 URL:http://www.rockland-ma.gov/board-selectmen/events/1603 [36629] -> "../data/townSites2/Rockland/www.rockland-ma.gov/board-selectmen/events/1603" [1]
+2017-01-02 05:27:54 URL:http://www.rockland-ma.gov/home/events/6193 [35615] -> "../data/townSites2/Rockland/www.rockland-ma.gov/home/events/6193" [1]
+2017-01-02 05:27:55 URL:http://www.rockland-ma.gov/calendar/day/2017-01-04 [39872] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/day/2017-01-04" [1]
+2017-01-02 05:27:56 URL:http://www.rockland-ma.gov/home/events/6823 [34872] -> "../data/townSites2/Rockland/www.rockland-ma.gov/home/events/6823" [1]
+2017-01-02 05:27:58 URL:http://www.rockland-ma.gov/calendar/day/2017-01-05 [39915] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/day/2017-01-05" [1]
+2017-01-02 05:27:59 URL:http://www.rockland-ma.gov/40r-sgod-committee/events/7713 [35582] -> "../data/townSites2/Rockland/www.rockland-ma.gov/40r-sgod-committee/events/7713" [1]
+2017-01-02 05:28:01 URL:http://www.rockland-ma.gov/calendar/day/2017-01-09 [39892] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/day/2017-01-09" [1]
+2017-01-02 05:28:02 URL:http://www.rockland-ma.gov/home/events/6873 [34092] -> "../data/townSites2/Rockland/www.rockland-ma.gov/home/events/6873" [1]
+2017-01-02 05:28:03 URL:http://www.rockland-ma.gov/calendar/day/2017-01-10 [39866] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/day/2017-01-10" [1]
+2017-01-02 05:28:04 URL:http://www.rockland-ma.gov/home/events/6463 [34038] -> "../data/townSites2/Rockland/www.rockland-ma.gov/home/events/6463" [1]
+2017-01-02 05:28:06 URL:http://www.rockland-ma.gov/calendar/day/2017-01-11 [39859] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/day/2017-01-11" [1]
+2017-01-02 05:28:07 URL:http://www.rockland-ma.gov/home/events/6313 [34871] -> "../data/townSites2/Rockland/www.rockland-ma.gov/home/events/6313" [1]
+2017-01-02 05:28:09 URL:http://www.rockland-ma.gov/calendar/day/2017-01-13 [40081] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/day/2017-01-13" [1]
+2017-01-02 05:28:10 URL:http://www.rockland-ma.gov/home/events/6333 [34264] -> "../data/townSites2/Rockland/www.rockland-ma.gov/home/events/6333" [1]
+2017-01-02 05:28:11 URL:http://www.rockland-ma.gov/calendar/day/2017-01-17 [40182] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/day/2017-01-17" [1]
+2017-01-02 05:28:13 URL:http://www.rockland-ma.gov/home/events/6973 [34862] -> "../data/townSites2/Rockland/www.rockland-ma.gov/home/events/6973" [1]
+2017-01-02 05:28:14 URL:http://www.rockland-ma.gov/board-selectmen/events/2953 [36004] -> "../data/townSites2/Rockland/www.rockland-ma.gov/board-selectmen/events/2953" [1]
+2017-01-02 05:28:15 URL:http://www.rockland-ma.gov/calendar/day/2017-01-18 [40899] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/day/2017-01-18" [1]
+2017-01-02 05:28:17 URL:http://www.rockland-ma.gov/home/events/2173 [35276] -> "../data/townSites2/Rockland/www.rockland-ma.gov/home/events/2173" [1]
+2017-01-02 05:28:18 URL:http://www.rockland-ma.gov/home/events/2273 [34885] -> "../data/townSites2/Rockland/www.rockland-ma.gov/home/events/2273" [1]
+2017-01-02 05:28:19 URL:http://www.rockland-ma.gov/rent-control-board/events/7733 [35458] -> "../data/townSites2/Rockland/www.rockland-ma.gov/rent-control-board/events/7733" [1]
+2017-01-02 05:28:20 URL:http://www.rockland-ma.gov/home/events/2373 [34953] -> "../data/townSites2/Rockland/www.rockland-ma.gov/home/events/2373" [1]
+2017-01-02 05:28:22 URL:http://www.rockland-ma.gov/calendar/day/2017-01-23 [39893] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/day/2017-01-23" [1]
+2017-01-02 05:28:23 URL:http://www.rockland-ma.gov/home/events/6963 [34093] -> "../data/townSites2/Rockland/www.rockland-ma.gov/home/events/6963" [1]
+2017-01-02 05:28:25 URL:http://www.rockland-ma.gov/calendar/day/2017-01-24 [40182] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/day/2017-01-24" [1]
+2017-01-02 05:28:26 URL:http://www.rockland-ma.gov/home/events/2753 [34866] -> "../data/townSites2/Rockland/www.rockland-ma.gov/home/events/2753" [1]
+2017-01-02 05:28:27 URL:http://www.rockland-ma.gov/home/events/6583 [34038] -> "../data/townSites2/Rockland/www.rockland-ma.gov/home/events/6583" [1]
+2017-01-02 05:28:28 URL:http://www.rockland-ma.gov/calendar/day/2017-01-27 [40081] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/day/2017-01-27" [1]
+2017-01-02 05:28:30 URL:http://www.rockland-ma.gov/home/events/6713 [34264] -> "../data/townSites2/Rockland/www.rockland-ma.gov/home/events/6713" [1]
+2017-01-02 05:28:31 URL:http://www.rockland-ma.gov/calendar-by-event-type/16 [109471] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar-by-event-type/16" [1]
+2017-01-02 05:28:34 URL:http://www.rockland-ma.gov/calendar [134571] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar.1" [1]
+2017-01-02 05:28:35 URL:http://www.rockland-ma.gov/home/pages/website-disclaimer [35949] -> "../data/townSites2/Rockland/www.rockland-ma.gov/home/pages/website-disclaimer" [1]
+2017-01-02 05:28:36 URL:http://www.rockland-ma.gov/about-rockland [40756] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/14" [1]
+2017-01-02 05:28:37 URL:http://www.rockland-ma.gov/print/14 [9890] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/14" [1]
+2017-01-02 05:28:40 URL:http://www.rockland-ma.gov/home/webforms/contact-us [43087/43087] -> "../data/townSites2/Rockland/www.rockland-ma.gov/webforms/contact-us" [1]
+2017-01-02 05:28:40 URL: http://www.rockland-ma.gov/node/14/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:28:41 URL:http://www.rockland-ma.gov/about-rockland/pages/community-links-and-resources [40800] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/504" [1]
+2017-01-02 05:28:42 URL:http://www.rockland-ma.gov/print/504 [9526] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/504" [1]
+2017-01-02 05:28:43 URL:http://www.rockland-ma.gov/about-rockland/pages/massachusetts-state-legislation-and-town-rockland-ma [39741] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/506" [1]
+2017-01-02 05:28:44 URL:http://www.rockland-ma.gov/print/506 [8680] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/506" [1]
+2017-01-02 05:28:44 URL: http://www.rockland-ma.gov/sites/rocklandma/files/pages/ssttdc_reform_legislation_mariano_house_leader_071514.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:28:45 URL: http://www.rockland-ma.gov/sites/rocklandma/files/pages/southfield_moadraft_7_11_14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:28:45 URL:http://www.rockland-ma.gov/about-rockland/pages/new-resident-information [40876] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/499" [1]
+2017-01-02 05:28:46 URL:http://www.rockland-ma.gov/print/499 [9504] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/499" [1]
+2017-01-02 05:28:48 URL:http://www.rockland-ma.gov/user/login?destination=node/308 [33730] -> "../data/townSites2/Rockland/www.rockland-ma.gov/board-health/pages/trash-recycling-information" [1]
+http://www.rockland-ma.gov/board-health/files/recycling-center-charges:
+Remote file does not exist -- broken link!!!
+2017-01-02 05:28:49 URL:http://www.rockland-ma.gov/rockland-public-schools/pages/list-schools [41908] -> "../data/townSites2/Rockland/www.rockland-ma.gov/about-rockland/pages/schools" [1]
+2017-01-02 05:28:51 URL:http://www.rockland-ma.gov/rockland-public-schools/pages/list-schools [41908] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/501" [1]
+2017-01-02 05:28:52 URL:http://www.rockland-ma.gov/print/501 [11319] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/501" [1]
+2017-01-02 05:28:52 URL:http://www.rockland-ma.gov/about-rockland/pages/town-history-data [40879] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/500" [1]
+2017-01-02 05:28:53 URL:http://www.rockland-ma.gov/print/500 [9585] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/500" [1]
+2017-01-02 05:28:55 URL:http://www.rockland-ma.gov/board-selectmen/pages/town-reports-and-other-documents [37407] -> "../data/townSites2/Rockland/www.rockland-ma.gov/board-selectmen/pages/town-reports-and-other-documents" [1]
+2017-01-02 05:28:56 URL:http://www.rockland-ma.gov/about-rockland/pages/videos [37818] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/502" [1]
+2017-01-02 05:28:57 URL:http://www.rockland-ma.gov/print/502 [6506] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/502" [1]
+2017-01-02 05:28:58 URL:http://www.rockland-ma.gov/about-rockland/pages/your-government [40879] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/23" [1]
+2017-01-02 05:28:59 URL:http://www.rockland-ma.gov/print/23 [9550] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/23" [1]
+2017-01-02 05:29:00 URL:http://www.rockland-ma.gov/weights-measures [42652] -> "../data/townSites2/Rockland/www.rockland-ma.gov/weights-measures" [1]
+2017-01-02 05:29:01 URL:http://www.rockland-ma.gov/accounting [42692] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/435" [1]
+2017-01-02 05:29:02 URL:http://www.rockland-ma.gov/print/435 [7323] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/435" [1]
+2017-01-02 05:29:04 URL:http://www.rockland-ma.gov/user/83/contact [37383] -> "../data/townSites2/Rockland/www.rockland-ma.gov/user/83/contact" [1]
+2017-01-02 05:29:05 URL:http://www.rockland-ma.gov/user/243/contact [37416] -> "../data/townSites2/Rockland/www.rockland-ma.gov/user/243/contact" [1]
+2017-01-02 05:29:07 URL:http://www.rockland-ma.gov/user/253/contact [37410] -> "../data/townSites2/Rockland/www.rockland-ma.gov/user/253/contact" [1]
+2017-01-02 05:29:08 URL: http://www.rockland-ma.gov/node/435/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:29:09 URL:http://www.rockland-ma.gov/accounting/pages/financial-reports [39937] -> "../data/townSites2/Rockland/www.rockland-ma.gov/accounting/pages/financial-reports" [1]
+2017-01-02 05:29:10 URL:http://www.rockland-ma.gov/news [35300] -> "../data/townSites2/Rockland/www.rockland-ma.gov/news" [1]
+2017-01-02 05:29:12 URL:http://www.rockland-ma.gov/home/news/water-restriction-law-step-four-effect [34200] -> "../data/townSites2/Rockland/www.rockland-ma.gov/home/news/water-restriction-law-step-four-effect" [1]
+2017-01-02 05:29:13 URL:http://www.rockland-ma.gov/home/news/planning-board-and-historical-commission-volunteer-opportunities [34719] -> "../data/townSites2/Rockland/www.rockland-ma.gov/home/news/planning-board-and-historical-commission-volunteer-opportunities" [1]
+2017-01-02 05:29:14 URL:http://www.rockland-ma.gov/assessors [58583] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/214" [1]
+2017-01-02 05:29:15 URL:http://www.rockland-ma.gov/print/214 [7690] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/214" [1]
+2017-01-02 05:29:17 URL:http://www.rockland-ma.gov/user/223/contact [37430] -> "../data/townSites2/Rockland/www.rockland-ma.gov/user/223/contact" [1]
+2017-01-02 05:29:18 URL:http://www.rockland-ma.gov/user/213/contact [37448] -> "../data/townSites2/Rockland/www.rockland-ma.gov/user/213/contact" [1]
+2017-01-02 05:29:20 URL:http://www.rockland-ma.gov/user/233/contact [37440] -> "../data/townSites2/Rockland/www.rockland-ma.gov/user/233/contact" [1]
+2017-01-02 05:29:22 URL: http://www.rockland-ma.gov/node/214/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:29:23 URL:http://www.rockland-ma.gov/assessor/pages/assessment-listings [37976] -> "../data/townSites2/Rockland/www.rockland-ma.gov/assessor/pages/assessment-listings" [1]
+2017-01-02 05:29:24 URL:http://www.rockland-ma.gov/assessors/pages/assessors-maps [38114] -> "../data/townSites2/Rockland/www.rockland-ma.gov/assessors/pages/assessors-maps" [1]
+2017-01-02 05:29:26 URL:http://www.rockland-ma.gov/assessors/pages/forms-and-applications [39671] -> "../data/townSites2/Rockland/www.rockland-ma.gov/assessors/pages/forms-and-applications" [1]
+2017-01-02 05:29:27 URL:http://www.rockland-ma.gov/assessors/pages/other-documents [37486] -> "../data/townSites2/Rockland/www.rockland-ma.gov/assessors/pages/other-documents" [1]
+2017-01-02 05:29:28 URL:http://www.assessedvalues2.com/index.aspx?jurcode=251 [4479/4479] -> "../data/townSites2/Rockland/www.rockland-ma.gov/assessor/links/property-record-cards" [1]
+2017-01-02 05:29:29 URL:http://www.rockland-ma.gov/assessors/pages/tax-rates [39674] -> "../data/townSites2/Rockland/www.rockland-ma.gov/assessors/pages/tax-rates" [1]
+2017-01-02 05:29:30 URL:http://www.rockland-ma.gov/node/214/faq [35608] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/214/faq" [1]
+2017-01-02 05:29:31 URL:http://www.rockland-ma.gov/assessor/faq/what-does-assessor-do [37851] -> "../data/townSites2/Rockland/www.rockland-ma.gov/assessor/faq/what-does-assessor-do" [1]
+2017-01-02 05:29:33 URL:http://www.rockland-ma.gov/assessor/faq/what-does-assessor-not-do [38196] -> "../data/townSites2/Rockland/www.rockland-ma.gov/assessor/faq/what-does-assessor-not-do" [1]
+2017-01-02 05:29:34 URL:http://www.rockland-ma.gov/assessor/faq/what-proposition-2-12 [37549] -> "../data/townSites2/Rockland/www.rockland-ma.gov/assessor/faq/what-proposition-2-12" [1]
+2017-01-02 05:29:36 URL:http://www.rockland-ma.gov/assessor/faq/how-your-assessment-determined [38101] -> "../data/townSites2/Rockland/www.rockland-ma.gov/assessor/faq/how-your-assessment-determined" [1]
+2017-01-02 05:29:37 URL:http://www.rockland-ma.gov/assessor/faq/how-can-my-taxes-increase [37785] -> "../data/townSites2/Rockland/www.rockland-ma.gov/assessor/faq/how-can-my-taxes-increase" [1]
+2017-01-02 05:29:38 URL:http://www.rockland-ma.gov/node/214/events/month [57704] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/214/events/month" [1]
+2017-01-02 05:29:40 URL:http://www.rockland-ma.gov/node/214/events/day/2017-01-03 [37181] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/214/events/day/2017-01-03" [1]
+2017-01-02 05:29:41 URL:http://www.rockland-ma.gov/node/214/events/month/2017-01 [57761] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/214/events/month/2017-01" [1]
+2017-01-02 05:29:42 URL:http://www.rockland-ma.gov/node/214/minutes [34262] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/214/minutes" [1]
+2017-01-02 05:29:43 URL: http://www.rockland-ma.gov/sites/rocklandma/files/minutes/meeting_minutes_11.1.16_cmac.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:29:44 URL: http://www.rockland-ma.gov/sites/rocklandma/files/minutes/meeting_minutes_10.4.16_cmac_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:29:45 URL: http://www.rockland-ma.gov/sites/rocklandma/files/minutes/meeting_minutes_8.15.16_cmac_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:29:45 URL: http://www.rockland-ma.gov/sites/rocklandma/files/minutes/meeting_minutes_7.18.16_cmac.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:29:46 URL: http://www.rockland-ma.gov/sites/rocklandma/files/minutes/meeting_minutes_6.7.16_cmac.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:29:47 URL:http://www.rockland-ma.gov/board-health [57224] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/130" [1]
+2017-01-02 05:29:49 URL:http://www.rockland-ma.gov/board-health/urgent-alerts/trash-regular-schedule [37341] -> "../data/townSites2/Rockland/www.rockland-ma.gov/board-health/urgent-alerts/trash-regular-schedule" [1]
+2017-01-02 05:29:50 URL:http://www.rockland-ma.gov/print/130 [8439] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/130" [1]
+2017-01-02 05:29:51 URL:http://www.rockland-ma.gov/user/123/contact [37426] -> "../data/townSites2/Rockland/www.rockland-ma.gov/user/123/contact" [1]
+2017-01-02 05:29:53 URL:http://www.rockland-ma.gov/user/133/contact [37408] -> "../data/townSites2/Rockland/www.rockland-ma.gov/user/133/contact" [1]
+2017-01-02 05:29:54 URL: http://www.rockland-ma.gov/node/130/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:29:55 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/rules_regulations_revised_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:29:56 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/fy_17_food_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:29:56 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/automated_bi-weekly_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:29:58 URL:http://www.rockland-ma.gov/board-health/pages/permits-applications [38164] -> "../data/townSites2/Rockland/www.rockland-ma.gov/board-health/pages/permits-applications" [1]
+2017-01-02 05:29:59 URL:http://www.rockland-ma.gov/recycling-center [41814] -> "../data/townSites2/Rockland/www.rockland-ma.gov/board-health/links/recycling-center" [1]
+2017-01-02 05:30:00 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/welcome_package.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:30:02 URL:http://www.rockland-ma.gov/board-health/slideshows/xmass-tree-removal [38566] -> "../data/townSites2/Rockland/www.rockland-ma.gov/board-health/slideshows/xmass-tree-removal" [1]
+2017-01-02 05:30:04 URL:http://www.rockland-ma.gov/node/130/events/month [54364] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/130/events/month" [1]
+2017-01-02 05:30:06 URL:http://www.rockland-ma.gov/node/130/events/month/2017-01 [54421] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/130/events/month/2017-01" [1]
+2017-01-02 05:30:07 URL:http://www.rockland-ma.gov/node/130/minutes [34140] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/130/minutes" [1]
+2017-01-02 05:30:08 URL: http://www.rockland-ma.gov/sites/rocklandma/files/minutes/boh_meeting_minutes_030215.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:30:09 URL:http://www.rockland-ma.gov/building-department [42913] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/215" [1]
+2017-01-02 05:30:10 URL:http://www.rockland-ma.gov/print/215 [8415] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/215" [1]
+2017-01-02 05:30:12 URL:http://www.rockland-ma.gov/user/563/contact [37398] -> "../data/townSites2/Rockland/www.rockland-ma.gov/user/563/contact" [1]
+2017-01-02 05:30:13 URL: http://www.rockland-ma.gov/node/215/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:30:15 URL:http://www.rockland-ma.gov/building-department/pages/forms-documents [37385] -> "../data/townSites2/Rockland/www.rockland-ma.gov/building-department/pages/forms-documents" [1]
+2017-01-02 05:30:16 URL:http://www.rockland-ma.gov/building-department/pages/permits-fees [38711] -> "../data/townSites2/Rockland/www.rockland-ma.gov/building-department/pages/permits-fees" [1]
+2017-01-02 05:30:18 URL:http://www.rockland-ma.gov/council-aging-coa [69918] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/220" [1]
+2017-01-02 05:30:19 URL:http://www.rockland-ma.gov/print/220 [21450] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/220" [1]
+2017-01-02 05:30:20 URL: http://www.rockland-ma.gov/node/220/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:30:21 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/senior_citizen_menu_december_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:30:22 URL:http://www.mass.gov/elders/ [93362] -> "../data/townSites2/Rockland/www.rockland-ma.gov/council-aging-coa/links/executive-office-elder-affairs" [1]
+2017-01-02 05:30:24 URL:http://www.rockland-ma.gov/council-aging-coa/slideshows/look-some-fun-we-have [40325] -> "../data/townSites2/Rockland/www.rockland-ma.gov/council-aging-coa/slideshows/look-some-fun-we-have" [1]
+2017-01-02 05:30:31 URL:https://www.ocesma.org/ [72947] -> "../data/townSites2/Rockland/www.rockland-ma.gov/council-aging-coa/links/old-colony-elder-services" [1]
+2017-01-02 05:30:32 URL:http://www.rockland-ma.gov/council-aging-coa/pages/our-services [38684] -> "../data/townSites2/Rockland/www.rockland-ma.gov/council-aging-coa/pages/our-services" [1]
+2017-01-02 05:33:25 URL:http://www.ourseniorcenter.com/find/rockland-council-on-aging [45618] -> "../data/townSites2/Rockland/www.rockland-ma.gov/council-aging-coa/links/subscribe-our-weekly-bulletin" [1]
+2017-01-02 05:33:27 URL:http://www.mass.gov/eohhs/gov/departments/dta/food-assistance.html [62273] -> "../data/townSites2/Rockland/www.rockland-ma.gov/council-aging-coa/links/supplemental-nutrition-assistance-programsnap" [1]
+2017-01-02 05:33:28 URL:http://www.rockland-ma.gov/node/220/news [35231] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/220/news" [1]
+2017-01-02 05:33:29 URL:http://www.rockland-ma.gov/council-aging-coa/news/free-grief-support-group-workshop-being-offered-senior-center [38363] -> "../data/townSites2/Rockland/www.rockland-ma.gov/council-aging-coa/news/free-grief-support-group-workshop-being-offered-senior-center" [1]
+2017-01-02 05:33:30 URL:http://www.rockland-ma.gov/council-aging-coa/news/pen-pal-program [37426] -> "../data/townSites2/Rockland/www.rockland-ma.gov/council-aging-coa/news/pen-pal-program" [1]
+2017-01-02 05:33:32 URL:http://www.rockland-ma.gov/node/220/events/month [54481] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/220/events/month" [1]
+2017-01-02 05:33:34 URL:http://www.rockland-ma.gov/node/220/events/month/2017-01 [54538] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/220/events/month/2017-01" [1]
+2017-01-02 05:33:35 URL:http://www.rockland-ma.gov/node/220/agenda [34235] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/220/agenda" [1]
+2017-01-02 05:33:36 URL:http://www.rockland-ma.gov/council-aging-coa/agenda/council-aging-09162015 [37833] -> "../data/townSites2/Rockland/www.rockland-ma.gov/council-aging-coa/agenda/council-aging-09162015" [1]
+2017-01-02 05:33:37 URL:http://www.rockland-ma.gov/node/220/minutes [34311] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/220/minutes" [1]
+2017-01-02 05:33:39 URL: http://www.rockland-ma.gov/sites/rocklandma/files/minutes/coa_minutes_november.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:33:39 URL: http://www.rockland-ma.gov/sites/rocklandma/files/minutes/10-19-16_coa_report_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:33:41 URL: http://www.rockland-ma.gov/sites/rocklandma/files/minutes/07-20-16_coa_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:33:42 URL: http://www.rockland-ma.gov/sites/rocklandma/files/minutes/coareport_6-15-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:33:42 URL: http://www.rockland-ma.gov/sites/rocklandma/files/minutes/coareport_4-20-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:33:43 URL:http://www.rockland-ma.gov/fire-department [44262] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/221" [1]
+2017-01-02 05:33:45 URL:http://www.rockland-ma.gov/print/221 [9537] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/221" [1]
+2017-01-02 05:33:45 URL: http://www.rockland-ma.gov/node/221/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:33:47 URL:http://www.rockland-ma.gov/fire-department/pages/forms-documents [37316] -> "../data/townSites2/Rockland/www.rockland-ma.gov/fire-department/pages/forms-documents" [1]
+2017-01-02 05:33:48 URL:http://www.rockland-ma.gov/fire-department/pages/useful-links [36935] -> "../data/townSites2/Rockland/www.rockland-ma.gov/fire-department/pages/useful-links" [1]
+2017-01-02 05:33:49 URL:http://www.rockland-ma.gov/highway-department [44679] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/216" [1]
+2017-01-02 05:33:50 URL:http://www.rockland-ma.gov/highway-department/urgent-alerts/parking-ban [37490] -> "../data/townSites2/Rockland/www.rockland-ma.gov/highway-department/urgent-alerts/parking-ban" [1]
+2017-01-02 05:33:51 URL:http://www.rockland-ma.gov/print/216 [7586] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/216" [1]
+2017-01-02 05:33:52 URL:http://www.rockland-ma.gov/highway-department/bulletins/parking-ban [37142] -> "../data/townSites2/Rockland/www.rockland-ma.gov/highway-department/bulletins/parking-ban" [1]
+2017-01-02 05:33:54 URL:http://www.rockland-ma.gov/user/163/contact [37422] -> "../data/townSites2/Rockland/www.rockland-ma.gov/user/163/contact" [1]
+2017-01-02 05:33:56 URL:http://www.rockland-ma.gov/user/173/contact [37448] -> "../data/townSites2/Rockland/www.rockland-ma.gov/user/173/contact" [1]
+2017-01-02 05:33:56 URL: http://www.rockland-ma.gov/node/216/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:33:57 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/town_of_rockland_street_excavation.docx 200 OK
+unlink: No such file or directory
+2017-01-02 05:33:58 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/application_for_street_opening_permits.docx 200 OK
+unlink: No such file or directory
+2017-01-02 05:34:01 URL:https://www.facebook.com/RMAHD/ [438319] -> "../data/townSites2/Rockland/www.rockland-ma.gov/highway-department/links/us-facebook" [1]
+2017-01-02 05:34:02 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/atree_removal_and_limb_permission_template.docx 200 OK
+unlink: No such file or directory
+2017-01-02 05:34:03 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/plowing_info.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:34:04 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/street_opening_sidewalks_process_.doc 200 OK
+unlink: No such file or directory
+2017-01-02 05:34:05 URL:http://www.rockland-ma.gov/human-resources [41001] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/886" [1]
+2017-01-02 05:34:06 URL:http://www.rockland-ma.gov/print/886 [7270] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/886" [1]
+2017-01-02 05:34:07 URL:http://www.rockland-ma.gov/user/58/contact [37417] -> "../data/townSites2/Rockland/www.rockland-ma.gov/user/58/contact" [1]
+2017-01-02 05:34:09 URL: http://www.rockland-ma.gov/node/886/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:34:10 URL:http://www.rockland-ma.gov/human-resources/pages/applications [37250] -> "../data/townSites2/Rockland/www.rockland-ma.gov/human-resources/pages/applications" [1]
+2017-01-02 05:34:11 URL:http://www.rockland-ma.gov/human-resources/pages/employee-benefits [40562] -> "../data/townSites2/Rockland/www.rockland-ma.gov/human-resources/pages/employee-benefits" [1]
+2017-01-02 05:34:12 URL:http://www.rockland-ma.gov/human-resources/pages/hr-links [37789] -> "../data/townSites2/Rockland/www.rockland-ma.gov/human-resources/pages/hr-links" [1]
+2017-01-02 05:34:14 URL:http://www.rockland-ma.gov/human-resources/pages/policies-and-procedures [40554] -> "../data/townSites2/Rockland/www.rockland-ma.gov/human-resources/pages/policies-and-procedures" [1]
+2017-01-02 05:34:16 URL:http://www.rockland-ma.gov/user/login?destination=node/862 [33730] -> "../data/townSites2/Rockland/www.rockland-ma.gov/human-resources/links/staff-only" [1]
+2017-01-02 05:34:17 URL:http://www.rockland-ma.gov/human-resources/pages/union-contracts-and-moas [41069] -> "../data/townSites2/Rockland/www.rockland-ma.gov/human-resources/pages/union-contracts-and-moas" [1]
+2017-01-02 05:34:18 URL:http://www.rockland-ma.gov/rockland-memorial-library [38291] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/37" [1]
+2017-01-02 05:34:19 URL:http://www.rockland-ma.gov/print/37 [8170] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/37" [1]
+2017-01-02 05:34:20 URL: http://www.rockland-ma.gov/node/37/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:34:21 URL:http://www.rockland-ma.gov/board-library-trustees [43159] -> "../data/townSites2/Rockland/www.rockland-ma.gov/rockland-memorial-library/links/board-library-trustees" [1]
+2017-01-02 05:34:23 URL:http://www.rockland-ma.gov/rockland-memorial-library/pages/social-media [37059] -> "../data/townSites2/Rockland/www.rockland-ma.gov/rockland-memorial-library/pages/social-media" [1]
+2017-01-02 05:34:24 URL:http://www.rockland-ma.gov/office-community-development [40897] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/439" [1]
+2017-01-02 05:34:25 URL:http://www.rockland-ma.gov/print/439 [8737] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/439" [1]
+2017-01-02 05:34:25 URL: http://www.rockland-ma.gov/node/439/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:34:26 URL:http://www.rockland-ma.gov/community-development-advisory-committee [41476] -> "../data/townSites2/Rockland/www.rockland-ma.gov/office-community-development/links/community-development-advisory-committee" [1]
+2017-01-02 05:34:27 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/homeowner_application_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:34:28 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/rc-hrp_guidelines_-_2016_income_limits.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:34:29 URL:http://www.rockland-ma.gov/park-department [47870] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/887" [1]
+2017-01-02 05:34:30 URL:http://www.rockland-ma.gov/print/887 [6940] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/887" [1]
+2017-01-02 05:34:31 URL: http://www.rockland-ma.gov/node/887/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:34:32 URL:http://www.rockland-ma.gov/node/887/events/month [52927] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/887/events/month" [1]
+2017-01-02 05:34:33 URL:http://www.rockland-ma.gov/node/887/events/month/2017-01 [52984] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/887/events/month/2017-01" [1]
+2017-01-02 05:34:34 URL:http://www.rockland-ma.gov/rockland-police-department [37992] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/133" [1]
+2017-01-02 05:34:35 URL:http://www.rockland-ma.gov/print/133 [8503] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/133" [1]
+2017-01-02 05:34:36 URL: http://www.rockland-ma.gov/node/133/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:34:37 URL:http://www.rockland-ma.gov/recycling-center [41814] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/1723" [1]
+2017-01-02 05:34:38 URL:http://www.rockland-ma.gov/recycling-center/urgent-alerts/recycle-center-holiday-hours [36557] -> "../data/townSites2/Rockland/www.rockland-ma.gov/recycling-center/urgent-alerts/recycle-center-holiday-hours" [1]
+2017-01-02 05:34:39 URL:http://www.rockland-ma.gov/print/1723 [7478] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/1723" [1]
+2017-01-02 05:34:39 URL: http://www.rockland-ma.gov/node/1723/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:34:41 URL:http://www.rockland-ma.gov/recycling-center/pages/recycle-center-helpful-information [36869] -> "../data/townSites2/Rockland/www.rockland-ma.gov/recycling-center/pages/recycle-center-helpful-information" [1]
+2017-01-02 05:34:42 URL:http://www.rockland-ma.gov/board-selectmen [64678] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/219" [1]
+2017-01-02 05:34:43 URL:http://www.rockland-ma.gov/print/219 [9358] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/219" [1]
+2017-01-02 05:34:44 URL:http://www.rockland-ma.gov/board-selectmen/bulletins/board-selectmen [35287] -> "../data/townSites2/Rockland/www.rockland-ma.gov/board-selectmen/bulletins/board-selectmen" [1]
+2017-01-02 05:34:46 URL:http://www.rockland-ma.gov/people/allan-r-chiocca [38370] -> "../data/townSites2/Rockland/www.rockland-ma.gov/people/allan-r-chiocca" [1]
+2017-01-02 05:34:48 URL:http://www.rockland-ma.gov/user/48/contact [37377] -> "../data/townSites2/Rockland/www.rockland-ma.gov/user/48/contact" [1]
+2017-01-02 05:34:49 URL:http://www.rockland-ma.gov/people/marcia-birmingham [37905] -> "../data/townSites2/Rockland/www.rockland-ma.gov/people/marcia-birmingham" [1]
+2017-01-02 05:34:53 URL: http://www.rockland-ma.gov/node/219/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:34:54 URL:http://www.rockland-ma.gov/board-selectmen/pages/bos-videos [39161] -> "../data/townSites2/Rockland/www.rockland-ma.gov/board-selectmen/pages/bos-videos" [1]
+2017-01-02 05:34:56 URL:http://www.rockland-ma.gov/board-selectmen/pages/forms-and-applications [35718] -> "../data/townSites2/Rockland/www.rockland-ma.gov/board-selectmen/pages/forms-and-applications" [1]
+2017-01-02 05:34:57 URL:http://www.rockland-ma.gov/board-selectmen/pages/policies [35755] -> "../data/townSites2/Rockland/www.rockland-ma.gov/board-selectmen/pages/policies" [1]
+2017-01-02 05:34:59 URL:http://www.rockland-ma.gov/node/219/events/month [61609] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/219/events/month" [1]
+2017-01-02 05:35:00 URL:http://www.rockland-ma.gov/node/219/events/day/2017-01-03 [37040] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/219/events/day/2017-01-03" [1]
+2017-01-02 05:35:01 URL:http://www.rockland-ma.gov/node/219/events/day/2017-01-17 [37033] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/219/events/day/2017-01-17" [1]
+2017-01-02 05:35:03 URL:http://www.rockland-ma.gov/node/219/events/month/2017-01 [61666] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/219/events/month/2017-01" [1]
+2017-01-02 05:35:05 URL:http://www.rockland-ma.gov/node/219/agenda [33816] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/219/agenda" [1]
+2017-01-02 05:35:06 URL:http://www.rockland-ma.gov/board-selectmen/agenda/board-selectmen-1317 [35819] -> "../data/townSites2/Rockland/www.rockland-ma.gov/board-selectmen/agenda/board-selectmen-1317" [1]
+2017-01-02 05:35:08 URL:http://www.rockland-ma.gov/board-selectmen/agenda/board-selectmen-12202016 [35841] -> "../data/townSites2/Rockland/www.rockland-ma.gov/board-selectmen/agenda/board-selectmen-12202016" [1]
+2017-01-02 05:35:09 URL:http://www.rockland-ma.gov/board-selectmen/agenda/board-selectmen-12062016 [35837] -> "../data/townSites2/Rockland/www.rockland-ma.gov/board-selectmen/agenda/board-selectmen-12062016" [1]
+2017-01-02 05:35:11 URL:http://www.rockland-ma.gov/board-selectmen/agenda/board-selectmen-11152016 [35841] -> "../data/townSites2/Rockland/www.rockland-ma.gov/board-selectmen/agenda/board-selectmen-11152016" [1]
+2017-01-02 05:35:12 URL:http://www.rockland-ma.gov/board-selectmen/agenda/board-selectmen-110116 [35845] -> "../data/townSites2/Rockland/www.rockland-ma.gov/board-selectmen/agenda/board-selectmen-110116" [1]
+2017-01-02 05:35:13 URL:http://www.rockland-ma.gov/node/219/minutes [34234] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/219/minutes" [1]
+2017-01-02 05:35:14 URL: http://www.rockland-ma.gov/sites/rocklandma/files/minutes/12.6.16_bos_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:35:15 URL: http://www.rockland-ma.gov/sites/rocklandma/files/minutes/11.15.16_bos_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:35:17 URL: http://www.rockland-ma.gov/sites/rocklandma/files/minutes/11.1.16_bos_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:35:18 URL: http://www.rockland-ma.gov/sites/rocklandma/files/minutes/bos_minutes_10.18.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:35:20 URL: http://www.rockland-ma.gov/sites/rocklandma/files/minutes/bos_minutes_10.4.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:35:21 URL:http://www.rockland-ma.gov/sewer-department [43438] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/24" [1]
+2017-01-02 05:35:22 URL:http://www.rockland-ma.gov/print/24 [9193] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/24" [1]
+2017-01-02 05:35:24 URL:http://www.rockland-ma.gov/user/143/contact [37422] -> "../data/townSites2/Rockland/www.rockland-ma.gov/user/143/contact" [1]
+2017-01-02 05:35:26 URL:http://www.rockland-ma.gov/user/153/contact [37440] -> "../data/townSites2/Rockland/www.rockland-ma.gov/user/153/contact" [1]
+2017-01-02 05:35:27 URL: http://www.rockland-ma.gov/node/24/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:35:28 URL:http://www.rockland-ma.gov/sewer-department/pages/documents [37230] -> "../data/townSites2/Rockland/www.rockland-ma.gov/sewer-department/pages/documents" [1]
+2017-01-02 05:35:29 URL:http://www.rockland-ma.gov/town-administrator [41148] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/213" [1]
+2017-01-02 05:35:30 URL:http://www.rockland-ma.gov/print/213 [7492] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/213" [1]
+2017-01-02 05:35:31 URL: http://www.rockland-ma.gov/node/213/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:35:33 URL:http://www.rockland-ma.gov/board-selectmen/pages/forms-and-applications [35718] -> "../data/townSites2/Rockland/www.rockland-ma.gov/town-administrator/links/forms-and-applications-bos" [1]
+2017-01-02 05:35:35 URL:http://www.rockland-ma.gov/board-selectmen/pages/policies [35755] -> "../data/townSites2/Rockland/www.rockland-ma.gov/town-administrator/links/policies-bos" [1]
+2017-01-02 05:35:36 URL:http://www.rockland-ma.gov/board-selectmen/pages/town-reports-and-other-documents [37407] -> "../data/townSites2/Rockland/www.rockland-ma.gov/town-administrator/links/town-reports-and-other-documents-bos" [1]
+2017-01-02 05:35:38 URL:http://www.rockland-ma.gov/town-clerk [51840] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/218" [1]
+2017-01-02 05:35:39 URL:http://www.rockland-ma.gov/print/218 [8069] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/218" [1]
+2017-01-02 05:35:41 URL:http://www.rockland-ma.gov/user/113/contact [37430] -> "../data/townSites2/Rockland/www.rockland-ma.gov/user/113/contact" [1]
+2017-01-02 05:35:43 URL:http://www.rockland-ma.gov/user/503/contact [37414] -> "../data/townSites2/Rockland/www.rockland-ma.gov/user/503/contact" [1]
+2017-01-02 05:35:45 URL:http://www.rockland-ma.gov/user/513/contact [37398] -> "../data/townSites2/Rockland/www.rockland-ma.gov/user/513/contact" [1]
+2017-01-02 05:35:46 URL: http://www.rockland-ma.gov/node/218/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:35:47 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/census_form.doc 200 OK
+unlink: No such file or directory
+2017-01-02 05:35:48 URL:http://www.rockland-ma.gov/town-clerk/pages/forms-documents [37501] -> "../data/townSites2/Rockland/www.rockland-ma.gov/town-clerk/pages/forms-documents" [1]
+2017-01-02 05:35:50 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/rockland_town_charter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:35:51 URL:http://www.rockland-ma.gov/town-clerk/pages/useful-links [37696] -> "../data/townSites2/Rockland/www.rockland-ma.gov/town-clerk/pages/useful-links" [1]
+2017-01-02 05:35:53 URL:http://www.rockland-ma.gov/node/218/events/month [53927] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/218/events/month" [1]
+2017-01-02 05:35:55 URL:http://www.rockland-ma.gov/node/218/events/month/2017-01 [53984] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/218/events/month/2017-01" [1]
+2017-01-02 05:35:56 URL:http://www.rockland-ma.gov/town-collector [41655] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/217" [1]
+2017-01-02 05:35:57 URL:http://www.rockland-ma.gov/print/217 [7529] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/217" [1]
+2017-01-02 05:35:59 URL:http://www.rockland-ma.gov/node/217/faq [34280] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/217/faq" [1]
+2017-01-02 05:36:02 URL:http://www.rockland-ma.gov/user/553/contact [37422] -> "../data/townSites2/Rockland/www.rockland-ma.gov/user/553/contact" [1]
+2017-01-02 05:36:04 URL:http://www.rockland-ma.gov/user/573/contact [37406] -> "../data/townSites2/Rockland/www.rockland-ma.gov/user/573/contact" [1]
+2017-01-02 05:36:05 URL: http://www.rockland-ma.gov/node/217/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:36:07 URL:http://www.rockland-ma.gov/town-collector/pages/documents [36785] -> "../data/townSites2/Rockland/www.rockland-ma.gov/town-collector/pages/documents" [1]
+2017-01-02 05:36:10 URL:https://www1.mcc.net/tvhactive/BillPayerLogin.aspx?TID=LvQL2uPQJNQ8LLsUecwtmcb40pIW9MOw9li1KZq4W/ZCR31cBI%20I1g%3D%3D [73280/73280] -> "../data/townSites2/Rockland/www.rockland-ma.gov/town-collector/links/pay-property-excise-taxes" [1]
+2017-01-02 05:36:14 URL:https://unipaygold.unibank.com/default.aspx [101065/101065] -> "../data/townSites2/Rockland/www.rockland-ma.gov/town-collector/links/pay-watersewertrash" [1]
+2017-01-02 05:36:15 URL:http://www.rockland-ma.gov/town-collector/faq/can-you-write-one-check-all-your-bills [36619] -> "../data/townSites2/Rockland/www.rockland-ma.gov/town-collector/faq/can-you-write-one-check-all-your-bills" [1]
+2017-01-02 05:36:17 URL:http://www.rockland-ma.gov/town-collector/faq/why-should-you-use-town%E2%80%99s-online-bill-pay [36739] -> "../data/townSites2/Rockland/www.rockland-ma.gov/town-collector/faq/why-should-you-use-townâ%80%99s-online-bill-pay" [1]
+2017-01-02 05:36:18 URL:http://www.rockland-ma.gov/town-collector/faq/when-should-you-receive-real-estate-tax-bill [37174] -> "../data/townSites2/Rockland/www.rockland-ma.gov/town-collector/faq/when-should-you-receive-real-estate-tax-bill" [1]
+2017-01-02 05:36:19 URL:http://www.rockland-ma.gov/node/217/news [33895] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/217/news" [1]
+2017-01-02 05:36:20 URL:http://www.rockland-ma.gov/town-collector/news/real-estate-taxes-are-due-november-1-2016 [36490] -> "../data/townSites2/Rockland/www.rockland-ma.gov/town-collector/news/real-estate-taxes-are-due-november-1-2016" [1]
+2017-01-02 05:36:21 URL:http://www.rockland-ma.gov/treasurer [42096] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/138" [1]
+2017-01-02 05:36:23 URL:http://www.rockland-ma.gov/print/138 [8339] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/138" [1]
+2017-01-02 05:36:24 URL:http://www.rockland-ma.gov/user/183/contact [37406] -> "../data/townSites2/Rockland/www.rockland-ma.gov/user/183/contact" [1]
+2017-01-02 05:36:26 URL:http://www.rockland-ma.gov/user/203/contact [37434] -> "../data/townSites2/Rockland/www.rockland-ma.gov/user/203/contact" [1]
+2017-01-02 05:36:28 URL:http://www.rockland-ma.gov/user/193/contact [37440] -> "../data/townSites2/Rockland/www.rockland-ma.gov/user/193/contact" [1]
+2017-01-02 05:36:28 URL: http://www.rockland-ma.gov/node/138/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:36:29 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/tax_title_as_of_10mar2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:36:30 URL:http://www.rockland-ma.gov/veterans-services [40342] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/170" [1]
+2017-01-02 05:36:31 URL:http://www.rockland-ma.gov/print/170 [8004] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/170" [1]
+2017-01-02 05:36:33 URL:http://www.rockland-ma.gov/people/anton-f-materna [36884] -> "../data/townSites2/Rockland/www.rockland-ma.gov/people/anton-f-materna" [1]
+2017-01-02 05:36:33 URL: http://www.rockland-ma.gov/node/170/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:36:35 URL:http://www.rockland-ma.gov/water-department [57785] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/160" [1]
+2017-01-02 05:36:35 URL:http://www.rockland-ma.gov/print/160 [8401] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/160" [1]
+2017-01-02 05:36:36 URL: http://www.rockland-ma.gov/node/160/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:36:37 URL: http://www.gemgrp.com/eReports/CNMA000137Y16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:36:39 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/fee_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:36:40 URL: http://www.mass.gov/eea/docs/dcr/watersupply/rainfall/tips-for-saving-water-8-18-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:36:41 URL:http://www.rockland-ma.gov/node/160/faq [34236] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/160/faq" [1]
+2017-01-02 05:36:42 URL:http://www.rockland-ma.gov/water-department/faq/what-are-current-water-rates-charges [36822] -> "../data/townSites2/Rockland/www.rockland-ma.gov/water-department/faq/what-are-current-water-rates-charges" [1]
+2017-01-02 05:36:43 URL:http://www.rockland-ma.gov/water-department/faq/construction-specifications [38599] -> "../data/townSites2/Rockland/www.rockland-ma.gov/water-department/faq/construction-specifications" [1]
+2017-01-02 05:36:45 URL:http://www.rockland-ma.gov/water-department/faq/how-can-i-save-water [39508] -> "../data/townSites2/Rockland/www.rockland-ma.gov/water-department/faq/how-can-i-save-water" [1]
+2017-01-02 05:36:47 URL:http://www.rockland-ma.gov/node/160/blog [33739] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/160/blog" [1]
+2017-01-02 05:36:48 URL:http://www.rockland-ma.gov/water-department/blog/history [39755] -> "../data/townSites2/Rockland/www.rockland-ma.gov/water-department/blog/history" [1]
+2017-01-02 05:36:49 URL:http://www.rockland-ma.gov/node/160/news [34112] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/160/news" [1]
+2017-01-02 05:36:50 URL:http://www.rockland-ma.gov/water-department/news/water-ban-restrictions [36975] -> "../data/townSites2/Rockland/www.rockland-ma.gov/water-department/news/water-ban-restrictions" [1]
+2017-01-02 05:36:52 URL:http://www.rockland-ma.gov/node/160/events/month [53818] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/160/events/month" [1]
+2017-01-02 05:36:53 URL:http://www.rockland-ma.gov/node/160/events/month/2017-01 [53875] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/160/events/month/2017-01" [1]
+2017-01-02 05:36:54 URL:http://www.rockland-ma.gov/node/160/agenda [33584] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/160/agenda" [1]
+2017-01-02 05:36:55 URL:http://www.rockland-ma.gov/water-department/agenda/rockland-meeting-agenda-11-28-16 [37429] -> "../data/townSites2/Rockland/www.rockland-ma.gov/water-department/agenda/rockland-meeting-agenda-11-28-16" [1]
+2017-01-02 05:36:57 URL:http://www.rockland-ma.gov/water-department/agenda/abington-rockland-joint-meeting-agenda-11-28-16 [37495] -> "../data/townSites2/Rockland/www.rockland-ma.gov/water-department/agenda/abington-rockland-joint-meeting-agenda-11-28-16" [1]
+2017-01-02 05:36:58 URL:http://www.rockland-ma.gov/water-department/agenda/abington-meeting-agenda-11-28-16 [37429] -> "../data/townSites2/Rockland/www.rockland-ma.gov/water-department/agenda/abington-meeting-agenda-11-28-16" [1]
+2017-01-02 05:37:00 URL:http://www.rockland-ma.gov/water-department/agenda/rockland-meeting-agenda-10-25-16 [37507] -> "../data/townSites2/Rockland/www.rockland-ma.gov/water-department/agenda/rockland-meeting-agenda-10-25-16" [1]
+2017-01-02 05:37:01 URL:http://www.rockland-ma.gov/water-department/agenda/abington-meeting-agenda-10-25-16 [37506] -> "../data/townSites2/Rockland/www.rockland-ma.gov/water-department/agenda/abington-meeting-agenda-10-25-16" [1]
+2017-01-02 05:37:02 URL:http://www.rockland-ma.gov/rockland-youth-commission [37808] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/126" [1]
+2017-01-02 05:37:03 URL:http://www.rockland-ma.gov/print/126 [8198] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/126" [1]
+2017-01-02 05:37:03 URL: http://www.rockland-ma.gov/node/126/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:37:04 URL:http://www.rockland-ma.gov/40r-sgod-committee [49170] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/3803" [1]
+2017-01-02 05:37:05 URL:http://www.rockland-ma.gov/print/3803 [6343] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/3803" [1]
+2017-01-02 05:37:06 URL: http://www.rockland-ma.gov/node/3803/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:37:07 URL:http://www.rockland-ma.gov/node/3803/events/month [57078] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/3803/events/month" [1]
+2017-01-02 05:37:09 URL:http://www.rockland-ma.gov/node/3803/events/day/2017-01-05 [36123] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/3803/events/day/2017-01-05" [1]
+2017-01-02 05:37:10 URL:http://www.rockland-ma.gov/node/3803/events/month/2017-01 [57135] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/3803/events/month/2017-01" [1]
+2017-01-02 05:37:12 URL:http://www.rockland-ma.gov/ambulance-committee [40349] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/78" [1]
+2017-01-02 05:37:13 URL:http://www.rockland-ma.gov/print/78 [7425] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/78" [1]
+2017-01-02 05:37:13 URL: http://www.rockland-ma.gov/node/78/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:37:15 URL:http://www.rockland-ma.gov/beech-street-landfill-solar-project-committee [41412] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/168" [1]
+2017-01-02 05:37:16 URL:http://www.rockland-ma.gov/print/168 [6649] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/168" [1]
+2017-01-02 05:37:16 URL: http://www.rockland-ma.gov/node/168/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:37:17 URL:http://www.rockland-ma.gov/cable-advisory-committee [37878] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/145" [1]
+2017-01-02 05:37:18 URL:http://www.rockland-ma.gov/print/145 [6321] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/145" [1]
+2017-01-02 05:37:19 URL: http://www.rockland-ma.gov/node/145/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:37:20 URL:http://www.rockland-ma.gov/capital-planning-committee [39542] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/173" [1]
+2017-01-02 05:37:21 URL:http://www.rockland-ma.gov/print/173 [6495] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/173" [1]
+2017-01-02 05:37:22 URL: http://www.rockland-ma.gov/node/173/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:37:23 URL:http://www.rockland-ma.gov/community-center-building-supervisory [39078] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/142" [1]
+2017-01-02 05:37:25 URL:http://www.rockland-ma.gov/print/142 [6484] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/142" [1]
+2017-01-02 05:37:25 URL: http://www.rockland-ma.gov/node/142/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:37:27 URL:http://www.rockland-ma.gov/community-development-advisory-committee [41476] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/178" [1]
+2017-01-02 05:37:28 URL:http://www.rockland-ma.gov/print/178 [8251] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/178" [1]
+2017-01-02 05:37:29 URL: http://www.rockland-ma.gov/node/178/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:37:30 URL:http://www.rockland-ma.gov/community-development-advisory-committee/pages/documents [35435] -> "../data/townSites2/Rockland/www.rockland-ma.gov/community-development-advisory-committee/pages/documents" [1]
+2017-01-02 05:37:32 URL:http://www.rockland-ma.gov/conservation-commission [43621] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/202" [1]
+2017-01-02 05:37:33 URL:http://www.rockland-ma.gov/print/202 [6580] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/202" [1]
+2017-01-02 05:37:33 URL: http://www.rockland-ma.gov/node/202/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:37:35 URL:http://www.rockland-ma.gov/node/202/agenda [32802] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/202/agenda" [1]
+2017-01-02 05:37:36 URL:http://www.rockland-ma.gov/conservation-commission/agenda/conservation-commission-08232016 [34866] -> "../data/townSites2/Rockland/www.rockland-ma.gov/conservation-commission/agenda/conservation-commission-08232016" [1]
+2017-01-02 05:37:38 URL:http://www.rockland-ma.gov/conservation-commission/agenda/conservation-commission-08092016 [34863] -> "../data/townSites2/Rockland/www.rockland-ma.gov/conservation-commission/agenda/conservation-commission-08092016" [1]
+2017-01-02 05:37:39 URL:http://www.rockland-ma.gov/conservation-commission/agenda/conservation-commission-07192016 [34864] -> "../data/townSites2/Rockland/www.rockland-ma.gov/conservation-commission/agenda/conservation-commission-07192016" [1]
+2017-01-02 05:37:40 URL:http://www.rockland-ma.gov/conservation-commission/agenda/conservation-commission-06282016 [34864] -> "../data/townSites2/Rockland/www.rockland-ma.gov/conservation-commission/agenda/conservation-commission-06282016" [1]
+2017-01-02 05:37:42 URL:http://www.rockland-ma.gov/conservation-commission/agenda/conservation-commission-06142016 [34864] -> "../data/townSites2/Rockland/www.rockland-ma.gov/conservation-commission/agenda/conservation-commission-06142016" [1]
+2017-01-02 05:37:43 URL:http://www.rockland-ma.gov/cultural-council [41078] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/183" [1]
+2017-01-02 05:37:44 URL:http://www.rockland-ma.gov/print/183 [6697] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/183" [1]
+2017-01-02 05:37:45 URL: http://www.rockland-ma.gov/node/183/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:37:47 URL:http://www.rockland-ma.gov/design-review-board [39277] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/179" [1]
+2017-01-02 05:37:49 URL:http://www.rockland-ma.gov/print/179 [6393] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/179" [1]
+2017-01-02 05:37:49 URL: http://www.rockland-ma.gov/node/179/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:37:50 URL:http://www.rockland-ma.gov/education-fund-committee [37878] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/177" [1]
+2017-01-02 05:37:51 URL:http://www.rockland-ma.gov/print/177 [6321] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/177" [1]
+2017-01-02 05:37:52 URL: http://www.rockland-ma.gov/node/177/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:37:53 URL:http://www.rockland-ma.gov/energy-committee [39835] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/200" [1]
+2017-01-02 05:37:54 URL:http://www.rockland-ma.gov/print/200 [7367] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/200" [1]
+2017-01-02 05:37:54 URL: http://www.rockland-ma.gov/node/200/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:37:55 URL:http://www.rockland-ma.gov/energy-committee/pages/documents [35779] -> "../data/townSites2/Rockland/www.rockland-ma.gov/energy-committee/pages/documents" [1]
+2017-01-02 05:37:57 URL:http://www.rockland-ma.gov/energy-committee/pages/reports [35261] -> "../data/townSites2/Rockland/www.rockland-ma.gov/energy-committee/pages/reports" [1]
+2017-01-02 05:37:58 URL:http://www.rockland-ma.gov/finance-committee [56155] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/148" [1]
+2017-01-02 05:37:59 URL:http://www.rockland-ma.gov/print/148 [6978] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/148" [1]
+2017-01-02 05:38:00 URL: http://www.rockland-ma.gov/node/148/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:38:02 URL:http://www.rockland-ma.gov/finance-committee/pages/forms-documents [35093] -> "../data/townSites2/Rockland/www.rockland-ma.gov/finance-committee/pages/forms-documents" [1]
+2017-01-02 05:38:04 URL:http://www.rockland-ma.gov/node/148/events/month [53537] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/148/events/month" [1]
+2017-01-02 05:38:05 URL:http://www.rockland-ma.gov/node/148/events/month/2017-01 [53594] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/148/events/month/2017-01" [1]
+2017-01-02 05:38:06 URL:http://www.rockland-ma.gov/node/148/agenda [33301] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/148/agenda" [1]
+2017-01-02 05:38:08 URL:http://www.rockland-ma.gov/finance-committee/agenda/finance-committee-04202016 [35474] -> "../data/townSites2/Rockland/www.rockland-ma.gov/finance-committee/agenda/finance-committee-04202016" [1]
+2017-01-02 05:38:09 URL:http://www.rockland-ma.gov/node/148/minutes [33309] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/148/minutes" [1]
+2017-01-02 05:38:10 URL: http://www.rockland-ma.gov/sites/rocklandma/files/minutes/fincommeetingminutes_aug19_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:38:11 URL: http://www.rockland-ma.gov/sites/rocklandma/files/minutes/fincommeetingminutes_april1_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:38:12 URL: http://www.rockland-ma.gov/sites/rocklandma/files/minutes/fincommeetingminutes_march11_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:38:13 URL: http://www.rockland-ma.gov/sites/rocklandma/files/minutes/fincommeetingminutes_feb25_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:38:14 URL: http://www.rockland-ma.gov/sites/rocklandma/files/minutes/fincommeetingminutes_jan28_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:38:15 URL:http://www.rockland-ma.gov/fire-station-building-committee [39652] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/208" [1]
+2017-01-02 05:38:16 URL:http://www.rockland-ma.gov/print/208 [6926] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/208" [1]
+2017-01-02 05:38:17 URL: http://www.rockland-ma.gov/node/208/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:38:18 URL:http://www.rockland-ma.gov/forest-committee [39766] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/163" [1]
+2017-01-02 05:38:19 URL:http://www.rockland-ma.gov/print/163 [6479] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/163" [1]
+2017-01-02 05:38:19 URL: http://www.rockland-ma.gov/node/163/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:38:21 URL:http://www.rockland-ma.gov/historical-commission [38998] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/122" [1]
+2017-01-02 05:38:22 URL:http://www.rockland-ma.gov/print/122 [6357] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/122" [1]
+2017-01-02 05:38:22 URL: http://www.rockland-ma.gov/node/122/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:38:24 URL:http://www.rockland-ma.gov/housing-partnership-committee [39187] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/3093" [1]
+2017-01-02 05:38:25 URL:http://www.rockland-ma.gov/print/3093 [6407] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/3093" [1]
+2017-01-02 05:38:25 URL: http://www.rockland-ma.gov/node/3093/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:38:26 URL:http://www.rockland-ma.gov/information-technology-committee [38097] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/209" [1]
+2017-01-02 05:38:27 URL:http://www.rockland-ma.gov/print/209 [6166] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/209" [1]
+2017-01-02 05:38:28 URL: http://www.rockland-ma.gov/node/209/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:38:29 URL:http://www.rockland-ma.gov/land-use-counsel-search-committee [38071] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/212" [1]
+2017-01-02 05:38:30 URL:http://www.rockland-ma.gov/print/212 [7311] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/212" [1]
+2017-01-02 05:38:31 URL: http://www.rockland-ma.gov/node/212/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:38:33 URL:http://www.rockland-ma.gov/board-library-trustees [43159] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/115" [1]
+2017-01-02 05:38:34 URL:http://www.rockland-ma.gov/print/115 [7623] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/115" [1]
+2017-01-02 05:38:34 URL: http://www.rockland-ma.gov/node/115/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:38:36 URL:http://www.rockland-ma.gov/rockland-memorial-library [38291] -> "../data/townSites2/Rockland/www.rockland-ma.gov/board-library-trustees/links/rockland-memorial-library" [1]
+2017-01-02 05:38:37 URL:http://www.rockland-ma.gov/node/115/minutes [33365] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/115/minutes" [1]
+2017-01-02 05:38:39 URL:http://www.rockland-ma.gov/board-library-trustees/minutes/board-library-trustees-10192016 [36890] -> "../data/townSites2/Rockland/www.rockland-ma.gov/board-library-trustees/minutes/board-library-trustees-10192016" [1]
+2017-01-02 05:38:40 URL: http://www.rockland-ma.gov/sites/rocklandma/files/minutes/boh_minutes_2015-04-08.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:38:41 URL:http://www.rockland-ma.gov/memorial-committee [39543] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/108" [1]
+2017-01-02 05:38:42 URL:http://www.rockland-ma.gov/print/108 [6440] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/108" [1]
+2017-01-02 05:38:43 URL: http://www.rockland-ma.gov/node/108/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:38:44 URL:http://www.rockland-ma.gov/metropolitan-area-planning-council [37928] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/107" [1]
+2017-01-02 05:38:45 URL:http://www.rockland-ma.gov/print/107 [6401] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/107" [1]
+2017-01-02 05:38:45 URL: http://www.rockland-ma.gov/node/107/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:38:47 URL:http://www.rockland-ma.gov/old-colony-elderly-services [38911] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/105" [1]
+2017-01-02 05:38:47 URL:http://www.rockland-ma.gov/print/105 [6574] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/105" [1]
+2017-01-02 05:38:48 URL: http://www.rockland-ma.gov/node/105/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:38:49 URL:http://www.rockland-ma.gov/old-colony-planning-council-area-agency-aging [38855] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/171" [1]
+2017-01-02 05:38:50 URL:http://www.rockland-ma.gov/print/171 [6510] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/171" [1]
+2017-01-02 05:38:51 URL: http://www.rockland-ma.gov/node/171/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:38:52 URL:http://www.rockland-ma.gov/open-space-committee [49525] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/98" [1]
+2017-01-02 05:38:53 URL:http://www.rockland-ma.gov/print/98 [6713] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/98" [1]
+2017-01-02 05:38:54 URL: http://www.rockland-ma.gov/node/98/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:38:55 URL:http://www.rockland-ma.gov/node/98/events/month [52943] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/98/events/month" [1]
+2017-01-02 05:38:57 URL:http://www.rockland-ma.gov/node/98/events/month/2017-01 [53000] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/98/events/month/2017-01" [1]
+2017-01-02 05:38:58 URL:http://www.rockland-ma.gov/permanent-town-building-committee [39343] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/96" [1]
+2017-01-02 05:38:59 URL:http://www.rockland-ma.gov/print/96 [6505] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/96" [1]
+2017-01-02 05:39:01 URL:http://www.rockland-ma.gov/user/23/contact [37419] -> "../data/townSites2/Rockland/www.rockland-ma.gov/user/23/contact" [1]
+2017-01-02 05:39:02 URL: http://www.rockland-ma.gov/node/96/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:39:05 URL:http://www.rockland-ma.gov/personnel-law-committee [38076] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/211" [1]
+2017-01-02 05:39:06 URL:http://www.rockland-ma.gov/print/211 [6519] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/211" [1]
+2017-01-02 05:39:06 URL: http://www.rockland-ma.gov/node/211/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:39:07 URL:http://www.rockland-ma.gov/planning-board [42167] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/90" [1]
+2017-01-02 05:39:08 URL:http://www.rockland-ma.gov/print/90 [7801] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/90" [1]
+2017-01-02 05:39:09 URL: http://www.rockland-ma.gov/node/90/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:39:11 URL:http://www.rockland-ma.gov/planning-board/pages/forms-documents [39044] -> "../data/townSites2/Rockland/www.rockland-ma.gov/planning-board/pages/forms-documents" [1]
+2017-01-02 05:39:12 URL:http://www.rockland-ma.gov/plymouth-county-advisory-commission [38816] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/146" [1]
+2017-01-02 05:39:13 URL:http://www.rockland-ma.gov/print/146 [6429] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/146" [1]
+2017-01-02 05:39:13 URL: http://www.rockland-ma.gov/node/146/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:39:14 URL:http://www.rockland-ma.gov/rent-control-board [49337] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/84" [1]
+2017-01-02 05:39:15 URL:http://www.rockland-ma.gov/print/84 [6392] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/84" [1]
+2017-01-02 05:39:16 URL: http://www.rockland-ma.gov/node/84/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:39:17 URL:http://www.rockland-ma.gov/node/84/events/month [56788] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/84/events/month" [1]
+2017-01-02 05:39:19 URL:http://www.rockland-ma.gov/node/84/events/day/2017-01-18 [36062] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/84/events/day/2017-01-18" [1]
+2017-01-02 05:39:20 URL:http://www.rockland-ma.gov/node/84/events/month/2017-01 [56841] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/84/events/month/2017-01" [1]
+2017-01-02 05:39:21 URL:http://www.rockland-ma.gov/school-building-committee [43511] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/55" [1]
+2017-01-02 05:39:22 URL:http://www.rockland-ma.gov/print/55 [7534] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/55" [1]
+2017-01-02 05:39:23 URL: http://www.rockland-ma.gov/node/55/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:39:24 URL:http://www.rockland-ma.gov/school-building-committee/pages/school-building-update-videos [35222] -> "../data/townSites2/Rockland/www.rockland-ma.gov/school-building-committee/pages/school-building-update-videos" [1]
+2017-01-02 05:39:25 URL:http://www.rockland-ma.gov/school-committee [44848] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/72" [1]
+2017-01-02 05:39:26 URL:http://www.rockland-ma.gov/print/72 [7872] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/72" [1]
+2017-01-02 05:39:27 URL: http://www.rockland-ma.gov/node/72/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:39:30 URL:http://www.rocklandschools.org/ [21748] -> "../data/townSites2/Rockland/www.rockland-ma.gov/school-committee/links/rockland-public-schools-website" [1]
+2017-01-02 05:39:31 URL:http://www.rockland-ma.gov/school-committee/pages/school-committee-videos [38378] -> "../data/townSites2/Rockland/www.rockland-ma.gov/school-committee/pages/school-committee-videos" [1]
+2017-01-02 05:39:32 URL:http://www.rockland-ma.gov/node/72/agenda [33519] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/72/agenda" [1]
+2017-01-02 05:39:34 URL:http://www.rockland-ma.gov/school-committee/agenda/school-committee-08222016 [37305] -> "../data/townSites2/Rockland/www.rockland-ma.gov/school-committee/agenda/school-committee-08222016" [1]
+2017-01-02 05:39:35 URL:http://www.rockland-ma.gov/school-committee/agenda/school-committee-06272016 [37305] -> "../data/townSites2/Rockland/www.rockland-ma.gov/school-committee/agenda/school-committee-06272016" [1]
+2017-01-02 05:39:37 URL:http://www.rockland-ma.gov/school-committee/agenda/school-committee-05232016 [37302] -> "../data/townSites2/Rockland/www.rockland-ma.gov/school-committee/agenda/school-committee-05232016" [1]
+2017-01-02 05:39:38 URL:http://www.rockland-ma.gov/school-committee/agenda/school-committee-05092016 [37325] -> "../data/townSites2/Rockland/www.rockland-ma.gov/school-committee/agenda/school-committee-05092016" [1]
+2017-01-02 05:39:39 URL:http://www.rockland-ma.gov/school-committee/agenda/school-committee-04252016 [37336] -> "../data/townSites2/Rockland/www.rockland-ma.gov/school-committee/agenda/school-committee-04252016" [1]
+2017-01-02 05:39:40 URL:http://www.rockland-ma.gov/senior-center-building-committee [41623] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/46" [1]
+2017-01-02 05:39:41 URL:http://www.rockland-ma.gov/print/46 [7870] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/46" [1]
+2017-01-02 05:39:42 URL: http://www.rockland-ma.gov/node/46/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:39:43 URL:http://www.rockland-ma.gov/taxation-aid-committee [39988] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/43" [1]
+2017-01-02 05:39:45 URL:http://www.rockland-ma.gov/print/43 [7508] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/43" [1]
+2017-01-02 05:39:45 URL: http://www.rockland-ma.gov/node/43/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:39:47 URL:http://www.rockland-ma.gov/teen-center-advisory-committee [47550] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/33" [1]
+2017-01-02 05:39:48 URL:http://www.rockland-ma.gov/print/33 [7495] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/33" [1]
+2017-01-02 05:39:48 URL: http://www.rockland-ma.gov/node/33/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:39:50 URL:http://www.rockland-ma.gov/node/33/agenda [32829] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/33/agenda" [1]
+2017-01-02 05:39:51 URL:http://www.rockland-ma.gov/teen-center-advisory-committee/agenda/teen-center-advisory-committee-06202016 [36498] -> "../data/townSites2/Rockland/www.rockland-ma.gov/teen-center-advisory-committee/agenda/teen-center-advisory-committee-06202016" [1]
+2017-01-02 05:39:53 URL:http://www.rockland-ma.gov/teen-center-advisory-committee/agenda/teen-center-advisory-committee-04112016 [36501] -> "../data/townSites2/Rockland/www.rockland-ma.gov/teen-center-advisory-committee/agenda/teen-center-advisory-committee-04112016" [1]
+2017-01-02 05:39:54 URL:http://www.rockland-ma.gov/teen-center-advisory-committee/agenda/teen-center-advisory-committee-03072016 [36498] -> "../data/townSites2/Rockland/www.rockland-ma.gov/teen-center-advisory-committee/agenda/teen-center-advisory-committee-03072016" [1]
+2017-01-02 05:39:56 URL:http://www.rockland-ma.gov/teen-center-advisory-committee/agenda/teen-center-advisory-committee-02082016 [36497] -> "../data/townSites2/Rockland/www.rockland-ma.gov/teen-center-advisory-committee/agenda/teen-center-advisory-committee-02082016" [1]
+2017-01-02 05:39:57 URL:http://www.rockland-ma.gov/teen-center-advisory-committee/agenda/teen-center-advisory-committee-01042016 [36496] -> "../data/townSites2/Rockland/www.rockland-ma.gov/teen-center-advisory-committee/agenda/teen-center-advisory-committee-01042016" [1]
+2017-01-02 05:39:59 URL:http://www.rockland-ma.gov/node/33/minutes [32838] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/33/minutes" [1]
+2017-01-02 05:39:59 URL: http://www.rockland-ma.gov/sites/rocklandma/files/minutes/teen_minutes_april2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:00 URL: http://www.rockland-ma.gov/sites/rocklandma/files/minutes/teen_minutes_march16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:01 URL: http://www.rockland-ma.gov/sites/rocklandma/files/minutes/jan4_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:03 URL: http://www.rockland-ma.gov/sites/rocklandma/files/minutes/teen_minutes_dec7_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:04 URL: http://www.rockland-ma.gov/sites/rocklandma/files/minutes/teen_minutes_oct5_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:05 URL:http://www.rockland-ma.gov/zoning-board-appeals [42658] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/30" [1]
+2017-01-02 05:40:07 URL:http://www.rockland-ma.gov/print/30 [8309] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/30" [1]
+2017-01-02 05:40:07 URL: http://www.rockland-ma.gov/node/30/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:09 URL:http://www.rockland-ma.gov/zoning-board-appeals/pages/forms-documents [37063] -> "../data/townSites2/Rockland/www.rockland-ma.gov/zoning-board-appeals/pages/forms-documents" [1]
+2017-01-02 05:40:11 URL:http://www.rockland-ma.gov/node/30/agenda [33324] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/30/agenda" [1]
+2017-01-02 05:40:13 URL:http://www.rockland-ma.gov/zoning-board-appeals/agenda/zoning-board-appeals-02022016 [37093] -> "../data/townSites2/Rockland/www.rockland-ma.gov/zoning-board-appeals/agenda/zoning-board-appeals-02022016" [1]
+2017-01-02 05:40:14 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/eee.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:15 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/homeownerapplication2016_updated.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:18 URL:http://www.rockland-ma.gov/quick-view/13 [35608] -> "../data/townSites2/Rockland/www.rockland-ma.gov/quick-view/13" [1]
+2017-01-02 05:40:19 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/burning_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:20 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/burning_fee_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:22 URL:http://www.rockland-ma.gov/quick-view/22 [40809] -> "../data/townSites2/Rockland/www.rockland-ma.gov/quick-view/22" [1]
+2017-01-02 05:40:23 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/recycling_center_new_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:25 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/rockland-recycling-center-updated-72016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:26 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/demolitionpermit_2014_rocklandma2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:27 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/wood_stove_fireplace_furnace_permit_2014_rocklandma.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:29 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/trenchpermit_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:30 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/solarelectricsystems_2014_rocklandma.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:32 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/signpermit_2015_rocklandma.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:33 URL:http://www.rockland-ma.gov/quick-view/15 [39979] -> "../data/townSites2/Rockland/www.rockland-ma.gov/quick-view/15" [1]
+2017-01-02 05:40:34 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/request_for_extension_time_waiver.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:35 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/rules_regulations_2006_double_sided_print_file.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:36 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/planning_fee_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:37 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/planning_board_required_applications.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:38 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/joint_meeting_outline_for_zoning_planning_boards.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:39 URL:http://www.rockland-ma.gov/quick-view/4 [39901] -> "../data/townSites2/Rockland/www.rockland-ma.gov/quick-view/4" [1]
+2017-01-02 05:40:40 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/workerscomp_2015_rocklandma.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:41 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/massage_license.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:43 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/instructions_for_zoning_change.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:44 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/form_n_zoning_change_info_sheet.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:46 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/zba_hearing_application_instructions_012408.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:47 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/zba_hearing_application_012308.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:48 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/40b_regs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:40:50 URL:http://www.rockland-ma.gov/quick-view/6 [35106] -> "../data/townSites2/Rockland/www.rockland-ma.gov/quick-view/6" [1]
+2017-01-02 05:40:51 URL:http://www.rockland-ma.gov/where/a [34557] -> "../data/townSites2/Rockland/www.rockland-ma.gov/where/a" [1]
+2017-01-02 05:40:53 URL:http://www.rockland-ma.gov/where/c [34864] -> "../data/townSites2/Rockland/www.rockland-ma.gov/where/c" [1]
+2017-01-02 05:40:54 URL:http://www.rockland-ma.gov/where/e [34590] -> "../data/townSites2/Rockland/www.rockland-ma.gov/where/e" [1]
+2017-01-02 05:40:56 URL:http://www.rockland-ma.gov/where/f [34312] -> "../data/townSites2/Rockland/www.rockland-ma.gov/where/f" [1]
+2017-01-02 05:40:59 URL:http://www.rockland-ma.gov/where/n [34330] -> "../data/townSites2/Rockland/www.rockland-ma.gov/where/n" [1]
+2017-01-02 05:41:01 URL:http://www.rockland-ma.gov/where/o [34302] -> "../data/townSites2/Rockland/www.rockland-ma.gov/where/o" [1]
+2017-01-02 05:41:03 URL:http://www.rockland-ma.gov/where/r [34312] -> "../data/townSites2/Rockland/www.rockland-ma.gov/where/r" [1]
+2017-01-02 05:41:05 URL:http://www.rockland-ma.gov/where/s [34310] -> "../data/townSites2/Rockland/www.rockland-ma.gov/where/s" [1]
+2017-01-02 05:41:08 URL:http://www.rockland-ma.gov/where/t [34542] -> "../data/townSites2/Rockland/www.rockland-ma.gov/where/t" [1]
+2017-01-02 05:41:12 URL:http://www.rockland-ma.gov/where/u [34337] -> "../data/townSites2/Rockland/www.rockland-ma.gov/where/u" [1]
+2017-01-02 05:41:13 URL:http://www.rockland-ma.gov/where/v [34294] -> "../data/townSites2/Rockland/www.rockland-ma.gov/where/v" [1]
+2017-01-02 05:41:16 URL:http://www.rockland-ma.gov/where/y [34312] -> "../data/townSites2/Rockland/www.rockland-ma.gov/where/y" [1]
+2017-01-02 05:41:18 URL:http://www.rockland-ma.gov/board-selectmen/pages/annual-town-reports [36473] -> "../data/townSites2/Rockland/www.rockland-ma.gov/board-selectmen/pages/annual-town-reports" [1]
+2017-01-02 05:41:19 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/body_art_license.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:41:20 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/yardsalepermit_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:41:22 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/public_document_request_-_2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:41:25 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/committee_application_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:41:26 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/application_for_appointment_to_towncomm.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:41:27 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/adopt_a_hydrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:41:28 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/sheetmetalpermit_2014_rocklandma.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:41:29 URL:http://www.rockland-ma.gov/node/215/files [37097] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/215/files" [1]
+2017-01-02 05:41:30 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/reserve.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:41:31 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/youth_services_librarian_fy_15-17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:41:32 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/reference_librarian_fy15-17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:41:33 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/library_director_fy15-17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:41:34 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/fmla_employee_rights_poster.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:41:35 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/employeeguide.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:41:37 URL:http://www.rockland-ma.gov/node/886/files [37681] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/886/files" [1]
+2017-01-02 05:41:38 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/form_m_application_for_public_hearing.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:41:39 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/form_l_site_plan_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:41:40 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/form_c_definitive_subdivision_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:41:41 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/form_b_preliminary_subdivision_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:41:42 URL:http://www.rockland-ma.gov/node/90/files [35035] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/90/files" [1]
+2017-01-02 05:41:43 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/drainlayer_application_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:41:45 URL:http://www.rockland-ma.gov/home/pages/online-payments [35495] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/19" [1]
+2017-01-02 05:41:47 URL:http://www.rockland-ma.gov/print/19 [7286] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/19" [1]
+2017-01-02 05:41:47 URL: http://www.rockland-ma.gov/node/1/news/feed 200 OK
+unlink: No such file or directory
+2017-01-02 05:41:50 URL:http://www.rockland-ma.gov/home/bulletins/census [34218] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/7433" [1]
+2017-01-02 05:41:51 URL:http://www.rockland-ma.gov/print/7433 [6187] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/7433" [1]
+2017-01-02 05:41:53 URL:http://www.rockland-ma.gov/home/news/town-hall-holiday-hours-town-hall-will-be-closed-monday-december-26th-monday-january-2nd [34049] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/7723" [1]
+2017-01-02 05:41:54 URL:http://www.rockland-ma.gov/print/7723 [6289] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/7723" [1]
+2017-01-02 05:41:56 URL:http://www.rockland-ma.gov/home/news/adopt-hydrant-program-needs-you [34562] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/3943" [1]
+2017-01-02 05:41:57 URL:http://www.rockland-ma.gov/print/3943 [6421] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/3943" [1]
+2017-01-02 05:41:58 URL:http://www.rockland-ma.gov/home/news/community-development-grant-funding-now-available-home-repairs-fuel-assistance [34547] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/3923" [1]
+2017-01-02 05:41:59 URL:http://www.rockland-ma.gov/print/3923 [6619] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/3923" [1]
+2017-01-02 05:42:00 URL:http://www.rockland-ma.gov/human-resources/pages/employment-opportunities [38523] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/21" [1]
+2017-01-02 05:42:01 URL:http://www.rockland-ma.gov/print/21 [7388] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/21" [1]
+2017-01-02 05:42:02 URL: http://www.rockland-ma.gov/sites/rocklandma/files/uploads/application_employment_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:42:03 URL: http://www.rockland-ma.gov/sites/rocklandma/files/pages/teen_center_sept_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:42:05 URL:http://www.rockland-ma.gov/home/webforms/contact-us [43087/43087] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/2" [1]
+2017-01-02 05:42:07 URL:http://www.rockland-ma.gov/print/2 [15569/15569] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/2" [1]
+2017-01-02 05:42:08 URL:http://www.rockland-ma.gov/calendar/day [39396] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/day.1" [1]
+2017-01-02 05:42:09 URL:http://www.rockland-ma.gov/calendar/week [41927] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/week" [1]
+2017-01-02 05:42:13 URL:http://www.rockland-ma.gov/calendar/year [200476] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/year" [1]
+2017-01-02 05:42:14 URL:http://www.rockland-ma.gov/calendar/upcoming [55641] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/upcoming" [1]
+2017-01-02 05:42:16 URL:http://www.rockland-ma.gov/calendar/day/2017-01-02 [39466] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/day/2017-01-02" [1]
+2017-01-02 05:42:17 URL:http://www.rockland-ma.gov/home/events/6203 [35327] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/6203" [1]
+2017-01-02 05:42:18 URL:http://www.rockland-ma.gov/print/6203 [7660] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/6203" [1]
+2017-01-02 05:42:18 URL: http://www.rockland-ma.gov/sites/rocklandma/files/events/zoning_by-law_1.3.17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:42:19 URL:http://www.rockland-ma.gov/assessors/events/7743 [38316] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/7743" [1]
+2017-01-02 05:42:20 URL:http://www.rockland-ma.gov/print/7743 [7667] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/7743" [1]
+2017-01-02 05:42:21 URL: http://www.rockland-ma.gov/sites/rocklandma/files/events/board_of_assessors_1.3.17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:42:22 URL:http://www.rockland-ma.gov/home/events/1873 [35259] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/1873" [1]
+2017-01-02 05:42:23 URL:http://www.rockland-ma.gov/print/1873 [7546] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/1873" [1]
+2017-01-02 05:42:23 URL: http://www.rockland-ma.gov/sites/rocklandma/files/events/park_dept_agenda_1.3.17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:42:24 URL:http://www.rockland-ma.gov/board-selectmen/events/1603 [36629] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/1603" [1]
+2017-01-02 05:42:25 URL:http://www.rockland-ma.gov/print/1603 [7756] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/1603" [1]
+2017-01-02 05:42:25 URL: http://www.rockland-ma.gov/sites/rocklandma/files/events/bos_1.3.17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:42:27 URL:http://www.rockland-ma.gov/home/events/6193 [35615] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/6193" [1]
+2017-01-02 05:42:29 URL:http://www.rockland-ma.gov/print/6193 [7953] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/6193" [1]
+2017-01-02 05:42:30 URL: http://www.rockland-ma.gov/sites/rocklandma/files/events/zoning_maplewood_1.3.17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:42:30 URL: http://www.rockland-ma.gov/sites/rocklandma/files/events/zoning_robert_sennett.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:42:32 URL:http://www.rockland-ma.gov/home/events/6823 [34872] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/6823" [1]
+2017-01-02 05:42:33 URL:http://www.rockland-ma.gov/print/6823 [6867] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/6823" [1]
+2017-01-02 05:42:35 URL:http://www.rockland-ma.gov/calendar/day/2017-01-06 [39466] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/day/2017-01-06" [1]
+2017-01-02 05:42:36 URL:http://www.rockland-ma.gov/40r-sgod-committee/events/7713 [35582] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/7713" [1]
+2017-01-02 05:42:37 URL:http://www.rockland-ma.gov/print/7713 [7881] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/7713" [1]
+2017-01-02 05:42:37 URL: http://www.rockland-ma.gov/sites/rocklandma/files/events/40r_smarth_growth_1.5.17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:42:39 URL:http://www.rockland-ma.gov/calendar/day/2017-01-08 [39466] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/day/2017-01-08" [1]
+2017-01-02 05:42:40 URL:http://www.rockland-ma.gov/home/events/6873 [34092] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/6873" [1]
+2017-01-02 05:42:41 URL:http://www.rockland-ma.gov/print/6873 [6133] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/6873" [1]
+2017-01-02 05:42:42 URL:http://www.rockland-ma.gov/home/events/6463 [34038] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/6463" [1]
+2017-01-02 05:42:43 URL:http://www.rockland-ma.gov/print/6463 [6023] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/6463" [1]
+2017-01-02 05:42:45 URL:http://www.rockland-ma.gov/calendar/day/2017-01-12 [39469] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/day/2017-01-12" [1]
+2017-01-02 05:42:46 URL:http://www.rockland-ma.gov/home/events/6313 [34871] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/6313" [1]
+2017-01-02 05:42:47 URL:http://www.rockland-ma.gov/print/6313 [6838] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/6313" [1]
+2017-01-02 05:42:49 URL:http://www.rockland-ma.gov/calendar/day/2017-01-14 [39469] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/day/2017-01-14" [1]
+2017-01-02 05:42:50 URL:http://www.rockland-ma.gov/home/events/6333 [34264] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/6333" [1]
+2017-01-02 05:42:51 URL:http://www.rockland-ma.gov/print/6333 [6271] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/6333" [1]
+2017-01-02 05:42:53 URL:http://www.rockland-ma.gov/calendar/day/2017-01-16 [39467] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/day/2017-01-16" [1]
+2017-01-02 05:42:55 URL:http://www.rockland-ma.gov/home/events/6973 [34862] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/6973" [1]
+2017-01-02 05:42:57 URL:http://www.rockland-ma.gov/print/6973 [6831] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/6973" [1]
+2017-01-02 05:42:59 URL:http://www.rockland-ma.gov/board-selectmen/events/2953 [36004] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/2953" [1]
+2017-01-02 05:43:00 URL:http://www.rockland-ma.gov/print/2953 [6868] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/2953" [1]
+2017-01-02 05:43:02 URL:http://www.rockland-ma.gov/calendar/day/2017-01-19 [39469] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/day/2017-01-19" [1]
+2017-01-02 05:43:05 URL:http://www.rockland-ma.gov/home/events/2173 [35276] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/2173" [1]
+2017-01-02 05:43:06 URL:http://www.rockland-ma.gov/print/2173 [7593] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/2173" [1]
+2017-01-02 05:43:06 URL: http://www.rockland-ma.gov/sites/rocklandma/files/events/coa_1.18.17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:43:09 URL:http://www.rockland-ma.gov/home/events/2273 [34885] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/2273" [1]
+2017-01-02 05:43:10 URL:http://www.rockland-ma.gov/print/2273 [6890] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/2273" [1]
+2017-01-02 05:43:12 URL:http://www.rockland-ma.gov/rent-control-board/events/7733 [35458] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/7733" [1]
+2017-01-02 05:43:13 URL:http://www.rockland-ma.gov/print/7733 [7711] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/7733" [1]
+2017-01-02 05:43:14 URL: http://www.rockland-ma.gov/sites/rocklandma/files/events/rent_control_board_1.18.17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:43:16 URL:http://www.rockland-ma.gov/home/events/2373 [34953] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/2373" [1]
+2017-01-02 05:43:18 URL:http://www.rockland-ma.gov/print/2373 [7012] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/2373" [1]
+2017-01-02 05:43:20 URL:http://www.rockland-ma.gov/calendar/day/2017-01-22 [39467] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/day/2017-01-22" [1]
+2017-01-02 05:43:23 URL:http://www.rockland-ma.gov/home/events/6963 [34093] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/6963" [1]
+2017-01-02 05:43:24 URL:http://www.rockland-ma.gov/print/6963 [6134] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/6963" [1]
+2017-01-02 05:43:26 URL:http://www.rockland-ma.gov/calendar/day/2017-01-25 [39470] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/day/2017-01-25" [1]
+2017-01-02 05:43:27 URL:http://www.rockland-ma.gov/home/events/2753 [34866] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/2753" [1]
+2017-01-02 05:43:28 URL:http://www.rockland-ma.gov/print/2753 [6847] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/2753" [1]
+2017-01-02 05:43:31 URL:http://www.rockland-ma.gov/home/events/6583 [34038] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/6583" [1]
+2017-01-02 05:43:32 URL:http://www.rockland-ma.gov/print/6583 [6023] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/6583" [1]
+2017-01-02 05:43:34 URL:http://www.rockland-ma.gov/calendar/day/2017-01-26 [39469] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/day/2017-01-26" [1]
+2017-01-02 05:43:36 URL:http://www.rockland-ma.gov/calendar/day/2017-01-28 [39469] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/day/2017-01-28" [1]
+2017-01-02 05:43:38 URL:http://www.rockland-ma.gov/home/events/6713 [34264] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/6713" [1]
+2017-01-02 05:43:39 URL:http://www.rockland-ma.gov/print/6713 [6271] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/6713" [1]
+2017-01-02 05:43:40 URL: http://www.rockland-ma.gov/calendar-by-event-type/feed/16/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 05:43:42 URL:http://www.rockland-ma.gov/calendar-by-event-type/16/month [109538] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar-by-event-type/16/month" [1]
+2017-01-02 05:43:43 URL:http://www.rockland-ma.gov/calendar-by-event-type/16/week [40822] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar-by-event-type/16/week" [1]
+2017-01-02 05:43:45 URL:http://www.rockland-ma.gov/calendar-by-event-type/16/day [39032] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar-by-event-type/16/day" [1]
+2017-01-02 05:43:48 URL:http://www.rockland-ma.gov/calendar-by-event-type/16/year [185363] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar-by-event-type/16/year" [1]
+2017-01-02 05:43:50 URL:http://www.rockland-ma.gov/calendar-by-event-type/16/month/2016-12 [149023] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar-by-event-type/16/month/2016-12" [1]
+2017-01-02 05:43:54 URL:http://www.rockland-ma.gov/calendar-by-event-type/16/month/2017-02 [109619] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar-by-event-type/16/month/2017-02" [1]
+2017-01-02 05:43:56 URL:http://www.rockland-ma.gov/calendar-by-event-type/16/day/2017-01-03 [40489] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar-by-event-type/16/day/2017-01-03" [1]
+2017-01-02 05:43:58 URL:http://www.rockland-ma.gov/calendar-by-event-type/16/day/2017-01-04 [39522] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar-by-event-type/16/day/2017-01-04" [1]
+2017-01-02 05:43:59 URL:http://www.rockland-ma.gov/calendar-by-event-type/16/day/2017-01-09 [39542] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar-by-event-type/16/day/2017-01-09" [1]
+2017-01-02 05:44:01 URL:http://www.rockland-ma.gov/calendar-by-event-type/16/day/2017-01-17 [39832] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar-by-event-type/16/day/2017-01-17" [1]
+2017-01-02 05:44:03 URL:http://www.rockland-ma.gov/calendar-by-event-type/16/day/2017-01-18 [40207] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar-by-event-type/16/day/2017-01-18" [1]
+2017-01-02 05:44:04 URL:http://www.rockland-ma.gov/calendar-by-event-type/16/day/2017-01-23 [39543] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar-by-event-type/16/day/2017-01-23" [1]
+2017-01-02 05:44:06 URL:http://www.rockland-ma.gov/calendar-by-event-type/16/day/2017-01-24 [39514] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar-by-event-type/16/day/2017-01-24" [1]
+2017-01-02 05:44:07 URL:http://www.rockland-ma.gov/calendar-by-event-type/16/day/2017-01-27 [39731] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar-by-event-type/16/day/2017-01-27" [1]
+2017-01-02 05:44:08 URL: http://www.rockland-ma.gov/calendar/feed/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 05:44:11 URL:http://www.rockland-ma.gov/calendar/month [134644] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/month" [1]
+2017-01-02 05:44:16 URL:http://www.rockland-ma.gov/calendar/month/2016-12 [210451] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/month/2016-12" [1]
+2017-01-02 05:44:20 URL:http://www.rockland-ma.gov/calendar/month/2017-02 [123563] -> "../data/townSites2/Rockland/www.rockland-ma.gov/calendar/month/2017-02" [1]
+2017-01-02 05:44:22 URL:http://www.rockland-ma.gov/home/pages/website-disclaimer [35949] -> "../data/townSites2/Rockland/www.rockland-ma.gov/node/22" [1]
+2017-01-02 05:44:23 URL:http://www.rockland-ma.gov/print/22 [7688] -> "../data/townSites2/Rockland/www.rockland-ma.gov/print/22" [1]
+Found 2 broken links.
+
+http://www.rockland-ma.gov/board-health/files/recycling-center-charges
+http://www.rockland-ma.gov/trash-recycling
+
+FINISHED --2017-01-02 05:44:23--
+Total wall clock time: 19m 10s
+Downloaded: 556 files, 20M in 1m 9s (295 KB/s)

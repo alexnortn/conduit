@@ -1,0 +1,81 @@
+2017-01-02 02:43:36 URL:http://www.montgomeryma.gov/ [34798/34798] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/index.html" [1]
+http://www.montgomeryma.gov/xmlrpc.php:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:43:38 URL: http://www.montgomeryma.gov/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 02:43:39 URL: http://www.montgomeryma.gov/feed/atom/ 200 OK
+unlink: No such file or directory
+2017-01-02 02:43:40 URL: http://www.montgomeryma.gov/comments/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 02:43:41 URL: http://www.montgomeryma.gov/wp-json/ 200 OK
+unlink: No such file or directory
+2017-01-02 02:43:41 URL: http://www.montgomeryma.gov/wp-includes/wlwmanifest.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:43:43 URL:http://www.montgomeryma.gov/town-government/ [21793] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/town-government/index.html" [1]
+No data received.
+2017-01-02 02:44:08 URL:http://www.montgomeryma.gov/selectboard/ [30552] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/selectboard/index.html" [1]
+2017-01-02 02:44:10 URL:http://www.montgomeryma.gov/boards-commissions/ [21970] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/boards-commissions/index.html" [1]
+2017-01-02 02:44:12 URL:http://www.montgomeryma.gov/boards-commissions/broadband/ [31664] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/boards-commissions/broadband/index.html" [1]
+2017-01-02 02:44:15 URL:http://www.montgomeryma.gov/boards-commissions/coa/ [33648] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/boards-commissions/coa/index.html" [1]
+2017-01-02 02:44:19 URL:http://www.montgomeryma.gov/boards-commissions/planning-board/ [28968] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/boards-commissions/planning-board/index.html" [1]
+2017-01-02 02:44:22 URL:http://www.montgomeryma.gov/library/ [42568] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/library/index.html" [1]
+2017-01-02 02:44:24 URL:http://www.montgomeryma.gov/docs-forms/ [24957] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/docs-forms/index.html" [1]
+2017-01-02 02:44:26 URL:http://www.montgomeryma.gov/community-calendar/ [21424] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/community-calendar/index.html" [1]
+2017-01-02 02:44:28 URL:http://www.montgomeryma.gov/about-montgomery/ [23488] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/about-montgomery/index.html" [1]
+2017-01-02 02:44:30 URL:http://www.montgomeryma.gov/contact-us/ [25564] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/contact-us/index.html" [1]
+2017-01-02 02:44:32 URL:http://www.montgomeryma.gov/news/ [30827] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/news/index.html" [1]
+2017-01-02 02:44:34 URL:http://www.montgomeryma.gov/broadband-survey-results-january-2016/ [23754] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/broadband-survey-results-january-2016/index.html" [1]
+2017-01-02 02:44:37 URL:http://www.montgomeryma.gov/broadband-survey-results/ [23666] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/broadband-survey-results/index.html" [1]
+2017-01-02 02:44:39 URL:http://www.montgomeryma.gov/mbi-last-mile-program-guidelines-unserved-towns/ [26030] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/mbi-last-mile-program-guidelines-unserved-towns/index.html" [1]
+2017-01-02 02:44:41 URL:http://www.montgomeryma.gov/montgomery-planning-board-web-page-live/ [23182] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/montgomery-planning-board-web-page-live/index.html" [1]
+2017-01-02 02:44:43 URL:http://www.montgomeryma.gov/huntington-lions-club/ [23034] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/huntington-lions-club/index.html" [1]
+2017-01-02 02:44:47 URL:http://www.montgomeryma.gov/library/ [42568] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/town-government/library/index.html" [1]
+2017-01-02 02:44:49 URL:http://www.montgomeryma.gov/town-government/townclerk/ [21040] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/town-government/townclerk/index.html" [1]
+No data received.
+2017-01-02 02:45:06 URL:http://www.montgomeryma.gov/welcome-to-our-page/ [22774] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/welcome-to-our-page/index.html" [2]
+2017-01-02 02:45:07 URL:http://www.montgomeryma.gov/category/board-of-selectmen/ [21929] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/category/board-of-selectmen/index.html" [1]
+2017-01-02 02:45:09 URL:http://www.montgomeryma.gov/category/broadband-advisory-committee/ [27223] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/category/broadband-advisory-committee/index.html" [1]
+2017-01-02 02:45:11 URL:http://www.montgomeryma.gov/contact-broadband/ [25249] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/contact-broadband/index.html" [1]
+2017-01-02 02:45:13 URL:http://www.montgomeryma.gov/category/planning-board/ [22008] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/category/planning-board/index.html" [1]
+2017-01-02 02:45:16 URL:http://www.montgomeryma.gov/contact-planning/ [22890] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/contact-planning/index.html" [1]
+2017-01-02 02:45:21 URL:http://www.montgomeryma.gov/welcome-to-the-library-page/ [23094] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/welcome-to-the-library-page/index.html" [1]
+2017-01-02 02:45:25 URL:http://www.montgomeryma.gov/electrical_permit_application/ [22658] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/electrical_permit_application/index.html" [1]
+2017-01-02 02:45:28 URL:http://www.montgomeryma.gov/gas_permit_application_fill-in/ [22669] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/gas_permit_application_fill-in/index.html" [1]
+2017-01-02 02:45:30 URL:http://www.montgomeryma.gov/gas_permit_application/ [22581] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/gas_permit_application/index.html" [1]
+2017-01-02 02:45:32 URL:http://www.montgomeryma.gov/insurance_affidavit/ [22668] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/insurance_affidavit/index.html" [1]
+2017-01-02 02:45:35 URL:http://www.montgomeryma.gov/plumbing_permit_application_fill-in/ [22724] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/plumbing_permit_application_fill-in/index.html" [1]
+2017-01-02 02:45:37 URL:http://www.montgomeryma.gov/plumbing_permit_application/ [22636] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/plumbing_permit_application/index.html" [1]
+2017-01-02 02:45:39 URL:http://www.montgomeryma.gov/sheet_metal_permit/ [22597] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/sheet_metal_permit/index.html" [1]
+http://www.montgomeryma.gov/town-government/police-department/ltc_fid_application/:
+Remote file does not exist -- broken link!!!
+http://www.montgomeryma.gov/town-government/police-department/ltc_fid_change_of_address/:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:45:43 URL:http://www.montgomeryma.gov/town-government/townclerk/absentee_ballot/ [21526] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/town-government/townclerk/absentee_ballot/index.html" [1]
+2017-01-02 02:45:45 URL:http://www.montgomeryma.gov/town-government/townclerk/voter_registration_form/ [21521] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/town-government/townclerk/voter_registration_form/index.html" [1]
+2017-01-02 02:45:47 URL:http://www.montgomeryma.gov/author/ashley-gilbertnepconukes-com/ [24725] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/author/ashley-gilbertnepconukes-com/index.html" [1]
+2017-01-02 02:45:49 URL:http://www.montgomeryma.gov/author/peter-degregorio/ [23278] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/author/peter-degregorio/index.html" [1]
+2017-01-02 02:45:51 URL:http://www.montgomeryma.gov/author/coa/ [22000] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/author/coa/index.html" [1]
+2017-01-02 02:45:53 URL:http://www.montgomeryma.gov/category/council-on-aging/ [22047] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/category/council-on-aging/index.html" [1]
+2017-01-02 02:45:55 URL:http://www.montgomeryma.gov/author/library/ [21848] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/author/library/index.html" [1]
+2017-01-02 02:45:56 URL:http://www.montgomeryma.gov/category/library/ [21904] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/category/library/index.html" [1]
+2017-01-02 02:45:58 URL:http://www.montgomeryma.gov/author/selectboard/ [21874] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/author/selectboard/index.html" [1]
+2017-01-02 02:46:00 URL:http://www.montgomeryma.gov/aprils-mountain-breeze-article-verizon-fiber/ [24404] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/aprils-mountain-breeze-article-verizon-fiber/index.html" [1]
+2017-01-02 02:46:02 URL:http://www.montgomeryma.gov/broadband-committee-update/ [24502] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/broadband-committee-update/index.html" [1]
+2017-01-02 02:46:04 URL:http://www.montgomeryma.gov/author/townofmontgomery/ [22204] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/author/townofmontgomery/index.html" [1]
+2017-01-02 02:46:06 URL:http://www.montgomeryma.gov/2016/09/ [25422] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/2016/09/index.html" [1]
+2017-01-02 02:46:08 URL:http://www.montgomeryma.gov/2016/04/ [24877] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/2016/04/index.html" [1]
+2017-01-02 02:46:11 URL:http://www.montgomeryma.gov/2016/03/ [21921] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/2016/03/index.html" [1]
+2017-01-02 02:46:11 URL: http://www.montgomeryma.gov/wp-content/uploads/2016/09/Montgomery-Broadband-Survey-Jan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:46:11 URL: http://www.montgomeryma.gov/wp-content/uploads/2016/09/Montgomery-Broadband-Survey-2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:46:14 URL:http://www.montgomeryma.gov/boards-commissions/broadband/ [31664] -> "../data/townSites2/Montgomery/www.montgomeryma.gov/boards-commissions/broadband.1" [1]
+Found 3 broken links.
+
+http://www.montgomeryma.gov/town-government/police-department/ltc_fid_change_of_address/
+http://www.montgomeryma.gov/town-government/police-department/ltc_fid_application/
+http://www.montgomeryma.gov/xmlrpc.php
+
+FINISHED --2017-01-02 02:46:14--
+Total wall clock time: 2m 43s
+Downloaded: 50 files, 1.2M in 2.6s (464 KB/s)

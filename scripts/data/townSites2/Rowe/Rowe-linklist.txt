@@ -1,0 +1,33 @@
+2017-01-02 06:23:12 URL:http://www.rowe-ma.gov/ [1157] -> "../data/townSites2/Rowe/www.rowe-ma.gov/index.html" [1]
+2017-01-02 06:23:14 URL:http://www.rowe-ma.gov/Pages/index [27647] -> "../data/townSites2/Rowe/www.rowe-ma.gov/Pages/index" [1]
+2017-01-02 06:23:15 URL:http://www.rowe-ma.gov/Pages/RoweMA_WebDocs/facts [37591] -> "../data/townSites2/Rowe/www.rowe-ma.gov/Pages/RoweMA_WebDocs/facts" [1]
+2017-01-02 06:23:16 URL:http://www.rowe-ma.gov/Pages/RoweMA_WebDocs/deptindex [29342] -> "../data/townSites2/Rowe/www.rowe-ma.gov/Pages/RoweMA_WebDocs/deptindex" [1]
+2017-01-02 06:23:17 URL:http://www.rowe-ma.gov/Pages/RoweMA_WebDocs/bcomm [29049] -> "../data/townSites2/Rowe/www.rowe-ma.gov/Pages/RoweMA_WebDocs/bcomm" [1]
+2017-01-02 06:23:19 URL:http://www.rowe-ma.gov/Pages/RoweMA_WebDocs/calendar_index [23721] -> "../data/townSites2/Rowe/www.rowe-ma.gov/Pages/RoweMA_WebDocs/calendar_index" [1]
+2017-01-02 06:23:19 URL:http://www.rowe-ma.gov/Pages/RoweMA_WebDocs/maps [27397] -> "../data/townSites2/Rowe/www.rowe-ma.gov/Pages/RoweMA_WebDocs/maps" [1]
+2017-01-02 06:23:20 URL:http://www.rowe-ma.gov/pages/RoweMA_Forms/ [25013] -> "../data/townSites2/Rowe/www.rowe-ma.gov/pages/RoweMA_Forms/index.html" [1]
+2017-01-02 06:23:21 URL:http://www.rowe-ma.gov/Pages/RoweMA_WebDocs/links [33315] -> "../data/townSites2/Rowe/www.rowe-ma.gov/Pages/RoweMA_WebDocs/links" [1]
+2017-01-02 06:23:22 URL:http://www.rowe-ma.gov/Pages/RoweMA_Personnel/index [30716] -> "../data/townSites2/Rowe/www.rowe-ma.gov/Pages/RoweMA_Personnel/index" [1]
+2017-01-02 06:23:24 URL:http://www.rowe-ma.gov/subscriber [28899] -> "../data/townSites2/Rowe/www.rowe-ma.gov/subscriber" [1]
+2017-01-02 06:23:25 URL:http://www.rowe-ma.gov/Pages/search [46123] -> "../data/townSites2/Rowe/www.rowe-ma.gov/Pages/search" [1]
+2017-01-02 06:23:26 URL:http://www.rowe-ma.gov/Pages/RoweMA_WebDocs/ctyfaq [36483] -> "../data/townSites2/Rowe/www.rowe-ma.gov/Pages/RoweMA_WebDocs/ctyfaq" [1]
+2017-01-02 06:23:26 URL: http://www.rowe-ma.gov/Icons/0 200 OK
+unlink: No such file or directory
+2017-01-02 06:23:27 URL:http://www.rowe-ma.gov/pages/rowema_news/ [32974] -> "../data/townSites2/Rowe/www.rowe-ma.gov/pages/rowema_news/index.html" [1]
+2017-01-02 06:23:27 URL: http://www.rowe-ma.gov/pages/rowema_news/02521857-000F8513 200 OK
+unlink: No such file or directory
+2017-01-02 06:23:28 URL: http://www.rowe-ma.gov/pages/rowema_news/0252042F-000F8513 200 OK
+unlink: No such file or directory
+2017-01-02 06:23:28 URL: http://www.rowe-ma.gov/pages/rowema_news/025200F1-000F8513 200 OK
+unlink: No such file or directory
+2017-01-02 06:23:28 URL: http://www.rowe-ma.gov/pages/rowema_news/025200EE-000F8513 200 OK
+unlink: No such file or directory
+2017-01-02 06:23:29 URL: http://www.rowe-ma.gov/pages/rowema_news/02517711-000F8513 200 OK
+unlink: No such file or directory
+2017-01-02 06:23:29 URL: http://www.rowe-ma.gov/pages/rowema_news/02507371-000F8513 200 OK
+unlink: No such file or directory
+Found no broken links.
+
+FINISHED --2017-01-02 06:23:29--
+Total wall clock time: 17s
+Downloaded: 14 files, 400K in 4.3s (93.1 KB/s)

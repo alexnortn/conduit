@@ -1,0 +1,724 @@
+2017-01-02 01:11:47 URL:http://www.lexingtonma.gov/ [72766] -> "../data/townSites2/Lexington/www.lexingtonma.gov/index.html" [1]
+2017-01-02 01:11:48 URL: http://www.lexingtonma.gov/sites/lexingtonma/themes/vts/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 01:11:49 URL:http://www.lexingtonma.gov/home/pages/social-media [28430] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/pages/social-media" [1]
+2017-01-02 01:11:50 URL:http://www.lexingtonma.gov/departments [54956] -> "../data/townSites2/Lexington/www.lexingtonma.gov/departments" [1]
+2017-01-02 01:11:52 URL:http://www.lexingtonma.gov/boards [59122] -> "../data/townSites2/Lexington/www.lexingtonma.gov/boards" [1]
+2017-01-02 01:11:53 URL:http://www.lexingtonma.gov/information-visitors [33057] -> "../data/townSites2/Lexington/www.lexingtonma.gov/information-visitors" [1]
+2017-01-02 01:11:54 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/historiclexington_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:11:56 URL:http://www.lexingtonma.gov/visitors-center [30230] -> "../data/townSites2/Lexington/www.lexingtonma.gov/information-visitors/links/lexington-visitors-center-0" [1]
+2017-01-02 01:11:58 URL:http://www.libertyride.us/libertyride.html [16587/16587] -> "../data/townSites2/Lexington/www.lexingtonma.gov/information-visitors/links/liberty-ride-tour-lexington-concord" [1]
+2017-01-02 01:12:00 URL:http://www.lexingtonma.gov/new-residents [31733] -> "../data/townSites2/Lexington/www.lexingtonma.gov/information-visitors/links/new-resident-information" [1]
+2017-01-02 01:12:02 URL:http://www.lexingtonma.gov/parking [34320] -> "../data/townSites2/Lexington/www.lexingtonma.gov/information-visitors/links/parking-lexington-center-0" [1]
+2017-01-02 01:12:03 URL:http://www.tourlexington.us/ [8216/8216] -> "../data/townSites2/Lexington/www.lexingtonma.gov/information-visitors/links/tour-lexington-our-tourism-website" [1]
+2017-01-02 01:12:05 URL:http://www.lexingtonma.gov/home/pages/contact-information [37352] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/pages/contact-information" [1]
+2017-01-02 01:12:07 URL:http://www.lexingtonma.gov/where [46395] -> "../data/townSites2/Lexington/www.lexingtonma.gov/where" [1]
+2017-01-02 01:12:09 URL:http://www.lexingtonma.gov/home/pages/town-government [27726] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/pages/town-government" [1]
+2017-01-02 01:12:10 URL:http://www.lexingtonma.gov/town-meeting [28942] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-meeting" [1]
+2017-01-02 01:12:12 URL:http://www.lexingtonma.gov/board-selectmen [45820] -> "../data/townSites2/Lexington/www.lexingtonma.gov/board-selectmen" [1]
+2017-01-02 01:12:12 URL:http://www.lexingtonma.gov/home/pages/online-services [31532] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/pages/online-services" [1]
+2017-01-02 01:12:13 URL:http://www.lexingtonma.gov/home/pages/building-zoning [27061] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/pages/building-zoning" [1]
+2017-01-02 01:12:14 URL:http://www.lexingtonma.gov/building-department/pages/permits [31007] -> "../data/townSites2/Lexington/www.lexingtonma.gov/building-department/pages/permits" [1]
+2017-01-02 01:12:15 URL:http://www.lexingtonma.gov/zoning-board-appeals [37860] -> "../data/townSites2/Lexington/www.lexingtonma.gov/zoning-board-appeals" [1]
+2017-01-02 01:12:17 URL:http://www.lexingtonma.gov/planning-office [50280] -> "../data/townSites2/Lexington/www.lexingtonma.gov/planning" [1]
+2017-01-02 01:12:18 URL:http://www.lexingtonma.gov/home/pages/recreation-programs [26893] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/pages/recreation-programs" [1]
+2017-01-02 01:12:20 URL:http://www.lexingtonma.gov/recreation-and-community-programs [50802] -> "../data/townSites2/Lexington/www.lexingtonma.gov/recreation-and-community-programs" [1]
+2017-01-02 01:12:22 URL:http://www.lexingtonma.gov/community-center [46537] -> "../data/townSites2/Lexington/www.lexingtonma.gov/community-center" [1]
+2017-01-02 01:12:23 URL:http://www.lexingtonma.gov/human-services [31747] -> "../data/townSites2/Lexington/www.lexingtonma.gov/human-services" [1]
+2017-01-02 01:12:25 URL:http://www.lexingtonma.gov/home/pages/permits-licenses [27985] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/pages/permits-licenses" [1]
+2017-01-02 01:12:27 URL:http://www.lexingtonma.gov/public-health/pages/public-health-permit-applications [34130] -> "../data/townSites2/Lexington/www.lexingtonma.gov/health-division/pages/permit-applications" [1]
+2017-01-02 01:12:29 URL:http://www.lexingtonma.gov/town-clerk/pages/licensing-permits [36358] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-clerk/pages/licensing-permits" [1]
+2017-01-02 01:12:30 URL:http://www.lexingtonma.gov/about-lpd/pages/firearms-licensing [28796] -> "../data/townSites2/Lexington/www.lexingtonma.gov/about-lpd/pages/firearms-licensing" [1]
+2017-01-02 01:12:31 URL:http://www.lexingtonma.gov/home/pages/town-services [27766] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/pages/town-services" [1]
+2017-01-02 01:12:33 URL:http://www.lexingtonma.gov/trash-collection/pages/curbside-trash-collection [33809] -> "../data/townSites2/Lexington/www.lexingtonma.gov/trash-collection/pages/curbside-trash-collection" [1]
+2017-01-02 01:12:34 URL:http://www.lexingtonma.gov/lexpress [35898] -> "../data/townSites2/Lexington/www.lexingtonma.gov/lexpress" [1]
+2017-01-02 01:12:36 URL:http://www.lexingtonma.gov/police [42725] -> "../data/townSites2/Lexington/www.lexingtonma.gov/police" [1]
+2017-01-02 01:12:37 URL:http://www.lexingtonma.gov/home/pages/payments-fines-fees [26813] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/pages/payments-fines-fees" [1]
+2017-01-02 01:12:37 URL:http://www.lexingtonma.gov/online-bill-payment [32479] -> "../data/townSites2/Lexington/www.lexingtonma.gov/online-bill-payment" [1]
+2017-01-02 01:12:38 URL:http://www.lexingtonma.gov/tax-collector-treasurer [32132] -> "../data/townSites2/Lexington/www.lexingtonma.gov/tax-collector-treasurer" [1]
+2017-01-02 01:12:40 URL:http://www.lexingtonma.gov/home/news/please-dont-throw-plastic-bags-your-recycling-they-cause-serious-problems [28530] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/news/please-dont-throw-plastic-bags-your-recycling-they-cause-serious-problems" [1]
+2017-01-02 01:12:41 URL:http://www.lexingtonma.gov/home/news/be-part-4th-annual-mlk-day-service-program-volunteer-activities-monday-january-16 [27801] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/news/be-part-4th-annual-mlk-day-service-program-volunteer-activities-monday-january-16" [1]
+2017-01-02 01:12:42 URL:http://www.lexingtonma.gov/home/news/stay-safe-during-extreme-cold-weather [33270] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/news/stay-safe-during-extreme-cold-weather" [1]
+2017-01-02 01:12:44 URL:http://www.lexingtonma.gov/home/news/overnight-parking-ban-effect-december-1-april-1 [27383] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/news/overnight-parking-ban-effect-december-1-april-1" [1]
+2017-01-02 01:12:45 URL:http://www.lexingtonma.gov/home/news/december-january-holiday-schedules-and-closings [28129] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/news/december-january-holiday-schedules-and-closings" [1]
+2017-01-02 01:12:46 URL:http://www.lexingtonma.gov/home/news/flu-shots-residents-last-clinic-wednesday-january-4 [27138] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/news/flu-shots-residents-last-clinic-wednesday-january-4" [1]
+2017-01-02 01:12:48 URL:http://www.lexingtonma.gov/calendar-by-event-type/20%2B17%2B19 [56049] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/20+17+19" [1]
+2017-01-02 01:12:49 URL:http://www.lexingtonma.gov/calendar-by-event-type/16%2B26/day/2017-01-03 [38463] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16+26/day/2017-01-03" [1]
+2017-01-02 01:12:51 URL:http://www.lexingtonma.gov/home/events/46943 [26702] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/events/46943" [1]
+2017-01-02 01:12:52 URL:http://www.lexingtonma.gov/calendar-by-event-type/16%2B26/day/2017-01-04 [39424] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16+26/day/2017-01-04" [1]
+2017-01-02 01:12:53 URL:http://www.lexingtonma.gov/home/events/46633 [26650] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/events/46633" [1]
+2017-01-02 01:12:55 URL:http://www.lexingtonma.gov/home/events/46693 [26720] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/events/46693" [1]
+2017-01-02 01:12:56 URL:http://www.lexingtonma.gov/home/events/46813 [26648] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/events/46813" [1]
+2017-01-02 01:12:57 URL:http://www.lexingtonma.gov/home/events/46753 [26649] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/events/46753" [1]
+2017-01-02 01:12:58 URL:http://www.lexingtonma.gov/calendar-by-event-type/16%2B26/day/2017-01-05 [39731] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16+26/day/2017-01-05" [1]
+2017-01-02 01:13:00 URL:http://www.lexingtonma.gov/home/events/46733 [26687] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/events/46733" [1]
+2017-01-02 01:13:01 URL:http://www.lexingtonma.gov/home/events/46713 [26604] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/events/46713" [1]
+2017-01-02 01:13:02 URL:http://www.lexingtonma.gov/home/events/46673 [26678] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/events/46673" [1]
+2017-01-02 01:13:04 URL:http://www.lexingtonma.gov/home/events/46833 [26652] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/events/46833" [1]
+2017-01-02 01:13:05 URL:http://www.lexingtonma.gov/home/events/46663 [26656] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/events/46663" [1]
+2017-01-02 01:13:07 URL:http://www.lexingtonma.gov/calendar-by-event-type/16%2B26/day/2017-01-06 [38478] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16+26/day/2017-01-06" [1]
+2017-01-02 01:13:08 URL:http://www.lexingtonma.gov/home/events/46913 [26701] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/events/46913" [1]
+2017-01-02 01:13:10 URL:http://www.lexingtonma.gov/calendar-by-event-type/16%2B26/day/2017-01-09 [38489] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16+26/day/2017-01-09" [1]
+2017-01-02 01:13:11 URL:http://www.lexingtonma.gov/home/events/46553 [26730] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/events/46553" [1]
+2017-01-02 01:13:13 URL:http://www.lexingtonma.gov/calendar-by-event-type/16%2B26/day/2017-01-10 [38790] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16+26/day/2017-01-10" [1]
+2017-01-02 01:13:15 URL:http://www.lexingtonma.gov/home/events/45553 [26673] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/events/45553" [1]
+2017-01-02 01:13:16 URL:http://www.lexingtonma.gov/home/events/45963 [26650] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/events/45963" [1]
+2017-01-02 01:13:18 URL:http://www.lexingtonma.gov/calendar-by-event-type/16%2B26/day/2017-01-11 [38829] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16+26/day/2017-01-11" [1]
+2017-01-02 01:13:20 URL:http://www.lexingtonma.gov/home/events/45443 [26357] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/events/45443" [1]
+2017-01-02 01:13:21 URL:http://www.lexingtonma.gov/home/events/46383 [26732] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/events/46383" [1]
+2017-01-02 01:13:22 URL:http://www.lexingtonma.gov/calendar-by-event-type/16%2B26/day/2017-01-17 [38490] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16+26/day/2017-01-17" [1]
+2017-01-02 01:13:24 URL:http://www.lexingtonma.gov/home/events/46223 [26371] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/events/46223" [1]
+2017-01-02 01:13:26 URL:http://www.lexingtonma.gov/calendar-by-event-type/16%2B26/day/2017-01-19 [38494] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16+26/day/2017-01-19" [1]
+2017-01-02 01:13:27 URL:http://www.lexingtonma.gov/home/events/46463 [26378] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/events/46463" [1]
+2017-01-02 01:13:29 URL:http://www.lexingtonma.gov/calendar-by-event-type/16%2B26/day/2017-01-25 [38484] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16+26/day/2017-01-25" [1]
+2017-01-02 01:13:30 URL:http://www.lexingtonma.gov/home/events/45453 [26357] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/events/45453" [1]
+2017-01-02 01:13:32 URL:http://www.lexingtonma.gov/calendar-by-event-type/16 [131917] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16" [1]
+2017-01-02 01:13:33 URL:http://www.lexingtonma.gov/home/pages/winter-activities [27855] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/pages/winter-activities" [1]
+2017-01-02 01:13:35 URL:http://www.lexingtonma.gov/maps-and-gis [28021] -> "../data/townSites2/Lexington/www.lexingtonma.gov/maps-and-gis" [1]
+2017-01-02 01:13:36 URL:http://www.lexingtonma.gov/helpful-links [26893] -> "../data/townSites2/Lexington/www.lexingtonma.gov/helpful-links" [1]
+2017-01-02 01:13:38 URL:http://www.lexingtonma.gov/home/webforms/contact-webmaster [28528/28528] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/webforms/contact-webmaster" [1]
+2017-01-02 01:13:40 URL:http://www.lexingtonma.gov/home/pages/privacy-policy-and-website-disclaimer [32213] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/pages/privacy-policy-and-website-disclaimer" [1]
+2017-01-02 01:13:42 URL:http://www.lexingtonma.gov/user/login [25963] -> "../data/townSites2/Lexington/www.lexingtonma.gov/user/login" [1]
+2017-01-02 01:13:43 URL:http://www.lexingtonma.gov/home/pages/social-media [28430] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/8446" [1]
+2017-01-02 01:13:44 URL:http://www.lexingtonma.gov/print/8446 [8073] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/8446" [1]
+2017-01-02 01:13:45 URL:http://www.lexingtonma.gov/codered-emergency-notification-system [34992] -> "../data/townSites2/Lexington/www.lexingtonma.gov/codered-emergency-notification-system" [1]
+2017-01-02 01:13:47 URL:http://www.lexingtonma.gov/assessor [36637] -> "../data/townSites2/Lexington/www.lexingtonma.gov/assessor" [1]
+2017-01-02 01:13:49 URL:http://www.lexingtonma.gov/building-department [40242] -> "../data/townSites2/Lexington/www.lexingtonma.gov/building-department.1" [1]
+2017-01-02 01:13:51 URL:http://www.carylibrary.org/ [46527/46527] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/8971" [1]
+2017-01-02 01:13:53 URL:http://www.lexingtonma.gov/cemetery [34998] -> "../data/townSites2/Lexington/www.lexingtonma.gov/cemetery" [1]
+2017-01-02 01:13:55 URL:http://www.lexingtonma.gov/conservation [47118] -> "../data/townSites2/Lexington/www.lexingtonma.gov/conservation" [1]
+2017-01-02 01:13:57 URL:http://www.lexingtonma.gov/economic-development [47701] -> "../data/townSites2/Lexington/www.lexingtonma.gov/economic-development" [1]
+2017-01-02 01:13:59 URL:http://www.lexingtonma.gov/engineering [39679] -> "../data/townSites2/Lexington/www.lexingtonma.gov/engineering" [1]
+2017-01-02 01:13:59 URL:http://www.lexingtonma.gov/environmental-services [38179] -> "../data/townSites2/Lexington/www.lexingtonma.gov/environmental-services" [1]
+2017-01-02 01:14:01 URL:http://www.lexingtonma.gov/finance [35797] -> "../data/townSites2/Lexington/www.lexingtonma.gov/finance" [1]
+2017-01-02 01:14:03 URL:http://www.lexingtonma.gov/fire-department [37664] -> "../data/townSites2/Lexington/www.lexingtonma.gov/fire-department" [1]
+2017-01-02 01:14:05 URL:http://www.lexingtonma.gov/highways-equipment-drains [35018] -> "../data/townSites2/Lexington/www.lexingtonma.gov/highways-equipment-drains" [1]
+2017-01-02 01:14:07 URL:http://www.lexingtonma.gov/human-resources [35281] -> "../data/townSites2/Lexington/www.lexingtonma.gov/human-resources" [1]
+2017-01-02 01:14:08 URL:http://www.lexingtonma.gov/information-services-technology [30471] -> "../data/townSites2/Lexington/www.lexingtonma.gov/information-services-technology" [1]
+2017-01-02 01:14:10 URL:http://www.lexingtonma.gov/land-use-health-and-development [31436] -> "../data/townSites2/Lexington/www.lexingtonma.gov/land-use-health-and-development" [1]
+2017-01-02 01:14:10 URL:http://www.lexingtonma.gov/planning-office [50280] -> "../data/townSites2/Lexington/www.lexingtonma.gov/planning-office" [1]
+2017-01-02 01:14:12 URL:http://www.lexingtonma.gov/public-facilities [31894] -> "../data/townSites2/Lexington/www.lexingtonma.gov/public-facilities" [1]
+2017-01-02 01:14:13 URL:http://www.lexingtonma.gov/public-grounds [36656] -> "../data/townSites2/Lexington/www.lexingtonma.gov/public-grounds" [1]
+2017-01-02 01:14:16 URL:http://www.lexingtonma.gov/public-health [52609] -> "../data/townSites2/Lexington/www.lexingtonma.gov/public-health" [1]
+2017-01-02 01:14:17 URL:http://www.lexingtonma.gov/public-schools [28977] -> "../data/townSites2/Lexington/www.lexingtonma.gov/public-schools" [1]
+2017-01-02 01:14:19 URL:http://www.lexingtonma.gov/public-works [37992] -> "../data/townSites2/Lexington/www.lexingtonma.gov/public-works" [1]
+2017-01-02 01:14:21 URL:http://www.lexingtonma.gov/purchasing [31961] -> "../data/townSites2/Lexington/www.lexingtonma.gov/purchasing" [1]
+2017-01-02 01:14:23 URL:http://www.lexingtonma.gov/human-services/senior-services [38529] -> "../data/townSites2/Lexington/www.lexingtonma.gov/human-services/senior-services" [1]
+2017-01-02 01:14:25 URL:http://www.lexingtonma.gov/town-clerk [47684] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-clerk.1" [1]
+2017-01-02 01:14:27 URL:http://www.lexingtonma.gov/town-manager [38528] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-manager" [1]
+2017-01-02 01:14:29 URL:http://www.lexingtonma.gov/transportation-services [36749] -> "../data/townSites2/Lexington/www.lexingtonma.gov/transportation-services" [1]
+2017-01-02 01:14:30 URL:http://www.lexingtonma.gov/trash-collection [33906] -> "../data/townSites2/Lexington/www.lexingtonma.gov/trash-collection.1" [1]
+2017-01-02 01:14:31 URL:http://www.lexingtonma.gov/veterans-services [33659] -> "../data/townSites2/Lexington/www.lexingtonma.gov/veterans-services" [1]
+2017-01-02 01:14:31 URL:http://www.lexingtonma.gov/visitors-center [30230] -> "../data/townSites2/Lexington/www.lexingtonma.gov/visitors-center" [1]
+2017-01-02 01:14:33 URL:http://www.lexingtonma.gov/water-and-sewer [37941] -> "../data/townSites2/Lexington/www.lexingtonma.gov/water-and-sewer" [1]
+2017-01-02 01:14:34 URL:http://www.lexingtonma.gov/youth-and-family-services [43943] -> "../data/townSites2/Lexington/www.lexingtonma.gov/youth-and-family-services" [1]
+2017-01-02 01:14:37 URL:http://www.lexingtonma.gov/zoning [33775] -> "../data/townSites2/Lexington/www.lexingtonma.gov/zoning" [1]
+2017-01-02 01:14:38 URL:http://www.lexingtonma.gov/2020-vision-committee [35185] -> "../data/townSites2/Lexington/www.lexingtonma.gov/2020-vision-committee" [1]
+2017-01-02 01:14:40 URL:http://www.lexingtonma.gov/appropriation-committee [31886] -> "../data/townSites2/Lexington/www.lexingtonma.gov/appropriation-committee" [1]
+2017-01-02 01:14:42 URL:http://www.lexingtonma.gov/board-assessors [32390] -> "../data/townSites2/Lexington/www.lexingtonma.gov/board-assessors" [1]
+2017-01-02 01:14:44 URL:http://www.lexingtonma.gov/battle-road-scenic-byway-committee [30898] -> "../data/townSites2/Lexington/www.lexingtonma.gov/battle-road-scenic-byway-committee" [1]
+2017-01-02 01:14:46 URL:http://www.lexingtonma.gov/bicycle-advisory-committee [32789] -> "../data/townSites2/Lexington/www.lexingtonma.gov/bicycle-advisory-committee" [1]
+2017-01-02 01:14:47 URL:http://www.lexingtonma.gov/bio-safety-committee-4 [30688] -> "../data/townSites2/Lexington/www.lexingtonma.gov/bio-safety-committee-4" [1]
+2017-01-02 01:14:49 URL:http://www.lexingtonma.gov/board-health [30825] -> "../data/townSites2/Lexington/www.lexingtonma.gov/board-health" [1]
+2017-01-02 01:14:51 URL:http://www.lexingtonma.gov/capital-expenditures-committee [31301] -> "../data/townSites2/Lexington/www.lexingtonma.gov/capital-expenditures-committee" [1]
+2017-01-02 01:14:53 URL:http://www.lexingtonma.gov/cary-lecture-series [30277] -> "../data/townSites2/Lexington/www.lexingtonma.gov/cary-lecture-series" [1]
+2017-01-02 01:14:55 URL:http://www.lexingtonma.gov/commission-disability [33428] -> "../data/townSites2/Lexington/www.lexingtonma.gov/commission-disability" [1]
+2017-01-02 01:14:57 URL:http://www.lexingtonma.gov/communications-advisory-committee-cac [31733] -> "../data/townSites2/Lexington/www.lexingtonma.gov/communications-advisory-committee-cac" [1]
+2017-01-02 01:14:59 URL:http://www.lexingtonma.gov/community-farming-committee [31493] -> "../data/townSites2/Lexington/www.lexingtonma.gov/community-farming-committee" [1]
+2017-01-02 01:15:01 URL:http://www.lexingtonma.gov/community-preservation-committee [34664] -> "../data/townSites2/Lexington/www.lexingtonma.gov/community-preservation-committee" [1]
+2017-01-02 01:15:03 URL:http://www.lexingtonma.gov/condominium-conversion-board [29576] -> "../data/townSites2/Lexington/www.lexingtonma.gov/condominium-conversion-board" [1]
+2017-01-02 01:15:05 URL:http://www.lexingtonma.gov/conservation-commission [33001] -> "../data/townSites2/Lexington/www.lexingtonma.gov/conservation-commission" [1]
+2017-01-02 01:15:07 URL:http://www.lexingtonma.gov/council-aging [31551] -> "../data/townSites2/Lexington/www.lexingtonma.gov/council-aging" [1]
+2017-01-02 01:15:09 URL:http://www.lexingtonma.gov/design-advisory-committee [29752] -> "../data/townSites2/Lexington/www.lexingtonma.gov/design-advisory-committee" [1]
+2017-01-02 01:15:11 URL:http://www.lexingtonma.gov/planning-office/centerstreetscape-design-review-adhoc-committee [33419] -> "../data/townSites2/Lexington/www.lexingtonma.gov/planning-office/centerstreetscape-design-review-adhoc-committee" [1]
+2017-01-02 01:15:14 URL:http://www.lexingtonma.gov/economic-development-advisory-committee [32748] -> "../data/townSites2/Lexington/www.lexingtonma.gov/economic-development-advisory-committee" [1]
+2017-01-02 01:15:15 URL:http://www.lexingtonma.gov/electric-utility-ad-hoc-committee [29514] -> "../data/townSites2/Lexington/www.lexingtonma.gov/electric-utility-ad-hoc-committee" [1]
+2017-01-02 01:15:18 URL:http://www.lexingtonma.gov/energy-conservation-committee [29778] -> "../data/townSites2/Lexington/www.lexingtonma.gov/energy-conservation-committee" [1]
+2017-01-02 01:15:20 URL:http://www.lexingtonma.gov/fence-viewers [30678] -> "../data/townSites2/Lexington/www.lexingtonma.gov/fence-viewers" [1]
+2017-01-02 01:15:22 URL:http://www.lexingtonma.gov/fund-lexington-board [31776] -> "../data/townSites2/Lexington/www.lexingtonma.gov/fund-lexington-board" [1]
+2017-01-02 01:15:24 URL:http://www.lexingtonma.gov/gammel-legacy-trust [29273] -> "../data/townSites2/Lexington/www.lexingtonma.gov/gammel-legacy-trust" [1]
+2017-01-02 01:15:26 URL:http://www.lexingtonma.gov/grain-mill-alley-steering-committee [35122] -> "../data/townSites2/Lexington/www.lexingtonma.gov/grain-mill-alley-steering-committee" [1]
+2017-01-02 01:15:27 URL:http://www.lexingtonma.gov/greenways-corridor-committee [33596] -> "../data/townSites2/Lexington/www.lexingtonma.gov/greenways-corridor-committee" [1]
+2017-01-02 01:15:30 URL:http://www.lexingtonma.gov/hanscom-area-towns-committee [31717] -> "../data/townSites2/Lexington/www.lexingtonma.gov/hanscom-area-towns-committee" [1]
+2017-01-02 01:15:32 URL:http://www.lexingtonma.gov/hanscom-field-advisory-commission [30262] -> "../data/townSites2/Lexington/www.lexingtonma.gov/hanscom-field-advisory-commission" [1]
+2017-01-02 01:15:35 URL:http://www.lexingtonma.gov/hats-development-regional-impact-committee [30072] -> "../data/townSites2/Lexington/www.lexingtonma.gov/hats-development-regional-impact-committee" [1]
+2017-01-02 01:15:37 URL:http://www.lexingtonma.gov/hats-environmental-subcommittee [29436] -> "../data/townSites2/Lexington/www.lexingtonma.gov/hats-environmental-subcommittee" [1]
+2017-01-02 01:15:39 URL:http://www.lexingtonma.gov/historic-districts-commission [35813] -> "../data/townSites2/Lexington/www.lexingtonma.gov/historic-districts-commission" [1]
+2017-01-02 01:15:41 URL:http://www.lexingtonma.gov/historical-commission [39664] -> "../data/townSites2/Lexington/www.lexingtonma.gov/historical-commission" [1]
+2017-01-02 01:15:45 URL:http://www.lexingtonhousing.org/ [66510] -> "../data/townSites2/Lexington/www.lexingtonma.gov/housing-authority" [1]
+2017-01-02 01:15:46 URL:http://www.lexingtonma.gov/housing-partnership-board [30186] -> "../data/townSites2/Lexington/www.lexingtonma.gov/housing-partnership-board" [1]
+2017-01-02 01:15:48 URL:http://www.lexingtonma.gov/human-services-committee [30847] -> "../data/townSites2/Lexington/www.lexingtonma.gov/human-services-committee" [1]
+2017-01-02 01:15:50 URL:http://www.lexingtonma.gov/lexington-center-committee [31110] -> "../data/townSites2/Lexington/www.lexingtonma.gov/lexington-center-committee" [1]
+2017-01-02 01:15:51 URL:http://www.lexingtonma.gov/lexington-council-arts [32860] -> "../data/townSites2/Lexington/www.lexingtonma.gov/lexington-council-arts" [1]
+2017-01-02 01:15:53 URL:http://www.lexingtonma.gov/lexington-housing-assistance-board-lexhab [32279] -> "../data/townSites2/Lexington/www.lexingtonma.gov/lexington-housing-assistance-board-lexhab" [1]
+2017-01-02 01:15:54 URL:http://www.lexingtonma.gov/lexington-human-rights-committee [33707] -> "../data/townSites2/Lexington/www.lexingtonma.gov/lexington-human-rights-committee" [1]
+2017-01-02 01:15:56 URL:http://www.lexingtonma.gov/lexington-scholarship-and-educational-fund-committee [29857] -> "../data/townSites2/Lexington/www.lexingtonma.gov/lexington-scholarship-and-educational-fund-committee" [1]
+2017-01-02 01:15:58 URL:http://www.lexingtonma.gov/minuteman-cane-award-selection-committee [31575] -> "../data/townSites2/Lexington/www.lexingtonma.gov/minuteman-cane-award-selection-committee" [1]
+2017-01-02 01:15:59 URL:http://www.lexingtonma.gov/monuments-and-memorials-committee [29916] -> "../data/townSites2/Lexington/www.lexingtonma.gov/monuments-and-memorials-committee" [1]
+2017-01-02 01:16:01 URL:http://www.lexingtonma.gov/noise-advisory-committee [30411] -> "../data/townSites2/Lexington/www.lexingtonma.gov/noise-advisory-committee" [1]
+2017-01-02 01:16:02 URL:http://www.lexingtonma.gov/permanent-building-committee-pbc [29752] -> "../data/townSites2/Lexington/www.lexingtonma.gov/permanent-building-committee-pbc" [1]
+2017-01-02 01:16:04 URL:http://www.lexingtonma.gov/planning-board [31665] -> "../data/townSites2/Lexington/www.lexingtonma.gov/planning-board" [1]
+2017-01-02 01:16:06 URL:http://www.lexingtonma.gov/police-manual-policy-committee [31650] -> "../data/townSites2/Lexington/www.lexingtonma.gov/police-manual-policy-committee" [1]
+2017-01-02 01:16:07 URL:http://www.lexingtonma.gov/policy-manual-committee [28543] -> "../data/townSites2/Lexington/www.lexingtonma.gov/policy-manual-committee" [1]
+2017-01-02 01:16:09 URL:http://www.lexingtonma.gov/recreation-committee [31947] -> "../data/townSites2/Lexington/www.lexingtonma.gov/recreation-committee" [1]
+2017-01-02 01:16:11 URL:http://www.lexingtonma.gov/registrars-voters [31745] -> "../data/townSites2/Lexington/www.lexingtonma.gov/registrars-voters" [1]
+2017-01-02 01:16:12 URL:http://www.lexingtonma.gov/retirement-board [33554] -> "../data/townSites2/Lexington/www.lexingtonma.gov/retirement-board" [1]
+2017-01-02 01:16:14 URL:http://lps.lexingtonma.org/site/Default.aspx?PageID=463 [113547/113547] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/12581" [1]
+2017-01-02 01:16:16 URL:http://www.lexingtonma.gov/sidewalk-committee [33708] -> "../data/townSites2/Lexington/www.lexingtonma.gov/sidewalk-committee" [1]
+2017-01-02 01:16:18 URL:http://www.lexingtonma.gov/sustainable-lexington-committee [33810] -> "../data/townSites2/Lexington/www.lexingtonma.gov/sustainable-lexington-committee" [1]
+2017-01-02 01:16:19 URL:http://www.lexingtonma.gov/tax-deferral-and-exemption-study-committee [30502] -> "../data/townSites2/Lexington/www.lexingtonma.gov/tax-deferral-and-exemption-study-committee" [1]
+2017-01-02 01:16:20 URL:http://www.lexingtonma.gov/tourism-committee [35543] -> "../data/townSites2/Lexington/www.lexingtonma.gov/tourism-committee" [1]
+2017-01-02 01:16:22 URL:http://www.lexingtonma.gov/town-celebrations-committee [32598] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-celebrations-committee" [1]
+2017-01-02 01:16:24 URL:http://www.lexingtonma.gov/town-report-committee [30346] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-report-committee" [1]
+2017-01-02 01:16:25 URL:http://www.lexingtonma.gov/transportation-advisory-committee [30169] -> "../data/townSites2/Lexington/www.lexingtonma.gov/transportation-advisory-committee" [1]
+2017-01-02 01:16:27 URL:http://www.lexingtonma.gov/transportation-safety-group [30432] -> "../data/townSites2/Lexington/www.lexingtonma.gov/transportation-safety-group" [1]
+2017-01-02 01:16:29 URL:http://www.lexingtonma.gov/tree-committee [36683] -> "../data/townSites2/Lexington/www.lexingtonma.gov/tree-committee" [1]
+2017-01-02 01:16:30 URL:http://www.lexingtonma.gov/trustees-public-trusts [29291] -> "../data/townSites2/Lexington/www.lexingtonma.gov/trustees-public-trusts" [1]
+2017-01-02 01:16:32 URL:http://www.lexingtonma.gov/planning-board/turning-mill-neighborhood-conservation-district-study-committee [32195] -> "../data/townSites2/Lexington/www.lexingtonma.gov/planning-board/turning-mill-neighborhood-conservation-district-study-committee" [1]
+2017-01-02 01:16:34 URL:http://www.lexingtonma.gov/water-and-sewer-abatement-board [29674] -> "../data/townSites2/Lexington/www.lexingtonma.gov/water-and-sewer-abatement-board" [1]
+2017-01-02 01:16:35 URL:http://www.lexingtonma.gov/youth-commission [30362] -> "../data/townSites2/Lexington/www.lexingtonma.gov/youth-commission" [1]
+2017-01-02 01:16:37 URL:http://www.lexingtonma.gov/information-visitors [33057] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/10431" [1]
+2017-01-02 01:16:38 URL:http://www.lexingtonma.gov/print/10431 [9188] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/10431" [1]
+2017-01-02 01:16:39 URL:http://www.lexingtonma.gov/information-visitors/slideshows/fall-lexington [30606] -> "../data/townSites2/Lexington/www.lexingtonma.gov/information-visitors/slideshows/fall-lexington" [1]
+2017-01-02 01:16:41 URL:http://www.lexingtonma.gov/patriotsday [31613] -> "../data/townSites2/Lexington/www.lexingtonma.gov/patriotsday" [1]
+2017-01-02 01:16:42 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/lexingtonthen_now.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:16:43 URL: http://www.lexingtonma.gov/node/10431/feed 200 OK
+unlink: No such file or directory
+2017-01-02 01:16:45 URL:http://www.lexingtonma.gov/node/10431/blog [26580] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/10431/blog" [1]
+2017-01-02 01:16:46 URL:http://www.lexingtonma.gov/information-visitors/blog/old-burying-ground [27699] -> "../data/townSites2/Lexington/www.lexingtonma.gov/information-visitors/blog/old-burying-ground" [1]
+2017-01-02 01:16:47 URL:http://www.lexingtonma.gov/information-visitors/blog/adventures-liberty-ride [28963] -> "../data/townSites2/Lexington/www.lexingtonma.gov/information-visitors/blog/adventures-liberty-ride" [1]
+2017-01-02 01:16:48 URL:http://www.lexingtonma.gov/new-residents [31733] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/8431" [1]
+2017-01-02 01:16:49 URL:http://www.lexingtonma.gov/print/8431 [11309] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/8431" [1]
+2017-01-02 01:16:51 URL:http://www.lexingtonma.gov/home/pages/payment-drop-box [27516] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/pages/payment-drop-box" [1]
+2017-01-02 01:16:52 URL:http://www.lexingtonma.gov/town-clerk/pages/elections-voting [35425] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-clerk/pages/elections-voting" [1]
+2017-01-02 01:16:54 URL:http://www.lexingtonma.gov/codered-emergency-notification-system [34992] -> "../data/townSites2/Lexington/www.lexingtonma.gov/police/links/codered®-emergency-notification-system" [1]
+2017-01-02 01:16:55 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/lex_recycle_flyer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:16:56 URL:http://www.lexingtonma.gov/engineering/pages/non-town-utility-contacts [31492] -> "../data/townSites2/Lexington/www.lexingtonma.gov/engineering/pages/non-town-utility-contacts" [1]
+2017-01-02 01:16:56 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/new_resident_information.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:16:58 URL:http://www.lexingtonma.gov/police/pages/winter-overnight-parking-ban [30774] -> "../data/townSites2/Lexington/www.lexingtonma.gov/police/pages/winter-overnight-parking-ban" [1]
+2017-01-02 01:16:58 URL:http://www.lexingtonma.gov/community-center [46537] -> "../data/townSites2/Lexington/www.lexingtonma.gov/lexington-community-center" [1]
+2017-01-02 01:17:00 URL:http://www.lexingtonma.gov/recreation-and-community-programs/pages/local-sports-recreation-organizations [33396] -> "../data/townSites2/Lexington/www.lexingtonma.gov/recreation-and-community-programs/pages/useful-numbers-and-web-addresses" [1]
+2017-01-02 01:17:02 URL:http://www.lexingtonma.gov/home/pages/community-organizations [32224] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/pages/community-organizations" [1]
+2017-01-02 01:17:04 URL:http://www.lexingtonma.gov/recreation-and-community-programs/parks-playgrounds-fields [36844] -> "../data/townSites2/Lexington/www.lexingtonma.gov/parks-playgrounds-fields" [1]
+2017-01-02 01:17:06 URL:http://www.lexingtonma.gov/conservation/pages/conservation-land [42559] -> "../data/townSites2/Lexington/www.lexingtonma.gov/conservation/pages/conservation-land" [1]
+2017-01-02 01:17:07 URL:http://www.lexingtonma.gov/recreation-and-community-programs/aquatics [31340] -> "../data/townSites2/Lexington/www.lexingtonma.gov/aquatics" [1]
+2017-01-02 01:17:09 URL:http://www.lexingtonma.gov/calendar/program-calendar [43093] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar/program-calendar" [1]
+2017-01-02 01:17:11 URL:http://www.lexingtonma.gov/home/pages/about-town-government [29708] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/pages/about-town-government" [1]
+2017-01-02 01:17:13 URL:http://www.lexingtonma.gov/fire-department/emergency-management/pages/be-prepared-emergencies [30256] -> "../data/townSites2/Lexington/www.lexingtonma.gov/emergency-management/pages/be-prepared-emergencies" [1]
+2017-01-02 01:17:14 URL:http://www.lexingtonma.gov/about [29238] -> "../data/townSites2/Lexington/www.lexingtonma.gov/about" [1]
+2017-01-02 01:17:16 URL:http://www.lexingtonma.gov/parking [34320] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/16696" [1]
+2017-01-02 01:17:17 URL:http://www.lexingtonma.gov/print/16696 [7625] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/16696" [1]
+2017-01-02 01:17:18 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/visitor_parking_locations_map_9.22.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:19 URL: http://www.lexingtonma.gov/node/16696/feed 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:20 URL:http://www.lexingtonma.gov/economic-development/parking-lexington/pages/center-employee-parking-options [33386] -> "../data/townSites2/Lexington/www.lexingtonma.gov/economic-development/parking-lexington/pages/center-employee-parking-options" [1]
+2017-01-02 01:17:22 URL:http://www.lexingtonma.gov/economic-development/parking-lexington/pages/visitor-parking-options [29552] -> "../data/townSites2/Lexington/www.lexingtonma.gov/economic-development/parking-lexington/pages/visitor-parking-options" [1]
+2017-01-02 01:17:23 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/parkingappealformv2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:26 URL:http://www.lexingtonma.gov/lexington-center-bike-map [30124] -> "../data/townSites2/Lexington/www.lexingtonma.gov/parking-lexington/links/center-bicycle-parking" [1]
+2017-01-02 01:17:27 URL:http://www.lexingtonma.gov/economic-development/parking-lexington/pages/directions-lexington-center [29407] -> "../data/townSites2/Lexington/www.lexingtonma.gov/economic-development/parking-lexington/pages/directions-lexington-center" [1]
+2017-01-02 01:17:30 URL:http://www.lexingtonma.gov/parking-management-group [36999] -> "../data/townSites2/Lexington/www.lexingtonma.gov/new-parking-page/links/parking-management-group" [1]
+2017-01-02 01:17:31 URL:http://www.lexingtonma.gov/online-bill-payment [32479] -> "../data/townSites2/Lexington/www.lexingtonma.gov/parking-lexington/links/pay-parking-violation" [1]
+2017-01-02 01:17:32 URL:http://www.lexingtonma.gov/police/pages/winter-overnight-parking-ban [30774] -> "../data/townSites2/Lexington/www.lexingtonma.gov/new-parking-page/links/winter-overnight-parking-ban" [1]
+2017-01-02 01:17:33 URL:http://www.lexingtonma.gov/node/16696/blog [25992] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/16696/blog" [1]
+2017-01-02 01:17:34 URL:http://www.lexingtonma.gov/parking-lexington/blog/parking-management-update [29112] -> "../data/townSites2/Lexington/www.lexingtonma.gov/parking-lexington/blog/parking-management-update" [1]
+2017-01-02 01:17:36 URL:http://www.lexingtonma.gov/home/pages/contact-information [37352] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/596" [1]
+2017-01-02 01:17:37 URL:http://www.lexingtonma.gov/print/596 [17061] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/596" [1]
+2017-01-02 01:17:38 URL:http://www.lexingtonma.gov/where/a [28585] -> "../data/townSites2/Lexington/www.lexingtonma.gov/where/a" [1]
+2017-01-02 01:17:40 URL:http://www.lexingtonma.gov/where/b [27911] -> "../data/townSites2/Lexington/www.lexingtonma.gov/where/b" [1]
+2017-01-02 01:17:41 URL:http://www.lexingtonma.gov/where/c [29575] -> "../data/townSites2/Lexington/www.lexingtonma.gov/where/c" [1]
+2017-01-02 01:17:42 URL:http://www.lexingtonma.gov/where/e [28316] -> "../data/townSites2/Lexington/www.lexingtonma.gov/where/e" [1]
+2017-01-02 01:17:44 URL:http://www.lexingtonma.gov/where/f [27550] -> "../data/townSites2/Lexington/www.lexingtonma.gov/where/f" [1]
+2017-01-02 01:17:45 URL:http://www.lexingtonma.gov/where/g [27555] -> "../data/townSites2/Lexington/www.lexingtonma.gov/where/g" [1]
+2017-01-02 01:17:47 URL:http://www.lexingtonma.gov/where/h [27835] -> "../data/townSites2/Lexington/www.lexingtonma.gov/where/h" [1]
+2017-01-02 01:17:48 URL:http://www.lexingtonma.gov/where/i [27547] -> "../data/townSites2/Lexington/www.lexingtonma.gov/where/i" [1]
+2017-01-02 01:17:49 URL:http://www.lexingtonma.gov/where/j [27818] -> "../data/townSites2/Lexington/www.lexingtonma.gov/where/j" [1]
+2017-01-02 01:17:51 URL:http://www.lexingtonma.gov/where/l [28298] -> "../data/townSites2/Lexington/www.lexingtonma.gov/where/l" [1]
+2017-01-02 01:17:52 URL:http://www.lexingtonma.gov/where/m [28563] -> "../data/townSites2/Lexington/www.lexingtonma.gov/where/m" [1]
+2017-01-02 01:17:54 URL:http://www.lexingtonma.gov/where/n [27533] -> "../data/townSites2/Lexington/www.lexingtonma.gov/where/n" [1]
+2017-01-02 01:17:55 URL:http://www.lexingtonma.gov/where/o [27786] -> "../data/townSites2/Lexington/www.lexingtonma.gov/where/o" [1]
+2017-01-02 01:17:57 URL:http://www.lexingtonma.gov/where/p [28553] -> "../data/townSites2/Lexington/www.lexingtonma.gov/where/p" [1]
+2017-01-02 01:17:58 URL:http://www.lexingtonma.gov/where/r [27545] -> "../data/townSites2/Lexington/www.lexingtonma.gov/where/r" [1]
+2017-01-02 01:18:00 URL:http://www.lexingtonma.gov/where/s [28060] -> "../data/townSites2/Lexington/www.lexingtonma.gov/where/s" [1]
+2017-01-02 01:18:01 URL:http://www.lexingtonma.gov/where/t [30440] -> "../data/townSites2/Lexington/www.lexingtonma.gov/where/t" [1]
+2017-01-02 01:18:02 URL:http://www.lexingtonma.gov/where/u [27597] -> "../data/townSites2/Lexington/www.lexingtonma.gov/where/u" [1]
+2017-01-02 01:18:03 URL:http://www.lexingtonma.gov/where/v [27810] -> "../data/townSites2/Lexington/www.lexingtonma.gov/where/v" [1]
+2017-01-02 01:18:05 URL:http://www.lexingtonma.gov/where/w [28323] -> "../data/townSites2/Lexington/www.lexingtonma.gov/where/w" [1]
+2017-01-02 01:18:06 URL:http://www.lexingtonma.gov/where/y [27569] -> "../data/townSites2/Lexington/www.lexingtonma.gov/where/y" [1]
+2017-01-02 01:18:07 URL:http://www.lexingtonma.gov/assessor/pages/how-obtain-abutters-list-and-labels [32918] -> "../data/townSites2/Lexington/www.lexingtonma.gov/assessor/pages/how-obtain-abutters-list-and-labels" [1]
+2017-01-02 01:18:10 URL:http://www.lexingtonma.gov/alcoholic-beverage-licenses [30102] -> "../data/townSites2/Lexington/www.lexingtonma.gov/alcoholic-beverage-licenses/links/alcoholic-beverages-license-information" [1]
+2017-01-02 01:18:13 URL:http://www.lexingtonma.gov/police-progs-and-svcs/animal-control [29120] -> "../data/townSites2/Lexington/www.lexingtonma.gov/police-progs-and-svcs/animal-control" [1]
+2017-01-02 01:18:14 URL:http://www.lexingtonma.gov/assessor/pages/frequently-asked-questions-faqs [40055] -> "../data/townSites2/Lexington/www.lexingtonma.gov/assessor/pages/frequently-asked-questions-faqs" [1]
+2017-01-02 01:18:16 URL:http://www.lexingtonma.gov/town-clerk/pages/absentee-physically-disabled-and-specially-qualified-voting [34778] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-clerk/pages/absentee-physically-disabled-and-specially-qualified-voting" [1]
+2017-01-02 01:18:18 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/battlegreenapplicationandregs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:18:18 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/cac_complaint_procedure_110128.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:18:20 URL:http://www.lexingtonma.gov/home/pages/community-event-calendars [29129] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/pages/community-event-calendars" [1]
+2017-01-02 01:18:22 URL:http://www.lexingtonma.gov/police/webforms/infant-and-child-car-seat-inspection [34789/34789] -> "../data/townSites2/Lexington/www.lexingtonma.gov/police/webforms/infant-and-child-car-seat-inspection" [1]
+2017-01-02 01:18:24 URL:http://www.lexingtonma.gov/conservation/pages/community-gardens [35505] -> "../data/townSites2/Lexington/www.lexingtonma.gov/conservation/pages/community-gardens" [1]
+2017-01-02 01:18:25 URL:http://www.lexingtonma.gov/trash-collection/pages/lexington-compost-facility [33500] -> "../data/townSites2/Lexington/www.lexingtonma.gov/trash-collection/pages/lexington-compost-facility" [1]
+2017-01-02 01:18:27 URL:http://www.lexingtonma.gov/lexington-council-arts/pages/lexington-council-arts [27842] -> "../data/townSites2/Lexington/www.lexingtonma.gov/lexington-council-arts/pages/lexington-council-arts" [1]
+2017-01-02 01:18:28 URL:http://www.lexingtonma.gov/town-clerk/pages/election-results [32206] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-clerk/pages/election-results" [1]
+2017-01-02 01:18:29 URL:http://www.lexingtonma.gov/fire-department/emergency-management/pages/be-prepared-emergencies [30256] -> "../data/townSites2/Lexington/www.lexingtonma.gov/fire-department/emergency-management/pages/be-prepared-emergencies" [1]
+2017-01-02 01:18:30 URL:http://www.lexingtonma.gov/human-resources/pages/employment-town [32033] -> "../data/townSites2/Lexington/www.lexingtonma.gov/human-resources/pages/employment-town" [1]
+2017-01-02 01:18:33 URL:http://www.lexingtonma.gov/police/webforms/fingerprint-request [37342/37342] -> "../data/townSites2/Lexington/www.lexingtonma.gov/police/webforms/fingerprint-request" [1]
+2017-01-02 01:18:35 URL:http://www.lexingtonma.gov/Garage_YardSalePermitApplicationForm [43057/43057] -> "../data/townSites2/Lexington/www.lexingtonma.gov/Garage_YardSalePermitApplicationForm" [1]
+2017-01-02 01:18:36 URL:http://www.lexingtonma.gov/town-manager/pages/town-holidays [32278] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-manager/pages/town-holidays" [1]
+2017-01-02 01:18:38 URL:http://www.lexingtonma.gov/trash-collection/pages/minuteman-household-hazardous-products-regional-facility [41266] -> "../data/townSites2/Lexington/www.lexingtonma.gov/trash-collection/pages/minuteman-household-hazardous-products-regional-facility" [1]
+2017-01-02 01:18:40 URL:http://www.lexingtonma.gov/conservation/invasive-species [31687] -> "../data/townSites2/Lexington/www.lexingtonma.gov/conservation/links/invasive-species" [1]
+2017-01-02 01:18:41 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/lexingtonmaemploymentapplication-fillable-final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:18:44 URL:http://www.lexingtonma.gov/human-resources/pages/employment-town [32033] -> "../data/townSites2/Lexington/www.lexingtonma.gov/human-resources/links/jobs-town" [1]
+2017-01-02 01:18:45 URL:http://www.lexingtonma.gov/lexpress/pages/route-maps-schedules [33393] -> "../data/townSites2/Lexington/www.lexingtonma.gov/lexpress/pages/route-maps-schedules" [1]
+2017-01-02 01:18:47 URL:http://tracker.lexpress.us/ [18180/18180] -> "../data/townSites2/Lexington/www.lexingtonma.gov/lexpress/links/real-time-bus-tracker" [1]
+2017-01-02 01:18:49 URL:http://www.lexingtonma.gov/lexpress/pages/rider-information [34715] -> "../data/townSites2/Lexington/www.lexingtonma.gov/lexpress/pages/rider-information" [1]
+2017-01-02 01:18:52 URL:http://www.carylibrary.org/ [46527/46527] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/links/cary-memorial-library" [1]
+2017-01-02 01:18:53 URL:http://www.lexingtonma.gov/town-clerk/faq/how-do-i-apply-marriage-license [30221] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-clerk/faq/how-do-i-apply-marriage-license" [1]
+2017-01-02 01:18:55 URL:http://www.mass.gov/portal/ [66165] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/links/massgov-state-website" [1]
+2017-01-02 01:18:56 URL:http://www.lexingtonma.gov/public-health/pages/medical-waste-collection [34348] -> "../data/townSites2/Lexington/www.lexingtonma.gov/public-health/pages/medical-waste-collection" [1]
+2017-01-02 01:18:58 URL:http://www.lexingtonma.gov/public-health/pages/protect-yourself-mosquito-borne-diseases [36145] -> "../data/townSites2/Lexington/www.lexingtonma.gov/public-health/pages/protect-yourself-mosquito-borne-diseases" [1]
+2017-01-02 01:19:00 URL:http://www.lexingtonma.gov/information-visitors/pages/old-burying-ground [30225] -> "../data/townSites2/Lexington/www.lexingtonma.gov/information-visitors/pages/old-burying-ground" [1]
+2017-01-02 01:19:02 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/parkingappealformv2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:19:03 URL:http://www.lexingtonma.gov/patriots-day-lexington/pages/patriots-day-weekend-schedule-events%20 [47403] -> "../data/townSites2/Lexington/www.lexingtonma.gov/patriots-day-lexington/pages/patriots-day-weekend-schedule-events " [1]
+2017-01-02 01:19:05 URL:http://lps.lexingtonma.org/Page/1 [151496/151496] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/links/public-schools" [1]
+2017-01-02 01:19:06 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/currentrecycleflyer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:19:08 URL:http://www.lexingtonma.gov/highways-equipment-drains/pages/snow-ice-removal [32796] -> "../data/townSites2/Lexington/www.lexingtonma.gov/highways-equipment-drains/pages/snow-ice-removal" [1]
+2017-01-02 01:19:09 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/town_map_dsize_dec_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:19:10 URL:http://www.lexingtonma.gov/town-manager/pages/street-performer-information [31131] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-manager/pages/street-performer-information" [1]
+2017-01-02 01:19:11 URL:http://www.lexingtonma.gov/tax-collector-treasurer/pages/tax-rates-fy-17 [29870] -> "../data/townSites2/Lexington/www.lexingtonma.gov/tax-collector-treasurer/pages/tax-rates-fy-17" [1]
+2017-01-02 01:19:13 URL:http://www.lexingtonma.gov/assessor/pages/fy2017-tax-rates [29762] -> "../data/townSites2/Lexington/www.lexingtonma.gov/assessor/pages/fy2017-tax-rates" [1]
+2017-01-02 01:19:14 URL:http://www.lexingtonma.gov/town-clerk/pages/about-town-meeting [35631] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-clerk/pages/about-town-meeting" [1]
+2017-01-02 01:19:16 URL:http://www.lexingtonma.gov/town-meeting/pages/2016-annual-special-town-meetings [36175] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-meeting/pages/2016-annual-special-town-meetings" [1]
+2017-01-02 01:19:16 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/acrosslexingtonbrochure.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:19:18 URL:http://www.lexingtonma.gov/transportation-safety-group/pages/transportation-safety-requests [28644] -> "../data/townSites2/Lexington/www.lexingtonma.gov/transportation-safety-group/pages/transportation-safety-requests" [1]
+2017-01-02 01:19:19 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/trashcollectionschedule.jpg 200 OK
+unlink: No such file or directory
+2017-01-02 01:19:20 URL:http://www.lexingtonma.gov/tree-program [32172] -> "../data/townSites2/Lexington/www.lexingtonma.gov/tree-program" [1]
+2017-01-02 01:19:21 URL:http://www.lexingtonma.gov/board-selectmen/pages/volunteer-opportunities-town [35748] -> "../data/townSites2/Lexington/www.lexingtonma.gov/board-selectmen/pages/volunteer-opportunities-town" [1]
+2017-01-02 01:19:22 URL:http://www.lexingtonma.gov/town-clerk/pages/elections-voting [35425] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-clerk/links/voting-elections" [1]
+2017-01-02 01:19:24 URL:http://www.lexingtonma.gov/water-and-sewer/pages/abatements-and-adjustments [30718] -> "../data/townSites2/Lexington/www.lexingtonma.gov/water-and-sewer/pages/abatements-and-adjustments" [1]
+2017-01-02 01:19:25 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/fy17water-sewerrates.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:19:27 URL:http://www.lexingtonma.gov/contact-the-webmaster [28850/28850] -> "../data/townSites2/Lexington/www.lexingtonma.gov/contact-the-webmaster" [1]
+2017-01-02 01:19:29 URL:http://www.lexingtonma.gov/cemetery [34998] -> "../data/townSites2/Lexington/www.lexingtonma.gov/public-grounds-division/links/cemetery-rates-fees-regulations" [1]
+2017-01-02 01:19:31 URL:http://www.lexingtonma.gov/trash-collection/pages/yard-waste-and-composting [31968] -> "../data/townSites2/Lexington/www.lexingtonma.gov/trash-collection/pages/yard-waste-and-composting" [1]
+2017-01-02 01:19:31 URL:http://www.lexingtonma.gov/home/pages/town-government [27726] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/1926" [1]
+2017-01-02 01:19:33 URL:http://www.lexingtonma.gov/print/1926 [7394] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/1926" [1]
+2017-01-02 01:19:34 URL:http://www.lexingtonma.gov/budget [31589] -> "../data/townSites2/Lexington/www.lexingtonma.gov/budget" [1]
+2017-01-02 01:19:36 URL:http://www.lexingtonma.gov/town-clerk/pages/about-town-meeting [35631] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-clerk/pages/town-meeting" [1]
+2017-01-02 01:19:37 URL:http://www.lexingtonma.gov/town-manager/pages/town-holidays [32278] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-manager/pages/town-holidays-2016" [1]
+2017-01-02 01:19:39 URL:http://www.lexingtonma.gov/human-resources/pages/employment-town [32033] -> "../data/townSites2/Lexington/www.lexingtonma.gov/human-resources/pages/employment-town-0" [1]
+2017-01-02 01:19:40 URL:http://www.lexingtonma.gov/town-meeting [28942] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/16146" [1]
+2017-01-02 01:19:42 URL:http://www.lexingtonma.gov/print/16146 [6805] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/16146" [1]
+2017-01-02 01:19:43 URL:http://www.lexingtonma.gov/town-meeting/pages/2016-annual-special-town-meetings [36175] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-meeting/pages/march-2016-annual-town-meeting" [1]
+2017-01-02 01:19:45 URL:http://www.lexingtonma.gov/town-meeting/pages/novemberdecember-2015-special-town-meetings [28095] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-meeting/pages/novemberdecember-2015-special-town-meetings" [1]
+2017-01-02 01:19:47 URL:http://www.lexingtonma.gov/town-meeting/pages/2015-annual-town-meeting [27615] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-meeting/pages/2015-annual-town-meeting" [1]
+2017-01-02 01:19:49 URL:http://www.lexingtonma.gov/town-meeting/pages/2014-town-meetings [28703] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-meeting/pages/2014-town-meetings" [1]
+2017-01-02 01:19:51 URL: http://www.lexingtonma.gov/node/16146/feed 200 OK
+unlink: No such file or directory
+2017-01-02 01:19:53 URL:http://www.lexingtonma.gov/town-clerk/pages/about-town-meeting [35631] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-meeting/links/about-town-meeting" [1]
+2017-01-02 01:19:56 URL:http://records.lexingtonma.gov/weblink8/browse.aspx?dbid=0 [29450/29450] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-meeting/links/annual-town-reports" [1]
+2017-01-02 01:19:59 URL:http://www.lexingtontmma.org/pmwiki.php?n=Composite.HomePage [20412] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-meeting/links/town-meeting-members-association" [1]
+2017-01-02 01:20:00 URL:http://www.lexingtonma.gov/board-selectmen [45820] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/4806" [1]
+2017-01-02 01:20:01 URL:http://www.lexingtonma.gov/print/4806 [9652] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/4806" [1]
+2017-01-02 01:20:03 URL:http://www.lexingtonma.gov/user/18473/contact [28744] -> "../data/townSites2/Lexington/www.lexingtonma.gov/user/18473/contact" [1]
+2017-01-02 01:20:04 URL: http://www.lexingtonma.gov/node/4806/feed 200 OK
+unlink: No such file or directory
+2017-01-02 01:20:08 URL:http://records.lexingtonma.gov/weblink8/0/fol/601/Row1.aspx [27459/27459] -> "../data/townSites2/Lexington/www.lexingtonma.gov/board-selectmen/links/meeting-minutes" [1]
+2017-01-02 01:20:12 URL:http://records.lexingtonma.gov/weblink8/browse.aspx?dbid=0 [29450/29450] -> "../data/townSites2/Lexington/www.lexingtonma.gov/board-selectmen/links/annual-town-reports" [1]
+2017-01-02 01:20:16 URL:http://www.lexingtonma.gov/battle-green [42309] -> "../data/townSites2/Lexington/www.lexingtonma.gov/board-selectmen/links/battle-green" [1]
+2017-01-02 01:20:19 URL:http://www.lexingtonma.gov/board-selectmen-licenses-permits [30336] -> "../data/townSites2/Lexington/www.lexingtonma.gov/board-selectmen/links/licenses-permits" [1]
+2017-01-02 01:20:21 URL:http://lexington.novusagenda.com/agendapublic/ [140577/140577] -> "../data/townSites2/Lexington/www.lexingtonma.gov/board-selectmen/links/selectmen-meeting-packets" [1]
+2017-01-02 01:20:24 URL:http://records.lexingtonma.gov/weblink8/0/fol/210590/Row1.aspx [49058/49058] -> "../data/townSites2/Lexington/www.lexingtonma.gov/board-selectmen/links/selectmen-procedures-policies-and-regulations" [1]
+2017-01-02 01:20:25 URL:http://ecode360.com/LE1818 [37436] -> "../data/townSites2/Lexington/www.lexingtonma.gov/board-selectmen/links/town-bylaws" [1]
+2017-01-02 01:20:29 URL:http://records.lexingtonma.gov/weblink8/0/fol/76496/Row1.aspx [48523/48523] -> "../data/townSites2/Lexington/www.lexingtonma.gov/board-selectmen/links/warrants" [1]
+2017-01-02 01:20:30 URL:http://www.lexingtonma.gov/node/4806/news [26145] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/4806/news" [1]
+2017-01-02 01:20:32 URL:http://www.lexingtonma.gov/board-selectmen/news/upcoming-meeting-dates [30254] -> "../data/townSites2/Lexington/www.lexingtonma.gov/board-selectmen/news/upcoming-meeting-dates" [1]
+2017-01-02 01:20:33 URL:http://www.lexingtonma.gov/node/4806/events/month [45920] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/4806/events/month" [1]
+2017-01-02 01:20:35 URL:http://www.lexingtonma.gov/node/4806/events/month/2017-01 [45969] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/4806/events/month/2017-01" [1]
+2017-01-02 01:20:36 URL:http://www.lexingtonma.gov/home/pages/online-services [31532] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/7256" [1]
+2017-01-02 01:20:37 URL:http://www.lexingtonma.gov/print/7256 [11141] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/7256" [1]
+2017-01-02 01:20:40 URL:http://www.lexingtonma.gov/transportation-safety-group/webforms/transportation-safety-request [32190/32190] -> "../data/townSites2/Lexington/www.lexingtonma.gov/transportation-safety-group/files/transportation-safety-requests" [1]
+2017-01-02 01:20:41 URL:http://www.lexingtonma.gov/home/pages/building-zoning [27061] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/1941" [1]
+2017-01-02 01:20:41 URL:http://www.lexingtonma.gov/print/1941 [6745] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/1941" [1]
+2017-01-02 01:20:42 URL:http://www.lexingtonma.gov/building-department/pages/residential-building-permits [30610] -> "../data/townSites2/Lexington/www.lexingtonma.gov/building-department/pages/residential-building-permits" [1]
+2017-01-02 01:20:43 URL:http://www.lexingtonma.gov/building-department/pages/commercial-building-permits [30785] -> "../data/townSites2/Lexington/www.lexingtonma.gov/building-department/pages/commercial-building-permits" [1]
+2017-01-02 01:20:44 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/pages/zoning_bylaw_2015_atm.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:20:44 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/pages/2015_08_zoning_map_no_street_index.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:20:45 URL:http://www.lexingtonma.gov/building-department/pages/permits [31007] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/9111" [1]
+2017-01-02 01:20:46 URL:http://www.lexingtonma.gov/print/9111 [7257] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/9111" [1]
+2017-01-02 01:20:47 URL:http://www.lexingtonma.gov/building-department/pages/building-permit-activity [33418] -> "../data/townSites2/Lexington/www.lexingtonma.gov/building-department/pages/building-permit-activity" [1]
+2017-01-02 01:20:48 URL:http://www.lexingtonma.gov/building-department/pages/fees [30004] -> "../data/townSites2/Lexington/www.lexingtonma.gov/building-department/pages/fees" [1]
+2017-01-02 01:20:50 URL:https://lexingtonma.mapgeo.io/?latlng=42.448081%2C-71.225088&zoom=13 [26216/26216] -> "../data/townSites2/Lexington/www.lexingtonma.gov/building-department/links/interactive-gis" [1]
+2017-01-02 01:20:52 URL:http://www.lexingtonma.gov/building-department/pages/links [30370] -> "../data/townSites2/Lexington/www.lexingtonma.gov/building-department/pages/links" [1]
+2017-01-02 01:20:54 URL:http://www.lexingtonma.gov/planning-office/pages/residential-gross-floor-area [32352] -> "../data/townSites2/Lexington/www.lexingtonma.gov/building-department/links/residential-gross-floor-area" [1]
+2017-01-02 01:20:56 URL:http://www.lexingtonma.gov/zoning [33775] -> "../data/townSites2/Lexington/www.lexingtonma.gov/building-department/links/zoning" [1]
+2017-01-02 01:20:57 URL:http://www.lexingtonma.gov/zoning-board-appeals [37860] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/5621" [1]
+2017-01-02 01:20:59 URL:http://www.lexingtonma.gov/zoning-board-appeals/urgent-alerts/zoning-department-will-be-closed-december-22-2016-11am-2pm [29809] -> "../data/townSites2/Lexington/www.lexingtonma.gov/zoning-board-appeals/urgent-alerts/zoning-department-will-be-closed-december-22-2016-11am-2pm" [1]
+2017-01-02 01:21:00 URL:http://www.lexingtonma.gov/print/5621 [10527] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/5621" [1]
+http://www.lexingtonma.gov/committees/charges/boardofappeals.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:21:03 URL:http://www.lexingtonma.gov/user/17113/contact [28742] -> "../data/townSites2/Lexington/www.lexingtonma.gov/user/17113/contact" [1]
+2017-01-02 01:21:05 URL:http://www.lexingtonma.gov/user/16206/contact [28736] -> "../data/townSites2/Lexington/www.lexingtonma.gov/user/16206/contact" [1]
+2017-01-02 01:21:06 URL: http://www.lexingtonma.gov/node/5621/feed 200 OK
+unlink: No such file or directory
+2017-01-02 01:21:07 URL:http://records.lexingtonma.gov/weblink8/browse.aspx?dbid=0&startid=12488 [27758/27758] -> "../data/townSites2/Lexington/www.lexingtonma.gov/zoning-board-appeals/links/annual-town-reports" [1]
+2017-01-02 01:21:09 URL:http://records.lexingtonma.gov/weblink8/browse.aspx?dbid=0&startid=115 [27365/27365] -> "../data/townSites2/Lexington/www.lexingtonma.gov/zoning-board-appeals/links/board-meeting-minutes" [1]
+2017-01-02 01:21:10 URL:http://www.lexingtonma.gov/zoning [33775] -> "../data/townSites2/Lexington/www.lexingtonma.gov/zoning-board-appeals/links/building-and-zoning-division" [1]
+2017-01-02 01:21:12 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/zba_calendar_2016_for_wall.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:21:13 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/zba_application_2016_for_distribution.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:21:14 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/zba_calendar_2017_for_wall.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:21:14 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/zba_general_process.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:21:16 URL:http://www.ecode360.com/10531595 [33376] -> "../data/townSites2/Lexington/www.lexingtonma.gov/zoning-board-appeals/links/zoning-board-appeals-regulations" [1]
+2017-01-02 01:21:17 URL:http://www.lexingtonma.gov/home/pages/recreation-programs [26893] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/1931" [1]
+2017-01-02 01:21:18 URL:http://www.lexingtonma.gov/print/1931 [6578] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/1931" [1]
+2017-01-02 01:21:20 URL:http://www.lexingtonma.gov/adult-programs [29137] -> "../data/townSites2/Lexington/www.lexingtonma.gov/adult-programs" [1]
+2017-01-02 01:21:22 URL:http://www.lexingtonma.gov/pre-school-youth-and-teen-activities [30822] -> "../data/townSites2/Lexington/www.lexingtonma.gov/pre-school-youth-and-teen-activities" [1]
+2017-01-02 01:21:23 URL:http://www.lexingtonma.gov/public-health [52609] -> "../data/townSites2/Lexington/www.lexingtonma.gov/health" [1]
+2017-01-02 01:21:24 URL:http://www.lexingtonma.gov/recreation-and-community-programs [50802] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/2761" [1]
+2017-01-02 01:21:25 URL:http://www.lexingtonma.gov/print/2761 [10518] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/2761" [1]
+2017-01-02 01:21:26 URL: http://www.lexingtonma.gov/node/2761/feed 200 OK
+unlink: No such file or directory
+2017-01-02 01:21:27 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/winter_2017_2_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:21:28 URL:http://www.lexingtonma.gov/adult-programs [29137] -> "../data/townSites2/Lexington/www.lexingtonma.gov/recreation-and-community-programs/links/adult-programs" [1]
+2017-01-02 01:21:30 URL:http://www.lexingtonma.gov/recreation-and-community-programs/aquatics [31340] -> "../data/townSites2/Lexington/www.lexingtonma.gov/recreation-and-community-programs/links/aquatics" [1]
+2017-01-02 01:21:33 URL:http://www.lexingtonma.gov/recreation-and-community-programs/webforms/contact-us [33642/33642] -> "../data/townSites2/Lexington/www.lexingtonma.gov/recreation-and-community-programs/webforms/contact-us" [1]
+2017-01-02 01:21:35 URL:http://www.lexingtonma.gov/recreation-and-community-programs/files/disc-golf-course-bridge-school-new [33224] -> "../data/townSites2/Lexington/www.lexingtonma.gov/recreation-and-community-programs/files/disc-golf-course-bridge-school-new" [1]
+2017-01-02 01:21:38 URL:http://www.lexingtonma.gov/field-reservations [31500] -> "../data/townSites2/Lexington/www.lexingtonma.gov/recreation-and-community-programs/links/field-reservations" [1]
+2017-01-02 01:21:40 URL:https://skatelexington.com/ [57332] -> "../data/townSites2/Lexington/www.lexingtonma.gov/recreation-and-community-programs/links/fletcher-park-ice-rink" [1]
+2017-01-02 01:21:42 URL:http://www.lexingtonma.gov/recreation-and-community-programs/pages/frequently-asked-questions [32989] -> "../data/townSites2/Lexington/www.lexingtonma.gov/recreation-and-community-programs/pages/frequently-asked-questions" [1]
+2017-01-02 01:21:44 URL:http://www.lexingtonma.gov/general-program-and-registration-information [33343] -> "../data/townSites2/Lexington/www.lexingtonma.gov/recreation-and-community-programs/links/general-program-and-registration-information" [1]
+2017-01-02 01:21:46 URL:http://www.lexingtonma.gov/golf [32182] -> "../data/townSites2/Lexington/www.lexingtonma.gov/recreation-and-community-programs/links/golf" [1]
+2017-01-02 01:21:49 URL:http://www.lexingtonma.gov/recreation-and-community-programs/jobs-and-volunteering [30909] -> "../data/townSites2/Lexington/www.lexingtonma.gov/recreation-and-community-programs/links/jobs-and-volunteering" [1]
+2017-01-02 01:21:51 URL:http://www.lexingtonma.gov/community-center [46537] -> "../data/townSites2/Lexington/www.lexingtonma.gov/recreation-and-community-programs/links/lexington-community-center" [1]
+2017-01-02 01:21:51 URL:http://www.lexingtonma.gov/recreation-and-community-programs/pages/local-sports-recreation-organizations [33396] -> "../data/townSites2/Lexington/www.lexingtonma.gov/recreation-and-community-programs/pages/local-sports-recreation-organizations" [1]
+2017-01-02 01:21:53 URL:http://www.lexingtonma.gov/recreation-and-community-programs/parks-playgrounds-fields [36844] -> "../data/townSites2/Lexington/www.lexingtonma.gov/recreation-and-community-programs/links/parks-playgrounds-and-fields" [1]
+2017-01-02 01:21:54 URL:http://www.lexingtonma.gov/pre-school-youth-and-teen-activities [30822] -> "../data/townSites2/Lexington/www.lexingtonma.gov/recreation-and-community-programs/links/pre-school-youth-and-teen-activities" [1]
+2017-01-02 01:21:55 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/lexington_2014-2016_strategic_plan_final_report_2-20-2014_2_cover_contents_revised4_9_141.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:21:58 URL:http://www.lexingtonma.gov/recreation-and-community-programs/tennis [31213] -> "../data/townSites2/Lexington/www.lexingtonma.gov/recreation-and-community-programs/links/tennis" [1]
+2017-01-02 01:21:59 URL:http://www.lexingtonma.gov/node/2761/news [27836] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/2761/news" [1]
+2017-01-02 01:22:01 URL:http://www.lexingtonma.gov/recreation-and-community-programs/news/fletcher-park-skating-rink-under-construction [31697] -> "../data/townSites2/Lexington/www.lexingtonma.gov/recreation-and-community-programs/news/fletcher-park-skating-rink-under-construction" [1]
+2017-01-02 01:22:03 URL:http://www.lexingtonma.gov/node/2761/events/month [47522] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/2761/events/month" [1]
+2017-01-02 01:22:05 URL:http://www.lexingtonma.gov/node/2761/events/month/2017-01 [47571] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/2761/events/month/2017-01" [1]
+2017-01-02 01:22:06 URL:http://www.lexingtonma.gov/community-center [46537] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/451" [1]
+2017-01-02 01:22:07 URL:http://www.lexingtonma.gov/print/451 [9898] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/451" [1]
+2017-01-02 01:22:09 URL: http://www.lexingtonma.gov/node/451/feed 200 OK
+unlink: No such file or directory
+2017-01-02 01:22:10 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/winter_2017_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:22:11 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/membership_cards_and_fees_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:22:12 URL:http://www.lexingtonma.gov/lexington-community-center/pages/community-center-update [32093] -> "../data/townSites2/Lexington/www.lexingtonma.gov/lexington-community-center/pages/community-center-update" [1]
+2017-01-02 01:22:14 URL:http://www.lexingtonma.gov/lexington-community-center/slideshows/grand-opening-slideshow [35241] -> "../data/townSites2/Lexington/www.lexingtonma.gov/lexington-community-center/slideshows/grand-opening-slideshow" [1]
+2017-01-02 01:22:16 URL:http://www.lexingtonma.gov/human-services [31747] -> "../data/townSites2/Lexington/www.lexingtonma.gov/community-center/links/human-services-department" [1]
+2017-01-02 01:22:18 URL:http://www.lexingtonma.gov/lexington-community-center/slideshows/photo-gallery [29489] -> "../data/townSites2/Lexington/www.lexingtonma.gov/lexington-community-center/slideshows/photo-gallery" [1]
+2017-01-02 01:22:19 URL:http://www.lexingtonma.gov/recreation-and-community-programs [50802] -> "../data/townSites2/Lexington/www.lexingtonma.gov/community-center/links/recreation-community-programs-department" [1]
+2017-01-02 01:22:21 URL:http://www.lexingtonma.gov/community-center/slideshows/winter-2017-youth-family-programs-lexington-community-center [35435] -> "../data/townSites2/Lexington/www.lexingtonma.gov/community-center/slideshows/winter-2017-youth-family-programs-lexington-community-center" [1]
+2017-01-02 01:22:22 URL:http://www.lexingtonma.gov/node/451/news [27423] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/451/news" [1]
+2017-01-02 01:22:24 URL:http://www.lexingtonma.gov/community-center/news/holiday-hours-closings [30328] -> "../data/townSites2/Lexington/www.lexingtonma.gov/community-center/news/holiday-hours-closings" [1]
+2017-01-02 01:22:26 URL:http://www.lexingtonma.gov/community-center/news/winter-2017-program-registration-open [30711] -> "../data/townSites2/Lexington/www.lexingtonma.gov/community-center/news/winter-2017-program-registration-open" [1]
+2017-01-02 01:22:27 URL:http://www.lexingtonma.gov/node/451/events/month [46036] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/451/events/month" [1]
+2017-01-02 01:22:29 URL:http://www.lexingtonma.gov/node/451/events/month/2017-01 [46085] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/451/events/month/2017-01" [1]
+2017-01-02 01:22:30 URL:http://www.lexingtonma.gov/human-services [31747] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/3181" [1]
+2017-01-02 01:22:31 URL:http://www.lexingtonma.gov/print/3181 [9019] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/3181" [1]
+2017-01-02 01:22:32 URL:http://www.lexingtonma.gov/human-services/senior-services [38529] -> "../data/townSites2/Lexington/www.lexingtonma.gov/senior-services" [1]
+2017-01-02 01:22:33 URL:http://www.lexingtonma.gov/youth-and-family-services [43943] -> "../data/townSites2/Lexington/www.lexingtonma.gov/human-services/links/youth-family-services" [1]
+2017-01-02 01:22:35 URL:http://www.lexingtonma.gov/veterans-services [33659] -> "../data/townSites2/Lexington/www.lexingtonma.gov/human-services/links/veterans-services" [1]
+2017-01-02 01:22:36 URL:http://www.lexingtonma.gov/transportation-services [36749] -> "../data/townSites2/Lexington/www.lexingtonma.gov/human-services/links/transportation-services" [1]
+2017-01-02 01:22:37 URL: http://www.lexingtonma.gov/node/3181/feed 200 OK
+unlink: No such file or directory
+2017-01-02 01:22:38 URL:http://www.lexingtonma.gov/home/pages/permits-licenses [27985] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/1951" [1]
+2017-01-02 01:22:39 URL:http://www.lexingtonma.gov/print/1951 [7666] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/1951" [1]
+2017-01-02 01:22:39 URL:http://www.lexingtonma.gov/public-health/pages/public-health-permit-applications [34130] -> "../data/townSites2/Lexington/www.lexingtonma.gov/public-health/pages/public-health-permit-applications" [1]
+2017-01-02 01:22:41 URL:http://www.lexingtonma.gov/town-manager/pages/special-event-guidelines-permits [30478] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-manager/pages/special-event-guidelines-permits" [1]
+2017-01-02 01:22:41 URL:http://www.lexingtonma.gov/field-reservations [31500] -> "../data/townSites2/Lexington/www.lexingtonma.gov/field-reservations" [1]
+2017-01-02 01:22:44 URL:http://www.lexingtonma.gov/fire/webforms/burn-permits [32820] -> "../data/townSites2/Lexington/www.lexingtonma.gov/fire-department/webforms/burn-permits" [1]
+2017-01-02 01:22:46 URL:http://www.lexingtonma.gov/engineering/pages/engineering-permit-applications-and-requirements [34344] -> "../data/townSites2/Lexington/www.lexingtonma.gov/engineering/pages/engineering-permit-applications-and-requirements" [1]
+2017-01-02 01:22:46 URL:http://www.lexingtonma.gov/alcoholic-beverage-licenses [30102] -> "../data/townSites2/Lexington/www.lexingtonma.gov/alcoholic-beverage-licenses.1" [1]
+2017-01-02 01:22:49 URL:http://www.lexingtonma.gov/user/login?destination=node/10941 [26010] -> "../data/townSites2/Lexington/www.lexingtonma.gov/board-selectmen/pages/application-garage-yard-sale-permit" [1]
+2017-01-02 01:22:50 URL:http://www.lexingtonma.gov/town-clerk/pages/licensing-permits [36358] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/8586" [1]
+2017-01-02 01:22:51 URL:http://www.lexingtonma.gov/print/8586 [12448] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/8586" [1]
+2017-01-02 01:22:52 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/2015buscertappandcoverltrweb.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:22:53 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/2016_dog_invoice-counter_0.doc 200 OK
+unlink: No such file or directory
+2017-01-02 01:22:55 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/flammable.qa_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:22:55 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/raffle_questionnaire.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:22:56 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/application_-_raffle_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:22:58 URL:http://www.lexingtonma.gov/town-clerk/pages/census-and-resident-information [33062] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-clerk/pages/census-and-resident-information" [1]
+2017-01-02 01:22:59 URL:http://www.lexingtonma.gov/town-clerk/pages/elected-town-officials [47849] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-clerk/pages/elected-town-officials" [1]
+2017-01-02 01:23:00 URL:http://www.lexingtonma.gov/town-clerk/pages/information-committee-members [33188] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-clerk/pages/information-committee-members" [1]
+2017-01-02 01:23:02 URL:http://www.lexingtonma.gov/town-clerk/pages/public-records-and-public-meetings [30798] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-clerk/pages/public-records-and-public-meetings" [1]
+2017-01-02 01:23:03 URL:http://www.lexingtonma.gov/town-clerk/pages/records-and-information-repository [34720] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-clerk/pages/records-and-information-repository" [1]
+2017-01-02 01:23:05 URL:http://www.lexingtonma.gov/town-clerk/pages/vital-records [37628] -> "../data/townSites2/Lexington/www.lexingtonma.gov/town-clerk/pages/vital-records" [1]
+2017-01-02 01:23:06 URL:http://www.lexingtonma.gov/about-lpd/pages/firearms-licensing [28796] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/2516" [1]
+2017-01-02 01:23:07 URL:http://www.lexingtonma.gov/print/2516 [7276] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/2516" [1]
+2017-01-02 01:23:08 URL:http://www.lexingtonma.gov/about-lpd [30549] -> "../data/townSites2/Lexington/www.lexingtonma.gov/about-lpd.1" [1]
+2017-01-02 01:23:10 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/firearmslicenseapplicationprocedure.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:23:11 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/disqual.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:23:13 URL:http://www.lexingtonma.gov/about-lpd/pages/employment-lexington-police-department [28372] -> "../data/townSites2/Lexington/www.lexingtonma.gov/about-lpd/pages/employment-lexington-police-department" [1]
+2017-01-02 01:23:14 URL:http://www.lexingtonma.gov/about-lpd/pages/permits-forms-and-documents [30382] -> "../data/townSites2/Lexington/www.lexingtonma.gov/about-lpd/pages/permits-forms-and-documents" [1]
+2017-01-02 01:23:16 URL:http://www.lexingtonma.gov/police [42725] -> "../data/townSites2/Lexington/www.lexingtonma.gov/about-lpd/links/police-department" [1]
+2017-01-02 01:23:19 URL:http://www.lexingtonma.gov/police-progs-and-svcs [33270] -> "../data/townSites2/Lexington/www.lexingtonma.gov/about-lpd/links/programs-services" [1]
+2017-01-02 01:23:20 URL:http://www.lexingtonma.gov/home/pages/town-services [27766] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/1936" [1]
+2017-01-02 01:23:21 URL:http://www.lexingtonma.gov/print/1936 [7439] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/1936" [1]
+http://www.lexingtonma.gov/smoke-carbon-monoxide-detector-regulations:
+Remote file does not exist -- broken link!!!
+http://www.lexingtonma.gov/sewer-connectionabandonment:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:23:24 URL:http://www.lexingtonma.gov/fire-department [37664] -> "../data/townSites2/Lexington/www.lexingtonma.gov/fire" [1]
+2017-01-02 01:23:26 URL:http://www.lexingtonma.gov/police-department-programs-and-services/pages/child-safety-seat-installation [30430] -> "../data/townSites2/Lexington/www.lexingtonma.gov/police/links/infant-child-car-seat-inspection" [1]
+2017-01-02 01:23:27 URL:http://www.lexingtonma.gov/facility-rental [30273] -> "../data/townSites2/Lexington/www.lexingtonma.gov/facility-rental" [1]
+2017-01-02 01:23:29 URL:http://www.lexingtonma.gov/highways-equipment-drains/pages/snow-ice-removal [32796] -> "../data/townSites2/Lexington/www.lexingtonma.gov/highways-equipment-drains/pages/snow-ice" [1]
+2017-01-02 01:23:30 URL:http://www.lexingtonma.gov/trash-collection/pages/curbside-trash-collection [33809] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/1676" [1]
+2017-01-02 01:23:31 URL:http://www.lexingtonma.gov/print/1676 [11153] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/1676" [1]
+2017-01-02 01:23:31 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/lex_recycle_flyer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:23:33 URL:http://www.lexingtonma.gov/about-department-public-works/pages/holidays-affecting-town-services [30571] -> "../data/townSites2/Lexington/www.lexingtonma.gov/about-department-public-works/pages/holidays-affecting-town-services" [1]
+2017-01-02 01:23:35 URL:http://www.lexingtonma.gov/trash-collection/pages/watching-your-waste [31325] -> "../data/townSites2/Lexington/www.lexingtonma.gov/trash-collection/pages/watching-your-waste" [1]
+2017-01-02 01:23:37 URL:http://www.lexingtonma.gov/trash-collection/pages/donate-dont-dispose [37088] -> "../data/townSites2/Lexington/www.lexingtonma.gov/trash-collection/pages/donate-dont-dispose" [1]
+2017-01-02 01:23:38 URL:http://www.lexingtonma.gov/trash-collection/pages/holidays-trashrecycling-collection-compost-center [29634] -> "../data/townSites2/Lexington/www.lexingtonma.gov/trash-collection/pages/holidays-trashrecycling-collection-compost-center" [1]
+2017-01-02 01:23:39 URL:http://www.lexingtonma.gov/trash-collection/pages/how-can-i-get-rid [44256] -> "../data/townSites2/Lexington/www.lexingtonma.gov/trash-collection/pages/how-can-i-get-rid" [1]
+2017-01-02 01:23:41 URL:http://www.lexingtonma.gov/trash-collection/pages/minuteman-household-hazardous-products-regional-facility [41266] -> "../data/townSites2/Lexington/www.lexingtonma.gov/trash-collection/links/minuteman-household-hazardous-products-regional-facility" [1]
+2017-01-02 01:23:42 URL:http://www.lexingtonma.gov/trash-collection/pages/recycling-lexington [35457] -> "../data/townSites2/Lexington/www.lexingtonma.gov/trash-collection/pages/recycling-lexington" [1]
+2017-01-02 01:23:44 URL:http://www.lexingtonma.gov/trash-collection/pages/trash-recycling-collection-schedule-street [51697] -> "../data/townSites2/Lexington/www.lexingtonma.gov/trash-collection/pages/trash-recycling-collection-schedule-street" [1]
+2017-01-02 01:23:45 URL:http://www.lexingtonma.gov/lexpress [35898] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/426" [1]
+2017-01-02 01:23:46 URL:http://www.lexingtonma.gov/print/426 [9792] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/426" [1]
+2017-01-02 01:23:47 URL:http://www.lexingtonma.gov/lexpress/pages/route-maps-schedules [33393] -> "../data/townSites2/Lexington/www.lexingtonma.gov/lexpress/pages/map-schedule" [1]
+2017-01-02 01:23:49 URL:http://www.lexingtonma.gov/lexpress/pages/passes-and-fares [36966] -> "../data/townSites2/Lexington/www.lexingtonma.gov/lexpress/pages/passes-and-fares" [1]
+2017-01-02 01:23:50 URL: http://www.lexingtonma.gov/node/426/feed 200 OK
+unlink: No such file or directory
+2017-01-02 01:23:51 URL:http://www.lexingtonma.gov/transportation-services [36749] -> "../data/townSites2/Lexington/www.lexingtonma.gov/lexpress/links/additional-transportation-services" [1]
+2017-01-02 01:23:54 URL:http://www.lexingtonma.gov/lexpress/webforms/contact-us [31697/31697] -> "../data/townSites2/Lexington/www.lexingtonma.gov/lexpress/webforms/contact-us" [1]
+2017-01-02 01:23:55 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/fy17_lexpress_schedule_final_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:23:56 URL:http://www.lexingtonma.gov/node/426/news [26192] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/426/news" [1]
+2017-01-02 01:23:57 URL:http://www.lexingtonma.gov/lexpress/news/lexpress-winter-weather-information [29796] -> "../data/townSites2/Lexington/www.lexingtonma.gov/lexpress/news/lexpress-winter-weather-information" [1]
+2017-01-02 01:23:59 URL:http://www.lexingtonma.gov/lexpress/news/holiday-service-hours [29572] -> "../data/townSites2/Lexington/www.lexingtonma.gov/lexpress/news/holiday-service-hours" [1]
+2017-01-02 01:24:00 URL:http://www.lexingtonma.gov/police [42725] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/601" [1]
+2017-01-02 01:24:01 URL:http://www.lexingtonma.gov/print/601 [11225] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/601" [1]
+2017-01-02 01:24:03 URL:http://www.lexingtonma.gov/police-progs-and-svcs [33270] -> "../data/townSites2/Lexington/www.lexingtonma.gov/police-department-programs-and-services-dept-page" [1]
+2017-01-02 01:24:04 URL:http://www.lexingtonma.gov/codered-emergency-notification-system [34992] -> "../data/townSites2/Lexington/www.lexingtonma.gov/codered®-emergency-notification-system" [1]
+2017-01-02 01:24:06 URL: http://www.lexingtonma.gov/node/601/feed 200 OK
+unlink: No such file or directory
+2017-01-02 01:24:08 URL:http://www.lexingtonma.gov/police/webforms/contact-us [33819/33819] -> "../data/townSites2/Lexington/www.lexingtonma.gov/police/webforms/contact-us" [1]
+2017-01-02 01:24:10 URL:http://www.lexingtonma.gov/police/pages/police-accreditation-assessment [31518] -> "../data/townSites2/Lexington/www.lexingtonma.gov/police/pages/police-accreditation-assessment" [1]
+2017-01-02 01:24:11 URL:http://www.lexingtonma.gov/police/pages/policies-and-procedures [33140] -> "../data/townSites2/Lexington/www.lexingtonma.gov/police/pages/policies-and-procedures" [1]
+2017-01-02 01:24:13 URL:http://www.lexingtonma.gov/police-progs-and-svcs [33270] -> "../data/townSites2/Lexington/www.lexingtonma.gov/police/links/programs-and-services" [1]
+2017-01-02 01:24:15 URL:http://www.lexingtonma.gov/police/pages/read-blotter-our-quarterly-column [31825] -> "../data/townSites2/Lexington/www.lexingtonma.gov/police/pages/read-blotter-our-quarterly-column" [1]
+2017-01-02 01:24:16 URL:http://www.lexingtonma.gov/transportation-safety-group [30432] -> "../data/townSites2/Lexington/www.lexingtonma.gov/police/links/transportation-safety-group" [1]
+2017-01-02 01:24:18 URL:http://www.lexingtonma.gov/user/151/contact [28706] -> "../data/townSites2/Lexington/www.lexingtonma.gov/user/151/contact" [1]
+2017-01-02 01:24:19 URL:http://www.lexingtonma.gov/node/601/news [26675] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/601/news" [1]
+2017-01-02 01:24:21 URL:http://www.lexingtonma.gov/police/news/overnight-parking-ban-effect-december-1st [30992] -> "../data/townSites2/Lexington/www.lexingtonma.gov/police/news/overnight-parking-ban-effect-december-1st" [1]
+2017-01-02 01:24:22 URL:http://www.lexingtonma.gov/home/pages/payments-fines-fees [26813] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/1946" [1]
+2017-01-02 01:24:23 URL:http://www.lexingtonma.gov/print/1946 [6517] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/1946" [1]
+2017-01-02 01:24:24 URL:http://www.lexingtonma.gov/online-bill-payment [32479] -> "../data/townSites2/Lexington/www.lexingtonma.gov/tax-collector-treasurer/links/online-bill-payment" [1]
+2017-01-02 01:24:25 URL:http://www.lexingtonma.gov/online-bill-payment [32479] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/5491" [1]
+2017-01-02 01:24:26 URL:http://www.lexingtonma.gov/print/5491 [9464] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/5491" [1]
+2017-01-02 01:24:26 URL: http://www.lexingtonma.gov/node/5491/feed 200 OK
+unlink: No such file or directory
+2017-01-02 01:24:28 URL:http://gis.vgsi.com/lexingtonma/ [12595/12595] -> "../data/townSites2/Lexington/www.lexingtonma.gov/online-bill-payment/links/assessors-online-database-showing-fy2014-dor-certified-values" [1]
+http://www.egovlink.com/lexington/default.asp:
+Remote file does not exist -- broken link!!!
+http://www.egovlink.com/lexington/events/calendar.asp:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:24:31 URL:http://ecode360.com/LE1818?needHash=true [37436] -> "../data/townSites2/Lexington/www.lexingtonma.gov/online-bill-payment/links/code-lexington" [1]
+2017-01-02 01:24:33 URL:http://www.eventkeeper.com/code/events.cfm?curOrg=02420 [82752] -> "../data/townSites2/Lexington/www.lexingtonma.gov/online-bill-payment/links/community-calendar" [1]
+2017-01-02 01:24:37 URL:https://visitor.r20.constantcontact.com/manage/optin?v=001OkYV23r4voB1ZWZ4Df35dSTbew_Zyl6j27JtJH2lJ8JJ0MkYW43g_lC1L4Hnq5ZvlmMI1ijxVKyx7QT0VlOBTJqSLgjViFAi5sxSrLe1mQTGvb0Mt_OB1f9JAzGmacvGp6cfO9xpb1c%3D [53159] -> "../data/townSites2/Lexington/www.lexingtonma.gov/online-bill-payment/links/email-subscription-list" [1]
+2017-01-02 01:24:38 URL:http://www.lexingtonma.gov/home/pages/online-services [31532] -> "../data/townSites2/Lexington/www.lexingtonma.gov/online-bill-payment/links/online-services-list" [1]
+2017-01-02 01:24:40 URL:http://records.lexingtonma.gov/weblink8/ [29427/29427] -> "../data/townSites2/Lexington/www.lexingtonma.gov/online-bill-payment/links/public-records-portal" [1]
+2017-01-02 01:24:43 URL:https://www.activityreg.com/clientpage.wcs?clientid=LXNGTNMA&siteid=1 [996/996] -> "../data/townSites2/Lexington/www.lexingtonma.gov/online-bill-payment/links/recreation-program-registration" [1]
+2017-01-02 01:24:44 URL:http://www.lexingtonma.gov/tax-collector-treasurer [32132] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/5346" [1]
+2017-01-02 01:24:46 URL:http://www.lexingtonma.gov/print/5346 [9409] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/5346" [1]
+2017-01-02 01:24:48 URL:http://www.lexingtonma.gov/motor-vehicle-excise-tax [31666] -> "../data/townSites2/Lexington/www.lexingtonma.gov/motor-vehicle-excise-tax" [1]
+2017-01-02 01:24:48 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/parkingappealformv2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:24:49 URL: http://www.lexingtonma.gov/node/5346/feed 200 OK
+unlink: No such file or directory
+2017-01-02 01:24:51 URL:http://www.lexingtonma.gov/abandoned-and-unclaimed-funds [29166] -> "../data/townSites2/Lexington/www.lexingtonma.gov/tax-collector-treasurer/links/abandoned-and-unclaimed-funds" [1]
+2017-01-02 01:24:55 URL:http://www.lexingtonma.gov/tax-collector-treasurer/webforms/contact-us [33125/33125] -> "../data/townSites2/Lexington/www.lexingtonma.gov/tax-collector-treasurer/webforms/contact-us" [1]
+2017-01-02 01:24:56 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/excise_tax_abatement_information.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:24:57 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/new_resident_information_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:24:58 URL:http://www.lexingtonma.gov/home/news/please-dont-throw-plastic-bags-your-recycling-they-cause-serious-problems [28530] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/46763" [1]
+2017-01-02 01:24:59 URL:http://www.lexingtonma.gov/print/46763 [8347] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/46763" [1]
+2017-01-02 01:25:01 URL:http://www.lexingtonma.gov/home/news/be-part-4th-annual-mlk-day-service-program-volunteer-activities-monday-january-16 [27801] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/46123" [1]
+2017-01-02 01:25:02 URL:http://www.lexingtonma.gov/print/46123 [7664] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/46123" [1]
+2017-01-02 01:25:04 URL:http://www.lexingtonma.gov/home/news/stay-safe-during-extreme-cold-weather [33270] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/45883" [1]
+2017-01-02 01:25:05 URL:http://www.lexingtonma.gov/print/45883 [12927] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/45883" [1]
+2017-01-02 01:25:07 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/extreme-cold-guide.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:25:08 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/hypothermia-frostbite_508.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:25:10 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/flyer_codanger.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:25:11 URL:http://www.lexingtonma.gov/home/news/overnight-parking-ban-effect-december-1-april-1 [27383] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/45603" [1]
+2017-01-02 01:25:12 URL:http://www.lexingtonma.gov/print/45603 [7085] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/45603" [1]
+2017-01-02 01:25:13 URL:http://www.lexingtonma.gov/home/news/december-january-holiday-schedules-and-closings [28129] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/44033" [1]
+2017-01-02 01:25:15 URL:http://www.lexingtonma.gov/print/44033 [7852] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/44033" [1]
+2017-01-02 01:25:16 URL:http://www.lexingtonma.gov/home/news/flu-shots-residents-last-clinic-wednesday-january-4 [27138] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/38843" [1]
+2017-01-02 01:25:17 URL:http://www.lexingtonma.gov/print/38843 [6957] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/38843" [1]
+2017-01-02 01:25:18 URL: http://www.lexingtonma.gov/calendar-by-event-type/feed/20%2B17%2B19/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 01:25:21 URL:http://www.lexingtonma.gov/calendar-by-event-type/20%2B17%2B19/month [56117] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/20+17+19/month" [1]
+2017-01-02 01:25:23 URL:http://www.lexingtonma.gov/calendar-by-event-type/20%2B17%2B19/week [38055] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/20+17+19/week" [1]
+2017-01-02 01:25:25 URL:http://www.lexingtonma.gov/calendar-by-event-type/20%2B17%2B19/day [38045] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/20+17+19/day" [1]
+2017-01-02 01:25:27 URL:http://www.lexingtonma.gov/calendar-by-event-type/20%2B17%2B19/year [138505] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/20+17+19/year" [1]
+2017-01-02 01:25:29 URL:http://www.lexingtonma.gov/calendar-by-event-type/20%2B17%2B19/month/2016-12 [94489] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/20+17+19/month/2016-12" [1]
+2017-01-02 01:25:31 URL:http://www.lexingtonma.gov/calendar-by-event-type/20%2B17%2B19/month/2017-02 [56305] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/20+17+19/month/2017-02" [1]
+2017-01-02 01:25:32 URL:http://www.lexingtonma.gov/calendar-by-event-type/16%2B26 [132134] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16+26.1" [1]
+2017-01-02 01:25:34 URL:http://www.lexingtonma.gov/calendar-by-event-type/16%2B26/day [37992] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16+26/day.1" [1]
+2017-01-02 01:25:36 URL:http://www.lexingtonma.gov/calendar-by-event-type/16%2B26/week [41768] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16+26/week" [1]
+2017-01-02 01:25:38 URL:http://www.lexingtonma.gov/calendar-by-event-type/16%2B26/year [146049] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16+26/year" [1]
+2017-01-02 01:25:40 URL:http://www.lexingtonma.gov/calendar-by-event-type/16%2B26/day/2017-01-02 [38070] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16+26/day/2017-01-02" [1]
+2017-01-02 01:25:41 URL:http://www.lexingtonma.gov/home/events/46943 [26702] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/46943" [1]
+2017-01-02 01:25:42 URL:http://www.lexingtonma.gov/print/46943 [6343] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/46943" [1]
+2017-01-02 01:25:43 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/2017-01-03-schlcomm.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:25:44 URL:http://www.lexingtonma.gov/home/events/46633 [26650] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/46633" [1]
+2017-01-02 01:25:45 URL:http://www.lexingtonma.gov/print/46633 [6318] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/46633" [1]
+2017-01-02 01:25:46 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/2017-01-04-coa.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:25:48 URL:http://www.lexingtonma.gov/home/events/46693 [26720] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/46693" [1]
+2017-01-02 01:25:49 URL:http://www.lexingtonma.gov/print/46693 [6404] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/46693" [1]
+2017-01-02 01:25:51 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/2017-01-04-lib.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:25:53 URL:http://www.lexingtonma.gov/home/events/46813 [26648] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/46813" [1]
+2017-01-02 01:25:54 URL:http://www.lexingtonma.gov/print/46813 [6311] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/46813" [1]
+2017-01-02 01:25:55 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/2017-01-04-plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:25:56 URL:http://www.lexingtonma.gov/home/events/46753 [26649] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/46753" [1]
+2017-01-02 01:25:57 URL:http://www.lexingtonma.gov/print/46753 [6346] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/46753" [1]
+2017-01-02 01:25:59 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/2017-01-04-design.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:26:00 URL:http://www.lexingtonma.gov/home/events/46733 [26687] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/46733" [1]
+2017-01-02 01:26:01 URL:http://www.lexingtonma.gov/print/46733 [6416] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/46733" [1]
+2017-01-02 01:26:02 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/2017-01-05-diamond.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:26:03 URL:http://www.lexingtonma.gov/home/events/46713 [26604] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/46713" [1]
+2017-01-02 01:26:05 URL:http://www.lexingtonma.gov/print/46713 [6266] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/46713" [1]
+2017-01-02 01:26:06 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/2017-01-05-lexhab.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:26:07 URL:http://www.lexingtonma.gov/home/events/46673 [26678] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/46673" [1]
+2017-01-02 01:26:09 URL:http://www.lexingtonma.gov/print/46673 [6338] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/46673" [1]
+2017-01-02 01:26:10 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/2017-01-05-boa.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:26:11 URL:http://www.lexingtonma.gov/home/events/46833 [26652] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/46833" [1]
+2017-01-02 01:26:12 URL:http://www.lexingtonma.gov/print/46833 [6313] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/46833" [1]
+2017-01-02 01:26:13 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/2017-01-05-plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:26:14 URL:http://www.lexingtonma.gov/home/events/46663 [26656] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/46663" [1]
+2017-01-02 01:26:16 URL:http://www.lexingtonma.gov/print/46663 [6332] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/46663" [1]
+2017-01-02 01:26:17 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/2017-01-05-rc.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:26:19 URL:http://www.lexingtonma.gov/calendar-by-event-type/16%2B26/day/2017-01-07 [38072] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16+26/day/2017-01-07" [1]
+2017-01-02 01:26:20 URL:http://www.lexingtonma.gov/home/events/46913 [26701] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/46913" [1]
+2017-01-02 01:26:21 URL:http://www.lexingtonma.gov/print/46913 [6394] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/46913" [1]
+2017-01-02 01:26:22 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/2017-01-06-humanrights.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:26:24 URL:http://www.lexingtonma.gov/calendar-by-event-type/16%2B26/day/2017-01-08 [38070] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16+26/day/2017-01-08" [1]
+2017-01-02 01:26:25 URL:http://www.lexingtonma.gov/home/events/46553 [26730] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/46553" [1]
+2017-01-02 01:26:26 URL:http://www.lexingtonma.gov/print/46553 [6438] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/46553" [1]
+2017-01-02 01:26:28 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/2017-01-09-tdes_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:26:30 URL:http://www.lexingtonma.gov/home/events/45553 [26673] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/45553" [1]
+2017-01-02 01:26:31 URL:http://www.lexingtonma.gov/print/45553 [6374] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/45553" [1]
+2017-01-02 01:26:32 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/2017-01-10-cec.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:26:33 URL:http://www.lexingtonma.gov/home/events/45963 [26650] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/45963" [1]
+2017-01-02 01:26:34 URL:http://www.lexingtonma.gov/print/45963 [6315] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/45963" [1]
+2017-01-02 01:26:35 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/2017-01-10-sepc.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:26:37 URL:http://www.lexingtonma.gov/calendar-by-event-type/16%2B26/day/2017-01-12 [38073] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16+26/day/2017-01-12" [1]
+2017-01-02 01:26:38 URL:http://www.lexingtonma.gov/home/events/45443 [26357] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/45443" [1]
+2017-01-02 01:26:40 URL:http://www.lexingtonma.gov/print/45443 [6152] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/45443" [1]
+2017-01-02 01:26:41 URL:http://www.lexingtonma.gov/home/events/46383 [26732] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/46383" [1]
+2017-01-02 01:26:42 URL:http://www.lexingtonma.gov/print/46383 [6459] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/46383" [1]
+2017-01-02 01:26:43 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/2017-01-11-adhoccsdr.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:26:45 URL:http://www.lexingtonma.gov/calendar-by-event-type/16%2B26/day/2017-01-16 [38071] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16+26/day/2017-01-16" [1]
+2017-01-02 01:26:47 URL:http://www.lexingtonma.gov/calendar-by-event-type/16%2B26/day/2017-01-18 [38074] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16+26/day/2017-01-18" [1]
+2017-01-02 01:26:49 URL:http://www.lexingtonma.gov/home/events/46223 [26371] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/46223" [1]
+2017-01-02 01:26:50 URL:http://www.lexingtonma.gov/print/46223 [6182] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/46223" [1]
+2017-01-02 01:26:52 URL:http://www.lexingtonma.gov/calendar-by-event-type/16%2B26/day/2017-01-20 [38071] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16+26/day/2017-01-20" [1]
+2017-01-02 01:26:53 URL:http://www.lexingtonma.gov/home/events/46463 [26378] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/46463" [1]
+2017-01-02 01:26:54 URL:http://www.lexingtonma.gov/print/46463 [6195] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/46463" [1]
+2017-01-02 01:26:56 URL:http://www.lexingtonma.gov/calendar-by-event-type/16%2B26/day/2017-01-24 [38072] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16+26/day/2017-01-24" [1]
+2017-01-02 01:26:58 URL:http://www.lexingtonma.gov/calendar-by-event-type/16%2B26/day/2017-01-26 [38073] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16+26/day/2017-01-26" [1]
+2017-01-02 01:26:58 URL:http://www.lexingtonma.gov/home/events/45453 [26357] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/45453" [1]
+2017-01-02 01:26:59 URL:http://www.lexingtonma.gov/print/45453 [6152] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/45453" [1]
+2017-01-02 01:27:00 URL: http://www.lexingtonma.gov/calendar-by-event-type/feed/16/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 01:27:03 URL:http://www.lexingtonma.gov/calendar-by-event-type/16/month [131962] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16/month" [1]
+2017-01-02 01:27:05 URL:http://www.lexingtonma.gov/calendar-by-event-type/16/week [41642] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16/week" [1]
+2017-01-02 01:27:07 URL:http://www.lexingtonma.gov/calendar-by-event-type/16/day [37866] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16/day" [1]
+2017-01-02 01:27:10 URL:http://www.lexingtonma.gov/calendar-by-event-type/16/year [145873] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16/year" [1]
+2017-01-02 01:27:15 URL:http://www.lexingtonma.gov/calendar-by-event-type/16/month/2016-12 [352359] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16/month/2016-12" [1]
+2017-01-02 01:27:16 URL:http://www.lexingtonma.gov/calendar-by-event-type/16/month/2017-02 [56100] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16/month/2017-02" [1]
+2017-01-02 01:27:18 URL:http://www.lexingtonma.gov/calendar-by-event-type/16/day/2017-01-03 [38332] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16/day/2017-01-03" [1]
+2017-01-02 01:27:20 URL:http://www.lexingtonma.gov/calendar-by-event-type/16/day/2017-01-04 [39293] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16/day/2017-01-04" [1]
+2017-01-02 01:27:21 URL:http://www.lexingtonma.gov/calendar-by-event-type/16/day/2017-01-05 [39600] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16/day/2017-01-05" [1]
+2017-01-02 01:27:23 URL:http://www.lexingtonma.gov/calendar-by-event-type/16/day/2017-01-06 [38347] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16/day/2017-01-06" [1]
+2017-01-02 01:27:24 URL:http://www.lexingtonma.gov/calendar-by-event-type/16/day/2017-01-09 [38358] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16/day/2017-01-09" [1]
+2017-01-02 01:27:26 URL:http://www.lexingtonma.gov/calendar-by-event-type/16/day/2017-01-10 [38659] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16/day/2017-01-10" [1]
+2017-01-02 01:27:28 URL:http://www.lexingtonma.gov/calendar-by-event-type/16/day/2017-01-11 [38698] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16/day/2017-01-11" [1]
+2017-01-02 01:27:29 URL:http://www.lexingtonma.gov/calendar-by-event-type/16/day/2017-01-17 [38359] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16/day/2017-01-17" [1]
+2017-01-02 01:27:31 URL:http://www.lexingtonma.gov/calendar-by-event-type/16/day/2017-01-19 [38363] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16/day/2017-01-19" [1]
+2017-01-02 01:27:33 URL:http://www.lexingtonma.gov/calendar-by-event-type/16/day/2017-01-25 [38353] -> "../data/townSites2/Lexington/www.lexingtonma.gov/calendar-by-event-type/16/day/2017-01-25" [1]
+2017-01-02 01:27:34 URL:http://www.lexingtonma.gov/home/pages/winter-activities [27855] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/45673" [1]
+2017-01-02 01:27:35 URL:http://www.lexingtonma.gov/print/45673 [7515] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/45673" [1]
+2017-01-02 01:27:35 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/winter_2017_3_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:27:36 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/jan_feb_2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:27:37 URL:http://www.lexingtonma.gov/maps-and-gis [28021] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/8416" [1]
+2017-01-02 01:27:38 URL:http://www.lexingtonma.gov/print/8416 [7618] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/8416" [1]
+2017-01-02 01:27:39 URL:http://www.lexingtonma.gov/home/pages/gis-disclaimer [28088] -> "../data/townSites2/Lexington/www.lexingtonma.gov/home/pages/gis-disclaimer" [1]
+2017-01-02 01:27:39 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/town_street-precinct_map_2014-03-07_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:27:40 URL: http://www.lexingtonma.gov/sites/lexingtonma/files/uploads/assessorscoversheet11x17_2_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:27:41 URL:http://www.lexingtonma.gov/helpful-links [26893] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/45713" [1]
+2017-01-02 01:27:42 URL:http://www.lexingtonma.gov/print/45713 [6588] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/45713" [1]
+2017-01-02 01:27:44 URL:http://www.lexingtonma.gov/information-residents [32343] -> "../data/townSites2/Lexington/www.lexingtonma.gov/information-residents" [1]
+2017-01-02 01:27:47 URL:http://www.lexingtonma.gov/home/webforms/contact-webmaster [28528/28528] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/8411" [1]
+2017-01-02 01:27:49 URL:http://www.lexingtonma.gov/print/8411 [8817/8817] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/8411" [1]
+2017-01-02 01:27:50 URL:http://www.lexingtonma.gov/home/pages/privacy-policy-and-website-disclaimer [32213] -> "../data/townSites2/Lexington/www.lexingtonma.gov/node/9341" [1]
+2017-01-02 01:27:51 URL:http://www.lexingtonma.gov/print/9341 [11765] -> "../data/townSites2/Lexington/www.lexingtonma.gov/print/9341" [1]
+2017-01-02 01:27:52 URL:http://www.lexingtonma.gov/user [25922] -> "../data/townSites2/Lexington/www.lexingtonma.gov/user.1" [1]
+2017-01-02 01:27:54 URL:http://www.lexingtonma.gov/user/password [27469] -> "../data/townSites2/Lexington/www.lexingtonma.gov/user/password" [1]
+Found 5 broken links.
+
+http://www.lexingtonma.gov/smoke-carbon-monoxide-detector-regulations
+http://www.lexingtonma.gov/sewer-connectionabandonment
+http://www.egovlink.com/lexington/default.asp
+http://www.egovlink.com/lexington/events/calendar.asp
+http://www.lexingtonma.gov/committees/charges/boardofappeals.pdf
+
+FINISHED --2017-01-02 01:27:54--
+Total wall clock time: 16m 7s
+Downloaded: 555 files, 18M in 52s (345 KB/s)

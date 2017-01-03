@@ -1,0 +1,186 @@
+2017-01-02 03:02:50 URL:http://www.provincetown-ma.gov/ [72398/72398] -> "../data/townSites2/Provincetown/www.provincetown-ma.gov/index.html" [1]
+2017-01-02 03:02:50 URL: http://www.provincetown-ma.gov/images/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 03:02:59 URL:http://www.provincetown-ma.gov/EmailPage [49696/49696] -> "../data/townSites2/Provincetown/www.provincetown-ma.gov/emailpage.aspx" [1]
+2017-01-02 03:03:05 URL:http://www.provincetown-ma.gov/calendar.aspx [119830/119830] -> "../data/townSites2/Provincetown/www.provincetown-ma.gov/calendar.aspx" [1]
+2017-01-02 03:03:12 URL:http://www.provincetown-ma.gov/directory.aspx [85384/85384] -> "../data/townSites2/Provincetown/www.provincetown-ma.gov/directory.asp" [1]
+2017-01-02 03:03:19 URL:http://www.provincetown-ma.gov/DocumentCenter/ [75443/75443] -> "../data/townSites2/Provincetown/www.provincetown-ma.gov/documentcenterii.asp" [1]
+2017-01-02 03:03:31 URL:http://www.provincetown-ma.gov/sitemap.aspx [142411/142411] -> "../data/townSites2/Provincetown/www.provincetown-ma.gov/sitemap.aspx" [1]
+2017-01-02 03:03:33 URL:http://www.provincetown-ma.gov/Calendar.aspx [119830/119830] -> "../data/townSites2/Provincetown/www.provincetown-ma.gov/Calendar.aspx" [1]
+2017-01-02 03:03:39 URL:http://www.provincetown-ma.gov/list.aspx [142587/142587] -> "../data/townSites2/Provincetown/www.provincetown-ma.gov/list.aspx" [1]
+2017-01-02 03:03:46 URL:http://www.provincetown-ma.gov/CivicAlerts.aspx [53754/53754] -> "../data/townSites2/Provincetown/www.provincetown-ma.gov/CivicAlerts.asp" [1]
+http://www.provincetown-ma.gov/DocumentCenter/View/8216:
+Remote file does not exist -- broken link!!!
+http://www.provincetown-ma.gov/DocumentCenter/View/5359:
+Remote file does not exist -- broken link!!!
+http://www.provincetown-ma.gov/'%20+%20e.alertLink%20+%20':
+Remote file does not exist -- broken link!!!
+http://www.provincetown-ma.gov/'%20+%20viewAllLink%20+%20':
+Remote file does not exist -- broken link!!!
+2017-01-02 03:03:55 URL:http://www.provincetown-ma.gov/quicklinks.aspx [60597/60597] -> "../data/townSites2/Provincetown/www.provincetown-ma.gov/quicklinks.asp" [1]
+http://www.provincetown-ma.gov/DocumentCenter/View/6072:
+Remote file does not exist -- broken link!!!
+2017-01-02 03:04:00 URL:http://www.provincetown-ma.gov/rss.aspx [59358/59358] -> "../data/townSites2/Provincetown/www.provincetown-ma.gov/rss.aspx" [1]
+2017-01-02 03:04:09 URL:http://www.provincetown-ma.gov/accessibility.aspx [45082/45082] -> "../data/townSites2/Provincetown/www.provincetown-ma.gov/accessibility.asp" [1]
+2017-01-02 03:04:14 URL:http://www.provincetown-ma.gov/copyright.aspx [41880/41880] -> "../data/townSites2/Provincetown/www.provincetown-ma.gov/copyright.asp" [1]
+2017-01-02 03:04:16 URL:http://www.provincetown-ma.gov/index.aspx [72408/72408] -> "../data/townSites2/Provincetown/www.provincetown-ma.gov/index.aspx" [1]
+2017-01-02 03:04:18 URL:http://www.provincetown-ma.gov/iCalendar.aspx [53027/53027] -> "../data/townSites2/Provincetown/www.provincetown-ma.gov/iCalendar.aspx" [1]
+2017-01-02 03:04:31 URL:http://www.provincetown-ma.gov/Facilities [117910/117910] -> "../data/townSites2/Provincetown/www.provincetown-ma.gov/Facilities" [1]
+2017-01-02 03:04:33 URL:http://www.provincetown-ma.gov/DocumentCenter [75454/75454] -> "../data/townSites2/Provincetown/www.provincetown-ma.gov/DocumentCenter" [1]
+2017-01-02 03:04:33 URL: http://www.provincetown-ma.gov/Common/modules/NotifyMe/NotifyMeAjax.asmx/js 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:36 URL:http://www.provincetown-ma.gov/List.aspx [142587/142587] -> "../data/townSites2/Provincetown/www.provincetown-ma.gov/List.aspx" [1]
+http://www.provincetown-ma.gov/DocumentCenter/View/8278:
+Remote file does not exist -- broken link!!!
+http://www.provincetown-ma.gov/DocumentCenter/View/8252:
+Remote file does not exist -- broken link!!!
+2017-01-02 03:04:39 URL:http://www.provincetown-ma.gov/QuickLinks.aspx [60597/60597] -> "../data/townSites2/Provincetown/www.provincetown-ma.gov/QuickLinks.aspx" [1]
+http://www.provincetown-ma.gov/DocumentCenter/View/5316:
+Remote file does not exist -- broken link!!!
+2017-01-02 03:04:40 URL: http://www.provincetown-ma.gov/support/pages.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:41 URL: http://www.provincetown-ma.gov/support/newsflash.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:41 URL: http://www.provincetown-ma.gov/support/blog.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:41 URL: http://www.provincetown-ma.gov/support/blog1.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:42 URL: http://www.provincetown-ma.gov/support/calendar.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:42 URL: http://www.provincetown-ma.gov/support/calendar26.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:43 URL: http://www.provincetown-ma.gov/support/calendar27.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:43 URL: http://www.provincetown-ma.gov/support/calendar28.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:43 URL: http://www.provincetown-ma.gov/support/calendar66.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:44 URL: http://www.provincetown-ma.gov/support/calendar29.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:44 URL: http://www.provincetown-ma.gov/support/calendar30.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:44 URL: http://www.provincetown-ma.gov/support/calendar71.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:45 URL: http://www.provincetown-ma.gov/support/calendar73.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:45 URL: http://www.provincetown-ma.gov/support/calendar31.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:45 URL: http://www.provincetown-ma.gov/support/calendar32.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:46 URL: http://www.provincetown-ma.gov/support/calendar33.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:46 URL: http://www.provincetown-ma.gov/support/calendar79.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:46 URL: http://www.provincetown-ma.gov/support/calendar34.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:47 URL: http://www.provincetown-ma.gov/support/calendar74.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:47 URL: http://www.provincetown-ma.gov/support/calendar76.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:47 URL: http://www.provincetown-ma.gov/support/calendar24.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:47 URL: http://www.provincetown-ma.gov/support/calendar35.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:48 URL: http://www.provincetown-ma.gov/support/calendar36.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:48 URL: http://www.provincetown-ma.gov/support/calendar20.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:48 URL: http://www.provincetown-ma.gov/support/calendar65.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:49 URL: http://www.provincetown-ma.gov/support/calendar37.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:49 URL: http://www.provincetown-ma.gov/support/calendar38.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:49 URL: http://www.provincetown-ma.gov/support/calendar77.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:50 URL: http://www.provincetown-ma.gov/support/calendar39.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:50 URL: http://www.provincetown-ma.gov/support/calendar25.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:50 URL: http://www.provincetown-ma.gov/support/calendar40.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:51 URL: http://www.provincetown-ma.gov/support/calendar41.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:51 URL: http://www.provincetown-ma.gov/support/calendar42.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:52 URL: http://www.provincetown-ma.gov/support/calendar44.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:52 URL: http://www.provincetown-ma.gov/support/calendar43.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:52 URL: http://www.provincetown-ma.gov/support/calendar45.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:52 URL: http://www.provincetown-ma.gov/support/calendar46.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:53 URL: http://www.provincetown-ma.gov/support/calendar47.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:53 URL: http://www.provincetown-ma.gov/support/calendar48.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:53 URL: http://www.provincetown-ma.gov/support/calendar49.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:54 URL: http://www.provincetown-ma.gov/support/calendar50.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:54 URL: http://www.provincetown-ma.gov/support/calendar78.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:54 URL: http://www.provincetown-ma.gov/support/calendar14.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:55 URL: http://www.provincetown-ma.gov/support/calendar51.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:55 URL: http://www.provincetown-ma.gov/support/calendar52.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:55 URL: http://www.provincetown-ma.gov/support/calendar53.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:56 URL: http://www.provincetown-ma.gov/support/calendar68.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:56 URL: http://www.provincetown-ma.gov/support/calendar69.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:56 URL: http://www.provincetown-ma.gov/support/calendar54.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:57 URL: http://www.provincetown-ma.gov/support/calendar21.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:57 URL: http://www.provincetown-ma.gov/support/calendar55.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:57 URL: http://www.provincetown-ma.gov/support/calendar56.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:58 URL: http://www.provincetown-ma.gov/support/calendar57.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:58 URL: http://www.provincetown-ma.gov/support/calendar58.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:58 URL: http://www.provincetown-ma.gov/support/calendar59.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:58 URL: http://www.provincetown-ma.gov/support/calendar22.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:59 URL: http://www.provincetown-ma.gov/support/calendar60.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:04:59 URL: http://www.provincetown-ma.gov/support/calendar75.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:05:00 URL: http://www.provincetown-ma.gov/support/calendar61.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:05:00 URL: http://www.provincetown-ma.gov/support/calendar62.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:05:00 URL: http://www.provincetown-ma.gov/support/calendar63.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:05:00 URL: http://www.provincetown-ma.gov/support/calendar80.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:05:01 URL: http://www.provincetown-ma.gov/support/calendar64.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:05:01 URL: http://www.provincetown-ma.gov/support/calendar67.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:05:02 URL: http://www.provincetown-ma.gov/support/newsflash14.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:05:02 URL: http://www.provincetown-ma.gov/support/newsflash1.xml 200 OK
+unlink: No such file or directory
+2017-01-02 03:05:03 URL:http://www.provincetown-ma.gov/directory.aspx [85384/85384] -> "../data/townSites2/Provincetown/www.provincetown-ma.gov/contactus" [1]
+Found 8 broken links.
+
+http://www.provincetown-ma.gov/DocumentCenter/View/5316
+http://www.provincetown-ma.gov/DocumentCenter/View/8252
+http://www.provincetown-ma.gov/'%20+%20e.alertLink%20+%20'
+http://www.provincetown-ma.gov/DocumentCenter/View/8278
+http://www.provincetown-ma.gov/DocumentCenter/View/5359
+http://www.provincetown-ma.gov/DocumentCenter/View/6072
+http://www.provincetown-ma.gov/DocumentCenter/View/8216
+http://www.provincetown-ma.gov/'%20+%20viewAllLink%20+%20'
+
+FINISHED --2017-01-02 03:05:03--
+Total wall clock time: 3m 12s
+Downloaded: 20 files, 1.6M in 2.3s (713 KB/s)

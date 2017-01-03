@@ -1,0 +1,25 @@
+2017-01-02 02:04:41 URL:http://middlefieldma.net/ [65578] -> "../data/townSites2/Middlefield/middlefieldma.net/index.html" [1]
+http://middlefieldma.net/xmlrpc.php:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:04:42 URL: http://middlefieldma.net/wp-content/graphics/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:42 URL: http://middlefieldma.net/wp-includes/wlwmanifest.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:42 URL: http://middlefieldma.net/wp-content/uploads/history/Vital_records_of_Middlefield_1850.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:43 URL: http://middlefieldma.net/wp-content/uploads/history/A_memorial_of_the_one_hundredth_annivers.pdf 200 OK
+unlink: No such file or directory
+http://middlefieldma.net/wp-content/uploads/misc/text-a-tip:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:04:43 URL: http://middlefieldma.net/wp-content/uploads/misc/building-usage.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:43 URL: http://middlefieldma.net/wp-content/uploads/misc/2016-hazardous-waste-collection-events.pdf 200 OK
+unlink: No such file or directory
+Found 2 broken links.
+
+http://middlefieldma.net/xmlrpc.php
+http://middlefieldma.net/wp-content/uploads/misc/text-a-tip
+
+FINISHED --2017-01-02 02:04:43--
+Total wall clock time: 4.6s
+Downloaded: 1 files, 64K in 0.2s (361 KB/s)

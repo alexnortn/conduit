@@ -1,0 +1,124 @@
+2017-01-02 01:05:47 URL:http://www.townoflenox.com/ [1182] -> "../data/townSites2/Lenox/www.townoflenox.com/index.html" [1]
+2017-01-02 01:05:49 URL:http://www.townoflenox.com/Public_Documents/index [72962] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/index" [1]
+2017-01-02 01:05:49 URL: http://www.townoflenox.com/Public_Documents/LenoxMA_Inspect/tutorial1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:05:50 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/deptindex [41180] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/deptindex" [1]
+2017-01-02 01:05:51 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_Ambulance/index [38806] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_Ambulance/index" [1]
+2017-01-02 01:05:52 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_Animal/index [35927] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_Animal/index" [1]
+2017-01-02 01:05:53 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_Assessor/index [42796] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_Assessor/index" [1]
+2017-01-02 01:05:55 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_Recreation/index [41619] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_Recreation/index" [1]
+2017-01-02 01:05:56 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_DPW/index [40157] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_DPW/index" [1]
+2017-01-02 01:05:58 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_Fire/index [40432] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_Fire/index" [1]
+2017-01-02 01:05:59 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_Housing/index [38731] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_Housing/index" [1]
+2017-01-02 01:06:00 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_Inspect/index [38800] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_Inspect/index" [1]
+2017-01-02 01:06:01 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_LandUse/index [42153] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_LandUse/index" [1]
+2017-01-02 01:06:03 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_Police/index [38862] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_Police/index" [1]
+2017-01-02 01:06:04 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/selectmen [40542] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/selectmen" [1]
+2017-01-02 01:06:05 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_School/index [37315] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_School/index" [1]
+2017-01-02 01:06:06 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_Health/index [36345] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_Health/index" [1]
+2017-01-02 01:06:07 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_Accountant/index [39308] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_Accountant/index" [1]
+2017-01-02 01:06:08 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_Clerk/index [37807] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_Clerk/index" [1]
+2017-01-02 01:06:09 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_Collector/index [44527] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_Collector/index" [1]
+2017-01-02 01:06:10 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_Counsel/index [35524] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_Counsel/index" [1]
+2017-01-02 01:06:11 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_Manager/index [38251] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_Manager/index" [1]
+2017-01-02 01:06:12 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_Treasurer/index [36133] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_Treasurer/index" [1]
+2017-01-02 01:06:14 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_Veteran/index [35447] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_Veteran/index" [1]
+2017-01-02 01:06:15 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/index [37840] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/index" [1]
+2017-01-02 01:06:16 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/ada [36773] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/ada" [1]
+2017-01-02 01:06:17 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/academy [36286] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/academy" [1]
+2017-01-02 01:06:18 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/affordablehousing [44544] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/affordablehousing" [1]
+2017-01-02 01:06:20 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/assessor [39255] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/assessor" [1]
+2017-01-02 01:06:20 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/health [37662] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/health" [1]
+2017-01-02 01:06:21 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/cable [36584] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/cable" [1]
+2017-01-02 01:06:23 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/capital [37421] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/capital" [1]
+2017-01-02 01:06:24 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/emergency [40315] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/emergency" [1]
+http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/trust:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:06:26 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/parks [38051] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/parks" [1]
+2017-01-02 01:06:27 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/cpc [43177] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/cpc" [1]
+2017-01-02 01:06:28 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/conserve [39879] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/conserve" [1]
+2017-01-02 01:06:29 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/cultural [42340] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/cultural" [1]
+http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/economic:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:06:32 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/environmental [39167] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/environmental" [1]
+2017-01-02 01:06:33 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/finance [38540] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/finance" [1]
+2017-01-02 01:06:34 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/historicdistrict [41928] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/historicdistrict" [1]
+2017-01-02 01:06:36 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/historical [40400] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/historical" [1]
+2017-01-02 01:06:37 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/housing [39258] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/housing" [1]
+http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/infrastructure:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:06:38 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/restoration [37699] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/restoration" [1]
+2017-01-02 01:06:39 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/landmanagement [38094] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/landmanagement" [1]
+http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/marketing:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:06:41 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/planning [44210] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/planning" [1]
+2017-01-02 01:06:42 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/registrar [36537] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/registrar" [1]
+2017-01-02 01:06:44 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/scholar [37098] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/scholar" [1]
+2017-01-02 01:06:45 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/solar [38606] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/solar" [1]
+http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/sourcewater:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:06:47 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/villiageimprovement [38146] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/villiageimprovement" [1]
+2017-01-02 01:06:48 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/watershed [40254] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/watershed" [1]
+http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/youth:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:06:50 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/zoning [40720] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BComm/zoning" [1]
+2017-01-02 01:06:51 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_Webdocs/annualtownmeeting [36531] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_Webdocs/annualtownmeeting" [1]
+2017-01-02 01:06:53 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/forms [51273] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/forms" [1]
+2017-01-02 01:06:55 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_Treasurer/online_payment_notice [30949] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_Treasurer/online_payment_notice" [1]
+2017-01-02 01:06:56 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/bylaws [42098] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/bylaws" [1]
+2017-01-02 01:06:59 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_Meetings/index [64444] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_Meetings/index" [1]
+2017-01-02 01:07:01 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_TriTown/index [38493] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_TriTown/index" [1]
+2017-01-02 01:07:03 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/americantowns [34616] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/americantowns" [1]
+2017-01-02 01:07:04 URL:http://www.townoflenox.com/subscriber [47768] -> "../data/townSites2/Lenox/www.townoflenox.com/subscriber" [1]
+2017-01-02 01:07:06 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/comments [39627] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/comments" [1]
+2017-01-02 01:07:07 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_Webdocs/selectmenquestion [37801] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_Webdocs/selectmenquestion" [1]
+2017-01-02 01:07:08 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/codered [30538] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/codered" [1]
+2017-01-02 01:07:08 URL: http://www.townoflenox.com/Icons/0 200 OK
+unlink: No such file or directory
+2017-01-02 01:07:09 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_Green/index [50301] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_Green/index" [1]
+2017-01-02 01:07:10 URL:http://www.townoflenox.com/public_documents/lenoxma_webdocs/quicklinks [50174] -> "../data/townSites2/Lenox/www.townoflenox.com/public_documents/lenoxma_webdocs/quicklinks" [1]
+2017-01-02 01:07:11 URL: http://www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/Town%20Posting%20Notice%203.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:07:11 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/PLAQUEPROGRAM [31508] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/PLAQUEPROGRAM" [1]
+2017-01-02 01:07:13 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/107%20Yokun/ [34882] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/107 Yokun" [1]
+2017-01-02 01:07:13 URL: http://www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/Town%20of%20Lenox%20Bylaws%202014.revised%205-17-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:07:14 URL: http://www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/LenoxTaxMapscombined.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:07:14 URL: http://www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/HB%20DetailsSheet-2016wAdams&LeeBanks&Pittsfield%20Coop.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:07:14 URL: http://www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/Lee%20&%20Lenox%20Building%20Dept%20Schedule%20&%20Time.docx 200 OK
+unlink: No such file or directory
+2017-01-02 01:07:15 URL: http://www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/Water%20Quality%20Report%202015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:07:15 URL: http://www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/Parking%20Map%205%2020%2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:07:15 URL: http://www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/Assessment%20Behind%20the%20Curtain.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:07:16 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/where [55799] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/where" [1]
+2017-01-02 01:07:19 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_Jobs/ [31773] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_Jobs" [1]
+2017-01-02 01:07:19 URL: http://www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/To%20All%20Town%20of%20Lenox%20subscribers.docx 200 OK
+unlink: No such file or directory
+2017-01-02 01:07:19 URL: http://www.townoflenox.com/Public_Documents/LenoxMA_DPW/DPW%20Snow%20Policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:07:20 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BBoard/ [49326] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BBoard/index.html" [1]
+2017-01-02 01:07:22 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BBoard/0587D061-000F8513 [35539] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BBoard/0587D061-000F8513" [1]
+2017-01-02 01:07:23 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BBoard/0586FCAB-000F8513 [30567] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BBoard/0586FCAB-000F8513" [1]
+2017-01-02 01:07:24 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BBoard/05868424-000F8513 [29457] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BBoard/05868424-000F8513" [1]
+2017-01-02 01:07:26 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BBoard/0585F662-000F8513 [30627] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BBoard/0585F662-000F8513" [1]
+2017-01-02 01:07:27 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BBoard/058536FC-000F8513 [31773] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BBoard/058536FC-000F8513" [1]
+2017-01-02 01:07:28 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_BBoard/058446B5-000F8513 [34955] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_BBoard/058446B5-000F8513" [1]
+2017-01-02 01:07:29 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/disclaimer [31468] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/disclaimer" [1]
+2017-01-02 01:07:31 URL:http://www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/privacy [40037] -> "../data/townSites2/Lenox/www.townoflenox.com/Public_Documents/LenoxMA_WebDocs/privacy" [1]
+Found 6 broken links.
+
+http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/youth
+http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/infrastructure
+http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/economic
+http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/marketing
+http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/trust
+http://www.townoflenox.com/Public_Documents/LenoxMA_BComm/sourcewater
+
+FINISHED --2017-01-02 01:07:31--
+Total wall clock time: 1m 44s
+Downloaded: 76 files, 2.8M in 28s (104 KB/s)

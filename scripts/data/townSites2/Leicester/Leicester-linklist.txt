@@ -1,0 +1,991 @@
+2017-01-02 00:44:46 URL:http://www.leicesterma.org/ [51257] -> "../data/townSites2/Leicester/www.leicesterma.org/index.html" [1]
+2017-01-02 00:44:46 URL: http://www.leicesterma.org/sites/leicesterma/themes/vts/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:47 URL:http://www.leicesterma.org/home/pages/about-leicester [40129] -> "../data/townSites2/Leicester/www.leicesterma.org/home/pages/about-leicester" [1]
+2017-01-02 00:44:49 URL:http://www.leicesterma.org/departments [47762] -> "../data/townSites2/Leicester/www.leicesterma.org/departments" [1]
+2017-01-02 00:44:51 URL:http://www.leicesterma.org/accounting [55109] -> "../data/townSites2/Leicester/www.leicesterma.org/accounting" [1]
+2017-01-02 00:44:53 URL:http://www.leicesterma.org/ambulance [52826] -> "../data/townSites2/Leicester/www.leicesterma.org/ambulance" [1]
+2017-01-02 00:44:55 URL:http://www.leicesterma.org/animal-control [53635] -> "../data/townSites2/Leicester/www.leicesterma.org/animal-control" [1]
+2017-01-02 00:44:57 URL:http://www.leicesterma.org/assessor [65180] -> "../data/townSites2/Leicester/www.leicesterma.org/assessor" [1]
+2017-01-02 00:44:59 URL:http://www.leicesterma.org/building-code-enforcement [60101] -> "../data/townSites2/Leicester/www.leicesterma.org/building-code-enforcement" [1]
+2017-01-02 00:45:02 URL:http://www.leicesterma.org/development-inspectional-services [57210] -> "../data/townSites2/Leicester/www.leicesterma.org/development-inspectional-services" [1]
+2017-01-02 00:45:04 URL:http://www.leicesterma.org/fire-department [62758] -> "../data/townSites2/Leicester/www.leicesterma.org/fire-department" [1]
+2017-01-02 00:45:07 URL:http://www.leicesterma.org/health-department [69385] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department" [1]
+2017-01-02 00:45:09 URL:http://www.leicesterma.org/highway-department [58785] -> "../data/townSites2/Leicester/www.leicesterma.org/highway-department" [1]
+2017-01-02 00:45:11 URL:http://www.leicesterma.org/leicester-public-library [66902] -> "../data/townSites2/Leicester/www.leicesterma.org/leicester-public-library" [1]
+2017-01-02 00:45:14 URL:http://www.leicesterma.org/planning-board-0 [72728] -> "../data/townSites2/Leicester/www.leicesterma.org/planning-board-0" [1]
+2017-01-02 00:45:16 URL:http://www.leicesterma.org/police [34192] -> "../data/townSites2/Leicester/www.leicesterma.org/police" [1]
+2017-01-02 00:45:18 URL:http://www.leicesterma.org/recycling-center [59181] -> "../data/townSites2/Leicester/www.leicesterma.org/recycling-center" [1]
+2017-01-02 00:45:20 URL:http://www.leicester.k12.ma.us/ [43075] -> "../data/townSites2/Leicester/www.leicesterma.org/schools" [1]
+2017-01-02 00:45:22 URL:http://www.leicesterma.org/senior-center-council-aging [68625] -> "../data/townSites2/Leicester/www.leicesterma.org/senior-center-council-aging" [1]
+2017-01-02 00:45:24 URL:http://www.leicesterma.org/town-administration [59990] -> "../data/townSites2/Leicester/www.leicesterma.org/town-administration" [1]
+2017-01-02 00:45:26 URL:http://www.leicesterma.org/town-clerk-board-registrars [62936] -> "../data/townSites2/Leicester/www.leicesterma.org/town-clerk-board-registrars" [1]
+2017-01-02 00:45:27 URL:http://www.leicesterma.org/treasurer-collector [56309] -> "../data/townSites2/Leicester/www.leicesterma.org/treasurer-collector" [1]
+2017-01-02 00:45:30 URL:http://www.leicesterma.org/veterans-services [55665] -> "../data/townSites2/Leicester/www.leicesterma.org/veterans-services" [1]
+2017-01-02 00:45:31 URL:http://www.leicesterma.org/boards [52441] -> "../data/townSites2/Leicester/www.leicesterma.org/boards" [1]
+2017-01-02 00:45:33 URL:http://www.leicesterma.org/agricultural-commission [60132] -> "../data/townSites2/Leicester/www.leicesterma.org/agricultural-commission" [1]
+2017-01-02 00:45:35 URL:http://www.leicesterma.org/arts-council [62489] -> "../data/townSites2/Leicester/www.leicesterma.org/arts-council" [1]
+2017-01-02 00:45:37 URL:http://www.leicesterma.org/bandstand-committee [61942] -> "../data/townSites2/Leicester/www.leicesterma.org/bandstand-committee" [1]
+2017-01-02 00:45:40 URL:http://www.leicesterma.org/board-selectmen [65347] -> "../data/townSites2/Leicester/www.leicesterma.org/board-selectmen" [1]
+2017-01-02 00:45:42 URL:http://www.leicesterma.org/burncoat-park-sports-planning-committee [60238] -> "../data/townSites2/Leicester/www.leicesterma.org/burncoat-park-sports-planning-committee" [1]
+2017-01-02 00:45:44 URL:http://www.leicesterma.org/bylaw-committee [56682] -> "../data/townSites2/Leicester/www.leicesterma.org/bylaw-committee" [1]
+2017-01-02 00:45:46 URL:http://www.leicesterma.org/cdbg-committee [55733] -> "../data/townSites2/Leicester/www.leicesterma.org/cdbg-committee" [1]
+2017-01-02 00:45:48 URL:http://www.leicesterma.org/capital-improvement-planning-committee [61921] -> "../data/townSites2/Leicester/www.leicesterma.org/capital-improvement-planning-committee" [1]
+2017-01-02 00:45:50 URL:http://www.leicesterma.org/commission-disabilities [59116] -> "../data/townSites2/Leicester/www.leicesterma.org/commission-disabilities" [1]
+2017-01-02 00:45:53 URL:http://www.leicesterma.org/conservation-commission [69836] -> "../data/townSites2/Leicester/www.leicesterma.org/conservation-commission" [1]
+2017-01-02 00:45:55 URL:http://www.leicesterma.org/economic-development-committee [61708] -> "../data/townSites2/Leicester/www.leicesterma.org/economic-development-committee" [1]
+2017-01-02 00:45:57 URL:http://www.leicesterma.org/emergency-planning-committee-0 [63144] -> "../data/townSites2/Leicester/www.leicesterma.org/emergency-planning-committee-0" [1]
+2017-01-02 00:45:59 URL:http://www.leicesterma.org/finance-advisory-board [66350] -> "../data/townSites2/Leicester/www.leicesterma.org/finance-advisory-board" [1]
+2017-01-02 00:46:01 URL:http://www.leicesterma.org/health-insurance-advisory-committee [62842] -> "../data/townSites2/Leicester/www.leicesterma.org/health-insurance-advisory-committee" [1]
+2017-01-02 00:46:03 URL:http://www.leicesterma.org/lcac [56774] -> "../data/townSites2/Leicester/www.leicesterma.org/lcac" [1]
+2017-01-02 00:46:05 URL:http://www.leicesterma.org/historical-commission [64033] -> "../data/townSites2/Leicester/www.leicesterma.org/historical-commission" [1]
+2017-01-02 00:46:07 URL:http://www.leicesterma.org/keep-leicester-green-committee [56993] -> "../data/townSites2/Leicester/www.leicesterma.org/keep-leicester-green-committee" [1]
+2017-01-02 00:46:09 URL:http://www.leicesterma.org/memorial-day-committee [60323] -> "../data/townSites2/Leicester/www.leicesterma.org/memorial-day-committee" [1]
+2017-01-02 00:46:11 URL:http://www.leicesterma.org/moose-hill-water-commission [64266] -> "../data/townSites2/Leicester/www.leicesterma.org/moose-hill-water-commission" [1]
+2017-01-02 00:46:13 URL:http://www.leicesterma.org/open-space-recreation-plan-committee [59597] -> "../data/townSites2/Leicester/www.leicesterma.org/open-space-recreation-plan-committee" [1]
+2017-01-02 00:46:15 URL:http://www.leicesterma.org/parks-and-recreation-committee [65521] -> "../data/townSites2/Leicester/www.leicesterma.org/parks-and-recreation-committee" [1]
+2017-01-02 00:46:17 URL:http://www.leicesterma.org/personnel-board [54287] -> "../data/townSites2/Leicester/www.leicesterma.org/personnel-board" [1]
+2017-01-02 00:46:19 URL:http://www.leicesterma.org/storm-water-committee [61760] -> "../data/townSites2/Leicester/www.leicesterma.org/storm-water-committee" [1]
+2017-01-02 00:46:22 URL:http://www.leicesterma.org/zoning-board-appeals [73170] -> "../data/townSites2/Leicester/www.leicesterma.org/zoning-board-appeals" [1]
+2017-01-02 00:46:23 URL:http://www.leicesterma.org/home/pages/community-events-groups-resources [36314] -> "../data/townSites2/Leicester/www.leicesterma.org/home/pages/community-events-groups-resources" [1]
+2017-01-02 00:46:25 URL:http://www.leicesterma.org/where [39754] -> "../data/townSites2/Leicester/www.leicesterma.org/where" [1]
+2017-01-02 00:46:29 URL:http://www.leicesterma.org/home/pages/thought-exchange [36342] -> "../data/townSites2/Leicester/www.leicesterma.org/home/pages/thought-exchange" [1]
+2017-01-02 00:46:30 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/cit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:46:32 URL:http://www.leicesterma.org/town-administration/pages/employment-opportunities [38159] -> "../data/townSites2/Leicester/www.leicesterma.org/town-administration/pages/employment-opportunities" [1]
+2017-01-02 00:46:34 URL:http://www.leicesterma.org/building-code-enforcement/pages/application-forms [38899] -> "../data/townSites2/Leicester/www.leicesterma.org/building-code-enforcement/pages/downloadable-forms" [1]
+2017-01-02 00:46:36 URL:http://www.leicesterma.org/treasurer-collector/pages/motor-vehicle-excise-tax-bills [41911] -> "../data/townSites2/Leicester/www.leicesterma.org/treasurer-collector/pages/motor-vehicle-excise-tax-bills" [1]
+2017-01-02 00:46:37 URL:http://www.leicesterma.org/highway-department/faq/who-should-i-report-pothole [37246] -> "../data/townSites2/Leicester/www.leicesterma.org/highway-department/faq/who-should-i-report-pothole" [1]
+2017-01-02 00:46:39 URL:http://www.leicesterma.org/calendar/month [86606] -> "../data/townSites2/Leicester/www.leicesterma.org/calendar/month" [1]
+2017-01-02 00:46:41 URL:http://www.leicesterma.org/town-clerk-board-registrars/pages/bylaws [38587] -> "../data/townSites2/Leicester/www.leicesterma.org/town-clerk/pages/bylaws" [1]
+2017-01-02 00:46:43 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/board_and_committee_vacancy_list_11-29-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:46:45 URL:http://www.leicesterma.org/faqs [45752] -> "../data/townSites2/Leicester/www.leicesterma.org/faqs" [1]
+2017-01-02 00:46:46 URL:http://www.leicesterma.org/town-administration/pages/annual-town-reports [38226] -> "../data/townSites2/Leicester/www.leicesterma.org/town-administration/pages/annual-town-reports" [1]
+2017-01-02 00:46:48 URL:http://www.leicesterma.org/node/1/news [36927] -> "../data/townSites2/Leicester/www.leicesterma.org/node/1/news" [1]
+2017-01-02 00:46:49 URL:http://www.leicesterma.org/home/urgent-alerts/due-inclement-weather-town-hall-will-close-330pm-thursday-december-29th [34014] -> "../data/townSites2/Leicester/www.leicesterma.org/home/urgent-alerts/due-inclement-weather-town-hall-will-close-330pm-thursday-december-29th" [1]
+2017-01-02 00:46:51 URL:http://www.leicesterma.org/home/pages/telephone-directory [33774] -> "../data/townSites2/Leicester/www.leicesterma.org/home/pages/telephone-directory" [1]
+2017-01-02 00:46:53 URL:http://www.leicesterma.org/webforms/contact-us [42501/42501] -> "../data/townSites2/Leicester/www.leicesterma.org/webforms/contact-us" [1]
+2017-01-02 00:46:55 URL:http://www.leicesterma.org/subscribe [37326/37326] -> "../data/townSites2/Leicester/www.leicesterma.org/subscribe" [1]
+2017-01-02 00:46:56 URL:http://www.leicesterma.org/home/pages/public-records [34756] -> "../data/townSites2/Leicester/www.leicesterma.org/home/pages/public-records" [1]
+2017-01-02 00:46:57 URL:http://www.leicesterma.org/home/news/town-hall-holiday-hours [33661] -> "../data/townSites2/Leicester/www.leicesterma.org/home/news/town-hall-holiday-hours" [1]
+2017-01-02 00:46:59 URL:http://www.leicesterma.org/home/news/thoughtexchange-community-survey [35628] -> "../data/townSites2/Leicester/www.leicesterma.org/home/news/thoughtexchange-community-survey" [1]
+2017-01-02 00:47:00 URL:http://www.leicesterma.org/home/news/town-hall-accessibility-survey [34129] -> "../data/townSites2/Leicester/www.leicesterma.org/home/news/town-hall-accessibility-survey" [1]
+2017-01-02 00:47:02 URL:http://www.leicesterma.org/calendar/day/2017-01-03 [38721] -> "../data/townSites2/Leicester/www.leicesterma.org/calendar/day/2017-01-03" [1]
+2017-01-02 00:47:03 URL:http://www.leicesterma.org/home/events/88133 [36607] -> "../data/townSites2/Leicester/www.leicesterma.org/home/events/88133" [1]
+2017-01-02 00:47:05 URL:http://www.leicesterma.org/home/events/88083 [36558] -> "../data/townSites2/Leicester/www.leicesterma.org/home/events/88083" [1]
+2017-01-02 00:47:06 URL:http://www.leicesterma.org/calendar/day/2017-01-05 [38425] -> "../data/townSites2/Leicester/www.leicesterma.org/calendar/day/2017-01-05" [1]
+2017-01-02 00:47:08 URL:http://www.leicesterma.org/home/events/87903 [36739] -> "../data/townSites2/Leicester/www.leicesterma.org/home/events/87903" [1]
+2017-01-02 00:47:10 URL:http://www.leicesterma.org/calendar/day/2017-01-07 [38612] -> "../data/townSites2/Leicester/www.leicesterma.org/calendar/day/2017-01-07" [1]
+2017-01-02 00:47:11 URL:http://www.leicesterma.org/home/events/71473 [33913] -> "../data/townSites2/Leicester/www.leicesterma.org/home/events/71473" [1]
+2017-01-02 00:47:13 URL:http://www.leicesterma.org/calendar/day/2017-01-09 [38401] -> "../data/townSites2/Leicester/www.leicesterma.org/calendar/day/2017-01-09" [1]
+2017-01-02 00:47:14 URL:http://www.leicesterma.org/home/events/60473 [33939] -> "../data/townSites2/Leicester/www.leicesterma.org/home/events/60473" [1]
+2017-01-02 00:47:16 URL:http://www.leicesterma.org/calendar/day/2017-01-11 [38420] -> "../data/townSites2/Leicester/www.leicesterma.org/calendar/day/2017-01-11" [1]
+2017-01-02 00:47:18 URL:http://www.leicesterma.org/home/events/88113 [36739] -> "../data/townSites2/Leicester/www.leicesterma.org/home/events/88113" [1]
+2017-01-02 00:47:19 URL:http://www.leicesterma.org/calendar/day/2017-01-21 [38612] -> "../data/townSites2/Leicester/www.leicesterma.org/calendar/day/2017-01-21" [1]
+2017-01-02 00:47:21 URL:http://www.leicesterma.org/home/events/72473 [34216] -> "../data/townSites2/Leicester/www.leicesterma.org/home/events/72473" [1]
+2017-01-02 00:47:24 URL:http://www.leicesterma.org/calendar/day/2017-01-23 [38402] -> "../data/townSites2/Leicester/www.leicesterma.org/calendar/day/2017-01-23" [1]
+2017-01-02 00:47:26 URL:http://www.leicesterma.org/home/events/70263 [33940] -> "../data/townSites2/Leicester/www.leicesterma.org/home/events/70263" [1]
+2017-01-02 00:47:29 URL:http://www.leicesterma.org/calendar/month/2017-01 [86656] -> "../data/townSites2/Leicester/www.leicesterma.org/calendar/month/2017-01" [1]
+2017-01-02 00:47:31 URL:http://www.leicesterma.org/home/pages/website-disclaimer-and-privacy-policy [34375] -> "../data/townSites2/Leicester/www.leicesterma.org/home/pages/website-disclaimer-and-privacy-policy" [1]
+2017-01-02 00:47:32 URL:http://www.leicesterma.org/home/pages/about-leicester [40129] -> "../data/townSites2/Leicester/www.leicesterma.org/node/4111" [1]
+2017-01-02 00:47:33 URL:http://www.leicesterma.org/print/4111 [12432] -> "../data/townSites2/Leicester/www.leicesterma.org/print/4111" [1]
+2017-01-02 00:47:34 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/leicester_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:47:36 URL:http://www.leicesterma.org/animal-control-0 [40856] -> "../data/townSites2/Leicester/www.leicesterma.org/animal-control-0" [1]
+2017-01-02 00:47:37 URL:http://www.leicesterma.org/accounting [55109] -> "../data/townSites2/Leicester/www.leicesterma.org/node/401" [1]
+2017-01-02 00:47:38 URL:http://www.leicesterma.org/print/401 [8546] -> "../data/townSites2/Leicester/www.leicesterma.org/print/401" [1]
+2017-01-02 00:47:40 URL:http://www.leicesterma.org/user/15716/contact [36075] -> "../data/townSites2/Leicester/www.leicesterma.org/user/15716/contact" [1]
+2017-01-02 00:47:42 URL:http://www.leicesterma.org/user/16523/contact [36057] -> "../data/townSites2/Leicester/www.leicesterma.org/user/16523/contact" [1]
+2017-01-02 00:47:42 URL: http://www.leicesterma.org/node/401/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:47:44 URL:http://www.leicesterma.org/accounting/pages/audited-financial-statements [36940] -> "../data/townSites2/Leicester/www.leicesterma.org/accounting/pages/audited-financial-statements" [1]
+2017-01-02 00:47:45 URL:http://www.leicesterma.org/accounting/pages/schedule [36223] -> "../data/townSites2/Leicester/www.leicesterma.org/accounting/pages/schedule" [1]
+2017-01-02 00:47:47 URL:http://www.leicesterma.org/accounting/pages/school-warrants [36247] -> "../data/townSites2/Leicester/www.leicesterma.org/accounting/pages/school-warrants" [1]
+2017-01-02 00:47:48 URL:http://www.leicesterma.org/accounting/pages/town-warrants [36239] -> "../data/townSites2/Leicester/www.leicesterma.org/accounting/pages/town-warrants" [1]
+2017-01-02 00:47:51 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/form_w9.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:47:53 URL:http://www.leicesterma.org/news [37877] -> "../data/townSites2/Leicester/www.leicesterma.org/news" [1]
+2017-01-02 00:47:55 URL:http://www.leicesterma.org/news/1 [37891] -> "../data/townSites2/Leicester/www.leicesterma.org/news/1" [1]
+2017-01-02 00:47:57 URL:http://www.leicesterma.org/ambulance [52826] -> "../data/townSites2/Leicester/www.leicesterma.org/node/731" [1]
+2017-01-02 00:47:59 URL:http://www.leicesterma.org/print/731 [7557] -> "../data/townSites2/Leicester/www.leicesterma.org/print/731" [1]
+2017-01-02 00:47:59 URL: http://www.leicesterma.org/node/731/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:01 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/course16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:02 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/emt_class_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:03 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/insurance_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:04 URL:http://www.leicesterma.org/animal-control [53635] -> "../data/townSites2/Leicester/www.leicesterma.org/node/196" [1]
+2017-01-02 00:48:05 URL:http://www.leicesterma.org/print/196 [7437] -> "../data/townSites2/Leicester/www.leicesterma.org/print/196" [1]
+2017-01-02 00:48:06 URL:http://www.leicesterma.org/user/15691/contact [36053] -> "../data/townSites2/Leicester/www.leicesterma.org/user/15691/contact" [1]
+2017-01-02 00:48:07 URL: http://www.leicesterma.org/node/196/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:08 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/animal_control_by-law.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:12 URL:https://unipaygold.unibank.com/default.aspx [101065/101065] -> "../data/townSites2/Leicester/www.leicesterma.org/animal-control/links/online-payment-dog-license" [1]
+2017-01-02 00:48:14 URL:http://www.leicesterma.org/assessor [65180] -> "../data/townSites2/Leicester/www.leicesterma.org/node/431" [1]
+2017-01-02 00:48:15 URL:http://www.leicesterma.org/print/431 [13595] -> "../data/townSites2/Leicester/www.leicesterma.org/print/431" [1]
+2017-01-02 00:48:17 URL:http://www.leicesterma.org/user/15886/contact [36069] -> "../data/townSites2/Leicester/www.leicesterma.org/user/15886/contact" [1]
+2017-01-02 00:48:19 URL:http://www.leicesterma.org/user/15891/contact [36063] -> "../data/townSites2/Leicester/www.leicesterma.org/user/15891/contact" [1]
+2017-01-02 00:48:21 URL: http://www.leicesterma.org/node/431/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:22 URL:http://www.leicesterma.org/assessor/pages/exemptions [37166] -> "../data/townSites2/Leicester/www.leicesterma.org/assessor/pages/exemptions" [1]
+2017-01-02 00:48:24 URL:http://www.leicesterma.org/assessor/pages/forms [37492] -> "../data/townSites2/Leicester/www.leicesterma.org/assessor/pages/forms" [1]
+2017-01-02 00:48:26 URL:http://maps.massgis.state.ma.us/map_ol/leicester.php [12204] -> "../data/townSites2/Leicester/www.leicesterma.org/assessor/links/munimapper" [1]
+2017-01-02 00:48:28 URL:http://leicester.patriotproperties.com/default.asp?br=exp&vr=6 [1132/1132] -> "../data/townSites2/Leicester/www.leicesterma.org/assessor/links/online-property-data-queries" [1]
+2017-01-02 00:48:29 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/senior_tax_work_off_info.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:30 URL:http://www.leicesterma.org/assessor/pages/tax-maps [47651] -> "../data/townSites2/Leicester/www.leicesterma.org/assessor/pages/tax-maps" [1]
+2017-01-02 00:48:33 URL:http://www.leicesterma.org/assessor/pages/tax-rates [37128] -> "../data/townSites2/Leicester/www.leicesterma.org/assessor/pages/tax-rates" [1]
+2017-01-02 00:48:36 URL:http://worcesterdeeds.com/ [6830/6830] -> "../data/townSites2/Leicester/www.leicesterma.org/assessor/links/worcester-district-registry-deeds" [1]
+2017-01-02 00:48:39 URL:http://www.leicesterma.org/node/431/faq [33975] -> "../data/townSites2/Leicester/www.leicesterma.org/node/431/faq" [1]
+2017-01-02 00:48:42 URL:http://www.leicesterma.org/assessor/faq/what-types-exemptions-reductions-real-estate-taxes-does-town-leicester-offer [40421] -> "../data/townSites2/Leicester/www.leicesterma.org/assessor/faq/what-types-exemptions-reductions-real-estate-taxes-does-town-leicester-offer" [1]
+2017-01-02 00:48:44 URL:http://www.leicesterma.org/assessor/faq/what-if-i-disagree-assessment-value-my-property [40452] -> "../data/townSites2/Leicester/www.leicesterma.org/assessor/faq/what-if-i-disagree-assessment-value-my-property" [1]
+2017-01-02 00:48:47 URL:http://www.leicesterma.org/assessor/faq/how-can-my-taxes-increase [37419] -> "../data/townSites2/Leicester/www.leicesterma.org/assessor/faq/how-can-my-taxes-increase" [1]
+2017-01-02 00:48:50 URL:http://www.leicesterma.org/assessor/faq/how-my-assessment-determined [37716] -> "../data/townSites2/Leicester/www.leicesterma.org/assessor/faq/how-my-assessment-determined" [1]
+2017-01-02 00:48:52 URL:http://www.leicesterma.org/assessor/faq/what-proposition-2-12 [37408] -> "../data/townSites2/Leicester/www.leicesterma.org/assessor/faq/what-proposition-2-12" [1]
+2017-01-02 00:48:54 URL:http://www.leicesterma.org/node/431/news [33212] -> "../data/townSites2/Leicester/www.leicesterma.org/node/431/news" [1]
+2017-01-02 00:48:56 URL:http://www.leicesterma.org/assessor/news/attention-owners-property-trust [37198] -> "../data/townSites2/Leicester/www.leicesterma.org/assessor/news/attention-owners-property-trust" [1]
+2017-01-02 00:48:58 URL:http://www.leicesterma.org/node/431/agenda [32686] -> "../data/townSites2/Leicester/www.leicesterma.org/node/431/agenda" [1]
+2017-01-02 00:49:00 URL:http://www.leicesterma.org/assessor/agenda/board-assessors-4 [37904] -> "../data/townSites2/Leicester/www.leicesterma.org/assessor/agenda/board-assessors-4" [1]
+2017-01-02 00:49:01 URL:http://www.leicesterma.org/assessor/agenda/board-assessors-3 [37918] -> "../data/townSites2/Leicester/www.leicesterma.org/assessor/agenda/board-assessors-3" [1]
+2017-01-02 00:49:03 URL:http://www.leicesterma.org/assessor/agenda/board-assessors-2 [37898] -> "../data/townSites2/Leicester/www.leicesterma.org/assessor/agenda/board-assessors-2" [1]
+2017-01-02 00:49:04 URL:http://www.leicesterma.org/assessor/agenda/board-assessors-1 [37911] -> "../data/townSites2/Leicester/www.leicesterma.org/assessor/agenda/board-assessors-1" [1]
+2017-01-02 00:49:06 URL:http://www.leicesterma.org/assessor/agenda/board-assessors-0 [37703] -> "../data/townSites2/Leicester/www.leicesterma.org/assessor/agenda/board-assessors-0" [1]
+2017-01-02 00:49:07 URL:http://www.leicesterma.org/building-code-enforcement [60101] -> "../data/townSites2/Leicester/www.leicesterma.org/node/546" [1]
+2017-01-02 00:49:08 URL:http://www.leicesterma.org/print/546 [11181] -> "../data/townSites2/Leicester/www.leicesterma.org/print/546" [1]
+2017-01-02 00:49:10 URL:http://www.leicesterma.org/user/15726/contact [36053] -> "../data/townSites2/Leicester/www.leicesterma.org/user/15726/contact" [1]
+2017-01-02 00:49:12 URL:http://www.leicesterma.org/user/15731/contact [36055] -> "../data/townSites2/Leicester/www.leicesterma.org/user/15731/contact" [1]
+2017-01-02 00:49:13 URL: http://www.leicesterma.org/node/546/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:49:14 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/necessary.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:49:15 URL:http://www.leicesterma.org/building-code-enforcement/pages/application-forms [38899] -> "../data/townSites2/Leicester/www.leicesterma.org/building-code-enforcement/pages/application-forms" [1]
+2017-01-02 00:49:16 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/list.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:49:18 URL:http://www.mass.gov/eopss/agencies/dps/dps-license-lookup.html [86779] -> "../data/townSites2/Leicester/www.leicesterma.org/building-code-enforcement/links/construction-supervisor-license-lookup" [1]
+2017-01-02 00:49:19 URL:http://www.leicesterma.org/building-code-enforcement/pages/fee-schedules [37906] -> "../data/townSites2/Leicester/www.leicesterma.org/building-code-enforcement/pages/fee-schedules" [1]
+2017-01-02 00:49:22 URL:http://msc.fema.gov/portal [45707] -> "../data/townSites2/Leicester/www.leicesterma.org/building-code-enforcement/links/flood-insurance-rate-maps-fema-website" [1]
+2017-01-02 00:49:23 URL:http://www.leicesterma.org/town-clerk-board-registrars/pages/bylaws [38587] -> "../data/townSites2/Leicester/www.leicesterma.org/building-code-enforcement/links/general-zoning-bylaws" [1]
+2017-01-02 00:49:24 URL:http://www.leicesterma.org/building-code-enforcement/pages/links [37840] -> "../data/townSites2/Leicester/www.leicesterma.org/building-code-enforcement/pages/links" [1]
+2017-01-02 00:49:26 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/req.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:49:27 URL:http://www.leicesterma.org/node/546/faq [34035] -> "../data/townSites2/Leicester/www.leicesterma.org/node/546/faq" [1]
+2017-01-02 00:49:28 URL:http://www.leicesterma.org/building-code-enforcement/faq/do-i-need-building-permit-shed [38072] -> "../data/townSites2/Leicester/www.leicesterma.org/building-code-enforcement/faq/do-i-need-building-permit-shed" [1]
+2017-01-02 00:49:30 URL:http://www.leicesterma.org/building-code-enforcement/faq/what-required-setback-accessory-structures-sheds-pools-etc [38062] -> "../data/townSites2/Leicester/www.leicesterma.org/building-code-enforcement/faq/what-required-setback-accessory-structures-sheds-pools-etc" [1]
+2017-01-02 00:49:31 URL:http://www.leicesterma.org/building-code-enforcement/faq/do-i-need-building-permit-fence [37895] -> "../data/townSites2/Leicester/www.leicesterma.org/building-code-enforcement/faq/do-i-need-building-permit-fence" [1]
+2017-01-02 00:49:32 URL:http://www.leicesterma.org/development-inspectional-services [57210] -> "../data/townSites2/Leicester/www.leicesterma.org/node/561" [1]
+2017-01-02 00:49:33 URL:http://www.leicesterma.org/print/561 [9582] -> "../data/townSites2/Leicester/www.leicesterma.org/print/561" [1]
+2017-01-02 00:49:35 URL:http://www.leicesterma.org/planning-board-0 [72728] -> "../data/townSites2/Leicester/www.leicesterma.org/planning" [1]
+2017-01-02 00:49:36 URL:http://www.leicesterma.org/user/15736/contact [36061] -> "../data/townSites2/Leicester/www.leicesterma.org/user/15736/contact" [1]
+2017-01-02 00:49:38 URL:http://www.leicesterma.org/user/15741/contact [36043] -> "../data/townSites2/Leicester/www.leicesterma.org/user/15741/contact" [1]
+2017-01-02 00:49:38 URL: http://www.leicesterma.org/node/561/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:49:39 URL:http://www.leicesterma.org/development-inspectional-services/pages/upcoming-meeting-dates [37799] -> "../data/townSites2/Leicester/www.leicesterma.org/development-inspectional-services/pages/upcoming-meeting-dates" [1]
+2017-01-02 00:49:40 URL:http://www.leicesterma.org/fire-department [62758] -> "../data/townSites2/Leicester/www.leicesterma.org/node/4051" [1]
+2017-01-02 00:49:41 URL:http://www.leicesterma.org/print/4051 [13096] -> "../data/townSites2/Leicester/www.leicesterma.org/print/4051" [1]
+2017-01-02 00:49:42 URL: http://www.leicesterma.org/node/4051/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:49:44 URL:http://www.leicesterma.org/fire-department/pages/ems [37610] -> "../data/townSites2/Leicester/www.leicesterma.org/fire-department/pages/ems" [1]
+2017-01-02 00:49:45 URL:http://www.leicesterma.org/fire-department/pages/employment-application [38055] -> "../data/townSites2/Leicester/www.leicesterma.org/fire-department/pages/employment-application" [1]
+2017-01-02 00:49:46 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/lfd_fee_schedule_7_1_2016_00000002.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:49:48 URL:http://leicesterfire.jalbum.net/ [2175/2175] -> "../data/townSites2/Leicester/www.leicesterma.org/fire-department/links/fire-photo-gallery" [1]
+2017-01-02 00:49:49 URL:http://www.leicesterma.org/fire-department/pages/fire-safety-tips [37976] -> "../data/townSites2/Leicester/www.leicesterma.org/fire-department/pages/fire-safety-tips" [1]
+2017-01-02 00:49:50 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/house-numbers-alt.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:49:52 URL:http://www.leicesterma.org/fire-department/pages/locations [37483] -> "../data/townSites2/Leicester/www.leicesterma.org/fire-department/pages/locations" [1]
+2017-01-02 00:49:53 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/open_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:49:54 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/consumers-guide-w-sell-1-and-2-fam.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:49:55 URL:http://www.leicesterma.org/node/4051/agenda [32892] -> "../data/townSites2/Leicester/www.leicesterma.org/node/4051/agenda" [1]
+2017-01-02 00:49:56 URL:http://www.leicesterma.org/fire-department/agenda/fire-station-building-commitee [38376] -> "../data/townSites2/Leicester/www.leicesterma.org/fire-department/agenda/fire-station-building-commitee" [1]
+2017-01-02 00:49:58 URL:http://www.leicesterma.org/fire-department/agenda/fire-station-building-committee-6 [37336] -> "../data/townSites2/Leicester/www.leicesterma.org/fire-department/agenda/fire-station-building-committee-6" [1]
+2017-01-02 00:49:59 URL:http://www.leicesterma.org/fire-department/agenda/fire-station-building-committee-7 [38385] -> "../data/townSites2/Leicester/www.leicesterma.org/fire-department/agenda/fire-station-building-committee-7" [1]
+2017-01-02 00:50:01 URL:http://www.leicesterma.org/fire-department/agenda/fire-station-building-committee-5 [38364] -> "../data/townSites2/Leicester/www.leicesterma.org/fire-department/agenda/fire-station-building-committee-5" [1]
+2017-01-02 00:50:03 URL:http://www.leicesterma.org/fire-department/agenda/board-fire-engineers-0 [38331] -> "../data/townSites2/Leicester/www.leicesterma.org/fire-department/agenda/board-fire-engineers-0" [1]
+2017-01-02 00:50:05 URL:http://www.leicesterma.org/health-department [69385] -> "../data/townSites2/Leicester/www.leicesterma.org/node/691" [1]
+2017-01-02 00:50:06 URL:http://www.leicesterma.org/print/691 [12299] -> "../data/townSites2/Leicester/www.leicesterma.org/print/691" [1]
+2017-01-02 00:50:08 URL: http://www.leicesterma.org/node/691/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:50:11 URL:http://healthycentralma.com/ [46339] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department/links/central-ma-regional-public-health-alliance" [1]
+2017-01-02 00:50:12 URL:http://www.mass.gov/eohhs/gov/departments/dph/programs/id/epidemiology/factsheets.html [205877] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department/links/disease-fact-sheets" [1]
+http://www.mass.gov/eopss/agencies/mema/ready-massachusetts/emergency-kit.html:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:50:14 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/fees_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:50:16 URL:https://www.recalls.gov/food.html [9739/9739] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department/links/food-recalls" [1]
+2017-01-02 00:50:18 URL:http://www.leicesterma.org/health-department/pages/forms-applications [39103] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department/pages/forms-applications" [1]
+2017-01-02 00:50:20 URL:http://www.leicesterma.org/health-department/pages/health-links [39258] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department/pages/health-links" [1]
+2017-01-02 00:50:22 URL:http://www.leicesterma.org/health-department/pages/help-opioid-addictionsubstance-abuse [39805] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department/pages/help-opioid-addictionsubstance-abuse" [1]
+2017-01-02 00:50:23 URL:http://www.mass.gov/eohhs/gov/departments/dph/programs/hcq/medical-marijuana/ [36320] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department/links/medical-marijuana" [1]
+2017-01-02 00:50:25 URL:http://www.leicesterma.org/health-department/pages/outdoor-wood-boilers [38186] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department/pages/outdoor-wood-boilers" [1]
+2017-01-02 00:50:26 URL:http://www.leicesterma.org/recycling-center [59181] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department/links/recycling" [1]
+2017-01-02 00:50:28 URL:http://www.leicesterma.org/health-department/pages/tobacco [38600] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department/pages/tobacco" [1]
+2017-01-02 00:50:29 URL:http://www.leicesterma.org/health-department/pages/trash-septic-haulers [38421] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department/pages/trash-septic-haulers" [1]
+2017-01-02 00:50:31 URL:http://www.leicesterma.org/development-inspectional-services/pages/upcoming-meeting-dates [37799] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department/links/upcoming-meeting-dates" [1]
+2017-01-02 00:50:33 URL:http://www.leicesterma.org/node/691/faq [37299] -> "../data/townSites2/Leicester/www.leicesterma.org/node/691/faq" [1]
+2017-01-02 00:50:35 URL:http://www.leicesterma.org/health-department/faq/where-can-i-dispose-my-sharps-needles [38356] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department/faq/where-can-i-dispose-my-sharps-needles" [1]
+2017-01-02 00:50:37 URL:http://www.leicesterma.org/health-department/faq/when-do-food-preparers-have-wear-gloves [38849] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department/faq/when-do-food-preparers-have-wear-gloves" [1]
+2017-01-02 00:50:39 URL:http://www.leicesterma.org/health-department/faq/what-are-setback-requirements-pools [38797] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department/faq/what-are-setback-requirements-pools" [1]
+2017-01-02 00:50:40 URL:http://www.leicesterma.org/health-department/faq/when-can-perc-tests-be-done [37963] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department/faq/when-can-perc-tests-be-done" [1]
+2017-01-02 00:50:42 URL:http://www.leicesterma.org/health-department/faq/how-long-title-5-report-valid [38492] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department/faq/how-long-title-5-report-valid" [1]
+2017-01-02 00:50:43 URL:http://www.leicesterma.org/node/691/news [36774] -> "../data/townSites2/Leicester/www.leicesterma.org/node/691/news" [1]
+2017-01-02 00:50:44 URL:http://www.leicesterma.org/health-department/news/zika-information-0 [38092] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department/news/zika-information-0" [1]
+2017-01-02 00:50:46 URL:http://www.leicesterma.org/health-department/news/mosquito-bite-prevention [38054] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department/news/mosquito-bite-prevention" [1]
+2017-01-02 00:50:48 URL:http://www.leicesterma.org/health-department/news/cdc-advisory-zika-virus [38113] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department/news/cdc-advisory-zika-virus" [1]
+2017-01-02 00:50:50 URL:http://www.leicesterma.org/health-department/news/addiction-recovery-resources [38056] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department/news/addiction-recovery-resources" [1]
+2017-01-02 00:50:52 URL:http://www.leicesterma.org/health-department/news/first-eee-positive-mosquito-season [38282] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department/news/first-eee-positive-mosquito-season" [1]
+2017-01-02 00:50:53 URL:http://www.leicesterma.org/node/691/agenda [33637] -> "../data/townSites2/Leicester/www.leicesterma.org/node/691/agenda" [1]
+2017-01-02 00:50:55 URL:http://www.leicesterma.org/health-department/agenda/board-health-agendas [38853] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department/agenda/board-health-agendas" [1]
+2017-01-02 00:50:56 URL:http://www.leicesterma.org/health-department/agenda/board-health-4 [39053] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department/agenda/board-health-4" [1]
+2017-01-02 00:50:58 URL:http://www.leicesterma.org/health-department/agenda/board-health-3 [39031] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department/agenda/board-health-3" [1]
+2017-01-02 00:51:00 URL:http://www.leicesterma.org/health-department/agenda/board-health-2 [39033] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department/agenda/board-health-2" [1]
+2017-01-02 00:51:01 URL:http://www.leicesterma.org/health-department/agenda/board-health-1 [39050] -> "../data/townSites2/Leicester/www.leicesterma.org/health-department/agenda/board-health-1" [1]
+2017-01-02 00:51:02 URL:http://www.leicesterma.org/node/691/minutes [33713] -> "../data/townSites2/Leicester/www.leicesterma.org/node/691/minutes" [1]
+2017-01-02 00:51:04 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/minutes_9-20-16_-_approved.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:51:06 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/minutes_8-8-16_-_approved.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:51:07 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/minutes_3-7-16_-_approved.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:51:08 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/minutes_1-4-16_-_approved.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:51:10 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/boh_approved_and_posted_minutes_11_2_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:51:11 URL:http://www.leicesterma.org/highway-department [58785] -> "../data/townSites2/Leicester/www.leicesterma.org/node/16" [1]
+2017-01-02 00:51:12 URL:http://www.leicesterma.org/print/16 [9651] -> "../data/townSites2/Leicester/www.leicesterma.org/print/16" [1]
+2017-01-02 00:51:14 URL:http://www.leicesterma.org/user/15676/contact [36047] -> "../data/townSites2/Leicester/www.leicesterma.org/user/15676/contact" [1]
+2017-01-02 00:51:16 URL:http://www.leicesterma.org/user/15681/contact [36083] -> "../data/townSites2/Leicester/www.leicesterma.org/user/15681/contact" [1]
+2017-01-02 00:51:18 URL:http://www.leicesterma.org/user/15686/contact [36071] -> "../data/townSites2/Leicester/www.leicesterma.org/user/15686/contact" [1]
+2017-01-02 00:51:19 URL: http://www.leicesterma.org/node/16/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:51:21 URL:http://www.leicesterma.org/highway-department/pages/asphalt-grindings-policy [40236] -> "../data/townSites2/Leicester/www.leicesterma.org/highway-department/pages/asphalt-grindings-policy" [1]
+2017-01-02 00:51:22 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/asphalt_grindings_request_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:51:24 URL:http://www.leicesterma.org/highway-department/pages/cemetery-veteran-squares [38507] -> "../data/townSites2/Leicester/www.leicesterma.org/highway-department/pages/cemetery-veteran-squares" [1]
+2017-01-02 00:51:29 URL:http://www.centralmastormwater.org/Pages/index [32564] -> "../data/townSites2/Leicester/www.leicesterma.org/highway-department/links/central-ma-stormwater" [1]
+2017-01-02 00:51:31 URL:http://www.leicesterma.org/highway-department/pages/permits [37335] -> "../data/townSites2/Leicester/www.leicesterma.org/highway-department/pages/permits" [1]
+2017-01-02 00:51:32 URL:http://www.leicesterma.org/highway-department/pages/snow-and-ice [38934] -> "../data/townSites2/Leicester/www.leicesterma.org/highway-department/pages/snow-and-ice" [1]
+2017-01-02 00:51:34 URL:http://www.leicesterma.org/highway-department/pages/trees-grounds [37784] -> "../data/townSites2/Leicester/www.leicesterma.org/highway-department/pages/trees-grounds" [1]
+2017-01-02 00:51:36 URL:http://www.leicesterma.org/highway-department/pages/waste-oil-program [37649] -> "../data/townSites2/Leicester/www.leicesterma.org/highway-department/pages/waste-oil-program" [1]
+2017-01-02 00:51:37 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/winter_parking_ban_announcement_2015.jpg 200 OK
+unlink: No such file or directory
+2017-01-02 00:51:39 URL:http://www.leicesterma.org/node/16/faq [33800] -> "../data/townSites2/Leicester/www.leicesterma.org/node/16/faq" [1]
+2017-01-02 00:51:40 URL:http://www.leicesterma.org/highway-department/faq/catch-basin-storm-drain-near-my-home-clogged-or-cover-not-totally-or-broken [38117] -> "../data/townSites2/Leicester/www.leicesterma.org/highway-department/faq/catch-basin-storm-drain-near-my-home-clogged-or-cover-not-totally-or-broken" [1]
+2017-01-02 00:51:42 URL:http://www.leicesterma.org/highway-department/faq/who-should-i-report-street-sign-missing [37299] -> "../data/townSites2/Leicester/www.leicesterma.org/highway-department/faq/who-should-i-report-street-sign-missing" [1]
+2017-01-02 00:51:43 URL:http://www.leicesterma.org/node/16/news [33372] -> "../data/townSites2/Leicester/www.leicesterma.org/node/16/news" [1]
+2017-01-02 00:51:44 URL:http://www.leicesterma.org/highway-department/news/highway-department-now-operational-their-new-radios-new-frequency-150995 [37099] -> "../data/townSites2/Leicester/www.leicesterma.org/highway-department/news/highway-department-now-operational-their-new-radios-new-frequency-150995" [1]
+2017-01-02 00:51:46 URL:http://www.leicesterma.org/leicester-public-library [66902] -> "../data/townSites2/Leicester/www.leicesterma.org/node/216" [1]
+2017-01-02 00:51:47 URL:http://www.leicesterma.org/print/216 [15234] -> "../data/townSites2/Leicester/www.leicesterma.org/print/216" [1]
+2017-01-02 00:51:48 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/bricks.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:51:50 URL: http://www.leicesterma.org/node/216/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:51:51 URL:http://www.leicesterma.org/leicester-public-library/pages/catalogs [38533] -> "../data/townSites2/Leicester/www.leicesterma.org/leicester-public-library/pages/catalogs" [1]
+2017-01-02 00:51:53 URL:http://www.leicesterma.org/leicester-public-library/pages/inter-library-loan [38908] -> "../data/townSites2/Leicester/www.leicesterma.org/leicester-public-library/pages/inter-library-loan" [1]
+2017-01-02 00:51:54 URL:http://www.leicesterma.org/leicester-public-library/pages/library-history [41619] -> "../data/townSites2/Leicester/www.leicesterma.org/leicester-public-library/pages/library-history" [1]
+2017-01-02 00:51:56 URL:http://www.leicesterma.org/leicester-public-library/pages/links [37947] -> "../data/townSites2/Leicester/www.leicesterma.org/leicester-public-library/pages/links" [1]
+2017-01-02 00:51:58 URL:http://www.leicesterma.org/leicester-public-library/pages/local-history [39295] -> "../data/townSites2/Leicester/www.leicesterma.org/leicester-public-library/pages/local-history" [1]
+2017-01-02 00:51:59 URL:http://www.leicesterma.org/leicester-public-library/pages/museum-passes [40258] -> "../data/townSites2/Leicester/www.leicesterma.org/leicester-public-library/pages/museum-passes" [1]
+2017-01-02 00:52:01 URL:http://www.leicesterma.org/leicester-public-library/pages/photo-gallery [38909] -> "../data/townSites2/Leicester/www.leicesterma.org/leicester-public-library/pages/photo-gallery" [1]
+2017-01-02 00:52:03 URL:http://www.leicesterma.org/leicester-public-library/pages/policies [37510] -> "../data/townSites2/Leicester/www.leicesterma.org/leicester-public-library/pages/policies" [1]
+2017-01-02 00:52:04 URL:http://www.leicesterma.org/leicester-public-library/pages/renovation-project [49170] -> "../data/townSites2/Leicester/www.leicesterma.org/leicester-public-library/pages/renovation-project" [1]
+2017-01-02 00:52:06 URL:http://www.leicesterma.org/leicester-public-library/pages/trustees [37329] -> "../data/townSites2/Leicester/www.leicesterma.org/leicester-public-library/pages/trustees" [1]
+2017-01-02 00:52:07 URL:http://www.leicesterma.org/node/216/faq [37490] -> "../data/townSites2/Leicester/www.leicesterma.org/node/216/faq" [1]
+2017-01-02 00:52:09 URL:http://www.leicesterma.org/leicester-public-library/faq/where-library-located [37404] -> "../data/townSites2/Leicester/www.leicesterma.org/leicester-public-library/faq/where-library-located" [1]
+2017-01-02 00:52:10 URL:http://www.leicesterma.org/leicester-public-library/faq/do-you-still-have-question [37064] -> "../data/townSites2/Leicester/www.leicesterma.org/leicester-public-library/faq/do-you-still-have-question" [1]
+2017-01-02 00:52:12 URL:http://www.leicesterma.org/leicester-public-library/faq/do-you-have-public-fax [37234] -> "../data/townSites2/Leicester/www.leicesterma.org/leicester-public-library/faq/do-you-have-public-fax" [1]
+2017-01-02 00:52:14 URL:http://www.leicesterma.org/leicester-public-library/faq/do-you-have-town-records-genealogyresearch [37350] -> "../data/townSites2/Leicester/www.leicesterma.org/leicester-public-library/faq/do-you-have-town-records-genealogyresearch" [1]
+2017-01-02 00:52:15 URL:http://www.leicesterma.org/leicester-public-library/faq/do-you-take-donations [37276] -> "../data/townSites2/Leicester/www.leicesterma.org/leicester-public-library/faq/do-you-take-donations" [1]
+2017-01-02 00:52:16 URL:http://www.leicesterma.org/node/216/news [34985] -> "../data/townSites2/Leicester/www.leicesterma.org/node/216/news" [1]
+2017-01-02 00:52:18 URL:http://www.leicesterma.org/leicester-public-library/news/library-closed-1917-13117 [38342] -> "../data/townSites2/Leicester/www.leicesterma.org/leicester-public-library/news/library-closed-1917-13117" [1]
+2017-01-02 00:52:20 URL:http://www.leicesterma.org/leicester-public-library/news/books-and-blankies [37781] -> "../data/townSites2/Leicester/www.leicesterma.org/leicester-public-library/news/books-and-blankies" [1]
+2017-01-02 00:52:21 URL:http://www.leicesterma.org/leicester-public-library/news/story-time [37506] -> "../data/townSites2/Leicester/www.leicesterma.org/leicester-public-library/news/story-time" [1]
+2017-01-02 00:52:23 URL:http://www.leicesterma.org/node/216/agenda [33072] -> "../data/townSites2/Leicester/www.leicesterma.org/node/216/agenda" [1]
+2017-01-02 00:52:25 URL:http://www.leicesterma.org/leicester-public-library/agenda/library-building-committee-17 [38376] -> "../data/townSites2/Leicester/www.leicesterma.org/leicester-public-library/agenda/library-building-committee-17" [1]
+2017-01-02 00:52:27 URL:http://www.leicesterma.org/leicester-public-library/agenda/library-board-trustees-7 [38306] -> "../data/townSites2/Leicester/www.leicesterma.org/leicester-public-library/agenda/library-board-trustees-7" [1]
+2017-01-02 00:52:30 URL:http://www.leicesterma.org/leicester-public-library/agenda/board-library-trustees [38320] -> "../data/townSites2/Leicester/www.leicesterma.org/leicester-public-library/agenda/board-library-trustees" [1]
+2017-01-02 00:52:32 URL:http://www.leicesterma.org/leicester-public-library/agenda/library-building-committee-16 [37782] -> "../data/townSites2/Leicester/www.leicesterma.org/leicester-public-library/agenda/library-building-committee-16" [1]
+2017-01-02 00:52:34 URL:http://www.leicesterma.org/leicester-public-library/agenda/library-board-trustees-6 [38280] -> "../data/townSites2/Leicester/www.leicesterma.org/leicester-public-library/agenda/library-board-trustees-6" [1]
+2017-01-02 00:52:35 URL:http://www.leicesterma.org/planning-board-0 [72728] -> "../data/townSites2/Leicester/www.leicesterma.org/node/1296" [1]
+2017-01-02 00:52:36 URL:http://www.leicesterma.org/print/1296 [15189] -> "../data/townSites2/Leicester/www.leicesterma.org/print/1296" [1]
+2017-01-02 00:52:38 URL: http://www.leicesterma.org/node/1296/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:52:40 URL:http://www.leicesterma.org/planning/pages/application-forms [37759] -> "../data/townSites2/Leicester/www.leicesterma.org/planning/pages/application-forms" [1]
+2017-01-02 00:52:42 URL:http://www.leicesterma.org/building-code-enforcement [60101] -> "../data/townSites2/Leicester/www.leicesterma.org/planning/links/building-permit-questions" [1]
+2017-01-02 00:52:44 URL:http://www.leicesterma.org/planning-board/pages/current-applications-plans [46879] -> "../data/townSites2/Leicester/www.leicesterma.org/planning-board/pages/current-applications-plans" [1]
+2017-01-02 00:52:45 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/feereg.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:52:46 URL:http://www.leicesterma.org/planning/pages/plans-studies [37543] -> "../data/townSites2/Leicester/www.leicesterma.org/planning/pages/plans-studies" [1]
+2017-01-02 00:52:48 URL:http://www.leicesterma.org/planning-board/pages/regulations-requirements [38033] -> "../data/townSites2/Leicester/www.leicesterma.org/planning-board/pages/regulations-requirements" [1]
+2017-01-02 00:52:50 URL:http://www.leicesterma.org/development-inspectional-services/pages/upcoming-meeting-dates [37799] -> "../data/townSites2/Leicester/www.leicesterma.org/planning-board/links/upcoming-meeting-dates" [1]
+2017-01-02 00:52:52 URL:http://www.leicesterma.org/planning-board/pages/zoning-bylaws-map-includes-52016-amendments [37600] -> "../data/townSites2/Leicester/www.leicesterma.org/planning-board/pages/zoning-bylaws-map-includes-52016-amendments" [1]
+2017-01-02 00:52:53 URL:http://www.leicesterma.org/node/1296/faq [34549] -> "../data/townSites2/Leicester/www.leicesterma.org/node/1296/faq" [1]
+2017-01-02 00:52:55 URL:http://www.leicesterma.org/planning-board/faq/which-board-issues-special-permits-planning-board-or-zoning-board-appeals-zba [37983] -> "../data/townSites2/Leicester/www.leicesterma.org/planning-board/faq/which-board-issues-special-permits-planning-board-or-zoning-board-appeals-zba" [1]
+2017-01-02 00:52:57 URL:http://www.leicesterma.org/planning/faq/my-property-or-use-grandfathered [37563] -> "../data/townSites2/Leicester/www.leicesterma.org/planning/faq/my-property-or-use-grandfathered" [1]
+2017-01-02 00:52:58 URL:http://www.leicesterma.org/planning/faq/my-lot-buildable [37712] -> "../data/townSites2/Leicester/www.leicesterma.org/planning/faq/my-lot-buildable" [1]
+2017-01-02 00:53:00 URL:http://www.leicesterma.org/planning/faq/how-long-will-review-my-project-take [37557] -> "../data/townSites2/Leicester/www.leicesterma.org/planning/faq/how-long-will-review-my-project-take" [1]
+2017-01-02 00:53:02 URL:http://www.leicesterma.org/planning/faq/what-zoning-district-my-property-located [37742] -> "../data/townSites2/Leicester/www.leicesterma.org/planning/faq/what-zoning-district-my-property-located" [1]
+2017-01-02 00:53:04 URL:http://www.leicesterma.org/node/1296/agenda [32939] -> "../data/townSites2/Leicester/www.leicesterma.org/node/1296/agenda" [1]
+2017-01-02 00:53:06 URL:http://www.leicesterma.org/planning-board/agenda/planning-board-14 [38151] -> "../data/townSites2/Leicester/www.leicesterma.org/planning-board/agenda/planning-board-14" [1]
+2017-01-02 00:53:07 URL:http://www.leicesterma.org/planning-board/agenda/planning-board-agenda-1 [37887] -> "../data/townSites2/Leicester/www.leicesterma.org/planning-board/agenda/planning-board-agenda-1" [1]
+2017-01-02 00:53:08 URL:http://www.leicesterma.org/planning-board/agenda/planning-board-13 [38094] -> "../data/townSites2/Leicester/www.leicesterma.org/planning-board/agenda/planning-board-13" [1]
+2017-01-02 00:53:10 URL:http://www.leicesterma.org/planning-board/agenda/planning-board-11 [37106] -> "../data/townSites2/Leicester/www.leicesterma.org/planning-board/agenda/planning-board-11" [1]
+2017-01-02 00:53:12 URL:http://www.leicesterma.org/planning-board/agenda/planning-board-12 [38068] -> "../data/townSites2/Leicester/www.leicesterma.org/planning-board/agenda/planning-board-12" [1]
+2017-01-02 00:53:13 URL:http://www.leicesterma.org/node/1296/minutes [33086] -> "../data/townSites2/Leicester/www.leicesterma.org/node/1296/minutes" [1]
+2017-01-02 00:53:14 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/pbmin10-25-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:53:15 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/pbmin10-04-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:53:16 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/pbmin09-20-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:53:17 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/pbmin09-06-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:53:18 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/pbmin08-23-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:53:19 URL:http://www.leicesterma.org/police [34192] -> "../data/townSites2/Leicester/www.leicesterma.org/node/9403" [1]
+2017-01-02 00:53:20 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/animal_control_by-law_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:53:24 URL:https://unipaygold.unibank.com/default.aspx [101065/101065] -> "../data/townSites2/Leicester/www.leicesterma.org/animal-control/links/pay-dog-license-online" [1]
+2017-01-02 00:53:26 URL:http://www.leicesterma.org/police/pages/forms [25765] -> "../data/townSites2/Leicester/www.leicesterma.org/police/pages/forms" [1]
+2017-01-02 00:53:28 URL:http://www.leicesterma.org/police/webforms/anonymous-tip-form [29087/29087] -> "../data/townSites2/Leicester/www.leicesterma.org/police/webforms/anonymous-tip-form" [1]
+2017-01-02 00:53:30 URL:http://www.leicesterma.org/police/pages/cori-request-forms [25186] -> "../data/townSites2/Leicester/www.leicesterma.org/police/pages/cori-request-forms" [1]
+2017-01-02 00:53:31 URL:http://www.leicesterma.org/police/pages/e-911-forms [25161] -> "../data/townSites2/Leicester/www.leicesterma.org/police/pages/e-911-forms" [1]
+2017-01-02 00:53:33 URL:http://www.leicesterma.org/police/pages/firearms-forms [26224] -> "../data/townSites2/Leicester/www.leicesterma.org/police/pages/firearms-forms" [1]
+2017-01-02 00:53:35 URL:http://www.leicesterma.org/police/pages/lpd-forms [27529] -> "../data/townSites2/Leicester/www.leicesterma.org/police/pages/lpd-forms" [1]
+2017-01-02 00:53:36 URL:http://www.leicesterma.org/police/pages/parking-tickets [25049] -> "../data/townSites2/Leicester/www.leicesterma.org/police/pages/parking-tickets" [1]
+2017-01-02 00:53:38 URL:http://www.leicesterma.org/police/pages/rmv-forms [25923] -> "../data/townSites2/Leicester/www.leicesterma.org/police/pages/rmv-forms" [1]
+2017-01-02 00:53:40 URL:http://www.leicesterma.org/police/webforms/report-crime-online [30138/30138] -> "../data/townSites2/Leicester/www.leicesterma.org/police/webforms/report-crime-online" [1]
+2017-01-02 00:53:42 URL:http://www.leicesterma.org/police/pages/sori-request-forms [25673] -> "../data/townSites2/Leicester/www.leicesterma.org/police/pages/sori-request-forms" [1]
+2017-01-02 00:53:43 URL:http://www.leicesterma.org/police/pages/child-safety-seat-program [29333] -> "../data/townSites2/Leicester/www.leicesterma.org/police/pages/child-safety-seat-program" [1]
+2017-01-02 00:53:45 URL:http://www.leicesterma.org/print/9403 [14756] -> "../data/townSites2/Leicester/www.leicesterma.org/print/9403" [1]
+2017-01-02 00:53:47 URL:http://www.leicesterma.org/user/15756/contact [36055] -> "../data/townSites2/Leicester/www.leicesterma.org/user/15756/contact" [1]
+2017-01-02 00:53:49 URL:http://www.leicesterma.org/user/15761/contact [36091] -> "../data/townSites2/Leicester/www.leicesterma.org/user/15761/contact" [1]
+2017-01-02 00:53:51 URL:http://www.leicesterma.org/user/15766/contact [36045] -> "../data/townSites2/Leicester/www.leicesterma.org/user/15766/contact" [1]
+2017-01-02 00:53:54 URL:http://www.leicesterma.org/user/16253/contact [36039] -> "../data/townSites2/Leicester/www.leicesterma.org/user/16253/contact" [1]
+2017-01-02 00:53:56 URL:http://www.leicesterma.org/user/16263/contact [36051] -> "../data/townSites2/Leicester/www.leicesterma.org/user/16263/contact" [1]
+2017-01-02 00:53:58 URL:http://www.leicesterma.org/user/16273/contact [36071] -> "../data/townSites2/Leicester/www.leicesterma.org/user/16273/contact" [1]
+2017-01-02 00:54:00 URL:http://www.leicesterma.org/police/pages/firearms-licensing [25600] -> "../data/townSites2/Leicester/www.leicesterma.org/police/pages/firearms-licensing" [1]
+2017-01-02 00:54:01 URL:http://www.leicesterma.org/police/pages/mission-and-vision-statements [28131] -> "../data/townSites2/Leicester/www.leicesterma.org/police/pages/mission-and-vision-statements" [1]
+2017-01-02 00:54:03 URL:http://www.leicesterma.org/police/pages/ordinances-bylaws [25038] -> "../data/townSites2/Leicester/www.leicesterma.org/police/pages/ordinances-bylaws" [1]
+2017-01-02 00:54:05 URL:http://www.leicesterma.org/police/pages/police-logs [24983] -> "../data/townSites2/Leicester/www.leicesterma.org/police/pages/police-logs" [1]
+2017-01-02 00:54:12 URL:https://policereports.lexisnexis.com/ [161101] -> "../data/townSites2/Leicester/www.leicesterma.org/police/links/purchase-accident-reports" [1]
+2017-01-02 00:54:13 URL:http://www.leicesterma.org/police/pages/staff-directory [28466] -> "../data/townSites2/Leicester/www.leicesterma.org/police/pages/staff-directory" [1]
+2017-01-02 00:54:16 URL:http://www.leicesterma.org/subscribe [37326/37326] -> "../data/townSites2/Leicester/www.leicesterma.org/police/links/subscribe-email-alert-system" [1]
+2017-01-02 00:54:18 URL:http://www.leicesterma.org/recycling-center [59181] -> "../data/townSites2/Leicester/www.leicesterma.org/node/2181" [1]
+2017-01-02 00:54:19 URL:http://www.leicesterma.org/print/2181 [11051] -> "../data/townSites2/Leicester/www.leicesterma.org/print/2181" [1]
+2017-01-02 00:54:22 URL:http://www.leicesterma.org/user/15806/contact [36069] -> "../data/townSites2/Leicester/www.leicesterma.org/user/15806/contact" [1]
+2017-01-02 00:54:23 URL: http://www.leicesterma.org/node/2181/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:54:24 URL:http://www.leicesterma.org/recycling-center/pages/car-tags [38744] -> "../data/townSites2/Leicester/www.leicesterma.org/recycling-center/pages/car-tags" [1]
+2017-01-02 00:54:27 URL:http://www.leicesterma.org/recycling-center/news/help-our-charitable-efforts-we-collect-and-donate-many-items [38687] -> "../data/townSites2/Leicester/www.leicesterma.org/recycling-center/links/charitable-efforts" [1]
+2017-01-02 00:54:28 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/composting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:54:30 URL:http://www.leicesterma.org/recycling-center/pages/household-hazardous-waste [41584] -> "../data/townSites2/Leicester/www.leicesterma.org/recycling-center/pages/household-hazardous-waste" [1]
+2017-01-02 00:54:31 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/mats.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:54:33 URL:http://www.leicesterma.org/recycling-center/pages/links [40288] -> "../data/townSites2/Leicester/www.leicesterma.org/recycling-center/pages/links" [1]
+2017-01-02 00:54:34 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/direction.jpg 200 OK
+unlink: No such file or directory
+2017-01-02 00:54:35 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/plasticinfo.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:54:37 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/shed.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:54:38 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/recyclingdetails.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:54:40 URL:http://www.leicesterma.org/recycling-center/pages/recycling-leicester [40858] -> "../data/townSites2/Leicester/www.leicesterma.org/recycling-center/pages/recycling-leicester" [1]
+2017-01-02 00:54:41 URL:http://www.leicesterma.org/recycling-center/pages/sorting-recycled-materials [39136] -> "../data/townSites2/Leicester/www.leicesterma.org/recycling-center/pages/sorting-recycled-materials" [1]
+2017-01-02 00:54:43 URL:http://www.leicesterma.org/recycling-center/pages/stickers-renewal [39627] -> "../data/townSites2/Leicester/www.leicesterma.org/recycling-center/pages/stickers-renewal" [1]
+2017-01-02 00:54:44 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/bus.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:54:45 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/recycling_center_volunteers_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:54:47 URL:http://www.leicesterma.org/recycling-center/pages/what-do-i-do [40146] -> "../data/townSites2/Leicester/www.leicesterma.org/recycling-center/pages/what-do-i-do" [1]
+2017-01-02 00:54:49 URL:http://www.leicesterma.org/node/2181/news [35862] -> "../data/townSites2/Leicester/www.leicesterma.org/node/2181/news" [1]
+2017-01-02 00:54:50 URL:http://www.leicesterma.org/recycling-center/news/drug-take-back-day-recycling-center-april-and-october [38214] -> "../data/townSites2/Leicester/www.leicesterma.org/recycling-center/news/drug-take-back-day-recycling-center-april-and-october" [1]
+2017-01-02 00:54:51 URL:http://www.leicesterma.org/recycling-center/news/help-our-charitable-efforts-we-collect-and-donate-many-items [38687] -> "../data/townSites2/Leicester/www.leicesterma.org/recycling-center/news/help-our-charitable-efforts-we-collect-and-donate-many-items" [1]
+2017-01-02 00:54:52 URL:http://www.leicesterma.org/recycling-center/news/now-accepted-styrofoam-plastic-cutlery-plastic-bags-paper-items-and-mercury [38428] -> "../data/townSites2/Leicester/www.leicesterma.org/recycling-center/news/now-accepted-styrofoam-plastic-cutlery-plastic-bags-paper-items-and-mercury" [1]
+2017-01-02 00:54:54 URL:http://www.leicesterma.org/recycling-center/news/tg-article-25-years-leicester-recycling [38023] -> "../data/townSites2/Leicester/www.leicesterma.org/recycling-center/news/tg-article-25-years-leicester-recycling" [1]
+2017-01-02 00:54:55 URL:http://www.leicesterma.org/senior-center-council-aging [68625] -> "../data/townSites2/Leicester/www.leicesterma.org/node/3871" [1]
+2017-01-02 00:54:56 URL:http://www.leicesterma.org/print/3871 [17657] -> "../data/townSites2/Leicester/www.leicesterma.org/print/3871" [1]
+2017-01-02 00:54:58 URL:http://www.leicesterma.org/user/15901/contact [36097] -> "../data/townSites2/Leicester/www.leicesterma.org/user/15901/contact" [1]
+2017-01-02 00:55:00 URL:http://www.leicesterma.org/user/15906/contact [36059] -> "../data/townSites2/Leicester/www.leicesterma.org/user/15906/contact" [1]
+2017-01-02 00:55:02 URL: http://www.leicesterma.org/node/3871/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:55:04 URL:http://www.leicesterma.org/council-aging-senior-center/pages/additional-staff [37018] -> "../data/townSites2/Leicester/www.leicesterma.org/council-aging-senior-center/pages/additional-staff" [1]
+http://www.leicesterma.org/council-aging-board:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:55:07 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/hearts4heat.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:55:09 URL:http://www.leicesterma.org/council-aging-senior-center/pages/helpful-organizations-resources [37250] -> "../data/townSites2/Leicester/www.leicesterma.org/council-aging-senior-center/pages/helpful-organizations-resources" [1]
+2017-01-02 00:55:11 URL:http://www.leicesterma.org/senior-center-council-aging/pages/transportation [44398] -> "../data/townSites2/Leicester/www.leicesterma.org/senior-center-council-aging/pages/transportation" [1]
+2017-01-02 00:55:12 URL:http://www.leicesterma.org/node/3871/news [39447] -> "../data/townSites2/Leicester/www.leicesterma.org/node/3871/news" [1]
+2017-01-02 00:55:14 URL:http://www.leicesterma.org/senior-center-council-aging/news/december-2016-senior-horizon-newsletter [36862] -> "../data/townSites2/Leicester/www.leicesterma.org/senior-center-council-aging/news/december-2016-senior-horizon-newsletter" [1]
+2017-01-02 00:55:16 URL:http://www.leicesterma.org/senior-center-council-aging/news/november-2016-senior-horizon-newsletter [36862] -> "../data/townSites2/Leicester/www.leicesterma.org/senior-center-council-aging/news/november-2016-senior-horizon-newsletter" [1]
+2017-01-02 00:55:18 URL:http://www.leicesterma.org/senior-center-council-aging/news/october-2016-senior-horizon-newsletter [36867] -> "../data/townSites2/Leicester/www.leicesterma.org/senior-center-council-aging/news/october-2016-senior-horizon-newsletter" [1]
+2017-01-02 00:55:20 URL:http://www.leicesterma.org/senior-center-council-aging/news/september-2016-senior-horizon-newsletter [36867] -> "../data/townSites2/Leicester/www.leicesterma.org/senior-center-council-aging/news/september-2016-senior-horizon-newsletter" [1]
+2017-01-02 00:55:22 URL:http://www.leicesterma.org/senior-center-council-aging/news/august-2016-senior-horizon-newsletter [36851] -> "../data/townSites2/Leicester/www.leicesterma.org/senior-center-council-aging/news/august-2016-senior-horizon-newsletter" [1]
+2017-01-02 00:55:24 URL:http://www.leicesterma.org/node/3871/agenda [32609] -> "../data/townSites2/Leicester/www.leicesterma.org/node/3871/agenda" [1]
+2017-01-02 00:55:26 URL:http://www.leicesterma.org/senior-center-council-aging/agenda/council-aging-0 [37827] -> "../data/townSites2/Leicester/www.leicesterma.org/senior-center-council-aging/agenda/council-aging-0" [1]
+2017-01-02 00:55:28 URL:http://www.leicesterma.org/senior-center-council-aging/agenda/coa-0 [37287] -> "../data/townSites2/Leicester/www.leicesterma.org/senior-center-council-aging/agenda/coa-0" [1]
+2017-01-02 00:55:30 URL:http://www.leicesterma.org/senior-center-council-aging/agenda/leicester-council-aging-1 [36873] -> "../data/townSites2/Leicester/www.leicesterma.org/senior-center-council-aging/agenda/leicester-council-aging-1" [1]
+2017-01-02 00:55:32 URL:http://www.leicesterma.org/senior-center-council-aging/agenda/leicester-council-aging-2 [37576] -> "../data/townSites2/Leicester/www.leicesterma.org/senior-center-council-aging/agenda/leicester-council-aging-2" [1]
+2017-01-02 00:55:35 URL:http://www.leicesterma.org/senior-center-council-aging/agenda/council-aging [37589] -> "../data/townSites2/Leicester/www.leicesterma.org/senior-center-council-aging/agenda/council-aging" [1]
+2017-01-02 00:55:36 URL:http://www.leicesterma.org/town-administration [59990] -> "../data/townSites2/Leicester/www.leicesterma.org/node/1086" [1]
+2017-01-02 00:55:37 URL:http://www.leicesterma.org/print/1086 [8417] -> "../data/townSites2/Leicester/www.leicesterma.org/print/1086" [1]
+2017-01-02 00:55:39 URL:http://www.leicesterma.org/user/15776/contact [36069] -> "../data/townSites2/Leicester/www.leicesterma.org/user/15776/contact" [1]
+2017-01-02 00:55:42 URL:http://www.leicesterma.org/user/15781/contact [36081] -> "../data/townSites2/Leicester/www.leicesterma.org/user/15781/contact" [1]
+2017-01-02 00:55:44 URL:http://www.leicesterma.org/user/16593/contact [36073] -> "../data/townSites2/Leicester/www.leicesterma.org/user/16593/contact" [1]
+2017-01-02 00:55:46 URL: http://www.leicesterma.org/node/1086/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:55:47 URL:http://www.leicesterma.org/board-selectmen [65347] -> "../data/townSites2/Leicester/www.leicesterma.org/town-administratin/links/board-selectmen" [1]
+2017-01-02 00:55:48 URL:http://www.leicesterma.org/town-administration/pages/budget [38164] -> "../data/townSites2/Leicester/www.leicesterma.org/town-administration/pages/budget" [1]
+2017-01-02 00:55:50 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/comprehensive_policy_manual_-_revised_june_2016_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:55:52 URL:http://www.leicesterma.org/town-administration/pages/fire-ems-hq-project [38647] -> "../data/townSites2/Leicester/www.leicesterma.org/town-administration/pages/fire-ems-hq-project" [1]
+2017-01-02 00:55:52 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/gen_bylaws_5-6-14_doc_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:55:54 URL:http://www.leicesterma.org/town-administratin/pages/helpful-links [38555] -> "../data/townSites2/Leicester/www.leicesterma.org/town-administratin/pages/helpful-links" [1]
+2017-01-02 00:55:56 URL:http://www.leicesterma.org/town-administration/pages/human-resources [38268] -> "../data/townSites2/Leicester/www.leicesterma.org/town-administration/pages/human-resources" [1]
+2017-01-02 00:55:58 URL:http://www.leicesterma.org/town-administration/pages/rt-56-roadway-improvement-project [38550] -> "../data/townSites2/Leicester/www.leicesterma.org/town-administration/pages/rt-56-roadway-improvement-project" [1]
+2017-01-02 00:55:59 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/memo_-_ta_goals_year_4_-_sept_14_2016_rev_9_30_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:56:00 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/vacancies.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:56:01 URL:http://www.leicesterma.org/town-administration/pages/town-meeting-information [38435] -> "../data/townSites2/Leicester/www.leicesterma.org/town-administration/pages/town-meeting-information" [1]
+2017-01-02 00:56:03 URL:http://www.leicesterma.org/town-administration/pages/water-issues [40389] -> "../data/townSites2/Leicester/www.leicesterma.org/town-administration/pages/water-issues" [1]
+2017-01-02 00:56:04 URL:http://www.leicesterma.org/node/1086/agenda [33722] -> "../data/townSites2/Leicester/www.leicesterma.org/node/1086/agenda" [1]
+2017-01-02 00:56:05 URL:http://www.leicesterma.org/town-administration/agenda/board-selectmen-5 [38965] -> "../data/townSites2/Leicester/www.leicesterma.org/town-administration/agenda/board-selectmen-5" [1]
+2017-01-02 00:56:07 URL:http://www.leicesterma.org/town-administration/agenda/board-selectmen-4 [38960] -> "../data/townSites2/Leicester/www.leicesterma.org/town-administration/agenda/board-selectmen-4" [1]
+2017-01-02 00:56:09 URL:http://www.leicesterma.org/town-administration/agenda/board-selectmen-3 [38962] -> "../data/townSites2/Leicester/www.leicesterma.org/town-administration/agenda/board-selectmen-3" [1]
+2017-01-02 00:56:11 URL:http://www.leicesterma.org/town-administration/agenda/board-selectmen-2 [38684] -> "../data/townSites2/Leicester/www.leicesterma.org/town-administration/agenda/board-selectmen-2" [1]
+2017-01-02 00:56:12 URL:http://www.leicesterma.org/town-administration/agenda/comprehensive-bylaw-committee [38998] -> "../data/townSites2/Leicester/www.leicesterma.org/town-administration/agenda/comprehensive-bylaw-committee" [1]
+2017-01-02 00:56:14 URL:http://www.leicesterma.org/town-clerk-board-registrars [62936] -> "../data/townSites2/Leicester/www.leicesterma.org/node/12" [1]
+2017-01-02 00:56:15 URL:http://www.leicesterma.org/print/12 [10384] -> "../data/townSites2/Leicester/www.leicesterma.org/print/12" [1]
+2017-01-02 00:56:17 URL:http://www.leicesterma.org/user/15701/contact [36057] -> "../data/townSites2/Leicester/www.leicesterma.org/user/15701/contact" [1]
+2017-01-02 00:56:18 URL: http://www.leicesterma.org/node/12/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:56:20 URL:http://www.leicesterma.org/town-clerk-board-registrars/pages/districts-elected-town-officials [38587] -> "../data/townSites2/Leicester/www.leicesterma.org/town-clerk-board-registrars/pages/districts-elected-town-officials" [1]
+2017-01-02 00:56:21 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/doings_satm_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:56:24 URL:http://www.leicesterma.org/board-registrars [53871] -> "../data/townSites2/Leicester/www.leicesterma.org/town-clerk/links/board-registrars" [1]
+2017-01-02 00:56:26 URL:http://www.leicesterma.org/town-clerk/pages/business-certificates [39406] -> "../data/townSites2/Leicester/www.leicesterma.org/town-clerk/pages/business-certificates" [1]
+2017-01-02 00:56:27 URL:http://www.leicesterma.org/town-clerk-board-registrars/pages/bylaws [38587] -> "../data/townSites2/Leicester/www.leicesterma.org/town-clerk-board-registrars/pages/bylaws" [1]
+2017-01-02 00:56:28 URL:http://www.leicesterma.org/town-clerk-board-registrars/pages/census [39016] -> "../data/townSites2/Leicester/www.leicesterma.org/town-clerk-board-registrars/pages/census" [1]
+2017-01-02 00:56:31 URL:http://www.sec.state.ma.us/cis/cistwn/twnidx.htm [99248/99248] -> "../data/townSites2/Leicester/www.leicesterma.org/town-clerk/links/citizens-guide-town-meeting" [1]
+2017-01-02 00:56:32 URL:http://www.leicesterma.org/town-clerk/pages/dog-licenses [39712] -> "../data/townSites2/Leicester/www.leicesterma.org/town-clerk/pages/dog-licenses" [1]
+2017-01-02 00:56:34 URL:http://www.leicesterma.org/town-clerk/pages/fundraising-raffles-bazaars [38845] -> "../data/townSites2/Leicester/www.leicesterma.org/town-clerk/pages/fundraising-raffles-bazaars" [1]
+2017-01-02 00:56:36 URL:http://www.mass.gov/eea/data/license/fish-game/hunting-fishing-or-trapping-licenses.html [161051] -> "../data/townSites2/Leicester/www.leicesterma.org/town-clerk/links/hunting-fishing-licenses" [1]
+2017-01-02 00:56:37 URL:http://www.leicesterma.org/town-clerk/pages/links-interest [39450] -> "../data/townSites2/Leicester/www.leicesterma.org/town-clerk/pages/links-interest" [1]
+2017-01-02 00:56:39 URL:http://www.leicesterma.org/town-clerk-board-registrars/pages/marriage-licenses [42600] -> "../data/townSites2/Leicester/www.leicesterma.org/town-clerk-board-registrars/pages/marriage-licenses" [1]
+2017-01-02 00:56:40 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/meeting_notice_updated_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:56:41 URL:http://www.leicesterma.org/town-clerk/slideshows/slideshow [40547] -> "../data/townSites2/Leicester/www.leicesterma.org/town-clerk/slideshows/slideshow" [1]
+2017-01-02 00:56:43 URL:http://www.leicesterma.org/town-clerk/pages/town-clerk-services [38437] -> "../data/townSites2/Leicester/www.leicesterma.org/town-clerk/pages/town-clerk-services" [1]
+2017-01-02 00:56:45 URL:http://www.leicesterma.org/town-clerk/pages/vital-records-0 [39162] -> "../data/townSites2/Leicester/www.leicesterma.org/town-clerk/pages/vital-records-0" [1]
+2017-01-02 00:56:46 URL:http://www.leicesterma.org/town-clerk-board-registrars/pages/voting-elections [39827] -> "../data/townSites2/Leicester/www.leicesterma.org/town-clerk-board-registrars/pages/voting-elections" [1]
+2017-01-02 00:56:49 URL:http://www.therta.com/schedules/ [45789] -> "../data/townSites2/Leicester/www.leicesterma.org/town-clerk/links/wrta-buses" [1]
+2017-01-02 00:56:51 URL:http://www.leicesterma.org/node/12/agenda [34157] -> "../data/townSites2/Leicester/www.leicesterma.org/node/12/agenda" [1]
+2017-01-02 00:56:52 URL:http://www.leicesterma.org/town-clerk-board-registrars/agenda/registrars-3 [39384] -> "../data/townSites2/Leicester/www.leicesterma.org/town-clerk-board-registrars/agenda/registrars-3" [1]
+2017-01-02 00:56:54 URL:http://www.leicesterma.org/town-clerk-board-registrars/agenda/registrars-meeting [39422] -> "../data/townSites2/Leicester/www.leicesterma.org/town-clerk-board-registrars/agenda/registrars-meeting" [1]
+2017-01-02 00:56:55 URL:http://www.leicesterma.org/town-clerk-board-registrars/agenda/registrar-0 [38396] -> "../data/townSites2/Leicester/www.leicesterma.org/town-clerk-board-registrars/agenda/registrar-0" [1]
+2017-01-02 00:56:57 URL:http://www.leicesterma.org/town-clerk-board-registrars/agenda/registrar-1 [38866] -> "../data/townSites2/Leicester/www.leicesterma.org/town-clerk-board-registrars/agenda/registrar-1" [1]
+2017-01-02 00:56:58 URL:http://www.leicesterma.org/town-clerk-board-registrars/agenda/early-voting-dates-and-hours [39353] -> "../data/townSites2/Leicester/www.leicesterma.org/town-clerk-board-registrars/agenda/early-voting-dates-and-hours" [1]
+2017-01-02 00:57:00 URL:http://www.leicesterma.org/node/12/minutes [34165] -> "../data/townSites2/Leicester/www.leicesterma.org/node/12/minutes" [1]
+2017-01-02 00:57:01 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/reg_10-25-16.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:57:03 URL:http://www.leicesterma.org/treasurer-collector [56309] -> "../data/townSites2/Leicester/www.leicesterma.org/node/2496" [1]
+2017-01-02 00:57:04 URL:http://www.leicesterma.org/print/2496 [8632] -> "../data/townSites2/Leicester/www.leicesterma.org/print/2496" [1]
+2017-01-02 00:57:06 URL:http://www.leicesterma.org/user/15846/contact [36059] -> "../data/townSites2/Leicester/www.leicesterma.org/user/15846/contact" [1]
+2017-01-02 00:57:08 URL:http://www.leicesterma.org/user/15856/contact [36053] -> "../data/townSites2/Leicester/www.leicesterma.org/user/15856/contact" [1]
+2017-01-02 00:57:09 URL: http://www.leicesterma.org/node/2496/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:57:11 URL:https://www.kelleyryan.com/epay/ [477/477] -> "../data/townSites2/Leicester/www.leicesterma.org/treasurer-collector/links/deputy-collector" [1]
+2017-01-02 00:57:13 URL:http://www.leicesterma.org/treasurer-collector/pages/how-pay-bill-town-leicester [47453] -> "../data/townSites2/Leicester/www.leicesterma.org/treasurer-collector/pages/how-pay-bill-town-leicester" [1]
+2017-01-02 00:57:15 URL:http://www.leicesterma.org/treasurer-collector/pages/municipal-lien-certificates [39544] -> "../data/townSites2/Leicester/www.leicesterma.org/treasurer-collector/pages/municipal-lien-certificates" [1]
+2017-01-02 00:57:16 URL:http://www.leicesterma.org/treasurer-collector/pages/new-owner-information [40028] -> "../data/townSites2/Leicester/www.leicesterma.org/treasurer-collector/pages/new-owner-information" [1]
+2017-01-02 00:57:19 URL:https://unipaygold.unibank.com/default.aspx [101065/101065] -> "../data/townSites2/Leicester/www.leicesterma.org/treasurer-collector/links/online-payments" [1]
+2017-01-02 00:57:21 URL:http://www.leicesterma.org/assessor [65180] -> "../data/townSites2/Leicester/www.leicesterma.org/treasurer-collector/links/property-valuations" [1]
+2017-01-02 00:57:22 URL:http://www.leicesterma.org/treasurer-collector/pages/real-estate-and-personal-property-taxes [42568] -> "../data/townSites2/Leicester/www.leicesterma.org/treasurer-collector/pages/real-estate-and-personal-property-taxes" [1]
+2017-01-02 00:57:24 URL:http://www.leicesterma.org/treasurer-collector/pages/request-tax-payment-information [38067] -> "../data/townSites2/Leicester/www.leicesterma.org/treasurer-collector/pages/request-tax-payment-information" [1]
+2017-01-02 00:57:25 URL:http://www.leicesterma.org/treasurer-collector/pages/new-owner-information [40028] -> "../data/townSites2/Leicester/www.leicesterma.org/treasurer-collector/links/supplemental-tax-bills" [1]
+2017-01-02 00:57:27 URL:http://www.leicesterma.org/assessor [65180] -> "../data/townSites2/Leicester/www.leicesterma.org/treasurer-collector/links/tax-excise-abatements" [1]
+2017-01-02 00:57:28 URL:http://www.leicesterma.org/treasurer-collector/pages/tax-due-dates [39317] -> "../data/townSites2/Leicester/www.leicesterma.org/treasurer-collector/pages/tax-due-dates" [1]
+2017-01-02 00:57:30 URL:http://www.leicesterma.org/veterans-services [55665] -> "../data/townSites2/Leicester/www.leicesterma.org/node/781" [1]
+2017-01-02 00:57:31 URL:http://www.leicesterma.org/print/781 [8960] -> "../data/townSites2/Leicester/www.leicesterma.org/print/781" [1]
+2017-01-02 00:57:33 URL:http://www.leicesterma.org/user/15746/contact [36091] -> "../data/townSites2/Leicester/www.leicesterma.org/user/15746/contact" [1]
+2017-01-02 00:57:34 URL: http://www.leicesterma.org/node/781/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:57:35 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:57:38 URL:https://www.facebook.com/pages/Cherry-Valley-American-Legion-Post-443/328964843846448 [445141] -> "../data/townSites2/Leicester/www.leicesterma.org/veterans-services/links/cherry-valley-legion-post-443" [1]
+2017-01-02 00:57:40 URL:http://www.ushistory.org/betsy/flagetiq.html [19483/19483] -> "../data/townSites2/Leicester/www.leicesterma.org/veterans-services/links/flag-rules-regulations" [1]
+2017-01-02 00:57:41 URL:http://www.mass.gov/veterans/ [98975] -> "../data/townSites2/Leicester/www.leicesterma.org/veterans-services/links/massachusetts-veterans-services" [1]
+2017-01-02 00:57:43 URL:http://www.tricare.mil/ [69450/69450] -> "../data/townSites2/Leicester/www.leicesterma.org/veterans-services/links/tricare" [1]
+2017-01-02 00:57:45 URL:http://www.va.gov/ [47093/47093] -> "../data/townSites2/Leicester/www.leicesterma.org/veterans-services/links/veterans-administration" [1]
+2017-01-02 00:57:47 URL:http://www.leicesterma.org/assessor [65180] -> "../data/townSites2/Leicester/www.leicesterma.org/veterans-services/links/veterans-tax-exemptions" [1]
+2017-01-02 00:57:48 URL:http://www.leicesterma.org/agricultural-commission [60132] -> "../data/townSites2/Leicester/www.leicesterma.org/node/836" [1]
+2017-01-02 00:57:49 URL:http://www.leicesterma.org/print/836 [14145] -> "../data/townSites2/Leicester/www.leicesterma.org/print/836" [1]
+2017-01-02 00:57:51 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/2016-cmg-fpg-5-19-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:57:52 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/2016-cmg-fpg-front-page_-_copy.jpg 200 OK
+unlink: No such file or directory
+2017-01-02 00:57:52 URL: http://www.leicesterma.org/node/836/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:57:54 URL:http://www.leicesterma.org/agricultural-commission/pages/upcoming-meetings [35765] -> "../data/townSites2/Leicester/www.leicesterma.org/agricultural-commission/pages/upcoming-meetings" [1]
+2017-01-02 00:57:55 URL:http://www.leicesterma.org/node/836/news [32482] -> "../data/townSites2/Leicester/www.leicesterma.org/node/836/news" [1]
+2017-01-02 00:57:57 URL:http://www.leicesterma.org/agricultural-commission/news/2016-farm-products-guide-released [36329] -> "../data/townSites2/Leicester/www.leicesterma.org/agricultural-commission/news/2016-farm-products-guide-released" [1]
+2017-01-02 00:57:58 URL:http://www.leicesterma.org/node/836/agenda [31961] -> "../data/townSites2/Leicester/www.leicesterma.org/node/836/agenda" [1]
+2017-01-02 00:58:00 URL:http://www.leicesterma.org/agricultural-commission/agenda/agricultural-commission-meeting [36931] -> "../data/townSites2/Leicester/www.leicesterma.org/agricultural-commission/agenda/agricultural-commission-meeting" [1]
+2017-01-02 00:58:02 URL:http://www.leicesterma.org/arts-council [62489] -> "../data/townSites2/Leicester/www.leicesterma.org/node/2051" [1]
+2017-01-02 00:58:03 URL:http://www.leicesterma.org/print/2051 [15331] -> "../data/townSites2/Leicester/www.leicesterma.org/print/2051" [1]
+2017-01-02 00:58:04 URL: http://www.leicesterma.org/node/2051/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:58:05 URL:http://www.leicesterma.org/calendar/month [86606] -> "../data/townSites2/Leicester/www.leicesterma.org/arts-council/links/upcoming-meetings" [1]
+2017-01-02 00:58:07 URL:http://www.leicesterma.org/node/2051/agenda [31902] -> "../data/townSites2/Leicester/www.leicesterma.org/node/2051/agenda" [1]
+2017-01-02 00:58:08 URL:http://www.leicesterma.org/arts-council/agenda/arts-council-1 [36992] -> "../data/townSites2/Leicester/www.leicesterma.org/arts-council/agenda/arts-council-1" [1]
+2017-01-02 00:58:10 URL:http://www.leicesterma.org/arts-council/agenda/arts-council-0 [37004] -> "../data/townSites2/Leicester/www.leicesterma.org/arts-council/agenda/arts-council-0" [1]
+2017-01-02 00:58:12 URL:http://www.leicesterma.org/arts-council/agenda/arts-council [36977] -> "../data/townSites2/Leicester/www.leicesterma.org/arts-council/agenda/arts-council" [1]
+2017-01-02 00:58:13 URL:http://www.leicesterma.org/bandstand-committee [61942] -> "../data/townSites2/Leicester/www.leicesterma.org/node/846" [1]
+2017-01-02 00:58:14 URL:http://www.leicesterma.org/print/846 [14801] -> "../data/townSites2/Leicester/www.leicesterma.org/print/846" [1]
+2017-01-02 00:58:15 URL: http://www.leicesterma.org/node/846/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:58:16 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/flyer2016_0.jpg 200 OK
+unlink: No such file or directory
+2017-01-02 00:58:18 URL:http://bandstands.blogspot.com/2009/03/leicester-ma.html [94463] -> "../data/townSites2/Leicester/www.leicesterma.org/bandstand-committee/links/bandstands-throughout-new-england" [1]
+2017-01-02 00:58:20 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/bandstandrequest.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:58:20 URL:http://www.leicesterma.org/board-selectmen [65347] -> "../data/townSites2/Leicester/www.leicesterma.org/node/1166" [1]
+2017-01-02 00:58:22 URL:http://www.leicesterma.org/print/1166 [9761] -> "../data/townSites2/Leicester/www.leicesterma.org/print/1166" [1]
+2017-01-02 00:58:24 URL:http://www.leicesterma.org/user/15821/contact [36065] -> "../data/townSites2/Leicester/www.leicesterma.org/user/15821/contact" [1]
+2017-01-02 00:58:26 URL:http://www.leicesterma.org/user/15836/contact [36051] -> "../data/townSites2/Leicester/www.leicesterma.org/user/15836/contact" [1]
+2017-01-02 00:58:28 URL:http://www.leicesterma.org/user/15831/contact [36055] -> "../data/townSites2/Leicester/www.leicesterma.org/user/15831/contact" [1]
+2017-01-02 00:58:30 URL:http://www.leicesterma.org/user/15816/contact [36085] -> "../data/townSites2/Leicester/www.leicesterma.org/user/15816/contact" [1]
+2017-01-02 00:58:32 URL:http://www.leicesterma.org/user/16403/contact [36063] -> "../data/townSites2/Leicester/www.leicesterma.org/user/16403/contact" [1]
+2017-01-02 00:58:34 URL: http://www.leicesterma.org/node/1166/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:58:35 URL:http://www.leicesterma.org/board-selectmen/pages/boards-committees [37403] -> "../data/townSites2/Leicester/www.leicesterma.org/board-selectmen/pages/boards-committees" [1]
+2017-01-02 00:58:36 URL:http://www.leicesterma.org/board-selectmen/pages/bylaws-laws-regulatons [37541] -> "../data/townSites2/Leicester/www.leicesterma.org/board-selectmen/pages/bylaws-laws-regulatons" [1]
+2017-01-02 00:58:39 URL:http://www.leicesterma.org/board-selectmen/webforms/contact-board-selectmen [40377/40377] -> "../data/townSites2/Leicester/www.leicesterma.org/board-selectmen/webforms/contact-board-selectmen" [1]
+2017-01-02 00:58:40 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/leicesterfmrapr2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:58:42 URL:http://www.leicesterma.org/board-selectmen/pages/forms [37098] -> "../data/townSites2/Leicester/www.leicesterma.org/board-selectmen/pages/forms" [1]
+2017-01-02 00:58:43 URL:http://www.leicesterma.org/board-selectmen/pages/links [37735] -> "../data/townSites2/Leicester/www.leicesterma.org/board-selectmen/pages/links" [1]
+http://www.leicesterma.org/sites/leicesterma/files/uploads/policy_manual_july_2014.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:58:46 URL:http://www.leicesterma.org/town-administration [59990] -> "../data/townSites2/Leicester/www.leicesterma.org/board-selectmen/links/town-administrator" [1]
+2017-01-02 00:58:47 URL:http://www.leicesterma.org/node/1166/agenda [32820] -> "../data/townSites2/Leicester/www.leicesterma.org/node/1166/agenda" [1]
+2017-01-02 00:58:50 URL:http://www.leicesterma.org/board-selectmen/agenda/bos-agenda-12 [38031] -> "../data/townSites2/Leicester/www.leicesterma.org/board-selectmen/agenda/bos-agenda-12" [1]
+2017-01-02 00:58:51 URL:http://www.leicesterma.org/board-selectmen/agenda/bos-agenda-amended-2 [37827] -> "../data/townSites2/Leicester/www.leicesterma.org/board-selectmen/agenda/bos-agenda-amended-2" [1]
+2017-01-02 00:58:53 URL:http://www.leicesterma.org/board-selectmen/agenda/board-selectmen-2 [37774] -> "../data/townSites2/Leicester/www.leicesterma.org/board-selectmen/agenda/board-selectmen-2" [1]
+2017-01-02 00:58:55 URL:http://www.leicesterma.org/board-selectmen/agenda/board-selectmen-amended-agenda [37840] -> "../data/townSites2/Leicester/www.leicesterma.org/board-selectmen/agenda/board-selectmen-amended-agenda" [1]
+2017-01-02 00:58:56 URL:http://www.leicesterma.org/board-selectmen/agenda/board-selectmen-2-amended-final [37629] -> "../data/townSites2/Leicester/www.leicesterma.org/board-selectmen/agenda/board-selectmen-2-amended-final" [1]
+2017-01-02 00:58:58 URL:http://www.leicesterma.org/node/1166/minutes [33035] -> "../data/townSites2/Leicester/www.leicesterma.org/node/1166/minutes" [1]
+2017-01-02 00:58:59 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/bos_minutes_12-05-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:59:00 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/bos_minutes_12-01-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:59:02 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/bos_minutes_11-21-16_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:59:03 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/bos_minutes_11-07-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:59:04 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/bos_minutes_11-01-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:59:05 URL:http://www.leicesterma.org/burncoat-park-sports-planning-committee [60238] -> "../data/townSites2/Leicester/www.leicesterma.org/node/2116" [1]
+2017-01-02 00:59:06 URL:http://www.leicesterma.org/print/2116 [13205] -> "../data/townSites2/Leicester/www.leicesterma.org/print/2116" [1]
+2017-01-02 00:59:07 URL: http://www.leicesterma.org/node/2116/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:59:08 URL:http://www.leicesterma.org/calendar/month [86606] -> "../data/townSites2/Leicester/www.leicesterma.org/burncoat-park-sports-planning-committee/links/upcoming-meetings" [1]
+2017-01-02 00:59:10 URL:http://www.leicesterma.org/node/2116/agenda [32064] -> "../data/townSites2/Leicester/www.leicesterma.org/node/2116/agenda" [1]
+2017-01-02 00:59:11 URL:http://www.leicesterma.org/burncoat-park-sports-planning-committee/agenda/burncoat-park-sports-planning-committee-0 [37073] -> "../data/townSites2/Leicester/www.leicesterma.org/burncoat-park-sports-planning-committee/agenda/burncoat-park-sports-planning-committee-0" [1]
+2017-01-02 00:59:12 URL:http://www.leicesterma.org/burncoat-park-sports-planning-committee/agenda/burncoat-park-sports-planning-committee [37264] -> "../data/townSites2/Leicester/www.leicesterma.org/burncoat-park-sports-planning-committee/agenda/burncoat-park-sports-planning-committee" [1]
+2017-01-02 00:59:14 URL:http://www.leicesterma.org/bylaw-committee [56682] -> "../data/townSites2/Leicester/www.leicesterma.org/node/3101" [1]
+2017-01-02 00:59:16 URL:http://www.leicesterma.org/print/3101 [11532] -> "../data/townSites2/Leicester/www.leicesterma.org/print/3101" [1]
+2017-01-02 00:59:16 URL: http://www.leicesterma.org/node/3101/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:59:18 URL:http://www.leicesterma.org/calendar/month [86606] -> "../data/townSites2/Leicester/www.leicesterma.org/bylaw-committee/links/upcoming-meetings" [1]
+2017-01-02 00:59:19 URL:http://www.leicesterma.org/cdbg-committee [55733] -> "../data/townSites2/Leicester/www.leicesterma.org/node/3096" [1]
+2017-01-02 00:59:20 URL:http://www.leicesterma.org/print/3096 [10883] -> "../data/townSites2/Leicester/www.leicesterma.org/print/3096" [1]
+2017-01-02 00:59:20 URL: http://www.leicesterma.org/node/3096/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:59:22 URL:http://www.leicesterma.org/capital-improvement-planning-committee [61921] -> "../data/townSites2/Leicester/www.leicesterma.org/node/3076" [1]
+2017-01-02 00:59:23 URL:http://www.leicesterma.org/print/3076 [15318] -> "../data/townSites2/Leicester/www.leicesterma.org/print/3076" [1]
+2017-01-02 00:59:24 URL: http://www.leicesterma.org/node/3076/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:59:25 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/bylaw.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:59:26 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/form_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:59:27 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/cap_plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:59:28 URL:http://www.leicesterma.org/node/3076/agenda [32452] -> "../data/townSites2/Leicester/www.leicesterma.org/node/3076/agenda" [1]
+2017-01-02 00:59:30 URL:http://www.leicesterma.org/capital-improvement-planning-committee/agenda/cipc-agenda [37447] -> "../data/townSites2/Leicester/www.leicesterma.org/capital-improvement-planning-committee/agenda/cipc-agenda" [1]
+2017-01-02 00:59:31 URL:http://www.leicesterma.org/commission-disabilities [59116] -> "../data/townSites2/Leicester/www.leicesterma.org/node/2061" [1]
+2017-01-02 00:59:32 URL:http://www.leicesterma.org/print/2061 [11843] -> "../data/townSites2/Leicester/www.leicesterma.org/print/2061" [1]
+2017-01-02 00:59:32 URL: http://www.leicesterma.org/node/2061/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:59:34 URL:http://www.leicesterma.org/commission-disabilities/pages/resources [40615] -> "../data/townSites2/Leicester/www.leicesterma.org/commission-disabilities/pages/resources" [1]
+2017-01-02 00:59:36 URL:http://www.sevenhills.org/ [64615] -> "../data/townSites2/Leicester/www.leicesterma.org/commission-disabilities/links/seven-hills-foundation" [1]
+2017-01-02 00:59:40 URL:http://www.venturecs.org/ [73197] -> "../data/townSites2/Leicester/www.leicesterma.org/commission-disabilities/links/venture-community-services" [1]
+2017-01-02 00:59:42 URL:http://www.worcester-housing.com/ [7511/7511] -> "../data/townSites2/Leicester/www.leicesterma.org/commission-disabilities/links/worcester-housing-authority" [1]
+2017-01-02 00:59:43 URL:http://www.leicesterma.org/node/2061/agenda [32411] -> "../data/townSites2/Leicester/www.leicesterma.org/node/2061/agenda" [1]
+2017-01-02 00:59:45 URL:http://www.leicesterma.org/commission-disabilities/agenda/commission-disabilities [37680] -> "../data/townSites2/Leicester/www.leicesterma.org/commission-disabilities/agenda/commission-disabilities" [1]
+2017-01-02 00:59:46 URL:http://www.leicesterma.org/commission-disabilities/agenda/commision-disabilities [37445] -> "../data/townSites2/Leicester/www.leicesterma.org/commission-disabilities/agenda/commision-disabilities" [1]
+2017-01-02 00:59:47 URL:http://www.leicesterma.org/conservation-commission [69836] -> "../data/townSites2/Leicester/www.leicesterma.org/node/701" [1]
+2017-01-02 00:59:48 URL:http://www.leicesterma.org/print/701 [14149] -> "../data/townSites2/Leicester/www.leicesterma.org/print/701" [1]
+2017-01-02 00:59:49 URL: http://www.leicesterma.org/node/701/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:59:51 URL:http://www.leicesterma.org/conservation-commission/pages/application-forms-instructions [38845] -> "../data/townSites2/Leicester/www.leicesterma.org/conservation-commission/pages/application-forms-instructions" [1]
+2017-01-02 00:59:52 URL:http://www.leicesterma.org/conservation-commission/pages/current-applications-rda-noi [41839] -> "../data/townSites2/Leicester/www.leicesterma.org/conservation-commission/pages/current-applications-rda-noi" [1]
+2017-01-02 00:59:53 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/leicester_wetland_regulations_11-18-2015_-_copy_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:59:54 URL:http://www.leicesterma.org/conservation-commission/pages/land-conservation-estate-planning-resources [38714] -> "../data/townSites2/Leicester/www.leicesterma.org/conservation-commission/pages/land-conservation-estate-planning-resources" [1]
+2017-01-02 00:59:55 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/fertilizer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:59:57 URL:http://www.leicesterma.org/conservation-commission/pages/open-space-plan-2015 [38095] -> "../data/townSites2/Leicester/www.leicesterma.org/conservation-commission/pages/open-space-plan-2015" [1]
+2017-01-02 00:59:58 URL:http://www.leicesterma.org/development-inspectional-services/pages/upcoming-meeting-dates [37799] -> "../data/townSites2/Leicester/www.leicesterma.org/conservation-commission/links/upcoming-meeting-dates" [1]
+2017-01-02 00:59:59 URL:http://www.leicesterma.org/node/701/faq [34596] -> "../data/townSites2/Leicester/www.leicesterma.org/node/701/faq" [1]
+2017-01-02 01:00:00 URL:http://www.leicesterma.org/conservation-commission/faq/when-do-i-need-file-conservation-commission [37965] -> "../data/townSites2/Leicester/www.leicesterma.org/conservation-commission/faq/when-do-i-need-file-conservation-commission" [1]
+2017-01-02 01:00:03 URL:http://www.leicesterma.org/conservation-commission/faq/what-are-leicester%E2%80%99s-wetland-regulations-and-how-do-leicester%E2%80%99s [38306] -> "../data/townSites2/Leicester/www.leicesterma.org/conservation-commission/faq/what-are-leicesterâ%80%99s-wetland-regulations-and-how-do-leicesterâ%80%99s" [1]
+2017-01-02 01:00:04 URL:http://www.leicesterma.org/conservation-commission/faq/what-wetland [37958] -> "../data/townSites2/Leicester/www.leicesterma.org/conservation-commission/faq/what-wetland" [1]
+2017-01-02 01:00:06 URL:http://www.leicesterma.org/conservation-commission/faq/do-i-have-wetlands-my-property [37974] -> "../data/townSites2/Leicester/www.leicesterma.org/conservation-commission/faq/do-i-have-wetlands-my-property" [1]
+2017-01-02 01:00:07 URL:http://www.leicesterma.org/conservation-commission/faq/what-difference-between-and-rda-and-noi [38029] -> "../data/townSites2/Leicester/www.leicesterma.org/conservation-commission/faq/what-difference-between-and-rda-and-noi" [1]
+2017-01-02 01:00:09 URL:http://www.leicesterma.org/node/701/agenda [33016] -> "../data/townSites2/Leicester/www.leicesterma.org/node/701/agenda" [1]
+2017-01-02 01:00:10 URL:http://www.leicesterma.org/conservation-commission/agenda/conservation-commission-public-hearing [38367] -> "../data/townSites2/Leicester/www.leicesterma.org/conservation-commission/agenda/conservation-commission-public-hearing" [1]
+2017-01-02 01:00:12 URL:http://www.leicesterma.org/conservation-commission/agenda/conservation-commission-ph-felix-street [38299] -> "../data/townSites2/Leicester/www.leicesterma.org/conservation-commission/agenda/conservation-commission-ph-felix-street" [1]
+2017-01-02 01:00:14 URL:http://www.leicesterma.org/conservation-commission/agenda/leicester-conservation-commission [38263] -> "../data/townSites2/Leicester/www.leicesterma.org/conservation-commission/agenda/leicester-conservation-commission" [1]
+2017-01-02 01:00:16 URL:http://www.leicesterma.org/conservation-commission/agenda/conservation-commission-ph-207-main-street [38330] -> "../data/townSites2/Leicester/www.leicesterma.org/conservation-commission/agenda/conservation-commission-ph-207-main-street" [1]
+2017-01-02 01:00:17 URL:http://www.leicesterma.org/conservation-commission/agenda/conservation-commission-9 [38225] -> "../data/townSites2/Leicester/www.leicesterma.org/conservation-commission/agenda/conservation-commission-9" [1]
+2017-01-02 01:00:19 URL:http://www.leicesterma.org/node/701/minutes [33025] -> "../data/townSites2/Leicester/www.leicesterma.org/node/701/minutes" [1]
+2017-01-02 01:00:20 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/ccmin09-14-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:00:21 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/ccmin08-17-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:00:22 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/ccmin07-13-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:00:24 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/ccmin_06-15-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:00:25 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/ccmin_05-11-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:00:26 URL:http://www.leicesterma.org/economic-development-committee [61708] -> "../data/townSites2/Leicester/www.leicesterma.org/node/2121" [1]
+2017-01-02 01:00:27 URL:http://www.leicesterma.org/print/2121 [14725] -> "../data/townSites2/Leicester/www.leicesterma.org/print/2121" [1]
+2017-01-02 01:00:28 URL: http://www.leicesterma.org/node/2121/feed 200 OK
+unlink: No such file or directory
+2017-01-02 01:00:29 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/edsat_leicester12.17.15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:00:31 URL:http://www.leicesterma.org/node/2121/agenda [32091] -> "../data/townSites2/Leicester/www.leicesterma.org/node/2121/agenda" [1]
+2017-01-02 01:00:33 URL:http://www.leicesterma.org/economic-development-committee/agenda/economic-development-committee-0 [37282] -> "../data/townSites2/Leicester/www.leicesterma.org/economic-development-committee/agenda/economic-development-committee-0" [1]
+2017-01-02 01:00:34 URL:http://www.leicesterma.org/economic-development-committee/agenda/economic-development-committee [37270] -> "../data/townSites2/Leicester/www.leicesterma.org/economic-development-committee/agenda/economic-development-committee" [1]
+2017-01-02 01:00:35 URL:http://www.leicesterma.org/emergency-planning-committee-0 [63144] -> "../data/townSites2/Leicester/www.leicesterma.org/node/3056" [1]
+2017-01-02 01:00:37 URL:http://www.leicesterma.org/print/3056 [18409] -> "../data/townSites2/Leicester/www.leicesterma.org/print/3056" [1]
+2017-01-02 01:00:37 URL: http://www.leicesterma.org/node/3056/feed 200 OK
+unlink: No such file or directory
+2017-01-02 01:00:40 URL:http://www.leicesterma.org/finance-advisory-board [66350] -> "../data/townSites2/Leicester/www.leicesterma.org/node/751" [1]
+2017-01-02 01:00:41 URL:http://www.leicesterma.org/print/751 [17943] -> "../data/townSites2/Leicester/www.leicesterma.org/print/751" [1]
+2017-01-02 01:00:42 URL: http://www.leicesterma.org/node/751/feed 200 OK
+unlink: No such file or directory
+2017-01-02 01:00:43 URL:http://www.leicesterma.org/calendar/month [86606] -> "../data/townSites2/Leicester/www.leicesterma.org/advisory-board/links/upcoming-meetings" [1]
+2017-01-02 01:00:45 URL:http://www.leicesterma.org/node/751/agenda [31939] -> "../data/townSites2/Leicester/www.leicesterma.org/node/751/agenda" [1]
+2017-01-02 01:00:46 URL:http://www.leicesterma.org/finance-advisory-board/agenda/advisory-finance-committee-2 [37088] -> "../data/townSites2/Leicester/www.leicesterma.org/finance-advisory-board/agenda/advisory-finance-committee-2" [1]
+2017-01-02 01:00:47 URL:http://www.leicesterma.org/finance-advisory-board/agenda/finance-advisory-1 [36241] -> "../data/townSites2/Leicester/www.leicesterma.org/finance-advisory-board/agenda/finance-advisory-1" [1]
+2017-01-02 01:00:49 URL:http://www.leicesterma.org/finance-advisory-board/agenda/finance-advisory-2 [37042] -> "../data/townSites2/Leicester/www.leicesterma.org/finance-advisory-board/agenda/finance-advisory-2" [1]
+2017-01-02 01:00:51 URL:http://www.leicesterma.org/finance-advisory-board/agenda/finance-advisory-board [37061] -> "../data/townSites2/Leicester/www.leicesterma.org/finance-advisory-board/agenda/finance-advisory-board" [1]
+2017-01-02 01:00:52 URL:http://www.leicesterma.org/finance-advisory-board/agenda/advisory-finance-committee-1 [37091] -> "../data/townSites2/Leicester/www.leicesterma.org/finance-advisory-board/agenda/advisory-finance-committee-1" [1]
+2017-01-02 01:00:53 URL:http://www.leicesterma.org/health-insurance-advisory-committee [62842] -> "../data/townSites2/Leicester/www.leicesterma.org/node/3046" [1]
+2017-01-02 01:00:55 URL:http://www.leicesterma.org/print/3046 [16512] -> "../data/townSites2/Leicester/www.leicesterma.org/print/3046" [1]
+2017-01-02 01:00:55 URL: http://www.leicesterma.org/node/3046/feed 200 OK
+unlink: No such file or directory
+2017-01-02 01:00:57 URL:http://www.leicesterma.org/calendar/month [86606] -> "../data/townSites2/Leicester/www.leicesterma.org/health-insurance-advisory-committee/links/upcoming-meetings" [1]
+2017-01-02 01:00:58 URL:http://www.leicesterma.org/node/3046/agenda [32040] -> "../data/townSites2/Leicester/www.leicesterma.org/node/3046/agenda" [1]
+2017-01-02 01:00:59 URL:http://www.leicesterma.org/health-insurance-advisory-committee/agenda/health-insurance-advisory-committee [37187] -> "../data/townSites2/Leicester/www.leicesterma.org/health-insurance-advisory-committee/agenda/health-insurance-advisory-committee" [1]
+2017-01-02 01:01:00 URL:http://www.leicesterma.org/lcac [56774] -> "../data/townSites2/Leicester/www.leicesterma.org/node/3066" [1]
+2017-01-02 01:01:01 URL:http://www.leicesterma.org/print/3066 [11904] -> "../data/townSites2/Leicester/www.leicesterma.org/print/3066" [1]
+2017-01-02 01:01:01 URL: http://www.leicesterma.org/node/3066/feed 200 OK
+unlink: No such file or directory
+2017-01-02 01:01:03 URL:http://www.leicesterma.org/historical-commission [64033] -> "../data/townSites2/Leicester/www.leicesterma.org/node/2471" [1]
+2017-01-02 01:01:04 URL:http://www.leicesterma.org/print/2471 [16767] -> "../data/townSites2/Leicester/www.leicesterma.org/print/2471" [1]
+2017-01-02 01:01:05 URL: http://www.leicesterma.org/node/2471/feed 200 OK
+unlink: No such file or directory
+2017-01-02 01:01:06 URL:http://www.leicesterma.org/historical-commission/pages/interpretation-education [39202] -> "../data/townSites2/Leicester/www.leicesterma.org/historical-commission/pages/interpretation-education" [1]
+2017-01-02 01:01:08 URL:https://www.nps.gov/blac/index.htm [43342] -> "../data/townSites2/Leicester/www.leicesterma.org/historical-commission/links/blackstone-valley-national-heritage-corridor" [1]
+2017-01-02 01:01:10 URL:http://www.leicesterma.org/historical-commission/pages/genealogy [37538] -> "../data/townSites2/Leicester/www.leicesterma.org/historical-commission/pages/genealogy" [1]
+2017-01-02 01:01:11 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/6a06009r.jpg 200 OK
+unlink: No such file or directory
+2017-01-02 01:01:13 URL:http://www.leicesterma.org/historical-commission/pages/photo-contest [38390] -> "../data/townSites2/Leicester/www.leicesterma.org/historical-commission/pages/photo-contest" [1]
+2017-01-02 01:01:15 URL:http://www.leicesterma.org/historical-commission/webforms/submit-answer-historic-commission-photo-contest [42068/42068] -> "../data/townSites2/Leicester/www.leicesterma.org/historical-commission/webforms/submit-answer-historic-commission-photo-contest" [1]
+2017-01-02 01:01:16 URL:http://www.leicesterma.org/treasurer-collector/pages/new-owner-information [40028] -> "../data/townSites2/Leicester/www.leicesterma.org/historical-commission/links/supplemental-tax-bills" [1]
+2017-01-02 01:01:19 URL:http://www.leicesterma.org/calendar/month [86606] -> "../data/townSites2/Leicester/www.leicesterma.org/historical-commission/links/upcoming-meetings" [1]
+2017-01-02 01:01:20 URL:http://www.leicesterma.org/node/2471/agenda [33072] -> "../data/townSites2/Leicester/www.leicesterma.org/node/2471/agenda" [1]
+2017-01-02 01:01:23 URL:http://www.leicesterma.org/historical-commission/agenda/historical-commission [38174] -> "../data/townSites2/Leicester/www.leicesterma.org/historical-commission/agenda/historical-commission" [1]
+2017-01-02 01:01:24 URL:http://www.leicesterma.org/keep-leicester-green-committee [56993] -> "../data/townSites2/Leicester/www.leicesterma.org/node/2056" [1]
+2017-01-02 01:01:24 URL:http://www.leicesterma.org/print/2056 [11772] -> "../data/townSites2/Leicester/www.leicesterma.org/print/2056" [1]
+2017-01-02 01:01:25 URL: http://www.leicesterma.org/node/2056/feed 200 OK
+unlink: No such file or directory
+2017-01-02 01:01:27 URL:http://www.leicesterma.org/calendar/month [86606] -> "../data/townSites2/Leicester/www.leicesterma.org/keep-leicester-green-committee/links/upcoming-meetings" [1]
+2017-01-02 01:01:28 URL:http://www.leicesterma.org/memorial-day-committee [60323] -> "../data/townSites2/Leicester/www.leicesterma.org/node/2371" [1]
+2017-01-02 01:01:29 URL:http://www.leicesterma.org/print/2371 [13929] -> "../data/townSites2/Leicester/www.leicesterma.org/print/2371" [1]
+2017-01-02 01:01:30 URL: http://www.leicesterma.org/node/2371/feed 200 OK
+unlink: No such file or directory
+2017-01-02 01:01:31 URL:http://www.leicesterma.org/calendar/month [86606] -> "../data/townSites2/Leicester/www.leicesterma.org/memorial-day-committee/links/upcoming-meetings" [1]
+2017-01-02 01:01:32 URL:http://www.leicesterma.org/node/2371/agenda [31962] -> "../data/townSites2/Leicester/www.leicesterma.org/node/2371/agenda" [1]
+2017-01-02 01:01:34 URL:http://www.leicesterma.org/memorial-day-committee/agenda/memorial-day-parade-committee [36931] -> "../data/townSites2/Leicester/www.leicesterma.org/memorial-day-committee/agenda/memorial-day-parade-committee" [1]
+2017-01-02 01:01:35 URL:http://www.leicesterma.org/moose-hill-water-commission [64266] -> "../data/townSites2/Leicester/www.leicesterma.org/node/711" [1]
+2017-01-02 01:01:36 URL:http://www.leicesterma.org/print/711 [11958] -> "../data/townSites2/Leicester/www.leicesterma.org/print/711" [1]
+2017-01-02 01:01:37 URL: http://www.leicesterma.org/node/711/feed 200 OK
+unlink: No such file or directory
+2017-01-02 01:01:38 URL:http://www.leicesterma.org/moose-hill-water-commission/pages/subscriber-owned-water-sewer-districts [37203] -> "../data/townSites2/Leicester/www.leicesterma.org/moose-hill-water-commission/pages/subscriber-owned-water-sewer-districts" [1]
+2017-01-02 01:01:39 URL:http://www.leicesterma.org/development-inspectional-services/pages/upcoming-meeting-dates [37799] -> "../data/townSites2/Leicester/www.leicesterma.org/moose-hill-water-commission/links/upcoming-meeting-dates" [1]
+2017-01-02 01:01:40 URL:http://www.leicesterma.org/node/711/agenda [32180] -> "../data/townSites2/Leicester/www.leicesterma.org/node/711/agenda" [1]
+2017-01-02 01:01:42 URL:http://www.leicesterma.org/moose-hill-water-commission/agenda/moose-hill-water-commission-2 [37430] -> "../data/townSites2/Leicester/www.leicesterma.org/moose-hill-water-commission/agenda/moose-hill-water-commission-2" [1]
+2017-01-02 01:01:43 URL:http://www.leicesterma.org/moose-hill-water-commission/agenda/moose-hill-water-commission-1 [37457] -> "../data/townSites2/Leicester/www.leicesterma.org/moose-hill-water-commission/agenda/moose-hill-water-commission-1" [1]
+2017-01-02 01:01:44 URL:http://www.leicesterma.org/moose-hill-water-commission/agenda/moose-hill-water-commission-0 [37251] -> "../data/townSites2/Leicester/www.leicesterma.org/moose-hill-water-commission/agenda/moose-hill-water-commission-0" [1]
+2017-01-02 01:01:46 URL:http://www.leicesterma.org/moose-hill-water-commission/agenda/moose-hill-water-commission [37447] -> "../data/townSites2/Leicester/www.leicesterma.org/moose-hill-water-commission/agenda/moose-hill-water-commission" [1]
+2017-01-02 01:01:47 URL:http://www.leicesterma.org/node/711/minutes [32392] -> "../data/townSites2/Leicester/www.leicesterma.org/node/711/minutes" [1]
+2017-01-02 01:01:48 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/08-30-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:01:50 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/05-04-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:01:51 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/12-28-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:01:52 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/08-17-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:01:53 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/03-02-2015min.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:01:54 URL:http://www.leicesterma.org/open-space-recreation-plan-committee [59597] -> "../data/townSites2/Leicester/www.leicesterma.org/node/4411" [1]
+2017-01-02 01:01:55 URL:http://www.leicesterma.org/print/4411 [14380] -> "../data/townSites2/Leicester/www.leicesterma.org/print/4411" [1]
+2017-01-02 01:01:56 URL: http://www.leicesterma.org/node/4411/feed 200 OK
+unlink: No such file or directory
+2017-01-02 01:01:57 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/2014osrp_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:01:59 URL:http://www.leicesterma.org/parks-and-recreation-committee [65521] -> "../data/townSites2/Leicester/www.leicesterma.org/node/2126" [1]
+2017-01-02 01:01:59 URL:http://www.leicesterma.org/print/2126 [15011] -> "../data/townSites2/Leicester/www.leicesterma.org/print/2126" [1]
+2017-01-02 01:02:00 URL: http://www.leicesterma.org/node/2126/feed 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:02 URL:http://www.leicesterma.org/parks-and-recreation-committee/pages/rules-and-regulations [38266] -> "../data/townSites2/Leicester/www.leicesterma.org/parks-and-recreation-committee/pages/rules-and-regulations" [1]
+2017-01-02 01:02:03 URL:http://www.leicesterma.org/parks-and-recreation-committee/pages/tennis-program [38219] -> "../data/townSites2/Leicester/www.leicesterma.org/parks-and-recreation-committee/pages/tennis-program" [1]
+2017-01-02 01:02:05 URL:http://www.leicesterma.org/parks-and-recreation-committee/pages/community-field [39407] -> "../data/townSites2/Leicester/www.leicesterma.org/parks-and-recreation-committee/pages/community-field" [1]
+2017-01-02 01:02:07 URL:http://www.leicesterma.org/parks-and-recreation-committee/pages/field-requests-and-permits [38292] -> "../data/townSites2/Leicester/www.leicesterma.org/parks-and-recreation-committee/pages/field-requests-and-permits" [1]
+2017-01-02 01:02:09 URL:http://www.leicesterma.org/parks-and-recreation-committee/pages/field-trips [38096] -> "../data/townSites2/Leicester/www.leicesterma.org/parks-and-recreation-committee/pages/field-trips" [1]
+2017-01-02 01:02:10 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/2014osrp.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:11 URL:http://www.leicesterma.org/parks-and-recreation-committee/pages/recreational-basketball [38556] -> "../data/townSites2/Leicester/www.leicesterma.org/parks-and-recreation-committee/pages/recreational-basketball" [1]
+2017-01-02 01:02:12 URL:http://www.leicesterma.org/parks-and-recreation-committee/pages/rochdale-park [39395] -> "../data/townSites2/Leicester/www.leicesterma.org/parks-and-recreation-committee/pages/rochdale-park" [1]
+2017-01-02 01:02:14 URL:http://www.leicesterma.org/parks-and-recreation-committee/pages/towtaid-park [39138] -> "../data/townSites2/Leicester/www.leicesterma.org/parks-and-recreation-committee/pages/towtaid-park" [1]
+2017-01-02 01:02:16 URL:http://www.leicesterma.org/calendar/month [86606] -> "../data/townSites2/Leicester/www.leicesterma.org/parks-and-recreation-committee/links/upcoming-meetings" [1]
+2017-01-02 01:02:17 URL:http://www.leicesterma.org/node/2126/agenda [33294] -> "../data/townSites2/Leicester/www.leicesterma.org/node/2126/agenda" [1]
+2017-01-02 01:02:19 URL:http://www.leicesterma.org/parks-and-recreation-committee/agenda/parks-recreation-6 [38520] -> "../data/townSites2/Leicester/www.leicesterma.org/parks-and-recreation-committee/agenda/parks-recreation-6" [1]
+2017-01-02 01:02:20 URL:http://www.leicesterma.org/parks-and-recreation-committee/agenda/parks-recreation-8 [38562] -> "../data/townSites2/Leicester/www.leicesterma.org/parks-and-recreation-committee/agenda/parks-recreation-8" [1]
+2017-01-02 01:02:22 URL:http://www.leicesterma.org/parks-and-recreation-committee/agenda/parks-recreation-7 [37549] -> "../data/townSites2/Leicester/www.leicesterma.org/parks-and-recreation-committee/agenda/parks-recreation-7" [1]
+2017-01-02 01:02:24 URL:http://www.leicesterma.org/parks-and-recreation-committee/agenda/parks-recreation-5 [38570] -> "../data/townSites2/Leicester/www.leicesterma.org/parks-and-recreation-committee/agenda/parks-recreation-5" [1]
+2017-01-02 01:02:26 URL:http://www.leicesterma.org/parks-and-recreation-committee/agenda/parks-recreation-4 [38567] -> "../data/townSites2/Leicester/www.leicesterma.org/parks-and-recreation-committee/agenda/parks-recreation-4" [1]
+2017-01-02 01:02:27 URL:http://www.leicesterma.org/personnel-board [54287] -> "../data/townSites2/Leicester/www.leicesterma.org/node/1126" [1]
+2017-01-02 01:02:28 URL:http://www.leicesterma.org/print/1126 [8740] -> "../data/townSites2/Leicester/www.leicesterma.org/print/1126" [1]
+2017-01-02 01:02:30 URL:http://www.leicesterma.org/personnel-board/pages/personnel-board-duties-responsibilities-contd [37742] -> "../data/townSites2/Leicester/www.leicesterma.org/personnel-board/pages/personnel-board-contd" [1]
+2017-01-02 01:02:30 URL: http://www.leicesterma.org/node/1126/feed 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:32 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/employment_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:34 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/int.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:36 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/by.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:37 URL:http://www.leicesterma.org/personnel-board/pages/upcoming-meetings [36249] -> "../data/townSites2/Leicester/www.leicesterma.org/personnel-board/pages/upcoming-meetings" [1]
+2017-01-02 01:02:39 URL:http://www.leicesterma.org/storm-water-committee [61760] -> "../data/townSites2/Leicester/www.leicesterma.org/node/2981" [1]
+2017-01-02 01:02:40 URL:http://www.leicesterma.org/print/2981 [12540] -> "../data/townSites2/Leicester/www.leicesterma.org/print/2981" [1]
+2017-01-02 01:02:41 URL: http://www.leicesterma.org/node/2981/feed 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:42 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/recipes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:44 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/kids.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:45 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/green.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:47 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/pets.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:48 URL:http://www.leicesterma.org/storm-water-committee/pages/pollution-prevention-tips [39299] -> "../data/townSites2/Leicester/www.leicesterma.org/storm-water-committee/pages/pollution-prevention-tips" [1]
+2017-01-02 01:02:49 URL:http://www.leicesterma.org/storm-water-committee/pages/storm-water-reports-details [37895] -> "../data/townSites2/Leicester/www.leicesterma.org/storm-water-committee/pages/storm-water-reports-details" [1]
+2017-01-02 01:02:51 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/tips.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:52 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/home.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:02:53 URL:http://www.leicesterma.org/calendar/month [86606] -> "../data/townSites2/Leicester/www.leicesterma.org/storm-water-committee/links/upcoming-meetings" [1]
+2017-01-02 01:02:55 URL:http://www.leicesterma.org/node/2981/news [33581] -> "../data/townSites2/Leicester/www.leicesterma.org/node/2981/news" [1]
+2017-01-02 01:02:56 URL:http://www.leicesterma.org/storm-water-committee/news/pet-waste-pollutes-our-waters [37355] -> "../data/townSites2/Leicester/www.leicesterma.org/storm-water-committee/news/pet-waste-pollutes-our-waters" [1]
+2017-01-02 01:02:58 URL:http://www.leicesterma.org/node/2981/agenda [33156] -> "../data/townSites2/Leicester/www.leicesterma.org/node/2981/agenda" [1]
+2017-01-02 01:03:00 URL:http://www.leicesterma.org/storm-water-committee/agenda/storm-water-committee-0 [38428] -> "../data/townSites2/Leicester/www.leicesterma.org/storm-water-committee/agenda/storm-water-committee-0" [1]
+2017-01-02 01:03:01 URL:http://www.leicesterma.org/storm-water-committee/agenda/storm-water-committee [38457] -> "../data/townSites2/Leicester/www.leicesterma.org/storm-water-committee/agenda/storm-water-committee" [1]
+2017-01-02 01:03:02 URL:http://www.leicesterma.org/zoning-board-appeals [73170] -> "../data/townSites2/Leicester/www.leicesterma.org/node/671" [1]
+2017-01-02 01:03:03 URL:http://www.leicesterma.org/print/671 [17354] -> "../data/townSites2/Leicester/www.leicesterma.org/print/671" [1]
+2017-01-02 01:03:05 URL: http://www.leicesterma.org/node/671/feed 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:06 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/rules.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:08 URL:http://www.leicesterma.org/zoning-board-appeals/pages/current-zba-applications [43771] -> "../data/townSites2/Leicester/www.leicesterma.org/zoning-board-appeals/pages/current-zba-applications" [1]
+2017-01-02 01:03:09 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/spec.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:11 URL:http://www.leicesterma.org/development-inspectional-services/pages/upcoming-meeting-dates [37799] -> "../data/townSites2/Leicester/www.leicesterma.org/zoning-board-appeals/links/upcoming-meeting-dates" [1]
+2017-01-02 01:03:12 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/zoning_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:14 URL:http://www.leicesterma.org/building-code-enforcement [60101] -> "../data/townSites2/Leicester/www.leicesterma.org/zoning-board-appeals/links/zoning-enforcement-officerbuilding-inspector" [1]
+2017-01-02 01:03:16 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:17 URL:http://www.leicesterma.org/node/671/faq [34722] -> "../data/townSites2/Leicester/www.leicesterma.org/node/671/faq" [1]
+2017-01-02 01:03:18 URL:http://www.leicesterma.org/zoning-board-appeals/faq/what-are-findings-fact [37131] -> "../data/townSites2/Leicester/www.leicesterma.org/zoning-board-appeals/faq/what-are-findings-fact" [1]
+2017-01-02 01:03:20 URL:http://www.leicesterma.org/zoning-board-appeals/faq/if-all-abutters-are-favor-granting-my-variancespecial-permit-application [37713] -> "../data/townSites2/Leicester/www.leicesterma.org/zoning-board-appeals/faq/if-all-abutters-are-favor-granting-my-variancespecial-permit-application" [1]
+2017-01-02 01:03:21 URL:http://www.leicesterma.org/zoning-board-appeals/faq/it-requirement-i-have-rejected-building-permit-submit-application-zba [37704] -> "../data/townSites2/Leicester/www.leicesterma.org/zoning-board-appeals/faq/it-requirement-i-have-rejected-building-permit-submit-application-zba" [1]
+2017-01-02 01:03:23 URL:http://www.leicesterma.org/zoning-board-appeals/faq/what-special-permit [37921] -> "../data/townSites2/Leicester/www.leicesterma.org/zoning-board-appeals/faq/what-special-permit" [1]
+2017-01-02 01:03:24 URL:http://www.leicesterma.org/zoning-board-appeals/faq/what-variance-and-what-are-requirements-approval [38452] -> "../data/townSites2/Leicester/www.leicesterma.org/zoning-board-appeals/faq/what-variance-and-what-are-requirements-approval" [1]
+2017-01-02 01:03:27 URL:http://www.leicesterma.org/node/671/agenda [32946] -> "../data/townSites2/Leicester/www.leicesterma.org/node/671/agenda" [1]
+2017-01-02 01:03:28 URL:http://www.leicesterma.org/zoning-board-appeals/agenda/zoning-board-appeals-18 [37866] -> "../data/townSites2/Leicester/www.leicesterma.org/zoning-board-appeals/agenda/zoning-board-appeals-18" [1]
+2017-01-02 01:03:30 URL:http://www.leicesterma.org/zoning-board-appeals/agenda/zoning-board-appeals-19 [37865] -> "../data/townSites2/Leicester/www.leicesterma.org/zoning-board-appeals/agenda/zoning-board-appeals-19" [1]
+2017-01-02 01:03:32 URL:http://www.leicesterma.org/zoning-board-appeals/agenda/zoning-board-appeals-17 [38074] -> "../data/townSites2/Leicester/www.leicesterma.org/zoning-board-appeals/agenda/zoning-board-appeals-17" [1]
+2017-01-02 01:03:33 URL:http://www.leicesterma.org/zoning-board-appeals/agenda/zoning-board-appeals-16 [38088] -> "../data/townSites2/Leicester/www.leicesterma.org/zoning-board-appeals/agenda/zoning-board-appeals-16" [1]
+2017-01-02 01:03:35 URL:http://www.leicesterma.org/zoning-board-appeals/agenda/zoning-board-appeals-15 [38059] -> "../data/townSites2/Leicester/www.leicesterma.org/zoning-board-appeals/agenda/zoning-board-appeals-15" [1]
+2017-01-02 01:03:36 URL:http://www.leicesterma.org/node/671/minutes [33158] -> "../data/townSites2/Leicester/www.leicesterma.org/node/671/minutes" [1]
+2017-01-02 01:03:37 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/09-28-2016_503-505_stafford_st-cont-appeal.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:38 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/08-10-2016_182_paxton_st-var.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:39 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/08-10-2016_503-505_stafford_st-appeal_bi.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:40 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/07-06-2016_1181_main_st_cont-var.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:41 URL: http://www.leicesterma.org/sites/leicesterma/files/minutes/06-01-2016_1181_main_st_cont-var.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:43 URL:http://www.leicesterma.org/home/pages/community-events-groups-resources [36314] -> "../data/townSites2/Leicester/www.leicesterma.org/node/5211" [1]
+2017-01-02 01:03:44 URL:http://www.leicesterma.org/print/5211 [8569] -> "../data/townSites2/Leicester/www.leicesterma.org/print/5211" [1]
+2017-01-02 01:03:44 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/talk_tears_and_tea.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:03:45 URL:http://www.leicesterma.org/where/%20 [34213] -> "../data/townSites2/Leicester/www.leicesterma.org/where/ " [1]
+2017-01-02 01:03:47 URL:http://www.leicesterma.org/where/b [34189] -> "../data/townSites2/Leicester/www.leicesterma.org/where/b" [1]
+2017-01-02 01:03:48 URL:http://www.leicesterma.org/where/c [34197] -> "../data/townSites2/Leicester/www.leicesterma.org/where/c" [1]
+2017-01-02 01:03:49 URL:http://www.leicesterma.org/where/d [34171] -> "../data/townSites2/Leicester/www.leicesterma.org/where/d" [1]
+2017-01-02 01:03:50 URL:http://www.leicesterma.org/where/e [34165] -> "../data/townSites2/Leicester/www.leicesterma.org/where/e" [1]
+2017-01-02 01:03:52 URL:http://www.leicesterma.org/where/f [34189] -> "../data/townSites2/Leicester/www.leicesterma.org/where/f" [1]
+2017-01-02 01:03:53 URL:http://www.leicesterma.org/where/h [34445] -> "../data/townSites2/Leicester/www.leicesterma.org/where/h" [1]
+2017-01-02 01:03:54 URL:http://www.leicesterma.org/where/i [34181] -> "../data/townSites2/Leicester/www.leicesterma.org/where/i" [1]
+2017-01-02 01:03:55 URL:http://www.leicesterma.org/where/m [34198] -> "../data/townSites2/Leicester/www.leicesterma.org/where/m" [1]
+2017-01-02 01:03:56 URL:http://www.leicesterma.org/where/o [34176] -> "../data/townSites2/Leicester/www.leicesterma.org/where/o" [1]
+2017-01-02 01:03:58 URL:http://www.leicesterma.org/where/r [34418] -> "../data/townSites2/Leicester/www.leicesterma.org/where/r" [1]
+2017-01-02 01:03:59 URL:http://www.leicesterma.org/where/s [34683] -> "../data/townSites2/Leicester/www.leicesterma.org/where/s" [1]
+2017-01-02 01:04:00 URL:http://www.leicesterma.org/where/t [34442] -> "../data/townSites2/Leicester/www.leicesterma.org/where/t" [1]
+2017-01-02 01:04:02 URL:http://www.leicesterma.org/where/v [34175] -> "../data/townSites2/Leicester/www.leicesterma.org/where/v" [1]
+2017-01-02 01:04:03 URL:http://www.leicesterma.org/home/pages/thought-exchange [36342] -> "../data/townSites2/Leicester/www.leicesterma.org/node/87973" [1]
+2017-01-02 01:04:04 URL:http://www.leicesterma.org/print/87973 [8586] -> "../data/townSites2/Leicester/www.leicesterma.org/print/87973" [1]
+2017-01-02 01:04:06 URL:http://www.leicesterma.org/town-administration/pages/employment-opportunities [38159] -> "../data/townSites2/Leicester/www.leicesterma.org/node/1111" [1]
+2017-01-02 01:04:07 URL:http://www.leicesterma.org/print/1111 [6349] -> "../data/townSites2/Leicester/www.leicesterma.org/print/1111" [1]
+2017-01-02 01:04:08 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/employment_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:09 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/pt_outreach_coordinator_ad_12-6-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:10 URL:http://www.leicesterma.org/treasurer-collector/pages/motor-vehicle-excise-tax-bills [41911] -> "../data/townSites2/Leicester/www.leicesterma.org/node/2536" [1]
+2017-01-02 01:04:11 URL:http://www.leicesterma.org/print/2536 [10263] -> "../data/townSites2/Leicester/www.leicesterma.org/print/2536" [1]
+2017-01-02 01:04:12 URL:http://www.leicesterma.org/highway-department/faq/who-should-i-report-pothole [37246] -> "../data/townSites2/Leicester/www.leicesterma.org/node/96" [1]
+2017-01-02 01:04:14 URL:http://www.leicesterma.org/print/96 [6142] -> "../data/townSites2/Leicester/www.leicesterma.org/print/96" [1]
+2017-01-02 01:04:14 URL: http://www.leicesterma.org/calendar/feed/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:16 URL:http://www.leicesterma.org/calendar [86549] -> "../data/townSites2/Leicester/www.leicesterma.org/calendar.1" [1]
+2017-01-02 01:04:17 URL:http://www.leicesterma.org/calendar/week [39080] -> "../data/townSites2/Leicester/www.leicesterma.org/calendar/week" [1]
+2017-01-02 01:04:19 URL:http://www.leicesterma.org/calendar/day [37937] -> "../data/townSites2/Leicester/www.leicesterma.org/calendar/day.1" [1]
+2017-01-02 01:04:21 URL:http://www.leicesterma.org/calendar/year [163434] -> "../data/townSites2/Leicester/www.leicesterma.org/calendar/year" [1]
+2017-01-02 01:04:22 URL:http://www.leicesterma.org/calendar/upcoming [44605] -> "../data/townSites2/Leicester/www.leicesterma.org/calendar/upcoming" [1]
+2017-01-02 01:04:24 URL:http://www.leicesterma.org/calendar/month/2016-12 [212598] -> "../data/townSites2/Leicester/www.leicesterma.org/calendar/month/2016-12" [1]
+2017-01-02 01:04:25 URL:http://www.leicesterma.org/calendar/month/2017-02 [68502] -> "../data/townSites2/Leicester/www.leicesterma.org/calendar/month/2017-02" [1]
+2017-01-02 01:04:27 URL:http://www.leicesterma.org/town-administration/pages/annual-town-reports [38226] -> "../data/townSites2/Leicester/www.leicesterma.org/node/1256" [1]
+2017-01-02 01:04:28 URL:http://www.leicesterma.org/print/1256 [6442] -> "../data/townSites2/Leicester/www.leicesterma.org/print/1256" [1]
+2017-01-02 01:04:29 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/2015_annual_town_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:30 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/2014_annual_town_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:31 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/2014_annual_town_report_attachment_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:33 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/2013_annual_town_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:33 URL: http://www.leicesterma.org/node/1/news/feed 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:35 URL:http://www.leicesterma.org/home/news/mass-pike-toll-booth-demolition-and-road-reconfiguration-public-hearings [33922] -> "../data/townSites2/Leicester/www.leicesterma.org/home/news/mass-pike-toll-booth-demolition-and-road-reconfiguration-public-hearings" [1]
+2017-01-02 01:04:36 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/mass_pike.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:37 URL:http://www.leicesterma.org/home/news/charter-service-fee-adjustments [33770] -> "../data/townSites2/Leicester/www.leicesterma.org/home/news/charter-service-fee-adjustments" [1]
+2017-01-02 01:04:38 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/charter_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:40 URL:http://www.leicesterma.org/home/news/associate-planning-board-member-vacancy [33874] -> "../data/townSites2/Leicester/www.leicesterma.org/home/news/associate-planning-board-member-vacancy" [1]
+2017-01-02 01:04:41 URL:http://www.leicesterma.org/home/news/temporary-part-time-outreach-coordinator [33927] -> "../data/townSites2/Leicester/www.leicesterma.org/home/news/temporary-part-time-outreach-coordinator" [1]
+2017-01-02 01:04:43 URL:http://www.leicesterma.org/home/news/december-shop-leicester-first-month [33949] -> "../data/townSites2/Leicester/www.leicesterma.org/home/news/december-shop-leicester-first-month" [1]
+2017-01-02 01:04:44 URL:http://www.leicesterma.org/home/news/2-volunteer-positions-available-cdbg-group [34477] -> "../data/townSites2/Leicester/www.leicesterma.org/home/news/2-volunteer-positions-available-cdbg-group" [1]
+2017-01-02 01:04:46 URL:http://www.leicesterma.org/home/news/regional-dispatch-information [34719] -> "../data/townSites2/Leicester/www.leicesterma.org/home/news/regional-dispatch-information" [1]
+2017-01-02 01:04:47 URL:http://www.leicesterma.org/home/news/election-results [33719] -> "../data/townSites2/Leicester/www.leicesterma.org/home/news/election-results" [1]
+2017-01-02 01:04:48 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/election_results_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:50 URL:http://www.leicesterma.org/home/news/leicester-participates-alice-active-shooter-response-training [33896] -> "../data/townSites2/Leicester/www.leicesterma.org/home/news/leicester-participates-alice-active-shooter-response-training" [1]
+2017-01-02 01:04:51 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/leicester_-_alice_training_oct2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:52 URL:http://www.leicesterma.org/home/news/leicester-economic-development-self-assessment-report [33953] -> "../data/townSites2/Leicester/www.leicesterma.org/home/news/leicester-economic-development-self-assessment-report" [1]
+2017-01-02 01:04:52 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/edsat_leicester12.17.15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:04:54 URL:http://www.leicesterma.org/home/urgent-alerts/due-inclement-weather-town-hall-will-close-330pm-thursday-december-29th [34014] -> "../data/townSites2/Leicester/www.leicesterma.org/node/88103" [1]
+2017-01-02 01:04:55 URL:http://www.leicesterma.org/print/88103 [6464] -> "../data/townSites2/Leicester/www.leicesterma.org/print/88103" [1]
+2017-01-02 01:04:56 URL:http://www.leicesterma.org/home/pages/telephone-directory [33774] -> "../data/townSites2/Leicester/www.leicesterma.org/node/4116" [1]
+2017-01-02 01:04:57 URL:http://www.leicesterma.org/print/4116 [6095] -> "../data/townSites2/Leicester/www.leicesterma.org/print/4116" [1]
+2017-01-02 01:04:58 URL: http://www.leicesterma.org/sites/leicesterma/files/uploads/towncontactinformation_6-23-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:05:01 URL:http://www.leicesterma.org/webforms/contact-us [42501/42501] -> "../data/townSites2/Leicester/www.leicesterma.org/node/2" [1]
+2017-01-02 01:05:02 URL:http://www.leicesterma.org/print/2 [15383/15383] -> "../data/townSites2/Leicester/www.leicesterma.org/print/2" [1]
+2017-01-02 01:05:04 URL:http://www.leicesterma.org/home/pages/public-records [34756] -> "../data/townSites2/Leicester/www.leicesterma.org/node/87893" [1]
+2017-01-02 01:05:05 URL:http://www.leicesterma.org/print/87893 [7022] -> "../data/townSites2/Leicester/www.leicesterma.org/print/87893" [1]
+2017-01-02 01:05:06 URL:http://www.leicesterma.org/home/news/town-hall-holiday-hours [33661] -> "../data/townSites2/Leicester/www.leicesterma.org/node/88153" [1]
+2017-01-02 01:05:07 URL:http://www.leicesterma.org/print/88153 [5942] -> "../data/townSites2/Leicester/www.leicesterma.org/print/88153" [1]
+2017-01-02 01:05:08 URL:http://www.leicesterma.org/home/news/thoughtexchange-community-survey [35628] -> "../data/townSites2/Leicester/www.leicesterma.org/node/88063" [1]
+2017-01-02 01:05:09 URL:http://www.leicesterma.org/print/88063 [7914] -> "../data/townSites2/Leicester/www.leicesterma.org/print/88063" [1]
+2017-01-02 01:05:11 URL:http://www.leicesterma.org/home/news/town-hall-accessibility-survey [34129] -> "../data/townSites2/Leicester/www.leicesterma.org/node/87793" [1]
+2017-01-02 01:05:12 URL:http://www.leicesterma.org/print/87793 [6347] -> "../data/townSites2/Leicester/www.leicesterma.org/print/87793" [1]
+2017-01-02 01:05:13 URL:http://www.leicesterma.org/calendar/day/2017-01-02 [38007] -> "../data/townSites2/Leicester/www.leicesterma.org/calendar/day/2017-01-02" [1]
+2017-01-02 01:05:15 URL:http://www.leicesterma.org/calendar/day/2017-01-04 [38010] -> "../data/townSites2/Leicester/www.leicesterma.org/calendar/day/2017-01-04" [1]
+2017-01-02 01:05:16 URL:http://www.leicesterma.org/home/events/88133 [36607] -> "../data/townSites2/Leicester/www.leicesterma.org/node/88133" [1]
+2017-01-02 01:05:17 URL:http://www.leicesterma.org/print/88133 [9130] -> "../data/townSites2/Leicester/www.leicesterma.org/print/88133" [1]
+2017-01-02 01:05:18 URL:http://www.leicesterma.org/home/agenda/leicester-housing-authority-9 [34864] -> "../data/townSites2/Leicester/www.leicesterma.org/home/agenda/leicester-housing-authority-9" [1]
+2017-01-02 01:05:18 URL: http://www.leicesterma.org/sites/leicesterma/files/agendas/housing1-3-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:05:19 URL:http://www.leicesterma.org/home/events/88083 [36558] -> "../data/townSites2/Leicester/www.leicesterma.org/node/88083" [1]
+2017-01-02 01:05:21 URL:http://www.leicesterma.org/print/88083 [9055] -> "../data/townSites2/Leicester/www.leicesterma.org/print/88083" [1]
+2017-01-02 01:05:21 URL: http://www.leicesterma.org/sites/leicesterma/files/agendas/plan_1-3-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:05:22 URL:http://www.leicesterma.org/calendar/day/2017-01-06 [38007] -> "../data/townSites2/Leicester/www.leicesterma.org/calendar/day/2017-01-06" [1]
+2017-01-02 01:05:24 URL:http://www.leicesterma.org/home/events/87903 [36739] -> "../data/townSites2/Leicester/www.leicesterma.org/node/87903" [1]
+2017-01-02 01:05:24 URL:http://www.leicesterma.org/print/87903 [9288] -> "../data/townSites2/Leicester/www.leicesterma.org/print/87903" [1]
+2017-01-02 01:05:26 URL:http://www.leicesterma.org/home/agenda/stiles-lake-water-district-commissioners-18 [34999] -> "../data/townSites2/Leicester/www.leicesterma.org/home/agenda/stiles-lake-water-district-commissioners-18" [1]
+2017-01-02 01:05:26 URL: http://www.leicesterma.org/sites/leicesterma/files/agendas/stiles_1-5-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:05:27 URL:http://www.leicesterma.org/calendar/day/2017-01-08 [38007] -> "../data/townSites2/Leicester/www.leicesterma.org/calendar/day/2017-01-08" [1]
+2017-01-02 01:05:28 URL:http://www.leicesterma.org/home/events/71473 [33913] -> "../data/townSites2/Leicester/www.leicesterma.org/node/71473" [1]
+2017-01-02 01:05:29 URL:http://www.leicesterma.org/print/71473 [6289] -> "../data/townSites2/Leicester/www.leicesterma.org/print/71473" [1]
+2017-01-02 01:05:31 URL:http://www.leicesterma.org/calendar/day/2017-01-10 [38009] -> "../data/townSites2/Leicester/www.leicesterma.org/calendar/day/2017-01-10" [1]
+2017-01-02 01:05:32 URL:http://www.leicesterma.org/home/events/60473 [33939] -> "../data/townSites2/Leicester/www.leicesterma.org/node/60473" [1]
+2017-01-02 01:05:33 URL:http://www.leicesterma.org/print/60473 [6227] -> "../data/townSites2/Leicester/www.leicesterma.org/print/60473" [1]
+2017-01-02 01:05:34 URL:http://www.leicesterma.org/calendar/day/2017-01-12 [38010] -> "../data/townSites2/Leicester/www.leicesterma.org/calendar/day/2017-01-12" [1]
+2017-01-02 01:05:35 URL:http://www.leicesterma.org/home/events/88113 [36739] -> "../data/townSites2/Leicester/www.leicesterma.org/node/88113" [1]
+2017-01-02 01:05:36 URL:http://www.leicesterma.org/print/88113 [9274] -> "../data/townSites2/Leicester/www.leicesterma.org/print/88113" [1]
+2017-01-02 01:05:37 URL: http://www.leicesterma.org/sites/leicesterma/files/agendas/con_1-11-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:05:38 URL:http://www.leicesterma.org/calendar/day/2017-01-20 [38008] -> "../data/townSites2/Leicester/www.leicesterma.org/calendar/day/2017-01-20" [1]
+2017-01-02 01:05:39 URL:http://www.leicesterma.org/calendar/day/2017-01-22 [38008] -> "../data/townSites2/Leicester/www.leicesterma.org/calendar/day/2017-01-22" [1]
+2017-01-02 01:05:40 URL:http://www.leicesterma.org/home/events/72473 [34216] -> "../data/townSites2/Leicester/www.leicesterma.org/node/72473" [1]
+2017-01-02 01:05:41 URL:http://www.leicesterma.org/print/72473 [6510] -> "../data/townSites2/Leicester/www.leicesterma.org/print/72473" [1]
+2017-01-02 01:05:42 URL:http://www.leicesterma.org/calendar/day/2017-01-24 [38009] -> "../data/townSites2/Leicester/www.leicesterma.org/calendar/day/2017-01-24" [1]
+2017-01-02 01:05:43 URL:http://www.leicesterma.org/home/events/70263 [33940] -> "../data/townSites2/Leicester/www.leicesterma.org/node/70263" [1]
+2017-01-02 01:05:44 URL:http://www.leicesterma.org/print/70263 [6228] -> "../data/townSites2/Leicester/www.leicesterma.org/print/70263" [1]
+2017-01-02 01:05:45 URL:http://www.leicesterma.org/home/pages/website-disclaimer-and-privacy-policy [34375] -> "../data/townSites2/Leicester/www.leicesterma.org/node/1356" [1]
+2017-01-02 01:05:46 URL:http://www.leicesterma.org/print/1356 [6635] -> "../data/townSites2/Leicester/www.leicesterma.org/print/1356" [1]
+Found 3 broken links.
+
+http://www.leicesterma.org/sites/leicesterma/files/uploads/policy_manual_july_2014.pdf
+http://www.leicesterma.org/council-aging-board
+http://www.mass.gov/eopss/agencies/mema/ready-massachusetts/emergency-kit.html
+
+FINISHED --2017-01-02 01:05:46--
+Total wall clock time: 21m 2s
+Downloaded: 662 files, 26M in 1m 38s (272 KB/s)

@@ -1,0 +1,16 @@
+2017-01-02 00:08:26 URL:http://www.kingstonmass.org/ [30100/30100] -> "../data/townSites2/Kingston/www.kingstonmass.org/index.html" [1]
+2017-01-02 00:08:27 URL: http://www.kingstonmass.org/repository/designs/templates/GO_kingston-ma/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 00:08:27 URL: http://www.kingstonmass.org/vertical/sites/%7B14403534-636B-4C7F-A416-D66D8321CF44%7D/uploads/winterpublicnotice2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:08:28 URL: http://www.kingstonmass.org/vertical/sites/%7B14403534-636B-4C7F-A416-D66D8321CF44%7D/uploads/Municiple_New_Years_Hours.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:08:28 URL: http://www.kingstonmass.org/vertical/sites/%7B14403534-636B-4C7F-A416-D66D8321CF44%7D/uploads/Warrant_Articles_Due_by_Jan._20.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:08:29 URL: http://www.kingstonmass.org/vertical/sites/%7B14403534-636B-4C7F-A416-D66D8321CF44%7D/uploads/FINAL_REPORT_JONES_RIVER_DREDGE_FEASIBLITY-COMPLETE_09_01_2016.pdf 200 OK
+unlink: No such file or directory
+Found no broken links.
+
+FINISHED --2017-01-02 00:08:29--
+Total wall clock time: 4.9s
+Downloaded: 1 files, 29K in 0.8s (34.7 KB/s)

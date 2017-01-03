@@ -1,0 +1,26 @@
+2017-01-02 07:42:14 URL:http://www.tyringham-ma.gov/ [1161] -> "../data/townSites2/Tyringham/www.tyringham-ma.gov/index.html" [1]
+2017-01-02 07:42:15 URL:http://www.tyringham-ma.gov/Pages/index [41300] -> "../data/townSites2/Tyringham/www.tyringham-ma.gov/Pages/index" [1]
+2017-01-02 07:42:16 URL:http://www.tyringham-ma.gov/Pages/TyringhamMA_WebDocs/about [19381] -> "../data/townSites2/Tyringham/www.tyringham-ma.gov/Pages/TyringhamMA_WebDocs/about" [1]
+2017-01-02 07:42:17 URL:http://www.tyringham-ma.gov/Pages/TyringhamMA_WebDocs/departments [26073] -> "../data/townSites2/Tyringham/www.tyringham-ma.gov/Pages/TyringhamMA_WebDocs/departments" [1]
+2017-01-02 07:42:18 URL:http://www.tyringham-ma.gov/Pages/TyringhamMA_Calendar/ [36203] -> "../data/townSites2/Tyringham/www.tyringham-ma.gov/Pages/TyringhamMA_Calendar/index.html" [1]
+2017-01-02 07:42:19 URL:http://www.tyringham-ma.gov/Pages/TyringhamMA_Schools/index [24503] -> "../data/townSites2/Tyringham/www.tyringham-ma.gov/Pages/TyringhamMA_Schools/index" [1]
+2017-01-02 07:42:20 URL:http://www.tyringham-ma.gov/Pages/TyringhamMA_WebDocs/places [17096] -> "../data/townSites2/Tyringham/www.tyringham-ma.gov/Pages/TyringhamMA_WebDocs/places" [1]
+2017-01-02 07:42:21 URL:http://www.tyringham-ma.gov/Pages/TyringhamMA_WebDocs/links [18875] -> "../data/townSites2/Tyringham/www.tyringham-ma.gov/Pages/TyringhamMA_WebDocs/links" [1]
+2017-01-02 07:42:23 URL:http://www.tyringham-ma.gov/Pages/TyringhamMA_WebDocs/contact [24671] -> "../data/townSites2/Tyringham/www.tyringham-ma.gov/Pages/TyringhamMA_WebDocs/contact" [1]
+2017-01-02 07:42:24 URL:http://www.tyringham-ma.gov/Pages/TyringhamMA_WebDocs/legalnotices [14684] -> "../data/townSites2/Tyringham/www.tyringham-ma.gov/Pages/TyringhamMA_WebDocs/legalnotices" [1]
+2017-01-02 07:42:25 URL:http://www.tyringham-ma.gov/Pages/TyringhamMA_WebDocs/directions [17047] -> "../data/townSites2/Tyringham/www.tyringham-ma.gov/Pages/TyringhamMA_WebDocs/directions" [1]
+2017-01-02 07:42:26 URL:http://www.tyringham-ma.gov/Subscriber [23374] -> "../data/townSites2/Tyringham/www.tyringham-ma.gov/Subscriber" [1]
+2017-01-02 07:42:27 URL:http://www.tyringham-ma.gov/Pages/search [40462] -> "../data/townSites2/Tyringham/www.tyringham-ma.gov/Pages/search" [1]
+2017-01-02 07:42:27 URL: http://www.tyringham-ma.gov/Pages/TyringhamMA_Bids/townofficejobopening.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:42:28 URL: http://www.tyringham-ma.gov/Icons/0 200 OK
+unlink: No such file or directory
+2017-01-02 07:42:29 URL:http://www.tyringham-ma.gov/Pages/TyringhamMA_News/ [16507] -> "../data/townSites2/Tyringham/www.tyringham-ma.gov/Pages/TyringhamMA_News/index.html" [1]
+2017-01-02 07:42:29 URL: http://www.tyringham-ma.gov/Pages/TyringhamMA_News/056DAFC1-000F8513 200 OK
+unlink: No such file or directory
+2017-01-02 07:42:30 URL:http://www.tyringham-ma.gov/Pages/TyringhamMA_WebDocs/disclaimer [20469] -> "../data/townSites2/Tyringham/www.tyringham-ma.gov/Pages/TyringhamMA_WebDocs/disclaimer" [1]
+Found no broken links.
+
+FINISHED --2017-01-02 07:42:30--
+Total wall clock time: 17s
+Downloaded: 15 files, 334K in 3.7s (89.7 KB/s)

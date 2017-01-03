@@ -1,0 +1,11 @@
+2017-01-01 21:35:41 URL:http://www.norwoodma.gov/ [28337] -> "../data/townSites2/Norwood/www.norwoodma.gov/index.html" [1]
+2017-01-01 21:35:41 URL: http://www.norwoodma.gov/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-01 21:35:41 URL: http://www.norwoodma.gov/images/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-01 21:35:42 URL:http://www.norwoodma.gov/webpages/frontpage/front_image.htm [3677/3677] -> "../data/townSites2/Norwood/www.norwoodma.gov/webpages/frontpage/front_image.htm" [1]
+Found no broken links.
+
+FINISHED --2017-01-01 21:35:42--
+Total wall clock time: 2.6s
+Downloaded: 2 files, 31K in 0.1s (323 KB/s)

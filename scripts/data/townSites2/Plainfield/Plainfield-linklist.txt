@@ -1,0 +1,210 @@
+2017-01-02 00:47:05 URL:http://plainfield-ma.us/ [47919/47919] -> "../data/townSites2/Plainfield/plainfield-ma.us/index.html" [1]
+2017-01-02 00:47:05 URL: http://plainfield-ma.us/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 00:47:06 URL:http://plainfield-ma.us/e/1/Departments [23443/23443] -> "../data/townSites2/Plainfield/plainfield-ma.us/e/1/Departments" [1]
+2017-01-02 00:47:07 URL:http://plainfield-ma.us/p/46/Town-Accountant [23171/23171] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/46/Town-Accountant" [1]
+2017-01-02 00:47:08 URL:http://plainfield-ma.us/p/48/Animal-Control [23003/23003] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/48/Animal-Control" [1]
+2017-01-02 00:47:09 URL:http://plainfield-ma.us/p/14/Building-Commissioner [23640/23640] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/14/Building-Commissioner" [1]
+2017-01-02 00:47:10 URL:http://plainfield-ma.us/p/49/Electrical-Inspector [23343/23343] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/49/Electrical-Inspector" [1]
+2017-01-02 00:47:11 URL:http://plainfield-ma.us/p/70/Emergency-Management [24439/24439] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/70/Emergency-Management" [1]
+2017-01-02 00:47:12 URL:http://plainfield-ma.us/p/12/Plainfield-Fire-EMS [24785/24785] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/12/Plainfield-Fire-EMS" [1]
+2017-01-02 00:47:13 URL:http://plainfield-ma.us/p/17/Highway-Department [23102/23102] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/17/Highway-Department" [1]
+2017-01-02 00:47:14 URL:http://plainfield-ma.us/p/16/Shaw-Memorial-Library [23565/23565] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/16/Shaw-Memorial-Library" [1]
+2017-01-02 00:47:15 URL:http://plainfield-ma.us/p/72/Moderator [23791/23791] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/72/Moderator" [1]
+2017-01-02 00:47:16 URL:http://plainfield-ma.us/p/64/Municipal-Light-Plant [26100/26100] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/64/Municipal-Light-Plant" [1]
+2017-01-02 00:47:17 URL:http://plainfield-ma.us/p/50/Plumbing-Inspector [23035/23035] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/50/Plumbing-Inspector" [1]
+2017-01-02 00:47:18 URL:http://plainfield-ma.us/p/13/Police-Department [22836/22836] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/13/Police-Department" [1]
+2017-01-02 00:47:19 URL:http://plainfield-ma.us/p/15/Public-Schools [23925/23925] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/15/Public-Schools" [1]
+2017-01-02 00:47:21 URL:http://plainfield-ma.us/p/47/Tax-Collector [23658/23658] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/47/Tax-Collector" [1]
+2017-01-02 00:47:23 URL:http://plainfield-ma.us/p/11/Town-Clerk [24337/24337] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/11/Town-Clerk" [1]
+2017-01-02 00:47:25 URL:http://plainfield-ma.us/p/21/Town-Hall [22624/22624] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/21/Town-Hall" [1]
+2017-01-02 00:47:27 URL:http://plainfield-ma.us/p/22/Town-Offices [23232/23232] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/22/Town-Offices" [1]
+2017-01-02 00:47:28 URL:http://plainfield-ma.us/p/18/Treasurer [23352/23352] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/18/Treasurer" [1]
+2017-01-02 00:47:29 URL:http://plainfield-ma.us/e/2/Committees [23278/23278] -> "../data/townSites2/Plainfield/plainfield-ma.us/e/2/Committees" [1]
+2017-01-02 00:47:31 URL:http://plainfield-ma.us/p/35/Agricultural-Commission [23507/23507] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/35/Agricultural-Commission" [1]
+2017-01-02 00:47:32 URL:http://plainfield-ma.us/p/36/Board-of-Assessors [23967/23967] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/36/Board-of-Assessors" [1]
+2017-01-02 00:47:33 URL:http://plainfield-ma.us/p/25/Board-of-Health [24366/24366] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/25/Board-of-Health" [1]
+2017-01-02 00:47:34 URL:http://plainfield-ma.us/p/19/Board-of-Selectmen [29488/29488] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/19/Board-of-Selectmen" [1]
+2017-01-02 00:47:35 URL:http://plainfield-ma.us/p/51/Broadband-Committee [28265/28265] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/51/Broadband-Committee" [1]
+2017-01-02 00:47:36 URL:http://plainfield-ma.us/p/38/Buildings-Commitee [23373/23373] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/38/Buildings-Commitee" [1]
+2017-01-02 00:47:36 URL:http://plainfield-ma.us/p/39/Cemetery-Committee [23233/23233] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/39/Cemetery-Committee" [1]
+2017-01-02 00:47:37 URL:http://plainfield-ma.us/p/40/Conservation-Commission [23470/23470] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/40/Conservation-Commission" [1]
+2017-01-02 00:47:38 URL:http://plainfield-ma.us/p/20/Council-on-Aging [22680/22680] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/20/Council-on-Aging" [1]
+2017-01-02 00:47:40 URL:http://plainfield-ma.us/p/41/Cultural-Council [23145/23145] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/41/Cultural-Council" [1]
+2017-01-02 00:47:40 URL:http://plainfield-ma.us/p/42/Energy-Committee [24508/24508] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/42/Energy-Committee" [1]
+2017-01-02 00:47:42 URL:http://plainfield-ma.us/p/43/Finance-Committee [24005/24005] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/43/Finance-Committee" [1]
+2017-01-02 00:47:43 URL:http://plainfield-ma.us/p/65/Historical-Commission [23679/23679] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/65/Historical-Commission" [1]
+2017-01-02 00:47:43 URL:http://plainfield-ma.us/p/37/Library-Trustees [23407/23407] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/37/Library-Trustees" [1]
+2017-01-02 00:47:44 URL:http://plainfield-ma.us/p/24/Planning-Board [23669/23669] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/24/Planning-Board" [1]
+2017-01-02 00:47:46 URL:http://plainfield-ma.us/p/44/Recreation-Committee [23359/23359] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/44/Recreation-Committee" [1]
+2017-01-02 00:47:47 URL:http://plainfield-ma.us/p/71/School-Committee [22977/22977] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/71/School-Committee" [1]
+2017-01-02 00:47:48 URL:http://plainfield-ma.us/p/45/Zoning-Board-of-Appeals [24566/24566] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/45/Zoning-Board-of-Appeals" [1]
+2017-01-02 00:47:51 URL:http://plainfield-ma.us/e/11/Agencies [22583/22583] -> "../data/townSites2/Plainfield/plainfield-ma.us/e/11/Agencies" [1]
+2017-01-02 00:47:53 URL:http://plainfield-ma.us/p/81/Hampshire-Council-of-Governments [24101/24101] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/81/Hampshire-Council-of-Governments" [1]
+2017-01-02 00:47:54 URL:http://plainfield-ma.us/p/78/ [25724/25724] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/78/index.html" [1]
+2017-01-02 00:47:56 URL:http://plainfield-ma.us/p/84/Massachusetts-Broadband-Initiative [23989/23989] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/84/Massachusetts-Broadband-Initiative" [1]
+2017-01-02 00:47:58 URL:http://plainfield-ma.us/p/82/Pioneer-Valley-Planning-Commission [23778/23778] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/82/Pioneer-Valley-Planning-Commission" [1]
+2017-01-02 00:47:59 URL:http://plainfield-ma.us/p/23/Department-of-Veterans-Services [24146/24146] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/23/Department-of-Veterans-Services" [1]
+2017-01-02 00:47:59 URL:http://plainfield-ma.us/p/83/WiredWest [23732/23732] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/83/WiredWest" [1]
+2017-01-02 00:48:01 URL:http://plainfield-ma.us/e/3/Resources [23062/23062] -> "../data/townSites2/Plainfield/plainfield-ma.us/e/3/Resources" [1]
+2017-01-02 00:48:02 URL:http://plainfield-ma.us/p/33/Blackboard-Connect [24493/24493] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/33/Blackboard-Connect" [1]
+2017-01-02 00:48:03 URL:http://plainfield-ma.us/p/30/By-laws-and-Policies [24793/24793] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/30/By-laws-and-Policies" [1]
+2017-01-02 00:48:04 URL:http://plainfield-ma.us/p/34/Ethics [24018/24018] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/34/Ethics" [1]
+2017-01-02 00:48:05 URL:http://plainfield-ma.us/p/55/Meeting-Minutes [34826/34826] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/55/Meeting-Minutes" [1]
+2017-01-02 00:48:06 URL:http://plainfield-ma.us/p/75/Open-Meeting-Law [23193/23193] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/75/Open-Meeting-Law" [1]
+2017-01-02 00:48:07 URL:http://plainfield-ma.us/p/77/Public-Records [27542/27542] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/77/Public-Records" [1]
+2017-01-02 00:48:08 URL:http://plainfield-ma.us/p/7/Helpful-Plainfield-Telephone-Numbers [24788/24788] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/7/Helpful-Plainfield-Telephone-Numbers" [1]
+2017-01-02 00:48:08 URL:http://plainfield-ma.us/p/78/Transfer-Station-and-Recycling-Center [25724/25724] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/78/Transfer-Station-and-Recycling-Center" [1]
+2017-01-02 00:48:10 URL:http://plainfield-ma.us/e/10/Community [22621/22621] -> "../data/townSites2/Plainfield/plainfield-ma.us/e/10/Community" [1]
+2017-01-02 00:48:11 URL:http://plainfield-ma.us/p/69/Photographs-and-happenings-around-Plainfield [33858/33858] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/69/Photographs-and-happenings-around-Plainfield" [1]
+2017-01-02 00:48:12 URL:http://plainfield-ma.us/p/66/Businesses [23882/23882] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/66/Businesses" [1]
+2017-01-02 00:48:13 URL:http://plainfield-ma.us/p/67/Non-profit-organizations-in-Plainfield [24323/24323] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/67/Non-profit-organizations-in-Plainfield" [1]
+2017-01-02 00:48:14 URL:http://plainfield-ma.us/contact [25811/25811] -> "../data/townSites2/Plainfield/plainfield-ma.us/contact" [1]
+2017-01-02 00:48:15 URL:http://plainfield-ma.us/news [23732/23732] -> "../data/townSites2/Plainfield/plainfield-ma.us/news" [1]
+2017-01-02 00:48:16 URL:http://plainfield-ma.us/calendar [32384/32384] -> "../data/townSites2/Plainfield/plainfield-ma.us/calendar" [1]
+2017-01-02 00:48:17 URL:http://plainfield-ma.us/n/7/Holiday-reminders-for-Transfer-Station-and-Recycling-Center [24916/24916] -> "../data/townSites2/Plainfield/plainfield-ma.us/n/7/Holiday-reminders-for-Transfer-Station-and-Recycling-Center" [1]
+2017-01-02 00:48:18 URL:http://plainfield-ma.us/news/2/General-News [23793/23793] -> "../data/townSites2/Plainfield/plainfield-ma.us/news/2/General-News" [1]
+2017-01-02 00:48:19 URL:http://plainfield-ma.us/n/1/Have-you-signed-up-for-emergency-and-outreach-announcements [25861/25861] -> "../data/townSites2/Plainfield/plainfield-ma.us/n/1/Have-you-signed-up-for-emergency-and-outreach-announcements" [1]
+2017-01-02 00:48:20 URL:http://plainfield-ma.us/d/32/Special-Town-Election [19245/19245] -> "../data/townSites2/Plainfield/plainfield-ma.us/d/32/Special-Town-Election" [1]
+2017-01-02 00:48:20 URL: http://plainfield-ma.us/files/Minutes_of_the_Special_Select_Board_Meeting_2016_12_6.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:21 URL:http://plainfield-ma.us/f/2/Board-of-Selectmen-Minutes [28182/28182] -> "../data/townSites2/Plainfield/plainfield-ma.us/f/2/Board-of-Selectmen-Minutes" [1]
+2017-01-02 00:48:21 URL: http://plainfield-ma.us/files/Minutes_of_the_Select_Board_Meeting_2016_11_22.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:22 URL: http://plainfield-ma.us/files/HOLIDAY_RECYCLING_REMINDER_2014_MRF_towns_copy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:22 URL:http://plainfield-ma.us/f/11/Board-of-Health-Files-and-Minutes [22897/22897] -> "../data/townSites2/Plainfield/plainfield-ma.us/f/11/Board-of-Health-Files-and-Minutes" [1]
+2017-01-02 00:48:23 URL: http://plainfield-ma.us/files/2016-12-01_Transfer_Station_&_Recycling_Center_Fee_Schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:23 URL: http://plainfield-ma.us/files/2016-10-19_Energy_Committee_Meeting_Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:24 URL:http://plainfield-ma.us/f/7/Energy-Committee-Minutes [23538/23538] -> "../data/townSites2/Plainfield/plainfield-ma.us/f/7/Energy-Committee-Minutes" [1]
+2017-01-02 00:48:24 URL: http://plainfield-ma.us/files/Minutes_of_the_Special_Select_Board_Meeting_2016_11_17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:25 URL: http://plainfield-ma.us/files/Minutes_of_the_Select_Board_Meeting__2016_11_8.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:25 URL: http://plainfield-ma.us/files/2016-07-22_Plainfield_Zoning_By_Law.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:26 URL:http://plainfield-ma.us/f/5/By-laws-and-Policies [23150/23150] -> "../data/townSites2/Plainfield/plainfield-ma.us/f/5/By-laws-and-Policies" [1]
+2017-01-02 00:48:27 URL: http://plainfield-ma.us/files/1988-07-01_Plainfield_ZBA_Rules_and_Regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:27 URL: http://plainfield-ma.us/files/2016-10-20_ZBA_Meeting__Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:28 URL:http://plainfield-ma.us/f/10/ZBA-Minutes [22640/22640] -> "../data/townSites2/Plainfield/plainfield-ma.us/f/10/ZBA-Minutes" [1]
+2017-01-02 00:48:28 URL: http://plainfield-ma.us/files/2016-09-15_ZBA_Meeting__Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:28 URL: http://plainfield-ma.us/files/2016-10-24_Broadband_committee_meeting_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:29 URL:http://plainfield-ma.us/f/6/Broadband-Committee-Minutes [25368/25368] -> "../data/townSites2/Plainfield/plainfield-ma.us/f/6/Broadband-Committee-Minutes" [1]
+2017-01-02 00:48:29 URL: http://plainfield-ma.us/files/2016-11-08_WebsiteGuidelines.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:30 URL: http://plainfield-ma.us/files/Minutes_of_the_Select_Board_Meeting_2016-10-25_October_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:30 URL: http://plainfield-ma.us/files/Minutes_of_the_Select_Board_Meeting_2016-10-11.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:30 URL: http://plainfield-ma.us/files/2016-10-10_Broadband_committee_meeting_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:31 URL: http://plainfield-ma.us/files/2016-08-10_Energy_Committee_Meeting_MInutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:31 URL: http://plainfield-ma.us/files/2009-05-02_BYLAWS_for_the_Town_of_Plainfield.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:31 URL: http://plainfield-ma.us/files/Finance_Committee_minutes_--_2016_09_28_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:35 URL:http://plainfield-ma.us/f/9/Finance-Committee-Minutes [22558/22558] -> "../data/townSites2/Plainfield/plainfield-ma.us/f/9/Finance-Committee-Minutes" [1]
+2017-01-02 00:48:35 URL: http://plainfield-ma.us/files/2011-07-12_Plainfield_Special_Town_Meeting_Warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:37 URL:http://plainfield-ma.us/f/8/Municipal-Light-Plant-Files [23723/23723] -> "../data/townSites2/Plainfield/plainfield-ma.us/f/8/Municipal-Light-Plant-Files" [1]
+2017-01-02 00:48:37 URL: http://plainfield-ma.us/files/2011-05-07_Plainfield_Annual_Town_Meeting_Warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:38 URL: http://plainfield-ma.us/files/Plain_language_summary_of_MLP_statute.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:39 URL: http://plainfield-ma.us/files/2011-08-02_Plainfield_Town_Clerk_Certificate_of_Vote.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:40 URL: http://plainfield-ma.us/files/2011-07-26_Plainfield_Select_Board_Certificate_of_Votes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:40 URL: http://plainfield-ma.us/files/2011_Plainfield_Town_Clerk_letter_to_DPU.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:40 URL: http://plainfield-ma.us/files/2016-09-21_Energy_Committee_Meeting_Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:41 URL: http://plainfield-ma.us/files/2016-09-26_Energy_Committee_Meeting_Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:41 URL: http://plainfield-ma.us/files/Minutes_of_the_Select_Board_Meeting_September_27_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:42 URL: http://plainfield-ma.us/files/2016-09-12_Broadband_committee_meeting_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:43 URL: http://plainfield-ma.us/files/2016-09-26_Broadband_committee_meeting_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:43 URL: http://plainfield-ma.us/files/2016-08-15_Broadband_committee_meeting_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:44 URL: http://plainfield-ma.us/files/2016-08-08_Broadband_committee_meeting_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:44 URL: http://plainfield-ma.us/files/2016-08-01_Broadband_committee_meeting_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:45 URL: http://plainfield-ma.us/files/2016-07-25_Broadband_committee_meeting_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:45 URL: http://plainfield-ma.us/files/2016-07-11_Broadband_committee_meeting_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:46 URL: http://plainfield-ma.us/files/2016-06-13_Broadband_committee_meeting_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:47 URL: http://plainfield-ma.us/files/2016-06-26_Broadband_committee_meeting_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:48 URL: http://plainfield-ma.us/files/2016-06-04_Broadband_committee_meeting_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:48 URL: http://plainfield-ma.us/files/Minutes_of_the_Select_Board_Meeting_September_13_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:49 URL: http://plainfield-ma.us/files/Minutes_of_the_Select_Board_Meeting_August_23_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:49 URL: http://plainfield-ma.us/files/Minutes_of_the_Select_Board_Meeting_August_9_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:50 URL: http://plainfield-ma.us/files/Minutes_of_the_Select_Board_Meeting_July_26_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:50 URL: http://plainfield-ma.us/files/Minutes_of_the_Select_Board_Meeting_July_12_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:51 URL: http://plainfield-ma.us/files/Minutes_of_the_Select_Board_Meeting_June_28_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:52 URL: http://plainfield-ma.us/files/Minutes_of_the_Select_Board_Meeting_June_14_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:52 URL: http://plainfield-ma.us/files/Minutes_of_the_Select_Board_Meeting_May_24_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:53 URL: http://plainfield-ma.us/files/Minutes_of_the_Select_Board_Meeting_May_10_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:54 URL: http://plainfield-ma.us/files/Minutes_of_the_Select_Board_Meeting_April_26_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:54 URL: http://plainfield-ma.us/files/Minutes_of_the_Select_Board_Meeting_April_12_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:54 URL: http://plainfield-ma.us/files/Minutes_of_the_Select_Board_Meeting_2016-01-12.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:48:56 URL:http://plainfield-ma.us/files [35415/35415] -> "../data/townSites2/Plainfield/plainfield-ma.us/files" [1]
+2017-01-02 00:48:58 URL:http://plainfield-ma.us/sitemap [26053/26053] -> "../data/townSites2/Plainfield/plainfield-ma.us/sitemap" [1]
+2017-01-02 00:48:59 URL:http://plainfield-ma.us/p/12/Fire-Department [24785/24785] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/12/Fire-Department" [1]
+2017-01-02 00:48:59 URL:http://plainfield-ma.us/p/46/Accountant [23171/23171] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/46/Accountant" [1]
+2017-01-02 00:49:01 URL:http://plainfield-ma.us/p/12/Fire-EMS-Department [24785/24785] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/12/Fire-EMS-Department" [1]
+2017-01-02 00:49:02 URL:http://plainfield-ma.us/p/29/Brush-Burning-Regulations [25532/25532] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/29/Brush-Burning-Regulations" [1]
+2017-01-02 00:49:02 URL:http://plainfield-ma.us/p/60/Join-Today [26156/26156] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/60/Join-Today" [1]
+2017-01-02 00:49:03 URL:http://plainfield-ma.us/p/54/Equipment [28419/28419] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/54/Equipment" [1]
+2017-01-02 00:49:04 URL:http://plainfield-ma.us/p/53/Personnel [27122/27122] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/53/Personnel" [1]
+2017-01-02 00:49:05 URL:http://plainfield-ma.us/p/16/Library [23565/23565] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/16/Library" [1]
+2017-01-02 00:49:06 URL:http://plainfield-ma.us/p/54/Fire-EMS-Equipment [28419/28419] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/54/Fire-EMS-Equipment" [1]
+2017-01-02 00:49:06 URL:http://plainfield-ma.us/p/60/Join-Plainfield-Fire-EMS [26156/26156] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/60/Join-Plainfield-Fire-EMS" [1]
+2017-01-02 00:49:07 URL:http://plainfield-ma.us/p/53/Fire-EMS-Personnel [27122/27122] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/53/Fire-EMS-Personnel" [1]
+2017-01-02 00:49:07 URL: http://plainfield-ma.us/files/Minutes_of_the_Select_Board_Meeting_2016-03-22.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:49:07 URL: http://plainfield-ma.us/files/Minutes_of_the_Select_Board_Meeting_2016-03-08.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:49:08 URL: http://plainfield-ma.us/files/Minutes_of_the_Select_Board_Meeting_2016-02-23.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:49:08 URL: http://plainfield-ma.us/files/Minutes_of_the_Select_Board_Meeting_2016-02-09.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:49:09 URL: http://plainfield-ma.us/files/Minutes_of_the_Select_Board_Meeting_2016-01-26.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:49:09 URL:http://plainfield-ma.us/p/23/Veterans-Services [24146/24146] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/23/Veterans-Services" [1]
+2017-01-02 00:49:10 URL:http://plainfield-ma.us/p/34/Conflict-of-Interest [24018/24018] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/34/Conflict-of-Interest" [1]
+2017-01-02 00:49:11 URL:http://plainfield-ma.us/p/75/Open-Meeting [23193/23193] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/75/Open-Meeting" [1]
+2017-01-02 00:49:12 URL:http://plainfield-ma.us/p/7/Town-Phone-Numbers [24788/24788] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/7/Town-Phone-Numbers" [1]
+2017-01-02 00:49:13 URL:http://plainfield-ma.us/p/69/Around-Town [33858/33858] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/69/Around-Town" [1]
+2017-01-02 00:49:14 URL:http://plainfield-ma.us/p/67/Non-profits [24323/24323] -> "../data/townSites2/Plainfield/plainfield-ma.us/p/67/Non-profits" [1]
+Found no broken links.
+
+FINISHED --2017-01-02 00:49:14--
+Total wall clock time: 2m 10s
+Downloaded: 93 files, 2.2M in 20s (112 KB/s)

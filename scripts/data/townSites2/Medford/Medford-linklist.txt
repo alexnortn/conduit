@@ -1,0 +1,521 @@
+2017-01-01 21:35:43 URL:http://www.medfordma.org/ [38826] -> "../data/townSites2/Medford/www.medfordma.org/index.html" [1]
+http://www.medfordma.org/xmlrpc.php:
+Remote file does not exist -- broken link!!!
+2017-01-01 21:35:46 URL: http://www.medfordma.org/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:35:46 URL: http://www.medfordma.org/comments/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:35:48 URL: http://www.medfordma.org/test-home-page/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:35:50 URL: http://www.medfordma.org/wp-json/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:35:50 URL: http://www.medfordma.org/wp-includes/wlwmanifest.xml 200 OK
+unlink: No such file or directory
+2017-01-01 21:35:51 URL: http://www.medfordma.org/news/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:35:56 URL:http://www.medfordma.org/about-medford/ [38068] -> "../data/townSites2/Medford/www.medfordma.org/about-medford/index.html" [1]
+2017-01-01 21:35:59 URL:http://www.medfordma.org/about-medford/contact/ [37103] -> "../data/townSites2/Medford/www.medfordma.org/about-medford/contact/index.html" [1]
+2017-01-01 21:36:01 URL:http://www.medfordma.org/about-medford/history/ [39348] -> "../data/townSites2/Medford/www.medfordma.org/about-medford/history/index.html" [1]
+2017-01-01 21:36:05 URL:http://www.medfordma.org/about-medford/moving-to-medford/ [38286] -> "../data/townSites2/Medford/www.medfordma.org/about-medford/moving-to-medford/index.html" [1]
+2017-01-01 21:36:08 URL:http://www.medfordma.org/about-medford/schools/ [40865] -> "../data/townSites2/Medford/www.medfordma.org/about-medford/schools/index.html" [1]
+2017-01-01 21:36:13 URL:http://www.medfordma.org/mayor/ [44969] -> "../data/townSites2/Medford/www.medfordma.org/mayor/index.html" [1]
+2017-01-01 21:36:15 URL:http://www.medfordma.org/city-council-2/ [41131] -> "../data/townSites2/Medford/www.medfordma.org/city-council-2/index.html" [1]
+2017-01-01 21:36:19 URL:http://www.medfordma.org/departments/ [42367] -> "../data/townSites2/Medford/www.medfordma.org/departments/index.html" [1]
+2017-01-01 21:36:22 URL:http://www.medfordma.org/departments/animal-control/ [39331] -> "../data/townSites2/Medford/www.medfordma.org/departments/animal-control/index.html" [1]
+2017-01-01 21:36:26 URL:http://www.medfordma.org/departments/assessor/ [44199] -> "../data/townSites2/Medford/www.medfordma.org/departments/assessor/index.html" [1]
+2017-01-01 21:36:30 URL:http://www.medfordma.org/departments/building-department/ [41459] -> "../data/townSites2/Medford/www.medfordma.org/departments/building-department/index.html" [1]
+2017-01-01 21:36:33 URL:http://www.medfordma.org/departments/department-of-public-works/dpw-links/cemetery-division/ [41074] -> "../data/townSites2/Medford/www.medfordma.org/departments/department-of-public-works/dpw-links/cemetery-division/index.html" [1]
+2017-01-01 21:36:36 URL:http://www.medfordma.org/departments/city-clerk/ [42156] -> "../data/townSites2/Medford/www.medfordma.org/departments/city-clerk/index.html" [1]
+2017-01-01 21:36:40 URL:http://www.medfordma.org/departments/civil-defenseemergency-management/ [37610] -> "../data/townSites2/Medford/www.medfordma.org/departments/civil-defenseemergency-management/index.html" [1]
+2017-01-01 21:36:43 URL:http://www.medfordma.org/departments/collector/ [45850] -> "../data/townSites2/Medford/www.medfordma.org/departments/collector/index.html" [1]
+2017-01-01 21:36:45 URL:http://www.medfordma.org/departments/community-development/ [41846] -> "../data/townSites2/Medford/www.medfordma.org/departments/community-development/index.html" [1]
+2017-01-01 21:36:48 URL:http://www.medfordma.org/departments/council-on-aging/ [42832] -> "../data/townSites2/Medford/www.medfordma.org/departments/council-on-aging/index.html" [1]
+2017-01-01 21:36:52 URL:http://www.medfordma.org/departments/credit-union/ [37725] -> "../data/townSites2/Medford/www.medfordma.org/departments/credit-union/index.html" [1]
+2017-01-01 21:36:58 URL:http://www.medfordma.org/departments/department-of-public-works/ [41962] -> "../data/townSites2/Medford/www.medfordma.org/departments/department-of-public-works/index.html" [1]
+2017-01-01 21:37:03 URL:http://www.medfordma.org/departments/disability/ [41401] -> "../data/townSites2/Medford/www.medfordma.org/departments/disability/index.html" [1]
+2017-01-01 21:37:05 URL:http://www.medfordma.org/departments/diversity/ [39762] -> "../data/townSites2/Medford/www.medfordma.org/departments/diversity/index.html" [1]
+2017-01-01 21:37:09 URL:http://www.medfordma.org/departments/electrical/ [39553] -> "../data/townSites2/Medford/www.medfordma.org/departments/electrical/index.html" [1]
+2017-01-01 21:37:11 URL:http://www.medfordma.org/departments/energy-and-environment/ [45236] -> "../data/townSites2/Medford/www.medfordma.org/departments/energy-and-environment/index.html" [1]
+2017-01-01 21:37:14 URL:http://www.medfordma.org/departments/department-of-public-works/dpw-links/engineering-division/ [44059] -> "../data/townSites2/Medford/www.medfordma.org/departments/department-of-public-works/dpw-links/engineering-division/index.html" [1]
+2017-01-01 21:37:16 URL:http://www.medfordma.org/departments/finance-and-auditing/ [39532] -> "../data/townSites2/Medford/www.medfordma.org/departments/finance-and-auditing/index.html" [1]
+2017-01-01 21:37:18 URL:http://www.medfordma.org/departments/fire-department/ [40223] -> "../data/townSites2/Medford/www.medfordma.org/departments/fire-department/index.html" [1]
+2017-01-01 21:37:21 URL:http://www.medfordma.org/departments/department-of-public-works/dpw-links/forestry-division/ [40477] -> "../data/townSites2/Medford/www.medfordma.org/departments/department-of-public-works/dpw-links/forestry-division/index.html" [1]
+2017-01-01 21:37:24 URL:http://www.medfordma.org/departments/health-department/ [43618] -> "../data/townSites2/Medford/www.medfordma.org/departments/health-department/index.html" [1]
+2017-01-01 21:37:26 URL:http://www.medfordma.org/departments/department-of-public-works/dpw-links/highway-division/ [39621] -> "../data/townSites2/Medford/www.medfordma.org/departments/department-of-public-works/dpw-links/highway-division/index.html" [1]
+2017-01-01 21:37:29 URL:http://www.medfordma.org/departments/human-rights/ [41428] -> "../data/townSites2/Medford/www.medfordma.org/departments/human-rights/index.html" [1]
+2017-01-01 21:37:31 URL:http://www.medfordma.org/departments/information-technology/ [39538] -> "../data/townSites2/Medford/www.medfordma.org/departments/information-technology/index.html" [1]
+2017-01-01 21:37:34 URL:http://www.medfordma.org/departments/law-department/ [38772] -> "../data/townSites2/Medford/www.medfordma.org/departments/law-department/index.html" [1]
+2017-01-01 21:37:37 URL:http://www.medfordma.org/departments/department-of-public-works/dpw-links/park-division/ [41339] -> "../data/townSites2/Medford/www.medfordma.org/departments/department-of-public-works/dpw-links/park-division/index.html" [1]
+2017-01-01 21:37:40 URL:http://www.medfordma.org/departments/personnel/ [40026] -> "../data/townSites2/Medford/www.medfordma.org/departments/personnel/index.html" [1]
+2017-01-01 21:37:42 URL:http://www.medfordma.org/departments/police/ [31822] -> "../data/townSites2/Medford/www.medfordma.org/departments/police/index.html" [1]
+2017-01-01 21:37:45 URL:http://www.medfordma.org/departments/procurement/ [40358] -> "../data/townSites2/Medford/www.medfordma.org/departments/procurement/index.html" [1]
+2017-01-01 21:37:48 URL:http://www.medfordma.org/departments/recreation/ [33897] -> "../data/townSites2/Medford/www.medfordma.org/departments/recreation/index.html" [1]
+2017-01-01 21:37:52 URL:http://www.medfordma.org/departments/recycling/ [41958] -> "../data/townSites2/Medford/www.medfordma.org/departments/recycling/index.html" [1]
+2017-01-01 21:37:54 URL:http://www.medfordma.org/departments/retirement/ [41689] -> "../data/townSites2/Medford/www.medfordma.org/departments/retirement/index.html" [1]
+2017-01-01 21:38:00 URL:http://www.medfordma.org/departments/veterans/ [41356] -> "../data/townSites2/Medford/www.medfordma.org/departments/veterans/index.html" [1]
+2017-01-01 21:38:03 URL:http://www.medfordma.org/departments/voter-registration/ [41602] -> "../data/townSites2/Medford/www.medfordma.org/departments/voter-registration/index.html" [1]
+2017-01-01 21:38:06 URL:http://www.medfordma.org/departments/department-of-public-works/dpw-links/water-and-sewer-division/ [43640] -> "../data/townSites2/Medford/www.medfordma.org/departments/department-of-public-works/dpw-links/water-and-sewer-division/index.html" [1]
+2017-01-01 21:38:08 URL:http://www.medfordma.org/departments/weights-and-measures/ [43369] -> "../data/townSites2/Medford/www.medfordma.org/departments/weights-and-measures/index.html" [1]
+2017-01-01 21:38:12 URL:http://www.medfordma.org/boards/ [49816] -> "../data/townSites2/Medford/www.medfordma.org/boards/index.html" [1]
+2017-01-01 21:38:15 URL:http://www.medfordma.org/news/ [51208] -> "../data/townSites2/Medford/www.medfordma.org/news/index.html" [1]
+2017-01-01 21:38:18 URL:http://www.medfordma.org/mayor/city-events/ [38331] -> "../data/townSites2/Medford/www.medfordma.org/mayor/city-events/index.html" [1]
+2017-01-01 21:38:21 URL:http://www.medfordma.org/mayor/online-request-for-city-services/ [40855] -> "../data/townSites2/Medford/www.medfordma.org/mayor/online-request-for-city-services/index.html" [1]
+2017-01-01 21:38:23 URL:http://www.medfordma.org/alerts/ [46386] -> "../data/townSites2/Medford/www.medfordma.org/alerts/index.html" [1]
+2017-01-01 21:38:26 URL:http://www.medfordma.org/2016/12/30/medford-city-council-meeting-january-3-2017/ [45048] -> "../data/townSites2/Medford/www.medfordma.org/2016/12/30/medford-city-council-meeting-january-3-2017/index.html" [1]
+2017-01-01 21:38:29 URL:http://www.medfordma.org/2016/12/30/lifeguard-training/ [45066] -> "../data/townSites2/Medford/www.medfordma.org/2016/12/30/lifeguard-training/index.html" [1]
+2017-01-01 21:38:32 URL:http://www.medfordma.org/2016/12/29/2017-waste-management-trash-recycling-schedule/ [45297] -> "../data/townSites2/Medford/www.medfordma.org/2016/12/29/2017-waste-management-trash-recycling-schedule/index.html" [1]
+2017-01-01 21:38:36 URL:http://www.medfordma.org/2016/12/21/affordable-housing-lottery-2/ [44885] -> "../data/townSites2/Medford/www.medfordma.org/2016/12/21/affordable-housing-lottery-2/index.html" [1]
+2017-01-01 21:38:39 URL:http://www.medfordma.org/2016/12/19/cradock-bridge-update-3/ [45581] -> "../data/townSites2/Medford/www.medfordma.org/2016/12/19/cradock-bridge-update-3/index.html" [1]
+2017-01-01 21:38:42 URL:http://www.medfordma.org/2016/12/19/medford-bicycle-advisory-commission-meeting-december-21-2016/ [46613] -> "../data/townSites2/Medford/www.medfordma.org/2016/12/19/medford-bicycle-advisory-commission-meeting-december-21-2016/index.html" [1]
+2017-01-01 21:38:46 URL:http://www.medfordma.org/2016/12/19/chevalier-theatre-commission-meeting-december-20-2016/ [46049] -> "../data/townSites2/Medford/www.medfordma.org/2016/12/19/chevalier-theatre-commission-meeting-december-20-2016/index.html" [1]
+2017-01-01 21:38:52 URL:http://www.medfordma.org/2016/12/16/upcoming-medford-city-council-meetings-24/ [46877] -> "../data/townSites2/Medford/www.medfordma.org/2016/12/16/upcoming-medford-city-council-meetings-24/index.html" [1]
+2017-01-01 21:38:55 URL:http://www.medfordma.org/2016/12/16/mystic-valley-development-commission-meeting-dec-21-2016/ [46800] -> "../data/townSites2/Medford/www.medfordma.org/2016/12/16/mystic-valley-development-commission-meeting-dec-21-2016/index.html" [1]
+2017-01-01 21:38:58 URL:http://www.medfordma.org/2016/12/16/free-parking-on-dec-17-24/ [44565] -> "../data/townSites2/Medford/www.medfordma.org/2016/12/16/free-parking-on-dec-17-24/index.html" [1]
+2017-01-01 21:39:00 URL:http://www.medfordma.org/2016/12/15/no-school-friday-december-16-2016/ [44855] -> "../data/townSites2/Medford/www.medfordma.org/2016/12/15/no-school-friday-december-16-2016/index.html" [1]
+2017-01-01 21:39:03 URL:http://www.medfordma.org/2016/12/15/medford-public-library-board-of-trustees-meeting-dec-19-2016/ [45710] -> "../data/townSites2/Medford/www.medfordma.org/2016/12/15/medford-public-library-board-of-trustees-meeting-dec-19-2016/index.html" [1]
+2017-01-01 21:39:07 URL:http://www.medfordma.org/2016/12/13/all-about-snow-shoveling-for-walkers-in-medford/ [50660] -> "../data/townSites2/Medford/www.medfordma.org/2016/12/13/all-about-snow-shoveling-for-walkers-in-medford/index.html" [1]
+2017-01-01 21:39:10 URL:http://www.medfordma.org/departments/collector/pay-bills-online/ [37657] -> "../data/townSites2/Medford/www.medfordma.org/departments/collector/pay-bills-online/index.html" [1]
+2017-01-01 21:39:13 URL:http://www.medfordma.org/departments/personnel/jobs/ [42996] -> "../data/townSites2/Medford/www.medfordma.org/departments/personnel/jobs/index.html" [1]
+2017-01-01 21:39:16 URL:http://www.medfordma.org/departments/procurement/bids-and-proposals/ [43657] -> "../data/townSites2/Medford/www.medfordma.org/departments/procurement/bids-and-proposals/index.html" [1]
+2017-01-01 21:39:19 URL:http://www.medfordma.org/mayor/city-budget/ [40190] -> "../data/townSites2/Medford/www.medfordma.org/mayor/city-budget/index.html" [1]
+2017-01-01 21:39:23 URL:http://www.medfordma.org/business-resources/ [38330] -> "../data/townSites2/Medford/www.medfordma.org/business-resources/index.html" [1]
+2017-01-01 21:39:26 URL:http://www.medfordma.org/website/ [39753] -> "../data/townSites2/Medford/www.medfordma.org/website/index.html" [1]
+2017-01-01 21:39:27 URL: http://www.medfordma.org/about-medford/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:39:29 URL: http://www.medfordma.org/about-medford/contact/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:39:30 URL: http://www.medfordma.org/about-medford/history/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:39:33 URL: http://www.medfordma.org/about-medford/moving-to-medford/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:39:34 URL: http://www.medfordma.org/wp-content/uploads/2012/06/Medford-Directory-Final.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:39:35 URL: http://www.medfordma.org/wp-content/uploads/2012/06/Medford-Directory-6-26-16.docx 200 OK
+unlink: No such file or directory
+2017-01-01 21:39:36 URL: http://www.medfordma.org/about-medford/schools/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:39:38 URL: http://www.medfordma.org/mayor/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:39:41 URL:http://www.medfordma.org/mayor/about-mayor-burke/ [36930] -> "../data/townSites2/Medford/www.medfordma.org/mayor/about-mayor-burke/index.html" [1]
+2017-01-01 21:39:44 URL:http://www.medfordma.org/mayor/mayors-staff/ [38001] -> "../data/townSites2/Medford/www.medfordma.org/mayor/mayors-staff/index.html" [1]
+2017-01-01 21:39:47 URL:http://www.medfordma.org/mayor/transition-team/ [38552] -> "../data/townSites2/Medford/www.medfordma.org/mayor/transition-team/index.html" [1]
+2017-01-01 21:39:50 URL:http://www.medfordma.org/mayor/common-service-requests/ [48040] -> "../data/townSites2/Medford/www.medfordma.org/mayor/common-service-requests/index.html" [1]
+2017-01-01 21:39:52 URL:http://www.medfordma.org/mayor/important-links/ [41663] -> "../data/townSites2/Medford/www.medfordma.org/mayor/important-links/index.html" [1]
+2017-01-01 21:39:55 URL:http://www.medfordma.org/mayor/elected-officials/ [40642] -> "../data/townSites2/Medford/www.medfordma.org/mayor/elected-officials/index.html" [1]
+2017-01-01 21:39:59 URL:http://www.medfordma.org/mayor/local-assistance/ [37891] -> "../data/townSites2/Medford/www.medfordma.org/mayor/local-assistance/index.html" [1]
+2017-01-01 21:40:01 URL:http://www.medfordma.org/mayor/constable-listing/ [40020] -> "../data/townSites2/Medford/www.medfordma.org/mayor/constable-listing/index.html" [1]
+2017-01-01 21:40:06 URL:http://www.medfordma.org/medford-day/ [37969] -> "../data/townSites2/Medford/www.medfordma.org/medford-day/index.html" [1]
+2017-01-01 21:40:06 URL: http://www.medfordma.org/wp-content/uploads/2016/08/city-hall-exhibit-info-and-interest-form.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:40:07 URL: http://www.medfordma.org/wp-content/uploads/2016/09/Adopt-a-Site-Information-and-Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:40:14 URL:http://www.medfordma.org/information-for-new-businesses/ [45201] -> "../data/townSites2/Medford/www.medfordma.org/information-for-new-businesses/index.html" [1]
+2017-01-01 21:40:20 URL:http://www.medfordma.org/senior-work-off-abatement/ [45869] -> "../data/townSites2/Medford/www.medfordma.org/senior-work-off-abatement/index.html" [1]
+2017-01-01 21:40:23 URL: http://www.medfordma.org/city-council-2/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:40:26 URL:http://www.medfordma.org/category/city-council/ [58928] -> "../data/townSites2/Medford/www.medfordma.org/category/city-council/index.html" [1]
+2017-01-01 21:40:29 URL:http://www.medfordma.org/city-council-2/meeting-minutes/ [38782] -> "../data/townSites2/Medford/www.medfordma.org/city-council-2/meeting-minutes/index.html" [1]
+2017-01-01 21:40:36 URL:http://www.medfordma.org/city-council-2/subcommittees/ [38504] -> "../data/townSites2/Medford/www.medfordma.org/city-council/subcommittees/index.html" [1]
+2017-01-01 21:40:41 URL:http://www.medfordma.org/city-council-2/city-council-rules/ [63429] -> "../data/townSites2/Medford/www.medfordma.org/city-council/city-council-rules/index.html" [1]
+2017-01-01 21:40:46 URL:http://www.medfordma.org/city-council-2/council-resolution-tracking/ [40640] -> "../data/townSites2/Medford/www.medfordma.org/city-council/council-resolution-tracking/index.html" [1]
+2017-01-01 21:40:50 URL:http://www.medfordma.org/city-council-2/papers-in-committee/ [39163] -> "../data/townSites2/Medford/www.medfordma.org/city-council/papers-in-committee/index.html" [1]
+2017-01-01 21:40:51 URL: http://www.medfordma.org/departments/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:40:52 URL: http://www.medfordma.org/departments/animal-control/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:40:54 URL:http://www.medfordma.org/departments/animal-control/rabies-information-and-clinics/ [37155] -> "../data/townSites2/Medford/www.medfordma.org/departments/animal-control/rabies-information-and-clinics/index.html" [1]
+2017-01-01 21:40:58 URL:http://www.medfordma.org/departments/animal-control/wildlife-information/ [37390] -> "../data/townSites2/Medford/www.medfordma.org/departments/animal-control/wildlife-information/index.html" [1]
+2017-01-01 21:41:02 URL:http://www.medfordma.org/departments/animal-control/low-cost-spay-and-neuter-programs/ [37224] -> "../data/townSites2/Medford/www.medfordma.org/departments/animal-control/low-cost-spay-and-neuter-programs/index.html" [1]
+2017-01-01 21:41:08 URL:http://www.medfordma.org/2016/07/07/rodent-prevention/ [45446] -> "../data/townSites2/Medford/www.medfordma.org/2016/07/07/rodent-prevention/index.html" [1]
+2017-01-01 21:41:11 URL:http://www.medfordma.org/departments/animal-control/helpful-links/ [37068] -> "../data/townSites2/Medford/www.medfordma.org/departments/animal-control/helpful-links/index.html" [1]
+2017-01-01 21:41:13 URL: http://www.medfordma.org/departments/assessor/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:41:15 URL:http://www.medfordma.org/2016/11/09/fy2017-proposed-property-values/ [45746] -> "../data/townSites2/Medford/www.medfordma.org/2016/11/09/fy2017-proposed-property-values/index.html" [1]
+2017-01-01 21:41:18 URL:http://www.medfordma.org/2016/04/26/community-preservation-act/ [52282] -> "../data/townSites2/Medford/www.medfordma.org/2016/04/26/community-preservation-act/index.html" [1]
+2017-01-01 21:41:21 URL:http://www.medfordma.org/departments/assessor/statutory-exemptions/ [39510] -> "../data/townSites2/Medford/www.medfordma.org/departments/assessor/statutory-exemptions/index.html" [1]
+2017-01-01 21:41:22 URL: http://www.medfordma.org/wp-content/uploads/2016/04/CPA-Exe-application.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:41:27 URL:http://www.medfordma.org/departments/assessor/yearly-comparison/ [41171] -> "../data/townSites2/Medford/www.medfordma.org/departments/assessor/yearly-comparison/index.html" [1]
+2017-01-01 21:41:32 URL:http://www.medfordma.org/departments/assessor/medford-historical-tax-rates/ [40252] -> "../data/townSites2/Medford/www.medfordma.org/departments/assessor/medford-historical-tax-rates/index.html" [1]
+2017-01-01 21:41:36 URL:http://www.medfordma.org/departments/assessor/personal-property-faqs/ [72084] -> "../data/townSites2/Medford/www.medfordma.org/departments/assessor/personal-property-faqs/index.html" [1]
+2017-01-01 21:41:36 URL: http://www.medfordma.org/wp-content/uploads/2012/12/senior-tax-credit1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:41:38 URL: http://www.medfordma.org/wp-content/uploads/2012/12/change-of-address-form.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:41:41 URL:http://www.medfordma.org/departments/assessor/frequently-asked-assessment-questions/ [41269] -> "../data/townSites2/Medford/www.medfordma.org/departments/assessor/frequently-asked-assessment-questions/index.html" [1]
+2017-01-01 21:41:43 URL:http://www.medfordma.org/departments/assessor/assessors-maps/ [37456] -> "../data/townSites2/Medford/www.medfordma.org/departments/assessor/assessors-maps/index.html" [1]
+2017-01-01 21:41:45 URL:http://www.medfordma.org/2014/01/13/medford-real-property-inspection-program/ [46285] -> "../data/townSites2/Medford/www.medfordma.org/2014/01/13/medford-real-property-inspection-program/index.html" [1]
+2017-01-01 21:41:46 URL: http://www.medfordma.org/departments/building-department/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:41:48 URL:http://www.medfordma.org/departments/building-department/forms-and-permits/ [39638] -> "../data/townSites2/Medford/www.medfordma.org/departments/building-department/forms-and-permits/index.html" [1]
+2017-01-01 21:41:51 URL:http://www.medfordma.org/departments/building-department/building-department-fee-schedules/ [37764] -> "../data/townSites2/Medford/www.medfordma.org/departments/building-department/building-department-fee-schedules/index.html" [1]
+2017-01-01 21:41:53 URL:http://www.medfordma.org/departments/building-department/frequently-asked-questions/ [44083] -> "../data/townSites2/Medford/www.medfordma.org/departments/building-department/frequently-asked-questions/index.html" [1]
+2017-01-01 21:41:56 URL:http://www.medfordma.org/departments/building-department/contractor-license-information/ [37656] -> "../data/townSites2/Medford/www.medfordma.org/departments/building-department/contractor-license-information/index.html" [1]
+2017-01-01 21:41:58 URL:http://www.medfordma.org/departments/building-department/report-a-street-light-outage/ [37746] -> "../data/townSites2/Medford/www.medfordma.org/departments/building-department/report-a-street-light-outage/index.html" [1]
+2017-01-01 21:42:01 URL:http://www.medfordma.org/departments/building-department/ma-state-agencies/ [37448] -> "../data/townSites2/Medford/www.medfordma.org/departments/building-department/ma-state-agencies/index.html" [1]
+2017-01-01 21:42:03 URL: http://www.medfordma.org/wp-content/uploads/2012/12/VACFORCLOSFORM.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:42:05 URL:http://www.medfordma.org/departments/building-department/local-boards-and-commissions/ [37399] -> "../data/townSites2/Medford/www.medfordma.org/departments/building-department/local-boards-and-commissions/index.html" [1]
+2017-01-01 21:42:10 URL:http://www.medfordma.org/departments/building-department/medford-snow-removal-regulations/ [39938] -> "../data/townSites2/Medford/www.medfordma.org/departments/building-department/medford-snow-removal-regulations/index.html" [1]
+2017-01-01 21:42:10 URL: http://www.medfordma.org/departments/department-of-public-works/dpw-links/cemetery-division/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:42:14 URL:http://www.medfordma.org/departments/department-of-public-works/dpw-links/ [38017] -> "../data/townSites2/Medford/www.medfordma.org/departments/department-of-public-works/dpw-links/index.html" [1]
+2017-01-01 21:42:16 URL:http://www.medfordma.org/departments/department-of-public-works/dpw-links/cemetery-division/cemetery-rules-and-regulations/ [39837] -> "../data/townSites2/Medford/www.medfordma.org/departments/department-of-public-works/dpw-links/cemetery-division/cemetery-rules-and-regulations/index.html" [1]
+2017-01-01 21:42:17 URL: http://www.medfordma.org/wp-content/uploads/2013/07/OakGroveCemetery_Fees-1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:42:21 URL:http://www.medfordma.org/departments/department-of-public-works/dpw-links/cemetery-division/funeral-directors/ [38539] -> "../data/townSites2/Medford/www.medfordma.org/departments/department-of-public-works/dpw-links/cemetery-division/funeral-directors/index.html" [1]
+2017-01-01 21:42:24 URL:http://www.medfordma.org/departments/department-of-public-works/dpw-links/cemetery-division/directions-to-oak-grove-cemetery/ [39224] -> "../data/townSites2/Medford/www.medfordma.org/departments/department-of-public-works/dpw-links/cemetery-division/directions-to-oak-grove-cemetery/index.html" [1]
+2017-01-01 21:42:27 URL:http://www.medfordma.org/departments/department-of-public-works/dpw-links/cemetery-division/local-monument-dealers/ [38360] -> "../data/townSites2/Medford/www.medfordma.org/departments/department-of-public-works/dpw-links/cemetery-division/local-monument-dealers/index.html" [1]
+2017-01-01 21:42:29 URL:http://www.medfordma.org/departments/department-of-public-works/dpw-links/cemetery-division/oak-grove-cemetery-map/ [44403] -> "../data/townSites2/Medford/www.medfordma.org/departments/department-of-public-works/dpw-links/cemetery-division/oak-grove-cemetery-map/index.html" [1]
+2017-01-01 21:42:30 URL: http://www.medfordma.org/departments/city-clerk/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:42:34 URL:http://www.medfordma.org/departments/city-clerk/city-clerk-history/ [45266] -> "../data/townSites2/Medford/www.medfordma.org/departments/city-clerk/city-clerk-history/index.html" [1]
+2017-01-01 21:42:36 URL:http://www.medfordma.org/departments/city-clerk/marriage-licenses/ [37360] -> "../data/townSites2/Medford/www.medfordma.org/departments/city-clerk/marriage-licenses/index.html" [1]
+2017-01-01 21:42:39 URL:http://www.medfordma.org/departments/city-clerk/business-certificates/ [38133] -> "../data/townSites2/Medford/www.medfordma.org/departments/city-clerk/business-certificates/index.html" [1]
+2017-01-01 21:42:41 URL:http://www.medfordma.org/departments/city-clerk/birth-and-death-certificates/ [38901] -> "../data/townSites2/Medford/www.medfordma.org/departments/city-clerk/birth-and-death-certificates/index.html" [1]
+2017-01-01 21:42:43 URL:http://www.medfordma.org/departments/city-clerk/hunting-and-fishing-licenses/ [37047] -> "../data/townSites2/Medford/www.medfordma.org/departments/city-clerk/hunting-and-fishing-licenses/index.html" [1]
+2017-01-01 21:42:46 URL:http://www.medfordma.org/departments/city-clerk/dog-licenses/ [37784] -> "../data/townSites2/Medford/www.medfordma.org/departments/city-clerk/dog-licenses/index.html" [1]
+2017-01-01 21:42:46 URL: http://www.medfordma.org/wp-content/uploads/2012/12/DO-NOT-KNOCK-APP.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:42:48 URL:http://www.medfordma.org/departments/city-clerk/genealogy-requests/ [37202] -> "../data/townSites2/Medford/www.medfordma.org/departments/city-clerk/genealogy-requests/index.html" [1]
+2017-01-01 21:42:49 URL: http://www.medfordma.org/wp-content/uploads/2016/08/Common-Victuallers-License.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:42:49 URL: http://www.medfordma.org/wp-content/uploads/2016/09/Special-Hours-Permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:42:52 URL:http://www.medfordma.org/city-council/ [40916] -> "../data/townSites2/Medford/www.medfordma.org/city-council/index.html" [1]
+2017-01-01 21:42:58 URL:http://www.medfordma.org/departments/city-clerk/voting-and-election-information/ [39220] -> "../data/townSites2/Medford/www.medfordma.org/departments/city-clerk/voting-and-election-information/index.html" [1]
+2017-01-01 21:43:04 URL:http://www.medfordma.org/departments/city-clerk/other-links/ [36948] -> "../data/townSites2/Medford/www.medfordma.org/departments/city-clerk/other-links/index.html" [1]
+2017-01-01 21:43:05 URL: http://www.medfordma.org/departments/civil-defenseemergency-management/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:43:06 URL: http://www.medfordma.org/departments/collector/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:43:09 URL:http://www.medfordma.org/boards/commissioner-of-trust-funds/ [36999] -> "../data/townSites2/Medford/www.medfordma.org/boards/commissioner-of-trust-funds/index.html" [1]
+2017-01-01 21:43:13 URL:http://www.medfordma.org/departments/collector/parking/ [45056] -> "../data/townSites2/Medford/www.medfordma.org/departments/collector/parking/index.html" [1]
+2017-01-01 21:43:16 URL:http://www.medfordma.org/departments/collector/real-estate-taxes/ [37810] -> "../data/townSites2/Medford/www.medfordma.org/departments/collector/real-estate-taxes/index.html" [1]
+2017-01-01 21:43:21 URL:http://www.medfordma.org/departments/collector/motor-vehicle-taxes/ [40411] -> "../data/townSites2/Medford/www.medfordma.org/departments/collector/motor-vehicle-taxes/index.html" [1]
+2017-01-01 21:43:24 URL:http://www.medfordma.org/departments/collector/water-and-sewer-bills/ [39862] -> "../data/townSites2/Medford/www.medfordma.org/departments/collector/water-and-sewer-bills/index.html" [1]
+2017-01-01 21:43:27 URL:http://www.medfordma.org/departments/recreation/recreational-facilities/wrights-pond/ [43710] -> "../data/townSites2/Medford/www.medfordma.org/departments/recreation/recreational-facilities/wrights-pond/index.html" [1]
+2017-01-01 21:43:29 URL:http://www.medfordma.org/departments/collector/municipal-lien-certificates/ [37497] -> "../data/townSites2/Medford/www.medfordma.org/departments/collector/municipal-lien-certificates/index.html" [1]
+2017-01-01 21:43:30 URL: http://www.medfordma.org/departments/community-development/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:43:35 URL:http://www.medfordma.org/category/community-development/ [61060] -> "../data/townSites2/Medford/www.medfordma.org/category/community-development/index.html" [1]
+2017-01-01 21:43:38 URL:http://www.medfordma.org/departments/community-development/affordable-housing/ [39228] -> "../data/townSites2/Medford/www.medfordma.org/departments/community-development/affordable-housing/index.html" [1]
+2017-01-01 21:43:41 URL:http://www.medfordma.org/departments/community-development/open-space-plan/ [37545] -> "../data/townSites2/Medford/www.medfordma.org/departments/community-development/open-space-plan/index.html" [1]
+2017-01-01 21:43:46 URL:http://www.medfordma.org/departments/community-development/medford-square/ [38483] -> "../data/townSites2/Medford/www.medfordma.org/departments/community-development/medford-square/index.html" [1]
+2017-01-01 21:43:49 URL:http://www.medfordma.org/departments/community-development/consolidated-and-action-plans/ [39334] -> "../data/townSites2/Medford/www.medfordma.org/departments/community-development/consolidated-and-action-plans/index.html" [1]
+2017-01-01 21:43:52 URL:http://www.medfordma.org/departments/community-development/capers/ [38304] -> "../data/townSites2/Medford/www.medfordma.org/departments/community-development/capers/index.html" [1]
+2017-01-01 21:43:55 URL:http://www.medfordma.org/departments/community-development/green-line-extension/ [36496] -> "../data/townSites2/Medford/www.medfordma.org/departments/community-development/green-line-extension/index.html" [1]
+2017-01-01 21:43:56 URL: http://www.medfordma.org/departments/council-on-aging/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:44:00 URL:http://www.medfordma.org/departments/council-on-aging/frequently-asked-questions/ [41383] -> "../data/townSites2/Medford/www.medfordma.org/departments/council-on-aging/frequently-asked-questions/index.html" [1]
+2017-01-01 21:44:03 URL:http://www.medfordma.org/departments/council-on-aging/transportation/ [37883] -> "../data/townSites2/Medford/www.medfordma.org/departments/council-on-aging/transportation/index.html" [1]
+2017-01-01 21:44:10 URL:http://www.medfordma.org/departments/council-on-aging/volunteer-services/ [37384] -> "../data/townSites2/Medford/www.medfordma.org/departments/council-on-aging/volunteer-services/index.html" [1]
+2017-01-01 21:44:26 URL:http://www.medfordma.org/2013/06/11/trip-senior-transportation-program/ [45262] -> "../data/townSites2/Medford/www.medfordma.org/2013/06/11/trip-senior-transportation-program/index.html" [1]
+2017-01-01 21:44:27 URL: http://www.medfordma.org/departments/credit-union/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:44:28 URL: http://www.medfordma.org/wp-content/uploads/2012/12/POLICY-RATES-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:44:29 URL: http://www.medfordma.org/departments/department-of-public-works/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:44:31 URL:http://www.medfordma.org/street-sweeping-schedule/ [45251] -> "../data/townSites2/Medford/www.medfordma.org/street-sweeping-schedule/index.html" [1]
+2017-01-01 21:44:33 URL:http://www.medfordma.org/departments/department-of-public-works/dpw-links/work-request-form/ [37595] -> "../data/townSites2/Medford/www.medfordma.org/departments/department-of-public-works/dpw-links/work-request-form/index.html" [1]
+2017-01-01 21:44:36 URL:http://www.medfordma.org/departments/department-of-public-works/dpw-links/staff-directory/ [38801] -> "../data/townSites2/Medford/www.medfordma.org/departments/department-of-public-works/dpw-links/staff-directory/index.html" [1]
+2017-01-01 21:44:38 URL:http://www.medfordma.org/departments/department-of-public-works/dpw-links/trash-talk/ [39948] -> "../data/townSites2/Medford/www.medfordma.org/departments/department-of-public-works/dpw-links/trash-talk/index.html" [1]
+2017-01-01 21:44:41 URL:http://www.medfordma.org/departments/department-of-public-works/street-lists/ [37401] -> "../data/townSites2/Medford/www.medfordma.org/departments/department-of-public-works/street-lists/index.html" [1]
+2017-01-01 21:44:44 URL:http://www.medfordma.org/category/department-of-public-works/ [50235] -> "../data/townSites2/Medford/www.medfordma.org/category/department-of-public-works/index.html" [1]
+2017-01-01 21:44:46 URL: http://www.medfordma.org/departments/disability/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:44:48 URL:http://www.medfordma.org/departments/disability/meeting-schedule-and-agendas/ [38535] -> "../data/townSites2/Medford/www.medfordma.org/departments/disability/meeting-schedule-and-agendas/index.html" [1]
+2017-01-01 21:44:50 URL:http://www.medfordma.org/departments/disability/educational-programs/ [38217] -> "../data/townSites2/Medford/www.medfordma.org/departments/disability/educational-programs/index.html" [1]
+2017-01-01 21:44:52 URL:http://www.medfordma.org/departments/disability/transportation/ [36755] -> "../data/townSites2/Medford/www.medfordma.org/departments/disability/transportation/index.html" [1]
+2017-01-01 21:44:55 URL:http://www.medfordma.org/departments/disability/useful-links/ [39502] -> "../data/townSites2/Medford/www.medfordma.org/departments/disability/useful-links/index.html" [1]
+2017-01-01 21:44:57 URL:http://www.medfordma.org/departments/disability/photo-gallery/ [36770] -> "../data/townSites2/Medford/www.medfordma.org/departments/disability/photo-gallery/index.html" [1]
+2017-01-01 21:45:00 URL:http://www.medfordma.org/departments/disability/lock-box/ [38478] -> "../data/townSites2/Medford/www.medfordma.org/departments/disability/lock-box/index.html" [1]
+2017-01-01 21:45:05 URL:http://www.medfordma.org/departments/disability/handicapped-placards-and-signs/ [38036] -> "../data/townSites2/Medford/www.medfordma.org/departments/disability/handicapped-placards-and-signs/index.html" [1]
+2017-01-01 21:45:07 URL: http://www.medfordma.org/wp-content/uploads/2012/12/ServiceAnimalBrochure.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:45:08 URL: http://www.medfordma.org/departments/diversity/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:45:13 URL:http://www.medfordma.org/departments/diversity/fair-housing/ [38921] -> "../data/townSites2/Medford/www.medfordma.org/departments/diversity/fair-housing/index.html" [1]
+2017-01-01 21:45:18 URL:http://www.medfordma.org/departments/disability/ada-504-grievance-procedure/ [45131] -> "../data/townSites2/Medford/www.medfordma.org/ada-504-grievance-procedure/index.html" [1]
+2017-01-01 21:45:21 URL:http://www.medfordma.org/departments/diversity/transportation/ [36739] -> "../data/townSites2/Medford/www.medfordma.org/departments/diversity/transportation/index.html" [1]
+2017-01-01 21:45:22 URL: http://www.medfordma.org/departments/electrical/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:45:25 URL:http://www.medfordma.org/departments/electrical/report-a-traffic-light-problem/ [37894] -> "../data/townSites2/Medford/www.medfordma.org/departments/electrical/report-a-traffic-light-problem/index.html" [1]
+2017-01-01 21:45:29 URL:http://www.medfordma.org/departments/electrical/schedule-a-fire-alarm-disconnect/ [36765] -> "../data/townSites2/Medford/www.medfordma.org/departments/electrical/schedule-a-fire-alarm-disconnect/index.html" [1]
+2017-01-01 21:45:35 URL:http://www.medfordma.org/boards/traffic-commission/ [37358] -> "../data/townSites2/Medford/www.medfordma.org/boards/traffic-commission/index.html" [1]
+2017-01-01 21:45:39 URL:http://www.medfordma.org/departments/electrical/schedule-an-electrical-inspection/ [37027] -> "../data/townSites2/Medford/www.medfordma.org/departments/electrical/schedule-an-electrical-inspection/index.html" [1]
+2017-01-01 21:45:40 URL: http://www.medfordma.org/wp-content/uploads/2014/08/201408280906.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:45:44 URL:http://www.medfordma.org/departments/electrical/power-outage/ [36254] -> "../data/townSites2/Medford/www.medfordma.org/departments/electrical/power-outage/index.html" [1]
+2017-01-01 21:45:45 URL: http://www.medfordma.org/departments/energy-and-environment/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:45:45 URL: http://www.medfordma.org/wp-content/uploads/2012/12/FINAL_LAP.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:45:48 URL:http://www.medfordma.org/boards/conservation-commission/ [42027] -> "../data/townSites2/Medford/www.medfordma.org/boards/conservation-commission/index.html" [1]
+2017-01-01 21:45:50 URL:http://www.medfordma.org/category/environmental/ [68097] -> "../data/townSites2/Medford/www.medfordma.org/category/environmental/index.html" [1]
+2017-01-01 21:45:52 URL:http://www.medfordma.org/departments/energy-and-environment/storm-water-management/ [44368] -> "../data/townSites2/Medford/www.medfordma.org/departments/energy-and-environment/storm-water-management/index.html" [1]
+2017-01-01 21:45:55 URL:http://www.medfordma.org/departments/energy-and-environment/resources-and-links/ [38206] -> "../data/townSites2/Medford/www.medfordma.org/departments/energy-and-environment/resources-and-links/index.html" [1]
+2017-01-01 21:45:57 URL:http://www.medfordma.org/departments/energy-and-environment/ordinances-policies-and-plans/ [38363] -> "../data/townSites2/Medford/www.medfordma.org/departments/energy-and-environment/ordinances-policies-and-plans/index.html" [1]
+2017-01-01 21:45:58 URL: http://www.medfordma.org/departments/department-of-public-works/dpw-links/engineering-division/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:45:59 URL: http://www.medfordma.org/wp-content/uploads/2013/07/application-for-permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:45:59 URL: http://www.medfordma.org/wp-content/uploads/2013/07/Medford-Trench-Permit2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:46:03 URL:http://www.medfordma.org/departments/department-of-public-works/dpw-links/engineering-division/national-grid-information/ [39165] -> "../data/townSites2/Medford/www.medfordma.org/departments/engineering/national-grid-information/index.html" [1]
+2017-01-01 21:46:04 URL: http://www.medfordma.org/wp-content/uploads/2013/07/SITE-PLAN-REQS-FOR-BUILDING-PERMIT-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:46:04 URL: http://www.medfordma.org/wp-content/uploads/2013/07/Application-for-Sdwk-Occupancy-Permit3.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:46:05 URL: http://www.medfordma.org/wp-content/uploads/2013/07/Notice-of-New-Trench-Regulation1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:46:05 URL: http://www.medfordma.org/wp-content/uploads/2013/07/Copy-of-2016-Permitted-DrainLayers-1-7-16-1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:46:07 URL:http://www.medfordma.org/departments/department-of-public-works/dpw-links/engineering-division/report-sanitary-sewer-overflows/ [41664] -> "../data/townSites2/Medford/www.medfordma.org/departments/department-of-public-works/dpw-links/engineering-division/report-sanitary-sewer-overflows/index.html" [1]
+2017-01-01 21:46:10 URL:http://www.medfordma.org/departments/department-of-public-works/dpw-links/engineering-division/fema-maps/ [41224] -> "../data/townSites2/Medford/www.medfordma.org/departments/department-of-public-works/dpw-links/engineering-division/fema-maps/index.html" [1]
+2017-01-01 21:46:11 URL: http://www.medfordma.org/departments/finance-and-auditing/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:46:12 URL: http://www.medfordma.org/departments/fire-department/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:46:12 URL: http://www.medfordma.org/wp-content/uploads/2012/12/SmokeCarbonlocations.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:46:13 URL: http://www.medfordma.org/wp-content/uploads/2012/12/consumers_guide.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:46:13 URL: http://www.medfordma.org/wp-content/uploads/2012/12/sd-code-change-apr-2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:46:14 URL: http://www.medfordma.org/wp-content/uploads/2012/12/Oil-Burner-Upgrade-and-Insurance-Law.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:46:21 URL:http://www.medfordma.org/departments/fire-department/fire-department-media/ [50221] -> "../data/townSites2/Medford/www.medfordma.org/departments/fire-department/fire-department-media/index.html" [1]
+2017-01-01 21:46:23 URL: http://www.medfordma.org/departments/department-of-public-works/dpw-links/forestry-division/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:46:24 URL: http://www.medfordma.org/departments/health-department/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:46:27 URL:http://www.medfordma.org/departments/health-department/health-department-fee-schedule/ [37229] -> "../data/townSites2/Medford/www.medfordma.org/departments/health-department/health-department-fee-schedule/index.html" [1]
+2017-01-01 21:46:31 URL:http://www.medfordma.org/departments/health-department/permits/ [43989] -> "../data/townSites2/Medford/www.medfordma.org/departments/health-department/permits/index.html" [1]
+2017-01-01 21:46:34 URL:http://www.medfordma.org/departments/health-department/health-department-inspectional-services/ [39460] -> "../data/townSites2/Medford/www.medfordma.org/departments/health-department/health-department-inspectional-services/index.html" [1]
+2017-01-01 21:46:38 URL:http://www.medfordma.org/departments/health-department/programs-and-services/ [39201] -> "../data/townSites2/Medford/www.medfordma.org/departments/health-department/programs-and-services/index.html" [1]
+2017-01-01 21:46:41 URL:http://www.medfordma.org/departments/health-department/food-safety/ [38916] -> "../data/townSites2/Medford/www.medfordma.org/departments/health-department/food-safety/index.html" [1]
+2017-01-01 21:46:44 URL:http://www.medfordma.org/departments/health-department/public-health-nursing/ [39415] -> "../data/townSites2/Medford/www.medfordma.org/departments/health-department/public-health-nursing/index.html" [1]
+2017-01-01 21:46:47 URL:http://www.medfordma.org/departments/health-department/other-useful-links/ [37110] -> "../data/townSites2/Medford/www.medfordma.org/departments/health-department/other-useful-links/index.html" [1]
+2017-01-01 21:46:52 URL:http://www.medfordma.org/2015/05/29/finding-help-for-substance-use-disorders-resource-guide/ [45787] -> "../data/townSites2/Medford/www.medfordma.org/2015/05/29/finding-help-for-substance-use-disorders-resource-guide/index.html" [1]
+2017-01-01 21:46:53 URL: http://www.medfordma.org/departments/department-of-public-works/dpw-links/highway-division/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:46:54 URL: http://www.medfordma.org/departments/human-rights/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:46:56 URL:http://www.medfordma.org/departments/human-rights/human-rights-links/ [37072] -> "../data/townSites2/Medford/www.medfordma.org/departments/human-rights/human-rights-links/index.html" [1]
+2017-01-01 21:46:58 URL:http://www.medfordma.org/departments/human-rights/meeting-schedule/ [38395] -> "../data/townSites2/Medford/www.medfordma.org/departments/human-rights/meeting-schedule/index.html" [1]
+2017-01-01 21:47:01 URL:http://www.medfordma.org/departments/human-rights/mahrc/ [37203] -> "../data/townSites2/Medford/www.medfordma.org/departments/human-rights/mahrc/index.html" [1]
+2017-01-01 21:47:03 URL:http://www.medfordma.org/departments/human-rights/photo-gallery/ [32288] -> "../data/townSites2/Medford/www.medfordma.org/departments/human-rights/photo-gallery/index.html" [1]
+2017-01-01 21:47:06 URL:http://www.medfordma.org/departments/human-rights/faces-of-medford/ [37689] -> "../data/townSites2/Medford/www.medfordma.org/departments/human-rights/faces-of-medford/index.html" [1]
+2017-01-01 21:47:07 URL: http://www.medfordma.org/wp-content/uploads/2012/12/Fair-Housing-Human-Rights-Ordinance.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:47:08 URL: http://www.medfordma.org/departments/information-technology/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:47:09 URL: http://www.medfordma.org/departments/law-department/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:47:16 URL:http://www.medfordma.org/departments/law-department/general-information/ [38846] -> "../data/townSites2/Medford/www.medfordma.org/departments/law-department/general-information/index.html" [1]
+2017-01-01 21:47:18 URL:http://www.medfordma.org/departments/law-department/frequently-asked-questions/ [44179] -> "../data/townSites2/Medford/www.medfordma.org/departments/law-department/frequently-asked-questions/index.html" [1]
+2017-01-01 21:47:20 URL: http://www.medfordma.org/departments/department-of-public-works/dpw-links/park-division/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:47:22 URL:http://www.medfordma.org/departments/department-of-public-works/dpw-links/park-division/parks-and-playgrounds/ [48145] -> "../data/townSites2/Medford/www.medfordma.org/departments/department-of-public-works/dpw-links/park-division/parks-and-playgrounds/index.html" [1]
+2017-01-01 21:47:23 URL: http://www.medfordma.org/wp-content/uploads/2013/07/Park-Use-Application-packet.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:47:25 URL:http://www.medfordma.org/departments/department-of-public-works/dpw-links/park-division/park-commission/ [39103] -> "../data/townSites2/Medford/www.medfordma.org/departments/department-of-public-works/dpw-links/park-division/park-commission/index.html" [1]
+2017-01-01 21:47:28 URL:http://www.medfordma.org/departments/department-of-public-works/dpw-links/park-division/park-rules/ [37854] -> "../data/townSites2/Medford/www.medfordma.org/departments/department-of-public-works/dpw-links/park-division/park-rules/index.html" [1]
+2017-01-01 21:47:29 URL: http://www.medfordma.org/wp-content/uploads/2013/07/Instructions-FOR-USE-OF-PARKS.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:47:29 URL: http://www.medfordma.org/wp-content/uploads/2013/07/Park-Use-Application-Feb2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:47:33 URL:http://www.medfordma.org/departments/department-of-public-works/dpw-links/park-division/park-use-permit-fees/ [39446] -> "../data/townSites2/Medford/www.medfordma.org/departments/department-of-public-works/dpw-links/park-division/park-use-permit-fees/index.html" [1]
+2017-01-01 21:47:34 URL: http://www.medfordma.org/departments/personnel/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:47:45 URL:http://www.medfordma.org/departments/personnel/employee-benefit-summaries/ [39434] -> "../data/townSites2/Medford/www.medfordma.org/departments/personnel/employee-benefit-summaries/index.html" [1]
+2017-01-01 21:47:50 URL:http://www.medfordma.org/departments/personnel/policies/ [36936] -> "../data/townSites2/Medford/www.medfordma.org/departments/personnel/policies/index.html" [1]
+2017-01-01 21:47:53 URL:http://www.medfordma.org/departments/personnel/legal-holidays/ [37674] -> "../data/townSites2/Medford/www.medfordma.org/departments/personnel/legal-holidays/index.html" [1]
+2017-01-01 21:48:04 URL:http://www.medfordma.org/departments/personnel/employee-assistance-program/ [39422] -> "../data/townSites2/Medford/www.medfordma.org/departments/personnel/employee-assistance-program/index.html" [1]
+2017-01-01 21:48:06 URL: http://www.medfordma.org/departments/police/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:48:10 URL:http://www.medfordma.org/category/police/ [53732] -> "../data/townSites2/Medford/www.medfordma.org/category/police/index.html" [1]
+2017-01-01 21:48:11 URL: http://www.medfordma.org/departments/procurement/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:48:13 URL:http://www.medfordma.org/departments/procurement/information-on-ma-state-contracts/ [37134] -> "../data/townSites2/Medford/www.medfordma.org/departments/procurement/information-on-ma-state-contracts/index.html" [1]
+2017-01-01 21:48:16 URL:http://www.medfordma.org/departments/procurement/ma-procurement-laws/ [37008] -> "../data/townSites2/Medford/www.medfordma.org/departments/procurement/ma-procurement-laws/index.html" [1]
+2017-01-01 21:48:18 URL: http://www.medfordma.org/departments/recreation/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:48:20 URL:http://www.medfordma.org/2016/04/29/medford-summer-2016-recreation-guide/ [47298] -> "../data/townSites2/Medford/www.medfordma.org/2016/04/29/medford-summer-2016-recreation-guide/index.html" [1]
+2017-01-01 21:48:23 URL:http://www.medfordma.org/departments/recreation/recreational-facilities/ [40727] -> "../data/townSites2/Medford/www.medfordma.org/departments/recreation/recreational-facilities/index.html" [1]
+2017-01-01 21:48:29 URL:http://www.medfordma.org/departments/recreation/recreational-facilities/tufts-pool/ [42301] -> "../data/townSites2/Medford/www.medfordma.org/departments/recreation/recreational-facilities/tufts-pool/index.html" [1]
+2017-01-01 21:48:30 URL: http://www.medfordma.org/departments/recycling/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:48:34 URL:http://www.medfordma.org/2015/09/03/disposal-of-appliances-electronics-bulk-items/ [45997] -> "../data/townSites2/Medford/www.medfordma.org/2015/09/03/disposal-of-appliances-electronics-bulk-items/index.html" [1]
+2017-01-01 21:48:36 URL:http://www.medfordma.org/departments/recycling/additional-links/fee-schedule/ [37669] -> "../data/townSites2/Medford/www.medfordma.org/departments/recycling/additional-links/fee-schedule/index.html" [1]
+2017-01-01 21:48:36 URL: http://www.medfordma.org/wp-content/uploads/2013/07/Shed-Closing-Notice.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:48:39 URL:http://www.medfordma.org/departments/recycling/additional-links/street-lists/ [38676] -> "../data/townSites2/Medford/www.medfordma.org/departments/recycling/additional-links/street-lists/index.html" [1]
+2017-01-01 21:48:42 URL:http://www.medfordma.org/departments/recycling/additional-links/what-can-be-recycled/ [41670] -> "../data/townSites2/Medford/www.medfordma.org/departments/recycling/additional-links/what-can-be-recycled/index.html" [1]
+2017-01-01 21:48:46 URL:http://www.medfordma.org/departments/recycling/additional-links/household-hazardous-waste/ [39488] -> "../data/townSites2/Medford/www.medfordma.org/departments/recycling/additional-links/household-hazardous-waste/index.html" [1]
+2017-01-01 21:48:48 URL:http://www.medfordma.org/departments/recycling/additional-links/bulk-waste-pickup/ [38422] -> "../data/townSites2/Medford/www.medfordma.org/departments/recycling/additional-links/bulk-waste-pickup/index.html" [1]
+2017-01-01 21:48:51 URL:http://www.medfordma.org/departments/recycling/additional-links/recycling-cell-phones/ [37237] -> "../data/townSites2/Medford/www.medfordma.org/departments/recycling/additional-links/recycling-cell-phones/index.html" [1]
+2017-01-01 21:48:51 URL: http://www.medfordma.org/wp-content/uploads/2013/07/Garbage-Can-Composter.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:48:52 URL: http://www.medfordma.org/departments/retirement/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:48:54 URL:http://www.medfordma.org/departments/retirement/important-government-links/ [37505] -> "../data/townSites2/Medford/www.medfordma.org/departments/retirement/important-government-links/index.html" [1]
+2017-01-01 21:48:57 URL:http://www.medfordma.org/departments/retirement/retirement-checks-mailing-schedule/ [36905] -> "../data/townSites2/Medford/www.medfordma.org/departments/retirement/retirement-checks-mailing-schedule/index.html" [1]
+2017-01-01 21:48:58 URL:http://www.medfordma.org/departments/retirement/retirement-board-meetings/ [36800] -> "../data/townSites2/Medford/www.medfordma.org/departments/retirement/retirement-board-meetings/index.html" [1]
+2017-01-01 21:48:59 URL: http://www.medfordma.org/departments/veterans/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:49:00 URL: http://www.medfordma.org/wp-content/uploads/2012/12/Vererans-one-stop.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:49:03 URL:http://www.medfordma.org/departments/veterans/definition-of-a-veteran/ [38217] -> "../data/townSites2/Medford/www.medfordma.org/departments/veterans/definition-of-a-veteran/index.html" [1]
+2017-01-01 21:49:09 URL:http://www.medfordma.org/departments/veterans/veterans-squares-plaques-monuments/ [37864] -> "../data/townSites2/Medford/www.medfordma.org/departments/veterans/veterans-squares-plaques-monuments/index.html" [1]
+2017-01-01 21:49:12 URL:http://www.medfordma.org/departments/veterans/honor-roll-park/ [38623] -> "../data/townSites2/Medford/www.medfordma.org/departments/veterans/honor-roll-park/index.html" [1]
+2017-01-01 21:49:14 URL:http://www.medfordma.org/departments/veterans/volunteer-opportunities/ [40108] -> "../data/townSites2/Medford/www.medfordma.org/departments/veterans/volunteer-opportunities/index.html" [1]
+2017-01-01 21:49:17 URL:http://www.medfordma.org/departments/veterans/service-organizations-for-all-veterans/ [40311] -> "../data/townSites2/Medford/www.medfordma.org/departments/veterans/service-organizations-for-all-veterans/index.html" [1]
+2017-01-01 21:49:19 URL:http://www.medfordma.org/departments/veterans/explanations-of-exemptions-available-under-state-statute/ [40339] -> "../data/townSites2/Medford/www.medfordma.org/departments/veterans/explanations-of-exemptions-available-under-state-statute/index.html" [1]
+2017-01-01 21:49:22 URL:http://www.medfordma.org/departments/veterans/assistance-programs/ [40815] -> "../data/townSites2/Medford/www.medfordma.org/departments/veterans/assistance-programs/index.html" [1]
+2017-01-01 21:49:24 URL:http://www.medfordma.org/departments/veterans/procedure-of-burial-for-veterans-at-oak-grove-cemetery/ [40102] -> "../data/townSites2/Medford/www.medfordma.org/departments/veterans/procedure-of-burial-for-veterans-at-oak-grove-cemetery/index.html" [1]
+2017-01-01 21:49:25 URL: http://www.medfordma.org/departments/voter-registration/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:49:27 URL:http://www.medfordma.org/departments/voter-registration/voter-registration/ [40318] -> "../data/townSites2/Medford/www.medfordma.org/departments/voter-registration/voter-registration/index.html" [1]
+2017-01-01 21:49:31 URL:http://www.medfordma.org/departments/voter-registration/polling-locations/ [38779] -> "../data/townSites2/Medford/www.medfordma.org/departments/voter-registration/polling-locations/index.html" [1]
+2017-01-01 21:49:31 URL: http://www.medfordma.org/wp-content/uploads/2012/12/ELECTIONSummary.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:49:35 URL:http://www.medfordma.org/departments/voter-registration/election-results/ [41273] -> "../data/townSites2/Medford/www.medfordma.org/departments/voter-registration/election-results/index.html" [1]
+2017-01-01 21:49:37 URL:http://www.medfordma.org/departments/voter-registration/campaign-finance-reports/ [59611] -> "../data/townSites2/Medford/www.medfordma.org/departments/voter-registration/campaign-finance-reports/index.html" [1]
+2017-01-01 21:49:38 URL: http://www.medfordma.org/departments/department-of-public-works/dpw-links/water-and-sewer-division/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:49:41 URL:http://www.medfordma.org/departments/department-of-public-works/dpw-links/water-and-sewer-division/water-and-sewer-faqs/ [43077] -> "../data/townSites2/Medford/www.medfordma.org/departments/department-of-public-works/dpw-links/water-and-sewer-division/water-and-sewer-faqs/index.html" [1]
+2017-01-01 21:49:44 URL:http://www.medfordma.org/departments/department-of-public-works/dpw-links/water-and-sewer-division/water-conservation-tips/ [39172] -> "../data/townSites2/Medford/www.medfordma.org/departments/department-of-public-works/dpw-links/water-and-sewer-division/water-conservation-tips/index.html" [1]
+2017-01-01 21:49:45 URL: http://www.medfordma.org/departments/weights-and-measures/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:49:49 URL:http://www.medfordma.org/departments/weights-and-measures/frequently-asked-questions/ [40095] -> "../data/townSites2/Medford/www.medfordma.org/departments/weights-and-measures/frequently-asked-questions/index.html" [1]
+2017-01-01 21:49:51 URL:http://www.medfordma.org/departments/weights-and-measures/inspection-registration-and-sealing-fees/ [37660] -> "../data/townSites2/Medford/www.medfordma.org/departments/weights-and-measures/inspection-registration-and-sealing-fees/index.html" [1]
+2017-01-01 21:49:54 URL:http://www.medfordma.org/departments/weights-and-measures/general-complaints/ [37221] -> "../data/townSites2/Medford/www.medfordma.org/departments/weights-and-measures/general-complaints/index.html" [1]
+2017-01-01 21:49:57 URL:http://www.medfordma.org/departments/weights-and-measures/gas-complaints/ [37243] -> "../data/townSites2/Medford/www.medfordma.org/departments/weights-and-measures/gas-complaints/index.html" [1]
+2017-01-01 21:50:00 URL:http://www.medfordma.org/departments/weights-and-measures/useful-links/ [37693] -> "../data/townSites2/Medford/www.medfordma.org/departments/weights-and-measures/useful-links/index.html" [1]
+2017-01-01 21:50:01 URL: http://www.medfordma.org/boards/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:50:03 URL:http://www.medfordma.org/boards/board-of-appeals/ [39187] -> "../data/townSites2/Medford/www.medfordma.org/boards/board-of-appeals/index.html" [1]
+2017-01-01 21:50:06 URL:http://www.medfordma.org/boards/civic-auditorium-and-convention-center-commission/ [40049] -> "../data/townSites2/Medford/www.medfordma.org/boards/civic-auditorium-and-convention-center-commission/index.html" [1]
+2017-01-01 21:50:08 URL:http://www.medfordma.org/boards/consumer-advisory-board/ [36955] -> "../data/townSites2/Medford/www.medfordma.org/boards/consumer-advisory-board/index.html" [1]
+2017-01-01 21:50:10 URL:http://www.medfordma.org/boards/hormel-stadium-commission/ [39210] -> "../data/townSites2/Medford/www.medfordma.org/boards/hormel-stadium-commission/index.html" [1]
+2017-01-01 21:50:12 URL:http://www.medfordma.org/boards/library-trustees/ [40758] -> "../data/townSites2/Medford/www.medfordma.org/boards/library-trustees/index.html" [1]
+2017-01-01 21:50:15 URL:http://www.medfordma.org/boards/license-commission/ [38982] -> "../data/townSites2/Medford/www.medfordma.org/boards/license-commission/index.html" [1]
+2017-01-01 21:50:18 URL:http://www.medfordma.org/boards/recreation-focus-group/ [38101] -> "../data/townSites2/Medford/www.medfordma.org/boards/recreation-focus-group/index.html" [1]
+2017-01-01 21:50:20 URL:http://www.medfordma.org/category/uncategorized/ [60101] -> "../data/townSites2/Medford/www.medfordma.org/category/uncategorized/index.html" [1]
+2017-01-01 21:50:24 URL:http://www.medfordma.org/category/trash-and-recycling/ [50653] -> "../data/townSites2/Medford/www.medfordma.org/category/trash-and-recycling/index.html" [1]
+2017-01-01 21:50:27 URL:http://www.medfordma.org/category/affordable-housing/ [76142] -> "../data/townSites2/Medford/www.medfordma.org/category/affordable-housing/index.html" [1]
+2017-01-01 21:50:30 URL:http://www.medfordma.org/category/traffic-and-roads/ [66018] -> "../data/townSites2/Medford/www.medfordma.org/category/traffic-and-roads/index.html" [1]
+2017-01-01 21:50:33 URL:http://www.medfordma.org/category/boards-and-commissions/ [56081] -> "../data/townSites2/Medford/www.medfordma.org/category/boards-and-commissions/index.html" [1]
+2017-01-01 21:50:35 URL:http://www.medfordma.org/category/community-arts/ [58863] -> "../data/townSites2/Medford/www.medfordma.org/category/community-arts/index.html" [1]
+2017-01-01 21:50:38 URL:http://www.medfordma.org/category/parking/ [56618] -> "../data/townSites2/Medford/www.medfordma.org/category/parking/index.html" [1]
+2017-01-01 21:50:41 URL:http://www.medfordma.org/news/page/2/ [52877] -> "../data/townSites2/Medford/www.medfordma.org/news/page/2/index.html" [1]
+2017-01-01 21:50:43 URL:http://www.medfordma.org/news/page/3/ [53436] -> "../data/townSites2/Medford/www.medfordma.org/news/page/3/index.html" [1]
+2017-01-01 21:50:46 URL:http://www.medfordma.org/news/page/111/ [48831] -> "../data/townSites2/Medford/www.medfordma.org/news/page/111/index.html" [1]
+2017-01-01 21:50:47 URL: http://www.medfordma.org/mayor/city-events/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:50:48 URL: http://www.medfordma.org/2016/12/30/medford-city-council-meeting-january-3-2017/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:50:48 URL: http://www.medfordma.org/wp-content/uploads/2016/12/Council-Agenda-1-3-2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:50:49 URL: http://www.medfordma.org/2016/12/30/lifeguard-training/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:50:50 URL: http://www.medfordma.org/2016/12/29/2017-waste-management-trash-recycling-schedule/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:50:51 URL: http://www.medfordma.org/wp-content/uploads/2016/12/2017-Collection-Schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:50:52 URL: http://www.medfordma.org/2016/12/21/affordable-housing-lottery-2/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:50:52 URL: http://www.medfordma.org/wp-content/uploads/2016/12/Modera-Medford-5-Cabot-Road.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:50:53 URL: http://www.medfordma.org/2016/12/19/cradock-bridge-update-3/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:50:53 URL: http://www.medfordma.org/wp-content/uploads/2016/12/Cradock-12-16-16-MassDOT.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:50:54 URL: http://www.medfordma.org/wp-content/uploads/2016/12/2016.12.16-Cradock-Project-Briefing.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:50:55 URL: http://www.medfordma.org/2016/12/19/medford-bicycle-advisory-commission-meeting-december-21-2016/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:50:56 URL: http://www.medfordma.org/2016/12/19/chevalier-theatre-commission-meeting-december-20-2016/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:50:57 URL: http://www.medfordma.org/2016/12/16/upcoming-medford-city-council-meetings-24/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:50:57 URL: http://www.medfordma.org/wp-content/uploads/2016/12/COW-12-20-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:50:58 URL: http://www.medfordma.org/wp-content/uploads/2016/12/Council-Agenda-12-20-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:50:58 URL: http://www.medfordma.org/wp-content/uploads/2016/12/Recreation-Focus-Group-12-21-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:50:59 URL: http://www.medfordma.org/2016/12/16/mystic-valley-development-commission-meeting-dec-21-2016/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:00 URL: http://www.medfordma.org/2016/12/16/free-parking-on-dec-17-24/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:01 URL: http://www.medfordma.org/2016/12/15/no-school-friday-december-16-2016/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:04 URL:http://www.medfordma.org/category/schools/ [52916] -> "../data/townSites2/Medford/www.medfordma.org/category/schools/index.html" [1]
+2017-01-01 21:51:05 URL: http://www.medfordma.org/2016/12/15/medford-public-library-board-of-trustees-meeting-dec-19-2016/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:07 URL:http://www.medfordma.org/2016/12/14/mema-encourages-residents-to-stay-safe-during-extreme-cold-weather/ [50904] -> "../data/townSites2/Medford/www.medfordma.org/2016/12/14/mema-encourages-residents-to-stay-safe-during-extreme-cold-weather/index.html" [1]
+2017-01-01 21:51:08 URL: http://www.medfordma.org/2016/12/13/all-about-snow-shoveling-for-walkers-in-medford/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:15 URL:http://www.medfordma.org/category/weather-alterts/ [58713] -> "../data/townSites2/Medford/www.medfordma.org/category/weather-alterts/index.html" [1]
+2017-01-01 21:51:17 URL:http://www.medfordma.org/2016/12/13/join-the-key-club-for-christmas-caroling-dec-21/ [45861] -> "../data/townSites2/Medford/www.medfordma.org/2016/12/13/join-the-key-club-for-christmas-caroling-dec-21/index.html" [1]
+2017-01-01 21:51:21 URL:http://www.medfordma.org/2016/12/14/holiday-trash-recycling-schedule-update/ [45140] -> "../data/townSites2/Medford/www.medfordma.org/2016/12/14/holiday-trash-recycling-schedule-update/index.html" [1]
+2017-01-01 21:51:21 URL: http://www.medfordma.org/departments/collector/pay-bills-online/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:22 URL: http://www.medfordma.org/departments/personnel/jobs/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:24 URL:http://www.medfordma.org/departments/personnel/jobs/land-use-planner/ [37753] -> "../data/townSites2/Medford/www.medfordma.org/departments/personnel/jobs/land-use-planner/index.html" [1]
+2017-01-01 21:51:25 URL: http://www.medfordma.org/wp-content/uploads/2013/07/matron-app.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:25 URL: http://www.medfordma.org/wp-content/uploads/2013/07/TRAFFICSUP-application.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:26 URL: http://www.medfordma.org/departments/procurement/bids-and-proposals/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:27 URL: http://www.medfordma.org/wp-content/uploads/2013/03/ADVERTISEMENT-IFB-17-0082-1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:27 URL: http://www.medfordma.org/wp-content/uploads/2013/03/AD-for-RFQ-17-0122.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:28 URL: http://www.medfordma.org/wp-content/uploads/2013/03/AD-for-IFB-17-0325.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:28 URL: http://www.medfordma.org/wp-content/uploads/2013/03/AD-for-IFB-17-0016-Roof-Repairs-at-Medford-Public-Library.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:28 URL: http://www.medfordma.org/wp-content/uploads/2013/03/AD-for-RFP-17-0121-.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:29 URL: http://www.medfordma.org/wp-content/uploads/2013/03/Advertisement-for-IFB-17-0040.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:30 URL: http://www.medfordma.org/wp-content/uploads/2013/03/AD-for-Chevalier-Theatre-RFP-17-0425.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:31 URL: http://www.medfordma.org/wp-content/uploads/2013/03/AD-for-IFB-17-0032-Purchase-Delivery-and-Planting-of-Trees.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:31 URL: http://www.medfordma.org/wp-content/uploads/2013/03/FILED-SUB-BID-RESULTS-IFB-17-0301.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:31 URL: http://www.medfordma.org/wp-content/uploads/2013/03/General-Contractor-Bid-Results-IFB-17-0301.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:32 URL: http://www.medfordma.org/wp-content/uploads/2013/03/Bid-Breakdown-and-Results-17-0032.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:32 URL: http://www.medfordma.org/wp-content/uploads/2013/03/17-0033-Sidewalk-bid-Tabulation-1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:33 URL: http://www.medfordma.org/wp-content/uploads/2013/03/Painting-Filed-Sub-Bid-Results-IFB-17-0015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:33 URL: http://www.medfordma.org/wp-content/uploads/2013/03/Bid-Tabulation-Results-IFB-17-0083.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:34 URL: http://www.medfordma.org/wp-content/uploads/2013/03/General-Bid-Results-IFB-17-0015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:35 URL: http://www.medfordma.org/mayor/city-budget/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:36 URL: http://www.medfordma.org/business-resources/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:37 URL: http://www.medfordma.org/wp-content/uploads/2013/07/BUSINESSCERT.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:39 URL: http://www.medfordma.org/website/feed/ 200 OK
+unlink: No such file or directory
+Found 1 broken link.
+
+http://www.medfordma.org/xmlrpc.php
+
+FINISHED --2017-01-01 21:51:39--
+Total wall clock time: 16m 0s
+Downloaded: 252 files, 10M in 2m 59s (57.7 KB/s)

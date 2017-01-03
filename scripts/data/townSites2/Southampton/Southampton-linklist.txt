@@ -1,0 +1,433 @@
+2017-01-01 23:36:37 URL:http://townofsouthampton.org/ [119150/119150] -> "../data/townSites2/Southampton/townofsouthampton.org/index.html" [1]
+2017-01-01 23:36:37 URL: http://townofsouthampton.org/wp-content/themes/Builder-Essence-Silver/lib/builder-core/favicons/builder.ico 200 OK
+unlink: No such file or directory
+http://townofsouthampton.org/xmlrpc.php:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:36:39 URL: http://townofsouthampton.org/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:36:40 URL: http://townofsouthampton.org/comments/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:36:41 URL: http://townofsouthampton.org/wp-json/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:36:41 URL: http://townofsouthampton.org/wp-includes/wlwmanifest.xml 200 OK
+unlink: No such file or directory
+2017-01-01 23:36:44 URL:http://townofsouthampton.org/News+%26+Events [95969/95969] -> "../data/townSites2/Southampton/townofsouthampton.org/News+&+Events" [1]
+2017-01-01 23:36:46 URL:http://townofsouthampton.org/codered/codered-2-2/ [66155/66155] -> "../data/townSites2/Southampton/townofsouthampton.org/codered/codered-2-2/index.html" [1]
+2017-01-01 23:36:49 URL:http://townofsouthampton.org/codered/weather-alerts/ [70989/70989] -> "../data/townSites2/Southampton/townofsouthampton.org/codered/weather-alerts/index.html" [1]
+2017-01-01 23:36:52 URL:http://townofsouthampton.org/codered/angel-heart-3/ [63220/63220] -> "../data/townSites2/Southampton/townofsouthampton.org/codered/angel-heart-3/index.html" [1]
+2017-01-01 23:36:54 URL:http://townofsouthampton.org/administration/ [61737/61737] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/index.html" [1]
+2017-01-01 23:36:57 URL:http://townofsouthampton.org/administration/administration-2/ [63139/63139] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/administration-2/index.html" [1]
+2017-01-01 23:36:59 URL:http://townofsouthampton.org/administration/administration-2/board-of-selectmen/ [69406/69406] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/administration-2/board-of-selectmen/index.html" [1]
+2017-01-01 23:37:02 URL:http://townofsouthampton.org/administration/administration-2/board-of-selectmen/policies/ [66898/66898] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/administration-2/board-of-selectmen/policies/index.html" [1]
+2017-01-01 23:37:04 URL:http://townofsouthampton.org/administration/administration-2/board-of-selectmen/hearings/ [64579/64579] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/administration-2/board-of-selectmen/hearings/index.html" [1]
+2017-01-01 23:37:07 URL:http://townofsouthampton.org/administration/administration-2/board-of-selectmen/meetings-board-of-selectmen/ [64323/64323] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/administration-2/board-of-selectmen/meetings-board-of-selectmen/index.html" [1]
+2017-01-01 23:37:10 URL:http://townofsouthampton.org/administration/administration-2/board-of-selectmen/news-announcements/ [64057/64057] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/administration-2/board-of-selectmen/news-announcements/index.html" [1]
+2017-01-01 23:37:12 URL:http://townofsouthampton.org/administration/administration-2/board-of-selectmen/town-meetings/ [68453/68453] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/administration-2/board-of-selectmen/town-meetings/index.html" [1]
+2017-01-01 23:37:15 URL:http://townofsouthampton.org/administration/administration-2/board-of-selectmen/forms-and-applications/ [64636/64636] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/administration-2/board-of-selectmen/forms-and-applications/index.html" [1]
+2017-01-01 23:37:17 URL:http://townofsouthampton.org/administration/administration-2/town-administrator/ [64413/64413] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/administration-2/town-administrator/index.html" [1]
+2017-01-01 23:37:20 URL:http://townofsouthampton.org/administration/administration-2/town-clerk/ [68203/68203] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/administration-2/town-clerk/index.html" [1]
+2017-01-01 23:37:22 URL:http://townofsouthampton.org/administration/administration-2/town-clerk/dogs/ [64843/64843] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/administration-2/town-clerk/dogs/index.html" [1]
+2017-01-01 23:37:25 URL:http://townofsouthampton.org/administration/administration-2/town-clerk/elections/ [69776/69776] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/administration-2/town-clerk/elections/index.html" [1]
+2017-01-01 23:37:27 URL:http://townofsouthampton.org/administration/administration-2/town-clerk/forms/ [64287/64287] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/administration-2/town-clerk/forms/index.html" [1]
+2017-01-01 23:37:30 URL:http://townofsouthampton.org/administration/administration-2/town-clerk/public-records-2/ [67100/67100] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/administration-2/town-clerk/public-records-2/index.html" [1]
+2017-01-01 23:37:32 URL:http://townofsouthampton.org/administration/administration-2/town-moderator/ [63990/63990] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/administration-2/town-moderator/index.html" [1]
+2017-01-01 23:37:35 URL:http://townofsouthampton.org/administration/boards-commissions/ [70417/70417] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/boards-commissions/index.html" [1]
+2017-01-01 23:37:37 URL:http://townofsouthampton.org/administration/boards-commissions/agricultural-committee/ [69969/69969] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/boards-commissions/agricultural-committee/index.html" [1]
+2017-01-01 23:37:39 URL:http://townofsouthampton.org/administration/boards-commissions/almoners/ [69055/69055] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/boards-commissions/almoners/index.html" [1]
+2017-01-01 23:37:42 URL:http://townofsouthampton.org/administration/boards-commissions/board-of-registrars/ [68518/68518] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/boards-commissions/board-of-registrars/index.html" [1]
+2017-01-01 23:37:44 URL:http://townofsouthampton.org/administration/finance/capital-improvement-committee-2/ [66310/66310] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/finance/capital-improvement-committee-2/index.html" [1]
+2017-01-01 23:37:47 URL:http://townofsouthampton.org/administration/boards-commissions/cemetery-commission/ [71768/71768] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/boards-commissions/cemetery-commission/index.html" [1]
+2017-01-01 23:37:50 URL:http://townofsouthampton.org/administration/boards-commissions/community-preservation-committee/ [74625/74625] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/boards-commissions/community-preservation-committee/index.html" [1]
+2017-01-01 23:37:52 URL:http://townofsouthampton.org/administration/boards-commissions/conservation-commission/ [73981/73981] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/boards-commissions/conservation-commission/index.html" [1]
+2017-01-01 23:37:54 URL:http://townofsouthampton.org/administration/boards-commissions/cultural-committee/ [70153/70153] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/boards-commissions/cultural-committee/index.html" [1]
+2017-01-01 23:37:57 URL:http://townofsouthampton.org/administration/boards-commissions/energy-committee/ [69721/69721] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/boards-commissions/energy-committee/index.html" [1]
+2017-01-01 23:37:59 URL:http://townofsouthampton.org/administration/boards-commissions/greenway-committee/ [65075/65075] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/boards-commissions/greenway-committee/index.html" [1]
+2017-01-01 23:38:02 URL:http://townofsouthampton.org/administration/boards-commissions/greenway-committee/greenway-negotiation-com/ [62035/62035] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/boards-commissions/greenway-committee/greenway-negotiation-com/index.html" [1]
+2017-01-01 23:38:04 URL:http://townofsouthampton.org/administration/boards-commissions/greenway-committee/friends-of-the-greenway/ [62026/62026] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/boards-commissions/greenway-committee/friends-of-the-greenway/index.html" [1]
+2017-01-01 23:38:06 URL:http://townofsouthampton.org/administration/boards-commissions/historical-committee/ [71712/71712] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/boards-commissions/historical-committee/index.html" [1]
+2017-01-01 23:38:09 URL:http://townofsouthampton.org/administration/boards-commissions/housing-authority/ [70180/70180] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/boards-commissions/housing-authority/index.html" [1]
+2017-01-01 23:38:11 URL:http://townofsouthampton.org/administration/boards-commissions/master-plan-committee/ [69702/69702] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/boards-commissions/master-plan-committee/index.html" [1]
+2017-01-01 23:38:14 URL:http://townofsouthampton.org/administration/boards-commissions/park-commission/ [70657/70657] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/boards-commissions/park-commission/index.html" [1]
+2017-01-01 23:38:16 URL:http://townofsouthampton.org/administration/boards-commissions/personnel-policies-and-procedures-board/ [72669/72669] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/boards-commissions/personnel-policies-and-procedures-board/index.html" [1]
+2017-01-01 23:38:19 URL:http://townofsouthampton.org/administration/boards-commissions/planning-board/ [75929/75929] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/boards-commissions/planning-board/index.html" [1]
+2017-01-01 23:38:22 URL:http://townofsouthampton.org/administration/boards-commissions/public-safety-committee/ [72260/72260] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/boards-commissions/public-safety-committee/index.html" [1]
+2017-01-01 23:38:24 URL:http://townofsouthampton.org/administration/boards-commissions/recreational-needs-committee/ [70206/70206] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/boards-commissions/recreational-needs-committee/index.html" [1]
+2017-01-01 23:38:27 URL:http://townofsouthampton.org/administration/boards-commissions/water-commission/ [71181/71181] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/boards-commissions/water-commission/index.html" [1]
+2017-01-01 23:38:29 URL:http://townofsouthampton.org/administration/boards-commissions/zoning-board-of-appeals/ [72774/72774] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/boards-commissions/zoning-board-of-appeals/index.html" [1]
+2017-01-01 23:38:32 URL:http://townofsouthampton.org/administration/finance/ [64103/64103] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/finance/index.html" [1]
+2017-01-01 23:38:34 URL:http://townofsouthampton.org/administration/finance/accountant/ [67358/67358] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/finance/accountant/index.html" [1]
+2017-01-01 23:38:37 URL:http://townofsouthampton.org/administration/finance/assessors/ [70299/70299] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/finance/assessors/index.html" [1]
+2017-01-01 23:38:40 URL:http://townofsouthampton.org/administration/finance/finance-committee/ [66015/66015] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/finance/finance-committee/index.html" [1]
+2017-01-01 23:38:42 URL:http://townofsouthampton.org/administration/finance/purchasing/ [65292/65292] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/finance/purchasing/index.html" [1]
+2017-01-01 23:38:45 URL:http://townofsouthampton.org/administration/finance/treasurercollector/ [69177/69177] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/finance/treasurercollector/index.html" [1]
+2017-01-01 23:38:47 URL:http://townofsouthampton.org/administration/finance/treasurercollector/excise/ [63429/63429] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/finance/treasurercollector/excise/index.html" [1]
+2017-01-01 23:38:50 URL:http://townofsouthampton.org/administration/finance/treasurercollector/taxes/ [62099/62099] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/finance/treasurercollector/taxes/index.html" [1]
+2017-01-01 23:38:54 URL:http://townofsouthampton.org/administration/finance/treasurercollector/water-bill/ [62161/62161] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/finance/treasurercollector/water-bill/index.html" [1]
+2017-01-01 23:38:56 URL:http://townofsouthampton.org/administration/public-safety/ [64464/64464] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/public-safety/index.html" [1]
+2017-01-01 23:38:59 URL:http://townofsouthampton.org/administration/public-safety/animal-control/ [63908/63908] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/public-safety/animal-control/index.html" [1]
+2017-01-01 23:39:02 URL:http://townofsouthampton.org/administration/public-safety/building-department/ [67182/67182] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/public-safety/building-department/index.html" [1]
+2017-01-01 23:39:05 URL:http://townofsouthampton.org/administration/public-safety/building-department/building-dept-faqs/ [69593/69593] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/public-safety/building-department/building-dept-faqs/index.html" [1]
+2017-01-01 23:39:08 URL:http://townofsouthampton.org/administration/public-safety/building-department/building-dept-online-forms/ [69305/69305] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/public-safety/building-department/building-dept-online-forms/index.html" [1]
+2017-01-01 23:39:10 URL:http://townofsouthampton.org/administration/public-safety/building-department/electrical-inspections/ [64584/64584] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/public-safety/building-department/electrical-inspections/index.html" [1]
+2017-01-01 23:39:13 URL:http://townofsouthampton.org/administration/public-safety/building-department/plumbing-inspections/ [64431/64431] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/public-safety/building-department/plumbing-inspections/index.html" [1]
+2017-01-01 23:39:16 URL:http://townofsouthampton.org/administration/public-safety/emergency-management-dept/ [64540/64540] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/public-safety/emergency-management-dept/index.html" [1]
+2017-01-01 23:39:20 URL:http://townofsouthampton.org/administration/public-safety/fire-dept/ [125321/125321] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/public-safety/fire-dept/index.html" [1]
+2017-01-01 23:39:23 URL:http://townofsouthampton.org/administration/public-safety/highway-dept/ [69244/69244] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/public-safety/highway-dept/index.html" [1]
+2017-01-01 23:39:26 URL:http://townofsouthampton.org/administration/public-safety/police-dept/ [173728/173728] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/public-safety/police-dept/index.html" [1]
+2017-01-01 23:39:29 URL:http://townofsouthampton.org/administration/services/ [64558/64558] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/services/index.html" [1]
+2017-01-01 23:39:32 URL:http://townofsouthampton.org/administration/services/board-of-health/ [72754/72754] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/services/board-of-health/index.html" [1]
+2017-01-01 23:39:35 URL:http://townofsouthampton.org/administration/services/board-of-health/animal-inspector/ [64011/64011] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/services/board-of-health/animal-inspector/index.html" [1]
+2017-01-01 23:39:38 URL:http://townofsouthampton.org/administration/services/council-on-aging/ [68408/68408] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/services/council-on-aging/index.html" [1]
+2017-01-01 23:39:41 URL:http://townofsouthampton.org/administration/services/library/ [116883/116883] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/services/library/index.html" [1]
+2017-01-01 23:39:44 URL:http://townofsouthampton.org/administration/services/library/friends-of-the-library/ [63121/63121] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/services/library/friends-of-the-library/index.html" [1]
+2017-01-01 23:39:46 URL:http://townofsouthampton.org/administration/services/tansfer-station-01/ [65609/65609] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/services/tansfer-station-01/index.html" [1]
+2017-01-01 23:39:49 URL:http://townofsouthampton.org/administration/services/tree-warden/ [64726/64726] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/services/tree-warden/index.html" [1]
+2017-01-01 23:39:52 URL:http://townofsouthampton.org/administration/services/veterans/ [65299/65299] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/services/veterans/index.html" [1]
+2017-01-01 23:39:55 URL:http://townofsouthampton.org/administration/services/veterans-grave-officier/ [64701/64701] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/services/veterans-grave-officier/index.html" [1]
+2017-01-01 23:39:58 URL:http://townofsouthampton.org/administration/services/water-department/ [72151/72151] -> "../data/townSites2/Southampton/townofsouthampton.org/administration/services/water-department/index.html" [1]
+2017-01-01 23:40:00 URL:http://townofsouthampton.org/education/ [61012/61012] -> "../data/townSites2/Southampton/townofsouthampton.org/education/index.html" [1]
+2017-01-01 23:40:04 URL:http://townofsouthampton.org/education/norris-school-committee/ [68786/68786] -> "../data/townSites2/Southampton/townofsouthampton.org/education/norris-school-committee/index.html" [1]
+2017-01-01 23:40:07 URL:http://townofsouthampton.org/education/hampshire-regional-school-committee/ [65566/65566] -> "../data/townSites2/Southampton/townofsouthampton.org/education/hampshire-regional-school-committee/index.html" [1]
+2017-01-01 23:40:10 URL:http://townofsouthampton.org/documents-forms/ [87706/87706] -> "../data/townSites2/Southampton/townofsouthampton.org/documents-forms/index.html" [1]
+2017-01-01 23:40:13 URL:http://townofsouthampton.org/employervolunteer/ [63092/63092] -> "../data/townSites2/Southampton/townofsouthampton.org/employervolunteer/index.html" [1]
+2017-01-01 23:40:16 URL:http://townofsouthampton.org/volunteer/ [62012/62012] -> "../data/townSites2/Southampton/townofsouthampton.org/volunteer/index.html" [1]
+2017-01-01 23:40:18 URL:http://townofsouthampton.org/resourcesmaterials/ [62068/62068] -> "../data/townSites2/Southampton/townofsouthampton.org/resourcesmaterials/index.html" [1]
+2017-01-01 23:40:20 URL:http://townofsouthampton.org/resourcesmaterials/government/ [61569/61569] -> "../data/townSites2/Southampton/townofsouthampton.org/resourcesmaterials/government/index.html" [1]
+2017-01-01 23:40:23 URL:http://townofsouthampton.org/resourcesmaterials/government/state-laws/ [61978/61978] -> "../data/townSites2/Southampton/townofsouthampton.org/resourcesmaterials/government/state-laws/index.html" [1]
+2017-01-01 23:40:26 URL:http://townofsouthampton.org/resourcesmaterials/government/local-laws/ [61541/61541] -> "../data/townSites2/Southampton/townofsouthampton.org/resourcesmaterials/government/local-laws/index.html" [1]
+2017-01-01 23:40:28 URL:http://townofsouthampton.org/resourcesmaterials/government/local-laws/town-by-laws/ [62480/62480] -> "../data/townSites2/Southampton/townofsouthampton.org/resourcesmaterials/government/local-laws/town-by-laws/index.html" [1]
+2017-01-01 23:40:30 URL:http://townofsouthampton.org/resourcesmaterials/government/local-laws/zoning-by-laws/ [62947/62947] -> "../data/townSites2/Southampton/townofsouthampton.org/resourcesmaterials/government/local-laws/zoning-by-laws/index.html" [1]
+2017-01-01 23:40:33 URL:http://townofsouthampton.org/resourcesmaterials/government/finance-reports/ [61895/61895] -> "../data/townSites2/Southampton/townofsouthampton.org/resourcesmaterials/government/finance-reports/index.html" [1]
+2017-01-01 23:40:36 URL:http://townofsouthampton.org/resourcesmaterials/government/finance-reports/annual-town-budget/ [62348/62348] -> "../data/townSites2/Southampton/townofsouthampton.org/resourcesmaterials/government/finance-reports/annual-town-budget/index.html" [1]
+2017-01-01 23:40:38 URL:http://townofsouthampton.org/resourcesmaterials/government/finance-reports/annual-town-report/ [62942/62942] -> "../data/townSites2/Southampton/townofsouthampton.org/resourcesmaterials/government/finance-reports/annual-town-report/index.html" [1]
+2017-01-01 23:40:41 URL:http://townofsouthampton.org/resourcesmaterials/government/finance-reports/dor-reports/ [62931/62931] -> "../data/townSites2/Southampton/townofsouthampton.org/resourcesmaterials/government/finance-reports/dor-reports/index.html" [1]
+2017-01-01 23:40:43 URL:http://townofsouthampton.org/resourcesmaterials/fact-sheets/ [64160/64160] -> "../data/townSites2/Southampton/townofsouthampton.org/resourcesmaterials/fact-sheets/index.html" [1]
+2017-01-01 23:40:45 URL:http://townofsouthampton.org/resourcesmaterials/officials-contact-info/ [61950/61950] -> "../data/townSites2/Southampton/townofsouthampton.org/resourcesmaterials/officials-contact-info/index.html" [1]
+2017-01-01 23:40:48 URL:http://townofsouthampton.org/resourcesmaterials/officials-contact-info/mass-state-officials/ [63628/63628] -> "../data/townSites2/Southampton/townofsouthampton.org/resourcesmaterials/officials-contact-info/mass-state-officials/index.html" [1]
+2017-01-01 23:40:51 URL:http://townofsouthampton.org/resourcesmaterials/officials-contact-info/state-representatives/ [63193/63193] -> "../data/townSites2/Southampton/townofsouthampton.org/resourcesmaterials/officials-contact-info/state-representatives/index.html" [1]
+2017-01-01 23:40:53 URL:http://townofsouthampton.org/resourcesmaterials/officials-contact-info/us-congressmen/ [62758/62758] -> "../data/townSites2/Southampton/townofsouthampton.org/resourcesmaterials/officials-contact-info/us-congressmen/index.html" [1]
+2017-01-01 23:40:55 URL:http://townofsouthampton.org/resourcesmaterials/officials-contact-info/us-senators/ [63043/63043] -> "../data/townSites2/Southampton/townofsouthampton.org/resourcesmaterials/officials-contact-info/us-senators/index.html" [1]
+2017-01-01 23:40:59 URL:http://townofsouthampton.org/resourcesmaterials/services-2/ [61470/61470] -> "../data/townSites2/Southampton/townofsouthampton.org/resourcesmaterials/services-2/index.html" [1]
+2017-01-01 23:41:02 URL:http://townofsouthampton.org/resourcesmaterials/services-2/social-services/ [62599/62599] -> "../data/townSites2/Southampton/townofsouthampton.org/resourcesmaterials/services-2/social-services/index.html" [1]
+2017-01-01 23:41:05 URL:http://townofsouthampton.org/resourcesmaterials/services-2/youth-services/ [61489/61489] -> "../data/townSites2/Southampton/townofsouthampton.org/resourcesmaterials/services-2/youth-services/index.html" [1]
+2017-01-01 23:41:07 URL:http://townofsouthampton.org/resourcesmaterials/services-2/regional-services/ [61535/61535] -> "../data/townSites2/Southampton/townofsouthampton.org/resourcesmaterials/services-2/regional-services/index.html" [1]
+2017-01-01 23:41:10 URL:http://townofsouthampton.org/resourcesmaterials/local-media/ [62576/62576] -> "../data/townSites2/Southampton/townofsouthampton.org/resourcesmaterials/local-media/index.html" [1]
+2017-01-01 23:41:12 URL:http://townofsouthampton.org/resourcesmaterials/service-organizations/ [61630/61630] -> "../data/townSites2/Southampton/townofsouthampton.org/resourcesmaterials/service-organizations/index.html" [1]
+2017-01-01 23:41:14 URL:http://townofsouthampton.org/resourcesmaterials/service-organizations/southampton-lions-club/ [62493/62493] -> "../data/townSites2/Southampton/townofsouthampton.org/resourcesmaterials/service-organizations/southampton-lions-club/index.html" [1]
+2017-01-01 23:41:17 URL:http://townofsouthampton.org/calendar/ [130156/130156] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/index.html" [1]
+2017-01-01 23:41:21 URL:http://townofsouthampton.org/southampton-tv/ [92694/92694] -> "../data/townSites2/Southampton/townofsouthampton.org/southampton-tv/index.html" [1]
+2017-01-01 23:41:25 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-2-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-2-2017/index.html" [1]
+2017-01-01 23:41:28 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-3-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-3-2017/index.html" [1]
+2017-01-01 23:41:31 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-4-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-4-2017/index.html" [1]
+2017-01-01 23:41:34 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-5-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-5-2017/index.html" [1]
+2017-01-01 23:41:35 URL: http://townofsouthampton.org/wp-content/plugins/maxbuttons/pie/PIE.htc 200 OK
+unlink: No such file or directory
+2017-01-01 23:41:36 URL: http://townofsouthampton.org/News+%26+Events/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:41:37 URL: http://townofsouthampton.org/codered/codered-2-2/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:41:38 URL: http://townofsouthampton.org/codered/weather-alerts/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:41:39 URL: http://townofsouthampton.org/codered/angel-heart-3/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:41:40 URL: http://townofsouthampton.org/administration/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:41:41 URL: http://townofsouthampton.org/administration/administration-2/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:41:42 URL: http://townofsouthampton.org/administration/administration-2/board-of-selectmen/policies/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:41:43 URL: http://townofsouthampton.org/Select%20Board/PurchaseOrder%208-30-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:41:44 URL: http://townofsouthampton.org/administration/administration-2/board-of-selectmen/hearings/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:41:45 URL: http://townofsouthampton.org/administration/administration-2/board-of-selectmen/meetings-board-of-selectmen/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:41:46 URL: http://townofsouthampton.org/administration/administration-2/board-of-selectmen/news-announcements/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:41:47 URL: http://townofsouthampton.org/administration/administration-2/board-of-selectmen/town-meetings/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:41:48 URL: http://townofsouthampton.org/administration/administration-2/board-of-selectmen/forms-and-applications/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:41:49 URL: http://townofsouthampton.org/administration/administration-2/town-administrator/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:41:49 URL: http://townofsouthampton.org/administration/administration-2/town-clerk/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:41:50 URL: http://townofsouthampton.org/administration/administration-2/town-clerk/dogs/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:41:51 URL: http://townofsouthampton.org/administration/administration-2/town-clerk/elections/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:41:52 URL: http://townofsouthampton.org/administration/administration-2/town-clerk/forms/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:41:53 URL: http://townofsouthampton.org/administration/administration-2/town-clerk/public-records-2/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:41:54 URL: http://townofsouthampton.org/administration/administration-2/town-moderator/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:41:55 URL: http://townofsouthampton.org/administration/boards-commissions/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:41:56 URL: http://townofsouthampton.org/administration/boards-commissions/agricultural-committee/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:41:57 URL: http://townofsouthampton.org/administration/boards-commissions/almoners/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:41:58 URL: http://townofsouthampton.org/administration/boards-commissions/board-of-registrars/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:41:59 URL: http://townofsouthampton.org/administration/finance/capital-improvement-committee-2/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:00 URL: http://townofsouthampton.org/administration/boards-commissions/cemetery-commission/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:02 URL: http://townofsouthampton.org/administration/boards-commissions/community-preservation-committee/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:03 URL: http://townofsouthampton.org/administration/boards-commissions/conservation-commission/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:04 URL: http://townofsouthampton.org/administration/boards-commissions/cultural-committee/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:05 URL: http://townofsouthampton.org/administration/boards-commissions/energy-committee/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:06 URL: http://townofsouthampton.org/administration/boards-commissions/greenway-committee/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:07 URL: http://townofsouthampton.org/administration/boards-commissions/greenway-committee/greenway-negotiation-com/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:08 URL: http://townofsouthampton.org/administration/boards-commissions/greenway-committee/friends-of-the-greenway/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:09 URL: http://townofsouthampton.org/administration/boards-commissions/historical-committee/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:10 URL: http://townofsouthampton.org/administration/boards-commissions/housing-authority/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:12 URL: http://townofsouthampton.org/administration/boards-commissions/master-plan-committee/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:13 URL: http://townofsouthampton.org/administration/boards-commissions/park-commission/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:14 URL: http://townofsouthampton.org/administration/boards-commissions/personnel-policies-and-procedures-board/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:15 URL: http://townofsouthampton.org/administration/boards-commissions/planning-board/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:16 URL: http://townofsouthampton.org/Town%20Clerk/Zoning%20By-Laws%202016%20Part%201.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:17 URL: http://townofsouthampton.org/administration/boards-commissions/public-safety-committee/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:18 URL: http://townofsouthampton.org/administration/boards-commissions/recreational-needs-committee/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:18 URL: http://townofsouthampton.org/administration/boards-commissions/water-commission/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:19 URL: http://townofsouthampton.org/administration/boards-commissions/zoning-board-of-appeals/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:20 URL: http://townofsouthampton.org/administration/finance/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:21 URL: http://townofsouthampton.org/administration/finance/accountant/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:22 URL: http://townofsouthampton.org/administration/finance/assessors/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:23 URL: http://townofsouthampton.org/administration/finance/finance-committee/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:24 URL: http://townofsouthampton.org/administration/finance/purchasing/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:25 URL: http://townofsouthampton.org/administration/finance/treasurercollector/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:26 URL: http://townofsouthampton.org/administration/finance/treasurercollector/excise/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:27 URL: http://townofsouthampton.org/administration/finance/treasurercollector/taxes/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:28 URL: http://townofsouthampton.org/administration/finance/treasurercollector/water-bill/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:30 URL: http://townofsouthampton.org/administration/public-safety/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:31 URL: http://townofsouthampton.org/administration/public-safety/animal-control/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:32 URL: http://townofsouthampton.org/administration/public-safety/building-department/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:33 URL: http://townofsouthampton.org/administration/public-safety/building-department/building-dept-faqs/feed/ 200 OK
+unlink: No such file or directory
+http://townofsouthampton.org/test/need-building-permit/:
+Remote file does not exist -- broken link!!!
+http://townofsouthampton.org/test/can-get-building-permit-application/:
+Remote file does not exist -- broken link!!!
+http://townofsouthampton.org/test/fees-building-permit/:
+Remote file does not exist -- broken link!!!
+http://townofsouthampton.org/test/can-find-greenfield-zoning-bylaws-online/:
+Remote file does not exist -- broken link!!!
+http://townofsouthampton.org/test/can-get-inspection-building-site/:
+Remote file does not exist -- broken link!!!
+http://townofsouthampton.org/test/types-businesses-need-safety-inspection-every-year-2/:
+Remote file does not exist -- broken link!!!
+http://townofsouthampton.org/test/need-building-permit-wood-stove/:
+Remote file does not exist -- broken link!!!
+http://townofsouthampton.org/test/need-building-permit-swimming-pool/:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:42:55 URL: http://townofsouthampton.org/administration/public-safety/building-department/building-dept-online-forms/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:56 URL: http://townofsouthampton.org/administration/public-safety/building-department/electrical-inspections/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:58 URL: http://townofsouthampton.org/administration/public-safety/building-department/plumbing-inspections/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:42:58 URL: http://townofsouthampton.org/administration/public-safety/emergency-management-dept/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:00 URL: http://townofsouthampton.org/administration/public-safety/fire-dept/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:00 URL: http://townofsouthampton.org/administration/public-safety/highway-dept/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:01 URL: http://townofsouthampton.org/Highway/CurbCut.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:02 URL: http://townofsouthampton.org/administration/public-safety/police-dept/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:03 URL: http://townofsouthampton.org/administration/services/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:04 URL: http://townofsouthampton.org/administration/services/board-of-health/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:06 URL: http://townofsouthampton.org/Boards/Health/2014-bapac-brochure-press%205-6-14.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:07 URL: http://townofsouthampton.org/administration/services/board-of-health/animal-inspector/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:09 URL: http://townofsouthampton.org/administration/services/council-on-aging/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:10 URL: http://townofsouthampton.org/administration/services/library/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:12 URL: http://townofsouthampton.org/administration/services/library/friends-of-the-library/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:13 URL: http://townofsouthampton.org/administration/services/tansfer-station-01/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:14 URL: http://townofsouthampton.org/administration/services/tree-warden/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:15 URL: http://townofsouthampton.org/administration/services/veterans/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:16 URL: http://townofsouthampton.org/administration/services/veterans-grave-officier/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:17 URL: http://townofsouthampton.org/administration/services/water-department/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:18 URL: http://townofsouthampton.org/education/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:19 URL: http://townofsouthampton.org/education/norris-school-committee/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:20 URL: http://townofsouthampton.org/education/hampshire-regional-school-committee/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:21 URL: http://townofsouthampton.org/documents-forms/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:22 URL: http://townofsouthampton.org/employervolunteer/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:23 URL: http://townofsouthampton.org/volunteer/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:24 URL: http://townofsouthampton.org/resourcesmaterials/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:25 URL: http://townofsouthampton.org/resourcesmaterials/government/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:26 URL: http://townofsouthampton.org/resourcesmaterials/government/state-laws/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:27 URL: http://townofsouthampton.org/resourcesmaterials/government/local-laws/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:28 URL: http://townofsouthampton.org/resourcesmaterials/government/local-laws/town-by-laws/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:29 URL: http://townofsouthampton.org/resourcesmaterials/government/local-laws/zoning-by-laws/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:30 URL: http://townofsouthampton.org/Town%20Clerk/Zoning%20By-Laws%20-%20Part%201.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:31 URL: http://townofsouthampton.org/resourcesmaterials/government/finance-reports/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:32 URL: http://townofsouthampton.org/resourcesmaterials/government/finance-reports/annual-town-budget/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:33 URL: http://townofsouthampton.org/resourcesmaterials/government/finance-reports/annual-town-report/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:34 URL: http://townofsouthampton.org/resourcesmaterials/government/finance-reports/dor-reports/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:34 URL: http://townofsouthampton.org/Town%20Reports/southampton%202007%20DLS.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:36 URL: http://townofsouthampton.org/resourcesmaterials/fact-sheets/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:37 URL: http://townofsouthampton.org/resourcesmaterials/officials-contact-info/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:38 URL: http://townofsouthampton.org/resourcesmaterials/officials-contact-info/mass-state-officials/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:38 URL: http://townofsouthampton.org/resourcesmaterials/officials-contact-info/state-representatives/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:40 URL: http://townofsouthampton.org/resourcesmaterials/officials-contact-info/us-congressmen/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:41 URL: http://townofsouthampton.org/resourcesmaterials/officials-contact-info/us-senators/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:42 URL: http://townofsouthampton.org/resourcesmaterials/services-2/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:43 URL: http://townofsouthampton.org/resourcesmaterials/services-2/social-services/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:43 URL: http://townofsouthampton.org/resourcesmaterials/services-2/youth-services/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:45 URL: http://townofsouthampton.org/resourcesmaterials/services-2/regional-services/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:46 URL: http://townofsouthampton.org/resourcesmaterials/local-media/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:47 URL: http://townofsouthampton.org/resourcesmaterials/service-organizations/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:48 URL: http://townofsouthampton.org/resourcesmaterials/service-organizations/southampton-lions-club/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:49 URL: http://townofsouthampton.org/calendar/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:43:52 URL:http://townofsouthampton.org/calendar/action~agenda/request_format~json/ [130156/130156] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~agenda/request_format~json/index.html" [1]
+2017-01-01 23:43:55 URL:http://townofsouthampton.org/calendar/action~oneday/request_format~json/ [130156/130156] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/request_format~json/index.html" [1]
+2017-01-01 23:43:58 URL:http://townofsouthampton.org/calendar/action~month/request_format~json/ [130156/130156] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~month/request_format~json/index.html" [1]
+2017-01-01 23:44:01 URL:http://townofsouthampton.org/calendar/action~week/request_format~json/ [130156/130156] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~week/request_format~json/index.html" [1]
+2017-01-01 23:44:04 URL:http://townofsouthampton.org/calendar/action~posterboard/request_format~json/ [130605/130605] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~posterboard/request_format~json/index.html" [1]
+2017-01-01 23:44:07 URL:http://townofsouthampton.org/calendar/action~month/exact_date~1451624400/request_format~json/ [108805/108805] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~month/exact_date~1451624400/request_format~json/index.html" [1]
+2017-01-01 23:44:11 URL:http://townofsouthampton.org/calendar/action~month/exact_date~1480568400/request_format~json/ [159597/159597] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~month/exact_date~1480568400/request_format~json/index.html" [1]
+2017-01-01 23:44:13 URL:http://townofsouthampton.org/calendar/action~month/exact_date~1483246800/request_format~json/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~month/exact_date~1483246800/request_format~json/index.html" [1]
+2017-01-01 23:44:16 URL:http://townofsouthampton.org/calendar/action~month/exact_date~1512104400/request_format~json/ [108875/108875] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~month/exact_date~1512104400/request_format~json/index.html" [1]
+2017-01-01 23:44:19 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-1-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-1-2017/index.html" [1]
+2017-01-01 23:44:22 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-6-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-6-2017/index.html" [1]
+2017-01-01 23:44:25 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-7-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-7-2017/index.html" [1]
+2017-01-01 23:44:28 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-8-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-8-2017/index.html" [1]
+2017-01-01 23:44:31 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-9-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-9-2017/index.html" [1]
+2017-01-01 23:44:34 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-10-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-10-2017/index.html" [1]
+2017-01-01 23:44:37 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-11-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-11-2017/index.html" [1]
+2017-01-01 23:44:40 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-12-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-12-2017/index.html" [1]
+2017-01-01 23:44:43 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-13-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-13-2017/index.html" [1]
+2017-01-01 23:44:46 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-14-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-14-2017/index.html" [1]
+2017-01-01 23:44:49 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-15-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-15-2017/index.html" [1]
+2017-01-01 23:44:53 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-16-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-16-2017/index.html" [1]
+2017-01-01 23:44:56 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-17-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-17-2017/index.html" [1]
+2017-01-01 23:44:59 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-18-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-18-2017/index.html" [1]
+2017-01-01 23:45:02 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-19-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-19-2017/index.html" [1]
+2017-01-01 23:45:06 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-20-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-20-2017/index.html" [1]
+2017-01-01 23:45:10 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-21-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-21-2017/index.html" [1]
+2017-01-01 23:45:13 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-22-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-22-2017/index.html" [1]
+2017-01-01 23:45:17 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-23-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-23-2017/index.html" [1]
+2017-01-01 23:45:20 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-24-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-24-2017/index.html" [1]
+2017-01-01 23:45:23 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-25-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-25-2017/index.html" [1]
+2017-01-01 23:45:26 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-26-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-26-2017/index.html" [1]
+2017-01-01 23:45:29 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-27-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-27-2017/index.html" [1]
+2017-01-01 23:45:32 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-28-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-28-2017/index.html" [1]
+2017-01-01 23:45:35 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-29-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-29-2017/index.html" [1]
+2017-01-01 23:45:38 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-30-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-30-2017/index.html" [1]
+2017-01-01 23:45:41 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1-31-2017/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1-31-2017/index.html" [1]
+2017-01-01 23:45:42 URL: http://townofsouthampton.org/southampton-tv/feed/ 200 OK
+unlink: No such file or directory
+2017-01-01 23:45:44 URL:http://townofsouthampton.org/calendar/action~agenda/exact_date~1483333200/request_format~json/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~agenda/exact_date~1483333200/request_format~json/index.html" [1]
+2017-01-01 23:45:47 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1483333200/request_format~json/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1483333200/request_format~json/index.html" [1]
+2017-01-01 23:45:50 URL:http://townofsouthampton.org/calendar/action~month/exact_date~1483333200/request_format~json/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~month/exact_date~1483333200/request_format~json/index.html" [1]
+2017-01-01 23:45:54 URL:http://townofsouthampton.org/calendar/action~week/exact_date~1483333200/request_format~json/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~week/exact_date~1483333200/request_format~json/index.html" [1]
+2017-01-01 23:45:56 URL:http://townofsouthampton.org/calendar/action~posterboard/exact_date~1483333200/request_format~json/ [130715/130715] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~posterboard/exact_date~1483333200/request_format~json/index.html" [1]
+2017-01-01 23:45:59 URL:http://townofsouthampton.org/calendar/action~month/exact_date~1485925200/request_format~json/ [99356/99356] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~month/exact_date~1485925200/request_format~json/index.html" [1]
+2017-01-01 23:46:02 URL:http://townofsouthampton.org/calendar/action~month/exact_date~1514782800/request_format~json/ [107831/107831] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~month/exact_date~1514782800/request_format~json/index.html" [1]
+2017-01-01 23:46:05 URL:http://townofsouthampton.org/calendar/action~agenda/exact_date~1483419600/request_format~json/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~agenda/exact_date~1483419600/request_format~json/index.html" [1]
+2017-01-01 23:46:07 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1483419600/request_format~json/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1483419600/request_format~json/index.html" [1]
+2017-01-01 23:46:10 URL:http://townofsouthampton.org/calendar/action~month/exact_date~1483419600/request_format~json/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~month/exact_date~1483419600/request_format~json/index.html" [1]
+2017-01-01 23:46:13 URL:http://townofsouthampton.org/calendar/action~week/exact_date~1483419600/request_format~json/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~week/exact_date~1483419600/request_format~json/index.html" [1]
+2017-01-01 23:46:16 URL:http://townofsouthampton.org/calendar/action~posterboard/exact_date~1483419600/request_format~json/ [130715/130715] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~posterboard/exact_date~1483419600/request_format~json/index.html" [1]
+2017-01-01 23:46:19 URL:http://townofsouthampton.org/calendar/action~agenda/exact_date~1483506000/request_format~json/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~agenda/exact_date~1483506000/request_format~json/index.html" [1]
+2017-01-01 23:46:22 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1483506000/request_format~json/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1483506000/request_format~json/index.html" [1]
+2017-01-01 23:46:25 URL:http://townofsouthampton.org/calendar/action~month/exact_date~1483506000/request_format~json/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~month/exact_date~1483506000/request_format~json/index.html" [1]
+2017-01-01 23:46:28 URL:http://townofsouthampton.org/calendar/action~week/exact_date~1483506000/request_format~json/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~week/exact_date~1483506000/request_format~json/index.html" [1]
+2017-01-01 23:46:31 URL:http://townofsouthampton.org/calendar/action~posterboard/exact_date~1483506000/request_format~json/ [130715/130715] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~posterboard/exact_date~1483506000/request_format~json/index.html" [1]
+2017-01-01 23:46:34 URL:http://townofsouthampton.org/calendar/action~agenda/exact_date~1483592400/request_format~json/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~agenda/exact_date~1483592400/request_format~json/index.html" [1]
+2017-01-01 23:46:38 URL:http://townofsouthampton.org/calendar/action~oneday/exact_date~1483592400/request_format~json/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~oneday/exact_date~1483592400/request_format~json/index.html" [1]
+2017-01-01 23:46:41 URL:http://townofsouthampton.org/calendar/action~month/exact_date~1483592400/request_format~json/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~month/exact_date~1483592400/request_format~json/index.html" [1]
+2017-01-01 23:46:44 URL:http://townofsouthampton.org/calendar/action~week/exact_date~1483592400/request_format~json/ [130266/130266] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~week/exact_date~1483592400/request_format~json/index.html" [1]
+2017-01-01 23:46:47 URL:http://townofsouthampton.org/calendar/action~posterboard/exact_date~1483592400/request_format~json/ [130715/130715] -> "../data/townSites2/Southampton/townofsouthampton.org/calendar/action~posterboard/exact_date~1483592400/request_format~json/index.html" [1]
+Found 9 broken links.
+
+http://townofsouthampton.org/test/need-building-permit-swimming-pool/
+http://townofsouthampton.org/test/fees-building-permit/
+http://townofsouthampton.org/xmlrpc.php
+http://townofsouthampton.org/test/need-building-permit/
+http://townofsouthampton.org/test/can-find-greenfield-zoning-bylaws-online/
+http://townofsouthampton.org/test/types-businesses-need-safety-inspection-every-year-2/
+http://townofsouthampton.org/test/can-get-building-permit-application/
+http://townofsouthampton.org/test/can-get-inspection-building-site/
+http://townofsouthampton.org/test/need-building-permit-wood-stove/
+
+FINISHED --2017-01-01 23:46:47--
+Total wall clock time: 10m 13s
+Downloaded: 168 files, 15M in 2m 12s (114 KB/s)

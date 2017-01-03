@@ -1,0 +1,889 @@
+2017-01-02 05:00:07 URL:https://www.boston.gov/ [69511/69511] -> "../data/townSites2/Boston/www.boston.gov/index.html" [1]
+2017-01-02 05:00:07 URL: https://www.boston.gov/sites/all/themes/custom/boston_public/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 05:00:08 URL:https://www.boston.gov/public-notices [64098] -> "../data/townSites2/Boston/www.boston.gov/public-notices" [1]
+2017-01-02 05:00:10 URL:https://www.boston.gov/pay-and-apply [42786/42786] -> "../data/townSites2/Boston/www.boston.gov/node/3256/index.html" [1]
+2017-01-02 05:00:12 URL:https://www.boston.gov/ [69511/69511] -> "../data/townSites2/Boston/www.boston.gov/homepage" [1]
+2017-01-02 05:00:13 URL:https://www.boston.gov/programs-initiatives [80159] -> "../data/townSites2/Boston/www.boston.gov/programs-initiatives" [1]
+2017-01-02 05:00:14 URL:https://www.boston.gov/guides [29068/29068] -> "../data/townSites2/Boston/www.boston.gov/guides" [1]
+2017-01-02 05:00:15 URL:https://www.boston.gov/news [119897/119897] -> "../data/townSites2/Boston/www.boston.gov/news" [1]
+2017-01-02 05:00:16 URL:https://www.boston.gov/events [162897] -> "../data/townSites2/Boston/www.boston.gov/events" [1]
+2017-01-02 05:00:17 URL:https://www.boston.gov/departments [54019/54019] -> "../data/townSites2/Boston/www.boston.gov/departments" [1]
+2017-01-02 05:00:18 URL:https://www.boston.gov/departments/mayors-office [86252] -> "../data/townSites2/Boston/www.boston.gov/departments/mayors-office" [1]
+2017-01-02 05:00:19 URL:https://www.boston.gov/departments/city-council [82676] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council" [1]
+2017-01-02 05:00:20 URL:https://www.boston.gov/departments/city-clerk [41905/41905] -> "../data/townSites2/Boston/www.boston.gov/departments/city-clerk" [1]
+2017-01-02 05:00:20 URL:https://www.boston.gov/departments/elections [35860/35860] -> "../data/townSites2/Boston/www.boston.gov/departments/elections" [1]
+2017-01-02 05:00:21 URL:https://www.boston.gov/cabinet-directory [55151] -> "../data/townSites2/Boston/www.boston.gov/cabinet-directory" [1]
+2017-01-02 05:00:22 URL:https://www.boston.gov/neighborhoods [33676/33676] -> "../data/townSites2/Boston/www.boston.gov/neighborhoods" [1]
+2017-01-02 05:00:23 URL:https://www.boston.gov/community-centers [50486] -> "../data/townSites2/Boston/www.boston.gov/community-centers" [1]
+2017-01-02 05:00:24 URL:https://www.boston.gov/parks-and-playgrounds [95857] -> "../data/townSites2/Boston/www.boston.gov/parks-and-playgrounds" [1]
+2017-01-02 05:00:25 URL:https://www.boston.gov/departments/landmarks-commission/our-work-landmarks-commission [28977] -> "../data/townSites2/Boston/www.boston.gov/departments/landmarks-commission/our-work-landmarks-commission" [1]
+2017-01-02 05:00:26 URL:https://www.boston.gov/cemeteries [36930] -> "../data/townSites2/Boston/www.boston.gov/cemeteries" [1]
+2017-01-02 05:00:27 URL:https://www.boston.gov/departments/human-resources/career-center [28509/28509] -> "../data/townSites2/Boston/www.boston.gov/departments/human-resources/career-center" [1]
+2017-01-02 05:00:27 URL: https://www.boston.gov/sites/all/themes/custom/boston_public/dist/img/b-logo-light.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:00:28 URL:https://www.boston.gov/departments/mayors-office/city-owned-buildings-boston [90860] -> "../data/townSites2/Boston/www.boston.gov/departments/mayors-office/city-owned-buildings-boston" [1]
+2017-01-02 05:00:29 URL:https://www.boston.gov/trash-day-schedule [23002/23002] -> "../data/townSites2/Boston/www.boston.gov/trash-day-schedule" [1]
+2017-01-02 05:00:31 URL:https://www.boston.gov/departments/parking-clerk/how-do-parking-meters-work [28208] -> "../data/townSites2/Boston/www.boston.gov/departments/parking-clerk/how-do-parking-meters-work" [1]
+2017-01-02 05:00:32 URL:https://www.boston.gov/departments/transportation/25-boston [46545] -> "../data/townSites2/Boston/www.boston.gov/departments/transportation/25-boston" [1]
+2017-01-02 05:00:32 URL: https://www.boston.gov/sites/default/files/experiential_icons_house_7.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:00:32 URL: https://www.boston.gov/sites/default/files/transactions-icon-08-2016/experiential_icons_real_estate_taxes.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:00:33 URL:https://www.boston.gov/departments/assessing/how-file-residential-exemption [35407] -> "../data/townSites2/Boston/www.boston.gov/departments/assessing/how-file-residential-exemption" [1]
+2017-01-02 05:00:34 URL: https://www.boston.gov/sites/default/files/transactions-icon-12-2016/experientialicon_howtofileforapropertytaxabatement.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:00:34 URL:https://www.boston.gov/departments/parking-clerk/how-pay-parking-ticket [32998] -> "../data/townSites2/Boston/www.boston.gov/departments/parking-clerk/how-pay-parking-ticket" [1]
+2017-01-02 05:00:35 URL: https://www.boston.gov/sites/default/files/experiential_icons_no_ticket.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:00:36 URL:https://www.boston.gov/departments/parking-clerk/how-get-resident-parking-permit [39620] -> "../data/townSites2/Boston/www.boston.gov/departments/parking-clerk/how-get-resident-parking-permit" [1]
+2017-01-02 05:00:36 URL: https://www.boston.gov/sites/default/files/experiential_icons_parking_pass_3.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:00:37 URL:https://www.boston.gov/departments/registry/how-get-birth-certificate [32252] -> "../data/townSites2/Boston/www.boston.gov/departments/registry/how-get-birth-certificate" [1]
+2017-01-02 05:00:37 URL: https://www.boston.gov/sites/default/files/experiential_icons_birth_cert.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:00:38 URL: https://www.boston.gov/sites/default/files/transactions-icon-11-2016/experiential_icons_cold_weather_safety_tips.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:00:38 URL: https://www.boston.gov/sites/default/files/transactions-icon-07-2016/experiential_icons_2_311.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:00:39 URL:https://www.boston.gov/trash-and-recycling-guide [44720] -> "../data/townSites2/Boston/www.boston.gov/trash-and-recycling-guide" [1]
+https://www.boston.gov/&:
+Remote file does not exist -- broken link!!!
+2017-01-02 05:00:40 URL:https://www.boston.gov/winter-boston [64445] -> "../data/townSites2/Boston/www.boston.gov/winter-boston" [1]
+2017-01-02 05:00:41 URL:https://www.boston.gov/visiting-boston [65133] -> "../data/townSites2/Boston/www.boston.gov/visiting-boston" [1]
+2017-01-02 05:00:43 URL:https://www.boston.gov/renting-boston [58309] -> "../data/townSites2/Boston/www.boston.gov/renting-boston" [1]
+2017-01-02 05:00:44 URL:https://www.boston.gov/news/traffic-advisory-first-night-celebration [25012] -> "../data/townSites2/Boston/www.boston.gov/news/traffic-advisory-first-night-celebration" [1]
+2017-01-02 05:00:45 URL:https://www.boston.gov/departments/transportation [59109] -> "../data/townSites2/Boston/www.boston.gov/departments/transportation.1" [1]
+2017-01-02 05:00:46 URL: https://www.boston.gov/sites/default/files/department_icons/icons_transportation_transportation.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:00:47 URL:https://www.boston.gov/news/mayor-walsh-announces-24-million-hud-grant-help-homeless [26202] -> "../data/townSites2/Boston/www.boston.gov/news/mayor-walsh-announces-24-million-hud-grant-help-homeless" [1]
+2017-01-02 05:00:48 URL:https://www.boston.gov/news/acoustic-ordinance-gives-more-opportunities-small-businesses-musicians [24005] -> "../data/townSites2/Boston/www.boston.gov/news/acoustic-ordinance-gives-more-opportunities-small-businesses-musicians" [1]
+2017-01-02 05:00:49 URL:https://www.boston.gov/news/400000-state-grant-help-fund-harambee-park-improvements [28115] -> "../data/townSites2/Boston/www.boston.gov/news/400000-state-grant-help-fund-harambee-park-improvements" [1]
+2017-01-02 05:00:50 URL:https://www.boston.gov/news/boston-university-scholarship-program-expanded-boston-public-schools-students [27846] -> "../data/townSites2/Boston/www.boston.gov/news/boston-university-scholarship-program-expanded-boston-public-schools-students" [1]
+2017-01-02 05:00:52 URL:https://www.boston.gov/calendar/boston-baroque-free-community-concert [29580] -> "../data/townSites2/Boston/www.boston.gov/calendar/boston-baroque-free-community-concert" [1]
+2017-01-02 05:00:53 URL:https://www.boston.gov/calendar/city-hall-go-cart-hyde-park-0 [27591] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-hyde-park-0" [1]
+2017-01-02 05:00:54 URL:https://www.boston.gov/calendar/city-hall-go-cart-west-roxbury-0 [28247] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-west-roxbury-0" [1]
+2017-01-02 05:00:56 URL:https://www.boston.gov/calendar/city-hall-go-cart-roxbury [32664] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-roxbury" [1]
+2017-01-02 05:00:57 URL:https://www.boston.gov/departments/mayors-office/martin-j-walsh [23968/23968] -> "../data/townSites2/Boston/www.boston.gov/node/501" [1]
+2017-01-02 05:00:59 URL:https://www.boston.gov/departments/city-council [70922/70922] -> "../data/townSites2/Boston/www.boston.gov/contact/city-council" [1]
+2017-01-02 05:01:00 URL:https://www.boston.gov/departments/city-council/michelle-wu [24047] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/michelle-wu" [1]
+2017-01-02 05:01:01 URL:https://www.boston.gov/departments/city-council/michael-flaherty [24987] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/michael-flaherty" [1]
+2017-01-02 05:01:03 URL:https://www.boston.gov/departments/city-council/annissa-essaibi-george [29774] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/annissa-essaibi-george" [1]
+2017-01-02 05:01:03 URL:https://www.boston.gov/departments/city-council/ayanna-pressley [24887] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/ayanna-pressley" [1]
+2017-01-02 05:01:04 URL:https://www.boston.gov/departments/city-council/salvatore-lamattina [21192/21192] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/salvatore-lamattina" [1]
+2017-01-02 05:01:05 URL:https://www.boston.gov/departments/city-council/bill-linehan [20670/20670] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/bill-linehan" [1]
+2017-01-02 05:01:06 URL:https://www.boston.gov/departments/city-council/frank-baker [22910/22910] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/frank-baker" [1]
+2017-01-02 05:01:07 URL:https://www.boston.gov/departments/city-council/andrea-campbell [23064] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/andrea-campbell" [1]
+2017-01-02 05:01:08 URL:https://www.boston.gov/departments/city-council/timothy-mccarthy [21765/21765] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/timothy-mccarthy" [1]
+2017-01-02 05:01:09 URL:https://www.boston.gov/departments/city-council/matt-omalley [25645] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/matt-omalley" [1]
+2017-01-02 05:01:10 URL:https://www.boston.gov/departments/city-council/tito-jackson [30086] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/tito-jackson" [1]
+2017-01-02 05:01:12 URL:https://www.boston.gov/departments/city-council/josh-zakim [30777] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/josh-zakim" [1]
+2017-01-02 05:01:13 URL:https://www.boston.gov/departments/city-council/mark-ciommo [23297] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/mark-ciommo" [1]
+2017-01-02 05:01:14 URL:https://www.boston.gov/departments/mayors-office/martin-j-walsh [23968/23968] -> "../data/townSites2/Boston/www.boston.gov/departments/mayors-office/martin-j-walsh" [1]
+2017-01-02 05:01:16 URL:https://www.boston.gov/public-notices [56851/56851] -> "../data/townSites2/Boston/www.boston.gov/node/11666" [1]
+2017-01-02 05:01:18 URL:https://www.boston.gov/public-notices/archive [69344] -> "../data/townSites2/Boston/www.boston.gov/public-notices/archive" [1]
+2017-01-02 05:01:19 URL:https://www.boston.gov/public-notices/12851 [26059] -> "../data/townSites2/Boston/www.boston.gov/public-notices/12851" [1]
+2017-01-02 05:01:19 URL: https://www.boston.gov/sites/default/files/department_icons/icons_city_clerk.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:01:21 URL:https://www.boston.gov/public-notices/12666 [32254] -> "../data/townSites2/Boston/www.boston.gov/public-notices/12666" [1]
+2017-01-02 05:01:22 URL:https://www.boston.gov/departments/landmarks-commission [46353] -> "../data/townSites2/Boston/www.boston.gov/departments/landmarks-commission.1" [1]
+2017-01-02 05:01:23 URL: https://www.boston.gov/sites/default/files/department-icon-08-2016/icons_landmarks.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:01:24 URL:https://www.boston.gov/public-notices/12856 [29219] -> "../data/townSites2/Boston/www.boston.gov/public-notices/12856" [1]
+2017-01-02 05:01:25 URL:https://www.boston.gov/departments/licensing-board [41362] -> "../data/townSites2/Boston/www.boston.gov/departments/licensing-board" [1]
+2017-01-02 05:01:25 URL: https://www.boston.gov/sites/default/files/department_icons/icons_consumer_affairs.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:01:27 URL:https://www.boston.gov/public-notices/12876 [29372] -> "../data/townSites2/Boston/www.boston.gov/public-notices/12876" [1]
+2017-01-02 05:01:28 URL:https://www.boston.gov/departments/emergency-management [45114/45114] -> "../data/townSites2/Boston/www.boston.gov/departments/emergency-management" [1]
+2017-01-02 05:01:29 URL: https://www.boston.gov/sites/default/files/department-icon-08-2016/department_icons_emergency_management.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:01:30 URL:https://www.boston.gov/public-notices/12826 [31552] -> "../data/townSites2/Boston/www.boston.gov/public-notices/12826" [1]
+2017-01-02 05:01:31 URL:https://www.boston.gov/departments/environment [60445] -> "../data/townSites2/Boston/www.boston.gov/departments/environment" [1]
+2017-01-02 05:01:32 URL: https://www.boston.gov/sites/default/files/department_icons/icons_environment.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:01:33 URL:https://www.boston.gov/public-notices/12636 [24715] -> "../data/townSites2/Boston/www.boston.gov/public-notices/12636" [1]
+2017-01-02 05:01:34 URL:https://www.boston.gov/departments/human-resources [33598/33598] -> "../data/townSites2/Boston/www.boston.gov/departments/human-resources.1" [1]
+2017-01-02 05:01:34 URL: https://www.boston.gov/sites/default/files/department_icons/icons_hr.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:01:36 URL:https://www.boston.gov/public-notices/12886 [31003] -> "../data/townSites2/Boston/www.boston.gov/public-notices/12886" [1]
+2017-01-02 05:01:36 URL:https://www.boston.gov/public-notices/12641 [25146] -> "../data/townSites2/Boston/www.boston.gov/public-notices/12641" [1]
+2017-01-02 05:01:39 URL:https://www.boston.gov/departments/parks-and-recreation [68374] -> "../data/townSites2/Boston/www.boston.gov/departments/parks-and-recreation" [1]
+2017-01-02 05:01:39 URL: https://www.boston.gov/sites/default/files/department_icons/icons_parks.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:01:40 URL:https://www.boston.gov/public-notices/11826 [24584] -> "../data/townSites2/Boston/www.boston.gov/public-notices/11826" [1]
+2017-01-02 05:01:41 URL:https://www.boston.gov/departments/fair-housing-and-equity [44283] -> "../data/townSites2/Boston/www.boston.gov/departments/fair-housing-and-equity" [1]
+2017-01-02 05:01:42 URL:https://www.boston.gov/public-notices/12871 [24634] -> "../data/townSites2/Boston/www.boston.gov/public-notices/12871" [1]
+2017-01-02 05:01:43 URL:https://www.boston.gov/departments/schools [23537] -> "../data/townSites2/Boston/www.boston.gov/departments/schools" [1]
+2017-01-02 05:01:43 URL: https://www.boston.gov/sites/default/files/department-icon-10-2016/icons_archives_schools.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:01:45 URL:https://www.boston.gov/pay-and-apply [42786/42786] -> "../data/townSites2/Boston/www.boston.gov/node/3256.1" [1]
+2017-01-02 05:01:46 URL: https://www.boston.gov/sites/default/files/experiential_icons_ticket_2.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:01:46 URL: https://www.boston.gov/sites/default/files/experiential_icons_car_0.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:01:47 URL:https://www.boston.gov/how-reserve-parking-spot-your-moving-truck [32439] -> "../data/townSites2/Boston/www.boston.gov/how-reserve-parking-spot-your-moving-truck" [1]
+2017-01-02 05:01:48 URL: https://www.boston.gov/sites/default/files/experiential_icons_noparking_moving.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:01:49 URL:https://www.boston.gov/departments/registry/how-get-copy-marriage-certificate [30854] -> "../data/townSites2/Boston/www.boston.gov/departments/registry/how-get-copy-marriage-certificate" [1]
+2017-01-02 05:01:49 URL: https://www.boston.gov/sites/default/files/experiential_icons_marriage_certificate.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:01:50 URL:https://www.boston.gov/departments/public-works/how-pay-fine-code-violation [29504] -> "../data/townSites2/Boston/www.boston.gov/departments/public-works/how-pay-fine-code-violation" [1]
+2017-01-02 05:01:51 URL: https://www.boston.gov/sites/default/files/experiential_icons_important_3.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:01:52 URL:https://www.boston.gov/appeal-green-ticket-requesting-hearing [20895] -> "../data/townSites2/Boston/www.boston.gov/appeal-green-ticket-requesting-hearing" [1]
+2017-01-02 05:01:52 URL:https://www.boston.gov/departments/parking-clerk/how-appeal-parking-ticket [32397] -> "../data/townSites2/Boston/www.boston.gov/departments/parking-clerk/how-appeal-parking-ticket" [1]
+2017-01-02 05:01:54 URL:https://www.boston.gov/departments/elections/how-vote-absentee-ballot [35003] -> "../data/townSites2/Boston/www.boston.gov/departments/elections/how-vote-absentee-ballot" [1]
+2017-01-02 05:01:56 URL:https://www.boston.gov/apply-ems-special-events-permit [25385] -> "../data/townSites2/Boston/www.boston.gov/apply-ems-special-events-permit" [1]
+2017-01-02 05:01:57 URL:https://www.boston.gov/athletic-facilities-permit-application [21636] -> "../data/townSites2/Boston/www.boston.gov/athletic-facilities-permit-application" [1]
+2017-01-02 05:01:58 URL:https://www.boston.gov/file-commendation-or-complaint-boston-emergency-medical-services-ems [21075] -> "../data/townSites2/Boston/www.boston.gov/file-commendation-or-complaint-boston-emergency-medical-services-ems" [1]
+2017-01-02 05:01:58 URL:https://www.boston.gov/departments/tourism-sports-and-entertainment/how-apply-host-public-event-boston [30259] -> "../data/townSites2/Boston/www.boston.gov/departments/tourism-sports-and-entertainment/how-apply-host-public-event-boston" [1]
+2017-01-02 05:01:59 URL:https://www.boston.gov/city-boston-internship-application [20279] -> "../data/townSites2/Boston/www.boston.gov/city-boston-internship-application" [1]
+2017-01-02 05:02:00 URL:https://www.boston.gov/design-review-construction-near-parks [21679] -> "../data/townSites2/Boston/www.boston.gov/design-review-construction-near-parks" [1]
+2017-01-02 05:02:01 URL:https://www.boston.gov/departments/animal-care-and-control/how-license-your-dog [33085] -> "../data/townSites2/Boston/www.boston.gov/departments/animal-care-and-control/how-license-your-dog" [1]
+2017-01-02 05:02:02 URL:https://www.boston.gov/departments/city-clerk/how-file-claim-city [32236] -> "../data/townSites2/Boston/www.boston.gov/departments/city-clerk/how-file-claim-city" [1]
+2017-01-02 05:02:03 URL:https://www.boston.gov/inspectional-services-public-records-request-form [25439] -> "../data/townSites2/Boston/www.boston.gov/inspectional-services-public-records-request-form" [1]
+2017-01-02 05:02:05 URL:https://www.boston.gov/love-your-block-grant-application [25340] -> "../data/townSites2/Boston/www.boston.gov/love-your-block-grant-application" [1]
+2017-01-02 05:02:06 URL:https://www.boston.gov/my-brothers-keeper-grant-application [24254] -> "../data/townSites2/Boston/www.boston.gov/my-brothers-keeper-grant-application" [1]
+2017-01-02 05:02:07 URL:https://www.boston.gov/parks-special-event-permit-application [21655] -> "../data/townSites2/Boston/www.boston.gov/parks-special-event-permit-application" [1]
+2017-01-02 05:02:08 URL:https://www.boston.gov/departments/tax-collection/how-pay-your-boat-excise-tax [32364] -> "../data/townSites2/Boston/www.boston.gov/departments/tax-collection/how-pay-your-boat-excise-tax" [1]
+2017-01-02 05:02:10 URL:https://www.boston.gov/programs-initiatives [70219/70219] -> "../data/townSites2/Boston/www.boston.gov/node/3811" [1]
+2017-01-02 05:02:11 URL:https://www.boston.gov/civic-engagement/100-resilient-cities [33027] -> "../data/townSites2/Boston/www.boston.gov/civic-engagement/100-resilient-cities" [1]
+2017-01-02 05:02:12 URL:https://www.boston.gov/innovation-and-technology/2017-analytics-summer-fellowships [29035] -> "../data/townSites2/Boston/www.boston.gov/innovation-and-technology/2017-analytics-summer-fellowships" [1]
+2017-01-02 05:02:13 URL:https://www.boston.gov/civic-engagement/3rd-spaces-lab [28543] -> "../data/townSites2/Boston/www.boston.gov/civic-engagement/3rd-spaces-lab" [1]
+2017-01-02 05:02:14 URL:https://www.boston.gov/housing/affirmative-marketing [29824] -> "../data/townSites2/Boston/www.boston.gov/housing/affirmative-marketing" [1]
+2017-01-02 05:02:15 URL:https://www.boston.gov/arts-and-culture/alternative-space-pilot-project-artists [24821] -> "../data/townSites2/Boston/www.boston.gov/arts-and-culture/alternative-space-pilot-project-artists" [1]
+2017-01-02 05:02:15 URL:https://www.boston.gov/arts-and-culture/artist-certification [24472/24472] -> "../data/townSites2/Boston/www.boston.gov/arts-and-culture/artist-certification" [1]
+2017-01-02 05:02:17 URL:https://www.boston.gov/health-and-human-services/bcyf-adult-education [46711] -> "../data/townSites2/Boston/www.boston.gov/health-and-human-services/bcyf-adult-education" [1]
+2017-01-02 05:02:18 URL:https://www.boston.gov/health-and-human-services/bcyf-aquatics [39497] -> "../data/townSites2/Boston/www.boston.gov/health-and-human-services/bcyf-aquatics" [1]
+2017-01-02 05:02:19 URL:https://www.boston.gov/health-and-human-services/bcyf-youth-advisory-committee [25045] -> "../data/townSites2/Boston/www.boston.gov/health-and-human-services/bcyf-youth-advisory-committee" [1]
+2017-01-02 05:02:21 URL:https://www.boston.gov/health-and-human-services/bcyf-youth-engagement-employment [34991/34991] -> "../data/townSites2/Boston/www.boston.gov/health-and-human-services/bcyf-youth-engagement-employment" [1]
+2017-01-02 05:02:22 URL:https://www.boston.gov/finance/boston-about-results [29192/29192] -> "../data/townSites2/Boston/www.boston.gov/finance/boston-about-results" [1]
+2017-01-02 05:02:23 URL:https://www.boston.gov/civic-engagement/boston-alzheimers-initiative [23742] -> "../data/townSites2/Boston/www.boston.gov/civic-engagement/boston-alzheimers-initiative" [1]
+2017-01-02 05:02:24 URL:https://www.boston.gov/health-and-human-services/boston-bounty-bucks [29002] -> "../data/townSites2/Boston/www.boston.gov/health-and-human-services/boston-bounty-bucks" [1]
+2017-01-02 05:02:25 URL:https://www.boston.gov/health-and-human-services/boston-food-policy-council [26131] -> "../data/townSites2/Boston/www.boston.gov/health-and-human-services/boston-food-policy-council" [1]
+2017-01-02 05:02:27 URL:https://www.boston.gov/transportation/boston-green-links [38703/38703] -> "../data/townSites2/Boston/www.boston.gov/transportation/boston-green-links" [1]
+2017-01-02 05:02:28 URL:https://www.boston.gov/housing/boston-home-center [39147] -> "../data/townSites2/Boston/www.boston.gov/housing/boston-home-center" [1]
+2017-01-02 05:02:29 URL:https://www.boston.gov/economic-development/boston-main-streets [39519] -> "../data/townSites2/Boston/www.boston.gov/economic-development/boston-main-streets" [1]
+2017-01-02 05:02:30 URL:https://www.boston.gov/arts-and-culture/boston-open-studios-coalition [23861] -> "../data/townSites2/Boston/www.boston.gov/arts-and-culture/boston-open-studios-coalition" [1]
+2017-01-02 05:02:31 URL:https://www.boston.gov/transportation/boston-parklets-program [34231] -> "../data/townSites2/Boston/www.boston.gov/transportation/boston-parklets-program" [1]
+2017-01-02 05:02:31 URL:https://www.boston.gov/civic-engagement/boston-rsvp [26877] -> "../data/townSites2/Boston/www.boston.gov/civic-engagement/boston-rsvp" [1]
+2017-01-02 05:02:33 URL:https://www.boston.gov/finance/boston-saves [35853/35853] -> "../data/townSites2/Boston/www.boston.gov/finance/boston-saves" [1]
+2017-01-02 05:02:34 URL:https://www.boston.gov/civic-engagement/boston-shines [22547] -> "../data/townSites2/Boston/www.boston.gov/civic-engagement/boston-shines" [1]
+2017-01-02 05:02:35 URL:https://www.boston.gov/transportation/bostons-safest-driver-competition [29641] -> "../data/townSites2/Boston/www.boston.gov/transportation/bostons-safest-driver-competition" [1]
+2017-01-02 05:02:36 URL:https://www.boston.gov/health-and-human-services/bostoncanshare [31269] -> "../data/townSites2/Boston/www.boston.gov/health-and-human-services/bostoncanshare" [1]
+2017-01-02 05:02:37 URL:https://www.boston.gov/housing/bostons-way-home [58350] -> "../data/townSites2/Boston/www.boston.gov/housing/bostons-way-home" [1]
+2017-01-02 05:02:38 URL:https://www.boston.gov/education/bps-experience-lab [24335] -> "../data/townSites2/Boston/www.boston.gov/education/bps-experience-lab" [1]
+2017-01-02 05:02:38 URL:https://www.boston.gov/civic-engagement/breathe-easy-home [37158/37158] -> "../data/townSites2/Boston/www.boston.gov/civic-engagement/breathe-easy-home" [1]
+2017-01-02 05:02:41 URL:https://www.boston.gov/innovation-and-technology/broadband-and-digital-equity [45991/45991] -> "../data/townSites2/Boston/www.boston.gov/innovation-and-technology/broadband-and-digital-equity" [1]
+2017-01-02 05:02:42 URL:https://www.boston.gov/environment-and-energy/building-energy-reporting-and-disclosure-ordinance [36740] -> "../data/townSites2/Boston/www.boston.gov/environment-and-energy/building-energy-reporting-and-disclosure-ordinance" [1]
+2017-01-02 05:02:43 URL:https://www.boston.gov/housing/choice-neighborhoods [27801] -> "../data/townSites2/Boston/www.boston.gov/housing/choice-neighborhoods" [1]
+2017-01-02 05:02:44 URL:https://www.boston.gov/innovation-and-technology/city-archives-digital-access-initiative [36735/36735] -> "../data/townSites2/Boston/www.boston.gov/innovation-and-technology/city-archives-digital-access-initiative" [1]
+2017-01-02 05:02:45 URL:https://www.boston.gov/arts-and-culture/city-hall-galleries [33080] -> "../data/townSites2/Boston/www.boston.gov/arts-and-culture/city-hall-galleries" [1]
+2017-01-02 05:02:46 URL:https://www.boston.gov/civic-engagement/city-hall-go-truck [28645] -> "../data/townSites2/Boston/www.boston.gov/civic-engagement/city-hall-go-truck" [1]
+2017-01-02 05:02:47 URL:https://www.boston.gov/cityscore [42616/42616] -> "../data/townSites2/Boston/www.boston.gov/cityscore" [1]
+2017-01-02 05:02:48 URL:https://www.boston.gov/environment-and-energy/climate-action-plan [35131/35131] -> "../data/townSites2/Boston/www.boston.gov/environment-and-energy/climate-action-plan" [1]
+2017-01-02 05:02:49 URL:https://www.boston.gov/environment-and-energy/climate-ready-boston [59519] -> "../data/townSites2/Boston/www.boston.gov/environment-and-energy/climate-ready-boston" [1]
+2017-01-02 05:02:51 URL:https://www.boston.gov/transportation/connect-historic-boston [38744/38744] -> "../data/townSites2/Boston/www.boston.gov/transportation/connect-historic-boston" [1]
+2017-01-02 05:02:52 URL:https://www.boston.gov/housing/continuum-care-program [42316] -> "../data/townSites2/Boston/www.boston.gov/housing/continuum-care-program" [1]
+2017-01-02 05:02:53 URL:https://www.boston.gov/innovation-and-technology/doit-internships [25062] -> "../data/townSites2/Boston/www.boston.gov/innovation-and-technology/doit-internships" [1]
+2017-01-02 05:02:54 URL:https://www.boston.gov/transportation/drive-boston [32905] -> "../data/townSites2/Boston/www.boston.gov/transportation/drive-boston" [1]
+2017-01-02 05:02:56 URL:https://www.boston.gov/environment-and-energy/emerald-necklace [36653/36653] -> "../data/townSites2/Boston/www.boston.gov/environment-and-energy/emerald-necklace" [1]
+2017-01-02 05:02:57 URL:https://www.boston.gov/health-and-human-services/employee-assistance-program [52670] -> "../data/townSites2/Boston/www.boston.gov/health-and-human-services/employee-assistance-program" [1]
+2017-01-02 05:02:59 URL:https://www.boston.gov/economic-development/energy-efficiency-and-sustainability [23748] -> "../data/townSites2/Boston/www.boston.gov/economic-development/energy-efficiency-and-sustainability" [1]
+2017-01-02 05:03:00 URL:https://www.boston.gov/housing/fair-housing-and-equity-internships [35104] -> "../data/townSites2/Boston/www.boston.gov/housing/fair-housing-and-equity-internships" [1]
+2017-01-02 05:03:02 URL:https://www.boston.gov/health-and-human-services/farmers-markets-boston [35135] -> "../data/townSites2/Boston/www.boston.gov/health-and-human-services/farmers-markets-boston" [1]
+2017-01-02 05:03:04 URL:https://www.boston.gov/housing/foreclosure-prevention-and-intervention [31185/31185] -> "../data/townSites2/Boston/www.boston.gov/housing/foreclosure-prevention-and-intervention" [1]
+2017-01-02 05:03:05 URL:https://www.boston.gov/housing/grassroots-and-open-space-development [26040] -> "../data/townSites2/Boston/www.boston.gov/housing/grassroots-and-open-space-development" [1]
+2017-01-02 05:03:06 URL:https://www.boston.gov/environment-and-energy/greenovate-boston [31155] -> "../data/townSites2/Boston/www.boston.gov/environment-and-energy/greenovate-boston" [1]
+2017-01-02 05:03:07 URL:https://www.boston.gov/education/historic-burying-grounds-initiative [49311/49311] -> "../data/townSites2/Boston/www.boston.gov/education/historic-burying-grounds-initiative" [1]
+2017-01-02 05:03:08 URL:https://www.boston.gov/finance/housing-changing-city-boston-2030 [35117] -> "../data/townSites2/Boston/www.boston.gov/finance/housing-changing-city-boston-2030" [1]
+2017-01-02 05:03:09 URL:https://www.boston.gov/housing/housing-innovation-competition [31560] -> "../data/townSites2/Boston/www.boston.gov/housing/housing-innovation-competition" [1]
+2017-01-02 05:03:10 URL:https://www.boston.gov/housing/housing-innovation-lab [35715] -> "../data/townSites2/Boston/www.boston.gov/housing/housing-innovation-lab" [1]
+2017-01-02 05:03:12 URL:https://www.boston.gov/civic-engagement/love-your-block [41890/41890] -> "../data/townSites2/Boston/www.boston.gov/civic-engagement/love-your-block" [1]
+2017-01-02 05:03:13 URL:https://www.boston.gov/environment-and-energy/maintaining-healthy-air-quality-and-noise-levels [44173] -> "../data/townSites2/Boston/www.boston.gov/environment-and-energy/maintaining-healthy-air-quality-and-noise-levels" [1]
+2017-01-02 05:03:15 URL:https://www.boston.gov/health-and-human-services/mayors-food-court [55607] -> "../data/townSites2/Boston/www.boston.gov/health-and-human-services/mayors-food-court" [1]
+2017-01-02 05:03:17 URL:https://www.boston.gov/health-and-human-services/mayors-youth-council [36926] -> "../data/townSites2/Boston/www.boston.gov/health-and-human-services/mayors-youth-council" [1]
+2017-01-02 05:03:18 URL:https://www.boston.gov/housing/metrolist [32118] -> "../data/townSites2/Boston/www.boston.gov/housing/metrolist" [1]
+2017-01-02 05:03:19 URL:https://www.boston.gov/civic-engagement/my-brothers-keeper-boston [49314] -> "../data/townSites2/Boston/www.boston.gov/civic-engagement/my-brothers-keeper-boston" [1]
+2017-01-02 05:03:21 URL:https://www.boston.gov/housing/neighborhood-homes-initiative [32973] -> "../data/townSites2/Boston/www.boston.gov/housing/neighborhood-homes-initiative" [1]
+2017-01-02 05:03:22 URL:https://www.boston.gov/civic-engagement/neighborhubs [25368] -> "../data/townSites2/Boston/www.boston.gov/civic-engagement/neighborhubs" [1]
+2017-01-02 05:03:24 URL:https://www.boston.gov/departments/boston-bikes/new-balance-hubway [35904] -> "../data/townSites2/Boston/www.boston.gov/transportation/new-balance-hubway" [1]
+2017-01-02 05:03:25 URL:https://www.boston.gov/housing/office-housing-stability [25928] -> "../data/townSites2/Boston/www.boston.gov/housing/office-housing-stability" [1]
+2017-01-02 05:03:26 URL:https://www.boston.gov/economic-development/site-technical-assistance [23422] -> "../data/townSites2/Boston/www.boston.gov/economic-development/site-technical-assistance" [1]
+2017-01-02 05:03:27 URL:https://www.boston.gov/innovation-and-technology/open-data-open-knowledge [26235] -> "../data/townSites2/Boston/www.boston.gov/innovation-and-technology/open-data-open-knowledge" [1]
+2017-01-02 05:03:28 URL:https://www.boston.gov/environment-and-energy/open-space-and-recreation-plan-2015-2021 [42563] -> "../data/townSites2/Boston/www.boston.gov/environment-and-energy/open-space-and-recreation-plan-2015-2021" [1]
+2017-01-02 05:03:29 URL:https://www.boston.gov/housing/operation-support-community-housing-development-organizations [26861/26861] -> "../data/townSites2/Boston/www.boston.gov/housing/operation-support-community-housing-development-organizations" [1]
+2017-01-02 05:03:30 URL:https://www.boston.gov/arts-and-culture/parkarts [22572] -> "../data/townSites2/Boston/www.boston.gov/arts-and-culture/parkarts" [1]
+2017-01-02 05:03:32 URL:https://www.boston.gov/finance/payment-lieu-tax-pilot-program [51362] -> "../data/townSites2/Boston/www.boston.gov/finance/payment-lieu-tax-pilot-program" [1]
+2017-01-02 05:03:33 URL:https://www.boston.gov/transportation/performance-parking-pilot [28258/28258] -> "../data/townSites2/Boston/www.boston.gov/transportation/performance-parking-pilot" [1]
+2017-01-02 05:03:34 URL:https://www.boston.gov/arts-and-culture/poet-laureate-program [26560] -> "../data/townSites2/Boston/www.boston.gov/arts-and-culture/poet-laureate-program" [1]
+2017-01-02 05:03:35 URL:https://www.boston.gov/environment-and-energy/project-oscar [34366] -> "../data/townSites2/Boston/www.boston.gov/environment-and-energy/project-oscar" [1]
+2017-01-02 05:03:37 URL:https://www.boston.gov/environment-and-energy/protecting-bostons-wetlands [31602] -> "../data/townSites2/Boston/www.boston.gov/environment-and-energy/protecting-bostons-wetlands" [1]
+2017-01-02 05:03:38 URL:https://www.boston.gov/public-safety/ready-boston [28922] -> "../data/townSites2/Boston/www.boston.gov/public-safety/ready-boston" [1]
+2017-01-02 05:03:40 URL:https://www.boston.gov/environment-and-energy/renew-boston [36409/36409] -> "../data/townSites2/Boston/www.boston.gov/environment-and-energy/renew-boston" [1]
+2017-01-02 05:03:41 URL:https://www.boston.gov/environment-and-energy/renew-boston-trust [24250] -> "../data/townSites2/Boston/www.boston.gov/environment-and-energy/renew-boston-trust" [1]
+2017-01-02 05:03:43 URL:https://www.boston.gov/departments/boston-bikes/roll-it-forward [30497] -> "../data/townSites2/Boston/www.boston.gov/civic-engagement/roll-it-forward" [1]
+2017-01-02 05:03:44 URL:https://www.boston.gov/civic-engagement/senior-companion-program [30967] -> "../data/townSites2/Boston/www.boston.gov/civic-engagement/senior-companion-program" [1]
+2017-01-02 05:03:46 URL:https://www.boston.gov/civic-engagement/senior-greeters [22645] -> "../data/townSites2/Boston/www.boston.gov/civic-engagement/senior-greeters" [1]
+2017-01-02 05:03:47 URL:https://www.boston.gov/finance/senior-property-tax-work-program [26554] -> "../data/townSites2/Boston/www.boston.gov/finance/senior-property-tax-work-program" [1]
+2017-01-02 05:03:48 URL:https://www.boston.gov/education/sister-cities [39403/39403] -> "../data/townSites2/Boston/www.boston.gov/education/sister-cities" [1]
+2017-01-02 05:03:50 URL:https://www.boston.gov/innovation-and-technology/smart-streets [36310] -> "../data/townSites2/Boston/www.boston.gov/innovation-and-technology/smart-streets" [1]
+2017-01-02 05:03:51 URL:https://www.boston.gov/economic-development/storefront-improvements [24050] -> "../data/townSites2/Boston/www.boston.gov/economic-development/storefront-improvements" [1]
+2017-01-02 05:03:52 URL:https://www.boston.gov/innovation-and-technology/summer-fellowship [29500] -> "../data/townSites2/Boston/www.boston.gov/innovation-and-technology/summer-fellowship" [1]
+2017-01-02 05:03:53 URL:https://www.boston.gov/health-and-human-services/summer-programs-and-events-bcyf [33499] -> "../data/townSites2/Boston/www.boston.gov/health-and-human-services/summer-programs-and-events-bcyf" [1]
+2017-01-02 05:03:54 URL:https://www.boston.gov/housing/supportive-housing [33792] -> "../data/townSites2/Boston/www.boston.gov/housing/supportive-housing" [1]
+2017-01-02 05:03:55 URL:https://www.boston.gov/health-and-human-services/teen-programs-and-events-bcyf [39068] -> "../data/townSites2/Boston/www.boston.gov/health-and-human-services/teen-programs-and-events-bcyf" [1]
+2017-01-02 05:03:56 URL:https://www.boston.gov/health-and-human-services/urban-farming-city [47027] -> "../data/townSites2/Boston/www.boston.gov/health-and-human-services/urban-farming-city" [1]
+2017-01-02 05:03:58 URL:https://www.boston.gov/environment-and-energy/urban-wilds-initiative [38018/38018] -> "../data/townSites2/Boston/www.boston.gov/environment-and-energy/urban-wilds-initiative" [1]
+2017-01-02 05:04:01 URL:https://www.boston.gov/departments/boston-bikes/women-bike [35343/35343] -> "../data/townSites2/Boston/www.boston.gov/civic-engagement/women-bike" [1]
+2017-01-02 05:04:02 URL:https://www.boston.gov/economic-development/women-entrepreneurs-boston [23191] -> "../data/townSites2/Boston/www.boston.gov/economic-development/women-entrepreneurs-boston" [1]
+2017-01-02 05:04:04 URL:https://www.boston.gov/civic-engagement/womens-commission [52931/52931] -> "../data/townSites2/Boston/www.boston.gov/civic-engagement/womens-commission" [1]
+2017-01-02 05:04:05 URL:https://www.boston.gov/civic-engagement/womens-workforce-council [40034] -> "../data/townSites2/Boston/www.boston.gov/civic-engagement/womens-workforce-council" [1]
+2017-01-02 05:04:07 URL:https://www.boston.gov/departments/boston-bikes/youth-cycling-program [50874] -> "../data/townSites2/Boston/www.boston.gov/education/youth-cycling-program" [1]
+2017-01-02 05:04:09 URL:https://www.boston.gov/health-and-human-services/youth-employment-programs [34249/34249] -> "../data/townSites2/Boston/www.boston.gov/health-and-human-services/youth-employment-programs" [1]
+2017-01-02 05:04:10 URL:https://www.boston.gov/guides [29068/29068] -> "../data/townSites2/Boston/www.boston.gov/node/841" [1]
+2017-01-02 05:04:11 URL:https://www.boston.gov/buying-and-owning-home [62463] -> "../data/townSites2/Boston/www.boston.gov/buying-and-owning-home" [1]
+2017-01-02 05:04:12 URL:https://www.boston.gov/contracting-city [49275] -> "../data/townSites2/Boston/www.boston.gov/contracting-city" [1]
+2017-01-02 05:04:13 URL:https://www.boston.gov/getting-around-boston [57845] -> "../data/townSites2/Boston/www.boston.gov/getting-around-boston" [1]
+2017-01-02 05:04:16 URL:https://www.boston.gov/getting-involved [50262/50262] -> "../data/townSites2/Boston/www.boston.gov/getting-involved" [1]
+2017-01-02 05:04:17 URL:https://www.boston.gov/having-car-city [43299] -> "../data/townSites2/Boston/www.boston.gov/having-car-city" [1]
+2017-01-02 05:04:18 URL:https://www.boston.gov/low-income-resources [71076] -> "../data/townSites2/Boston/www.boston.gov/low-income-resources" [1]
+2017-01-02 05:04:19 URL:https://www.boston.gov/moving [46502/46502] -> "../data/townSites2/Boston/www.boston.gov/moving" [1]
+2017-01-02 05:04:20 URL:https://www.boston.gov/starting-business [49096/49096] -> "../data/townSites2/Boston/www.boston.gov/starting-business" [1]
+2017-01-02 05:04:22 URL:https://www.boston.gov/news [119897/119897] -> "../data/townSites2/Boston/www.boston.gov/node/1401" [1]
+2017-01-02 05:04:23 URL:https://www.boston.gov/departments/neighborhood-development [93039] -> "../data/townSites2/Boston/www.boston.gov/departments/neighborhood-development" [1]
+2017-01-02 05:04:24 URL: https://www.boston.gov/sites/default/files/department_icons/icons_neighborhood_development.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:04:24 URL: https://www.boston.gov/sites/default/files/department_icons/icons_city_council.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:04:25 URL:https://www.boston.gov/news/new-art-exhibitions-open-boston-city-hall-december [26541] -> "../data/townSites2/Boston/www.boston.gov/news/new-art-exhibitions-open-boston-city-hall-december" [1]
+2017-01-02 05:04:26 URL:https://www.boston.gov/departments/arts-and-culture [45076] -> "../data/townSites2/Boston/www.boston.gov/departments/arts-and-culture" [1]
+2017-01-02 05:04:26 URL: https://www.boston.gov/sites/default/files/department_icons/icons_arts.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:04:27 URL:https://www.boston.gov/news/bcyf-december-vacation-week-activities-offer-something-everyone [25266] -> "../data/townSites2/Boston/www.boston.gov/news/bcyf-december-vacation-week-activities-offer-something-everyone" [1]
+2017-01-02 05:04:28 URL:https://www.boston.gov/departments/boston-centers-youth-families [53996] -> "../data/townSites2/Boston/www.boston.gov/departments/boston-centers-youth-families" [1]
+2017-01-02 05:04:29 URL: https://www.boston.gov/sites/all/themes/custom/boston_public/dist/img/news-default-thumb.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:04:30 URL:https://www.boston.gov/news/join-l-street-brownies-annual-new-year%E2%80%99s-day-plunge [24531] -> "../data/townSites2/Boston/www.boston.gov/news/join-l-street-brownies-annual-new-yearâ%80%99s-day-plunge" [1]
+2017-01-02 05:04:31 URL:https://www.boston.gov/news/city-announces-advisory-committee-housing-innovation-competition [26922] -> "../data/townSites2/Boston/www.boston.gov/news/city-announces-advisory-committee-housing-innovation-competition" [1]
+2017-01-02 05:04:31 URL:https://www.boston.gov/departments/new-urban-mechanics [33640] -> "../data/townSites2/Boston/www.boston.gov/departments/new-urban-mechanics" [1]
+2017-01-02 05:04:32 URL: https://www.boston.gov/sites/default/files/department_icons/icons_new_urban_mechanics.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:04:33 URL:https://www.boston.gov/news/mayor-walsh-issues-tips-ahead-bitterly-cold-weather [33225] -> "../data/townSites2/Boston/www.boston.gov/news/mayor-walsh-issues-tips-ahead-bitterly-cold-weather" [1]
+2017-01-02 05:04:33 URL: https://www.boston.gov/sites/default/files/department_icons/icons_mayor.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:04:34 URL:https://www.boston.gov/news/city-reminds-residents-about-marijuana-rules-dec-15-legalization [25922] -> "../data/townSites2/Boston/www.boston.gov/news/city-reminds-residents-about-marijuana-rules-dec-15-legalization" [1]
+2017-01-02 05:04:35 URL:https://www.boston.gov/news/city-boston-boston-university-and-project-place-launch-new-partnership [29234] -> "../data/townSites2/Boston/www.boston.gov/news/city-boston-boston-university-and-project-place-launch-new-partnership" [1]
+2017-01-02 05:04:36 URL:https://www.boston.gov/departments/public-health-commission [23210] -> "../data/townSites2/Boston/www.boston.gov/departments/public-health-commission" [1]
+2017-01-02 05:04:36 URL: https://www.boston.gov/sites/default/files/department_icons/icons_public_safety.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:04:37 URL:https://www.boston.gov/news/whittier-street-housing-development-awarded-30-million-grant [26659] -> "../data/townSites2/Boston/www.boston.gov/news/whittier-street-housing-development-awarded-30-million-grant" [1]
+2017-01-02 05:04:38 URL:https://www.boston.gov/news/what%E2%80%99s-next-climate-ready-boston [30164] -> "../data/townSites2/Boston/www.boston.gov/news/whatâ%80%99s-next-climate-ready-boston" [1]
+2017-01-02 05:04:39 URL:https://www.boston.gov/news/traffic-advisory-december-8-10-and-11-2016 [25487] -> "../data/townSites2/Boston/www.boston.gov/news/traffic-advisory-december-8-10-and-11-2016" [1]
+2017-01-02 05:04:40 URL:https://www.boston.gov/news/climate-ready-boston-releases-report-prepare-city-effects-climate-change [35116/35116] -> "../data/townSites2/Boston/www.boston.gov/news/climate-ready-boston-releases-report-prepare-city-effects-climate-change" [1]
+2017-01-02 05:04:42 URL:https://www.boston.gov/news/mayor-walsh-breaks-ground-redevelopment-orient-heights-east-boston [35588/35588] -> "../data/townSites2/Boston/www.boston.gov/news/mayor-walsh-breaks-ground-redevelopment-orient-heights-east-boston" [1]
+2017-01-02 05:04:44 URL:https://www.boston.gov/news/mayor-walshs-fourth-annual-fair-housing-art-contest [35341/35341] -> "../data/townSites2/Boston/www.boston.gov/news/mayor-walshs-fourth-annual-fair-housing-art-contest" [1]
+2017-01-02 05:04:46 URL:https://www.boston.gov/news/25-ways-beat-holiday-stress [32698/32698] -> "../data/townSites2/Boston/www.boston.gov/news/25-ways-beat-holiday-stress" [1]
+2017-01-02 05:04:48 URL:https://www.boston.gov/news/mayor-walsh-signs-cable-tv-license-bringing-verizon-boston [29553/29553] -> "../data/townSites2/Boston/www.boston.gov/news/mayor-walsh-signs-cable-tv-license-bringing-verizon-boston" [1]
+2017-01-02 05:04:50 URL:https://www.boston.gov/departments/broadband-and-cable [47788/47788] -> "../data/townSites2/Boston/www.boston.gov/departments/broadband-and-cable" [1]
+2017-01-02 05:04:50 URL: https://www.boston.gov/sites/default/files/department_icons/icons_cable.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:04:51 URL:https://www.boston.gov/news/mayor-walsh-announces-proposal-provide-tax-relief-boston-homeowners [24291] -> "../data/townSites2/Boston/www.boston.gov/news/mayor-walsh-announces-proposal-provide-tax-relief-boston-homeowners" [1]
+2017-01-02 05:04:52 URL:https://www.boston.gov/departments/press-office [33663/33663] -> "../data/townSites2/Boston/www.boston.gov/departments/press-office" [1]
+2017-01-02 05:04:53 URL:https://www.boston.gov/news/know-your-rights-case-fire [30905] -> "../data/townSites2/Boston/www.boston.gov/news/know-your-rights-case-fire" [1]
+2017-01-02 05:04:55 URL:https://www.boston.gov/news/mayor-walsh-anounces-spark-impact-awards-winners [29750/29750] -> "../data/townSites2/Boston/www.boston.gov/news/mayor-walsh-anounces-spark-impact-awards-winners" [1]
+2017-01-02 05:04:56 URL:https://www.boston.gov/news/mayor-walsh-files-jim-brooks-community-stabilization-act [26356] -> "../data/townSites2/Boston/www.boston.gov/news/mayor-walsh-files-jim-brooks-community-stabilization-act" [1]
+2017-01-02 05:04:57 URL:https://www.boston.gov/news/troops-fitness-offers-exercise-boston-parks [23796] -> "../data/townSites2/Boston/www.boston.gov/news/troops-fitness-offers-exercise-boston-parks" [1]
+2017-01-02 05:04:58 URL:https://www.boston.gov/news/bostongov-now-official-record-public-meeting-information [29323/29323] -> "../data/townSites2/Boston/www.boston.gov/news/bostongov-now-official-record-public-meeting-information" [1]
+2017-01-02 05:04:59 URL:https://www.boston.gov/departments/innovation-and-technology [48391] -> "../data/townSites2/Boston/www.boston.gov/departments/innovation-and-technology" [1]
+2017-01-02 05:05:00 URL: https://www.boston.gov/sites/default/files/department_icons/icons_doit.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:01 URL:https://www.boston.gov/news/mayor-walsh-announces-performance-parking-pilot-program [28069] -> "../data/townSites2/Boston/www.boston.gov/news/mayor-walsh-announces-performance-parking-pilot-program" [1]
+2017-01-02 05:05:02 URL:https://www.boston.gov/news/expansion-sought-acoustic-main-help-boost-main-streets-districts [30016/30016] -> "../data/townSites2/Boston/www.boston.gov/news/expansion-sought-acoustic-main-help-boost-main-streets-districts" [1]
+2017-01-02 05:05:03 URL:https://www.boston.gov/news/bostons-new-default-speed-limit-25-mph-effective-jan-9-2017 [26668] -> "../data/townSites2/Boston/www.boston.gov/news/bostons-new-default-speed-limit-25-mph-effective-jan-9-2017" [1]
+2017-01-02 05:05:04 URL:https://www.boston.gov/news/traffic-advisory-chinatown [22203] -> "../data/townSites2/Boston/www.boston.gov/news/traffic-advisory-chinatown" [1]
+2017-01-02 05:05:06 URL:https://www.boston.gov/news/mayor-walsh-files-boston-residents-jobs-policy-update [31099/31099] -> "../data/townSites2/Boston/www.boston.gov/news/mayor-walsh-files-boston-residents-jobs-policy-update" [1]
+2017-01-02 05:05:07 URL:https://www.boston.gov/departments/economic-development [47650] -> "../data/townSites2/Boston/www.boston.gov/departments/economic-development" [1]
+2017-01-02 05:05:07 URL: https://www.boston.gov/sites/default/files/department_icons/icons_economic_development.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:08 URL:https://www.boston.gov/news/city-boston-awarded-50000-substance-use-disorder-assessment [27062] -> "../data/townSites2/Boston/www.boston.gov/news/city-boston-awarded-50000-substance-use-disorder-assessment" [1]
+2017-01-02 05:05:09 URL:https://www.boston.gov/news/mayor-walsh-announces-departure-public-works-commissioner [24345] -> "../data/townSites2/Boston/www.boston.gov/news/mayor-walsh-announces-departure-public-works-commissioner" [1]
+2017-01-02 05:05:10 URL:https://www.boston.gov/departments/public-works [58164] -> "../data/townSites2/Boston/www.boston.gov/departments/public-works.1" [1]
+2017-01-02 05:05:11 URL: https://www.boston.gov/sites/default/files/department_icons/icons_public_works.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:13 URL:https://www.boston.gov/news/mayor-walsh-launches-5onmain-challenge [28735/28735] -> "../data/townSites2/Boston/www.boston.gov/news/mayor-walsh-launches-5onmain-challenge" [1]
+2017-01-02 05:05:13 URL:https://www.boston.gov/news/mayor-walsh-chinatown-community-celebrate-oxford-ping-opening [27270] -> "../data/townSites2/Boston/www.boston.gov/news/mayor-walsh-chinatown-community-celebrate-oxford-ping-opening" [1]
+2017-01-02 05:05:14 URL:https://www.boston.gov/news/results-bostons-safest-driver-competition-announced [25335] -> "../data/townSites2/Boston/www.boston.gov/news/results-bostons-safest-driver-competition-announced" [1]
+2017-01-02 05:05:15 URL:https://www.boston.gov/news/interview-doug-dimartile [28714] -> "../data/townSites2/Boston/www.boston.gov/news/interview-doug-dimartile" [1]
+2017-01-02 05:05:16 URL:https://www.boston.gov/news/imagine-boston-2030-week-engage-residents-draft-strategic-plan [30992] -> "../data/townSites2/Boston/www.boston.gov/news/imagine-boston-2030-week-engage-residents-draft-strategic-plan" [1]
+2017-01-02 05:05:17 URL:https://www.boston.gov/news/mayor-walsh-hosts-community-discussion-about-racism-boston [36118] -> "../data/townSites2/Boston/www.boston.gov/news/mayor-walsh-hosts-community-discussion-about-racism-boston" [1]
+2017-01-02 05:05:20 URL:https://www.boston.gov/departments/resilience-and-racial-equity [53267/53267] -> "../data/townSites2/Boston/www.boston.gov/departments/resilience-and-racial-equity" [1]
+2017-01-02 05:05:20 URL: https://www.boston.gov/sites/default/files/department-icon-10-2016/icons_archives_resilience.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:22 URL:https://www.boston.gov/news/call-artists-north-square-public-art-project [32667/32667] -> "../data/townSites2/Boston/www.boston.gov/news/call-artists-north-square-public-art-project" [1]
+2017-01-02 05:05:23 URL:https://www.boston.gov/news/city-boston-partners-nutonomy-begin-testing-autonomous-vehicles [29325] -> "../data/townSites2/Boston/www.boston.gov/news/city-boston-partners-nutonomy-begin-testing-autonomous-vehicles" [1]
+2017-01-02 05:05:24 URL:https://www.boston.gov/news/mayor-walsh-announces-gowalktalk-will-establish-us-headquarters-boston [24395] -> "../data/townSites2/Boston/www.boston.gov/news/mayor-walsh-announces-gowalktalk-will-establish-us-headquarters-boston" [1]
+2017-01-02 05:05:25 URL:https://www.boston.gov/news/city-boston-state-partners-team-house-homeless-elders [30842] -> "../data/townSites2/Boston/www.boston.gov/news/city-boston-state-partners-team-house-homeless-elders" [1]
+2017-01-02 05:05:26 URL:https://www.boston.gov/news/mayor-walsh-announces-release-imagine-boston-2030-draft-plan-expand-opportunity-guide-strategic [31357] -> "../data/townSites2/Boston/www.boston.gov/news/mayor-walsh-announces-release-imagine-boston-2030-draft-plan-expand-opportunity-guide-strategic" [1]
+2017-01-02 05:05:27 URL:https://www.boston.gov/news/mayor-walsh-announces-finalists-2016-spark-impact-awards [27337] -> "../data/townSites2/Boston/www.boston.gov/news/mayor-walsh-announces-finalists-2016-spark-impact-awards" [1]
+2017-01-02 05:05:28 URL:https://www.boston.gov/news/call-artists-alternative-space-pilot-project-announced [26619] -> "../data/townSites2/Boston/www.boston.gov/news/call-artists-alternative-space-pilot-project-announced" [1]
+2017-01-02 05:05:29 URL:https://www.boston.gov/news/traffic-advisory-saturday-november-19-2016 [24440] -> "../data/townSites2/Boston/www.boston.gov/news/traffic-advisory-saturday-november-19-2016" [1]
+2017-01-02 05:05:30 URL:https://www.boston.gov/news/mayor-walsh-files-ordinance-protect-worker-safety-boston [23945] -> "../data/townSites2/Boston/www.boston.gov/news/mayor-walsh-files-ordinance-protect-worker-safety-boston" [1]
+2017-01-02 05:05:32 URL:https://www.boston.gov/news/creating-innovative-software-bostons-way-home [34230/34230] -> "../data/townSites2/Boston/www.boston.gov/news/creating-innovative-software-bostons-way-home" [1]
+2017-01-02 05:05:34 URL:https://www.boston.gov/news/mayor-walsh-celebrates-veterans-day-grand-opening [29421/29421] -> "../data/townSites2/Boston/www.boston.gov/news/mayor-walsh-celebrates-veterans-day-grand-opening" [1]
+2017-01-02 05:05:35 URL:https://www.boston.gov/departments/veterans-services [36391] -> "../data/townSites2/Boston/www.boston.gov/departments/veterans-services" [1]
+2017-01-02 05:05:35 URL: https://www.boston.gov/sites/default/files/department_icons/icons_veterans.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:37 URL:https://www.boston.gov/events [139439/139439] -> "../data/townSites2/Boston/www.boston.gov/node/1426" [1]
+2017-01-02 05:05:38 URL:https://www.boston.gov/community-centers/bcyf-roche [36060] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-roche" [1]
+2017-01-02 05:05:39 URL:https://www.boston.gov/community-centers/bcyf-tobin [33813] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-tobin" [1]
+2017-01-02 05:05:40 URL:https://www.boston.gov/calendar/city-hall-go-cart-dorchester [27605] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-dorchester" [1]
+2017-01-02 05:05:40 URL: https://www.boston.gov/sites/default/files/document-file-10-2016/boston_residency_compliance_commission_-_jan_5.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:41 URL:https://www.boston.gov/calendar/boston-residency-compliance-commission-3 [24213] -> "../data/townSites2/Boston/www.boston.gov/calendar/boston-residency-compliance-commission-3" [1]
+2017-01-02 05:05:42 URL:https://www.boston.gov/calendar/city-hall-go-cart-east-boston-0 [27620] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-east-boston-0" [1]
+2017-01-02 05:05:43 URL:https://www.boston.gov/calendar/city-hall-go-cart-charlestown-0 [24964/24964] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-charlestown-0" [1]
+2017-01-02 05:05:44 URL:https://www.boston.gov/calendar/community-housing-clinic [26910] -> "../data/townSites2/Boston/www.boston.gov/calendar/community-housing-clinic" [1]
+2017-01-02 05:05:46 URL:https://www.boston.gov/calendar/city-hall-go-cart-beacon-hill [32084/32084] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-beacon-hill" [1]
+2017-01-02 05:05:47 URL:https://www.boston.gov/calendar/city-hall-go-cart-south-end [32069/32069] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-south-end" [1]
+2017-01-02 05:05:49 URL:https://www.boston.gov/calendar/city-hall-go-cart-jamaica-plain [32106/32106] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-jamaica-plain" [1]
+2017-01-02 05:05:51 URL:https://www.boston.gov/calendar/city-hall-go-cart-roslindale [32064/32064] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-roslindale" [1]
+2017-01-02 05:05:53 URL:https://www.boston.gov/calendar/city-hall-go-cart-brighton [32054/32054] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-brighton" [1]
+2017-01-02 05:05:54 URL:https://www.boston.gov/calendar/city-hall-go-cart-back-bay-0 [32069/32069] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-back-bay-0" [1]
+2017-01-02 05:05:55 URL:https://www.boston.gov/calendar/city-hall-go-cart-roxbury-0 [27258] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-roxbury-0" [1]
+2017-01-02 05:05:57 URL:https://www.boston.gov/calendar/city-hall-go-cart-south-boston [32780/32780] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-south-boston" [1]
+2017-01-02 05:05:57 URL: https://www.boston.gov/sites/default/files/document-file-12-2016/12282016142553.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:05:59 URL:https://www.boston.gov/calendar/boston-arts-academy [29004/29004] -> "../data/townSites2/Boston/www.boston.gov/calendar/boston-arts-academy" [1]
+2017-01-02 05:06:00 URL:https://www.boston.gov/community-centers/bcyf-jacksonmann [35971] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-jacksonmann" [1]
+2017-01-02 05:06:01 URL:https://www.boston.gov/calendar/city-hall-go-cart-allston [32675/32675] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-allston" [1]
+2017-01-02 05:06:03 URL:https://www.boston.gov/calendar/city-hall-go-cart-mattapan [31094/31094] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-mattapan" [1]
+2017-01-02 05:06:05 URL:https://www.boston.gov/calendar/city-hall-go-cart-west-roxbury [33000/33000] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-west-roxbury" [1]
+2017-01-02 05:06:07 URL:https://www.boston.gov/calendar/city-hall-go-cart-hyde-park [32056/32056] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-hyde-park" [1]
+2017-01-02 05:06:07 URL:https://www.boston.gov/calendar/city-hall-go-cart-roxbury-1 [27586] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-roxbury-1" [1]
+2017-01-02 05:06:09 URL:https://www.boston.gov/calendar/city-hall-go-cart-dorchester-0 [32081/32081] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-dorchester-0" [1]
+2017-01-02 05:06:11 URL:https://www.boston.gov/calendar/city-hall-go-cart-east-boston [32083/32083] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-east-boston" [1]
+2017-01-02 05:06:12 URL:https://www.boston.gov/community-centers/bcyf-charlestown [38390] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-charlestown" [1]
+2017-01-02 05:06:14 URL:https://www.boston.gov/calendar/city-hall-go-cart-charlestown [32702/32702] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-charlestown" [1]
+2017-01-02 05:06:14 URL:https://www.boston.gov/community-centers/bcyf-quincy [40008] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-quincy" [1]
+2017-01-02 05:06:15 URL:https://www.boston.gov/calendar/city-hall-go-cart-chinatown [28233] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-chinatown" [1]
+2017-01-02 05:06:17 URL:https://www.boston.gov/calendar/city-hall-go-cart-south-end-0 [32080/32080] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-south-end-0" [1]
+2017-01-02 05:06:19 URL:https://www.boston.gov/calendar/city-hall-go-cart-roslindale-0 [32078/32078] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-roslindale-0" [1]
+2017-01-02 05:06:20 URL:https://www.boston.gov/calendar/city-hall-go-cart-jamaica-plain-0 [32113/32113] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-jamaica-plain-0" [1]
+2017-01-02 05:06:22 URL:https://www.boston.gov/calendar/city-hall-go-cart-brighton-0 [32066/32066] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-brighton-0" [1]
+2017-01-02 05:06:24 URL:https://www.boston.gov/calendar/city-hall-go-cart-back-bay [32061/32061] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-back-bay" [1]
+2017-01-02 05:06:25 URL:https://www.boston.gov/calendar/city-hall-go-cart-mattapan-0 [32065/32065] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-mattapan-0" [1]
+2017-01-02 05:06:26 URL:https://www.boston.gov/community-centers/bcyf-condon [38115] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-condon" [1]
+2017-01-02 05:06:28 URL:https://www.boston.gov/calendar/city-hall-go-cart-south-boston-0 [32719/32719] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-south-boston-0" [1]
+2017-01-02 05:06:30 URL:https://www.boston.gov/calendar/city-hall-go-cart-allston-0 [32046/32046] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-allston-0" [1]
+2017-01-02 05:06:31 URL:https://www.boston.gov/calendar/city-hall-go-cart-dorchester-1 [32082/32082] -> "../data/townSites2/Boston/www.boston.gov/calendar/city-hall-go-cart-dorchester-1" [1]
+2017-01-02 05:06:32 URL: https://www.boston.gov/sites/default/files/document-file-11-2016/familygym_201617.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:06:33 URL:https://www.boston.gov/calendar/family-gym-bcyf-blackstone [30943/30943] -> "../data/townSites2/Boston/www.boston.gov/calendar/family-gym-bcyf-blackstone" [1]
+2017-01-02 05:06:34 URL: https://www.boston.gov/sites/default/files/experiential_icons_search_1.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:06:34 URL: https://www.boston.gov/sites/default/files/experiential_icons-cal_0.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:06:35 URL: https://www.boston.gov/sites/default/files/experiential_icons_temporary_public_art.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:06:37 URL:https://www.boston.gov/departments [54019/54019] -> "../data/townSites2/Boston/www.boston.gov/node/1796" [1]
+2017-01-02 05:06:39 URL:https://www.boston.gov/departments/analytics-team [45681/45681] -> "../data/townSites2/Boston/www.boston.gov/departments/analytics-team" [1]
+2017-01-02 05:06:39 URL: https://www.boston.gov/sites/default/files/department-icon-10-2016/department_icons_new_analytics.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:06:40 URL:https://www.boston.gov/departments/animal-care-and-control [43297] -> "../data/townSites2/Boston/www.boston.gov/departments/animal-care-and-control.1" [1]
+2017-01-02 05:06:41 URL: https://www.boston.gov/sites/default/files/department_icons/icons_animal_care.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:06:41 URL:https://www.boston.gov/departments/archaeology [38407] -> "../data/townSites2/Boston/www.boston.gov/departments/archaeology" [1]
+2017-01-02 05:06:42 URL:https://www.boston.gov/departments/archives-and-records-management [36840] -> "../data/townSites2/Boston/www.boston.gov/departments/archives-and-records-management" [1]
+2017-01-02 05:06:43 URL:https://www.boston.gov/departments/assessing [51101/51101] -> "../data/townSites2/Boston/www.boston.gov/departments/assessing.1" [1]
+2017-01-02 05:06:43 URL: https://www.boston.gov/sites/default/files/department-icon-07-2016/icons_isd.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:06:44 URL:https://www.boston.gov/departments/auditing [40406] -> "../data/townSites2/Boston/www.boston.gov/departments/auditing" [1]
+2017-01-02 05:06:45 URL: https://www.boston.gov/sites/default/files/department_icons/icons_auditing.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:06:46 URL:https://www.boston.gov/departments/bos311 [26075/26075] -> "../data/townSites2/Boston/www.boston.gov/departments/bos311" [1]
+2017-01-02 05:06:47 URL: https://www.boston.gov/sites/default/files/department_icons/icons_engagment_-_311_-_ons.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:06:47 URL:https://www.boston.gov/departments/boston-bikes [47023] -> "../data/townSites2/Boston/www.boston.gov/departments/boston-bikes" [1]
+2017-01-02 05:06:48 URL: https://www.boston.gov/sites/default/files/department_icons/icons_bikes_bikes_0.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:06:49 URL:https://www.boston.gov/departments/budget [91807] -> "../data/townSites2/Boston/www.boston.gov/departments/budget" [1]
+2017-01-02 05:06:50 URL: https://www.boston.gov/sites/default/files/department_icons/icons_budget_0.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:06:50 URL:https://www.boston.gov/departments/city-hall-go [44258] -> "../data/townSites2/Boston/www.boston.gov/departments/city-hall-go" [1]
+2017-01-02 05:06:52 URL:https://www.boston.gov/departments/consumer-affairs-and-licensing [51709/51709] -> "../data/townSites2/Boston/www.boston.gov/departments/consumer-affairs-and-licensing" [1]
+2017-01-02 05:06:53 URL: https://www.boston.gov/sites/default/files/department_icons/icons_consumer_affairs_0.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:06:54 URL:https://www.boston.gov/departments/digital-team [31271] -> "../data/townSites2/Boston/www.boston.gov/departments/digital-team" [1]
+2017-01-02 05:06:54 URL: https://www.boston.gov/sites/default/files/department-icon-08-2016/icons_digital.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:06:55 URL:https://www.boston.gov/departments/disabilities-commission [36550] -> "../data/townSites2/Boston/www.boston.gov/departments/disabilities-commission" [1]
+2017-01-02 05:06:56 URL: https://www.boston.gov/sites/default/files/department_icons/icons_disabilities.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:06:57 URL:https://www.boston.gov/departments/diversity [33773/33773] -> "../data/townSites2/Boston/www.boston.gov/departments/diversity" [1]
+2017-01-02 05:06:58 URL: https://www.boston.gov/sites/default/files/department-icon-08-2016/icons_labor_relations.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:06:59 URL:https://www.boston.gov/departments/education-cabinet [30808] -> "../data/townSites2/Boston/www.boston.gov/departments/education-cabinet" [1]
+2017-01-02 05:06:59 URL: https://www.boston.gov/sites/default/files/department_icons/icons_youth_empowerment.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:00 URL:https://www.boston.gov/departments/elderly-commission [46700] -> "../data/townSites2/Boston/www.boston.gov/departments/elderly-commission" [1]
+2017-01-02 05:07:01 URL: https://www.boston.gov/sites/default/files/department_icons/icons_elections.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:02 URL:https://www.boston.gov/departments/emergency-medical-services [52346] -> "../data/townSites2/Boston/www.boston.gov/departments/emergency-medical-services" [1]
+2017-01-02 05:07:02 URL: https://www.boston.gov/sites/default/files/department_icons/icons_ems_0.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:03 URL:https://www.boston.gov/departments/fire-operations [47659] -> "../data/townSites2/Boston/www.boston.gov/departments/fire-operations" [1]
+2017-01-02 05:07:05 URL:https://www.boston.gov/departments/fire-prevention [48709/48709] -> "../data/townSites2/Boston/www.boston.gov/departments/fire-prevention" [1]
+2017-01-02 05:07:05 URL: https://www.boston.gov/sites/default/files/department-icon-10-2016/department_icons_new_fire_prevention.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:06 URL:https://www.boston.gov/departments/food-initiatives [41560] -> "../data/townSites2/Boston/www.boston.gov/departments/food-initiatives" [1]
+2017-01-02 05:07:07 URL: https://www.boston.gov/sites/default/files/department_icons/deapartment_icons_food.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:07 URL:https://www.boston.gov/departments/housing-authority [23993] -> "../data/townSites2/Boston/www.boston.gov/departments/housing-authority" [1]
+2017-01-02 05:07:08 URL:https://www.boston.gov/departments/immigrant-advancement [39991] -> "../data/townSites2/Boston/www.boston.gov/departments/immigrant-advancement" [1]
+2017-01-02 05:07:09 URL: https://www.boston.gov/sites/default/files/department_icons/icons_new_bostonians.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:10 URL:https://www.boston.gov/departments/inspectional-services [85157] -> "../data/townSites2/Boston/www.boston.gov/departments/inspectional-services" [1]
+2017-01-02 05:07:10 URL: https://www.boston.gov/sites/default/files/department_icons/department_icons_isd.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:13 URL:https://www.boston.gov/departments/intergovernmental-relations [77282/77282] -> "../data/townSites2/Boston/www.boston.gov/departments/intergovernmental-relations" [1]
+2017-01-02 05:07:14 URL:https://www.boston.gov/departments/labor-relations [62766] -> "../data/townSites2/Boston/www.boston.gov/departments/labor-relations" [1]
+2017-01-02 05:07:15 URL:https://www.boston.gov/departments/law [35705/35705] -> "../data/townSites2/Boston/www.boston.gov/departments/law" [1]
+2017-01-02 05:07:17 URL:https://www.boston.gov/departments/library [28137/28137] -> "../data/townSites2/Boston/www.boston.gov/departments/library" [1]
+2017-01-02 05:07:17 URL: https://www.boston.gov/sites/default/files/department_icons/icons_library.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:18 URL:https://www.boston.gov/departments/neighborhood-services [83854] -> "../data/townSites2/Boston/www.boston.gov/departments/neighborhood-services" [1]
+2017-01-02 05:07:19 URL: https://www.boston.gov/sites/default/files/department_icons/icons_blue_neighborhood_services.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:20 URL:https://www.boston.gov/departments/parking-clerk [44284] -> "../data/townSites2/Boston/www.boston.gov/departments/parking-clerk.1" [1]
+2017-01-02 05:07:20 URL: https://www.boston.gov/sites/default/files/department_icons/icons_parking.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:21 URL:https://www.boston.gov/departments/planning-development-agency [23327] -> "../data/townSites2/Boston/www.boston.gov/departments/planning-development-agency" [1]
+2017-01-02 05:07:21 URL: https://www.boston.gov/sites/default/files/department_icons/icons_bra.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:22 URL:https://www.boston.gov/departments/police [20282/20282] -> "../data/townSites2/Boston/www.boston.gov/departments/police" [1]
+2017-01-02 05:07:22 URL: https://www.boston.gov/sites/default/files/department_icons/icons_police.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:23 URL:https://www.boston.gov/departments/procurement [30358] -> "../data/townSites2/Boston/www.boston.gov/departments/procurement" [1]
+2017-01-02 05:07:24 URL: https://www.boston.gov/sites/default/files/department-icon-10-2016/icons_archives_procurement.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:24 URL:https://www.boston.gov/departments/property-management [33287] -> "../data/townSites2/Boston/www.boston.gov/departments/property-management" [1]
+2017-01-02 05:07:25 URL: https://www.boston.gov/sites/default/files/department_icons/icons_prop_management.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:26 URL:https://www.boston.gov/departments/public-facilities [26300] -> "../data/townSites2/Boston/www.boston.gov/departments/public-facilities" [1]
+2017-01-02 05:07:26 URL: https://www.boston.gov/sites/default/files/department-icon-10-2016/icons_archives_publicfacilities.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:28 URL:https://www.boston.gov/departments/public-safety [30276/30276] -> "../data/townSites2/Boston/www.boston.gov/departments/public-safety" [1]
+2017-01-02 05:07:28 URL: https://www.boston.gov/sites/default/files/department-icon-10-2016/department_icons_new_public_safty.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:29 URL:https://www.boston.gov/departments/registry [34232] -> "../data/townSites2/Boston/www.boston.gov/departments/registry.1" [1]
+2017-01-02 05:07:30 URL: https://www.boston.gov/sites/default/files/department_icons/icons_registry.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:31 URL:https://www.boston.gov/departments/retirement [42313] -> "../data/townSites2/Boston/www.boston.gov/departments/retirement" [1]
+2017-01-02 05:07:32 URL: https://www.boston.gov/sites/default/files/department_icons/icons_blue_retirement.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:33 URL:https://www.boston.gov/departments/small-business-development [33216] -> "../data/townSites2/Boston/www.boston.gov/departments/small-business-development" [1]
+2017-01-02 05:07:33 URL: https://www.boston.gov/sites/default/files/department-icon-10-2016/icons_archives_smallbusiness.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:34 URL:https://www.boston.gov/departments/tax-collection [34232] -> "../data/townSites2/Boston/www.boston.gov/departments/tax-collection.1" [1]
+2017-01-02 05:07:35 URL: https://www.boston.gov/sites/default/files/department-icon-10-2016/icons_archives_taxcollection.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:36 URL:https://www.boston.gov/departments/tourism-sports-and-entertainment [45514] -> "../data/townSites2/Boston/www.boston.gov/departments/tourism-sports-and-entertainment.1" [1]
+2017-01-02 05:07:36 URL: https://www.boston.gov/sites/default/files/department-icon-10-2016/icons_archives_tourism.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:37 URL:https://www.boston.gov/departments/treasury [44667] -> "../data/townSites2/Boston/www.boston.gov/departments/treasury" [1]
+2017-01-02 05:07:38 URL: https://www.boston.gov/sites/default/files/department-icon-10-2016/icons_archives_treasury.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:40 URL:https://www.boston.gov/departments/water-and-sewer-commission [28120/28120] -> "../data/townSites2/Boston/www.boston.gov/departments/water-and-sewer-commission" [1]
+2017-01-02 05:07:40 URL: https://www.boston.gov/sites/default/files/department_icons/icons_water_and_sewer.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:42 URL:https://www.boston.gov/departments/womens-advancement [43737/43737] -> "../data/townSites2/Boston/www.boston.gov/departments/womens-advancement" [1]
+2017-01-02 05:07:43 URL: https://www.boston.gov/sites/default/files/department_icons/icons_womens.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:44 URL:https://www.boston.gov/departments/workforce-development [28547/28547] -> "../data/townSites2/Boston/www.boston.gov/departments/workforce-development" [1]
+2017-01-02 05:07:45 URL: https://www.boston.gov/sites/default/files/department-icon-09-2016/icons_jobs_policy.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:47 URL:https://www.boston.gov/departments/mayors-office [71041/71041] -> "../data/townSites2/Boston/www.boston.gov/node/176" [1]
+2017-01-02 05:07:47 URL: https://www.boston.gov/sites/default/files/experiential_icons_mayor_greeting_letter_.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:48 URL: https://www.boston.gov/sites/default/files/experiential_icons_medical_registration__1.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:48 URL: https://www.boston.gov/sites/default/files/experiential_icons_mayor_proclamation_.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:49 URL:https://www.boston.gov/news/mayor-walshs-speech-greater-boston-chamber-commerce [43896] -> "../data/townSites2/Boston/www.boston.gov/news/mayor-walshs-speech-greater-boston-chamber-commerce" [1]
+2017-01-02 05:07:50 URL: https://www.boston.gov/sites/default/files/housing_a_changing_city-boston_2030_full_plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:07:51 URL:https://www.boston.gov/departments/public-health-commission/felix-arroyo [21660] -> "../data/townSites2/Boston/www.boston.gov/departments/public-health-commission/felix-arroyo" [1]
+2017-01-02 05:07:52 URL:https://www.boston.gov/departments/economic-development/john-barros [22319] -> "../data/townSites2/Boston/www.boston.gov/departments/economic-development/john-barros" [1]
+2017-01-02 05:07:53 URL:https://www.boston.gov/departments/environment/austin-blackmon [22407] -> "../data/townSites2/Boston/www.boston.gov/departments/environment/austin-blackmon" [1]
+2017-01-02 05:07:54 URL:https://www.boston.gov/departments/mayors-office/patrick-brophy [22563] -> "../data/townSites2/Boston/www.boston.gov/departments/mayors-office/patrick-brophy" [1]
+2017-01-02 05:07:54 URL:https://www.boston.gov/departments/arts-and-culture/julie-burros [18557/18557] -> "../data/townSites2/Boston/www.boston.gov/departments/arts-and-culture/julie-burros" [1]
+2017-01-02 05:07:56 URL:https://www.boston.gov/departments/schools/tommy-chang [24956/24956] -> "../data/townSites2/Boston/www.boston.gov/departments/schools/tommy-chang" [1]
+2017-01-02 05:07:57 URL:https://www.boston.gov/departments/neighborhood-development/sheila-dillon [27028/27028] -> "../data/townSites2/Boston/www.boston.gov/departments/neighborhood-development/sheila-dillon" [1]
+2017-01-02 05:07:59 URL:https://www.boston.gov/departments/education-cabinet/turahn-dorsey [26898/26898] -> "../data/townSites2/Boston/www.boston.gov/departments/education-cabinet/turahn-dorsey" [1]
+2017-01-02 05:08:00 URL:https://www.boston.gov/departments/police/william-evans [24881/24881] -> "../data/townSites2/Boston/www.boston.gov/departments/police/william-evans" [1]
+2017-01-02 05:08:01 URL:https://www.boston.gov/departments/emergency-management/rene-fielding [20495] -> "../data/townSites2/Boston/www.boston.gov/departments/emergency-management/rene-fielding" [1]
+2017-01-02 05:08:02 URL:https://www.boston.gov/departments/fire-operations/joseph-finn [23324] -> "../data/townSites2/Boston/www.boston.gov/departments/fire-operations/joseph-finn" [1]
+2017-01-02 05:08:03 URL:https://www.boston.gov/departments/innovation-and-technology/jascha-franklin-hodge [22267] -> "../data/townSites2/Boston/www.boston.gov/departments/innovation-and-technology/jascha-franklin-hodge" [1]
+2017-01-02 05:08:04 URL:https://www.boston.gov/departments/mayors-office/daniel-arrigg-koh [21758] -> "../data/townSites2/Boston/www.boston.gov/departments/mayors-office/daniel-arrigg-koh" [1]
+2017-01-02 05:08:05 URL:https://www.boston.gov/departments/mayors-office/joyce-linehan [22356] -> "../data/townSites2/Boston/www.boston.gov/departments/mayors-office/joyce-linehan" [1]
+2017-01-02 05:08:07 URL:https://www.boston.gov/departments/resilience-and-racial-equity/atyia-martin [26373/26373] -> "../data/townSites2/Boston/www.boston.gov/departments/resilience-and-racial-equity/atyia-martin" [1]
+2017-01-02 05:08:08 URL:https://www.boston.gov/departments/law/eugene-l-o%E2%80%99flaherty [22988] -> "../data/townSites2/Boston/www.boston.gov/departments/law/eugene-l-oâ%80%99flaherty" [1]
+2017-01-02 05:08:09 URL:https://www.boston.gov/departments/mayors-office/laura-oggeri [21531] -> "../data/townSites2/Boston/www.boston.gov/departments/mayors-office/laura-oggeri" [1]
+2017-01-02 05:08:10 URL:https://www.boston.gov/departments/transportation/chris-osgood [25857/25857] -> "../data/townSites2/Boston/www.boston.gov/departments/transportation/chris-osgood" [1]
+2017-01-02 05:08:11 URL:https://www.boston.gov/departments/neighborhood-services/jerome-smith [21939] -> "../data/townSites2/Boston/www.boston.gov/departments/neighborhood-services/jerome-smith" [1]
+2017-01-02 05:08:13 URL:https://www.boston.gov/departments/treasury/david-sweeney [25848/25848] -> "../data/townSites2/Boston/www.boston.gov/departments/treasury/david-sweeney" [1]
+2017-01-02 05:08:14 URL:https://www.boston.gov/departments/mayors-office/danielson-tavares [26660/26660] -> "../data/townSites2/Boston/www.boston.gov/departments/mayors-office/danielson-tavares" [1]
+2017-01-02 05:08:16 URL:https://www.boston.gov/departments/city-council [70922/70922] -> "../data/townSites2/Boston/www.boston.gov/node/91" [1]
+2017-01-02 05:08:17 URL:https://www.boston.gov/departments/city-council/how-city-council-enacts-laws [27959] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/how-city-council-enacts-laws" [1]
+2017-01-02 05:08:18 URL:https://www.boston.gov/departments/city-council/how-watch-city-council-hearing [26164] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/how-watch-city-council-hearing" [1]
+2017-01-02 05:08:19 URL: https://www.boston.gov/sites/default/files/experiential_icons_how_to_watch_a_city_council_hearing_0.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:08:20 URL:https://www.boston.gov/departments/city-council/how-testify-city-council-hearing [28769] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/how-testify-city-council-hearing" [1]
+2017-01-02 05:08:20 URL: https://www.boston.gov/sites/default/files/experiential_icons_testify.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:08:21 URL: https://www.boston.gov/sites/default/files/experiential_icons_who_is_my_city_councilor_2.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:08:21 URL: https://www.boston.gov/sites/default/files/experiential_icons_city_council_enacts_laws_1.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:08:23 URL:https://www.boston.gov/departments/city-clerk/posting-notices-public-meetings-and-hearings [29961/29961] -> "../data/townSites2/Boston/www.boston.gov/departments/city-clerk/posting-notices-public-meetings-and-hearings" [1]
+2017-01-02 05:08:25 URL:https://www.boston.gov/departments/city-council/rules-and-administration [37439/37439] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/rules-and-administration" [1]
+2017-01-02 05:08:25 URL: https://www.boston.gov/sites/default/files/hearing_tcm3-8364.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:08:26 URL:https://www.boston.gov/departments/city-council/arts-culture-and-special-events [34310] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/arts-culture-and-special-events" [1]
+2017-01-02 05:08:27 URL:https://www.boston.gov/departments/city-council/city-neighborhood-services-and-veteran-affairs [35243] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/city-neighborhood-services-and-veteran-affairs" [1]
+2017-01-02 05:08:28 URL:https://www.boston.gov/departments/city-council/education [33124] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/education" [1]
+2017-01-02 05:08:29 URL:https://www.boston.gov/departments/city-council/environment-and-sustainability [33377] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/environment-and-sustainability" [1]
+2017-01-02 05:08:31 URL:https://www.boston.gov/departments/city-council/government-operations [37493] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/government-operations" [1]
+2017-01-02 05:08:32 URL:https://www.boston.gov/departments/city-council/healthy-women-families-and-communities [34012] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/healthy-women-families-and-communities" [1]
+2017-01-02 05:08:34 URL:https://www.boston.gov/departments/city-council/homelessness-mental-health-and-recovery [38084/38084] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/homelessness-mental-health-and-recovery" [1]
+2017-01-02 05:08:35 URL:https://www.boston.gov/departments/city-council/housing-and-community-development [33632] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/housing-and-community-development" [1]
+2017-01-02 05:08:36 URL:https://www.boston.gov/departments/city-council/jobs-wages-and-workforce-development [34556] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/jobs-wages-and-workforce-development" [1]
+2017-01-02 05:08:37 URL:https://www.boston.gov/departments/city-council/parks-recreation-and-transportation [34593] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/parks-recreation-and-transportation" [1]
+2017-01-02 05:08:37 URL:https://www.boston.gov/departments/city-council/planning-and-development [38441] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/planning-and-development" [1]
+2017-01-02 05:08:40 URL:https://www.boston.gov/departments/city-council/public-safety-and-criminal-justice [42454/42454] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/public-safety-and-criminal-justice" [1]
+2017-01-02 05:08:41 URL:https://www.boston.gov/departments/city-council/ways-and-means [31057/31057] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/ways-and-means" [1]
+2017-01-02 05:08:42 URL:https://www.boston.gov/departments/city-council/whole [31686/31686] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/whole" [1]
+2017-01-02 05:08:44 URL:https://www.boston.gov/departments/city-council/status-black-and-latino-men-and-boys [37799/37799] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/status-black-and-latino-men-and-boys" [1]
+2017-01-02 05:08:45 URL:https://www.boston.gov/departments/city-council/special-committee-charter-reform [33329] -> "../data/townSites2/Boston/www.boston.gov/departments/city-council/special-committee-charter-reform" [1]
+2017-01-02 05:08:48 URL:https://www.boston.gov/departments/elections/results [366530] -> "../data/townSites2/Boston/www.boston.gov/node/1271" [1]
+2017-01-02 05:08:50 URL:https://www.boston.gov/departments/city-clerk [41905/41905] -> "../data/townSites2/Boston/www.boston.gov/node/136" [1]
+2017-01-02 05:08:51 URL:https://www.boston.gov/departments/city-clerk/city-clerk-services [65980] -> "../data/townSites2/Boston/www.boston.gov/departments/city-clerk/city-clerk-services" [1]
+2017-01-02 05:08:52 URL:https://www.boston.gov/departments/city-clerk/how-apply-business-certificate [38929/38929] -> "../data/townSites2/Boston/www.boston.gov/departments/city-clerk/how-apply-business-certificate" [1]
+2017-01-02 05:08:52 URL: https://www.boston.gov/sites/default/files/experiential_icons_city_council_enacts_laws_0.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:08:53 URL: https://www.boston.gov/sites/default/files/experiential_icons_search_license_1.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:08:54 URL:https://www.boston.gov/departments/city-clerk/how-file-medical-registration [32183] -> "../data/townSites2/Boston/www.boston.gov/departments/city-clerk/how-file-medical-registration" [1]
+2017-01-02 05:08:55 URL:https://www.boston.gov/departments/city-clerk/how-get-married-city-hall [29249] -> "../data/townSites2/Boston/www.boston.gov/departments/city-clerk/how-get-married-city-hall" [1]
+2017-01-02 05:08:56 URL:https://www.boston.gov/departments/city-clerk/how-file-domestic-partnership [31544] -> "../data/townSites2/Boston/www.boston.gov/departments/city-clerk/how-file-domestic-partnership" [1]
+2017-01-02 05:08:57 URL:https://www.boston.gov/departments/city-clerk/how-end-domestic-partnership [27466] -> "../data/townSites2/Boston/www.boston.gov/departments/city-clerk/how-end-domestic-partnership" [1]
+https://www.boston.gov/city-clerk/posting-notices-public-meetings-and-hearings:
+Remote file does not exist -- broken link!!!
+2017-01-02 05:08:58 URL:https://www.boston.gov/departments/city-clerk/how-become-boston-constable [31079] -> "../data/townSites2/Boston/www.boston.gov/departments/city-clerk/how-become-boston-constable" [1]
+2017-01-02 05:08:59 URL:https://www.boston.gov/departments/city-clerk/how-apply-host-raffle-or-bazaar [30085] -> "../data/townSites2/Boston/www.boston.gov/departments/city-clerk/how-apply-host-raffle-or-bazaar" [1]
+2017-01-02 05:09:01 URL:https://www.boston.gov/departments/elections [35860/35860] -> "../data/townSites2/Boston/www.boston.gov/node/131" [1]
+2017-01-02 05:09:02 URL:https://www.boston.gov/departments/elections/how-add-your-name-annual-census [29445] -> "../data/townSites2/Boston/www.boston.gov/departments/elections/how-add-your-name-annual-census" [1]
+2017-01-02 05:09:03 URL: https://www.boston.gov/sites/default/files/experiential_icons_census_0.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:09:04 URL:https://www.boston.gov/departments/elections/2017-election-calendar [26200/26200] -> "../data/townSites2/Boston/www.boston.gov/departments/elections/2017-election-calendar" [1]
+2017-01-02 05:09:05 URL:https://www.boston.gov/departments/elections/how-register-vote [36659] -> "../data/townSites2/Boston/www.boston.gov/departments/elections/how-register-vote" [1]
+2017-01-02 05:09:06 URL: https://www.boston.gov/sites/default/files/experiential_icons_vote.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:09:06 URL: https://www.boston.gov/sites/default/files/experiential_icons_ticket.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:09:08 URL:https://www.boston.gov/departments/elections/results [357046/357046] -> "../data/townSites2/Boston/www.boston.gov/departments/elections/results" [1]
+2017-01-02 05:09:08 URL:https://www.boston.gov/departments/elections/how-apply-become-poll-worker [34063] -> "../data/townSites2/Boston/www.boston.gov/departments/elections/how-apply-become-poll-worker" [1]
+2017-01-02 05:09:10 URL:https://www.boston.gov/news/mayor-walsh-issues-statements-ballot-questions-2-and-5 [22791] -> "../data/townSites2/Boston/www.boston.gov/news/mayor-walsh-issues-statements-ballot-questions-2-and-5" [1]
+2017-01-02 05:09:12 URL:https://www.boston.gov/news/city-announces-preparations-general-election-early-voting-stats [31385/31385] -> "../data/townSites2/Boston/www.boston.gov/news/city-announces-preparations-general-election-early-voting-stats" [1]
+2017-01-02 05:09:14 URL:https://www.boston.gov/news/spark-boston-invites-bostons-millennials-vote-us [31670/31670] -> "../data/townSites2/Boston/www.boston.gov/news/spark-boston-invites-bostons-millennials-vote-us" [1]
+2017-01-02 05:09:15 URL:https://www.boston.gov/news/city-boston-launches-early-voting-website-announces-schedule [33022/33022] -> "../data/townSites2/Boston/www.boston.gov/news/city-boston-launches-early-voting-website-announces-schedule" [1]
+2017-01-02 05:09:18 URL:https://www.boston.gov/cabinet-directory [48359/48359] -> "../data/townSites2/Boston/www.boston.gov/node/3311" [1]
+2017-01-02 05:09:20 URL:https://www.boston.gov/departments/womens-advancement [39639/39639] -> "../data/townSites2/Boston/www.boston.gov/departments/womenâ%80%99s-advancement" [1]
+2017-01-02 05:09:23 URL:https://www.boston.gov/departments/intergovernmental-relations [69148/69148] -> "../data/townSites2/Boston/www.boston.gov/departments/inter-governmental-relations" [1]
+2017-01-02 05:09:26 URL:https://www.boston.gov/departments/property-management [30442/30442] -> "../data/townSites2/Boston/www.boston.gov/departments/property-and-construction-management" [1]
+2017-01-02 05:09:27 URL:https://www.boston.gov/neighborhoods [33676/33676] -> "../data/townSites2/Boston/www.boston.gov/node/3616" [1]
+2017-01-02 05:09:29 URL:https://www.boston.gov/neighborhood/allston [37759] -> "../data/townSites2/Boston/www.boston.gov/neighborhood/allston" [1]
+2017-01-02 05:09:30 URL:https://www.boston.gov/neighborhood/back-bay [37813] -> "../data/townSites2/Boston/www.boston.gov/neighborhood/back-bay" [1]
+2017-01-02 05:09:31 URL:https://www.boston.gov/neighborhood/bay-village [34467] -> "../data/townSites2/Boston/www.boston.gov/neighborhood/bay-village" [1]
+2017-01-02 05:09:32 URL:https://www.boston.gov/neighborhood/beacon-hill [33166/33166] -> "../data/townSites2/Boston/www.boston.gov/neighborhood/beacon-hill" [1]
+2017-01-02 05:09:33 URL:https://www.boston.gov/neighborhood/brighton [37665] -> "../data/townSites2/Boston/www.boston.gov/neighborhood/brighton" [1]
+2017-01-02 05:09:34 URL:https://www.boston.gov/neighborhood/charlestown [45334] -> "../data/townSites2/Boston/www.boston.gov/neighborhood/charlestown" [1]
+2017-01-02 05:09:35 URL:https://www.boston.gov/neighborhood/chinatown-leather-district [34993/34993] -> "../data/townSites2/Boston/www.boston.gov/neighborhood/chinatown-leather-district" [1]
+2017-01-02 05:09:36 URL:https://www.boston.gov/neighborhood/dorchester [48051] -> "../data/townSites2/Boston/www.boston.gov/neighborhood/dorchester" [1]
+2017-01-02 05:09:37 URL:https://www.boston.gov/neighborhood/downtown [34954/34954] -> "../data/townSites2/Boston/www.boston.gov/neighborhood/downtown" [1]
+2017-01-02 05:09:38 URL:https://www.boston.gov/neighborhood/east-boston [39309] -> "../data/townSites2/Boston/www.boston.gov/neighborhood/east-boston" [1]
+2017-01-02 05:09:39 URL:https://www.boston.gov/neighborhood/fenway-kenmore [37003] -> "../data/townSites2/Boston/www.boston.gov/neighborhood/fenway-kenmore" [1]
+2017-01-02 05:09:40 URL:https://www.boston.gov/neighborhood/hyde-park [35717/35717] -> "../data/townSites2/Boston/www.boston.gov/neighborhood/hyde-park" [1]
+2017-01-02 05:09:41 URL:https://www.boston.gov/neighborhood/jamaica-plain [44640] -> "../data/townSites2/Boston/www.boston.gov/neighborhood/jamaica-plain" [1]
+2017-01-02 05:09:42 URL:https://www.boston.gov/neighborhood/mattapan [43326] -> "../data/townSites2/Boston/www.boston.gov/neighborhood/mattapan" [1]
+2017-01-02 05:09:45 URL:https://www.boston.gov/neighborhood/mid-dorchester [47970/47970] -> "../data/townSites2/Boston/www.boston.gov/neighborhood/mid-dorchester" [1]
+2017-01-02 05:09:46 URL:https://www.boston.gov/neighborhood/mission-hill [35947] -> "../data/townSites2/Boston/www.boston.gov/neighborhood/mission-hill" [1]
+2017-01-02 05:09:47 URL:https://www.boston.gov/neighborhood/north-end [35477] -> "../data/townSites2/Boston/www.boston.gov/neighborhood/north-end" [1]
+2017-01-02 05:09:48 URL:https://www.boston.gov/neighborhood/roslindale [35885/35885] -> "../data/townSites2/Boston/www.boston.gov/neighborhood/roslindale" [1]
+2017-01-02 05:09:49 URL:https://www.boston.gov/neighborhood/roxbury [38506] -> "../data/townSites2/Boston/www.boston.gov/neighborhood/roxbury" [1]
+2017-01-02 05:09:51 URL:https://www.boston.gov/neighborhood/south-boston [36752/36752] -> "../data/townSites2/Boston/www.boston.gov/neighborhood/south-boston" [1]
+2017-01-02 05:09:53 URL:https://www.boston.gov/neighborhood/south-end [45795/45795] -> "../data/townSites2/Boston/www.boston.gov/neighborhood/south-end" [1]
+2017-01-02 05:09:55 URL:https://www.boston.gov/neighborhood/west-end [38775/38775] -> "../data/townSites2/Boston/www.boston.gov/neighborhood/west-end" [1]
+2017-01-02 05:09:56 URL:https://www.boston.gov/neighborhood/west-roxbury [40168] -> "../data/townSites2/Boston/www.boston.gov/neighborhood/west-roxbury" [1]
+2017-01-02 05:09:59 URL:https://www.boston.gov/community-centers [44352/44352] -> "../data/townSites2/Boston/www.boston.gov/node/3476" [1]
+2017-01-02 05:10:02 URL:https://www.boston.gov/community-centers/bcyf-blackstone [43273/43273] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-blackstone" [1]
+2017-01-02 05:10:03 URL:https://www.boston.gov/community-centers/bcyf-cleveland [33619] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-cleveland" [1]
+2017-01-02 05:10:04 URL:https://www.boston.gov/community-centers/bcyf-clougherty-pool [29294] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-clougherty-pool" [1]
+2017-01-02 05:10:05 URL:https://www.boston.gov/community-centers/bcyf-curley [35827] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-curley" [1]
+2017-01-02 05:10:06 URL:https://www.boston.gov/community-centers/bcyf-curtis-hall [39356] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-curtis-hall" [1]
+2017-01-02 05:10:07 URL:https://www.boston.gov/community-centers/bcyf-draper-pool [30231/30231] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-draper-pool" [1]
+2017-01-02 05:10:08 URL:https://www.boston.gov/community-centers/bcyf-flaherty-pool [33354] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-flaherty-pool" [1]
+2017-01-02 05:10:09 URL:https://www.boston.gov/community-centers/bcyf-gallivan [33679] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-gallivan" [1]
+2017-01-02 05:10:10 URL:https://www.boston.gov/community-centers/bcyf-golden-age-senior-center [31760] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-golden-age-senior-center" [1]
+2017-01-02 05:10:11 URL:https://www.boston.gov/community-centers/bcyf-grove-hall [32540] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-grove-hall" [1]
+2017-01-02 05:10:12 URL:https://www.boston.gov/community-centers/bcyf-hennigan [30206/30206] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-hennigan" [1]
+2017-01-02 05:10:13 URL:https://www.boston.gov/community-centers/bcyf-holland [36312] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-holland" [1]
+2017-01-02 05:10:14 URL:https://www.boston.gov/community-centers/bcyf-hyde-park [35854] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-hyde-park" [1]
+2017-01-02 05:10:15 URL:https://www.boston.gov/community-centers/bcyf-leahyholloran [36112] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-leahyholloran" [1]
+2017-01-02 05:10:16 URL:https://www.boston.gov/community-centers/bcyf-madison-park [35158] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-madison-park" [1]
+2017-01-02 05:10:17 URL:https://www.boston.gov/community-centers/bcyf-mason-pool [34364] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-mason-pool" [1]
+2017-01-02 05:10:19 URL:https://www.boston.gov/community-centers/bcyf-mattahunt [38923/38923] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-mattahunt" [1]
+2017-01-02 05:10:20 URL:https://www.boston.gov/community-centers/bcyf-menino [34092] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-menino" [1]
+2017-01-02 05:10:21 URL:https://www.boston.gov/community-centers/bcyf-mildred-avenue [37362] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-mildred-avenue" [1]
+2017-01-02 05:10:22 URL:https://www.boston.gov/community-centers/bcyf-mirabella-pool [29246] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-mirabella-pool" [1]
+2017-01-02 05:10:23 URL:https://www.boston.gov/community-centers/bcyf-nazzaro [30943/30943] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-nazzaro" [1]
+2017-01-02 05:10:24 URL:https://www.boston.gov/community-centers/bcyf-ohrenberger [34646] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-ohrenberger" [1]
+2017-01-02 05:10:25 URL:https://www.boston.gov/community-centers/bcyf-paris-street [38784] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-paris-street" [1]
+2017-01-02 05:10:26 URL:https://www.boston.gov/community-centers/bcyf-perkins [37599] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-perkins" [1]
+2017-01-02 05:10:27 URL:https://www.boston.gov/community-centers/bcyf-pino [37003/37003] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-pino" [1]
+2017-01-02 05:10:29 URL:https://www.boston.gov/community-centers/bcyf-roslindale [40862/40862] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-roslindale" [1]
+2017-01-02 05:10:30 URL:https://www.boston.gov/community-centers/bcyf-shelburne [34549] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-shelburne" [1]
+2017-01-02 05:10:31 URL:https://www.boston.gov/community-centers/bcyf-tynan [31666] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-tynan" [1]
+2017-01-02 05:10:33 URL:https://www.boston.gov/community-centers/bcyf-vine-street [39270/39270] -> "../data/townSites2/Boston/www.boston.gov/community-centers/bcyf-vine-street" [1]
+2017-01-02 05:10:34 URL:https://www.boston.gov/community-centers/veronica-b-smith-senior-center [26305] -> "../data/townSites2/Boston/www.boston.gov/community-centers/veronica-b-smith-senior-center" [1]
+2017-01-02 05:10:36 URL:https://www.boston.gov/parks-and-playgrounds [90293/90293] -> "../data/townSites2/Boston/www.boston.gov/node/3646" [1]
+2017-01-02 05:10:37 URL:https://www.boston.gov/parks/arnold-arboretum [27732] -> "../data/townSites2/Boston/www.boston.gov/parks/arnold-arboretum" [1]
+2017-01-02 05:10:38 URL:https://www.boston.gov/parks/back-bay-fens [32164] -> "../data/townSites2/Boston/www.boston.gov/parks/back-bay-fens" [1]
+2017-01-02 05:10:39 URL:https://www.boston.gov/parks/boston-common [28498] -> "../data/townSites2/Boston/www.boston.gov/parks/boston-common" [1]
+2017-01-02 05:10:40 URL:https://www.boston.gov/parks/commonwealth-avenue-mall [27492] -> "../data/townSites2/Boston/www.boston.gov/parks/commonwealth-avenue-mall" [1]
+2017-01-02 05:10:41 URL:https://www.boston.gov/parks/franklin-park [28877/28877] -> "../data/townSites2/Boston/www.boston.gov/parks/franklin-park" [1]
+2017-01-02 05:10:42 URL:https://www.boston.gov/parks/jamaica-pond [28600] -> "../data/townSites2/Boston/www.boston.gov/parks/jamaica-pond" [1]
+2017-01-02 05:10:43 URL:https://www.boston.gov/parks/olmsted-park [27760] -> "../data/townSites2/Boston/www.boston.gov/parks/olmsted-park" [1]
+2017-01-02 05:10:44 URL:https://www.boston.gov/parks/public-garden [28373] -> "../data/townSites2/Boston/www.boston.gov/parks/public-garden" [1]
+2017-01-02 05:10:45 URL:https://www.boston.gov/parks/riverway [25956] -> "../data/townSites2/Boston/www.boston.gov/parks/riverway" [1]
+2017-01-02 05:10:47 URL:https://www.boston.gov/departments/landmarks-commission/our-work-landmarks-commission [26948/26948] -> "../data/townSites2/Boston/www.boston.gov/node/3161" [1]
+2017-01-02 05:10:48 URL:https://www.boston.gov/departments/landmarks-commission/designating-landmarks-boston [29115] -> "../data/townSites2/Boston/www.boston.gov/departments/landmarks-commission/designating-landmarks-boston" [1]
+2017-01-02 05:10:50 URL:https://www.boston.gov/departments/landmarks-commission/how-apply-landmarks-design-review [40263/40263] -> "../data/townSites2/Boston/www.boston.gov/departments/landmarks-commission/how-apply-landmarks-design-review" [1]
+2017-01-02 05:10:54 URL:https://www.boston.gov/historic-district/aberdeen-architectural-conservation-district [42893/42893] -> "../data/townSites2/Boston/www.boston.gov/historic-district/aberdeen" [1]
+2017-01-02 05:10:54 URL:https://www.boston.gov/historic-district/back-bay-architectural-district [41473] -> "../data/townSites2/Boston/www.boston.gov/historic-district/back-bay-architectural-district" [1]
+2017-01-02 05:10:56 URL:https://www.boston.gov/historic-district/bay-state-roadback-bay-west-area-architectural-conservation-district [36778] -> "../data/townSites2/Boston/www.boston.gov/historic-district/bay-state-roadback-bay-west" [1]
+2017-01-02 05:10:57 URL:https://www.boston.gov/historic-district/bay-village-historic-district [36912] -> "../data/townSites2/Boston/www.boston.gov/historic-district/bay-village-historic-district" [1]
+2017-01-02 05:10:59 URL:https://www.boston.gov/historic-district/historic-beacon-hill-district [40236] -> "../data/townSites2/Boston/www.boston.gov/historic-district/historic-beacon-hill-district" [1]
+2017-01-02 05:11:00 URL:https://www.boston.gov/historic-district/fort-point-channel [40889] -> "../data/townSites2/Boston/www.boston.gov/historic-district/fort-point-channel" [1]
+2017-01-02 05:11:01 URL:https://www.boston.gov/historic-district/mission-hill-triangle [37749/37749] -> "../data/townSites2/Boston/www.boston.gov/historic-district/mission-hill-triangle" [1]
+2017-01-02 05:11:02 URL:https://www.boston.gov/calendar/st-botolph-architectural-conservation-district-hearing [20944/20944] -> "../data/townSites2/Boston/www.boston.gov/calendar/st-botolph-architectural-conservation-district-hearing" [1]
+2017-01-02 05:11:03 URL:https://www.boston.gov/historic-district/south-end-landmark-district [42782] -> "../data/townSites2/Boston/www.boston.gov/historic-district/south-end-landmark-district" [1]
+2017-01-02 05:11:05 URL:https://www.boston.gov/departments/landmarks-commission/how-file-article-85-demolition-delay [39424/39424] -> "../data/townSites2/Boston/www.boston.gov/departments/landmarks-commission/how-file-article-85-demolition-delay" [1]
+2017-01-02 05:11:06 URL:https://www.boston.gov/departments/landmarks-commission/research-and-technical-assistance [31430] -> "../data/townSites2/Boston/www.boston.gov/departments/landmarks-commission/research-and-technical-assistance" [1]
+2017-01-02 05:11:08 URL:https://www.boston.gov/cemeteries [32935/32935] -> "../data/townSites2/Boston/www.boston.gov/node/3466" [1]
+2017-01-02 05:11:09 URL:https://www.boston.gov/cemetaries/bennington-street-burying-ground [26896] -> "../data/townSites2/Boston/www.boston.gov/cemetaries/bennington-street-burying-ground" [1]
+2017-01-02 05:11:11 URL:https://www.boston.gov/cemetaries/bunker-hill-burying-ground [31579/31579] -> "../data/townSites2/Boston/www.boston.gov/cemetaries/bunker-hill-burying-ground" [1]
+2017-01-02 05:11:12 URL:https://www.boston.gov/cemetaries/central-burying-ground [30314/30314] -> "../data/townSites2/Boston/www.boston.gov/cemetaries/central-burying-ground" [1]
+2017-01-02 05:11:14 URL:https://www.boston.gov/cemetaries/copps-hill-burying-ground [30767/30767] -> "../data/townSites2/Boston/www.boston.gov/cemetaries/copps-hill-burying-ground" [1]
+2017-01-02 05:11:16 URL:https://www.boston.gov/cemetaries/dorchester-north-burying-ground [31528/31528] -> "../data/townSites2/Boston/www.boston.gov/cemetaries/dorchester-north-burying-ground" [1]
+2017-01-02 05:11:17 URL:https://www.boston.gov/cemetaries/dorchester-south-burying-ground [32138/32138] -> "../data/townSites2/Boston/www.boston.gov/cemetaries/dorchester-south-burying-ground" [1]
+2017-01-02 05:11:18 URL:https://www.boston.gov/cemetaries/eliot-burying-ground [26943] -> "../data/townSites2/Boston/www.boston.gov/cemetaries/eliot-burying-ground" [1]
+2017-01-02 05:11:19 URL:https://www.boston.gov/cemetaries/evergreen-cemetery [27222] -> "../data/townSites2/Boston/www.boston.gov/cemetaries/evergreen-cemetery" [1]
+2017-01-02 05:11:20 URL:https://www.boston.gov/cemetaries/fairview-cemetery [26772] -> "../data/townSites2/Boston/www.boston.gov/cemetaries/fairview-cemetery" [1]
+2017-01-02 05:11:21 URL:https://www.boston.gov/cemetaries/granary-burying-ground [27247] -> "../data/townSites2/Boston/www.boston.gov/cemetaries/granary-burying-ground" [1]
+2017-01-02 05:11:22 URL:https://www.boston.gov/cemetaries/hawesunion-burying-ground [26424] -> "../data/townSites2/Boston/www.boston.gov/cemetaries/hawesunion-burying-ground" [1]
+2017-01-02 05:11:23 URL:https://www.boston.gov/cemetaries/kings-chapel-burying-ground [27368] -> "../data/townSites2/Boston/www.boston.gov/cemetaries/kings-chapel-burying-ground" [1]
+2017-01-02 05:11:24 URL:https://www.boston.gov/cemetaries/market-street-burying-ground [27284] -> "../data/townSites2/Boston/www.boston.gov/cemetaries/market-street-burying-ground" [1]
+2017-01-02 05:11:25 URL:https://www.boston.gov/cemetaries/mount-hope-cemetery [31798/31798] -> "../data/townSites2/Boston/www.boston.gov/cemetaries/mount-hope-cemetery" [1]
+2017-01-02 05:11:27 URL:https://www.boston.gov/cemetaries/phipps-street-burying-ground [31489/31489] -> "../data/townSites2/Boston/www.boston.gov/cemetaries/phipps-street-burying-ground" [1]
+2017-01-02 05:11:29 URL:https://www.boston.gov/cemetaries/south-end-burying-ground [30437/30437] -> "../data/townSites2/Boston/www.boston.gov/cemetaries/south-end-burying-ground" [1]
+2017-01-02 05:11:31 URL:https://www.boston.gov/cemetaries/walter-street-burying-ground [31431/31431] -> "../data/townSites2/Boston/www.boston.gov/cemetaries/walter-street-burying-ground" [1]
+2017-01-02 05:11:32 URL:https://www.boston.gov/cemetaries/westerly-burying-ground [26296] -> "../data/townSites2/Boston/www.boston.gov/cemetaries/westerly-burying-ground" [1]
+2017-01-02 05:11:34 URL:https://www.boston.gov/departments/human-resources/career-center [28509/28509] -> "../data/townSites2/Boston/www.boston.gov/node/4646" [1]
+2017-01-02 05:11:35 URL:https://www.boston.gov/departments/human-resources/salary-information-city-jobs [34555] -> "../data/townSites2/Boston/www.boston.gov/departments/human-resources/salary-information-city-jobs" [1]
+2017-01-02 05:11:36 URL:https://www.boston.gov/departments/human-resources/benefits-available-city-workers [33471] -> "../data/townSites2/Boston/www.boston.gov/departments/human-resources/benefits-available-city-workers" [1]
+2017-01-02 05:11:38 URL:https://www.boston.gov/departments/mayors-office/city-owned-buildings-boston [87715/87715] -> "../data/townSites2/Boston/www.boston.gov/node/7236" [1]
+2017-01-02 05:11:41 URL:https://www.boston.gov/trash-day-schedule [23002/23002] -> "../data/townSites2/Boston/www.boston.gov/node/3081" [1]
+2017-01-02 05:11:43 URL:https://www.boston.gov/departments/parking-clerk/how-do-parking-meters-work [25809/25809] -> "../data/townSites2/Boston/www.boston.gov/node/551" [1]
+2017-01-02 05:11:45 URL:https://www.boston.gov/departments/transportation/25-boston [42593/42593] -> "../data/townSites2/Boston/www.boston.gov/node/11366" [1]
+2017-01-02 05:11:45 URL: https://www.boston.gov/sites/default/files/document-file-11-2016/poster_25mph_11x17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:46 URL: https://www.boston.gov/sites/default/files/document-file-11-2016/poster_25mph_11x17_whitebackground_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:46 URL: https://www.boston.gov/sites/default/files/document-file-11-2016/poster_25mph_8.5x11.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:47 URL: https://www.boston.gov/sites/default/files/document-file-11-2016/poster_25mph_8.5x11_whitebackground_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:47 URL: https://www.boston.gov/sites/default/files/document-file-12-2016/poster_25mph_11x17_chinese.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:48 URL: https://www.boston.gov/sites/default/files/document-file-12-2016/poster_25mph_11x17_chinese_whitebackground.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:48 URL: https://www.boston.gov/sites/default/files/document-file-12-2016/poster_25mph_8.5x11_chinese.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:49 URL: https://www.boston.gov/sites/default/files/document-file-12-2016/poster_25mph_8.5x11_chinese_whitebackground.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:49 URL: https://www.boston.gov/sites/default/files/document-file-12-2016/poster_25mph_11x17_spanish.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:49 URL: https://www.boston.gov/sites/default/files/document-file-12-2016/poster_25mph_11x17_spanish_whitebackground.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:50 URL: https://www.boston.gov/sites/default/files/document-file-12-2016/poster_25mph_8.5x11_spanish.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:50 URL: https://www.boston.gov/sites/default/files/document-file-12-2016/poster_25mph_8.5x11_spanish_whitebackground.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:51 URL: https://www.boston.gov/sites/default/files/document-file-12-2016/poster_25mph_11x17_hatian_creole.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:51 URL: https://www.boston.gov/sites/default/files/document-file-12-2016/poster_25mph_11x17_hatian_creole_whitebackground.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:52 URL: https://www.boston.gov/sites/default/files/document-file-12-2016/poster_25mph_8.5x11_hatian_creole.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:52 URL: https://www.boston.gov/sites/default/files/document-file-12-2016/poster_25mph_8.5x11_hatian_creole_whitebackground.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:52 URL: https://www.boston.gov/sites/default/files/document-file-12-2016/poster_25mph_11x17_portuguese.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:53 URL: https://www.boston.gov/sites/default/files/document-file-12-2016/poster_25mph_11x17_portuguese_whitebackground.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:53 URL: https://www.boston.gov/sites/default/files/document-file-12-2016/poster_25mph_8.5x11_portuguese.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:54 URL: https://www.boston.gov/sites/default/files/document-file-12-2016/poster_25mph_8.5x11_portuguese_whitebackground.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:54 URL: https://www.boston.gov/sites/default/files/document-file-12-2016/poster_25mph_11x17_vietnamese.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:55 URL: https://www.boston.gov/sites/default/files/document-file-12-2016/poster_25mph_11x17_vietnamese_whitebackground.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:56 URL: https://www.boston.gov/sites/default/files/document-file-12-2016/poster_25mph_8.5x11_vietnamese.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:56 URL: https://www.boston.gov/sites/default/files/document-file-12-2016/poster_25mph_8.5x11_vietnamese_whitebackground.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:11:58 URL:https://www.boston.gov/departments/assessing/how-file-residential-exemption [31770/31770] -> "../data/townSites2/Boston/www.boston.gov/node/706" [1]
+2017-01-02 05:11:59 URL: https://www.boston.gov/sites/all/themes/custom/boston_public/dist/img/default-hero-image.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:12:00 URL:https://www.boston.gov/departments/assessing/filing-property-tax-exemption [54893] -> "../data/townSites2/Boston/www.boston.gov/departments/assessing/filing-property-tax-exemption" [1]
+2017-01-02 05:12:01 URL: https://www.boston.gov/sites/default/files/applicationdates_guide2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:12:03 URL:https://www.boston.gov/departments/parking-clerk/how-pay-parking-ticket [29576/29576] -> "../data/townSites2/Boston/www.boston.gov/node/381" [1]
+2017-01-02 05:12:06 URL:https://www.boston.gov/departments/parking-clerk/how-get-resident-parking-permit [36053/36053] -> "../data/townSites2/Boston/www.boston.gov/node/386" [1]
+2017-01-02 05:12:09 URL:https://www.boston.gov/departments/parking-clerk/how-petition-resident-parking [26830] -> "../data/townSites2/Boston/www.boston.gov/departments/parking-clerk/how-petition-resident-parking" [1]
+2017-01-02 05:12:10 URL:https://www.boston.gov/departments/registry/how-get-birth-certificate [29290/29290] -> "../data/townSites2/Boston/www.boston.gov/node/2116" [1]
+2017-01-02 05:12:11 URL: https://www.boston.gov/sites/default/files/request-certified-copy-birth-certificate.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:12:13 URL:https://www.boston.gov/trash-and-recycling-guide [41180/41180] -> "../data/townSites2/Boston/www.boston.gov/node/9781" [1]
+2017-01-02 05:12:15 URL:https://www.boston.gov/trash-day-schedule [23002/23002] -> "../data/townSites2/Boston/www.boston.gov/trash-day-app" [1]
+2017-01-02 05:12:15 URL: https://www.boston.gov/sites/default/files/transactions-icon-11-2016/experiential_icons_view_your_collection_schedule.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:12:16 URL:https://www.boston.gov/departments/public-works/recycling-boston [31134] -> "../data/townSites2/Boston/www.boston.gov/departments/public-works/recycling-boston" [1]
+2017-01-02 05:12:17 URL: https://www.boston.gov/sites/default/files/transactions-icon-11-2016/experiential_icons_learn_about_recycling.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:12:17 URL: https://www.boston.gov/sites/default/files/transactions-icon-11-2016/experiential_icons_view_leaf_and_yard_waste_schedule.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:12:18 URL:https://www.boston.gov/departments/public-works/get-rid-household-hazardous-waste [33851] -> "../data/townSites2/Boston/www.boston.gov/departments/public-works/get-rid-household-hazardous-waste" [1]
+2017-01-02 05:12:19 URL: https://www.boston.gov/sites/default/files/transactions-icon-11-2016/experiential_icons_get_rid_of_hazardous_waste.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:12:20 URL:https://www.boston.gov/departments/public-works/how-we-keep-boston-clean [54222] -> "../data/townSites2/Boston/www.boston.gov/departments/public-works/how-we-keep-boston-clean" [1]
+2017-01-02 05:12:22 URL:https://www.boston.gov/departments/public-works/how-appeal-code-violation [34662/34662] -> "../data/townSites2/Boston/www.boston.gov/departments/public-works/how-appeal-code-violation" [1]
+2017-01-02 05:12:23 URL:https://www.boston.gov/calendar/household-hazardous-waste-drop [26984] -> "../data/townSites2/Boston/www.boston.gov/calendar/household-hazardous-waste-drop" [1]
+2017-01-02 05:12:24 URL:https://www.boston.gov/departments/public-works/composting-boston [33819] -> "../data/townSites2/Boston/www.boston.gov/departments/public-works/composting-boston" [1]
+2017-01-02 05:12:25 URL:https://www.boston.gov/winter-boston [58136/58136] -> "../data/townSites2/Boston/www.boston.gov/node/11" [1]
+2017-01-02 05:12:27 URL:https://www.boston.gov/departments/311/what-do-your-car-when-it-snows [30104] -> "../data/townSites2/Boston/www.boston.gov/departments/311/what-do-your-car-when-it-snows" [1]
+2017-01-02 05:12:27 URL: https://www.boston.gov/sites/default/files/experiential_icons_car_1.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:12:30 URL:https://www.boston.gov/departments/311/snow-emergency-parking [81759/81759] -> "../data/townSites2/Boston/www.boston.gov/departments/311/snow-emergency-parking" [1]
+2017-01-02 05:12:30 URL: https://www.boston.gov/sites/default/files/experiential_icons_snow_plow_0.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:12:31 URL:https://www.boston.gov/departments/311/what-do-your-trash-when-it-snows [30830] -> "../data/townSites2/Boston/www.boston.gov/departments/311/what-do-your-trash-when-it-snows" [1]
+2017-01-02 05:12:32 URL: https://www.boston.gov/sites/default/files/experiential_icons_trash.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:12:32 URL: https://www.boston.gov/sites/default/files/transactions-icon-09-2016/experiential_icons_important.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:12:33 URL:https://www.boston.gov/departments/311/rules-clearing-snow [32465] -> "../data/townSites2/Boston/www.boston.gov/departments/311/rules-clearing-snow" [1]
+2017-01-02 05:12:34 URL:https://www.boston.gov/departments/311/cold-weather-safety-tips [49087] -> "../data/townSites2/Boston/www.boston.gov/departments/311/cold-weather-safety-tips" [1]
+2017-01-02 05:12:35 URL:https://www.boston.gov/departments/311/important-winter-phone-numbers [31815] -> "../data/townSites2/Boston/www.boston.gov/departments/311/important-winter-phone-numbers" [1]
+2017-01-02 05:12:37 URL:https://www.boston.gov/departments/311/help-during-winter-heating-season [45920/45920] -> "../data/townSites2/Boston/www.boston.gov/departments/311/help-during-winter-heating-season" [1]
+2017-01-02 05:12:39 URL:https://www.boston.gov/visiting-boston [59080/59080] -> "../data/townSites2/Boston/www.boston.gov/node/6661" [1]
+2017-01-02 05:12:39 URL: https://www.boston.gov/sites/default/files/transactions-icon-08-2016/experiential_icons_bike.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:12:40 URL: https://www.boston.gov/sites/default/files/transactions-icon-08-2016/3experiential_icons_mass_value_pass.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:12:40 URL: https://www.boston.gov/sites/default/files/transactions-icon-08-2016/4experiential_icons_neighborhoods.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:12:41 URL:https://www.boston.gov/departments/parks-and-recreation/popular-playgrounds-and-parks-boston [83092] -> "../data/townSites2/Boston/www.boston.gov/departments/parks-and-recreation/popular-playgrounds-and-parks-boston" [1]
+2017-01-02 05:12:42 URL: https://www.boston.gov/sites/default/files/transactions-icon-08-2016/5experiential_icons_find_a_park.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:12:43 URL:https://www.boston.gov/departments/tourism-sports-and-entertainment/things-do-around-boston [59740] -> "../data/townSites2/Boston/www.boston.gov/departments/tourism-sports-and-entertainment/things-do-around-boston" [1]
+2017-01-02 05:12:44 URL:https://www.boston.gov/innovation-and-technology/city-archives-digital-access-initiative [33941/33941] -> "../data/townSites2/Boston/www.boston.gov/innovation-and-technology/city-archives-digital-access-initiative" [1]
+2017-01-02 05:12:46 URL:https://www.boston.gov/departments/archives-and-records-management/city-boston-collections [65651/65651] -> "../data/townSites2/Boston/www.boston.gov/departments/archives-and-records-management/city-boston-collections" [1]
+2017-01-02 05:12:47 URL:https://www.boston.gov/departments/archives-and-records-management/quick-look-bostons-history [54518] -> "../data/townSites2/Boston/www.boston.gov/departments/archives-and-records-management/quick-look-bostons-history" [1]
+2017-01-02 05:12:49 URL:https://www.boston.gov/renting-boston [54249/54249] -> "../data/townSites2/Boston/www.boston.gov/node/8131" [1]
+2017-01-02 05:12:51 URL:https://www.boston.gov/departments/neighborhood-development/know-your-rights-when-you-rent-boston [45146/45146] -> "../data/townSites2/Boston/www.boston.gov/departments/neighborhood-development/know-your-rights-when-you-rent-boston" [1]
+2017-01-02 05:12:51 URL: https://www.boston.gov/sites/default/files/transactions-icon-08-2016/experiential_icons_2_rent_rights.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:12:52 URL:https://www.boston.gov/departments/neighborhood-development/what-property-owners-need-know-about-renting [30118] -> "../data/townSites2/Boston/www.boston.gov/departments/neighborhood-development/what-property-owners-need-know-about-renting" [1]
+2017-01-02 05:12:53 URL: https://www.boston.gov/sites/default/files/transactions-icon-08-2016/experiential_icons_tripple_decker.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:12:53 URL: https://www.boston.gov/sites/default/files/transactions-icon-08-2016/experiential_icons_2_housing_questions.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:12:53 URL: https://www.boston.gov/sites/default/files/transactions-icon-08-2016/experiential_icons_truck.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:12:54 URL:https://www.boston.gov/departments/inspectional-services/meeting-housing-code-boston [33378] -> "../data/townSites2/Boston/www.boston.gov/departments/inspectional-services/meeting-housing-code-boston" [1]
+2017-01-02 05:12:55 URL:https://www.boston.gov/departments/neighborhood-development/get-financial-help-remove-lead-your-home [32200] -> "../data/townSites2/Boston/www.boston.gov/departments/neighborhood-development/get-financial-help-remove-lead-your-home" [1]
+2017-01-02 05:12:57 URL:https://www.boston.gov/departments/inspectional-services/how-register-rental-property [37123/37123] -> "../data/townSites2/Boston/www.boston.gov/departments/inspectional-services/how-register-rental-property" [1]
+2017-01-02 05:12:59 URL:https://www.boston.gov/news/traffic-advisory-first-night-celebration [23146/23146] -> "../data/townSites2/Boston/www.boston.gov/node/12866" [1]
+2017-01-02 05:13:01 URL:https://www.boston.gov/departments/transportation [53062/53062] -> "../data/townSites2/Boston/www.boston.gov/node/121" [1]
+2017-01-02 05:13:02 URL:https://www.boston.gov/departments/transportation/how-get-your-towed-car-back [33550] -> "../data/townSites2/Boston/www.boston.gov/departments/transportation/how-get-your-towed-car-back" [1]
+2017-01-02 05:13:03 URL:https://www.boston.gov/departments/transportation/what-you-need-know-about-towing [35969] -> "../data/townSites2/Boston/www.boston.gov/departments/transportation/what-you-need-know-about-towing" [1]
+2017-01-02 05:13:03 URL: https://www.boston.gov/sites/default/files/experiential_icons_phone_0.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:13:04 URL: https://www.boston.gov/sites/default/files/experiential_icons_tow_info.svg 200 OK
+unlink: No such file or directory
+2017-01-02 05:13:05 URL:https://www.boston.gov/departments/public-works/how-get-street-occupancy-permit [32612] -> "../data/townSites2/Boston/www.boston.gov/departments/public-works/how-get-street-occupancy-permit" [1]
+2017-01-02 05:13:05 URL:https://www.boston.gov/departments/transportation/melnea-cass-boulevard-design-project [32263] -> "../data/townSites2/Boston/www.boston.gov/departments/transportation/melnea-cass-boulevard-design-project" [1]
+2017-01-02 05:13:06 URL:https://www.boston.gov/departments/transportation/rutherford-avenue-sullivan-square-design-project [34924] -> "../data/townSites2/Boston/www.boston.gov/departments/transportation/rutherford-avenue-sullivan-square-design-project" [1]
+2017-01-02 05:13:08 URL:https://www.boston.gov/departments/transportation/redesign-east-boston-central-square [31807] -> "../data/townSites2/Boston/www.boston.gov/departments/transportation/redesign-east-boston-central-square" [1]
+2017-01-02 05:13:09 URL:https://www.boston.gov/departments/transportation/fenway-longwood-kenmore-design-projects [31516] -> "../data/townSites2/Boston/www.boston.gov/departments/transportation/fenway-longwood-kenmore-design-projects" [1]
+2017-01-02 05:13:10 URL:https://www.boston.gov/departments/transportation/dudley-square-design-project [30977] -> "../data/townSites2/Boston/www.boston.gov/departments/transportation/dudley-square-design-project" [1]
+https://www.boston.gov/departments/&:
+Remote file does not exist -- broken link!!!
+2017-01-02 05:13:11 URL:https://www.boston.gov/departments/transportation/how-apply-valet-parking-permit [35678] -> "../data/townSites2/Boston/www.boston.gov/departments/transportation/how-apply-valet-parking-permit" [1]
+2017-01-02 05:13:12 URL:https://www.boston.gov/departments/transportation/abandoned-and-impounded-vehicles [29273] -> "../data/townSites2/Boston/www.boston.gov/departments/transportation/abandoned-and-impounded-vehicles" [1]
+2017-01-02 05:13:14 URL:https://www.boston.gov/departments/transportation/traffic-regulations-and-permits [40914/40914] -> "../data/townSites2/Boston/www.boston.gov/departments/transportation/traffic-regulations-and-permits" [1]
+2017-01-02 05:13:16 URL:https://www.boston.gov/departments/transportation/guidelines-traffic-engineers-contractors-and-developers [57901/57901] -> "../data/townSites2/Boston/www.boston.gov/departments/transportation/guidelines-traffic-engineers-contractors-and-developers" [1]
+2017-01-02 05:13:17 URL:https://www.boston.gov/departments/transportation/guidelines-tour-buses-boston [33708] -> "../data/townSites2/Boston/www.boston.gov/departments/transportation/guidelines-tour-buses-boston" [1]
+2017-01-02 05:13:17 URL: https://www.boston.gov/sites/default/files/document-file-09-2016/tmc_annual_report_fy2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:13:18 URL: https://www.boston.gov/sites/default/files/tmc_annual_report_fy2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:13:18 URL: https://www.boston.gov/sites/default/files/tmc_annual_report_fy2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:13:20 URL:https://www.boston.gov/news/mayor-walsh-announces-24-million-hud-grant-help-homeless [24340/24340] -> "../data/townSites2/Boston/www.boston.gov/node/12816" [1]
+2017-01-02 05:13:22 URL:https://www.boston.gov/news/acoustic-ordinance-gives-more-opportunities-small-businesses-musicians [22123/22123] -> "../data/townSites2/Boston/www.boston.gov/node/12711" [1]
+2017-01-02 05:13:23 URL: https://www.boston.gov/sites/default/files/acoustic_live_entertainment.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 05:13:24 URL:https://www.boston.gov/news/400000-state-grant-help-fund-harambee-park-improvements [26210/26210] -> "../data/townSites2/Boston/www.boston.gov/node/12696" [1]
+2017-01-02 05:13:26 URL:https://www.boston.gov/news/boston-university-scholarship-program-expanded-boston-public-schools-students [25969/25969] -> "../data/townSites2/Boston/www.boston.gov/node/12686" [1]
+2017-01-02 05:13:28 URL:https://www.boston.gov/calendar/boston-baroque-free-community-concert [27115/27115] -> "../data/townSites2/Boston/www.boston.gov/node/12626" [1]
+2017-01-02 05:13:30 URL:https://www.boston.gov/calendar/city-hall-go-cart-hyde-park-0 [24942/24942] -> "../data/townSites2/Boston/www.boston.gov/node/5181" [1]
+2017-01-02 05:13:31 URL:https://www.boston.gov/departments/city-hall-go/menu-city-hall-go-services [36430] -> "../data/townSites2/Boston/www.boston.gov/departments/city-hall-go/menu-city-hall-go-services" [1]
+2017-01-02 05:13:32 URL:https://www.boston.gov/calendar/city-hall-go-cart-west-roxbury-0 [25479/25479] -> "../data/townSites2/Boston/www.boston.gov/node/5266" [1]
+2017-01-02 05:13:34 URL:https://www.boston.gov/calendar/city-hall-go-cart-roxbury [29850/29850] -> "../data/townSites2/Boston/www.boston.gov/node/5241" [1]
+2017-01-02 05:13:36 URL:https://www.boston.gov/departments/city-council/michelle-wu [21882/21882] -> "../data/townSites2/Boston/www.boston.gov/node/396" [1]
+2017-01-02 05:13:38 URL:https://www.boston.gov/departments/city-council/michael-flaherty [22823/22823] -> "../data/townSites2/Boston/www.boston.gov/node/411" [1]
+2017-01-02 05:13:40 URL:https://www.boston.gov/departments/city-council/annissa-essaibi-george [27564/27564] -> "../data/townSites2/Boston/www.boston.gov/node/421" [1]
+2017-01-02 05:13:41 URL:https://www.boston.gov/departments/city-council/ayanna-pressley [22723/22723] -> "../data/townSites2/Boston/www.boston.gov/node/431" [1]
+2017-01-02 05:13:43 URL:https://www.boston.gov/departments/city-council/salvatore-lamattina [21192/21192] -> "../data/townSites2/Boston/www.boston.gov/node/441" [1]
+2017-01-02 05:13:45 URL:https://www.boston.gov/departments/city-council/bill-linehan [20670/20670] -> "../data/townSites2/Boston/www.boston.gov/node/451" [1]
+2017-01-02 05:13:46 URL:https://www.boston.gov/departments/city-council/frank-baker [22910/22910] -> "../data/townSites2/Boston/www.boston.gov/node/456" [1]
+2017-01-02 05:13:48 URL:https://www.boston.gov/departments/city-council/andrea-campbell [20898/20898] -> "../data/townSites2/Boston/www.boston.gov/node/446" [1]
+2017-01-02 05:13:50 URL:https://www.boston.gov/departments/city-council/timothy-mccarthy [21765/21765] -> "../data/townSites2/Boston/www.boston.gov/node/436" [1]
+2017-01-02 05:13:52 URL:https://www.boston.gov/departments/city-council/matt-omalley [23479/23479] -> "../data/townSites2/Boston/www.boston.gov/node/426" [1]
+2017-01-02 05:13:54 URL:https://www.boston.gov/departments/city-council/tito-jackson [27874/27874] -> "../data/townSites2/Boston/www.boston.gov/node/416" [1]
+2017-01-02 05:13:56 URL:https://www.boston.gov/departments/city-council/josh-zakim [28544/28544] -> "../data/townSites2/Boston/www.boston.gov/node/406" [1]
+2017-01-02 05:13:58 URL:https://www.boston.gov/departments/city-council/mark-ciommo [21131/21131] -> "../data/townSites2/Boston/www.boston.gov/node/401" [1]
+Found 3 broken links.
+
+https://www.boston.gov/city-clerk/posting-notices-public-meetings-and-hearings
+https://www.boston.gov/departments/&
+https://www.boston.gov/&
+
+FINISHED --2017-01-02 05:13:58--
+Total wall clock time: 13m 53s
+Downloaded: 590 files, 21M in 40s (540 KB/s)

@@ -1,0 +1,1236 @@
+2017-01-02 02:00:51 URL:http://www.cityofwestfield.org/ [60845/60845] -> "../data/townSites2/Westfield/www.cityofwestfield.org/index.html" [1]
+2017-01-02 02:00:52 URL: http://www.cityofwestfield.org/images/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 02:00:55 URL:http://www.cityofwestfield.org/AgendaCenter [627039/627039] -> "../data/townSites2/Westfield/www.cityofwestfield.org/AgendaCenter" [1]
+2017-01-02 02:00:56 URL:http://www.cityofwestfield.org/index.aspx?NID=467 [48610/48610] -> "../data/townSites2/Westfield/www.cityofwestfield.org/report" [1]
+2017-01-02 02:00:57 URL:http://www.cityofwestfield.org/Calendar.aspx [120200/120200] -> "../data/townSites2/Westfield/www.cityofwestfield.org/Calendar.aspx" [1]
+2017-01-02 02:01:01 URL:http://www.facebook.com/pages/City-of-Westfield-Government/499509680072154 [437267] -> "../data/townSites2/Westfield/www.cityofwestfield.org/facebook" [1]
+2017-01-02 02:01:02 URL:https://twitter.com/Westfield_MA [300437/300437] -> "../data/townSites2/Westfield/www.cityofwestfield.org/twitter" [1]
+2017-01-02 02:01:04 URL:http://www.cityofwestfield.org/rss.aspx [66955/66955] -> "../data/townSites2/Westfield/www.cityofwestfield.org/rss.aspx" [1]
+2017-01-02 02:01:06 URL:https://ma-westfield.civicplus.com/MyAccount?dn=www.cityofwestfield.org&from=url&url=/MyDashboard&anchor=&validationMessage= [52915/52915] -> "../data/townSites2/Westfield/www.cityofwestfield.org/MyDashboard" [1]
+2017-01-02 02:01:07 URL:http://www.cityofwestfield.org/directory.aspx [84575/84575] -> "../data/townSites2/Westfield/www.cityofwestfield.org/directory.aspx" [1]
+2017-01-02 02:01:10 URL:http://www.cityofwestfield.org/list.aspx [161471/161471] -> "../data/townSites2/Westfield/www.cityofwestfield.org/list.aspx" [1]
+2017-01-02 02:01:11 URL:http://www.cityofwestfield.org/calendar.aspx [120200/120200] -> "../data/townSites2/Westfield/www.cityofwestfield.org/calendar.aspx" [1]
+2017-01-02 02:01:13 URL:http://www.cityofwestfield.org/sitemap.aspx [84933/84933] -> "../data/townSites2/Westfield/www.cityofwestfield.org/sitemap.aspx" [1]
+2017-01-02 02:01:13 URL:http://www.cityofwestfield.org/accessibility.aspx [49071/49071] -> "../data/townSites2/Westfield/www.cityofwestfield.org/accessibility.aspx" [1]
+2017-01-02 02:01:15 URL:http://www.cityofwestfield.org/copyright.aspx [43822/43822] -> "../data/townSites2/Westfield/www.cityofwestfield.org/copyright.aspx" [1]
+2017-01-02 02:01:16 URL:http://www.cityofwestfield.org/privacy [48116/48116] -> "../data/townSites2/Westfield/www.cityofwestfield.org/privacy" [1]
+2017-01-02 02:01:17 URL:http://www.cityofwestfield.org/CommunityVoice [59432/59432] -> "../data/townSites2/Westfield/www.cityofwestfield.org/CommunityVoice" [1]
+2017-01-02 02:01:18 URL:http://www.cityofwestfield.org/index.aspx [60855/60855] -> "../data/townSites2/Westfield/www.cityofwestfield.org/index.aspx" [1]
+2017-01-02 02:01:18 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01192017-2873 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:18 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/12062016-2839 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:19 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11012016-2759 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:19 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10042016-2707 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:20 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09062016-2643 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:20 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06072016-2490 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:21 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05032016-2423 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:21 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04052016-2368 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:22 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03012016-2301 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:22 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02022016-2243 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:22 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/12142016-2854 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:23 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11162016-2802 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:23 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/11162016-2802 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:23 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11092016-2776 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/11092016-2776:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:01:24 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11092016-2781 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:25 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10122016-2717 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:25 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/10122016-2717 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:25 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09142016-2655 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:26 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/09142016-2655 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:26 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/08102016-2577 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:27 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/08102016-2565 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:27 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/08102016-2565 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:27 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/07132016-2564 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:28 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06082016-2489 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:28 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05112016-2439 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:28 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/05112016-2439 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:29 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04132016-2386 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:29 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/04132016-2386 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:29 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03092016-2321 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:30 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/03092016-2321 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:30 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02172016-2274 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:30 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/02172016-2274 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:31 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02102016-2266 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:31 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01132016-2204 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:32 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/12142016-2855 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:32 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11092016-2780 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:32 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/11092016-2780 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:33 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10122016-2723 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:33 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/10122016-2723 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:33 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09142016-2664 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:34 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/09142016-2664 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/09142016-2664:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:01:35 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/08102016-2614 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:35 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/08042016-2600 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:35 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/07072016-2552 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:36 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/07072016-2552 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:36 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06082016-2495 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:36 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/06082016-2495 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:37 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05112016-2446 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:37 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04132016-2391 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:38 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03092016-2325 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:38 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/03092016-2325 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:38 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02102016-2272 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:39 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/02102016-2272 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:39 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01132016-2210 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:39 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/01132016-2210 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/01132016-2210:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:01:40 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/12132016-2853 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:40 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11082016-2777 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:40 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10112016-2715 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:41 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09132016-2658 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:41 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/09132016-2658 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:42 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/08092016-2604 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:42 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/07262016-2584 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:42 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/07262016-2584 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:43 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/07122016-2558 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:43 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/07122016-2558 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:43 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06142016-2509 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:44 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/06142016-2509 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:44 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05202016-2452 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:45 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05102016-2441 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:45 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/05102016-2441 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:46 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04122016-2381 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:46 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/04122016-2381 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:46 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03082016-2320 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:46 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/03082016-2320 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:47 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02092016-2265 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:47 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/02092016-2265 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:48 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01122016-2203 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:48 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/01122016-2203 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/01122016-2203:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:01:49 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/12052016-2826 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:49 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/12052016-2826 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/12052016-2826:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:01:50 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10042016-2699 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:50 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/10042016-2699 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:50 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09122016-2663 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:50 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/09122016-2663 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:51 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03042016-2317 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:51 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/03042016-2317 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:51 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04262016-2405 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:52 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01192016-2214 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/01192016-2214:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:01:53 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01052017-2864 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:53 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10232013-636 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:53 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09262014-1310 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:54 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/07222014-1205 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:54 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03272014-989 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:54 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03132014-965 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:55 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01282014-864 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:55 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/12202016-2859 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:55 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11152016-2793 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:56 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/11152016-2793 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:56 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10182016-2736 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:56 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/10182016-2736 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:57 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09202016-2677 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:57 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/09202016-2677 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:58 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/08162016-2617 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:58 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/08162016-2617 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:58 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/07192016-2572 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:59 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/07192016-2572 200 OK
+unlink: No such file or directory
+2017-01-02 02:01:59 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06212016-2521 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:00 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/06212016-2521 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:00 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05172016-2455 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:00 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/05172016-2455 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:01 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04192016-2397 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:01 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/04192016-2397 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:01 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03152016-2332 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:02 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/03152016-2332 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:02 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02162016-2281 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:02 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/02162016-2281 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:03 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01192016-2218 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:03 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04282016-2363 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:04 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02032016-2250 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:04 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01112016-2170 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:04 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/12122016-2847 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:05 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10132016-2726 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:05 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10132016-2695 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:06 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/08162016-2620 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:06 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/07142016-2562 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/07142016-2562:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:02:07 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04142016-2387 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:07 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01142016-2209 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:07 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/01142016-2209 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:08 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01102017-2866 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:08 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01102017-2874 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:08 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01102017-2876 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:09 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01092017-2875 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:09 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11022016-2762 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:10 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09212016-2674 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:10 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06012016-2475 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:11 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04062016-2376 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/04062016-2376:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:02:12 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/12052016-2832 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:12 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11092016-2779 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:12 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11072016-2775 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/11072016-2775:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:02:13 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10032016-2705 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:14 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09062016-2642 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:14 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/09062016-2642 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:14 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/08012016-2586 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:15 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/07112016-2557 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:15 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/07112016-2557 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:15 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/07112016-2549 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:16 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/07042016-2542 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:16 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06062016-2487 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:17 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/06062016-2487 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:17 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05022016-2415 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:17 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/05022016-2415 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/05022016-2415:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:02:18 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03072016-2318 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:19 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/03072016-2318 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:19 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02102016-2264 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:20 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/02102016-2264 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:20 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02012016-2232 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:20 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/02012016-2232 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/02012016-2232:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:02:21 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01042016-2186 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:21 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/01042016-2186 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:22 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/12212016-2865 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:22 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11162016-2799 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:22 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10132016-2727 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:22 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09212016-2687 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:23 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/08102016-2609 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/08102016-2609:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:02:24 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/07202016-2576 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:24 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06152016-2517 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:25 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05182016-2466 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:25 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04202016-2401 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:25 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03162016-2341 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:26 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01202016-2219 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:26 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01062016-2192 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:26 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11092016-2772 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:27 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10192016-2729 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:27 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/12192016-2857 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:28 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/12192016-2857 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:28 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11212016-2808 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:28 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/11212016-2808 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:29 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10242016-2746 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:29 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/10242016-2746 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:29 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09192016-2669 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:30 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/09192016-2669 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/09192016-2669:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:02:31 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/08222016-2598 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:31 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/08222016-2598 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:31 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06202016-2520 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:32 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/06202016-2520 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:32 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05162016-2454 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:32 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/05162016-2454 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:33 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04252016-2404 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:33 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/04252016-2404 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/04252016-2404:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:02:34 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03212016-2346 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:34 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/03212016-2346 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:34 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02222016-2292 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:35 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/02222016-2292 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:35 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01252016-2213 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:36 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/01252016-2213 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:36 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/12122016-2845 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:36 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11142016-2788 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:37 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/11142016-2788 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:37 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10122016-2719 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:37 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/10122016-2719 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:38 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10102016-2672 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:38 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09132016-2653 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:39 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/09132016-2653 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:39 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09122016-2622 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:40 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/08082016-2601 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:40 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/08082016-2601 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:40 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/07112016-2544 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:41 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/07112016-2544 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:41 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06132016-2506 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:41 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/06132016-2506 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:42 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05262016-2467 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:42 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/05262016-2467 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:42 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05092016-2430 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:43 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/05092016-2430 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/05092016-2430:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:02:44 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04252016-2403 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:44 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/04252016-2403 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:44 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04112016-2348 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:45 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04042016-2365 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:45 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04042016-2349 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:45 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03142016-2326 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:46 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/03142016-2326 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:46 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02082016-2261 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:46 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/02082016-2261 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/02082016-2261:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:02:47 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01112016-2199 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:47 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/01112016-2199 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:48 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01042017-2868 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:48 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/12212016-2863 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:48 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11162016-2792 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:49 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10192016-2745 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:49 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10192016-2739 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:50 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09282016-2696 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:50 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09282016-2690 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:51 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09212016-2631 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:51 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/08242016-2624 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:51 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/08242016-2585 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:52 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/08172016-2589 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:52 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/07202016-2570 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:53 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/07202016-2570 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:53 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06152016-2505 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:53 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/06152016-2505 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:54 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05182016-2410 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:54 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05112016-2449 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:55 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05112016-2428 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:55 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05112016-2411 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:55 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04202016-2398 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:56 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/04202016-2398 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:56 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03162016-2338 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:56 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02172016-2291 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:57 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02172016-2285 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:57 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01272016-2235 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:57 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/01272016-2235 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/01272016-2235:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:02:58 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01272016-2164 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:58 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/12192016-2838 200 OK
+unlink: No such file or directory
+2017-01-02 02:02:59 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11212016-2803 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/11212016-2803:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:02:59 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11022016-2751 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:00 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10172016-2724 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:00 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09192016-2671 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:00 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/09192016-2671 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:01 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/08152016-2612 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:01 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/08152016-2612 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:02 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/07182016-2567 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:02 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/07182016-2567 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:02 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06202016-2519 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:03 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/06202016-2519 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:03 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05162016-2451 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:04 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/05162016-2451 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:04 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04252016-2393 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:04 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03212016-2350 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:05 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/03212016-2350 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:05 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03142016-2307 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:06 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02222016-2290 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:06 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/02222016-2290 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/02222016-2290:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:03:07 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01112016-2200 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:07 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11082016-2778 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:07 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10192016-2741 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:08 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06072016-2491 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:08 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04122016-2385 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/04122016-2385:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:03:09 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03152016-2339 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:09 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02292016-2304 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:09 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01282016-2237 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:10 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09212016-2673 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:10 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/08312016-2623 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:11 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/12072016-2821 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:11 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11162016-2769 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:11 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11162016-2770 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:12 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10192016-2720 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:12 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09212016-2680 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:13 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09212016-2681 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:13 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09092016-2640 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:13 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05252016-2458 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:14 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05242016-2456 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:14 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05242016-2457 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:14 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05232016-2453 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:15 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03302016-2359 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:15 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03292016-2358 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:16 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03282016-2357 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:16 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03152016-2322 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:17 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02242016-2283 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:17 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02222016-2282 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:17 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01272016-2226 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:18 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01272016-2227 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:18 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01172017-2872 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:18 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01032017-2871 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:19 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/12122016-2846 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:19 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/12052016-2831 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:19 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11142016-2783 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:20 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10172016-2733 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:20 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09122016-2654 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:21 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/07112016-2555 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:21 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06132016-2511 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:22 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05092016-2433 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:22 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05042016-2417 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:22 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04122016-2388 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:23 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03142016-2330 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:23 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02082016-2268 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/02082016-2268:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:03:24 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01042016-2193 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/01042016-2193:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:03:25 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01042016-2167 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:26 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11172016-2804 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:26 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11092016-2782 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:26 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10032016-2697 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:27 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09142016-2660 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:27 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/09142016-2660 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/09142016-2660:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:03:28 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06232016-2529 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:28 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/06232016-2529 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/06232016-2529:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:03:29 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06082016-2496 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:30 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/06082016-2496 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:30 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05112016-2445 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:30 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04132016-2389 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:31 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03172016-2336 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:31 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/03172016-2336 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/03172016-2336:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:03:32 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02102016-2273 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:32 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/02102016-2273 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:33 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/12152016-2850 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:33 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11292016-2817 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:33 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10192016-2740 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:34 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09202016-2678 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:34 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/08182016-2611 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:34 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/07282016-2582 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:35 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06162016-2514 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:35 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05192016-2462 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:36 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04262016-2406 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:36 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03172016-2337 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:36 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02182016-2286 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:37 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01262016-2234 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:37 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/12192016-2861 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:37 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/12052016-2828 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/12052016-2828:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:03:38 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/12052016-2829 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/12052016-2829:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:03:39 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11212016-2811 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:39 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11212016-2812 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:39 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11072016-2773 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:40 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11072016-2774 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:40 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10172016-2735 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:40 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10032016-2703 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:41 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10032016-2704 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:41 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09192016-2676 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:42 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/08292016-2632 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:42 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/08242016-2618 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:42 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/07212016-2578 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:43 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/07212016-2579 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:43 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/07212016-2580 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:44 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06282016-2531 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/06282016-2531:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:03:45 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06282016-2532 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/06282016-2532:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:03:45 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06282016-2534 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/06282016-2534:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:03:46 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06202016-2525 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/06202016-2525:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:03:47 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06072016-2492 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:47 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06062016-2485 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:47 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05162016-2460 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:48 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05162016-2461 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:48 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05092016-2436 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:49 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05022016-2420 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:49 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04272016-2412 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:49 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04252016-2395 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/04252016-2395:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:03:50 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04042016-2373 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:51 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03282016-2361 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:51 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03242016-2354 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:52 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03222016-2352 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:52 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03212016-2351 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:52 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03162016-2342 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:53 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03102016-2303 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:53 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03092016-2302 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:53 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03072016-2315 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:54 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03072016-2316 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/03072016-2316:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:03:55 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02232016-2296 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:55 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02162016-2279 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:55 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/02162016-2279 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:56 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02012016-2248 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:56 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/02012016-2248 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:57 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01282016-2238 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:57 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/01282016-2238 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:57 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01042016-2190 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:58 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/01042016-2190 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:58 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/12192016-2860 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:58 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/12052016-2827 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:59 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11142016-2789 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:59 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10172016-2734 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:00 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10032016-2702 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:00 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09192016-2675 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:00 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06202016-2523 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:01 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06202016-2524 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:01 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06062016-2486 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/06062016-2486:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:04:02 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05262016-2473 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:02 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05102016-2437 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:03 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05022016-2419 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:03 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04272016-2394 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:03 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03282016-2362 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/03282016-2362:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:04:04 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02012016-2246 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:04 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/02012016-2246 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:05 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02012016-2247 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:05 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/02012016-2247 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:06 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01272016-2230 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:06 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/01272016-2230 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:06 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01252016-2231 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:07 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01252016-2222 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:07 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01212016-2224 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:07 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01042016-2189 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:07 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/01042016-2189 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:08 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/12142016-2849 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:08 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09212016-2683 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:08 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06152016-2516 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:09 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03162016-2340 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:09 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02032016-2229 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/02032016-2229:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:04:10 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03122013-220 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:10 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03112013-219 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:11 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01152013-88 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:11 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01072013-82 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:11 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01032017-2869 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/01032017-2869:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:04:12 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01042017-2877 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:12 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11152016-2800 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:13 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10112016-2718 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:13 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09132016-2662 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:13 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/08102016-2606 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:14 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/07122016-2560 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:14 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06142016-2515 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:15 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05102016-2442 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:15 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04122016-2383 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:16 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/04122016-2383 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:16 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03082016-2324 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:17 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/12062016-2833 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:18 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11012016-2756 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:19 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/11012016-2756 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:19 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09272016-2689 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:20 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/09272016-2689 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:20 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/08302016-2630 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:21 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/08302016-2630 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:21 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/07122016-2559 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:21 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/07122016-2559 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:22 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06142016-2507 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:22 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05102016-2435 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:23 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/05102016-2435 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:24 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04122016-2382 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:25 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/04122016-2382 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:25 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03082016-2319 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:26 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/03082016-2319 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:26 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02092016-2267 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:27 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/02092016-2267 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:28 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01122016-2205 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:29 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/01122016-2205 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:30 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/12062016-2830 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/12062016-2830:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:04:31 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11222016-2813 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:32 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/11222016-2813 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:32 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10042016-2701 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:33 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/10042016-2701 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:34 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09062016-2636 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:34 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/09062016-2636 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:35 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/08092016-2603 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:35 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/08092016-2603 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:36 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06142016-2512 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:36 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/06142016-2512 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:37 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05032016-2418 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:37 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/05032016-2418 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:37 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04052016-2371 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:37 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/04052016-2371 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:38 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/03012016-2300 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:38 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/03012016-2300 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:39 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/02022016-2240 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:39 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/02022016-2240 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/02022016-2240:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:04:40 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01052016-2184 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:40 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/01052016-2184 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:41 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/11222016-2809 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:41 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/10172016-2732 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:42 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/09192016-2666 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:42 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/09192016-2666 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:42 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/08082016-2602 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:43 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/08082016-2602 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:43 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/06202016-2522 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:43 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Minutes/06202016-2522 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:44 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/05092016-2432 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:44 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/04112016-2380 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:44 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01112016-2206 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:45 URL: http://www.cityofwestfield.org/AgendaCenter/ViewFile/Agenda/01042017-2870 200 OK
+unlink: No such file or directory
+http://www.cityofwestfield.org/~/AgendaCenterFrontEndJS:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:04:46 URL:http://www.cityofwestfield.org/iCalendar.aspx [53493/53493] -> "../data/townSites2/Westfield/www.cityofwestfield.org/iCalendar.aspx" [1]
+2017-01-02 02:04:46 URL: http://www.cityofwestfield.org/support/pages.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:46 URL: http://www.cityofwestfield.org/support/newsflash.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:47 URL: http://www.cityofwestfield.org/support/blog.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:47 URL: http://www.cityofwestfield.org/support/calendar.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:47 URL: http://www.cityofwestfield.org/support/calendar57.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:48 URL: http://www.cityofwestfield.org/support/calendar32.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:48 URL: http://www.cityofwestfield.org/support/calendar33.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:48 URL: http://www.cityofwestfield.org/support/calendar62.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:49 URL: http://www.cityofwestfield.org/support/calendar72.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:49 URL: http://www.cityofwestfield.org/support/calendar34.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:50 URL: http://www.cityofwestfield.org/support/calendar61.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:50 URL: http://www.cityofwestfield.org/support/calendar60.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:50 URL: http://www.cityofwestfield.org/support/calendar73.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:51 URL: http://www.cityofwestfield.org/support/calendar74.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:51 URL: http://www.cityofwestfield.org/support/calendar35.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:51 URL: http://www.cityofwestfield.org/support/calendar80.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:52 URL: http://www.cityofwestfield.org/support/calendar67.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:52 URL: http://www.cityofwestfield.org/support/calendar36.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:52 URL: http://www.cityofwestfield.org/support/calendar30.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:53 URL: http://www.cityofwestfield.org/support/calendar37.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:53 URL: http://www.cityofwestfield.org/support/calendar38.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:53 URL: http://www.cityofwestfield.org/support/calendar71.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:53 URL: http://www.cityofwestfield.org/support/calendar39.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:54 URL: http://www.cityofwestfield.org/support/calendar24.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:54 URL: http://www.cityofwestfield.org/support/calendar40.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:54 URL: http://www.cityofwestfield.org/support/calendar79.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:55 URL: http://www.cityofwestfield.org/support/calendar41.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:55 URL: http://www.cityofwestfield.org/support/calendar42.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:55 URL: http://www.cityofwestfield.org/support/calendar14.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:56 URL: http://www.cityofwestfield.org/support/calendar69.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:56 URL: http://www.cityofwestfield.org/support/calendar43.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:56 URL: http://www.cityofwestfield.org/support/calendar44.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:57 URL: http://www.cityofwestfield.org/support/calendar23.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:57 URL: http://www.cityofwestfield.org/support/calendar45.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:57 URL: http://www.cityofwestfield.org/support/calendar76.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:58 URL: http://www.cityofwestfield.org/support/calendar56.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:58 URL: http://www.cityofwestfield.org/support/calendar58.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:58 URL: http://www.cityofwestfield.org/support/calendar46.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:59 URL: http://www.cityofwestfield.org/support/calendar47.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:59 URL: http://www.cityofwestfield.org/support/calendar48.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:59 URL: http://www.cityofwestfield.org/support/calendar49.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:05:00 URL: http://www.cityofwestfield.org/support/calendar50.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:05:00 URL: http://www.cityofwestfield.org/support/calendar68.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:05:00 URL: http://www.cityofwestfield.org/support/calendar51.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:05:01 URL: http://www.cityofwestfield.org/support/calendar64.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:05:01 URL: http://www.cityofwestfield.org/support/calendar53.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:05:01 URL: http://www.cityofwestfield.org/support/calendar52.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:05:02 URL: http://www.cityofwestfield.org/support/calendar63.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:05:02 URL: http://www.cityofwestfield.org/support/calendar59.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:05:02 URL: http://www.cityofwestfield.org/support/calendar65.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:05:03 URL: http://www.cityofwestfield.org/support/calendar54.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:05:03 URL: http://www.cityofwestfield.org/support/calendar55.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:05:03 URL: http://www.cityofwestfield.org/support/newsflash1.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:05:03 URL: http://www.cityofwestfield.org/Common/modules/NotifyMe/NotifyMeAjax.asmx/js 200 OK
+unlink: No such file or directory
+2017-01-02 02:05:05 URL:http://www.cityofwestfield.org/List.aspx [161471/161471] -> "../data/townSites2/Westfield/www.cityofwestfield.org/List.aspx" [1]
+2017-01-02 02:05:06 URL:http://www.cityofwestfield.org/contactus [84575/84575] -> "../data/townSites2/Westfield/www.cityofwestfield.org/contactus" [1]
+Found 40 broken links.
+
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/02022016-2240
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/04122016-2385
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/06062016-2486
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/11072016-2775
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/02222016-2290
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/05022016-2415
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/03282016-2362
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/12052016-2826
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/12052016-2828
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/12052016-2829
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/12062016-2830
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/08102016-2609
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/04252016-2404
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/01272016-2235
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/01192016-2214
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/11092016-2776
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/05092016-2430
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/06282016-2531
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/01122016-2203
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/06282016-2532
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/06282016-2534
+http://www.cityofwestfield.org/~/AgendaCenterFrontEndJS
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/09142016-2660
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/11212016-2803
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/01132016-2210
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/03072016-2316
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/09142016-2664
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/02082016-2261
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/01032017-2869
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/04062016-2376
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/04252016-2395
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/02032016-2229
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/09192016-2669
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/02082016-2268
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/01042016-2193
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/07142016-2562
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/06232016-2529
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/02012016-2232
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/03172016-2336
+http://www.cityofwestfield.org/AgendaCenter/PreviousVersions/06202016-2525
+
+FINISHED --2017-01-02 02:05:06--
+Total wall clock time: 4m 16s
+Downloaded: 20 files, 2.6M in 2.8s (968 KB/s)

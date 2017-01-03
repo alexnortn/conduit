@@ -1,0 +1,18 @@
+2017-01-02 01:17:52 URL:http://www.dalton-ma.gov/ [46394/46394] -> "../data/townSites2/Dalton/www.dalton-ma.gov/index.html" [1]
+2017-01-02 01:17:52 URL: http://www.dalton-ma.gov/repository/designs/images/GO_favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:52 URL: http://www.dalton-ma.gov/vertical/Sites/%7B204E6885-7D62-4A77-ACAF-365E762BDF59%7D/uploads/PPT160001_Dalton_Division_Road_Public_meeting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:52 URL: http://www.dalton-ma.gov/vertical/Sites/%7B204E6885-7D62-4A77-ACAF-365E762BDF59%7D/uploads/Final_Dalton_Master_Plan_160720_Compressed.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:53 URL: http://www.dalton-ma.gov/vertical/sites/%7B204E6885-7D62-4A77-ACAF-365E762BDF59%7D/uploads/CBRSD_MSBA_Press_Briefing.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:54 URL: http://www.dalton-ma.gov/vertical/sites/%7B204E6885-7D62-4A77-ACAF-365E762BDF59%7D/uploads/PPT160001_Dalton_Division_Road_Public_meeting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:54 URL: http://www.dalton-ma.gov/vertical/sites/%7B204E6885-7D62-4A77-ACAF-365E762BDF59%7D/uploads/Final_Dalton_Master_Plan_160720_Compressed.pdf 200 OK
+unlink: No such file or directory
+Found no broken links.
+
+FINISHED --2017-01-02 01:17:54--
+Total wall clock time: 3.4s
+Downloaded: 1 files, 45K in 0.2s (263 KB/s)

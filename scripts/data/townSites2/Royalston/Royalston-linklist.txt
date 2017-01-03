@@ -1,0 +1,17 @@
+2017-01-02 06:23:35 URL:http://www.royalston-ma.gov/ [46406] -> "../data/townSites2/Royalston/www.royalston-ma.gov/index.html" [1]
+http://www.royalston-ma.gov/Wordpress/xmlrpc.php:
+Remote file does not exist -- broken link!!!
+2017-01-02 06:23:38 URL: http://www.royalston-ma.gov/Wordpress/wp-includes/wlwmanifest.xml 200 OK
+unlink: No such file or directory
+2017-01-02 06:23:39 URL: http://www.royalston-ma.gov/Wordpress/wp-content/uploads/2016/11/UNOFFICIAL-RESULTS-ROYALSTON-11-8-16-STATE-ELECTION.xlsx 200 OK
+unlink: No such file or directory
+http://www.royalston-ma.gov/wordpress/wp-content/uploads/2014/01/2015-ROYALSTON-ZONING-BYLAWS.pdf:
+Remote file does not exist -- broken link!!!
+Found 2 broken links.
+
+http://www.royalston-ma.gov/Wordpress/xmlrpc.php
+http://www.royalston-ma.gov/wordpress/wp-content/uploads/2014/01/2015-ROYALSTON-ZONING-BYLAWS.pdf
+
+FINISHED --2017-01-02 06:23:39--
+Total wall clock time: 8.9s
+Downloaded: 1 files, 45K in 0.6s (80.0 KB/s)

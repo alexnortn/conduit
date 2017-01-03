@@ -1,0 +1,1363 @@
+2017-01-02 02:43:36 URL:http://www.mashpeema.gov/ [76519] -> "../data/townSites2/Mashpee/www.mashpeema.gov/index.html" [1]
+2017-01-02 02:43:36 URL: http://www.mashpeema.gov/sites/mashpeema/themes/vts/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 02:43:38 URL:http://www.mashpeema.gov/discover-mashpee [40575] -> "../data/townSites2/Mashpee/www.mashpeema.gov/discover-mashpee" [1]
+2017-01-02 02:43:39 URL:http://www.mashpeema.gov/discover-mashpee/pages/area-attractions [40933] -> "../data/townSites2/Mashpee/www.mashpeema.gov/discover-mashpee/pages/area-attractions" [1]
+2017-01-02 02:43:40 URL:http://www.mass.gov/portal/cities-towns/mashpee.html [34070] -> "../data/townSites2/Mashpee/www.mashpeema.gov/discover-mashpee/links/community-profile" [1]
+2017-01-02 02:43:41 URL:http://www.mashpeema.gov/discover-mashpee/pages/directions [40291] -> "../data/townSites2/Mashpee/www.mashpeema.gov/discover-mashpee/pages/directions" [1]
+2017-01-02 02:43:44 URL:http://www.mashpeema.gov/historical-commission [53439] -> "../data/townSites2/Mashpee/www.mashpeema.gov/discover-mashpee/links/historical-commission" [1]
+2017-01-02 02:43:45 URL:http://www.mashpeema.gov/discover-mashpee/slideshows/images-mashpee [42785] -> "../data/townSites2/Mashpee/www.mashpeema.gov/discover-mashpee/slideshows/images-mashpee" [1]
+http://www.mospc.org/:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:43:48 URL:http://www.mashpeewampanoagtribe.com/ [31367] -> "../data/townSites2/Mashpee/www.mashpeema.gov/discover-mashpee/links/mashpee-wampanoag-tribe" [1]
+2017-01-02 02:43:49 URL:http://www.mashpeema.gov/departments [53985] -> "../data/townSites2/Mashpee/www.mashpeema.gov/departments" [1]
+2017-01-02 02:43:51 URL:http://www.mashpeema.gov/accounting [48186] -> "../data/townSites2/Mashpee/www.mashpeema.gov/accounting" [1]
+2017-01-02 02:43:53 URL:http://www.mashpeema.gov/assessing [67224] -> "../data/townSites2/Mashpee/www.mashpeema.gov/assessing" [1]
+2017-01-02 02:43:55 URL:http://www.mashpeema.gov/building [53681] -> "../data/townSites2/Mashpee/www.mashpeema.gov/building" [1]
+2017-01-02 02:43:57 URL:http://www.mashpeema.gov/conservation [80245] -> "../data/townSites2/Mashpee/www.mashpeema.gov/conservation" [1]
+2017-01-02 02:43:59 URL:http://www.mashpeema.gov/council-aging [73350] -> "../data/townSites2/Mashpee/www.mashpeema.gov/council-aging" [1]
+2017-01-02 02:44:01 URL:http://www.mashpeema.gov/fire-rescue [55378] -> "../data/townSites2/Mashpee/www.mashpeema.gov/fire-rescue" [1]
+2017-01-02 02:44:03 URL:http://www.mashpeema.gov/board-health [73474] -> "../data/townSites2/Mashpee/www.mashpeema.gov/board-health" [1]
+2017-01-02 02:44:05 URL:http://www.mashpeema.gov/gis-e911 [50906] -> "../data/townSites2/Mashpee/www.mashpeema.gov/gis-e911" [1]
+2017-01-02 02:44:07 URL:http://www.mashpeema.gov/human-resources [48978] -> "../data/townSites2/Mashpee/www.mashpeema.gov/human-resources" [1]
+2017-01-02 02:44:09 URL:http://www.mashpeema.gov/human-services [63378] -> "../data/townSites2/Mashpee/www.mashpeema.gov/human-services" [1]
+2017-01-02 02:44:10 URL:http://www.mashpeema.gov/information-technology [48591] -> "../data/townSites2/Mashpee/www.mashpeema.gov/information-technology" [1]
+2017-01-02 02:44:12 URL:http://www.mashpeema.gov/library [70020] -> "../data/townSites2/Mashpee/www.mashpeema.gov/library" [1]
+2017-01-02 02:44:14 URL:http://www.mashpeema.gov/natural-resources [45869] -> "../data/townSites2/Mashpee/www.mashpeema.gov/natural-resources" [1]
+2017-01-02 02:44:16 URL:http://www.mashpeema.gov/planning [70783] -> "../data/townSites2/Mashpee/www.mashpeema.gov/planning" [1]
+2017-01-02 02:44:18 URL:http://www.mashpeema.gov/police [51140] -> "../data/townSites2/Mashpee/www.mashpeema.gov/police" [1]
+2017-01-02 02:44:20 URL:http://www.mashpeema.gov/public-works [50877] -> "../data/townSites2/Mashpee/www.mashpeema.gov/public-works" [1]
+2017-01-02 02:44:22 URL:http://www.mashpeema.gov/recreation [50530] -> "../data/townSites2/Mashpee/www.mashpeema.gov/recreation" [1]
+2017-01-02 02:44:23 URL:http://www.mashpeema.gov/town-clerk [61619] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-clerk" [1]
+2017-01-02 02:44:26 URL:http://www.mashpeema.gov/town-manager [60727] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-manager" [1]
+2017-01-02 02:44:28 URL:http://www.mashpeema.gov/treasurer-tax-collector [50291] -> "../data/townSites2/Mashpee/www.mashpeema.gov/treasurer-tax-collector" [1]
+2017-01-02 02:44:30 URL:http://www.mashpeema.gov/zoning-board-appeals [69596] -> "../data/townSites2/Mashpee/www.mashpeema.gov/zoning-board-appeals" [1]
+2017-01-02 02:44:32 URL:http://www.mashpeema.gov/boards [56670] -> "../data/townSites2/Mashpee/www.mashpeema.gov/boards" [1]
+2017-01-02 02:44:34 URL:http://www.mashpeema.gov/affordable-housing-committee [60916] -> "../data/townSites2/Mashpee/www.mashpeema.gov/affordable-housing-committee" [1]
+2017-01-02 02:44:36 URL:http://www.mashpeema.gov/community-preservation-committee [63107] -> "../data/townSites2/Mashpee/www.mashpeema.gov/community-preservation-committee" [1]
+2017-01-02 02:44:38 URL:http://www.mashpeema.gov/cultural-council [49653] -> "../data/townSites2/Mashpee/www.mashpeema.gov/cultural-council" [1]
+2017-01-02 02:44:40 URL:http://www.mashpeema.gov/economic-development-and-industrial-corporation [60051] -> "../data/townSites2/Mashpee/www.mashpeema.gov/economic-development-and-industrial-corporation" [1]
+2017-01-02 02:44:42 URL:http://www.mashpeema.gov/finance-committee [63550] -> "../data/townSites2/Mashpee/www.mashpeema.gov/finance-committee" [1]
+2017-01-02 02:44:44 URL:http://www.mashpeema.gov/historic-district-commission [45934] -> "../data/townSites2/Mashpee/www.mashpeema.gov/historic-district-commission" [1]
+2017-01-02 02:44:44 URL:http://www.mashpeema.gov/historical-commission [53439] -> "../data/townSites2/Mashpee/www.mashpeema.gov/historical-commission" [1]
+2017-01-02 02:44:46 URL:http://www.mashpeema.gov/mashpee-energy-review [43552] -> "../data/townSites2/Mashpee/www.mashpeema.gov/mashpee-energy-review" [1]
+2017-01-02 02:44:47 URL:http://www.mashpeema.gov/nitrogen-management-plan-community-advisory-committee [43929] -> "../data/townSites2/Mashpee/www.mashpeema.gov/nitrogen-management-plan-community-advisory-committee" [1]
+2017-01-02 02:44:49 URL:http://www.mashpeema.gov/recycling-committee [54170] -> "../data/townSites2/Mashpee/www.mashpeema.gov/recycling-committee" [1]
+2017-01-02 02:44:51 URL:http://www.mashpeema.gov/selectmen [66376] -> "../data/townSites2/Mashpee/www.mashpeema.gov/selectmen" [1]
+2017-01-02 02:44:53 URL:http://www.mashpeema.gov/sewer [64839] -> "../data/townSites2/Mashpee/www.mashpeema.gov/sewer" [1]
+2017-01-02 02:44:55 URL:http://www.mashpeema.gov/shellfish [62262] -> "../data/townSites2/Mashpee/www.mashpeema.gov/shellfish" [1]
+2017-01-02 02:44:56 URL:http://www.mashpeema.gov/subdivision-board-appeals [44836] -> "../data/townSites2/Mashpee/www.mashpeema.gov/subdivision-board-appeals" [1]
+2017-01-02 02:44:58 URL:http://www.mashpeema.gov/mashpee-substance-abuse-taskforce [64482] -> "../data/townSites2/Mashpee/www.mashpeema.gov/mashpee-substance-abuse-taskforce" [1]
+2017-01-02 02:45:00 URL:http://www.mashpeema.gov/waterways-commission [62961] -> "../data/townSites2/Mashpee/www.mashpeema.gov/waterways-commission" [1]
+2017-01-02 02:45:01 URL:http://www.mashpeema.gov/businesses [36803] -> "../data/townSites2/Mashpee/www.mashpeema.gov/businesses" [1]
+2017-01-02 02:45:03 URL:http://www.mashpeema.gov/building/pages/download-permits-and-forms [43889] -> "../data/townSites2/Mashpee/www.mashpeema.gov/building-department/pages/download-permits-and-forms" [1]
+2017-01-02 02:45:05 URL:http://www.mashpeema.gov/planning-department/pages/regulations-forms [45303] -> "../data/townSites2/Mashpee/www.mashpeema.gov/planning-department/pages/regulations-forms" [1]
+2017-01-02 02:45:07 URL:http://www.mashpeema.gov/zoning-board-appeals/pages/forms-and-informational-documents [43726] -> "../data/townSites2/Mashpee/www.mashpeema.gov/zoning-board-appeals/pages/forms-and-informational-documents" [1]
+2017-01-02 02:45:08 URL:http://www.mashpeema.gov/visitors [40433] -> "../data/townSites2/Mashpee/www.mashpeema.gov/visitors" [1]
+2017-01-02 02:45:10 URL:http://www.mashpeema.gov/town-clerk/pages/licenses-stickers-fees [43676] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-clerk/pages/licenses-stickers-fees" [1]
+2017-01-02 02:45:12 URL:http://www.mashpeema.gov/where [49132] -> "../data/townSites2/Mashpee/www.mashpeema.gov/where" [1]
+2017-01-02 02:45:13 URL:http://www.mashpeema.gov/human-resources/pages/employment-opportunities [43100] -> "../data/townSites2/Mashpee/www.mashpeema.gov/human-resources/pages/employment-opportunities" [1]
+2017-01-02 02:45:15 URL:http://www.mashpeema.gov/town-clerk/pages/meeting-request [42907] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-clerk/pages/meeting-request" [1]
+2017-01-02 02:45:16 URL:http://www.mashpeema.gov/town-clerk/pages/shellfish-regulations [44235] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-clerk/pages/shellfish-regulations" [1]
+2017-01-02 02:45:18 URL:http://www.mashpeema.gov/town-clerk/pages/online-payments [44838] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-clerk/pages/online-payments" [1]
+2017-01-02 02:45:20 URL:http://www.mashpeema.gov/treasurer-tax-collector/pages/pay-your-taxes [44108] -> "../data/townSites2/Mashpee/www.mashpeema.gov/treasurercollector/pages/pay-your-taxes" [1]
+2017-01-02 02:45:21 URL:http://www.mashpeema.gov/animal-control [43337] -> "../data/townSites2/Mashpee/www.mashpeema.gov/animal-control" [1]
+2017-01-02 02:45:23 URL:http://www.mashpeema.gov/public-works/webforms/report-concern [51219/51219] -> "../data/townSites2/Mashpee/www.mashpeema.gov/public-works/webforms/report-concern" [1]
+2017-01-02 02:45:25 URL:http://www.mashpeema.gov/gis-e911/pages/interactive-town-map [44716] -> "../data/townSites2/Mashpee/www.mashpeema.gov/gis-e911/pages/interactive-town-map" [1]
+2017-01-02 02:45:27 URL:http://www.mashpeema.gov/calendar/month [174977] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/month" [1]
+2017-01-02 02:45:29 URL:http://www.mashpeema.gov/faqs [63985] -> "../data/townSites2/Mashpee/www.mashpeema.gov/faqs" [1]
+2017-01-02 02:45:30 URL:http://www.mashpeema.gov/police/pages/emergency-alert-sign [45104] -> "../data/townSites2/Mashpee/www.mashpeema.gov/police/pages/emergency-alert-sign" [1]
+2017-01-02 02:45:32 URL:http://www.mashpeema.gov/subscribe [45708/45708] -> "../data/townSites2/Mashpee/www.mashpeema.gov/subscribe" [1]
+2017-01-02 02:45:33 URL:http://www.mashpeema.gov/home/news/cape-islands-workforce-investment-board [38553] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/news/cape-islands-workforce-investment-board" [1]
+2017-01-02 02:45:34 URL:http://www.mashpeema.gov/home/news/shellfishing-closure-update [38540] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/news/shellfishing-closure-update" [1]
+2017-01-02 02:45:36 URL:http://www.mashpeema.gov/home/news/vacancy-notice [38586] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/news/vacancy-notice" [1]
+2017-01-02 02:45:37 URL:http://www.mashpeema.gov/node/1/news [38763] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/1/news" [1]
+2017-01-02 02:45:38 URL:http://www.mashpeema.gov/town-initiatives/news/mashpee-substance-abuse-task-force [38628] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-initiatives/news/mashpee-substance-abuse-task-force" [1]
+2017-01-02 02:45:40 URL:http://www.mashpeema.gov/town-initiatives/news/community-park [38786] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-initiatives/news/community-park" [1]
+2017-01-02 02:45:41 URL:http://www.mashpeema.gov/town-initiatives/news/mashpee-dog-park [38480] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-initiatives/news/mashpee-dog-park" [1]
+2017-01-02 02:45:42 URL:http://www.mashpeema.gov/calendar/day/2017-01-02 [43251] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/day/2017-01-02" [1]
+2017-01-02 02:45:44 URL:http://www.mashpeema.gov/home/events/15203 [37946] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/events/15203" [1]
+2017-01-02 02:45:45 URL:http://www.mashpeema.gov/calendar/day/2017-01-03 [43261] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/day/2017-01-03" [1]
+2017-01-02 02:45:47 URL:http://www.mashpeema.gov/home/events/18343 [38544] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/events/18343" [1]
+2017-01-02 02:45:48 URL:http://www.mashpeema.gov/calendar/day/2017-01-04 [43935] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/day/2017-01-04" [1]
+2017-01-02 02:45:49 URL:http://www.mashpeema.gov/home/events/19423 [38615] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/events/19423" [1]
+2017-01-02 02:45:51 URL:http://www.mashpeema.gov/home/events/15313 [38517] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/events/15313" [1]
+2017-01-02 02:45:52 URL:http://www.mashpeema.gov/zoning-board-appeals/events/7123 [43005] -> "../data/townSites2/Mashpee/www.mashpeema.gov/zoning-board-appeals/events/7123" [1]
+2017-01-02 02:45:54 URL:http://www.mashpeema.gov/calendar/day/2017-01-05 [43814] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/day/2017-01-05" [1]
+2017-01-02 02:45:55 URL:http://www.mashpeema.gov/home/events/16103 [38805] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/events/16103" [1]
+2017-01-02 02:45:56 URL:http://www.mashpeema.gov/board-health/events/7416 [44159] -> "../data/townSites2/Mashpee/www.mashpeema.gov/board-health/events/7416" [1]
+2017-01-02 02:45:58 URL:http://www.mashpeema.gov/calendar/day/2017-01-09 [43595] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/day/2017-01-09" [1]
+2017-01-02 02:45:59 URL:http://www.mashpeema.gov/home/events/15223 [38785] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/events/15223" [1]
+2017-01-02 02:46:00 URL:http://www.mashpeema.gov/home/events/18663 [38581] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/events/18663" [1]
+2017-01-02 02:46:01 URL:http://www.mashpeema.gov/calendar/day/2017-01-10 [43917] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/day/2017-01-10" [1]
+2017-01-02 02:46:03 URL:http://www.mashpeema.gov/waterways-commission/events/7277 [39910] -> "../data/townSites2/Mashpee/www.mashpeema.gov/waterways-commission/events/7277" [1]
+2017-01-02 02:46:04 URL:http://www.mashpeema.gov/home/events/15233 [38533] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/events/15233" [1]
+2017-01-02 02:46:06 URL:http://www.mashpeema.gov/home/events/18673 [38534] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/events/18673" [1]
+2017-01-02 02:46:07 URL:http://www.mashpeema.gov/calendar/day/2017-01-11 [43918] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/day/2017-01-11" [1]
+2017-01-02 02:46:08 URL:http://www.mashpeema.gov/council-aging/events/7101 [42248] -> "../data/townSites2/Mashpee/www.mashpeema.gov/council-aging/events/7101" [1]
+2017-01-02 02:46:10 URL:http://www.mashpeema.gov/planning/events/6928 [43123] -> "../data/townSites2/Mashpee/www.mashpeema.gov/planning/events/6928" [1]
+2017-01-02 02:46:11 URL:http://www.mashpeema.gov/home/events/15243 [38554] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/events/15243" [1]
+2017-01-02 02:46:12 URL:http://www.mashpeema.gov/calendar/day/2017-01-12 [43266] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/day/2017-01-12" [1]
+2017-01-02 02:46:14 URL:http://www.mashpeema.gov/board-health/events/7422 [44176] -> "../data/townSites2/Mashpee/www.mashpeema.gov/board-health/events/7422" [1]
+2017-01-02 02:46:15 URL:http://www.mashpeema.gov/calendar/day/2017-01-16 [43280] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/day/2017-01-16" [1]
+2017-01-02 02:46:16 URL:http://www.mashpeema.gov/home/events/15253 [38003] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/events/15253" [1]
+2017-01-02 02:46:18 URL:http://www.mashpeema.gov/calendar/day/2017-01-17 [43574] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/day/2017-01-17" [1]
+2017-01-02 02:46:19 URL:http://www.mashpeema.gov/home/events/18353 [38535] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/events/18353" [1]
+2017-01-02 02:46:20 URL:http://www.mashpeema.gov/home/events/18363 [38531] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/events/18363" [1]
+2017-01-02 02:46:22 URL:http://www.mashpeema.gov/calendar/day/2017-01-18 [43931] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/day/2017-01-18" [1]
+2017-01-02 02:46:23 URL:http://www.mashpeema.gov/home/events/15263 [38572] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/events/15263" [1]
+2017-01-02 02:46:24 URL:http://www.mashpeema.gov/home/events/15273 [38552] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/events/15273" [1]
+2017-01-02 02:46:26 URL:http://www.mashpeema.gov/zoning-board-appeals/events/7126 [43006] -> "../data/townSites2/Mashpee/www.mashpeema.gov/zoning-board-appeals/events/7126" [1]
+2017-01-02 02:46:27 URL:http://www.mashpeema.gov/calendar/day/2017-01-19 [44556] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/day/2017-01-19" [1]
+2017-01-02 02:46:29 URL:http://www.mashpeema.gov/human-services/events/9663 [41483] -> "../data/townSites2/Mashpee/www.mashpeema.gov/human-services/events/9663" [1]
+2017-01-02 02:46:30 URL:http://www.mashpeema.gov/home/events/15283 [38531] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/events/15283" [1]
+2017-01-02 02:46:31 URL:http://www.mashpeema.gov/home/events/18683 [38785] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/events/18683" [1]
+2017-01-02 02:46:33 URL:http://www.mashpeema.gov/sewer-commission/events/7394 [41885] -> "../data/townSites2/Mashpee/www.mashpeema.gov/sewer-commission/events/7394" [1]
+2017-01-02 02:46:35 URL:http://www.mashpeema.gov/board-health/events/7410 [43919] -> "../data/townSites2/Mashpee/www.mashpeema.gov/board-health/events/7410" [1]
+2017-01-02 02:46:36 URL:http://www.mashpeema.gov/calendar/day/2017-01-23 [43252] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/day/2017-01-23" [1]
+2017-01-02 02:46:37 URL:http://www.mashpeema.gov/home/events/15293 [38526] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/events/15293" [1]
+2017-01-02 02:46:38 URL:http://www.mashpeema.gov/calendar/day/2017-01-25 [43274] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/day/2017-01-25" [1]
+2017-01-02 02:46:40 URL:http://www.mashpeema.gov/planning-department/events/6929 [43145] -> "../data/townSites2/Mashpee/www.mashpeema.gov/planning-department/events/6929" [1]
+2017-01-02 02:46:41 URL:http://www.mashpeema.gov/calendar/day/2017-01-26 [43595] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/day/2017-01-26" [1]
+2017-01-02 02:46:42 URL:http://www.mashpeema.gov/home/events/15323 [38797] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/events/15323" [1]
+2017-01-02 02:46:43 URL:http://www.mashpeema.gov/home/events/15303 [38574] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/events/15303" [1]
+2017-01-02 02:46:45 URL:http://www.mashpeema.gov/calendar/month/2017-01 [175015] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/month/2017-01" [1]
+2017-01-02 02:46:48 URL:http://www.mashpeema.gov/files [59500] -> "../data/townSites2/Mashpee/www.mashpeema.gov/files" [1]
+2017-01-02 02:46:49 URL:http://www.mashpeema.gov/channel-18 [45158] -> "../data/townSites2/Mashpee/www.mashpeema.gov/channel-18" [1]
+2017-01-02 02:46:51 URL:http://www.mashpeema.gov/minutes-and-agendas [43057] -> "../data/townSites2/Mashpee/www.mashpeema.gov/minutes-and-agendas" [1]
+2017-01-02 02:46:52 URL:http://www.mashpeema.gov/sewer/pages/watershed-nitrogen-management-plan [44824] -> "../data/townSites2/Mashpee/www.mashpeema.gov/sewer/pages/watershed-nitrogen-management-plan" [1]
+2017-01-02 02:46:53 URL:http://www.mashpeema.gov/home/pages/online-services [39032] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/pages/online-services" [1]
+2017-01-02 02:46:55 URL:http://www.mashpeema.gov/department-contacts [56796] -> "../data/townSites2/Mashpee/www.mashpeema.gov/department-contacts" [1]
+2017-01-02 02:46:56 URL:http://www.mashpeema.gov/home/pages/disclaimer-and-terms-use [39034] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/pages/disclaimer-and-terms-use" [1]
+2017-01-02 02:46:57 URL:http://www.mashpeema.gov/discover-mashpee [40575] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/726" [1]
+2017-01-02 02:46:58 URL:http://www.mashpeema.gov/print/726 [6535] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/726" [1]
+2017-01-02 02:46:59 URL: http://www.mashpeema.gov/node/726/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:47:00 URL:http://www.mashpeema.gov/discover-mashpee/pages/area-attractions [40933] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/6144" [1]
+2017-01-02 02:47:01 URL:http://www.mashpeema.gov/print/6144 [7363] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/6144" [1]
+2017-01-02 02:47:02 URL:http://www.mashpeema.gov/discover-mashpee/pages/directions [40291] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/6742" [1]
+2017-01-02 02:47:03 URL:http://www.mashpeema.gov/print/6742 [6570] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/6742" [1]
+2017-01-02 02:47:04 URL:http://www.mashpeema.gov/discover-mashpee/slideshows/images-mashpee [42785] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/6323" [1]
+2017-01-02 02:47:05 URL:http://www.mashpeema.gov/print/6323 [9383] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/6323" [1]
+2017-01-02 02:47:06 URL:http://www.mashpeema.gov/accounting [48186] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/41" [1]
+2017-01-02 02:47:07 URL:http://www.mashpeema.gov/print/41 [9838] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/41" [1]
+2017-01-02 02:47:08 URL:http://www.mashpeema.gov/user/56/contact [40282] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/56/contact" [1]
+2017-01-02 02:47:09 URL: http://www.mashpeema.gov/node/41/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:47:10 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/fy_2008_audit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:47:11 URL:http://www.mashpeema.gov/accounting-department/pages/fy-2009-audit [42306] -> "../data/townSites2/Mashpee/www.mashpeema.gov/accounting-department/pages/fy-2009-audit" [1]
+2017-01-02 02:47:12 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/fy_2010_audit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:47:14 URL:http://www.mashpeema.gov/accounting-department/pages/fy-2011-audit [42304] -> "../data/townSites2/Mashpee/www.mashpeema.gov/accounting-department/pages/fy-2011-audit" [1]
+2017-01-02 02:47:15 URL:http://www.mashpeema.gov/accounting-department/pages/fy-2012-audit [42307] -> "../data/townSites2/Mashpee/www.mashpeema.gov/accounting-department/pages/fy-2012-audit" [1]
+2017-01-02 02:47:16 URL:http://www.mashpeema.gov/accounting-department/pages/fy-2013-audit [42301] -> "../data/townSites2/Mashpee/www.mashpeema.gov/accounting-department/pages/fy-2013-audit" [1]
+2017-01-02 02:47:18 URL:http://www.mashpeema.gov/accounting-department/pages/fy-2014-audit [42301] -> "../data/townSites2/Mashpee/www.mashpeema.gov/accounting-department/pages/fy-2014-audit" [1]
+2017-01-02 02:47:19 URL:http://www.mass.gov/dor/local-officials/dls-newsroom/dls-publications/new-growth/ [33982] -> "../data/townSites2/Mashpee/www.mashpeema.gov/accounting/links/municipal-knowledge-base" [1]
+2017-01-02 02:47:20 URL:http://www.mashpeema.gov/news [39750] -> "../data/townSites2/Mashpee/www.mashpeema.gov/news" [1]
+2017-01-02 02:47:21 URL:http://www.mashpeema.gov/home/news/cape-cod-rabies-task-force [38286] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/news/cape-cod-rabies-task-force" [1]
+2017-01-02 02:47:22 URL:http://www.mashpeema.gov/home/news/mashpee-recreation-fall-2016 [37969] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/news/mashpee-recreation-fall-2016" [1]
+2017-01-02 02:47:24 URL:http://www.mashpeema.gov/news/1 [39764] -> "../data/townSites2/Mashpee/www.mashpeema.gov/news/1" [1]
+2017-01-02 02:47:25 URL:http://www.mashpeema.gov/assessing [67224] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/10" [1]
+2017-01-02 02:47:26 URL:http://www.mashpeema.gov/print/10 [13684] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/10" [1]
+2017-01-02 02:47:28 URL:http://www.mashpeema.gov/user/136/contact [40311] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/136/contact" [1]
+2017-01-02 02:47:30 URL: http://www.mashpeema.gov/node/10/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:47:31 URL:http://www.mashpeema.gov/assessing/pages/assessor-reports [43288] -> "../data/townSites2/Mashpee/www.mashpeema.gov/assessing/pages/assessor-reports" [1]
+2017-01-02 02:47:33 URL:http://www.barnstabledeeds.org/ [45894] -> "../data/townSites2/Mashpee/www.mashpeema.gov/assessing/links/barnstable-county-registry-deeds" [1]
+2017-01-02 02:47:34 URL:http://www.mashpeema.gov/assessor/pages/betterment-payoff [44259] -> "../data/townSites2/Mashpee/www.mashpeema.gov/assessor/pages/betterment-payoff" [1]
+2017-01-02 02:47:35 URL:http://www.mashpeema.gov/assessor/pages/boat-mv-property-taxes [42914] -> "../data/townSites2/Mashpee/www.mashpeema.gov/assessor/pages/boat-mv-property-taxes" [1]
+2017-01-02 02:47:36 URL:http://www.mashpeema.gov/assessing/pages/forms [45149] -> "../data/townSites2/Mashpee/www.mashpeema.gov/assessing/pages/forms" [1]
+2017-01-02 02:47:38 URL:http://www.mashpeema.gov/assessor/pages/helpful-links [43151] -> "../data/townSites2/Mashpee/www.mashpeema.gov/assessor/pages/helpful-links" [1]
+2017-01-02 02:47:39 URL:http://www.mashpeema.gov/gis-e911/pages/interactive-town-map [44716] -> "../data/townSites2/Mashpee/www.mashpeema.gov/assessing/links/mashpee-gis" [1]
+2017-01-02 02:47:40 URL:http://www.mashpeema.gov/assessor/pages/property-inspections-dates [44463] -> "../data/townSites2/Mashpee/www.mashpeema.gov/assessor/pages/property-inspections-dates" [1]
+2017-01-02 02:47:42 URL:http://www.assessedvalues2.com/index.aspx?jurcode=172 [6868/6868] -> "../data/townSites2/Mashpee/www.mashpeema.gov/assessor/links/property-search-database" [1]
+2017-01-02 02:47:43 URL:http://www.mashpeema.gov/assessing/pages/tax-maps [55088] -> "../data/townSites2/Mashpee/www.mashpeema.gov/assessing/pages/tax-maps" [1]
+2017-01-02 02:47:44 URL:http://www.mashpeema.gov/assessing/pages/town-mashpee-2017-tax-rate [44768] -> "../data/townSites2/Mashpee/www.mashpeema.gov/assessing/pages/town-mashpee-2017-tax-rate" [1]
+2017-01-02 02:47:46 URL:http://www.mashpeema.gov/node/10/events/month [57554] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/10/events/month" [1]
+2017-01-02 02:47:47 URL:http://www.mashpeema.gov/node/10/events/month/2017-01 [57611] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/10/events/month/2017-01" [1]
+2017-01-02 02:47:48 URL:http://www.mashpeema.gov/node/10/minutes [37433] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/10/minutes" [1]
+2017-01-02 02:47:49 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/board_of_assessors_minutes_7_9_14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:47:50 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/board_of_assessors_minutes_4_29_14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:47:51 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/board_of_assessors_minutes_3_24_14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:47:52 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/board_of_assessors_minutes_2_26_14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:47:53 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/board_of_assessors_minutes_1_29_14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:47:54 URL:http://www.mashpeema.gov/building [53681] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/61" [1]
+2017-01-02 02:47:55 URL:http://www.mashpeema.gov/print/61 [9838] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/61" [1]
+2017-01-02 02:47:57 URL:http://www.mashpeema.gov/user/251/contact [40301] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/251/contact" [1]
+2017-01-02 02:47:59 URL:http://www.mashpeema.gov/user/256/contact [40317] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/256/contact" [1]
+2017-01-02 02:48:00 URL:http://www.mashpeema.gov/user/261/contact [40287] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/261/contact" [1]
+2017-01-02 02:48:02 URL:http://www.mashpeema.gov/user/281/contact [40295] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/281/contact" [1]
+2017-01-02 02:48:03 URL: http://www.mashpeema.gov/node/61/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:48:04 URL:http://www.mashpeema.gov/building/pages/building-permits-online [42080] -> "../data/townSites2/Mashpee/www.mashpeema.gov/building/pages/building-permits-online" [1]
+2017-01-02 02:48:05 URL:http://www.mashpeema.gov/building/pages/download-permits-and-forms [43889] -> "../data/townSites2/Mashpee/www.mashpeema.gov/building/pages/download-permits-and-forms" [1]
+2017-01-02 02:48:06 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/buildingpermitreq.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:48:07 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/permitfees.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:48:08 URL:http://www.mashpeema.gov/zoning-board-appeals [69596] -> "../data/townSites2/Mashpee/www.mashpeema.gov/building/links/zoning-board-appeals" [1]
+2017-01-02 02:48:09 URL:http://www.mashpeema.gov/node/61/faq [40997] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/61/faq" [1]
+2017-01-02 02:48:11 URL:http://www.mashpeema.gov/building-department/faq/how-do-i-apply-building-permit [42295] -> "../data/townSites2/Mashpee/www.mashpeema.gov/building-department/faq/how-do-i-apply-building-permit" [1]
+2017-01-02 02:48:12 URL:http://www.mashpeema.gov/building-department/faq/where-can-i-find-applications-permits-and-zoning-information [42061] -> "../data/townSites2/Mashpee/www.mashpeema.gov/building-department/faq/where-can-i-find-applications-permits-and-zoning-information" [1]
+2017-01-02 02:48:14 URL:http://www.mashpeema.gov/building-department/faq/why-doesnt-applicant-apply-first-building-department [42038] -> "../data/townSites2/Mashpee/www.mashpeema.gov/building-department/faq/why-doesnt-applicant-apply-first-building-department" [1]
+2017-01-02 02:48:15 URL:http://www.mashpeema.gov/building-department/faq/who-allowed-apply-building-wire-plumbing-or-gas-permit [42181] -> "../data/townSites2/Mashpee/www.mashpeema.gov/building-department/faq/who-allowed-apply-building-wire-plumbing-or-gas-permit" [1]
+2017-01-02 02:48:16 URL:http://www.mashpeema.gov/building-department/faq/what-time-frame-issuance-any-construction-permit-once-application-complete [42055] -> "../data/townSites2/Mashpee/www.mashpeema.gov/building-department/faq/what-time-frame-issuance-any-construction-permit-once-application-complete" [1]
+2017-01-02 02:48:18 URL:http://www.mashpeema.gov/conservation [80245] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/71" [1]
+2017-01-02 02:48:19 URL:http://www.mashpeema.gov/print/71 [15537] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/71" [1]
+2017-01-02 02:48:21 URL:http://www.mashpeema.gov/user/111/contact [40305] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/111/contact" [1]
+2017-01-02 02:48:22 URL:http://www.mashpeema.gov/user/653/contact [40313] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/653/contact" [1]
+2017-01-02 02:48:24 URL:http://www.mashpeema.gov/user/121/contact [40293] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/121/contact" [1]
+2017-01-02 02:48:26 URL:http://www.mashpeema.gov/people/thomas-j-oneill [40348] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/12803" [1]
+2017-01-02 02:48:28 URL: http://www.mashpeema.gov/node/71/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:48:30 URL:http://www.mashpeema.gov/conservation/pages/benefits-planting-regionally-native-plant-species [51593] -> "../data/townSites2/Mashpee/www.mashpeema.gov/conservation/pages/benefits-planting-regionally-native-plant-species" [1]
+2017-01-02 02:48:31 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/2017conservationmtgcalendar.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:48:32 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/2017conservationmtgdatesdeadlines.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:48:34 URL:http://www.mashpeema.gov/conservation/pages/conservation-resources [47255] -> "../data/townSites2/Mashpee/www.mashpeema.gov/conservation/pages/conservation-resources" [1]
+2017-01-02 02:48:35 URL:http://www.mashpeema.gov/conservation/pages/consultants [46527] -> "../data/townSites2/Mashpee/www.mashpeema.gov/conservation/pages/consultants" [1]
+2017-01-02 02:48:36 URL:http://www.mashpeema.gov/conservation/pages/homeowners%E2%80%99-guide-protecting-wildlife-habitat [51651] -> "../data/townSites2/Mashpee/www.mashpeema.gov/conservation/pages/homeownersâ%80%99-guide-protecting-wildlife-habitat" [1]
+2017-01-02 02:48:38 URL:http://www.mashpeema.gov/conservation/pages/learn-about-wetlands [49307] -> "../data/townSites2/Mashpee/www.mashpeema.gov/conservation/pages/learn-about-wetlands" [1]
+2017-01-02 02:48:40 URL:http://www.mashpeema.gov/mashpee-land-stewards-program [50655] -> "../data/townSites2/Mashpee/www.mashpeema.gov/mashpee-land-stewards-program" [1]
+2017-01-02 02:48:41 URL:http://www.mashpeema.gov/mashpee-land-stewards-program/pages/atlantic-white-cedar-swamps [45374] -> "../data/townSites2/Mashpee/www.mashpeema.gov/mashpee-land-stewards-program/pages/atlantic-white-cedar-swamps" [1]
+2017-01-02 02:48:43 URL:http://www.mashpeema.gov/mashpee-land-stewards-program/pages/build-your-own-compost-bin [43075] -> "../data/townSites2/Mashpee/www.mashpeema.gov/mashpee-land-stewards-program/pages/build-your-own-compost-bin" [1]
+2017-01-02 02:48:44 URL:http://www.mashpeema.gov/mashpee-land-stewards-program/pages/eco-smart-information [46533] -> "../data/townSites2/Mashpee/www.mashpeema.gov/mashpee-land-stewards-program/pages/eco-smart-information" [1]
+2017-01-02 02:48:46 URL:http://www.mashpeema.gov/mashpee-land-stewards-program/pages/helpful-links [43335] -> "../data/townSites2/Mashpee/www.mashpeema.gov/mashpee-land-stewards-program/pages/helpful-links" [1]
+2017-01-02 02:48:47 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/herring_count_program.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:48:49 URL:http://www.mashpeema.gov/mashpee-land-stewards-program/webforms/land-steward-parcel-observation-form [66529/66529] -> "../data/townSites2/Mashpee/www.mashpeema.gov/mashpee-land-stewards-program/webforms/land-steward-parcel-observation-form" [1]
+2017-01-02 02:48:51 URL:http://www.mashpeema.gov/mashpee-land-stewards-program/pages/land-steward-program-manual [43280] -> "../data/townSites2/Mashpee/www.mashpeema.gov/mashpee-land-stewards-program/pages/land-steward-program-manual" [1]
+2017-01-02 02:48:53 URL:http://www.mashpeema.gov/mashpee-land-stewards-program/webforms/land-steward-sign-sheet [53034/53034] -> "../data/townSites2/Mashpee/www.mashpeema.gov/mashpee-land-stewards-program/webforms/land-steward-sign-sheet" [1]
+2017-01-02 02:48:56 URL:http://www.mashpeema.gov/user/login?destination=node/6562 [37649] -> "../data/townSites2/Mashpee/www.mashpeema.gov/mashpee-land-stewards-program/links/mashpee-national-wildlife-refuge" [1]
+2017-01-02 02:48:58 URL:http://www.mashpeema.gov/things-do-and-see-mashpee-conservation-lands/pages/nature-tours [46883] -> "../data/townSites2/Mashpee/www.mashpeema.gov/mashpee-land-stewards-program/links/nature-tours" [1]
+2017-01-02 02:49:00 URL:http://www.mashpeema.gov/mashpee-land-stewards-program/pages/newsletters [43966] -> "../data/townSites2/Mashpee/www.mashpeema.gov/mashpee-land-stewards-program/pages/newsletters" [1]
+2017-01-02 02:49:01 URL:http://www.mashpeema.gov/mashpee-land-stewards-program/pages/parcel-maps [47603] -> "../data/townSites2/Mashpee/www.mashpeema.gov/mashpee-land-stewards-program/pages/parcel-maps" [1]
+2017-01-02 02:49:03 URL:http://www.mashpeema.gov/things-do-and-see-mashpee-conservation-lands/pages/trail-guides [45009] -> "../data/townSites2/Mashpee/www.mashpeema.gov/mashpee-land-stewards-program/links/trail-guides" [1]
+2017-01-02 02:49:04 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/vernal_pools_of_mashpee.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:49:05 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/tourschedule910.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:49:07 URL:http://www.mashpeema.gov/planning-department/pages/open-space-conservation-recreation-plan [47044] -> "../data/townSites2/Mashpee/www.mashpeema.gov/conservation/links/open-space-conservation-recreation-plan" [1]
+2017-01-02 02:49:08 URL:http://www.mashpeema.gov/conservation/pages/photo-galleries [46374] -> "../data/townSites2/Mashpee/www.mashpeema.gov/conservation/pages/photo-galleries" [1]
+2017-01-02 02:49:09 URL:http://www.mashpeema.gov/conservation/pages/regulations-bylaws-policies [46990] -> "../data/townSites2/Mashpee/www.mashpeema.gov/conservation/pages/regulations-bylaws-policies" [1]
+2017-01-02 02:49:11 URL:http://www.mashpeema.gov/things-do-and-see-mashpee-conservation-lands [46672] -> "../data/townSites2/Mashpee/www.mashpeema.gov/things-do-and-see-mashpee-conservation-lands" [1]
+2017-01-02 02:49:12 URL:http://www.mashpeema.gov/things-do-and-see-mashpee-conservation-lands/webforms/community-garden [43877] -> "../data/townSites2/Mashpee/www.mashpeema.gov/things-do-and-see-mashpee-conservation-lands/webforms/community-garden" [1]
+2017-01-02 02:49:14 URL:http://www.mashpeema.gov/things-do-and-see-mashpee-conservation-lands/webforms/habitats-mashpee [47173] -> "../data/townSites2/Mashpee/www.mashpeema.gov/things-do-and-see-mashpee-conservation-lands/webforms/habitats-mashpee" [1]
+2017-01-02 02:49:15 URL:http://www.mashpeema.gov/things-do-and-see-mashpee-conservation-lands/webforms/herring-runs-mashpee [43906] -> "../data/townSites2/Mashpee/www.mashpeema.gov/things-do-and-see-mashpee-conservation-lands/webforms/herring-runs-mashpee" [1]
+2017-01-02 02:49:16 URL:http://www.mashpeema.gov/things-do-and-see-mashpee-conservation-lands/pages/nature-tours [46883] -> "../data/townSites2/Mashpee/www.mashpeema.gov/things-do-and-see-mashpee-conservation-lands/pages/nature-tours" [1]
+2017-01-02 02:49:17 URL:http://www.mashpeema.gov/things-do-and-see-mashpee-conservation-lands/webforms/pollinator-gardens [46790] -> "../data/townSites2/Mashpee/www.mashpeema.gov/things-do-and-see-mashpee-conservation-lands/webforms/pollinator-gardens" [1]
+2017-01-02 02:49:18 URL:http://www.mashpeema.gov/things-do-and-see-mashpee-conservation-lands/pages/trail-guides [45009] -> "../data/townSites2/Mashpee/www.mashpeema.gov/things-do-and-see-mashpee-conservation-lands/pages/trail-guides" [1]
+2017-01-02 02:49:19 URL:http://www.mashpeema.gov/conservation/pages/wetland-permit-forms-fees [49720] -> "../data/townSites2/Mashpee/www.mashpeema.gov/conservation/pages/wetland-permit-forms-fees" [1]
+2017-01-02 02:49:21 URL:http://www.mashpeema.gov/node/71/faq [43846] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/71/faq" [1]
+2017-01-02 02:49:22 URL:http://www.mashpeema.gov/conservation/faq/what-conservation-commission%E2%80%99s-role-town [46748] -> "../data/townSites2/Mashpee/www.mashpeema.gov/conservation/faq/what-conservation-commissionâ%80%99s-role-town" [1]
+2017-01-02 02:49:23 URL:http://www.mashpeema.gov/conservation/faq/why-do-we-protect-wetlands [46912] -> "../data/townSites2/Mashpee/www.mashpeema.gov/conservation/faq/why-do-we-protect-wetlands" [1]
+2017-01-02 02:49:24 URL:http://www.mashpeema.gov/conservation/faq/when-am-i-required-file-application-conservation-commission [47704] -> "../data/townSites2/Mashpee/www.mashpeema.gov/conservation/faq/when-am-i-required-file-application-conservation-commission" [1]
+2017-01-02 02:49:26 URL:http://www.mashpeema.gov/conservation/faq/how-can-i-learn-more-information-about-conservation-tours-offered-mashpee [46652] -> "../data/townSites2/Mashpee/www.mashpeema.gov/conservation/faq/how-can-i-learn-more-information-about-conservation-tours-offered-mashpee" [1]
+2017-01-02 02:49:28 URL:http://www.mashpeema.gov/conservation/faq/whom-should-i-call-report-illegal-dumping-or-illegal-activities [47180] -> "../data/townSites2/Mashpee/www.mashpeema.gov/conservation/faq/whom-should-i-call-report-illegal-dumping-or-illegal-activities" [1]
+2017-01-02 02:49:29 URL:http://www.mashpeema.gov/node/71/events/month [61341] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/71/events/month" [1]
+2017-01-02 02:49:31 URL:http://www.mashpeema.gov/node/71/events/month/2017-01 [61398] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/71/events/month/2017-01" [1]
+2017-01-02 02:49:32 URL:http://www.mashpeema.gov/node/71/agenda [41139] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/71/agenda" [1]
+2017-01-02 02:49:34 URL: http://www.mashpeema.gov/sites/mashpeema/files/agendas/agenda.12.8.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:49:35 URL: http://www.mashpeema.gov/sites/mashpeema/files/agendas/agenda.11.10.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:49:36 URL: http://www.mashpeema.gov/sites/mashpeema/files/agendas/agenda.11.10.2016.revised.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:49:37 URL: http://www.mashpeema.gov/sites/mashpeema/files/agendas/agenda.10.27.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:49:37 URL: http://www.mashpeema.gov/sites/mashpeema/files/agendas/agenda.10.13.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:49:39 URL:http://www.mashpeema.gov/node/71/minutes [41214] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/71/minutes" [1]
+2017-01-02 02:49:39 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/minutes.11.10.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:49:40 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/minutes.10.27.2016f.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:49:41 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/minutes.10.13.2016f.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:49:42 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/minutes.9.22.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:49:43 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/minutes.8.25.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:49:44 URL:http://www.mashpeema.gov/council-aging [73350] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/76" [1]
+2017-01-02 02:49:45 URL:http://www.mashpeema.gov/print/76 [17443] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/76" [1]
+2017-01-02 02:49:47 URL:http://www.mashpeema.gov/user/413/contact [40305] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/413/contact" [1]
+2017-01-02 02:49:49 URL:http://www.mashpeema.gov/user/414/contact [40301] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/414/contact" [1]
+2017-01-02 02:49:51 URL:http://www.mashpeema.gov/user/415/contact [40281] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/415/contact" [1]
+2017-01-02 02:49:52 URL:http://www.mashpeema.gov/user/416/contact [40273] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/416/contact" [1]
+2017-01-02 02:49:54 URL: http://www.mashpeema.gov/node/76/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:49:55 URL:http://www.mass.gov/elders/ [93362] -> "../data/townSites2/Mashpee/www.mashpeema.gov/council-aging-senior-center/links/commonwealth-massachusetts-executive-office-elder-affairs" [1]
+2017-01-02 02:49:56 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/directoryofserviceproviders.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:49:57 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/mashpee_senior_center_activities_may_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:49:58 URL:http://www.mashpeema.gov/node/76/faq [37963] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/76/faq" [1]
+2017-01-02 02:50:00 URL:http://www.mashpeema.gov/council-aging-senior-center/faq/what-activities-are-offered-senior-center [42452] -> "../data/townSites2/Mashpee/www.mashpeema.gov/council-aging-senior-center/faq/what-activities-are-offered-senior-center" [1]
+2017-01-02 02:50:01 URL:http://www.mashpeema.gov/council-aging-senior-center/faq/what-are-benefits-joining-mashpee-senior-center-and-how-do-i-join [43268] -> "../data/townSites2/Mashpee/www.mashpeema.gov/council-aging-senior-center/faq/what-are-benefits-joining-mashpee-senior-center-and-how-do-i-join" [1]
+2017-01-02 02:50:03 URL:http://www.mashpeema.gov/council-aging/faq/what-transportation-options-are-available-through-senior-center [42776] -> "../data/townSites2/Mashpee/www.mashpeema.gov/council-aging/faq/what-transportation-options-are-available-through-senior-center" [1]
+2017-01-02 02:50:05 URL:http://www.mashpeema.gov/council-aging/faq/what-services-does-senior-center-provide [42438] -> "../data/townSites2/Mashpee/www.mashpeema.gov/council-aging/faq/what-services-does-senior-center-provide" [1]
+2017-01-02 02:50:06 URL:http://www.mashpeema.gov/council-aging/faq/what-outreach [42327] -> "../data/townSites2/Mashpee/www.mashpeema.gov/council-aging/faq/what-outreach" [1]
+2017-01-02 02:50:08 URL:http://www.mashpeema.gov/node/76/news [38675] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/76/news" [1]
+2017-01-02 02:50:10 URL:http://www.mashpeema.gov/council-aging-senior-center/news/january-2017-newsletter [42016] -> "../data/townSites2/Mashpee/www.mashpeema.gov/council-aging-senior-center/news/january-2017-newsletter" [1]
+2017-01-02 02:50:11 URL:http://www.mashpeema.gov/council-aging-senior-center/news/december-2016-newsletter [42029] -> "../data/townSites2/Mashpee/www.mashpeema.gov/council-aging-senior-center/news/december-2016-newsletter" [1]
+2017-01-02 02:50:13 URL:http://www.mashpeema.gov/council-aging-senior-center/news/november-2016-newsletter [42028] -> "../data/townSites2/Mashpee/www.mashpeema.gov/council-aging-senior-center/news/november-2016-newsletter" [1]
+2017-01-02 02:50:14 URL:http://www.mashpeema.gov/council-aging-senior-center/news/october-2016-newsletter [42022] -> "../data/townSites2/Mashpee/www.mashpeema.gov/council-aging-senior-center/news/october-2016-newsletter" [1]
+2017-01-02 02:50:15 URL:http://www.mashpeema.gov/council-aging-senior-center/news/september-2016-newsletter [42034] -> "../data/townSites2/Mashpee/www.mashpeema.gov/council-aging-senior-center/news/september-2016-newsletter" [1]
+2017-01-02 02:50:17 URL:http://www.mashpeema.gov/node/76/events/month [60596] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/76/events/month" [1]
+2017-01-02 02:50:18 URL:http://www.mashpeema.gov/node/76/events/day/2017-01-11 [39976] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/76/events/day/2017-01-11" [1]
+2017-01-02 02:50:20 URL:http://www.mashpeema.gov/node/76/events/month/2017-01 [60653] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/76/events/month/2017-01" [1]
+2017-01-02 02:50:21 URL:http://www.mashpeema.gov/node/76/minutes [36769] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/76/minutes" [1]
+2017-01-02 02:50:22 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/coa_board_minutes_october_19_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:50:23 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/coa_minutes_september_14_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:50:24 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/coa_board_minutes_august_10_2016_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:50:24 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/coa_board_minutes_july_13_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:50:25 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/coa_board_minutes_june_8_2016-1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:50:26 URL:http://www.mashpeema.gov/fire-rescue [55378] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/81" [1]
+2017-01-02 02:50:28 URL:http://www.mashpeema.gov/print/81 [14547] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/81" [1]
+2017-01-02 02:50:30 URL:http://www.mashpeema.gov/user/196/contact [40289] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/196/contact" [1]
+2017-01-02 02:50:32 URL:http://www.mashpeema.gov/user/201/contact [40293] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/201/contact" [1]
+2017-01-02 02:50:34 URL:http://www.mashpeema.gov/user/206/contact [40289] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/206/contact" [1]
+2017-01-02 02:50:36 URL:http://www.mashpeema.gov/user/211/contact [40281] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/211/contact" [1]
+2017-01-02 02:50:38 URL:http://www.mashpeema.gov/user/216/contact [40309] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/216/contact" [1]
+2017-01-02 02:50:39 URL:http://www.mashpeema.gov/user/221/contact [40273] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/221/contact" [1]
+2017-01-02 02:50:41 URL:http://www.mashpeema.gov/user/226/contact [40299] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/226/contact" [1]
+2017-01-02 02:50:43 URL:http://www.mashpeema.gov/user/236/contact [40299] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/236/contact" [1]
+2017-01-02 02:50:45 URL:http://www.mashpeema.gov/user/231/contact [40293] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/231/contact" [1]
+2017-01-02 02:50:46 URL: http://www.mashpeema.gov/node/81/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:50:48 URL:http://www.mashpeema.gov/fire-rescue/pages/2015-department-report [49400] -> "../data/townSites2/Mashpee/www.mashpeema.gov/fire-rescue/pages/2015-department-report" [1]
+2017-01-02 02:50:49 URL:http://www.mashpeema.gov/fire-rescue/pages/carbon-monoxide-information [46651] -> "../data/townSites2/Mashpee/www.mashpeema.gov/fire-rescue/pages/carbon-monoxide-information" [1]
+2017-01-02 02:50:51 URL:http://www.mashpeema.gov/fire-rescue/pages/fire-prevention [47098] -> "../data/townSites2/Mashpee/www.mashpeema.gov/fire-rescue/pages/fire-prevention" [1]
+2017-01-02 02:50:53 URL:http://www.mashpeema.gov/fire-rescue/pages/our-apparatus [45963] -> "../data/townSites2/Mashpee/www.mashpeema.gov/fire-rescue/pages/our-apparatus" [1]
+2017-01-02 02:50:54 URL:http://www.mashpeema.gov/fire-department/slideshows/our-fire-stations [43698] -> "../data/townSites2/Mashpee/www.mashpeema.gov/fire-department/slideshows/our-fire-stations" [1]
+2017-01-02 02:50:56 URL:http://www.mashpeema.gov/fire-rescue/pages/welcome-chief [45285] -> "../data/townSites2/Mashpee/www.mashpeema.gov/fire-rescue/pages/welcome-chief" [1]
+2017-01-02 02:50:57 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/mashpeewildlife.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:50:58 URL:http://www.mashpeema.gov/board-health [73474] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/56" [1]
+2017-01-02 02:50:59 URL:http://www.mashpeema.gov/print/56 [12589] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/56" [1]
+2017-01-02 02:51:02 URL:http://www.mashpeema.gov/user/141/contact [40325] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/141/contact" [1]
+2017-01-02 02:51:04 URL: http://www.mashpeema.gov/node/56/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:51:06 URL:http://www.mashpeema.gov/board-health/pages/applications-forms-fees [47989] -> "../data/townSites2/Mashpee/www.mashpeema.gov/board-health/pages/applications-forms-fees" [1]
+2017-01-02 02:51:07 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/2016regulations_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:51:08 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/bodyartfac.app_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:51:08 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/environmental_companies_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:51:09 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/2016feeschedule_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:51:11 URL:http://www.mashpeema.gov/board-health/pages/flu-facts [45004] -> "../data/townSites2/Mashpee/www.mashpeema.gov/board-health/pages/flu-facts" [1]
+2017-01-02 02:51:13 URL:http://www.mashpeema.gov/board-health/pages/health-educational-materials [43926] -> "../data/townSites2/Mashpee/www.mashpeema.gov/board-health/pages/health-educational-materials" [1]
+2017-01-02 02:51:14 URL:http://www.mashpeema.gov/board-health/pages/helpful-links [45221] -> "../data/townSites2/Mashpee/www.mashpeema.gov/board-health/pages/helpful-links" [1]
+2017-01-02 02:51:15 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/licensed_trash_haulers.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:51:17 URL:http://www.mashpeema.gov/board-health/pages/prescription-drug-disposal [43655] -> "../data/townSites2/Mashpee/www.mashpeema.gov/board-health/pages/prescription-drug-disposal" [1]
+2017-01-02 02:51:18 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/2017bohmeetinganddeadlineschedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:51:19 URL:http://www.mashpeema.gov/board-health/pages/rabies-vaccination [43821] -> "../data/townSites2/Mashpee/www.mashpeema.gov/board-health/pages/rabies-vaccination" [1]
+http://www.mass.gov/eohhs/docs/dph/environmental/investigations/cape/mmr-factsheet.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:51:22 URL:http://www.mashpeema.gov/board-health/pages/septic-information-contractors [44275] -> "../data/townSites2/Mashpee/www.mashpeema.gov/board-health/pages/septic-information-contractors" [1]
+2017-01-02 02:51:24 URL:http://www.mashpeema.gov/board-health/pages/sharps-disposal [45251] -> "../data/townSites2/Mashpee/www.mashpeema.gov/board-health/pages/sharps-disposal" [1]
+2017-01-02 02:51:25 URL:http://www.mashpeema.gov/board-health/pages/smoking-and-tobacco [43656] -> "../data/townSites2/Mashpee/www.mashpeema.gov/board-health/pages/smoking-and-tobacco" [1]
+2017-01-02 02:51:27 URL:http://www.mashpeema.gov/board-health/pages/ticks-and-lyme-disease [44501] -> "../data/townSites2/Mashpee/www.mashpeema.gov/board-health/pages/ticks-and-lyme-disease" [1]
+2017-01-02 02:51:28 URL:http://www.mashpeema.gov/node/56/faq [41566] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/56/faq" [1]
+2017-01-02 02:51:29 URL:http://www.mashpeema.gov/board-health/faq/how-do-i-locate-my-septic-system [43430] -> "../data/townSites2/Mashpee/www.mashpeema.gov/board-health/faq/how-do-i-locate-my-septic-system" [1]
+2017-01-02 02:51:31 URL:http://www.mashpeema.gov/board-health/faq/how-do-i-obtain-board-health-sign-my-building-permit-application [44555] -> "../data/townSites2/Mashpee/www.mashpeema.gov/board-health/faq/how-do-i-obtain-board-health-sign-my-building-permit-application" [1]
+2017-01-02 02:51:33 URL:http://www.mashpeema.gov/board-health/faq/how-do-i-get-board-health-sign-my-occupancy-permit-new-construction [43796] -> "../data/townSites2/Mashpee/www.mashpeema.gov/board-health/faq/how-do-i-get-board-health-sign-my-occupancy-permit-new-construction" [1]
+2017-01-02 02:51:34 URL:http://www.mashpeema.gov/board-health/faq/who-licensed-repair-my-septic-system [43826] -> "../data/townSites2/Mashpee/www.mashpeema.gov/board-health/faq/who-licensed-repair-my-septic-system" [1]
+2017-01-02 02:51:36 URL:http://www.mashpeema.gov/board-health/faq/i-am-selling-my-house-how-do-i-get-my-septic-system-inspected [43462] -> "../data/townSites2/Mashpee/www.mashpeema.gov/board-health/faq/i-am-selling-my-house-how-do-i-get-my-septic-system-inspected" [1]
+2017-01-02 02:51:37 URL:http://www.mashpeema.gov/node/56/news [39279] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/56/news" [1]
+2017-01-02 02:51:39 URL:http://www.mashpeema.gov/board-health/news/potassium-iodide-tablets [44331] -> "../data/townSites2/Mashpee/www.mashpeema.gov/board-health/news/potassium-iodide-tablets" [1]
+2017-01-02 02:51:40 URL:http://www.mashpeema.gov/board-health/news/mosquito-facts [47218] -> "../data/townSites2/Mashpee/www.mashpeema.gov/board-health/news/mosquito-facts" [1]
+2017-01-02 02:51:42 URL:http://www.mashpeema.gov/node/56/events/month [70110] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/56/events/month" [1]
+2017-01-02 02:51:43 URL:http://www.mashpeema.gov/node/56/events/day/2017-01-05 [41618] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/56/events/day/2017-01-05" [1]
+2017-01-02 02:51:45 URL:http://www.mashpeema.gov/node/56/events/day/2017-01-12 [41627] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/56/events/day/2017-01-12" [1]
+2017-01-02 02:51:46 URL:http://www.mashpeema.gov/node/56/events/day/2017-01-19 [41626] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/56/events/day/2017-01-19" [1]
+2017-01-02 02:51:48 URL:http://www.mashpeema.gov/node/56/events/month/2017-01 [70167] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/56/events/month/2017-01" [1]
+2017-01-02 02:51:50 URL:http://www.mashpeema.gov/node/56/agenda [38297] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/56/agenda" [1]
+2017-01-02 02:51:51 URL: http://www.mashpeema.gov/sites/mashpeema/files/agendas/12-15-16_boh_agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:51:52 URL: http://www.mashpeema.gov/sites/mashpeema/files/agendas/12-01-16_board_of_health_agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:51:53 URL: http://www.mashpeema.gov/sites/mashpeema/files/agendas/11-03-16_boh_agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:51:54 URL: http://www.mashpeema.gov/sites/mashpeema/files/agendas/10-20-16_boh_agenda_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:51:55 URL: http://www.mashpeema.gov/sites/mashpeema/files/agendas/10-06-16_boh_agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:51:56 URL:http://www.mashpeema.gov/node/56/minutes [38439] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/56/minutes" [1]
+2017-01-02 02:51:57 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/boh_public_12-01-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:51:58 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/boh_public_11-03-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:51:59 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/boh_public_10-20-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:52:00 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/boh_public_10-06-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:52:01 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/boh_public_09-15-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:52:02 URL:http://www.mashpeema.gov/gis-e911 [50906] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/86" [1]
+2017-01-02 02:52:03 URL:http://www.mashpeema.gov/print/86 [8996] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/86" [1]
+2017-01-02 02:52:05 URL:http://www.mashpeema.gov/user/311/contact [40317] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/311/contact" [1]
+2017-01-02 02:52:07 URL:http://www.mashpeema.gov/user/316/contact [40321] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/316/contact" [1]
+2017-01-02 02:52:09 URL:http://www.mashpeema.gov/user/321/contact [40289] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/321/contact" [1]
+2017-01-02 02:52:10 URL: http://www.mashpeema.gov/node/86/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:52:11 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/map_book.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:52:12 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/2016_street_map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:52:14 URL:http://www.mashpeema.gov/gis-e911/pages/fema-firm-panels [44128] -> "../data/townSites2/Mashpee/www.mashpeema.gov/gis-e911/pages/fema-firm-panels" [1]
+2017-01-02 02:52:14 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/gis_service_fees_schedule_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:52:17 URL:http://www.mashpeema.gov/assessing/pages/tax-maps [55088] -> "../data/townSites2/Mashpee/www.mashpeema.gov/gis-e911/links/tax-maps" [1]
+2017-01-02 02:52:18 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/zoning_map_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:52:19 URL:http://www.mashpeema.gov/node/86/faq [37965] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/86/faq" [1]
+2017-01-02 02:52:21 URL:http://www.mashpeema.gov/gis-e911/faq/can-i-access-mashpees-gis-online [42038] -> "../data/townSites2/Mashpee/www.mashpeema.gov/gis-e911/faq/can-i-access-mashpees-gis-online" [1]
+2017-01-02 02:52:22 URL:http://www.mashpeema.gov/gis/faq/what-gis [41966] -> "../data/townSites2/Mashpee/www.mashpeema.gov/gis/faq/what-gis" [1]
+2017-01-02 02:52:25 URL:http://www.mashpeema.gov/gis/faq/does-mashpee-have-gis [42243] -> "../data/townSites2/Mashpee/www.mashpeema.gov/gis/faq/does-mashpee-have-gis" [1]
+2017-01-02 02:52:26 URL:http://www.mashpeema.gov/gis/faq/what-gis-software-does-town-use [41891] -> "../data/townSites2/Mashpee/www.mashpeema.gov/gis/faq/what-gis-software-does-town-use" [1]
+2017-01-02 02:52:27 URL:http://www.mashpeema.gov/gis/faq/does-town-have-aerial-photographs [42255] -> "../data/townSites2/Mashpee/www.mashpeema.gov/gis/faq/does-town-have-aerial-photographs" [1]
+2017-01-02 02:52:29 URL:http://www.mashpeema.gov/human-resources [48978] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/96" [1]
+2017-01-02 02:52:30 URL:http://www.mashpeema.gov/print/96 [8956] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/96" [1]
+2017-01-02 02:52:32 URL:http://www.mashpeema.gov/user/434/contact [40295] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/434/contact" [1]
+2017-01-02 02:52:34 URL: http://www.mashpeema.gov/node/96/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:52:36 URL:http://www.mashpeema.gov/human-resources/pages/employee-benefits [41241] -> "../data/townSites2/Mashpee/www.mashpeema.gov/human-resources/pages/employee-benefits" [1]
+2017-01-02 02:52:37 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/family_and_medical_leave.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:52:38 URL:http://www.mashpeema.gov/node/96/faq [38675] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/96/faq" [1]
+2017-01-02 02:52:40 URL:http://www.mashpeema.gov/human-resources/faq/how-do-i-get-my-application-you [41959] -> "../data/townSites2/Mashpee/www.mashpeema.gov/human-resources/faq/how-do-i-get-my-application-you" [1]
+2017-01-02 02:52:42 URL:http://www.mashpeema.gov/human-resources/faq/where-can-i-find-list-positions-open-town [41670] -> "../data/townSites2/Mashpee/www.mashpeema.gov/human-resources/faq/where-can-i-find-list-positions-open-town" [1]
+2017-01-02 02:52:44 URL:http://www.mashpeema.gov/human-resources/faq/where-can-i-get-application [41803] -> "../data/townSites2/Mashpee/www.mashpeema.gov/human-resources/faq/where-can-i-get-application" [1]
+2017-01-02 02:52:46 URL:http://www.mashpeema.gov/human-resources/faq/do-i-have-submit-cover-letter-and-resume [41752] -> "../data/townSites2/Mashpee/www.mashpeema.gov/human-resources/faq/do-i-have-submit-cover-letter-and-resume" [1]
+2017-01-02 02:52:48 URL:http://www.mashpeema.gov/human-resources/faq/what-happens-if-i-miss-deadline-position-i-am-interested [41752] -> "../data/townSites2/Mashpee/www.mashpeema.gov/human-resources/faq/what-happens-if-i-miss-deadline-position-i-am-interested" [1]
+2017-01-02 02:52:49 URL:http://www.mashpeema.gov/node/96/news [38442] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/96/news" [1]
+2017-01-02 02:52:52 URL:http://www.mashpeema.gov/human-resources/news/administrative-secretary-office-town-manager [41647] -> "../data/townSites2/Mashpee/www.mashpeema.gov/human-resources/news/administrative-secretary-office-town-manager" [1]
+2017-01-02 02:52:53 URL:http://www.mashpeema.gov/human-resources/news/temporary-waterways-assistant [41558] -> "../data/townSites2/Mashpee/www.mashpeema.gov/human-resources/news/temporary-waterways-assistant" [1]
+2017-01-02 02:52:55 URL:http://www.mashpeema.gov/human-resources/news/mini-bus-driver [41503] -> "../data/townSites2/Mashpee/www.mashpeema.gov/human-resources/news/mini-bus-driver" [1]
+2017-01-02 02:52:57 URL:http://www.mashpeema.gov/human-resources/news/police-officers [41501] -> "../data/townSites2/Mashpee/www.mashpeema.gov/human-resources/news/police-officers" [1]
+2017-01-02 02:53:00 URL:http://www.mashpeema.gov/human-resources/news/substitute-teacher-assistants [41557] -> "../data/townSites2/Mashpee/www.mashpeema.gov/human-resources/news/substitute-teacher-assistants" [1]
+2017-01-02 02:53:02 URL:http://www.mashpeema.gov/human-services [63378] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/101" [1]
+2017-01-02 02:53:04 URL:http://www.mashpeema.gov/print/101 [15622] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/101" [1]
+2017-01-02 02:53:08 URL:http://www.mashpeema.gov/user/286/contact [40347] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/286/contact" [1]
+2017-01-02 02:53:11 URL:http://www.mashpeema.gov/user/61/contact [40304] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/61/contact" [1]
+2017-01-02 02:53:13 URL:http://www.mashpeema.gov/user/417/contact [40303] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/417/contact" [1]
+2017-01-02 02:53:14 URL: http://www.mashpeema.gov/node/101/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:53:18 URL:http://www.bchumanservices.net/ [65315] -> "../data/townSites2/Mashpee/www.mashpeema.gov/human-services/links/barnstable-county-human-services" [1]
+2017-01-02 02:53:21 URL:http://www.mashpeema.gov/human-services/pages/directory-service-providers [42971] -> "../data/townSites2/Mashpee/www.mashpeema.gov/human-services/pages/directory-service-providers" [1]
+2017-01-02 02:53:23 URL:http://www.mashpeema.gov/human-services/pages/fuel-assistance-2016-2017 [44171] -> "../data/townSites2/Mashpee/www.mashpeema.gov/human-services/pages/fuel-assistance-2016-2017" [1]
+2017-01-02 02:53:25 URL:http://www.mashpeema.gov/human-services/pages/housing-information [41238] -> "../data/townSites2/Mashpee/www.mashpeema.gov/human-services/pages/housing-information" [1]
+2017-01-02 02:53:27 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/objectives.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:53:29 URL:http://www.mashpeehousing.org/Home.aspx [14597/14597] -> "../data/townSites2/Mashpee/www.mashpeema.gov/human-services/links/mashpee-housing-authority" [1]
+2017-01-02 02:53:32 URL:http://www.mashpeema.gov/human-services/pages/town-funded-contracts [43548] -> "../data/townSites2/Mashpee/www.mashpeema.gov/human-services/pages/town-funded-contracts" [1]
+2017-01-02 02:53:33 URL:http://www.mashpeema.gov/node/101/faq [37443] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/101/faq" [1]
+2017-01-02 02:53:36 URL:http://www.mashpeema.gov/human-services/faq/how-do-i-apply-fuel-assistance [41862] -> "../data/townSites2/Mashpee/www.mashpeema.gov/human-services/faq/how-do-i-apply-fuel-assistance" [1]
+2017-01-02 02:53:38 URL:http://www.mashpeema.gov/human-services/faq/where-can-i-get-financial-help [41792] -> "../data/townSites2/Mashpee/www.mashpeema.gov/human-services/faq/where-can-i-get-financial-help" [1]
+2017-01-02 02:53:40 URL:http://www.mashpeema.gov/mashpee-substance-abuse-taskforce [64482] -> "../data/townSites2/Mashpee/www.mashpeema.gov/substance-use-taskforce" [1]
+2017-01-02 02:53:42 URL:http://www.mashpeema.gov/node/101/news [37838] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/101/news" [1]
+2017-01-02 02:53:43 URL:http://www.mashpeema.gov/human-services/news/fuel-assistance-program-begins-november-1-2016 [41287] -> "../data/townSites2/Mashpee/www.mashpeema.gov/human-services/news/fuel-assistance-program-begins-november-1-2016" [1]
+2017-01-02 02:53:45 URL:http://www.mashpeema.gov/human-services/news/substance-use-resources [44342] -> "../data/townSites2/Mashpee/www.mashpeema.gov/human-services/news/substance-use-resources" [1]
+2017-01-02 02:53:47 URL:http://www.mashpeema.gov/node/101/events/month [61079] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/101/events/month" [1]
+2017-01-02 02:53:48 URL:http://www.mashpeema.gov/node/101/events/day/2017-01-19 [40396] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/101/events/day/2017-01-19" [1]
+2017-01-02 02:53:50 URL:http://www.mashpeema.gov/node/101/events/month/2017-01 [61136] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/101/events/month/2017-01" [1]
+2017-01-02 02:53:51 URL:http://www.mashpeema.gov/information-technology [48591] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/106" [1]
+2017-01-02 02:53:53 URL:http://www.mashpeema.gov/print/106 [8815] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/106" [1]
+2017-01-02 02:53:53 URL: http://www.mashpeema.gov/node/106/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:53:57 URL:https://www.us-cert.gov/ncas/alerts [30597/30597] -> "../data/townSites2/Mashpee/www.mashpeema.gov/information-technology/links/cyber-security-alerts" [1]
+2017-01-02 02:54:01 URL:http://www.mashpeema.gov/gis-e911 [50906] -> "../data/townSites2/Mashpee/www.mashpeema.gov/information-technology/links/gise911" [1]
+2017-01-02 02:54:04 URL:https://www.dhs.gov/national-cyber-security-awareness-month [39226/39226] -> "../data/townSites2/Mashpee/www.mashpeema.gov/information-technology/links/national-cyber-security-awareness-month" [1]
+2017-01-02 02:54:06 URL:http://www.mashpeema.gov/library [70020] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/111" [1]
+2017-01-02 02:54:08 URL:http://www.mashpeema.gov/print/111 [14020] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/111" [1]
+2017-01-02 02:54:10 URL:http://www.mashpeema.gov/user/346/contact [40303] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/346/contact" [1]
+2017-01-02 02:54:11 URL:http://www.mashpeema.gov/user/351/contact [40293] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/351/contact" [1]
+2017-01-02 02:54:14 URL:http://www.mashpeema.gov/user/356/contact [40281] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/356/contact" [1]
+2017-01-02 02:54:17 URL:http://www.mashpeema.gov/user/361/contact [40289] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/361/contact" [1]
+2017-01-02 02:54:20 URL:http://www.mashpeema.gov/user/366/contact [40311] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/366/contact" [1]
+2017-01-02 02:54:22 URL:http://www.mashpeema.gov/user/371/contact [40321] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/371/contact" [1]
+2017-01-02 02:54:24 URL: http://www.mashpeema.gov/node/111/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:54:31 URL:http://www.eventkeeper.com/code/events.cfm?curOrg=MASHPEE [826517] -> "../data/townSites2/Mashpee/www.mashpeema.gov/library/links/calendar-events" [1]
+2017-01-02 02:54:34 URL:http://www.mashpeema.gov/library/pages/holidays-and-closings [43825] -> "../data/townSites2/Mashpee/www.mashpeema.gov/library/pages/holidays-and-closings" [1]
+2017-01-02 02:54:36 URL:http://www.mashpeema.gov/library/files/library-card-application [42936] -> "../data/townSites2/Mashpee/www.mashpeema.gov/library/files/library-card-application" [1]
+2017-01-02 02:54:38 URL:http://www.clamsnet.org/ [18158] -> "../data/townSites2/Mashpee/www.mashpeema.gov/library/links/library-catalog-clams" [1]
+2017-01-02 02:54:40 URL:http://www.mashpeema.gov/library/pages/policies [42820] -> "../data/townSites2/Mashpee/www.mashpeema.gov/library/pages/policies" [1]
+2017-01-02 02:54:43 URL:http://www.mashpeema.gov/library/pages/resources [42228] -> "../data/townSites2/Mashpee/www.mashpeema.gov/library/pages/resources" [1]
+2017-01-02 02:54:45 URL:http://www.mashpeema.gov/library/pages/services-staffing-study [42893] -> "../data/townSites2/Mashpee/www.mashpeema.gov/library/pages/services-staffing-study" [1]
+2017-01-02 02:54:47 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/strategicplan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:54:48 URL:http://www.mashpeema.gov/library/pages/technology-services [45690] -> "../data/townSites2/Mashpee/www.mashpeema.gov/library/pages/technology-services" [1]
+2017-01-02 02:54:51 URL:http://www.mashpeema.gov/node/111/faq [38350] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/111/faq" [1]
+2017-01-02 02:54:53 URL:http://www.mashpeema.gov/library/faq/can-i-return-items-after-hours [42913] -> "../data/townSites2/Mashpee/www.mashpeema.gov/library/faq/can-i-return-items-after-hours" [1]
+2017-01-02 02:54:56 URL:http://www.mashpeema.gov/library/faq/can-i-check-library-catalog-my-home-computer [42831] -> "../data/townSites2/Mashpee/www.mashpeema.gov/library/faq/can-i-check-library-catalog-my-home-computer" [1]
+2017-01-02 02:54:58 URL:http://www.mashpeema.gov/library/faq/how-many-items-can-i-check-out-and-what-loan-period [42703] -> "../data/townSites2/Mashpee/www.mashpeema.gov/library/faq/how-many-items-can-i-check-out-and-what-loan-period" [1]
+2017-01-02 02:55:00 URL:http://www.mashpeema.gov/library/faq/can-i-renew-library-materials-phone-or-online [42603] -> "../data/townSites2/Mashpee/www.mashpeema.gov/library/faq/can-i-renew-library-materials-phone-or-online" [1]
+2017-01-02 02:55:03 URL:http://www.mashpeema.gov/library/faq/how-do-i-apply-library-card [42502] -> "../data/townSites2/Mashpee/www.mashpeema.gov/library/faq/how-do-i-apply-library-card" [1]
+2017-01-02 02:55:06 URL:http://www.mashpeema.gov/node/111/events/month [57281] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/111/events/month" [1]
+2017-01-02 02:55:10 URL:http://www.mashpeema.gov/node/111/events/month/2017-01 [57338] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/111/events/month/2017-01" [1]
+2017-01-02 02:55:12 URL:http://www.mashpeema.gov/node/111/minutes [37221] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/111/minutes" [1]
+2017-01-02 02:55:13 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/2016-10-25_minutes_of_board_of_library_trustees_meeting_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:55:14 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/minutes_of_board_of_library_trustees_meeting_of_2016-09-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:55:15 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/2016-08-09_minutes_of_board_of_library_trustees_meeting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:55:16 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/2016-06-14_minutes_of_board_of_library_trustees_meeting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:55:17 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/2016-05-10_minutes_of_board_of_library_trustees_meeting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:55:19 URL:http://www.mashpeema.gov/natural-resources [45869] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/10213" [1]
+2017-01-02 02:55:21 URL:http://www.mashpeema.gov/print/10213 [10054] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/10213" [1]
+2017-01-02 02:55:25 URL:http://www.mashpeema.gov/user/296/contact [40301] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/296/contact" [1]
+2017-01-02 02:55:28 URL:http://www.mashpeema.gov/user/823/contact [40287] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/823/contact" [1]
+2017-01-02 02:55:29 URL: http://www.mashpeema.gov/node/10213/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:55:30 URL:http://www.mashpeema.gov/planning [70783] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/116" [1]
+2017-01-02 02:55:32 URL:http://www.mashpeema.gov/print/116 [13489] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/116" [1]
+2017-01-02 02:55:35 URL:http://www.mashpeema.gov/user/126/contact [40303] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/126/contact" [1]
+2017-01-02 02:55:37 URL: http://www.mashpeema.gov/node/116/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:55:38 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/comprehensive_plan_survey_results.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:55:40 URL:http://www.mashpeema.gov/planning/pages/helpful-links [43282] -> "../data/townSites2/Mashpee/www.mashpeema.gov/planning/pages/helpful-links" [1]
+2017-01-02 02:55:43 URL:http://www.mashpeema.gov/planning-department/pages/mashpee-district-critical-planning-concern-dcpc [45356] -> "../data/townSites2/Mashpee/www.mashpeema.gov/planning-department/pages/mashpee-district-critical-planning-concern-dcpc" [1]
+2017-01-02 02:55:44 URL:http://www.mashpeema.gov/planning-department/pages/open-space-conservation-recreation-plan [47044] -> "../data/townSites2/Mashpee/www.mashpeema.gov/planning-department/pages/open-space-conservation-recreation-plan" [1]
+2017-01-02 02:55:46 URL:http://www.mashpeema.gov/planning-department/pages/planning-maps [43159] -> "../data/townSites2/Mashpee/www.mashpeema.gov/planning-department/pages/planning-maps" [1]
+2017-01-02 02:55:48 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/proposed_mashpee_commons_development_agreement_plans.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:55:54 URL:http://www.mashpeema.gov/town-clerk/pages/bylaws [43457] -> "../data/townSites2/Mashpee/www.mashpeema.gov/planning-department/links/zoning-bylaws" [1]
+2017-01-02 02:55:56 URL:http://www.mashpeema.gov/node/116/events/month [65519] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/116/events/month" [1]
+2017-01-02 02:55:58 URL:http://www.mashpeema.gov/node/116/events/day/2017-01-11 [40576] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/116/events/day/2017-01-11" [1]
+2017-01-02 02:56:00 URL:http://www.mashpeema.gov/node/116/events/day/2017-01-25 [40587] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/116/events/day/2017-01-25" [1]
+2017-01-02 02:56:02 URL:http://www.mashpeema.gov/node/116/events/month/2017-01 [65576] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/116/events/month/2017-01" [1]
+2017-01-02 02:56:05 URL:http://www.mashpeema.gov/node/116/agenda [37244] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/116/agenda" [1]
+2017-01-02 02:56:07 URL:http://www.mashpeema.gov/planning/agenda/planning-board-agenda-5 [42943] -> "../data/townSites2/Mashpee/www.mashpeema.gov/planning/agenda/planning-board-agenda-5" [1]
+2017-01-02 02:56:10 URL:http://www.mashpeema.gov/planning/agenda/planning-board-agenda-4 [42951] -> "../data/townSites2/Mashpee/www.mashpeema.gov/planning/agenda/planning-board-agenda-4" [1]
+2017-01-02 02:56:13 URL:http://www.mashpeema.gov/planning/agenda/planning-board-agenda-3 [42955] -> "../data/townSites2/Mashpee/www.mashpeema.gov/planning/agenda/planning-board-agenda-3" [1]
+2017-01-02 02:56:14 URL:http://www.mashpeema.gov/planning/agenda/planning-board-agenda-2 [42951] -> "../data/townSites2/Mashpee/www.mashpeema.gov/planning/agenda/planning-board-agenda-2" [1]
+2017-01-02 02:56:17 URL:http://www.mashpeema.gov/planning/agenda/planning-board-agenda-1 [42922] -> "../data/townSites2/Mashpee/www.mashpeema.gov/planning/agenda/planning-board-agenda-1" [1]
+2017-01-02 02:56:18 URL:http://www.mashpeema.gov/node/116/minutes [37456] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/116/minutes" [1]
+2017-01-02 02:56:20 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/pb_10.5.2016_201610211255.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:56:21 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/9.21.2016_201610061026.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:56:23 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/september_7_2016_201609231014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:56:25 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/august_3_2016_201609231013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:56:27 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/6.15.2016_201608301036.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:56:30 URL:http://www.mashpeema.gov/police [51140] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/121" [1]
+2017-01-02 02:56:32 URL:http://www.mashpeema.gov/print/121 [10129] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/121" [1]
+2017-01-02 02:56:34 URL:http://www.mashpeema.gov/user/376/contact [40297] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/376/contact" [1]
+2017-01-02 02:56:37 URL:http://www.mashpeema.gov/user/391/contact [40319] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/391/contact" [1]
+2017-01-02 02:56:38 URL: http://www.mashpeema.gov/node/121/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:56:40 URL:http://www.mashpeema.gov/police-department/pages/alzheimer%E2%80%99sendangered-person-registration [45060] -> "../data/townSites2/Mashpee/www.mashpeema.gov/police-department/pages/alzheimerâ%80%99sendangered-person-registration" [1]
+2017-01-02 02:56:42 URL:http://www.mashpeema.gov/animal-control [43337] -> "../data/townSites2/Mashpee/www.mashpeema.gov/police-department/links/animal-control" [1]
+2017-01-02 02:56:45 URL:http://www.mashpeema.gov/police-department/pages/anonymous-tip-line [43653] -> "../data/townSites2/Mashpee/www.mashpeema.gov/police-department/pages/anonymous-tip-line" [1]
+2017-01-02 02:56:47 URL:http://www.mashpeema.gov/police/pages/department-contacts [50908] -> "../data/townSites2/Mashpee/www.mashpeema.gov/police/pages/department-contacts" [1]
+2017-01-02 02:56:50 URL:http://www.mashpeema.gov/police/pages/department-forms [44579] -> "../data/townSites2/Mashpee/www.mashpeema.gov/police/pages/department-forms" [1]
+2017-01-02 02:56:53 URL:http://www.mashpeema.gov/police-department/pages/firearms-licensing [44059] -> "../data/townSites2/Mashpee/www.mashpeema.gov/police-department/pages/firearms-licensing" [1]
+2017-01-02 02:56:56 URL:http://www.mashpeema.gov/harbormaster [46429] -> "../data/townSites2/Mashpee/www.mashpeema.gov/police-department/links/harbormaster" [1]
+2017-01-02 02:56:58 URL:http://www.mashpeema.gov/police-department/pages/help-domestic-violence [54544] -> "../data/townSites2/Mashpee/www.mashpeema.gov/police-department/pages/help-domestic-violence" [1]
+2017-01-02 02:57:00 URL:http://www.mashpeema.gov/police/pages/mpd-call-logs [49030] -> "../data/townSites2/Mashpee/www.mashpeema.gov/police/pages/mpd-call-logs" [1]
+2017-01-02 02:57:02 URL:http://www.mashpeema.gov/police/pages/mashpee-police-records [48065] -> "../data/townSites2/Mashpee/www.mashpeema.gov/police/pages/mashpee-police-records" [1]
+2017-01-02 02:57:03 URL:http://www.mashpeema.gov/police-department/pages/neighborhood-crime-watch [46687] -> "../data/townSites2/Mashpee/www.mashpeema.gov/police-department/pages/neighborhood-crime-watch" [1]
+2017-01-02 02:57:05 URL:http://www.mashpeema.gov/police/pages/other-police-departments [44454] -> "../data/townSites2/Mashpee/www.mashpeema.gov/police/pages/other-police-departments" [1]
+2017-01-02 02:57:07 URL:http://www.mashpeema.gov/police-department/pages/sex-offender-information [45367] -> "../data/townSites2/Mashpee/www.mashpeema.gov/police-department/pages/sex-offender-information" [1]
+2017-01-02 02:57:08 URL:http://www.mashpeema.gov/police-department/pages/sex-offender-management [56925] -> "../data/townSites2/Mashpee/www.mashpeema.gov/police-department/pages/sex-offender-management" [1]
+2017-01-02 02:57:14 URL:http://www.mashpeema.gov/Shellfish [62262] -> "../data/townSites2/Mashpee/www.mashpeema.gov/police-department/links/shellfish" [1]
+2017-01-02 02:57:16 URL:http://www.mashpeema.gov/public-works [50877] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/126" [1]
+2017-01-02 02:57:17 URL:http://www.mashpeema.gov/print/126 [8912] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/126" [1]
+2017-01-02 02:57:20 URL:http://www.mashpeema.gov/user/301/contact [40305] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/301/contact" [1]
+2017-01-02 02:57:21 URL: http://www.mashpeema.gov/node/126/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:57:26 URL:http://www.mashpeema.gov/cemetery [44318] -> "../data/townSites2/Mashpee/www.mashpeema.gov/public-works/links/cemetery" [1]
+2017-01-02 02:57:27 URL:http://www.mashpeema.gov/public-works/pages/curb-cut-permit [58115] -> "../data/townSites2/Mashpee/www.mashpeema.gov/public-works/pages/curb-cut-permit" [1]
+2017-01-02 02:57:29 URL:http://www.mashpeema.gov/public-works/pages/current-road-construction [42821] -> "../data/townSites2/Mashpee/www.mashpeema.gov/public-works/pages/current-road-construction" [1]
+2017-01-02 02:57:32 URL:http://www.mashpeema.gov/public-works/pages/directions [44006] -> "../data/townSites2/Mashpee/www.mashpeema.gov/public-works/pages/directions" [1]
+2017-01-02 02:57:34 URL:http://www.mashpeema.gov/public-works/pages/do-not-plow-list [45539] -> "../data/townSites2/Mashpee/www.mashpeema.gov/public-works/pages/do-not-plow-list" [1]
+2017-01-02 02:57:36 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/foodwaste.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:57:37 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/fy17_contractor_ad.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:57:38 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/snowpolicy20152016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:57:40 URL:http://www.mashpeema.gov/public-works/pages/snow-removal-questions [46806] -> "../data/townSites2/Mashpee/www.mashpeema.gov/public-works/pages/snow-removal-questions" [1]
+2017-01-02 02:57:42 URL:http://www.mashpeema.gov/public-works/pages/town-owned-roads [45837] -> "../data/townSites2/Mashpee/www.mashpeema.gov/public-works/pages/town-owned-roads" [1]
+2017-01-02 02:57:44 URL:http://www.mashpeema.gov/transfer-station [47418] -> "../data/townSites2/Mashpee/www.mashpeema.gov/public-works/links/transfer-station" [1]
+2017-01-02 02:57:46 URL:http://www.mashpeema.gov/public-works/pages/winter-safety-tips [44425] -> "../data/townSites2/Mashpee/www.mashpeema.gov/public-works/pages/winter-safety-tips" [1]
+2017-01-02 02:57:47 URL:http://www.mashpeema.gov/node/126/faq [40573] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/126/faq" [1]
+2017-01-02 02:57:49 URL:http://www.mashpeema.gov/public-works/faq/what-difference-between-public-and-private-road [43377] -> "../data/townSites2/Mashpee/www.mashpeema.gov/public-works/faq/what-difference-between-public-and-private-road" [1]
+2017-01-02 02:57:50 URL:http://www.mashpeema.gov/public-works/faq/how-can-i-have-my-road-accepted-town-owned-road [44219] -> "../data/townSites2/Mashpee/www.mashpeema.gov/public-works/faq/how-can-i-have-my-road-accepted-town-owned-road" [1]
+2017-01-02 02:57:51 URL:http://www.mashpeema.gov/public-works/faq/who-fixes-potholes-road-or-makes-other-necessary-repairs-road [43579] -> "../data/townSites2/Mashpee/www.mashpeema.gov/public-works/faq/who-fixes-potholes-road-or-makes-other-necessary-repairs-road" [1]
+2017-01-02 02:57:53 URL:http://www.mashpeema.gov/public-works/faq/who-do-i-contact-about-connecting-town-water-or-if-i-have-other-questions-about [43318] -> "../data/townSites2/Mashpee/www.mashpeema.gov/public-works/faq/who-do-i-contact-about-connecting-town-water-or-if-i-have-other-questions-about" [1]
+2017-01-02 02:57:54 URL:http://www.mashpeema.gov/public-works/faq/how-can-i-have-street-name-sign-installed-my-road [43040] -> "../data/townSites2/Mashpee/www.mashpeema.gov/public-works/faq/how-can-i-have-street-name-sign-installed-my-road" [1]
+2017-01-02 02:57:56 URL:http://www.mashpeema.gov/node/126/news [38696] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/126/news" [1]
+2017-01-02 02:57:57 URL:http://www.mashpeema.gov/public-works/news/mashpee-transfer-station-holiday-schedule [43213] -> "../data/townSites2/Mashpee/www.mashpeema.gov/public-works/news/mashpee-transfer-station-holiday-schedule" [1]
+2017-01-02 02:57:59 URL:http://www.mashpeema.gov/public-works/news/do-not-plow-and-restricted-plow-lists-2016-2017-winter-season [43937] -> "../data/townSites2/Mashpee/www.mashpeema.gov/public-works/news/do-not-plow-and-restricted-plow-lists-2016-2017-winter-season" [1]
+2017-01-02 02:58:00 URL:http://www.mashpeema.gov/recreation [50530] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/131" [1]
+2017-01-02 02:58:01 URL:http://www.mashpeema.gov/print/131 [8472] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/131" [1]
+2017-01-02 02:58:03 URL:http://www.mashpeema.gov/recreation/slideshows/recreation-photos [43968] -> "../data/townSites2/Mashpee/www.mashpeema.gov/recreation/slideshows/recreation-photos" [1]
+2017-01-02 02:58:05 URL:http://www.mashpeema.gov/user/418/contact [40309] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/418/contact" [1]
+2017-01-02 02:58:08 URL:http://www.mashpeema.gov/user/419/contact [40321] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/419/contact" [1]
+2017-01-02 02:58:10 URL:http://www.mashpeema.gov/user/420/contact [40315] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/420/contact" [1]
+2017-01-02 02:58:12 URL:http://www.mashpeema.gov/user/421/contact [40295] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/421/contact" [1]
+2017-01-02 02:58:13 URL: http://www.mashpeema.gov/node/131/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:58:14 URL:http://www.mashpeema.gov/recreation/pages/extended-day-program [42122] -> "../data/townSites2/Mashpee/www.mashpeema.gov/recreation/pages/extended-day-program" [1]
+2017-01-02 02:58:15 URL:http://www.mashpeema.gov/recreation/pages/kids-klub-preschool-childcare [42611] -> "../data/townSites2/Mashpee/www.mashpeema.gov/recreation/pages/kids-klub-preschool-childcare" [1]
+2017-01-02 02:58:17 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/heritageparkballfields.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:58:18 URL:http://www.mashpeema.gov/recreation/pages/photo-galleries [41778] -> "../data/townSites2/Mashpee/www.mashpeema.gov/recreation/pages/photo-galleries" [1]
+2017-01-02 02:58:20 URL:http://www.mashpeerec.com/info/activities/default.aspx [41794/41794] -> "../data/townSites2/Mashpee/www.mashpeema.gov/recreation/links/recreation-programs" [1]
+2017-01-02 02:58:21 URL:http://www.mashpeema.gov/node/131/faq [36798] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/131/faq" [1]
+2017-01-02 02:58:23 URL:http://www.mashpeema.gov/recreation/faq/how-register-program [42080] -> "../data/townSites2/Mashpee/www.mashpeema.gov/recreation/faq/how-register-program" [1]
+2017-01-02 02:58:24 URL:http://www.mashpeema.gov/node/131/news [37917] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/131/news" [1]
+2017-01-02 02:58:26 URL:http://www.mashpeema.gov/recreation/news/full-day-and-part-time-openings-available-kids-klub-preschool-and-childcare-center [42309] -> "../data/townSites2/Mashpee/www.mashpeema.gov/recreation/news/full-day-and-part-time-openings-available-kids-klub-preschool-and-childcare-center" [1]
+2017-01-02 02:58:27 URL:http://www.mashpeema.gov/recreation/news/december-vacation-club-registration-now-available [42157] -> "../data/townSites2/Mashpee/www.mashpeema.gov/recreation/news/december-vacation-club-registration-now-available" [1]
+2017-01-02 02:58:28 URL:http://www.mashpeema.gov/town-clerk [61619] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/151" [1]
+2017-01-02 02:58:29 URL:http://www.mashpeema.gov/print/151 [8772] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/151" [1]
+2017-01-02 02:58:31 URL:http://www.mashpeema.gov/user/151/contact [40277] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/151/contact" [1]
+2017-01-02 02:58:33 URL:http://www.mashpeema.gov/user/156/contact [40285] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/156/contact" [1]
+2017-01-02 02:58:35 URL:http://www.mashpeema.gov/user/161/contact [40287] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/161/contact" [1]
+2017-01-02 02:58:37 URL:http://www.mashpeema.gov/user/166/contact [40299] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/166/contact" [1]
+2017-01-02 02:58:39 URL: http://www.mashpeema.gov/node/151/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:58:40 URL:http://www.mashpeema.gov/town-clerk/pages/bylaws [43457] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-clerk/pages/bylaws" [1]
+2017-01-02 02:58:41 URL:http://www.mashpeema.gov/town-clerk/pages/election-information [44313] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-clerk/pages/election-information" [1]
+2017-01-02 02:58:42 URL:http://www.mashpeema.gov/town-clerk/pages/genealogy-information [43712] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-clerk/pages/genealogy-information" [1]
+2017-01-02 02:58:44 URL:http://www.mashpeema.gov/town-clerk/pages/mashpee-charter-administrative-code [43002] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-clerk/pages/mashpee-charter-administrative-code" [1]
+2017-01-02 02:58:45 URL:http://www.mashpeema.gov/planning-department/pages/open-space-conservation-recreation-plan [47044] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-clerk/links/open-space-plan" [1]
+2017-01-02 02:58:47 URL:http://www.mashpeema.gov/town-clerk/pages/passports-certificates-records [43559] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-clerk/pages/passports-certificates-records" [1]
+2017-01-02 02:58:48 URL:http://www.mashpeema.gov/town-clerk/pages/streets-and-precincts [42918] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-clerk/pages/streets-and-precincts" [1]
+2017-01-02 02:58:49 URL:http://www.mashpeema.gov/town-clerk/pages/town-meeting-warrants [45086] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-clerk/pages/town-meeting-warrants" [1]
+2017-01-02 02:58:50 URL:http://www.mashpeema.gov/node/151/faq [40139] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/151/faq" [1]
+2017-01-02 02:58:52 URL:http://www.mashpeema.gov/town-clerk/faq/how-do-i-get-transfer-station-sticker [43094] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-clerk/faq/how-do-i-get-transfer-station-sticker" [1]
+2017-01-02 02:58:53 URL:http://www.mashpeema.gov/town-clerk/faq/how-do-i-apply-marriage-license [43599] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-clerk/faq/how-do-i-apply-marriage-license" [1]
+2017-01-02 02:58:54 URL:http://www.mashpeema.gov/town-clerk/faq/can-i-get-document-notarized [42601] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-clerk/faq/can-i-get-document-notarized" [1]
+2017-01-02 02:58:56 URL:http://www.mashpeema.gov/town-clerk/faq/how-do-i-obtain-copy-birth-death-or-marriage-certificate [43178] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-clerk/faq/how-do-i-obtain-copy-birth-death-or-marriage-certificate" [1]
+2017-01-02 02:58:57 URL:http://www.mashpeema.gov/town-clerk/faq/can-i-apply-passport [42665] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-clerk/faq/can-i-apply-passport" [1]
+2017-01-02 02:58:59 URL:http://www.mashpeema.gov/node/151/events/month [57767] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/151/events/month" [1]
+2017-01-02 02:59:00 URL:http://www.mashpeema.gov/node/151/events/month/2017-01 [57824] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/151/events/month/2017-01" [1]
+2017-01-02 02:59:02 URL:http://www.mashpeema.gov/town-manager [60727] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/46" [1]
+2017-01-02 02:59:03 URL:http://www.mashpeema.gov/print/46 [20497] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/46" [1]
+2017-01-02 02:59:05 URL:http://www.mashpeema.gov/user/86/contact [40304] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/86/contact" [1]
+2017-01-02 02:59:07 URL:http://www.mashpeema.gov/user/743/contact [40289] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/743/contact" [1]
+2017-01-02 02:59:09 URL:http://www.mashpeema.gov/user/96/contact [40316] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/96/contact" [1]
+2017-01-02 02:59:11 URL:http://www.mashpeema.gov/user/101/contact [40285] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/101/contact" [1]
+2017-01-02 02:59:12 URL:http://www.mashpeema.gov/user/71/contact [40302] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/71/contact" [1]
+2017-01-02 02:59:14 URL:http://www.mashpeema.gov/user/76/contact [40296] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/76/contact" [1]
+2017-01-02 02:59:16 URL:http://www.mashpeema.gov/user/66/contact [40298] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/66/contact" [1]
+2017-01-02 02:59:18 URL:http://www.mashpeema.gov/user/81/contact [40288] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/81/contact" [1]
+2017-01-02 02:59:19 URL: http://www.mashpeema.gov/node/46/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:59:20 URL:http://www.mashpeema.gov/town-clerk/pages/mashpee-charter-administrative-code [43002] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-manager/links/administrative-code" [1]
+2017-01-02 02:59:21 URL:http://www.mass.gov/abcc/ [39106] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-manager/links/alcoholic-beverages-control-commission" [1]
+2017-01-02 02:59:22 URL:http://www.mashpeema.gov/town-manager/pages/annual-reports [42841] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-manager/pages/annual-reports" [1]
+2017-01-02 02:59:23 URL:http://www.mashpeema.gov/town-manager/pages/board-and-committee-vacancies [42705] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-manager/pages/board-and-committee-vacancies" [1]
+2017-01-02 02:59:24 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/budget_tax_rate_projection.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:59:26 URL:http://www.mashpeema.gov/administration/pages/license-permit-application-forms [42285/42285] -> "../data/townSites2/Mashpee/www.mashpeema.gov/administration/pages/license-permit-application-forms" [1]
+2017-01-02 02:59:30 URL:https://malegislature.gov/Laws/GeneralLaws/ [70596/70596] -> "../data/townSites2/Mashpee/www.mashpeema.gov/administration/links/massachusetts-general-laws" [1]
+2017-01-02 02:59:32 URL:http://www.mashpeema.gov/administration/pages/policies [81959/81959] -> "../data/townSites2/Mashpee/www.mashpeema.gov/administration/pages/policies" [1]
+2017-01-02 02:59:34 URL:http://www.mashpeema.gov/administration/pages/town-budgets [41552/41552] -> "../data/townSites2/Mashpee/www.mashpeema.gov/administration/pages/town-budgets" [1]
+2017-01-02 02:59:35 URL:http://www.mashpeema.gov/town-clerk/pages/bylaws [43457] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-manager/links/town-bylaws" [1]
+2017-01-02 02:59:37 URL:http://www.mashpeema.gov/town-clerk/pages/town-meeting-warrants [45086] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-manager/links/town-meeting-warrants" [1]
+2017-01-02 02:59:38 URL:http://www.mashpeema.gov/town-manager/webforms/volunteer-application [63485/63485] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-manager/webforms/volunteer-application" [1]
+2017-01-02 02:59:40 URL:http://www.mashpeema.gov/town-manager/pages/wampanoag-information [42518] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-manager/pages/wampanoag-information" [1]
+2017-01-02 02:59:41 URL:http://www.mashpeema.gov/node/46/faq [40521] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/46/faq" [1]
+2017-01-02 02:59:42 URL:http://www.mashpeema.gov/town-manager/faq/what-deadline-submitting-town-meeting-articles [42044] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-manager/faq/what-deadline-submitting-town-meeting-articles" [1]
+2017-01-02 02:59:44 URL:http://www.mashpeema.gov/administration/faq/how-do-i-contact-selectman [41625/41625] -> "../data/townSites2/Mashpee/www.mashpeema.gov/administration/faq/how-do-i-contact-selectman" [1]
+2017-01-02 02:59:46 URL:http://www.mashpeema.gov/administration/faq/when-town-meeting [41370/41370] -> "../data/townSites2/Mashpee/www.mashpeema.gov/administration/faq/when-town-meeting" [1]
+2017-01-02 02:59:48 URL:http://www.mashpeema.gov/administration/faq/are-there-currently-any-liquor-licenses-available [41546/41546] -> "../data/townSites2/Mashpee/www.mashpeema.gov/administration/faq/are-there-currently-any-liquor-licenses-available" [1]
+2017-01-02 02:59:50 URL:http://www.mashpeema.gov/administration/faq/what-licenses-does-board-selectmen-issue [41522/41522] -> "../data/townSites2/Mashpee/www.mashpeema.gov/administration/faq/what-licenses-does-board-selectmen-issue" [1]
+2017-01-02 02:59:51 URL:http://www.mashpeema.gov/treasurer-tax-collector [50291] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/161" [1]
+2017-01-02 02:59:53 URL:http://www.mashpeema.gov/print/161 [8480] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/161" [1]
+2017-01-02 02:59:54 URL:http://www.mashpeema.gov/user/392/contact [40299] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/392/contact" [1]
+2017-01-02 02:59:56 URL:http://www.mashpeema.gov/user/393/contact [40271] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/393/contact" [1]
+2017-01-02 02:59:57 URL:http://www.mashpeema.gov/user/663/contact [40303] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/663/contact" [1]
+2017-01-02 02:59:58 URL: http://www.mashpeema.gov/node/161/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:59:59 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/municipalliencert.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:00:00 URL:http://www.mashpeema.gov/treasurer-tax-collector/pages/motor-vehicle-excise-tax [43804] -> "../data/townSites2/Mashpee/www.mashpeema.gov/treasurer-tax-collector/pages/motor-vehicle-excise-tax" [1]
+2017-01-02 03:00:01 URL:http://www.mashpeema.gov/treasurer-tax-collector/pages/pay-your-taxes [44108] -> "../data/townSites2/Mashpee/www.mashpeema.gov/treasurer-tax-collector/pages/pay-your-taxes" [1]
+2017-01-02 03:00:03 URL:http://www.mashpeema.gov/treasurer-tax-collector/pages/real-estate-tax-info [42889] -> "../data/townSites2/Mashpee/www.mashpeema.gov/treasurer-tax-collector/pages/real-estate-tax-info" [1]
+2017-01-02 03:00:05 URL:http://www.mashpeema.gov/treasurercollector/pages/tax-rate [42354] -> "../data/townSites2/Mashpee/www.mashpeema.gov/treasurercollector/pages/tax-rate" [1]
+2017-01-02 03:00:07 URL:http://www.mashpeema.gov/node/161/faq [37874] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/161/faq" [1]
+2017-01-02 03:00:09 URL:http://www.mashpeema.gov/treasurer-tax-collector/faq/i-sold-my-property-i-still-received-personal-property-tax-am-i [42510] -> "../data/townSites2/Mashpee/www.mashpeema.gov/treasurer-tax-collector/faq/i-sold-my-property-i-still-received-personal-property-tax-am-i" [1]
+2017-01-02 03:00:10 URL:http://www.mashpeema.gov/treasurercollector/faq/how-often-are-property-tax-bills-mailed [41935] -> "../data/townSites2/Mashpee/www.mashpeema.gov/treasurercollector/faq/how-often-are-property-tax-bills-mailed" [1]
+2017-01-02 03:00:12 URL:http://www.mashpeema.gov/treasurercollector/faq/if-i-pay-my-property-tax-bill-late-will-i-be-charged-interest [41935] -> "../data/townSites2/Mashpee/www.mashpeema.gov/treasurercollector/faq/if-i-pay-my-property-tax-bill-late-will-i-be-charged-interest" [1]
+2017-01-02 03:00:14 URL:http://www.mashpeema.gov/treasurercollector/faq/can-i-pay-my-tax-bills-checkingsavingscredit-card-line [41906] -> "../data/townSites2/Mashpee/www.mashpeema.gov/treasurercollector/faq/can-i-pay-my-tax-bills-checkingsavingscredit-card-line" [1]
+2017-01-02 03:00:15 URL:http://www.mashpeema.gov/zoning-board-appeals [69596] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/166" [1]
+2017-01-02 03:00:16 URL:http://www.mashpeema.gov/print/166 [14864] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/166" [1]
+2017-01-02 03:00:18 URL:http://www.mashpeema.gov/user/266/contact [40390] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/266/contact" [1]
+2017-01-02 03:00:20 URL: http://www.mashpeema.gov/node/166/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:00:21 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/2017.public_hearings_dates.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:00:23 URL:http://www.mashpeema.gov/zoning-board-appeals/pages/about-zoning-board-appeals [44575] -> "../data/townSites2/Mashpee/www.mashpeema.gov/zoning-board-appeals/pages/about-zoning-board-appeals" [1]
+2017-01-02 03:00:25 URL:http://www.mashpeema.gov/building [53681] -> "../data/townSites2/Mashpee/www.mashpeema.gov/zoning-board-appeals/links/building-department" [1]
+2017-01-02 03:00:26 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/zbafaqs_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:00:27 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/fee.schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:00:28 URL:http://www.mashpeema.gov/zoning-board-appeals/pages/zoning-laws [42544] -> "../data/townSites2/Mashpee/www.mashpeema.gov/zoning-board-appeals/pages/zoning-laws" [1]
+2017-01-02 03:00:30 URL:http://www.mashpeema.gov/node/166/events/month [65328] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/166/events/month" [1]
+2017-01-02 03:00:31 URL:http://www.mashpeema.gov/node/166/events/day/2017-01-04 [40444] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/166/events/day/2017-01-04" [1]
+2017-01-02 03:00:33 URL:http://www.mashpeema.gov/node/166/events/day/2017-01-18 [40445] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/166/events/day/2017-01-18" [1]
+2017-01-02 03:00:34 URL:http://www.mashpeema.gov/node/166/events/month/2017-01 [65385] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/166/events/month/2017-01" [1]
+2017-01-02 03:00:35 URL:http://www.mashpeema.gov/node/166/agenda [37095] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/166/agenda" [1]
+2017-01-02 03:00:36 URL: http://www.mashpeema.gov/sites/mashpeema/files/agendas/agenda.12.14.2016.zba_.public.hearings.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:00:37 URL: http://www.mashpeema.gov/sites/mashpeema/files/agendas/agenda.nov_.09.2016hearings.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:00:38 URL: http://www.mashpeema.gov/sites/mashpeema/files/agendas/agenda.zba_.oct_.26.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:00:39 URL: http://www.mashpeema.gov/sites/mashpeema/files/agendas/zba.agenda.09.28.2016.zba_.hearings.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:00:40 URL: http://www.mashpeema.gov/sites/mashpeema/files/agendas/agenda.09.14.2016.agenda.zba_.hearings_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:00:41 URL:http://www.mashpeema.gov/node/166/minutes [37239] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/166/minutes" [1]
+2017-01-02 03:00:42 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/meetingminutesnovember.9.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:00:43 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/meetingminutes10.26.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:00:44 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/meetingminutes.09.28.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:00:45 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/meetingminutes09.14.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:00:46 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/meetingminutes08.24.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:00:48 URL:http://www.mashpeema.gov/affirmative-action-committee [49235] -> "../data/townSites2/Mashpee/www.mashpeema.gov/affirmative-action-committee" [1]
+2017-01-02 03:00:50 URL:http://www.mashpeema.gov/american-disabilities-act-committee [61494] -> "../data/townSites2/Mashpee/www.mashpeema.gov/american-disabilities-act-committee" [1]
+2017-01-02 03:00:52 URL:http://www.mashpeema.gov/cemetery-commission [41335] -> "../data/townSites2/Mashpee/www.mashpeema.gov/cemetery-commission" [1]
+2017-01-02 03:00:54 URL:http://www.mashpeema.gov/charter-review-committee [44108] -> "../data/townSites2/Mashpee/www.mashpeema.gov/charter-review-committee" [1]
+2017-01-02 03:00:56 URL:http://www.mashpeema.gov/design-review-committee [57768] -> "../data/townSites2/Mashpee/www.mashpeema.gov/design-review-committee" [1]
+2017-01-02 03:00:58 URL:http://www.mashpeema.gov/environmental-oversight-committee [57495] -> "../data/townSites2/Mashpee/www.mashpeema.gov/environmental-oversight-committee" [1]
+2017-01-02 03:00:59 URL:http://www.mashpeema.gov/leisure-services-advisory-council [45407] -> "../data/townSites2/Mashpee/www.mashpeema.gov/leisure-services-advisory-council" [1]
+2017-01-02 03:01:01 URL:http://www.mashpeema.gov/mashpee-cable-and-advanced-technology-advisory-board [57602] -> "../data/townSites2/Mashpee/www.mashpeema.gov/mashpee-cable-and-advanced-technology-advisory-board" [1]
+2017-01-02 03:01:03 URL:http://www.mashpeema.gov/mashpee-wakeby-lake-management-committee [56514] -> "../data/townSites2/Mashpee/www.mashpeema.gov/mashpee-wakeby-lake-management-committee" [1]
+2017-01-02 03:01:05 URL:http://www.mashpeema.gov/plan-review-committee [59260] -> "../data/townSites2/Mashpee/www.mashpeema.gov/plan-review-committee" [1]
+2017-01-02 03:01:07 URL:http://www.mashpeema.gov/south-cape-beach-advisory-committee [47102] -> "../data/townSites2/Mashpee/www.mashpeema.gov/south-cape-beach-advisory-committee" [1]
+2017-01-02 03:01:09 URL:http://www.mashpeema.gov/special-events-committee [56664] -> "../data/townSites2/Mashpee/www.mashpeema.gov/special-events-committee" [1]
+2017-01-02 03:01:11 URL:http://www.mashpeema.gov/streetlight-committee [52243] -> "../data/townSites2/Mashpee/www.mashpeema.gov/streetlight-committee" [1]
+2017-01-02 03:01:12 URL:http://www.mashpeema.gov/affordable-housing-committee [60916] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/176" [1]
+2017-01-02 03:01:13 URL:http://www.mashpeema.gov/print/176 [12825] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/176" [1]
+2017-01-02 03:01:14 URL: http://www.mashpeema.gov/node/176/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:01:15 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/mashpee_ahpp_plan_2015_update_final_approved_11-16-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:01:16 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/affordablehousingmap.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:01:18 URL:https://www.youtube.com/watch?v=vF_nTzNA75Y&feature=youtu.be [154297] -> "../data/townSites2/Mashpee/www.mashpeema.gov/affordable-housing-committee/links/mashpee-ahc-workshop-cottage-housing-video" [1]
+2017-01-02 03:01:19 URL:http://www.mashpeema.gov/affordable-housing-committee/pages/recommended-links [40245] -> "../data/townSites2/Mashpee/www.mashpeema.gov/affordable-housing-committee/pages/recommended-links" [1]
+2017-01-02 03:01:21 URL:http://www.mashpeema.gov/node/176/events/month [57057] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/176/events/month" [1]
+2017-01-02 03:01:23 URL:http://www.mashpeema.gov/node/176/events/month/2017-01 [57114] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/176/events/month/2017-01" [1]
+2017-01-02 03:01:24 URL:http://www.mashpeema.gov/node/176/minutes [36887] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/176/minutes" [1]
+2017-01-02 03:01:25 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/9.6.2016_201610061102.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:01:26 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/7.5.2016_201610061101.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:01:27 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/4.5.2016_201610061100.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:01:28 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/1.26.2016_201610061100.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:01:29 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/affordable_housing_committee_minutes_december_1_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:01:30 URL:http://www.mashpeema.gov/community-preservation-committee [63107] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/206" [1]
+2017-01-02 03:01:32 URL:http://www.mashpeema.gov/print/206 [15083] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/206" [1]
+2017-01-02 03:01:32 URL: http://www.mashpeema.gov/node/206/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:01:33 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/cpc5875.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:01:34 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/cpc_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:01:37 URL:http://www.communitypreservation.org/ [24093] -> "../data/townSites2/Mashpee/www.mashpeema.gov/community-preservation-committee/links/massachusetts-community-preservation-act" [1]
+2017-01-02 03:01:38 URL:http://www.mashpeema.gov/node/206/events/month [56911] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/206/events/month" [1]
+2017-01-02 03:01:40 URL:http://www.mashpeema.gov/node/206/events/month/2017-01 [56968] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/206/events/month/2017-01" [1]
+2017-01-02 03:01:41 URL:http://www.mashpeema.gov/node/206/minutes [36801] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/206/minutes" [1]
+2017-01-02 03:01:42 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/cpc_6-28-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:01:43 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/cpc_3-25-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:01:44 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/cpc_12-8-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:01:45 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/cpc_minutes_november_10th_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:01:46 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/cpc_minutes_october_13th_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:01:47 URL:http://www.mashpeema.gov/cultural-council [49653] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/216" [1]
+2017-01-02 03:01:48 URL:http://www.mashpeema.gov/print/216 [14409] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/216" [1]
+2017-01-02 03:01:50 URL:http://www.mashpeema.gov/user/1153/contact [40288] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/1153/contact" [1]
+2017-01-02 03:01:50 URL: http://www.mashpeema.gov/node/216/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:01:52 URL:http://www.mashpeema.gov/cultural-council/pages/local-funding-priorities [42009] -> "../data/townSites2/Mashpee/www.mashpeema.gov/cultural-council/pages/local-funding-priorities" [1]
+failed: Network is unreachable.
+2017-01-02 03:02:00 URL:http://www.mashpeema.gov/economic-development-and-industrial-corporation [60051] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/226" [1]
+2017-01-02 03:02:01 URL:http://www.mashpeema.gov/print/226 [11874] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/226" [1]
+2017-01-02 03:02:04 URL:http://www.mashpeema.gov/user/306/contact [40570] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/306/contact" [1]
+2017-01-02 03:02:04 URL: http://www.mashpeema.gov/node/226/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:02:06 URL:http://www.mashpeema.gov/economic-development-and-industrial-corporation/pages/about-edic [41541] -> "../data/townSites2/Mashpee/www.mashpeema.gov/economic-development-and-industrial-corporation/pages/about-edic" [1]
+2017-01-02 03:02:08 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/economic_development_plan_for_mashpee_executive_park.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:02:09 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/mashpee_guide_for_business.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:02:11 URL:http://www.mashpeema.gov/node/226/events/month [57021] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/226/events/month" [1]
+2017-01-02 03:02:13 URL:http://www.mashpeema.gov/node/226/events/month/2017-01 [57078] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/226/events/month/2017-01" [1]
+2017-01-02 03:02:14 URL:http://www.mashpeema.gov/node/226/minutes [36745] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/226/minutes" [1]
+2017-01-02 03:02:15 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/edic_minutes_may_12_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:02:16 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/edic_minutes_march_27_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:02:17 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/edic_minutes_february_24_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:02:19 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/edic_minutes_january_31_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:02:20 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/edic_minutes_january_27_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:02:20 URL:http://www.mashpeema.gov/finance-committee [63550] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/236" [1]
+2017-01-02 03:02:22 URL:http://www.mashpeema.gov/print/236 [12583] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/236" [1]
+2017-01-02 03:02:24 URL:http://www.mashpeema.gov/user/331/contact [40359] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/331/contact" [1]
+2017-01-02 03:02:26 URL: http://www.mashpeema.gov/node/236/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:02:28 URL:http://www.mashpeema.gov/finance-committee/pages/finance-committee-code-ethical-conduct [40522] -> "../data/townSites2/Mashpee/www.mashpeema.gov/finance-committee/pages/finance-committee-code-ethical-conduct" [1]
+2017-01-02 03:02:30 URL:http://www.mashpeema.gov/node/236/events/month [56452] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/236/events/month" [1]
+2017-01-02 03:02:31 URL:http://www.mashpeema.gov/node/236/events/month/2017-01 [56509] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/236/events/month/2017-01" [1]
+2017-01-02 03:02:33 URL:http://www.mashpeema.gov/node/236/agenda [36228] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/236/agenda" [1]
+2017-01-02 03:02:35 URL:http://www.mashpeema.gov/finance-committee/agenda/finance-committee-agenda-14 [39442] -> "../data/townSites2/Mashpee/www.mashpeema.gov/finance-committee/agenda/finance-committee-agenda-14" [1]
+2017-01-02 03:02:38 URL:http://www.mashpeema.gov/finance-committee/agenda/finance-committee-agenda-13 [39457] -> "../data/townSites2/Mashpee/www.mashpeema.gov/finance-committee/agenda/finance-committee-agenda-13" [1]
+2017-01-02 03:02:39 URL:http://www.mashpeema.gov/finance-committee/agenda/finance-committee-agenda-12 [39434] -> "../data/townSites2/Mashpee/www.mashpeema.gov/finance-committee/agenda/finance-committee-agenda-12" [1]
+2017-01-02 03:02:41 URL:http://www.mashpeema.gov/finance-committee/agenda/finance-committee-agenda-11 [39439] -> "../data/townSites2/Mashpee/www.mashpeema.gov/finance-committee/agenda/finance-committee-agenda-11" [1]
+2017-01-02 03:02:44 URL:http://www.mashpeema.gov/finance-committee/agenda/finance-committee-agenda-9 [39434] -> "../data/townSites2/Mashpee/www.mashpeema.gov/finance-committee/agenda/finance-committee-agenda-9" [1]
+2017-01-02 03:02:45 URL:http://www.mashpeema.gov/node/236/minutes [36304] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/236/minutes" [1]
+2017-01-02 03:02:47 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/minutes_11.17.2016_201612131426.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:02:48 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/fincom_minutes_9.1.2016_201609200920.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:02:49 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/fc_minutes_8.11.2016_201609131532.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:02:50 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/june_16_2016_201608020957.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:02:51 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/may_2_2016_201608020956.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:02:53 URL:http://www.mashpeema.gov/historic-district-commission [45934] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/246" [1]
+2017-01-02 03:02:54 URL:http://www.mashpeema.gov/print/246 [10795] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/246" [1]
+2017-01-02 03:02:54 URL: http://www.mashpeema.gov/node/246/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:02:56 URL:http://www.mashpeema.gov/node/246/agenda [35644] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/246/agenda" [1]
+2017-01-02 03:02:57 URL:http://www.mashpeema.gov/historic-district-commission/agenda/historic-district-commission [38802] -> "../data/townSites2/Mashpee/www.mashpeema.gov/historic-district-commission/agenda/historic-district-commission" [1]
+2017-01-02 03:02:58 URL:http://www.mashpeema.gov/historical-commission [53439] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/241" [1]
+2017-01-02 03:03:00 URL:http://www.mashpeema.gov/print/241 [17068] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/241" [1]
+2017-01-02 03:03:01 URL:http://www.mashpeema.gov/user/402/contact [40313] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/402/contact" [1]
+2017-01-02 03:03:04 URL:http://www.mashpeema.gov/user/403/contact [40388] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/403/contact" [1]
+2017-01-02 03:03:05 URL: http://www.mashpeema.gov/node/241/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:03:06 URL:http://www.mashpeema.gov/historical-commission/pages/mashpee-words-and-pictures [42830] -> "../data/townSites2/Mashpee/www.mashpeema.gov/historical-commission/pages/mashpee-words-and-pictures" [1]
+2017-01-02 03:03:07 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/125thanniversaryredux.pdf 200 OK
+unlink: No such file or directory
+http://www.mospc.org/:
+Remote file does not exist -- broken link!!!
+2017-01-02 03:03:11 URL:http://www.communitypreservation.org/ [24093] -> "../data/townSites2/Mashpee/www.mashpeema.gov/historical-commission/links/massachusetts-community-preservation" [1]
+2017-01-02 03:03:12 URL:http://mhc-macris.net/ [9124/9124] -> "../data/townSites2/Mashpee/www.mashpeema.gov/historical-commission/links/massachusetts-cultural-resources-information-systems" [1]
+2017-01-02 03:03:14 URL:http://www.sec.state.ma.us/mhc/ [68287/68287] -> "../data/townSites2/Mashpee/www.mashpeema.gov/historical-commission/links/massachusetts-historical-commission" [1]
+2017-01-02 03:03:15 URL:https://www.nps.gov/history/index.htm [34017] -> "../data/townSites2/Mashpee/www.mashpeema.gov/historical-commission/links/national-park-service-history-culture" [1]
+2017-01-02 03:03:16 URL:http://www.mashpeema.gov/mashpee-energy-review [43552] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/271" [1]
+2017-01-02 03:03:16 URL:http://www.mashpeema.gov/print/271 [8011] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/271" [1]
+2017-01-02 03:03:17 URL: http://www.mashpeema.gov/node/271/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:03:19 URL:http://minisite.alsoenergy.com/Dashboard/AlsoEnergyDownload/2a5669734f64476e4942554b772b71733d [26545/26545] -> "../data/townSites2/Mashpee/www.mashpeema.gov/mashpee-energy-review/links/solar-status-dpw" [1]
+2017-01-02 03:03:21 URL:http://minisite.alsoenergy.com/Dashboard/AlsoEnergyDownload/2a5669734f64476e4941304b772b714d3d [26553/26553] -> "../data/townSites2/Mashpee/www.mashpeema.gov/mashpee-energy-review/links/solar-status-high-school" [1]
+2017-01-02 03:03:23 URL:https://solarems.net/kiosks/267 [6996/6996] -> "../data/townSites2/Mashpee/www.mashpeema.gov/mashpee-energy-review/links/solar-status-landfill" [1]
+failed: Operation timed out.
+failed: Operation timed out.
+failed: Operation timed out.
+failed: Operation timed out.
+failed: Operation timed out.
+failed: Operation timed out.
+failed: Operation timed out.
+failed: Operation timed out.
+failed: Operation timed out.
+failed: Operation timed out.
+failed: Operation timed out.
+failed: Operation timed out.
+failed: Operation timed out.
+failed: Operation timed out.
+failed: Operation timed out.
+failed: Operation timed out.
+failed: Operation timed out.
+failed: Operation timed out.
+failed: Operation timed out.
+failed: Operation timed out.
+2017-01-02 03:32:48 URL:http://minisite.alsoenergy.com/Dashboard/AlsoEnergyDownload/2a5669734f64476e49416b4b772b714d3d [26555/26555] -> "../data/townSites2/Mashpee/www.mashpeema.gov/mashpee-energy-review/links/solar-status-senior-center" [1]
+2017-01-02 03:32:51 URL:http://www.mashpeema.gov/nitrogen-management-plan-community-advisory-committee [43929] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/281" [1]
+2017-01-02 03:32:52 URL:http://www.mashpeema.gov/print/281 [9918] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/281" [1]
+2017-01-02 03:32:53 URL: http://www.mashpeema.gov/node/281/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:32:56 URL:http://www.mashpeema.gov/recycling-committee [54170] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/296" [1]
+2017-01-02 03:32:57 URL:http://www.mashpeema.gov/print/296 [10667] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/296" [1]
+2017-01-02 03:32:58 URL: http://www.mashpeema.gov/node/296/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:00 URL:http://www.mashpeema.gov/node/296/events/month [55827] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/296/events/month" [1]
+2017-01-02 03:33:02 URL:http://www.mashpeema.gov/node/296/events/month/2017-01 [55884] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/296/events/month/2017-01" [1]
+2017-01-02 03:33:04 URL:http://www.mashpeema.gov/selectmen [66376] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/301" [1]
+2017-01-02 03:33:06 URL:http://www.mashpeema.gov/print/301 [9435] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/301" [1]
+2017-01-02 03:33:08 URL: http://www.mashpeema.gov/node/301/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:10 URL:http://www.mashpeema.gov/selectmen/webforms/ask-selectmen [46466/46466] -> "../data/townSites2/Mashpee/www.mashpeema.gov/selectmen/webforms/ask-selectmen" [1]
+2017-01-02 03:33:12 URL:http://www.mashpeema.gov/node/301/events/month [56342] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/301/events/month" [1]
+2017-01-02 03:33:13 URL:http://www.mashpeema.gov/node/301/events/month/2017-01 [56399] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/301/events/month/2017-01" [1]
+2017-01-02 03:33:15 URL:http://www.mashpeema.gov/node/301/agenda [36134] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/301/agenda" [1]
+2017-01-02 03:33:16 URL:http://www.mashpeema.gov/selectmen/agenda/selectmen-agenda-18 [40029] -> "../data/townSites2/Mashpee/www.mashpeema.gov/selectmen/agenda/selectmen-agenda-18" [1]
+2017-01-02 03:33:18 URL:http://www.mashpeema.gov/selectmen/agenda/agenda-packet-6 [40079] -> "../data/townSites2/Mashpee/www.mashpeema.gov/selectmen/agenda/agenda-packet-6" [1]
+2017-01-02 03:33:19 URL:http://www.mashpeema.gov/selectmen/agenda/selectmen-agenda-16 [40023] -> "../data/townSites2/Mashpee/www.mashpeema.gov/selectmen/agenda/selectmen-agenda-16" [1]
+2017-01-02 03:33:21 URL:http://www.mashpeema.gov/selectmen/agenda/agenda-packet-5 [40060] -> "../data/townSites2/Mashpee/www.mashpeema.gov/selectmen/agenda/agenda-packet-5" [1]
+2017-01-02 03:33:23 URL:http://www.mashpeema.gov/selectmen/agenda/selectmen-agenda-15 [40028] -> "../data/townSites2/Mashpee/www.mashpeema.gov/selectmen/agenda/selectmen-agenda-15" [1]
+2017-01-02 03:33:25 URL:http://www.mashpeema.gov/node/301/minutes [36278] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/301/minutes" [1]
+2017-01-02 03:33:26 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/12.5.2016_201612201055.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:27 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/minutes_11.28.2016_201612070926.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:28 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/minutes_11.14.2016_201611291010.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:29 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/minutes_10.31.16_201611161012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:31 URL: http://www.mashpeema.gov/sites/mashpeema/files/minutes/10.17.2016_201611011026.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:34 URL:http://www.mashpeema.gov/sewer [64839] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/306" [1]
+2017-01-02 03:33:35 URL:http://www.mashpeema.gov/print/306 [17674] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/306" [1]
+2017-01-02 03:33:37 URL: http://www.mashpeema.gov/node/306/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:39 URL:http://www.mashpeema.gov/sewer/pages/reports [43245] -> "../data/townSites2/Mashpee/www.mashpeema.gov/sewer/pages/reports" [1]
+2017-01-02 03:33:40 URL:http://www.mashpeema.gov/node/306/events/month [60119] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/306/events/month" [1]
+2017-01-02 03:33:43 URL:http://www.mashpeema.gov/node/306/events/day/2017-01-19 [39579] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/306/events/day/2017-01-19" [1]
+2017-01-02 03:33:44 URL:http://www.mashpeema.gov/node/306/events/month/2017-01 [60176] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/306/events/month/2017-01" [1]
+2017-01-02 03:33:47 URL:http://www.mashpeema.gov/Shellfish [62262] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/146" [1]
+2017-01-02 03:33:48 URL:http://www.mashpeema.gov/print/146 [13577] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/146" [1]
+2017-01-02 03:33:49 URL: http://www.mashpeema.gov/node/146/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:50 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/2008_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:51 URL:http://www.mass.gov/eea/agencies/dfg/dmf/ [179795] -> "../data/townSites2/Mashpee/www.mashpeema.gov/shellfish/links/massachusetts-division-marine-fisheries" [1]
+2017-01-02 03:33:53 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/oyster_mitigation.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:33:54 URL:http://www.mashpeema.gov/shellfish/pages/permit-fees [42559] -> "../data/townSites2/Mashpee/www.mashpeema.gov/shellfish/pages/permit-fees" [1]
+2017-01-02 03:33:56 URL:http://www.oceanscience.net/estuaries/Popponesset.htm [11049/11049] -> "../data/townSites2/Mashpee/www.mashpeema.gov/shellfish/links/popponesset-bay-estuaries-project-report" [1]
+2017-01-02 03:33:59 URL:http://www.mashpeema.gov/sewer/pages/watershed-nitrogen-management-plan [44824] -> "../data/townSites2/Mashpee/www.mashpeema.gov/shellfish/links/popponesset-bay-nitrogen-tmdl" [1]
+2017-01-02 03:33:59 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/shellfishing_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:34:01 URL:http://www.oceanscience.net/estuaries/Quashnet.htm [10894/10894] -> "../data/townSites2/Mashpee/www.mashpeema.gov/shellfish/links/waquoit-bay-estuaries-project-report" [1]
+2017-01-02 03:34:04 URL:http://www.waquoitbayreserve.org/ [123840] -> "../data/townSites2/Mashpee/www.mashpeema.gov/shellfish/links/waquoit-bay-national-estuarine-research-reserve" [1]
+2017-01-02 03:34:06 URL:http://www.mashpeema.gov/node/146/events/month [57549] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/146/events/month" [1]
+2017-01-02 03:34:07 URL:http://www.mashpeema.gov/node/146/events/month/2017-01 [57606] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/146/events/month/2017-01" [1]
+2017-01-02 03:34:09 URL:http://www.mashpeema.gov/subdivision-board-appeals [44836] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/326" [1]
+2017-01-02 03:34:10 URL:http://www.mashpeema.gov/print/326 [9880] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/326" [1]
+2017-01-02 03:34:11 URL: http://www.mashpeema.gov/node/326/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:34:13 URL:http://www.mashpeema.gov/mashpee-substance-abuse-taskforce [64482] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/14143" [1]
+2017-01-02 03:34:14 URL:http://www.mashpeema.gov/print/14143 [17802] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/14143" [1]
+2017-01-02 03:34:15 URL: http://www.mashpeema.gov/node/14143/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:34:16 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/7_ways_to_parental_recovery_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:34:19 URL:https://www.youtube.com/watch?v=b4cfo0d1WpY&feature=youtu.be [162614] -> "../data/townSites2/Mashpee/www.mashpeema.gov/mashpee-substance-abuse-taskforce/links/addiction-task-force-psa" [1]
+2017-01-02 03:34:20 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/substance-use-resource-guide-9-2016-final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:34:21 URL:http://www.mashpeema.gov/node/14143/news [37042] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/14143/news" [1]
+2017-01-02 03:34:22 URL:http://www.mashpeema.gov/mashpee-substance-abuse-taskforce/news/concerned-about-yourself-or-someone-else [41367] -> "../data/townSites2/Mashpee/www.mashpeema.gov/mashpee-substance-abuse-taskforce/news/concerned-about-yourself-or-someone-else" [1]
+2017-01-02 03:34:24 URL:http://www.mashpeema.gov/node/14143/events/month [56994] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/14143/events/month" [1]
+2017-01-02 03:34:25 URL:http://www.mashpeema.gov/node/14143/events/month/2017-01 [57051] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/14143/events/month/2017-01" [1]
+2017-01-02 03:34:28 URL:http://www.mashpeema.gov/waterways-commission [62961] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/331" [1]
+2017-01-02 03:34:29 URL:http://www.mashpeema.gov/print/331 [15536] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/331" [1]
+2017-01-02 03:34:31 URL:http://www.mashpeema.gov/user/406/contact [40277] -> "../data/townSites2/Mashpee/www.mashpeema.gov/user/406/contact" [1]
+2017-01-02 03:34:31 URL: http://www.mashpeema.gov/node/331/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:34:32 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/waterways05.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:34:33 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/whatwillittake.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:34:34 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/poppyinlet2.jpg 200 OK
+unlink: No such file or directory
+2017-01-02 03:34:35 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/waquoitbay2.jpg 200 OK
+unlink: No such file or directory
+2017-01-02 03:34:36 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/wwcharter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:34:38 URL:http://www.mashpeema.gov/node/331/faq [38364] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/331/faq" [1]
+2017-01-02 03:34:39 URL:http://www.mashpeema.gov/waterways-commission/faq/when-are-meetings-held [39594] -> "../data/townSites2/Mashpee/www.mashpeema.gov/waterways-commission/faq/when-are-meetings-held" [1]
+2017-01-02 03:34:40 URL:http://www.mashpeema.gov/waterways-commission/faq/how-do-i-contact-waterways-commission [39697] -> "../data/townSites2/Mashpee/www.mashpeema.gov/waterways-commission/faq/how-do-i-contact-waterways-commission" [1]
+2017-01-02 03:34:42 URL:http://www.mashpeema.gov/waterways-commission/faq/who-are-members [39548] -> "../data/townSites2/Mashpee/www.mashpeema.gov/waterways-commission/faq/who-are-members" [1]
+2017-01-02 03:34:43 URL:http://www.mashpeema.gov/waterways-commission/faq/what-are-long-term-objectives-waterways-commission [40010] -> "../data/townSites2/Mashpee/www.mashpeema.gov/waterways-commission/faq/what-are-long-term-objectives-waterways-commission" [1]
+2017-01-02 03:34:45 URL:http://www.mashpeema.gov/waterways-commission/faq/why-isnt-mashpee-river-dredged-yet [40034] -> "../data/townSites2/Mashpee/www.mashpeema.gov/waterways-commission/faq/why-isnt-mashpee-river-dredged-yet" [1]
+2017-01-02 03:34:47 URL:http://www.mashpeema.gov/node/331/events/month [60827] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/331/events/month" [1]
+2017-01-02 03:34:48 URL:http://www.mashpeema.gov/node/331/events/day/2017-01-10 [40131] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/331/events/day/2017-01-10" [1]
+2017-01-02 03:34:50 URL:http://www.mashpeema.gov/node/331/events/month/2017-01 [60880] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/331/events/month/2017-01" [1]
+2017-01-02 03:34:51 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/entertainment_license_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:34:53 URL:http://www.mashpeema.gov/planning-department/pages/regulations-forms [45303] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/2161" [1]
+2017-01-02 03:34:54 URL:http://www.mashpeema.gov/print/2161 [8975] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/2161" [1]
+2017-01-02 03:34:55 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/subdivision_regulations_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:34:56 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/special_permit_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:34:57 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/public_hearing_and_meeting_procedures.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:34:58 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/definitive_plan_checklist.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:34:59 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/preliminary_plan_checklist.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:00 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/form_a_-_application_for_endorsement.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:01 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/form_b_-_application_for_approval_of_preliminary_plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:03 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/form_c_-_application_for_approval_of_definitive_plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:04 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/form_d_-_covenant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:05 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/form_e_-_release_of_covenant_agreement.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:07 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/application_for_special_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:08 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/form_n_-_notice_of_filing_of_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:10 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/application_for_special_permit_modification.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:12 URL:http://www.mashpeema.gov/zoning-board-appeals/pages/forms-and-informational-documents [43726] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/3626" [1]
+2017-01-02 03:35:13 URL:http://www.mashpeema.gov/print/3626 [7616] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/3626" [1]
+2017-01-02 03:35:15 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/petitionchecklist.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:16 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/911.taxworksheet.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:17 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/special_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:18 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/minor_modification.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:20 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/variance.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:21 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/written_finding.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:22 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/petitionprocedures.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:24 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/beforeduringafterthepublichearings.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:25 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/consultants.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:26 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/chapter40bcomprehensivepermitrules.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:27 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/chapter112.mgl_.c.40.section57.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:30 URL:http://www.hsoy.org/historic-sites-alt/ [66074/66074] -> "../data/townSites2/Mashpee/www.mashpeema.gov/discover-mashpee/links/captain-bangs-hallet-house" [1]
+2017-01-02 03:35:32 URL:http://capecodchildrensmuseum.org/ [585/585] -> "../data/townSites2/Mashpee/www.mashpeema.gov/discover-mashpee/links/cape-cod-childrens-museum" [1]
+2017-01-02 03:35:34 URL:http://www.centervillehistoricalmuseum.org/ [790/790] -> "../data/townSites2/Mashpee/www.mashpeema.gov/discover-mashpee/links/centerville-historical-museum" [1]
+2017-01-02 03:35:35 URL:http://www.ostervillemuseum.org/ [31893/31893] -> "../data/townSites2/Mashpee/www.mashpeema.gov/discover-mashpee/links/osterville-historical-museum" [1]
+2017-01-02 03:35:37 URL:http://www.ccmnh.org/ [29389/29389] -> "../data/townSites2/Mashpee/www.mashpeema.gov/discover-mashpee/links/cape-cod-museum-natural-history" [1]
+2017-01-02 03:35:39 URL:http://www.mashpeema.gov/quick-view/11 [39313] -> "../data/townSites2/Mashpee/www.mashpeema.gov/quick-view/11" [1]
+2017-01-02 03:35:40 URL:http://www.capecodchamber.org/cape-cod-conservation-guide-cape-cod-chamber-commerce [32503] -> "../data/townSites2/Mashpee/www.mashpeema.gov/discover-mashpee/links/wildlife-and-nature" [1]
+2017-01-02 03:35:42 URL:http://www.capecodchamber.org/cape-cod-hiking-and-walking-trails [35741] -> "../data/townSites2/Mashpee/www.mashpeema.gov/discover-mashpee/links/hiking-and-walking-trails" [1]
+2017-01-02 03:35:43 URL:http://www.capecodchamber.org/events [48314] -> "../data/townSites2/Mashpee/www.mashpeema.gov/discover-mashpee/links/cape-cod-events" [1]
+2017-01-02 03:35:45 URL:http://www.capecodchamber.org/play/boating-kayaking [56326] -> "../data/townSites2/Mashpee/www.mashpeema.gov/discover-mashpee/links/boating-and-kayaking" [1]
+2017-01-02 03:35:47 URL:http://www.capecodchamber.org/play/whale-seal-watching [56936] -> "../data/townSites2/Mashpee/www.mashpeema.gov/discover-mashpee/links/whaleseal-watching" [1]
+2017-01-02 03:35:49 URL:http://www.mashpeema.gov/town-clerk/pages/licenses-stickers-fees [43676] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/8073" [1]
+2017-01-02 03:35:50 URL:http://www.mashpeema.gov/print/8073 [7078] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/8073" [1]
+2017-01-02 03:35:51 URL:http://www.mashpeema.gov/town-clerk/pages/marriage-license-information [49587] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-clerk/pages/marriage-license-information" [1]
+2017-01-02 03:35:53 URL:http://www.mashpeema.gov/town-clerk/pages/licensing-dogs [43821] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-clerk/pages/licensing-dogs" [1]
+2017-01-02 03:35:54 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/fy2016_sticker_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:35:55 URL:http://www.mashpeema.gov/town-clerk/pages/fees [44338] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-clerk/pages/fees" [1]
+2017-01-02 03:35:57 URL:http://www.mashpeema.gov/where/a [38999] -> "../data/townSites2/Mashpee/www.mashpeema.gov/where/a" [1]
+2017-01-02 03:35:59 URL:http://www.mashpeema.gov/where/b [39527] -> "../data/townSites2/Mashpee/www.mashpeema.gov/where/b" [1]
+2017-01-02 03:36:01 URL:http://www.mashpeema.gov/where/c [38988] -> "../data/townSites2/Mashpee/www.mashpeema.gov/where/c" [1]
+2017-01-02 03:36:02 URL:http://www.mashpeema.gov/where/d [38935] -> "../data/townSites2/Mashpee/www.mashpeema.gov/where/d" [1]
+2017-01-02 03:36:03 URL:http://www.mashpeema.gov/where/e [39198] -> "../data/townSites2/Mashpee/www.mashpeema.gov/where/e" [1]
+2017-01-02 03:36:05 URL:http://www.mashpeema.gov/where/f [39137] -> "../data/townSites2/Mashpee/www.mashpeema.gov/where/f" [1]
+2017-01-02 03:36:06 URL:http://www.mashpeema.gov/where/i [38660] -> "../data/townSites2/Mashpee/www.mashpeema.gov/where/i" [1]
+2017-01-02 03:36:07 URL:http://www.mashpeema.gov/where/l [38682] -> "../data/townSites2/Mashpee/www.mashpeema.gov/where/l" [1]
+2017-01-02 03:36:09 URL:http://www.mashpeema.gov/where/o [38650] -> "../data/townSites2/Mashpee/www.mashpeema.gov/where/o" [1]
+2017-01-02 03:36:11 URL:http://www.mashpeema.gov/where/p [39139] -> "../data/townSites2/Mashpee/www.mashpeema.gov/where/p" [1]
+2017-01-02 03:36:12 URL:http://www.mashpeema.gov/where/r [38657] -> "../data/townSites2/Mashpee/www.mashpeema.gov/where/r" [1]
+2017-01-02 03:36:13 URL:http://www.mashpeema.gov/where/s [39151] -> "../data/townSites2/Mashpee/www.mashpeema.gov/where/s" [1]
+2017-01-02 03:36:15 URL:http://www.mashpeema.gov/where/t [39834] -> "../data/townSites2/Mashpee/www.mashpeema.gov/where/t" [1]
+2017-01-02 03:36:16 URL:http://www.mashpeema.gov/where/u [38665] -> "../data/townSites2/Mashpee/www.mashpeema.gov/where/u" [1]
+2017-01-02 03:36:17 URL:http://www.mashpeema.gov/where/v [38926] -> "../data/townSites2/Mashpee/www.mashpeema.gov/where/v" [1]
+2017-01-02 03:36:19 URL:http://www.mashpeema.gov/where/w [38906] -> "../data/townSites2/Mashpee/www.mashpeema.gov/where/w" [1]
+2017-01-02 03:36:20 URL: https://www.ada.gov/smbusgd.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:21 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/animaldogcatreg.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:23 URL:http://www.mashpeema.gov/fire-rescue/pages/life-saving-hints [44772] -> "../data/townSites2/Mashpee/www.mashpeema.gov/fire-rescue/pages/life-saving-hints" [1]
+2017-01-02 03:36:24 URL:http://www.mashpeema.gov/fire-rescue/pages/open-burning [43338] -> "../data/townSites2/Mashpee/www.mashpeema.gov/fire-rescue/pages/open-burning" [1]
+2017-01-02 03:36:26 URL:http://www.mashpeema.gov/transfer-station/pages/recycling [45378] -> "../data/townSites2/Mashpee/www.mashpeema.gov/transfer-station/pages/recycling" [1]
+2017-01-02 03:36:27 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/mashpee_street_map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:28 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/mashpee_charter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:30 URL:http://www.mashpeema.gov/channel-18/pages/town-hall-live-stream [38968] -> "../data/townSites2/Mashpee/www.mashpeema.gov/channel-18/pages/town-hall-live-stream" [1]
+2017-01-02 03:36:31 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/used_car_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:33 URL:http://www.mashpeema.gov/town-clerk/pages/birth-death-marriage-records [45199] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-clerk/pages/birth-death-marriage-records" [1]
+2017-01-02 03:36:36 URL:http://www.mashpeema.gov/human-resources/pages/employment-opportunities [43100] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/3621" [1]
+2017-01-02 03:36:37 URL:http://www.mashpeema.gov/print/3621 [7661] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/3621" [1]
+2017-01-02 03:36:38 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/substitute_teacher_assistants_8-15-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:39 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/police_officers_12-2-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:41 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/mini-van_driver.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:42 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/waterways_assistant_12-23-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:43 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/administrative_secretary_town_manager_2-27-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:44 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/employment_application_10-1-2014_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:47 URL:http://www.mashpeema.gov/town-clerk/pages/meeting-request [42907] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/8083" [1]
+2017-01-02 03:36:48 URL:http://www.mashpeema.gov/print/8083 [6252] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/8083" [1]
+2017-01-02 03:36:51 URL:http://www.mashpeema.gov/user/login?destination=node/8953 [37649] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-clerk/files/meeting-request" [1]
+2017-01-02 03:36:53 URL:http://www.mashpeema.gov/town-clerk/pages/shellfish-regulations [44235] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/3376" [1]
+2017-01-02 03:36:54 URL:http://www.mashpeema.gov/print/3376 [7543] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/3376" [1]
+2017-01-02 03:36:55 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/2016-2017_shellfish_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:56 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/2016_shellfish_regs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:36:59 URL:http://www.mashpeema.gov/user/login?destination=node/8923 [37649] -> "../data/townSites2/Mashpee/www.mashpeema.gov/town-clerk/files/shellfish-map" [1]
+2017-01-02 03:37:01 URL:http://www.mashpeema.gov/town-clerk/pages/online-payments [44838] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/3416" [1]
+2017-01-02 03:37:02 URL:http://www.mashpeema.gov/print/3416 [8104] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/3416" [1]
+2017-01-02 03:37:05 URL:http://www.mashpeema.gov/animal-control [43337] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/51" [1]
+2017-01-02 03:37:07 URL:http://www.mashpeema.gov/print/51 [7394] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/51" [1]
+2017-01-02 03:37:07 URL: http://www.mashpeema.gov/node/51/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:37:10 URL:http://www.mashpeema.gov/animal-control/pages/coyotes [43318] -> "../data/townSites2/Mashpee/www.mashpeema.gov/animal-control/pages/coyotes" [1]
+2017-01-02 03:37:12 URL:http://www.mashpeema.gov/animal-control/pages/lost-pet [42232] -> "../data/townSites2/Mashpee/www.mashpeema.gov/animal-control/pages/lost-pet" [1]
+2017-01-02 03:37:13 URL:http://www.mashpeema.gov/animal-control/pages/rabies-information [45354] -> "../data/townSites2/Mashpee/www.mashpeema.gov/animal-control/pages/rabies-information" [1]
+2017-01-02 03:37:14 URL:http://www.mass.gov/eea/agencies/dfg/dfw/ [176086] -> "../data/townSites2/Mashpee/www.mashpeema.gov/animal-control/links/wildlife-information" [1]
+2017-01-02 03:37:18 URL:http://www.mashpeema.gov/public-works/webforms/report-concern [51219/51219] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/8013" [1]
+2017-01-02 03:37:20 URL:http://www.mashpeema.gov/print/8013 [14890/14890] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/8013" [1]
+2017-01-02 03:37:23 URL:http://www.mashpeema.gov/gis-e911/pages/interactive-town-map [44716] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/8233" [1]
+2017-01-02 03:37:24 URL:http://www.mashpeema.gov/print/8233 [8722] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/8233" [1]
+2017-01-02 03:37:25 URL: http://www.mashpeema.gov/calendar/feed/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 03:37:30 URL:http://www.mashpeema.gov/calendar [174924] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar.1" [1]
+2017-01-02 03:37:32 URL:http://www.mashpeema.gov/calendar/week [45584] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/week" [1]
+2017-01-02 03:37:33 URL:http://www.mashpeema.gov/calendar/day [43181] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/day.1" [1]
+2017-01-02 03:37:42 URL:http://www.mashpeema.gov/calendar/year [248061] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/year" [1]
+2017-01-02 03:37:45 URL:http://www.mashpeema.gov/calendar/upcoming [56893] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/upcoming" [1]
+2017-01-02 03:37:48 URL:http://www.mashpeema.gov/calendar/month/2016-12 [185641] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/month/2016-12" [1]
+2017-01-02 03:37:50 URL:http://www.mashpeema.gov/calendar/month/2017-02 [160889] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/month/2017-02" [1]
+2017-01-02 03:37:52 URL:http://www.mashpeema.gov/harbormaster/faq/how-do-i-contact-harbormaster [41250] -> "../data/townSites2/Mashpee/www.mashpeema.gov/harbormaster/faq/how-do-i-contact-harbormaster" [1]
+2017-01-02 03:37:53 URL:http://www.mashpeema.gov/harbormaster/faq/when-are-meetings-held [41140] -> "../data/townSites2/Mashpee/www.mashpeema.gov/harbormaster/faq/when-are-meetings-held" [1]
+2017-01-02 03:37:55 URL:http://www.mashpeema.gov/harbormaster/faq/can-i-place-mooring-mashpee-waters [41207] -> "../data/townSites2/Mashpee/www.mashpeema.gov/harbormaster/faq/can-i-place-mooring-mashpee-waters" [1]
+2017-01-02 03:37:57 URL:http://www.mashpeema.gov/harbormaster/faq/are-there-specific-regulations-apply-mooring-configuration [41205] -> "../data/townSites2/Mashpee/www.mashpeema.gov/harbormaster/faq/are-there-specific-regulations-apply-mooring-configuration" [1]
+2017-01-02 03:37:59 URL:http://www.mashpeema.gov/harbormaster/faq/i-trailer-my-boat-where-can-i-launch-it-mashpee-waters [41125] -> "../data/townSites2/Mashpee/www.mashpeema.gov/harbormaster/faq/i-trailer-my-boat-where-can-i-launch-it-mashpee-waters" [1]
+2017-01-02 03:38:01 URL:http://www.mashpeema.gov/node/91/faq [39398] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/91/faq" [1]
+2017-01-02 03:38:03 URL:http://www.mashpeema.gov/transfer-station/faq/where-can-i-purchase-permit-transfer-station-and-how-much-does-it-cost [42893] -> "../data/townSites2/Mashpee/www.mashpeema.gov/transfer-station/faq/where-can-i-purchase-permit-transfer-station-and-how-much-does-it-cost" [1]
+2017-01-02 03:38:05 URL:http://www.mashpeema.gov/transfer-station/faq/who-do-i-call-about-illegal-dumping-woods-or-other-areas [42961] -> "../data/townSites2/Mashpee/www.mashpeema.gov/transfer-station/faq/who-do-i-call-about-illegal-dumping-woods-or-other-areas" [1]
+2017-01-02 03:38:07 URL:http://www.mashpeema.gov/transfer-station/faq/does-town-mashpee-have-composting-program [43155] -> "../data/townSites2/Mashpee/www.mashpeema.gov/transfer-station/faq/does-town-mashpee-have-composting-program" [1]
+2017-01-02 03:38:08 URL:http://www.mashpeema.gov/transfer-station/faq/where-can-i-dispose-brush [42529] -> "../data/townSites2/Mashpee/www.mashpeema.gov/transfer-station/faq/where-can-i-dispose-brush" [1]
+2017-01-02 03:38:11 URL:http://www.mashpeema.gov/transfer-station/faq/where-can-i-dispose-demolition-or-building-materials [42820] -> "../data/townSites2/Mashpee/www.mashpeema.gov/transfer-station/faq/where-can-i-dispose-demolition-or-building-materials" [1]
+2017-01-02 03:38:12 URL:http://www.mashpeema.gov/node/156/faq [40104] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/156/faq" [1]
+2017-01-02 03:38:14 URL:http://www.mashpeema.gov/police/pages/emergency-alert-sign [45104] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/6128" [1]
+2017-01-02 03:38:15 URL:http://www.mashpeema.gov/print/6128 [7757] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/6128" [1]
+2017-01-02 03:38:18 URL:http://www.mashpeema.gov/home/news/cape-islands-workforce-investment-board [38553] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/14433" [1]
+2017-01-02 03:38:19 URL:http://www.mashpeema.gov/print/14433 [6749] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/14433" [1]
+2017-01-02 03:38:20 URL: http://www.mashpeema.gov/sites/mashpeema/files/news/rfp_wioa_services.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:38:22 URL:http://www.mashpeema.gov/home/news/shellfishing-closure-update [38540] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/14333" [1]
+2017-01-02 03:38:24 URL:http://www.mashpeema.gov/print/14333 [6456] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/14333" [1]
+2017-01-02 03:38:26 URL:http://www.mashpeema.gov/home/news/vacancy-notice [38586] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/12833" [1]
+2017-01-02 03:38:27 URL:http://www.mashpeema.gov/print/12833 [6544] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/12833" [1]
+2017-01-02 03:38:29 URL: http://www.mashpeema.gov/node/1/news/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:38:31 URL:http://www.mashpeema.gov/home/news/boards-committees-vacancy-notice [38435] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/news/boards-committees-vacancy-notice" [1]
+2017-01-02 03:38:34 URL:http://www.mashpeema.gov/home/news/irs-telephone-scam [39729] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/news/irs-telephone-scam" [1]
+2017-01-02 03:38:36 URL:http://www.mashpeema.gov/town-initiatives/news/mashpee-substance-abuse-task-force [38628] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/13273" [1]
+2017-01-02 03:38:38 URL:http://www.mashpeema.gov/print/13273 [6632] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/13273" [1]
+2017-01-02 03:38:40 URL:http://www.mashpeema.gov/town-initiatives [37812] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/716" [1]
+2017-01-02 03:38:42 URL:http://www.mashpeema.gov/town-initiatives/news/community-park [38786] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/6148" [1]
+2017-01-02 03:38:43 URL:http://www.mashpeema.gov/print/6148 [6669] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/6148" [1]
+2017-01-02 03:38:46 URL:http://www.mashpeema.gov/town-initiatives/news/mashpee-dog-park [38480] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/6147" [1]
+2017-01-02 03:38:47 URL:http://www.mashpeema.gov/print/6147 [6301] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/6147" [1]
+2017-01-02 03:38:49 URL:http://www.mashpeema.gov/calendar/day/2017-01-01 [42856] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/day/2017-01-01" [1]
+2017-01-02 03:38:51 URL:http://www.mashpeema.gov/home/events/15203 [37946] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/15203" [1]
+2017-01-02 03:38:53 URL:http://www.mashpeema.gov/print/15203 [6020] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/15203" [1]
+2017-01-02 03:38:54 URL:http://www.mashpeema.gov/home/events/18343 [38544] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/18343" [1]
+2017-01-02 03:38:56 URL:http://www.mashpeema.gov/print/18343 [6642] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/18343" [1]
+2017-01-02 03:38:58 URL:http://www.mashpeema.gov/home/events/19423 [38615] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/19423" [1]
+2017-01-02 03:38:59 URL:http://www.mashpeema.gov/print/19423 [6781] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/19423" [1]
+2017-01-02 03:39:01 URL:http://www.mashpeema.gov/home/events/15313 [38517] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/15313" [1]
+2017-01-02 03:39:02 URL:http://www.mashpeema.gov/print/15313 [6591] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/15313" [1]
+2017-01-02 03:39:04 URL:http://www.mashpeema.gov/zoning-board-appeals/events/7123 [43005] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/7123" [1]
+2017-01-02 03:39:05 URL:http://www.mashpeema.gov/print/7123 [6821] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/7123" [1]
+2017-01-02 03:39:07 URL:http://www.mashpeema.gov/calendar/day/2017-01-06 [42856] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/day/2017-01-06" [1]
+2017-01-02 03:39:09 URL:http://www.mashpeema.gov/home/events/16103 [38805] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/16103" [1]
+2017-01-02 03:39:10 URL:http://www.mashpeema.gov/print/16103 [6959] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/16103" [1]
+2017-01-02 03:39:12 URL:http://www.mashpeema.gov/board-health/events/7416 [44159] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/7416" [1]
+2017-01-02 03:39:13 URL:http://www.mashpeema.gov/print/7416 [6792] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/7416" [1]
+2017-01-02 03:39:15 URL:http://www.mashpeema.gov/calendar/day/2017-01-08 [42856] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/day/2017-01-08" [1]
+2017-01-02 03:39:17 URL:http://www.mashpeema.gov/home/events/15223 [38785] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/15223" [1]
+2017-01-02 03:39:18 URL:http://www.mashpeema.gov/print/15223 [6776] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/15223" [1]
+2017-01-02 03:39:20 URL:http://www.mashpeema.gov/home/events/18663 [38581] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/18663" [1]
+2017-01-02 03:39:21 URL:http://www.mashpeema.gov/print/18663 [6717] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/18663" [1]
+2017-01-02 03:39:23 URL:http://www.mashpeema.gov/waterways-commission/events/7277 [39910] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/7277" [1]
+2017-01-02 03:39:25 URL:http://www.mashpeema.gov/print/7277 [6706] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/7277" [1]
+2017-01-02 03:39:27 URL:http://www.mashpeema.gov/home/events/15233 [38533] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/15233" [1]
+2017-01-02 03:39:28 URL:http://www.mashpeema.gov/print/15233 [6623] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/15233" [1]
+2017-01-02 03:39:30 URL:http://www.mashpeema.gov/home/events/18673 [38534] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/18673" [1]
+2017-01-02 03:39:32 URL:http://www.mashpeema.gov/print/18673 [6626] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/18673" [1]
+2017-01-02 03:39:34 URL:http://www.mashpeema.gov/council-aging/events/7101 [42248] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/7101" [1]
+2017-01-02 03:39:36 URL:http://www.mashpeema.gov/print/7101 [6653] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/7101" [1]
+2017-01-02 03:39:39 URL:http://www.mashpeema.gov/planning/events/6928 [43123] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/6928" [1]
+2017-01-02 03:39:40 URL:http://www.mashpeema.gov/print/6928 [6810] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/6928" [1]
+2017-01-02 03:39:42 URL:http://www.mashpeema.gov/home/events/15243 [38554] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/15243" [1]
+2017-01-02 03:39:43 URL:http://www.mashpeema.gov/print/15243 [6660] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/15243" [1]
+2017-01-02 03:39:45 URL:http://www.mashpeema.gov/calendar/day/2017-01-13 [42857] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/day/2017-01-13" [1]
+2017-01-02 03:39:47 URL:http://www.mashpeema.gov/board-health/events/7422 [44176] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/7422" [1]
+2017-01-02 03:39:48 URL:http://www.mashpeema.gov/print/7422 [6825] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/7422" [1]
+2017-01-02 03:39:50 URL:http://www.mashpeema.gov/calendar/day/2017-01-15 [42857] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/day/2017-01-15" [1]
+2017-01-02 03:39:52 URL:http://www.mashpeema.gov/home/events/15253 [38003] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/15253" [1]
+2017-01-02 03:39:53 URL:http://www.mashpeema.gov/print/15253 [6133] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/15253" [1]
+2017-01-02 03:39:55 URL:http://www.mashpeema.gov/home/events/18353 [38535] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/18353" [1]
+2017-01-02 03:39:56 URL:http://www.mashpeema.gov/print/18353 [6623] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/18353" [1]
+2017-01-02 03:39:59 URL:http://www.mashpeema.gov/home/events/18363 [38531] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/18363" [1]
+2017-01-02 03:40:00 URL:http://www.mashpeema.gov/print/18363 [6615] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/18363" [1]
+2017-01-02 03:40:03 URL:http://www.mashpeema.gov/home/events/15263 [38572] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/15263" [1]
+2017-01-02 03:40:04 URL:http://www.mashpeema.gov/print/15263 [6696] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/15263" [1]
+2017-01-02 03:40:07 URL:http://www.mashpeema.gov/home/events/15273 [38552] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/15273" [1]
+2017-01-02 03:40:08 URL:http://www.mashpeema.gov/print/15273 [6660] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/15273" [1]
+2017-01-02 03:40:11 URL:http://www.mashpeema.gov/zoning-board-appeals/events/7126 [43006] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/7126" [1]
+2017-01-02 03:40:12 URL:http://www.mashpeema.gov/print/7126 [6822] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/7126" [1]
+2017-01-02 03:40:14 URL:http://www.mashpeema.gov/calendar/day/2017-01-20 [42857] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/day/2017-01-20" [1]
+2017-01-02 03:40:17 URL:http://www.mashpeema.gov/human-services/events/9663 [41483] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/9663" [1]
+2017-01-02 03:40:18 URL:http://www.mashpeema.gov/print/9663 [6121] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/9663" [1]
+2017-01-02 03:40:21 URL:http://www.mashpeema.gov/home/events/15283 [38531] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/15283" [1]
+2017-01-02 03:40:23 URL:http://www.mashpeema.gov/print/15283 [6619] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/15283" [1]
+2017-01-02 03:40:25 URL:http://www.mashpeema.gov/home/events/18683 [38785] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/18683" [1]
+2017-01-02 03:40:27 URL:http://www.mashpeema.gov/print/18683 [6774] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/18683" [1]
+2017-01-02 03:40:29 URL:http://www.mashpeema.gov/sewer-commission/events/7394 [41885] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/7394" [1]
+2017-01-02 03:40:30 URL:http://www.mashpeema.gov/print/7394 [6638] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/7394" [1]
+2017-01-02 03:40:33 URL:http://www.mashpeema.gov/board-health/events/7410 [43919] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/7410" [1]
+2017-01-02 03:40:34 URL:http://www.mashpeema.gov/print/7410 [6655] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/7410" [1]
+2017-01-02 03:40:36 URL:http://www.mashpeema.gov/calendar/day/2017-01-22 [42857] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/day/2017-01-22" [1]
+2017-01-02 03:40:38 URL:http://www.mashpeema.gov/calendar/day/2017-01-24 [42858] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/day/2017-01-24" [1]
+2017-01-02 03:40:40 URL:http://www.mashpeema.gov/home/events/15293 [38526] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/15293" [1]
+2017-01-02 03:40:41 URL:http://www.mashpeema.gov/print/15293 [6606] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/15293" [1]
+2017-01-02 03:40:43 URL:http://www.mashpeema.gov/planning-department/events/6929 [43145] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/6929" [1]
+2017-01-02 03:40:45 URL:http://www.mashpeema.gov/print/6929 [6854] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/6929" [1]
+2017-01-02 03:40:46 URL:http://www.mashpeema.gov/calendar/day/2017-01-27 [42857] -> "../data/townSites2/Mashpee/www.mashpeema.gov/calendar/day/2017-01-27" [1]
+2017-01-02 03:40:48 URL:http://www.mashpeema.gov/home/events/15323 [38797] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/15323" [1]
+2017-01-02 03:40:49 URL:http://www.mashpeema.gov/print/15323 [6798] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/15323" [1]
+2017-01-02 03:40:51 URL:http://www.mashpeema.gov/home/events/15303 [38574] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/15303" [1]
+2017-01-02 03:40:53 URL:http://www.mashpeema.gov/print/15303 [6696] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/15303" [1]
+2017-01-02 03:40:54 URL: http://www.mass.gov/eopss/docs/setb/disability-info-and-form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:40:55 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/veterans-96-4.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:40:56 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/seniors-surviving-spouses-minors-96-6.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:40:57 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/public_records_request_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:40:58 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/address_verification.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:40:59 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/betterment_assessment_-_full_payment_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:01 URL:http://www.mashpeema.gov/node/10/files [41516] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/10/files" [1]
+2017-01-02 03:41:02 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/body_art_license_application_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:03 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/temporary_food_establishment_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:04 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/well_installation_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:05 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/water_connection_affidavit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:07 URL:http://www.mashpeema.gov/node/56/files [43939] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/56/files" [1]
+2017-01-02 03:41:08 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/mashpee_existing_control_construction.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:09 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/mashpee_control_construction.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:10 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/commercialshortpermit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:11 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/plumbingpermit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:12 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/signpermitapplication.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:15 URL:http://www.mashpeema.gov/node/61/files [40039] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/61/files" [1]
+2017-01-02 03:41:15 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/extensionchecklistorderofcondition_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:17 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/coc_checklist_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:18 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/wpafrm8a.doc 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:19 URL:http://www.mashpeema.gov/node/71/files [45940] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/71/files" [1]
+2017-01-02 03:41:20 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:21 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/design_instuctions.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:22 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/nitrogenbylaw.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:24 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/finalbluepages.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:24 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/mooring_wait_list_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:26 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/hr_summer_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:27 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/plan_review_application_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:28 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/may_17_2016_ate_results_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:29 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/streets_n_precincts1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:30 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/meeting_request_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:31 URL:http://www.mashpeema.gov/node/151/files [40360] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/151/files" [1]
+2017-01-02 03:41:32 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/form_460_general_license.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:33 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/statement_of_persons_with_beneficial_interest_in_license_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:34 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/2015_zoning_bylaws_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:35 URL: http://www.mashpeema.gov/sites/mashpeema/files/uploads/2015_town_code_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:38 URL:http://www.mashpeema.gov/channel-18 [45158] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/6153" [1]
+2017-01-02 03:41:39 URL:http://www.mashpeema.gov/print/6153 [7852] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/6153" [1]
+2017-01-02 03:41:40 URL: http://www.mashpeema.gov/node/6153/feed 200 OK
+unlink: No such file or directory
+2017-01-02 03:41:41 URL:http://www.mashpeema.gov/channel-18/pages/meeting-archives [39963] -> "../data/townSites2/Mashpee/www.mashpeema.gov/channel-18/pages/meeting-archives" [1]
+2017-01-02 03:41:43 URL:http://www.mashpeema.gov/node/221/minutes [36470] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/221/minutes" [1]
+2017-01-02 03:41:44 URL:http://www.mashpeema.gov/node/231/minutes [36803] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/231/minutes" [1]
+2017-01-02 03:41:46 URL:http://www.mashpeema.gov/node/266/minutes [35828] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/266/minutes" [1]
+2017-01-02 03:41:47 URL:http://www.mashpeema.gov/node/291/minutes [36442] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/291/minutes" [1]
+2017-01-02 03:41:48 URL:http://www.mashpeema.gov/node/171/agenda [35648] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/171/agenda" [1]
+2017-01-02 03:41:49 URL:http://www.mashpeema.gov/sewer/pages/watershed-nitrogen-management-plan [44824] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/811" [1]
+2017-01-02 03:41:50 URL:http://www.mashpeema.gov/print/811 [9372] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/811" [1]
+2017-01-02 03:41:52 URL:http://www.mashpeema.gov/home/pages/online-services [39032] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/6126" [1]
+2017-01-02 03:41:54 URL:http://www.mashpeema.gov/print/6126 [7027] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/6126" [1]
+2017-01-02 03:41:55 URL:http://www.mashpeema.gov/home/pages/ada-committee-fundraiser [39403] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/pages/ada-committee-fundraiser" [1]
+2017-01-02 03:41:57 URL:http://www.mashpeema.gov/home/pages/surrounding-towns [39007] -> "../data/townSites2/Mashpee/www.mashpeema.gov/home/pages/surrounding-towns" [1]
+2017-01-02 03:41:58 URL:http://www.mashpeema.gov/home/pages/disclaimer-and-terms-use [39034] -> "../data/townSites2/Mashpee/www.mashpeema.gov/node/31" [1]
+2017-01-02 03:42:00 URL:http://www.mashpeema.gov/print/31 [6904] -> "../data/townSites2/Mashpee/www.mashpeema.gov/print/31" [1]
+Found 2 broken links.
+
+http://www.mass.gov/eohhs/docs/dph/environmental/investigations/cape/mmr-factsheet.pdf
+http://www.mospc.org/
+
+FINISHED --2017-01-02 03:42:00--
+Total wall clock time: 58m 25s
+Downloaded: 842 files, 35M in 1m 39s (360 KB/s)

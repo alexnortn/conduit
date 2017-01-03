@@ -1,0 +1,110 @@
+2017-01-02 00:21:52 URL:http://www.watertown-ma.gov/ [65805/65805] -> "../data/townSites2/Watertown/www.watertown-ma.gov/index.html" [1]
+2017-01-02 00:21:52 URL: http://www.watertown-ma.gov/images/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:55 URL:http://www.watertown-ma.gov/directory.aspx [78487/78487] -> "../data/townSites2/Watertown/www.watertown-ma.gov/directory.asp" [1]
+2017-01-02 00:21:56 URL:http://www.watertown-ma.gov/documentcenterii.asp [74086/74086] -> "../data/townSites2/Watertown/www.watertown-ma.gov/documentcenterii.asp" [1]
+2017-01-02 00:21:59 URL:http://www.watertown-ma.gov/EmailPage [45989/45989] -> "../data/townSites2/Watertown/www.watertown-ma.gov/emailpage.asp" [1]
+2017-01-02 00:22:02 URL:http://www.watertown-ma.gov/rss.aspx [50244/50244] -> "../data/townSites2/Watertown/www.watertown-ma.gov/rss.asp" [1]
+2017-01-02 00:22:07 URL:http://www.watertown-ma.gov/list.aspx [103904/103904] -> "../data/townSites2/Watertown/www.watertown-ma.gov/list.asp" [1]
+2017-01-02 00:22:09 URL:http://www.watertown-ma.gov/requesttracker.aspx [53017/53017] -> "../data/townSites2/Watertown/www.watertown-ma.gov/requesttracker.asp" [1]
+2017-01-02 00:22:11 URL:http://www.mass.gov/eea/energy-utilities-clean-tech/green-communities/ [176705] -> "../data/townSites2/Watertown/www.watertown-ma.gov/greencommunity" [1]
+2017-01-02 00:22:17 URL:http://www.watertown-ma.gov/quicklinks.aspx [67619/67619] -> "../data/townSites2/Watertown/www.watertown-ma.gov/quicklinks.asp" [1]
+http://www.watertown-ma.gov/DocumentCenter/View/18624:
+Remote file does not exist -- broken link!!!
+http://www.watertown-ma.gov/DocumentCenter/View/21013:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:22:19 URL:http://www.watertown-ma.gov/DocumentCenterii.aspx [74086/74086] -> "../data/townSites2/Watertown/www.watertown-ma.gov/DocumentCenterii.aspx" [1]
+http://www.watertown-ma.gov/DocumentCenter/View/12758:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:22:22 URL:http://www.watertown-ma.gov/CivicAlerts.aspx [46084/46084] -> "../data/townSites2/Watertown/www.watertown-ma.gov/CivicAlerts.asp" [1]
+http://www.watertown-ma.gov/DocumentCenter/View/21224:
+Remote file does not exist -- broken link!!!
+http://www.watertown-ma.gov/DocumentCenter/View/20842:
+Remote file does not exist -- broken link!!!
+http://www.watertown-ma.gov/DocumentCenter/View/21216:
+Remote file does not exist -- broken link!!!
+http://www.watertown-ma.gov/DocumentCenter/View/20619:
+Remote file does not exist -- broken link!!!
+http://www.watertown-ma.gov/DocumentCenter/View/18417:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:22:27 URL:http://www.watertown-ma.gov/calendar.aspx [233449/233449] -> "../data/townSites2/Watertown/www.watertown-ma.gov/calendar.aspx" [1]
+2017-01-02 00:22:29 URL:http://www.watertown-ma.gov/Calendar.aspx [233449/233449] -> "../data/townSites2/Watertown/www.watertown-ma.gov/Calendar.aspx" [1]
+2017-01-02 00:22:33 URL:http://www.watertown-ma.gov/copyright.aspx [38187/38187] -> "../data/townSites2/Watertown/www.watertown-ma.gov/copyright.asp" [1]
+2017-01-02 00:22:35 URL:http://www.watertown-ma.gov/jobs.aspx [146046/146046] -> "../data/townSites2/Watertown/www.watertown-ma.gov/jobs.asp" [1]
+2017-01-02 00:22:37 URL:http://www.watertown-ma.gov/bids.aspx [43440/43440] -> "../data/townSites2/Watertown/www.watertown-ma.gov/bids.asp" [1]
+2017-01-02 00:22:40 URL:http://www.watertown-ma.gov/archive.aspx [101243/101243] -> "../data/townSites2/Watertown/www.watertown-ma.gov/archive.asp" [1]
+2017-01-02 00:22:42 URL:http://www.watertown-ma.gov/accessibility.aspx [41390/41390] -> "../data/townSites2/Watertown/www.watertown-ma.gov/accessibility.asp" [1]
+2017-01-02 00:22:48 URL:http://www.watertown-ma.gov/sitemap.aspx [90398/90398] -> "../data/townSites2/Watertown/www.watertown-ma.gov/sitemap.asp" [1]
+2017-01-02 00:22:49 URL:http://www.watertown-ma.gov/index.aspx [65815/65815] -> "../data/townSites2/Watertown/www.watertown-ma.gov/index.aspx" [1]
+2017-01-02 00:22:50 URL:http://www.watertown-ma.gov/DocumentCenter [74086/74086] -> "../data/townSites2/Watertown/www.watertown-ma.gov/DocumentCenter" [1]
+2017-01-02 00:22:51 URL: http://www.watertown-ma.gov/support/pages.xml 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:51 URL: http://www.watertown-ma.gov/support/newsflash.xml 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:51 URL: http://www.watertown-ma.gov/support/calendar.xml 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:52 URL: http://www.watertown-ma.gov/support/calendar29.xml 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:52 URL: http://www.watertown-ma.gov/support/calendar28.xml 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:53 URL: http://www.watertown-ma.gov/support/calendar39.xml 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:53 URL: http://www.watertown-ma.gov/support/calendar22.xml 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:54 URL: http://www.watertown-ma.gov/support/calendar44.xml 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:54 URL: http://www.watertown-ma.gov/support/calendar51.xml 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:55 URL: http://www.watertown-ma.gov/support/calendar19.xml 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:56 URL: http://www.watertown-ma.gov/support/calendar20.xml 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:56 URL: http://www.watertown-ma.gov/support/calendar18.xml 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:56 URL: http://www.watertown-ma.gov/support/calendar21.xml 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:56 URL: http://www.watertown-ma.gov/support/calendar26.xml 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:57 URL: http://www.watertown-ma.gov/support/calendar52.xml 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:57 URL: http://www.watertown-ma.gov/support/calendar14.xml 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:57 URL: http://www.watertown-ma.gov/support/calendar38.xml 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:58 URL: http://www.watertown-ma.gov/support/calendar25.xml 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:58 URL: http://www.watertown-ma.gov/support/calendar54.xml 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:58 URL: http://www.watertown-ma.gov/support/calendar50.xml 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:59 URL: http://www.watertown-ma.gov/support/newsflash1.xml 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:59 URL: http://www.watertown-ma.gov/Common/modules/NotifyMe/NotifyMeAjax.asmx/js 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:02 URL:http://www.watertown-ma.gov/List.aspx [103904/103904] -> "../data/townSites2/Watertown/www.watertown-ma.gov/List.aspx" [1]
+2017-01-02 00:23:06 URL:http://www.watertown-ma.gov/QuickLinks.aspx [67619/67619] -> "../data/townSites2/Watertown/www.watertown-ma.gov/QuickLinks.aspx" [1]
+http://www.watertown-ma.gov/DocumentCenter/View/19326:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:23:09 URL:http://www.watertown-ma.gov/Facilities [104181/104181] -> "../data/townSites2/Watertown/www.watertown-ma.gov/Facilities" [1]
+2017-01-02 00:23:09 URL: http://www.watertown-ma.gov/Common/Admin/Jobs2/JobsQuickActions.asmx/js 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:10 URL:http://www.watertown-ma.gov/Rss.aspx [50244/50244] -> "../data/townSites2/Watertown/www.watertown-ma.gov/Rss.aspx" [1]
+http://www.watertown-ma.gov/DocumentCenter/View/21229:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:23:13 URL:http://www.watertown-ma.gov/directory.aspx [78487/78487] -> "../data/townSites2/Watertown/www.watertown-ma.gov/contactus" [1]
+Found 10 broken links.
+
+http://www.watertown-ma.gov/DocumentCenter/View/20619
+http://www.watertown-ma.gov/DocumentCenter/View/20842
+http://www.watertown-ma.gov/DocumentCenter/View/21013
+http://www.watertown-ma.gov/DocumentCenter/View/18417
+http://www.watertown-ma.gov/DocumentCenter/View/12758
+http://www.watertown-ma.gov/DocumentCenter/View/19326
+http://www.watertown-ma.gov/DocumentCenter/View/18624
+http://www.watertown-ma.gov/DocumentCenter/View/21224
+http://www.watertown-ma.gov/DocumentCenter/View/21216
+http://www.watertown-ma.gov/DocumentCenter/View/21229
+
+FINISHED --2017-01-02 00:23:13--
+Total wall clock time: 1m 23s
+Downloaded: 26 files, 2.2M in 4.8s (465 KB/s)

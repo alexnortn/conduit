@@ -1,0 +1,1604 @@
+2017-01-02 00:21:36 URL:http://www.lee.ma.us/ [75919] -> "../data/townSites2/Lee/www.lee.ma.us/index.html" [1]
+2017-01-02 00:21:36 URL: http://www.lee.ma.us/sites/leema/themes/vts/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:38 URL:http://www.lee.ma.us/home/pages/help-center [57215] -> "../data/townSites2/Lee/www.lee.ma.us/home/pages/help-center" [1]
+2017-01-02 00:21:40 URL:http://www.lee.ma.us/departments [65834] -> "../data/townSites2/Lee/www.lee.ma.us/departments" [1]
+2017-01-02 00:21:42 URL:http://www.lee.ma.us/accountant [60089] -> "../data/townSites2/Lee/www.lee.ma.us/accountant" [1]
+2017-01-02 00:21:44 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee_2015_management_letter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:45 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee_2015_financial_statements_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:46 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee_2015_single_audit_package.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:48 URL:http://www.lee.ma.us/accountant/pages/prior-years-financial-documents [58826] -> "../data/townSites2/Lee/www.lee.ma.us/accountant/pages/prior-years-financial-documents" [1]
+2017-01-02 00:21:50 URL:http://www.lee.ma.us/assessor [59777] -> "../data/townSites2/Lee/www.lee.ma.us/assessor" [1]
+2017-01-02 00:21:52 URL:http://www.lee.ma.us/board-assessors [60130] -> "../data/townSites2/Lee/www.lee.ma.us/assessor/links/board-assessors" [1]
+2017-01-02 00:21:53 URL: http://www.lee.ma.us/sites/leema/files/uploads/cyclicalnotice.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:56 URL:https://www.mass.gov/dor/ [44863] -> "../data/townSites2/Lee/www.lee.ma.us/assessor/links/ma-department-revenue" [1]
+2017-01-02 00:21:59 URL:http://www.lee.ma.us/board-assessors/pages/public-disclosures [57234] -> "../data/townSites2/Lee/www.lee.ma.us/assessor/links/public-disclosures" [1]
+2017-01-02 00:22:00 URL:http://www.lee.ma.us/assessor/pages/tax-maps [60660] -> "../data/townSites2/Lee/www.lee.ma.us/assessor/pages/tax-maps" [1]
+2017-01-02 00:22:04 URL:http://www.lee.ma.us/board-assessors/pages/useful-links [57209] -> "../data/townSites2/Lee/www.lee.ma.us/assessor/links/useful-links" [1]
+2017-01-02 00:22:06 URL:http://www.lee.ma.us/building-safety [63569] -> "../data/townSites2/Lee/www.lee.ma.us/building-safety" [1]
+2017-01-02 00:22:09 URL:http://www.lee.ma.us/building-safety/pages/building-forms [58459] -> "../data/townSites2/Lee/www.lee.ma.us/building-safety/pages/building-forms" [1]
+2017-01-02 00:22:10 URL: http://www.lee.ma.us/sites/leema/files/uploads/contact_times_for_inspectors_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:12 URL:http://www.lee.ma.us/building-safety/pages/fees [57038] -> "../data/townSites2/Lee/www.lee.ma.us/building-safety/pages/fees" [1]
+2017-01-02 00:22:14 URL:http://www.lee.ma.us/building-safety/pages/online-permitting [57595] -> "../data/townSites2/Lee/www.lee.ma.us/building-safety/pages/online-permitting" [1]
+2017-01-02 00:22:16 URL:http://www.lee.ma.us/cemetery-department [57242] -> "../data/townSites2/Lee/www.lee.ma.us/cemetery-department" [1]
+2017-01-02 00:22:17 URL:http://www.lee.ma.us/department-public-works [61252] -> "../data/townSites2/Lee/www.lee.ma.us/department-public-works" [1]
+2017-01-02 00:22:21 URL:http://www.lee.ma.us/board-public-works [67458] -> "../data/townSites2/Lee/www.lee.ma.us/department-public-works/links/board-public-works-0" [1]
+2017-01-02 00:22:24 URL:http://www.lee.ma.us/engineering [56422] -> "../data/townSites2/Lee/www.lee.ma.us/engineering" [1]
+2017-01-02 00:22:27 URL:http://www.lee.ma.us/highway-department [57213] -> "../data/townSites2/Lee/www.lee.ma.us/highway-department" [1]
+2017-01-02 00:22:32 URL:http://www.lee.ma.us/department-public-works/pages/regulations [59136] -> "../data/townSites2/Lee/www.lee.ma.us/department-public-works/pages/regulations" [1]
+2017-01-02 00:22:36 URL:http://www.lee.ma.us/wastewater [60807] -> "../data/townSites2/Lee/www.lee.ma.us/wastewater" [1]
+2017-01-02 00:22:38 URL:http://www.lee.ma.us/water [60612] -> "../data/townSites2/Lee/www.lee.ma.us/water" [1]
+2017-01-02 00:22:40 URL:http://www.lee.ma.us/human-resources [57961] -> "../data/townSites2/Lee/www.lee.ma.us/human-resources" [1]
+2017-01-02 00:22:42 URL:http://www.lee.ma.us/human-resources/pages/employment-opportunities [56505] -> "../data/townSites2/Lee/www.lee.ma.us/human-resources/pages/employment-opportunities" [1]
+2017-01-02 00:22:45 URL:http://www.lee.ma.us/land-use [58700] -> "../data/townSites2/Lee/www.lee.ma.us/land-use" [1]
+2017-01-02 00:22:47 URL:http://www.lee.ma.us/land-use/pages/sandy-beach [60027] -> "../data/townSites2/Lee/www.lee.ma.us/land-use/pages/sandy-beach" [1]
+2017-01-02 00:22:48 URL: http://www.lee.ma.us/sites/leema/files/uploads/2013_beaver_funding_assistance_request.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:51 URL:http://www.lee.ma.us/conservation-commission [64171] -> "../data/townSites2/Lee/www.lee.ma.us/land-use/links/conservation-commission" [1]
+2017-01-02 00:22:53 URL: http://www.lee.ma.us/sites/leema/files/uploads/forest_lands_chapter_111.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:56 URL:http://www.lee.ma.us/planning-board [65706] -> "../data/townSites2/Lee/www.lee.ma.us/land-use/links/planning-board" [1]
+2017-01-02 00:22:57 URL:http://www.lee.ma.us/land-use/pages/scenic-mountain-act [58853] -> "../data/townSites2/Lee/www.lee.ma.us/land-use/pages/scenic-mountain-act" [1]
+2017-01-02 00:23:00 URL:http://www.lee.ma.us/zoning-board-appeals [62993] -> "../data/townSites2/Lee/www.lee.ma.us/land-use/links/zoning-board-appeals" [1]
+2017-01-02 00:23:02 URL:http://www.lee.ma.us/library [59540] -> "../data/townSites2/Lee/www.lee.ma.us/library" [1]
+2017-01-02 00:23:04 URL:http://www.lee.ma.us/lee-police-department [69078] -> "../data/townSites2/Lee/www.lee.ma.us/lee-police-department" [1]
+2017-01-02 00:23:06 URL:http://www.lee.ma.us/police/pages/community-programs [60894] -> "../data/townSites2/Lee/www.lee.ma.us/police/pages/community-programs" [1]
+2017-01-02 00:23:08 URL:http://www.lee.ma.us/police/pages/downloadable-forms [57466] -> "../data/townSites2/Lee/www.lee.ma.us/police/pages/downloadable-forms" [1]
+2017-01-02 00:23:09 URL:http://www.lee.ma.us/lee-police-department/pages/employment [58037] -> "../data/townSites2/Lee/www.lee.ma.us/lee-police-department/pages/employment" [1]
+2017-01-02 00:23:11 URL:http://www.lee.ma.us/police/pages/firearms [60999] -> "../data/townSites2/Lee/www.lee.ma.us/police/pages/firearms" [1]
+2017-01-02 00:23:13 URL:https://twitter.com/LeeMAPD [318619/318619] -> "../data/townSites2/Lee/www.lee.ma.us/lee-police-department/links/follow-leemapd-twitter" [1]
+2017-01-02 00:23:15 URL:http://www.lee.ma.us/police/pages/helpful-links [58284] -> "../data/townSites2/Lee/www.lee.ma.us/police/pages/helpful-links" [1]
+2017-01-02 00:23:17 URL:http://www.lee.ma.us/lee-police-department/slideshows/honor-guard [58959] -> "../data/townSites2/Lee/www.lee.ma.us/lee-police-department/slideshows/honor-guard" [1]
+2017-01-02 00:23:19 URL:http://www.lee.ma.us/police/pages/identity-fraud [60797] -> "../data/townSites2/Lee/www.lee.ma.us/police/pages/identity-fraud" [1]
+2017-01-02 00:23:23 URL:https://www.facebook.com/pages/Lee-Police-Department/829746293799397?fref=ts [411726] -> "../data/townSites2/Lee/www.lee.ma.us/lee-police-department/links/our-facebook-page" [1]
+2017-01-02 00:23:25 URL:http://www.lee.ma.us/police/pages/sex-offenders [62577] -> "../data/townSites2/Lee/www.lee.ma.us/police/pages/sex-offenders" [1]
+2017-01-02 00:23:27 URL:http://www.lee.ma.us/police/pages/traffic-safety [64165] -> "../data/townSites2/Lee/www.lee.ma.us/police/pages/traffic-safety" [1]
+2017-01-02 00:23:29 URL:http://www.lee.ma.us/public-safefy [58279] -> "../data/townSites2/Lee/www.lee.ma.us/public-safefy" [1]
+2017-01-02 00:23:30 URL:http://www.lee.ma.us/ambulance [64385] -> "../data/townSites2/Lee/www.lee.ma.us/ambulance" [1]
+2017-01-02 00:23:32 URL:http://www.lee.ma.us/animal-control [56704] -> "../data/townSites2/Lee/www.lee.ma.us/animal-control" [1]
+2017-01-02 00:23:34 URL:http://www.lee.ma.us/fire-and-rescue [56662] -> "../data/townSites2/Lee/www.lee.ma.us/fire-and-rescue" [1]
+2017-01-02 00:23:35 URL:http://www.lee.ma.us/senior-services [61677] -> "../data/townSites2/Lee/www.lee.ma.us/senior-services" [1]
+2017-01-02 00:23:37 URL: http://www.lee.ma.us/sites/leema/files/uploads/newsletter_dec_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:38 URL: http://www.lee.ma.us/sites/leema/files/uploads/coa_web_newsletter_jan_2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:40 URL:http://www.lee.ma.us/town-administrator [60384] -> "../data/townSites2/Lee/www.lee.ma.us/town-administrator" [1]
+2017-01-02 00:23:41 URL: http://www.lee.ma.us/sites/leema/files/uploads/contract_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:41 URL: http://www.lee.ma.us/sites/leema/files/uploads/financial_mgmt_review_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:44 URL:http://www.lee.ma.us/town-administrator/pages/projects [58307] -> "../data/townSites2/Lee/www.lee.ma.us/town-administrator/pages/projects" [1]
+2017-01-02 00:23:46 URL:http://www.lee.ma.us/town-administrator/pages/town-code [58279] -> "../data/townSites2/Lee/www.lee.ma.us/town-administrator/pages/town-code" [1]
+2017-01-02 00:23:49 URL:http://www.lee.ma.us/town-clerk/pages/town-meeting-documents [68291] -> "../data/townSites2/Lee/www.lee.ma.us/town-administrator/links/town-meeting-documents" [1]
+2017-01-02 00:23:51 URL:http://www.lee.ma.us/town-administrator/pages/tri-town-shared-services [59343] -> "../data/townSites2/Lee/www.lee.ma.us/town-administrator/pages/tri-town-shared-services" [1]
+2017-01-02 00:23:53 URL:http://www.lee.ma.us/town-clerk [71811] -> "../data/townSites2/Lee/www.lee.ma.us/town-clerk" [1]
+2017-01-02 00:23:56 URL:http://www.sec.state.ma.us/ele/eleidx.htm [71233/71233] -> "../data/townSites2/Lee/www.lee.ma.us/town-clerk/links/information-voters" [1]
+2017-01-02 00:23:57 URL: http://www.lee.ma.us/sites/leema/files/uploads/birth_certificates.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:59 URL: http://www.lee.ma.us/sites/leema/files/uploads/death_certificates.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:00 URL: http://www.lee.ma.us/sites/leema/files/uploads/districtstreets20120411.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:01 URL: http://www.lee.ma.us/sites/leema/files/uploads/marriage_intention.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:03 URL:http://www.lee.ma.us/town-clerk/pages/permits-licensing [58838] -> "../data/townSites2/Lee/www.lee.ma.us/town-clerk/pages/permits-licensing" [1]
+2017-01-02 00:24:06 URL:http://www.lee.ma.us/town-clerk/pages/public-notices [73058] -> "../data/townSites2/Lee/www.lee.ma.us/town-clerk/pages/public-notices" [1]
+2017-01-02 00:24:08 URL:http://www.lee.ma.us/town-clerk/pages/town-census [58887] -> "../data/townSites2/Lee/www.lee.ma.us/town-clerk/pages/town-census" [1]
+2017-01-02 00:24:09 URL:http://www.lee.ma.us/town-clerk/pages/town-meeting-documents [68291] -> "../data/townSites2/Lee/www.lee.ma.us/town-clerk/pages/town-meeting-documents" [1]
+2017-01-02 00:24:11 URL:http://www.lee.ma.us/town-clerk/webforms/business-certificates [57674] -> "../data/townSites2/Lee/www.lee.ma.us/town-clerk/webforms/business-certificates" [1]
+2017-01-02 00:24:14 URL:http://www.lee.ma.us/treasurercollector [62112] -> "../data/townSites2/Lee/www.lee.ma.us/treasurercollector" [1]
+2017-01-02 00:24:16 URL:http://www.lee.ma.us/treasurercollector/pages/excise-tax-information [58786] -> "../data/townSites2/Lee/www.lee.ma.us/treasurercollector/pages/excise-tax-information" [1]
+2017-01-02 00:24:17 URL:http://www.lee.ma.us/treasurercollector/pages/online-bill-pay [59619] -> "../data/townSites2/Lee/www.lee.ma.us/treasurercollector/pages/online-bill-pay" [1]
+2017-01-02 00:24:21 URL:http://www.lee.ma.us/treasurercollector/pages/payments-and-due-dates-water-and-sewer-bills [59466] -> "../data/townSites2/Lee/www.lee.ma.us/treasurercollector/pages/payments-and-due-dates-water-and-sewer-bills" [1]
+2017-01-02 00:24:23 URL:http://www.lee.ma.us/treasurercollector/pages/payments-and-due-dates-real-estate-and-personal-property-taxes [60502] -> "../data/townSites2/Lee/www.lee.ma.us/treasurercollector/pages/payments-and-due-dates-real-estate-and-personal-property-taxes" [1]
+2017-01-02 00:24:26 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee_2010_rating_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:28 URL:http://www.lee.ma.us/treasurercollector/pages/request-tax-payment-information [57982] -> "../data/townSites2/Lee/www.lee.ma.us/treasurercollector/pages/request-tax-payment-information" [1]
+2017-01-02 00:24:29 URL:http://www.lee.ma.us/treasurercollector/pages/town-lee-financial-disclosures [57905] -> "../data/townSites2/Lee/www.lee.ma.us/treasurercollector/pages/town-lee-financial-disclosures" [1]
+2017-01-02 00:24:32 URL:http://www.lee.ma.us/tri-town-health-department [88024] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department" [1]
+2017-01-02 00:24:34 URL:http://www.lee.ma.us/tri-town-health-department/pages/fee-schedule [59957] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/pages/fee-schedule" [1]
+2017-01-02 00:24:36 URL:http://www.lee.ma.us/animal-control-0 [59587] -> "../data/townSites2/Lee/www.lee.ma.us/animal-control-0" [1]
+2017-01-02 00:24:38 URL:http://www.lee.ma.us/tri-town-health-department/pages/be-well-berkshires [62578] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/pages/be-well-berkshires" [1]
+2017-01-02 00:24:40 URL:http://www.lee.ma.us/tri-town-health-department/pages/beach-sampling-program [60778] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/pages/beach-sampling-program" [1]
+2017-01-02 00:24:41 URL: http://www.lee.ma.us/sites/leema/files/uploads/revised_well_regulations_2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:43 URL:http://www.lee.ma.us/tri-town-health-department/pages/boards-health [61091] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/pages/boards-health" [1]
+2017-01-02 00:24:46 URL:http://www.lee.ma.us/tri-town-health-department/webforms/contact-us [65773/65773] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/webforms/contact-us" [1]
+2017-01-02 00:24:48 URL:http://www.lee.ma.us/tri-town-health-department/pages/food-service-inspection-program [64411] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/pages/food-service-inspection-program" [1]
+2017-01-02 00:24:50 URL:http://www.lee.ma.us/tri-town-health-department/pages/inspectional-services [60417] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/pages/inspectional-services" [1]
+2017-01-02 00:24:52 URL:http://www.lee.ma.us/tri-town-health-department/pages/job-opportunities [60062] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/pages/job-opportunities" [1]
+2017-01-02 00:24:53 URL: http://www.lee.ma.us/sites/leema/files/uploads/skm_224e15091411070.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:55 URL:http://www.lee.ma.us/tri-town-health-department/pages/lyme-disease [60257] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/pages/lyme-disease" [1]
+2017-01-02 00:24:57 URL:http://www.lee.ma.us/tri-town-health-department/pages/online-permitting [64013] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/pages/online-permitting" [1]
+2017-01-02 00:24:59 URL:http://www.lee.ma.us/tri-town-health-department/pages/porchlight-vna-homecare [62338] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/pages/porchlight-vna-homecare" [1]
+2017-01-02 00:25:00 URL:http://www.lee.ma.us/tri-town-health-department/pages/prevention-and-wellness-trust-fund [62524] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/pages/prevention-and-wellness-trust-fund" [1]
+2017-01-02 00:25:02 URL:http://www.lee.ma.us/tri-town-health-department/pages/septic-system-t-5-and-private-well-information [62509] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/pages/septic-system-t-5-and-private-well-information" [1]
+2017-01-02 00:25:04 URL:http://www.lee.ma.us/tri-town-health-department/pages/staff-profiles [63571] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/pages/staff-profiles" [1]
+2017-01-02 00:25:06 URL:http://www.lee.ma.us/tri-town-health-department/pages/thin-filmed-plastic-bag-and-polystyrene-initiative [62409] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/pages/thin-filmed-plastic-bag-and-polystyrene-initiative" [1]
+2017-01-02 00:25:09 URL:http://www.lee.ma.us/tri-town-health-department/pages/tobacco [61908] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/pages/tobacco" [1]
+2017-01-02 00:25:11 URL: http://www.lee.ma.us/sites/leema/files/uploads/final_poly_regulations_town_of_lenox.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:13 URL:http://www.lee.ma.us/tri-town-health-department/pages/training [61050] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/pages/training" [1]
+2017-01-02 00:25:15 URL:http://www.lee.ma.us/tri-town-health-department/pages/tri-town-board-health-regulations [60840] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/pages/tri-town-board-health-regulations" [1]
+2017-01-02 00:25:17 URL:http://www.lee.ma.us/tri-town-health-department/slideshows/tri-town-health-community [62193] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/slideshows/tri-town-health-community" [1]
+2017-01-02 00:25:19 URL:http://www.lee.ma.us/veterans-affairs [62064] -> "../data/townSites2/Lee/www.lee.ma.us/veterans-affairs" [1]
+2017-01-02 00:25:21 URL:http://www.lee.ma.us/veterans-affairs/pages/how-apply-benefits [58168] -> "../data/townSites2/Lee/www.lee.ma.us/veterans-affairs/pages/how-apply-benefits" [1]
+2017-01-02 00:25:23 URL:http://www.lee.ma.us/town-clerk/pages/vital-records [57746] -> "../data/townSites2/Lee/www.lee.ma.us/town-clerk/pages/vital-records" [1]
+2017-01-02 00:25:25 URL:http://www.lee.ma.us/boards [61919] -> "../data/townSites2/Lee/www.lee.ma.us/boards" [1]
+2017-01-02 00:25:27 URL:http://www.lee.ma.us/board-assessors [60130] -> "../data/townSites2/Lee/www.lee.ma.us/board-assessors" [1]
+2017-01-02 00:25:28 URL:http://www.lee.ma.us/assessor [59777] -> "../data/townSites2/Lee/www.lee.ma.us/board-assessors/links/assessor" [1]
+2017-01-02 00:25:31 URL:https://www.mass.gov/dor/ [44863] -> "../data/townSites2/Lee/www.lee.ma.us/board-assessors/links/ma-department-revenue" [1]
+2017-01-02 00:25:32 URL:http://www.lee.ma.us/board-assessors/pages/public-disclosures [57234] -> "../data/townSites2/Lee/www.lee.ma.us/board-assessors/pages/public-disclosures" [1]
+2017-01-02 00:25:34 URL:http://www.lee.ma.us/assessor/pages/tax-maps [60660] -> "../data/townSites2/Lee/www.lee.ma.us/board-assessors/links/tax-maps" [1]
+2017-01-02 00:25:35 URL:http://www.lee.ma.us/board-assessors/pages/useful-links [57209] -> "../data/townSites2/Lee/www.lee.ma.us/board-assessors/pages/useful-links" [1]
+2017-01-02 00:25:35 URL:http://www.lee.ma.us/board-public-works [67458] -> "../data/townSites2/Lee/www.lee.ma.us/board-public-works" [1]
+2017-01-02 00:25:37 URL:http://www.lee.ma.us/board-selectmen [67284] -> "../data/townSites2/Lee/www.lee.ma.us/board-selectmen" [1]
+2017-01-02 00:25:38 URL:http://www.lee.ma.us/conservation-commission [64171] -> "../data/townSites2/Lee/www.lee.ma.us/conservation-commission" [1]
+2017-01-02 00:25:39 URL: http://www.lee.ma.us/sites/leema/files/uploads/laurel_lake_drawdown_evaluation_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:41 URL:http://www.lee.ma.us/conservation-commission/pages/laurel-lake-study [58073] -> "../data/townSites2/Lee/www.lee.ma.us/conservation-commission/pages/laurel-lake-study" [1]
+2017-01-02 00:25:42 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee_osrp_january_2016_published.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:44 URL: http://www.lee.ma.us/sites/leema/files/uploads/ada_appendix.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:46 URL: http://www.lee.ma.us/sites/leema/files/uploads/public_forum_map_packet.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:47 URL: http://www.lee.ma.us/sites/leema/files/uploads/osrp-nhesp_appendix.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:48 URL: http://www.lee.ma.us/sites/leema/files/uploads/osrp-public_participation_appendix.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:50 URL:http://www.lee.ma.us/conservation-commission/pages/wetlands-protection-act [57588] -> "../data/townSites2/Lee/www.lee.ma.us/conservation-commission/pages/wetlands-protection-act" [1]
+2017-01-02 00:25:52 URL:http://www.lee.ma.us/council-aging-0 [58392] -> "../data/townSites2/Lee/www.lee.ma.us/council-aging-0" [1]
+2017-01-02 00:25:54 URL:http://www.lee.ma.us/energy-efficiency-advisory-committee [60358] -> "../data/townSites2/Lee/www.lee.ma.us/energy-efficiency-advisory-committee" [1]
+2017-01-02 00:25:56 URL:http://www.lee.ma.us/library-trustees [60503] -> "../data/townSites2/Lee/www.lee.ma.us/library-trustees" [1]
+2017-01-02 00:25:58 URL:http://www.lee.ma.us/personnel-board [59407] -> "../data/townSites2/Lee/www.lee.ma.us/personnel-board" [1]
+2017-01-02 00:26:00 URL:http://www.lee.ma.us/planning-board [65706] -> "../data/townSites2/Lee/www.lee.ma.us/planning-board" [1]
+2017-01-02 00:26:01 URL:http://www.lee.ma.us/planning-board/pages/forms [58577] -> "../data/townSites2/Lee/www.lee.ma.us/planning-board/pages/forms" [1]
+2017-01-02 00:26:03 URL:http://www.lee.ma.us/planning-board/pages/sign-bylaws [56586] -> "../data/townSites2/Lee/www.lee.ma.us/planning-board/pages/sign-bylaws" [1]
+2017-01-02 00:26:05 URL:http://www.lee.ma.us/planning-board/pages/zoning [59888] -> "../data/townSites2/Lee/www.lee.ma.us/planning-board/pages/zoning" [1]
+2017-01-02 00:26:07 URL:http://www.lee.ma.us/recycling-greener-gateway-committee [74319] -> "../data/townSites2/Lee/www.lee.ma.us/recycling-greener-gateway-committee" [1]
+2017-01-02 00:26:08 URL: http://www.lee.ma.us/sites/leema/files/uploads/recycling_committee_pamphlet4_-_11-15-16_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:18 URL:http://www.cetonline.org/ [65028] -> "../data/townSites2/Lee/www.lee.ma.us/recycling-committee/links/cet-center-eco-technology-our-partners-start" [1]
+2017-01-02 00:26:20 URL:http://www.lee.ma.us/recycling-greener-gateway-committee/pages/support-transition-plastic-shopping-bag-and-polystyrene [63827] -> "../data/townSites2/Lee/www.lee.ma.us/recycling-greener-gateway-committee/pages/support-transition-plastic-shopping-bag-and-polystyrene" [1]
+2017-01-02 00:26:21 URL:http://www.lee.ma.us/recycling-committee/pages/recycling-guidelines-and-useful-tips [58417] -> "../data/townSites2/Lee/www.lee.ma.us/recycling-committee/pages/recycling-guidelines-and-useful-tips" [1]
+2017-01-02 00:26:23 URL:http://www.lee.ma.us/recycling-committee/pages/zero-waste-initiatives-and-support [57791] -> "../data/townSites2/Lee/www.lee.ma.us/recycling-committee/pages/zero-waste-initiatives-and-support" [1]
+2017-01-02 00:26:25 URL: http://www.lee.ma.us/sites/leema/files/uploads/how_to_rrr_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:32 URL:http://www.cetonline.org/events/ [57863] -> "../data/townSites2/Lee/www.lee.ma.us/recycling-committee/links/cet-events-household-hazardous-waste-collections-information-and-sign" [1]
+2017-01-02 00:26:33 URL: http://www.lee.ma.us/sites/leema/files/uploads/2016_first_greener_gateway_town-wide_cleanup.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:34 URL:http://www.lee.ma.us/representatives [56569] -> "../data/townSites2/Lee/www.lee.ma.us/representatives" [1]
+2017-01-02 00:26:36 URL:http://www.lee.ma.us/traffic-committee [56364] -> "../data/townSites2/Lee/www.lee.ma.us/traffic-committee" [1]
+2017-01-02 00:26:38 URL:http://www.lee.ma.us/veterans-foreign-wars [56393] -> "../data/townSites2/Lee/www.lee.ma.us/veterans-foreign-wars" [1]
+2017-01-02 00:26:40 URL:http://www.lee.ma.us/youth-commission [60550] -> "../data/townSites2/Lee/www.lee.ma.us/youth-commission" [1]
+2017-01-02 00:26:41 URL:http://www.lee.ma.us/youth-commission/pages/helpful-resources [55878] -> "../data/townSites2/Lee/www.lee.ma.us/youth-commission/pages/helpful-resources" [1]
+2017-01-02 00:26:42 URL:http://www.lee.ma.us/zoning-board-appeals [62993] -> "../data/townSites2/Lee/www.lee.ma.us/zoning-board-appeals" [1]
+2017-01-02 00:26:44 URL:http://www.lee.ma.us/residents [59839] -> "../data/townSites2/Lee/www.lee.ma.us/residents" [1]
+2017-01-02 00:26:45 URL:http://www.lee.ma.us/businesses [54254] -> "../data/townSites2/Lee/www.lee.ma.us/businesses" [1]
+2017-01-02 00:26:47 URL:http://www.lee.ma.us/visitors [52136] -> "../data/townSites2/Lee/www.lee.ma.us/visitors" [1]
+2017-01-02 00:26:48 URL:http://www.lee.ma.us/lee-chamber-commerce [53954] -> "../data/townSites2/Lee/www.lee.ma.us/lee-chamber-commerce" [1]
+http://www.lee.ma.us/department-public-works/pages/cemetery:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:26:51 URL:http://www.lee.ma.us/home/pages/town-reports [54954] -> "../data/townSites2/Lee/www.lee.ma.us/home/pages/town-reports" [1]
+2017-01-02 00:26:52 URL:http://www.lee.ma.us/home/news/shared-chief-administrative-officer-community-discussion [54162] -> "../data/townSites2/Lee/www.lee.ma.us/home/news/shared-chief-administrative-officer-community-discussion" [1]
+2017-01-02 00:26:53 URL: http://www.lee.ma.us/sites/leema/files/uploads/selectboard_jan_10_2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:55 URL:http://www.lee.ma.us/home/news/greener-gift-giving-holiday-season-tips [54581] -> "../data/townSites2/Lee/www.lee.ma.us/home/news/greener-gift-giving-holiday-season-tips" [1]
+2017-01-02 00:26:56 URL: http://www.lee.ma.us/sites/leema/files/uploads/green_holidays_letter_to_the_editor_-_dec_15_2016_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:57 URL:http://www.lee.ma.us/home/news/new-job-openings [54214] -> "../data/townSites2/Lee/www.lee.ma.us/home/news/new-job-openings" [1]
+2017-01-02 00:26:59 URL:http://www.lee.ma.us/node/1/news [54489] -> "../data/townSites2/Lee/www.lee.ma.us/node/1/news" [1]
+2017-01-02 00:27:01 URL:http://www.lee.ma.us/calendar/day/2017-01-03 [58775] -> "../data/townSites2/Lee/www.lee.ma.us/calendar/day/2017-01-03" [1]
+2017-01-02 00:27:03 URL:http://www.lee.ma.us/town-clerk/events/13803 [57651] -> "../data/townSites2/Lee/www.lee.ma.us/town-clerk/events/13803" [1]
+2017-01-02 00:27:05 URL:http://www.lee.ma.us/town-clerk/events/13843 [57651] -> "../data/townSites2/Lee/www.lee.ma.us/town-clerk/events/13843" [1]
+2017-01-02 00:27:07 URL:http://www.lee.ma.us/calendar/day/2017-01-04 [58454] -> "../data/townSites2/Lee/www.lee.ma.us/calendar/day/2017-01-04" [1]
+2017-01-02 00:27:08 URL:http://www.lee.ma.us/town-clerk/events/13823 [57668] -> "../data/townSites2/Lee/www.lee.ma.us/town-clerk/events/13823" [1]
+2017-01-02 00:27:10 URL:http://www.lee.ma.us/calendar/day/2017-01-09 [58772] -> "../data/townSites2/Lee/www.lee.ma.us/calendar/day/2017-01-09" [1]
+2017-01-02 00:27:11 URL:http://www.lee.ma.us/town-clerk/events/13403 [57645] -> "../data/townSites2/Lee/www.lee.ma.us/town-clerk/events/13403" [1]
+2017-01-02 00:27:13 URL:http://www.lee.ma.us/town-clerk/events/13723 [57645] -> "../data/townSites2/Lee/www.lee.ma.us/town-clerk/events/13723" [1]
+2017-01-02 00:27:15 URL:http://www.lee.ma.us/calendar/day/2017-01-10 [58772] -> "../data/townSites2/Lee/www.lee.ma.us/calendar/day/2017-01-10" [1]
+2017-01-02 00:27:17 URL:http://www.lee.ma.us/town-clerk/events/13703 [57660] -> "../data/townSites2/Lee/www.lee.ma.us/town-clerk/events/13703" [1]
+2017-01-02 00:27:18 URL:http://www.lee.ma.us/town-clerk/events/13783 [57654] -> "../data/townSites2/Lee/www.lee.ma.us/town-clerk/events/13783" [1]
+2017-01-02 00:27:21 URL:http://www.lee.ma.us/calendar/month/2017-01 [102205] -> "../data/townSites2/Lee/www.lee.ma.us/calendar/month/2017-01" [1]
+2017-01-02 00:27:23 URL:http://www.lee.ma.us/calendar/month [102147] -> "../data/townSites2/Lee/www.lee.ma.us/calendar/month.1" [1]
+2017-01-02 00:27:25 URL:http://www.lee.ma.us/town-administrator/pages/brownsfield-project [59583] -> "../data/townSites2/Lee/www.lee.ma.us/town-administrator/pages/brownsfield-project" [1]
+2017-01-02 00:27:27 URL:http://www.lee.ma.us/subscribe [56665/56665] -> "../data/townSites2/Lee/www.lee.ma.us/subscribe" [1]
+2017-01-02 00:27:29 URL:http://www.lee.ma.us/webforms/contact-us [63006/63006] -> "../data/townSites2/Lee/www.lee.ma.us/webforms/contact-us" [1]
+2017-01-02 00:27:31 URL:http://www.lee.ma.us/about-lee-0 [60918] -> "../data/townSites2/Lee/www.lee.ma.us/about-lee-0" [1]
+2017-01-02 00:27:34 URL:http://www.lee.ma.us/files [59925] -> "../data/townSites2/Lee/www.lee.ma.us/files" [1]
+2017-01-02 00:27:36 URL:http://www.lee.ma.us/home/pages/job-postings-invitations-bidquote-town-work-and-supplies [57906] -> "../data/townSites2/Lee/www.lee.ma.us/home/pages/job-postings-invitations-bidquote-town-work-and-supplies" [1]
+2017-01-02 00:27:37 URL: http://www.lee.ma.us/sites/leema/files/uploads/municipal_telephone_dir._12-19-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:39 URL:http://www.lee.ma.us/home/pages/website-disclaimer [55672] -> "../data/townSites2/Lee/www.lee.ma.us/home/pages/website-disclaimer" [1]
+2017-01-02 00:27:40 URL:http://www.lee.ma.us/home/pages/help-center [57215] -> "../data/townSites2/Lee/www.lee.ma.us/node/5181" [1]
+2017-01-02 00:27:41 URL:http://www.lee.ma.us/print/5181 [9001] -> "../data/townSites2/Lee/www.lee.ma.us/print/5181" [1]
+2017-01-02 00:27:43 URL:http://www.lee.ma.us/where [64367] -> "../data/townSites2/Lee/www.lee.ma.us/where" [1]
+2017-01-02 00:27:44 URL:http://www.lee.ma.us/accountant [60089] -> "../data/townSites2/Lee/www.lee.ma.us/node/131" [1]
+2017-01-02 00:27:45 URL:http://www.lee.ma.us/print/131 [7325] -> "../data/townSites2/Lee/www.lee.ma.us/print/131" [1]
+2017-01-02 00:27:47 URL:http://www.lee.ma.us/user/76/contact [56369] -> "../data/townSites2/Lee/www.lee.ma.us/user/76/contact" [1]
+2017-01-02 00:27:48 URL: http://www.lee.ma.us/node/131/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:49 URL:http://www.lee.ma.us/news [55500] -> "../data/townSites2/Lee/www.lee.ma.us/news" [1]
+2017-01-02 00:27:51 URL:http://www.lee.ma.us/home/news/winter-parking-ban-0 [54285] -> "../data/townSites2/Lee/www.lee.ma.us/home/news/winter-parking-ban-0" [1]
+2017-01-02 00:27:52 URL:http://www.lee.ma.us/home/news/tri-town-shared-services [54060] -> "../data/townSites2/Lee/www.lee.ma.us/home/news/tri-town-shared-services" [1]
+2017-01-02 00:27:54 URL:http://www.lee.ma.us/news/1 [55514] -> "../data/townSites2/Lee/www.lee.ma.us/news/1" [1]
+2017-01-02 00:27:56 URL:http://www.lee.ma.us/accountant/pages/prior-years-financial-documents [58826] -> "../data/townSites2/Lee/www.lee.ma.us/node/2296" [1]
+2017-01-02 00:27:57 URL:http://www.lee.ma.us/print/2296 [7758] -> "../data/townSites2/Lee/www.lee.ma.us/print/2296" [1]
+2017-01-02 00:27:58 URL: http://www.lee.ma.us/sites/leema/files/uploads/financial_statements_fy_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:59 URL: http://www.lee.ma.us/sites/leema/files/uploads/management_letter_fy_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:01 URL: http://www.lee.ma.us/sites/leema/files/uploads/single_audit_reports_fy_2014_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:02 URL: http://www.lee.ma.us/sites/leema/files/uploads/financial_statements_fy_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:03 URL: http://www.lee.ma.us/sites/leema/files/uploads/management_letter_fy_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:05 URL: http://www.lee.ma.us/sites/leema/files/uploads/single_audit_package_fy_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:06 URL: http://www.lee.ma.us/sites/leema/files/uploads/12_fs_-_lee_-_signed_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:07 URL: http://www.lee.ma.us/sites/leema/files/uploads/12_ml_-_lee_-_signed_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:08 URL: http://www.lee.ma.us/sites/leema/files/uploads/12_sar_-_lee_-_signed_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:09 URL: http://www.lee.ma.us/sites/leema/files/uploads/financial_statements_fy_2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:10 URL: http://www.lee.ma.us/sites/leema/files/uploads/management_letter_fy_2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:12 URL: http://www.lee.ma.us/sites/leema/files/uploads/auditors_reports_single_audit_act_fy_2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:12 URL: http://www.lee.ma.us/sites/leema/files/uploads/audit10_fs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:13 URL: http://www.lee.ma.us/sites/leema/files/uploads/audit10_ml.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:14 URL: http://www.lee.ma.us/sites/leema/files/uploads/audit10_sar.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:16 URL:http://www.lee.ma.us/assessor [59777] -> "../data/townSites2/Lee/www.lee.ma.us/node/36" [1]
+2017-01-02 00:28:17 URL:http://www.lee.ma.us/print/36 [6639] -> "../data/townSites2/Lee/www.lee.ma.us/print/36" [1]
+2017-01-02 00:28:20 URL:http://www.lee.ma.us/user/51/contact [56367] -> "../data/townSites2/Lee/www.lee.ma.us/user/51/contact" [1]
+2017-01-02 00:28:21 URL: http://www.lee.ma.us/node/36/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:22 URL:http://www.lee.ma.us/assessor/pages/tax-maps [60660] -> "../data/townSites2/Lee/www.lee.ma.us/node/331" [1]
+2017-01-02 00:28:23 URL:http://www.lee.ma.us/print/331 [9622] -> "../data/townSites2/Lee/www.lee.ma.us/print/331" [1]
+2017-01-02 00:28:24 URL: http://www.lee.ma.us/sites/leema/files/uploads/leecover.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:25 URL: http://www.lee.ma.us/sites/leema/files/uploads/leeindex.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:26 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee01.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:28 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee02.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:29 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee03.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:30 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee04.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:31 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee05.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:32 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee06.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:33 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee07.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:34 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee08.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:36 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee08a.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:37 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee09.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:38 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee10.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:39 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee11.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:40 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee12.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:41 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee12a.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:42 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:43 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee13a.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:44 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:46 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:47 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:48 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:49 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee18.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:50 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee18a.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:51 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee19.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:52 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee19a.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:53 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee20.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:54 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee21.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:56 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee22.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:56 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee23.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:58 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee24.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:59 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee24a.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:00 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee25.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:01 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee25a.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:02 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee26.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:04 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee27.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:05 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee28.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:05 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee29.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:06 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee30.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:07 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee31.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:08 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee32.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:09 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee33.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:10 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee34.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:12 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee35.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:13 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee36.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:14 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee37.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:15 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee38.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:16 URL:http://www.lee.ma.us/building-safety [63569] -> "../data/townSites2/Lee/www.lee.ma.us/node/41" [1]
+2017-01-02 00:29:17 URL:http://www.lee.ma.us/print/41 [8141] -> "../data/townSites2/Lee/www.lee.ma.us/print/41" [1]
+2017-01-02 00:29:20 URL:http://www.lee.ma.us/user/5753/contact [56383] -> "../data/townSites2/Lee/www.lee.ma.us/user/5753/contact" [1]
+2017-01-02 00:29:22 URL:http://www.lee.ma.us/user/5146/contact [56387] -> "../data/townSites2/Lee/www.lee.ma.us/user/5146/contact" [1]
+2017-01-02 00:29:24 URL:http://www.lee.ma.us/user/5151/contact [56367] -> "../data/townSites2/Lee/www.lee.ma.us/user/5151/contact" [1]
+2017-01-02 00:29:26 URL:http://www.lee.ma.us/user/5081/contact [56389] -> "../data/townSites2/Lee/www.lee.ma.us/user/5081/contact" [1]
+2017-01-02 00:29:29 URL:http://www.lee.ma.us/user/5963/contact [56385] -> "../data/townSites2/Lee/www.lee.ma.us/user/5963/contact" [1]
+2017-01-02 00:29:29 URL: http://www.lee.ma.us/node/41/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:31 URL:http://www.lee.ma.us/building-safety/pages/building-forms [58459] -> "../data/townSites2/Lee/www.lee.ma.us/node/1266" [1]
+2017-01-02 00:29:32 URL:http://www.lee.ma.us/print/1266 [7612] -> "../data/townSites2/Lee/www.lee.ma.us/print/1266" [1]
+2017-01-02 00:29:33 URL: http://www.lee.ma.us/sites/leema/files/uploads/trenching_permit_policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:34 URL: http://www.lee.ma.us/sites/leema/files/uploads/trenching_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:35 URL: http://www.lee.ma.us/sites/leema/files/uploads/911_number_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:36 URL: http://www.lee.ma.us/sites/leema/files/uploads/mechanical_document.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:37 URL: http://www.lee.ma.us/sites/leema/files/uploads/select_board_special_permit_-_application_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:39 URL:http://www.lee.ma.us/building-safety/pages/fees [57038] -> "../data/townSites2/Lee/www.lee.ma.us/node/1241" [1]
+2017-01-02 00:29:40 URL:http://www.lee.ma.us/print/1241 [6044] -> "../data/townSites2/Lee/www.lee.ma.us/print/1241" [1]
+2017-01-02 00:29:41 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee-lenox_building_dept_fees_4.19.2016_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:42 URL: http://www.lee.ma.us/sites/leema/files/uploads/electrical_wiring_fees.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:43 URL: http://www.lee.ma.us/sites/leema/files/uploads/gas_and_plumbing_fees.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:44 URL:http://www.lee.ma.us/building-safety/pages/online-permitting [57595] -> "../data/townSites2/Lee/www.lee.ma.us/node/1226" [1]
+2017-01-02 00:29:45 URL:http://www.lee.ma.us/print/1226 [6605] -> "../data/townSites2/Lee/www.lee.ma.us/print/1226" [1]
+2017-01-02 00:29:46 URL: http://www.lee.ma.us/sites/leema/files/uploads/applicant_help_for_online_permitting_3-2-2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:47 URL: http://www.lee.ma.us/sites/leema/files/uploads/website_tutorial_03-04-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:48 URL:http://www.lee.ma.us/cemetery-department [57242] -> "../data/townSites2/Lee/www.lee.ma.us/node/4026" [1]
+2017-01-02 00:29:49 URL:http://www.lee.ma.us/print/4026 [6059] -> "../data/townSites2/Lee/www.lee.ma.us/print/4026" [1]
+2017-01-02 00:29:50 URL: http://www.lee.ma.us/sites/leema/files/uploads/cemetery_burial_rates.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:51 URL: http://www.lee.ma.us/sites/leema/files/uploads/cemeterypolicies.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:52 URL: http://www.lee.ma.us/node/4026/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:53 URL:http://www.lee.ma.us/cemetery-department/pages/cemetery-map [54915] -> "../data/townSites2/Lee/www.lee.ma.us/cemetery-department/pages/cemetery-map" [1]
+2017-01-02 00:29:55 URL:http://www.lee.ma.us/department-public-works [61252] -> "../data/townSites2/Lee/www.lee.ma.us/node/71" [1]
+2017-01-02 00:29:56 URL:http://www.lee.ma.us/print/71 [7657] -> "../data/townSites2/Lee/www.lee.ma.us/print/71" [1]
+2017-01-02 00:29:57 URL: http://www.lee.ma.us/node/71/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:58 URL: http://www.lee.ma.us/sites/leema/files/uploads/capital_planning_major_maintenance_program_-_2010_to_2030_-_sorted_by_name.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:59 URL: http://www.lee.ma.us/sites/leema/files/uploads/plowing_procedures_and_policies.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:00 URL: http://www.lee.ma.us/sites/leema/files/uploads/form_fee_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:01 URL:http://www.lee.ma.us/wastewater/pages/forms [55479] -> "../data/townSites2/Lee/www.lee.ma.us/wastewater/pages/forms" [1]
+2017-01-02 00:30:03 URL: http://www.lee.ma.us/sites/leema/files/uploads/septic_policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:05 URL:http://www.lee.ma.us/wastewater/slideshows/slideshow [57117] -> "../data/townSites2/Lee/www.lee.ma.us/wastewater/slideshows/slideshow" [1]
+2017-01-02 00:30:07 URL:http://www.lee.ma.us/water/pages/forms [55222] -> "../data/townSites2/Lee/www.lee.ma.us/water/pages/forms" [1]
+2017-01-02 00:30:08 URL: http://www.lee.ma.us/sites/leema/files/uploads/leesourcewaterprotectionplan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:10 URL:http://www.lee.ma.us/water/pages/water-quality-reports [57621] -> "../data/townSites2/Lee/www.lee.ma.us/water/pages/water-quality-reports" [1]
+2017-01-02 00:30:12 URL:http://www.lee.ma.us/department-public-works/news/fall-2016-water-flushing-schedule [59743] -> "../data/townSites2/Lee/www.lee.ma.us/department-public-works/news/fall-2016-water-flushing-schedule" [1]
+2017-01-02 00:30:13 URL:http://www.lee.ma.us/engineering [56422] -> "../data/townSites2/Lee/www.lee.ma.us/node/141" [1]
+2017-01-02 00:30:14 URL:http://www.lee.ma.us/print/141 [5749] -> "../data/townSites2/Lee/www.lee.ma.us/print/141" [1]
+2017-01-02 00:30:14 URL: http://www.lee.ma.us/node/141/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:16 URL:http://www.lee.ma.us/highway-department [57213] -> "../data/townSites2/Lee/www.lee.ma.us/node/76" [1]
+2017-01-02 00:30:17 URL:http://www.lee.ma.us/print/76 [5804] -> "../data/townSites2/Lee/www.lee.ma.us/print/76" [1]
+2017-01-02 00:30:18 URL: http://www.lee.ma.us/node/76/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:19 URL:http://www.lee.ma.us/department-public-works/pages/regulations [59136] -> "../data/townSites2/Lee/www.lee.ma.us/node/1576" [1]
+2017-01-02 00:30:21 URL:http://www.lee.ma.us/print/1576 [6465] -> "../data/townSites2/Lee/www.lee.ma.us/print/1576" [1]
+2017-01-02 00:30:21 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee_dpw_regulations_-_toc.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:23 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee_dpw_regulations_-_ch_229.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:24 URL: http://www.lee.ma.us/sites/leema/files/uploads/sewer_regulations_adopted_november_22_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:25 URL: http://www.lee.ma.us/sites/leema/files/uploads/water_regulations_adopted_november_22_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:27 URL: http://www.lee.ma.us/sites/leema/files/uploads/trenching_regulations_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:28 URL:http://www.lee.ma.us/wastewater [60807] -> "../data/townSites2/Lee/www.lee.ma.us/node/86" [1]
+2017-01-02 00:30:29 URL:http://www.lee.ma.us/print/86 [6109] -> "../data/townSites2/Lee/www.lee.ma.us/print/86" [1]
+2017-01-02 00:30:30 URL: http://www.lee.ma.us/node/86/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:32 URL:http://www.lee.ma.us/water [60612] -> "../data/townSites2/Lee/www.lee.ma.us/node/81" [1]
+2017-01-02 00:30:33 URL:http://www.lee.ma.us/print/81 [6073] -> "../data/townSites2/Lee/www.lee.ma.us/print/81" [1]
+2017-01-02 00:30:33 URL: http://www.lee.ma.us/node/81/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:35 URL:http://www.lee.ma.us/human-resources [57961] -> "../data/townSites2/Lee/www.lee.ma.us/node/206" [1]
+2017-01-02 00:30:36 URL:http://www.lee.ma.us/print/206 [6462] -> "../data/townSites2/Lee/www.lee.ma.us/print/206" [1]
+2017-01-02 00:30:36 URL: http://www.lee.ma.us/node/206/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:38 URL:http://www.lee.ma.us/human-resources/pages/employment-opportunities [56505] -> "../data/townSites2/Lee/www.lee.ma.us/node/4031" [1]
+2017-01-02 00:30:39 URL:http://www.lee.ma.us/print/4031 [6168] -> "../data/townSites2/Lee/www.lee.ma.us/print/4031" [1]
+2017-01-02 00:30:40 URL: http://www.lee.ma.us/sites/leema/files/uploads/employment_opprtunities_website_posting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:41 URL: http://www.lee.ma.us/sites/leema/files/uploads/dpw_summer_help_ad_2015_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:44 URL:http://www.lee.ma.us/land-use [58700] -> "../data/townSites2/Lee/www.lee.ma.us/node/2861" [1]
+2017-01-02 00:30:44 URL:http://www.lee.ma.us/print/2861 [6407] -> "../data/townSites2/Lee/www.lee.ma.us/print/2861" [1]
+2017-01-02 00:30:45 URL: http://www.lee.ma.us/node/2861/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:46 URL:http://www.lee.ma.us/land-use/pages/sandy-beach [60027] -> "../data/townSites2/Lee/www.lee.ma.us/node/2881" [1]
+2017-01-02 00:30:47 URL:http://www.lee.ma.us/print/2881 [8672] -> "../data/townSites2/Lee/www.lee.ma.us/print/2881" [1]
+2017-01-02 00:30:49 URL:http://www.lee.ma.us/land-use/pages/scenic-mountain-act [58853] -> "../data/townSites2/Lee/www.lee.ma.us/node/2876" [1]
+2017-01-02 00:30:50 URL:http://www.lee.ma.us/print/2876 [7662] -> "../data/townSites2/Lee/www.lee.ma.us/print/2876" [1]
+2017-01-02 00:30:52 URL: http://www.lee.ma.us/sites/leema/files/uploads/town_of_lee_scenic_mtn_act_-_final_10-24-08.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:53 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee_sma_map.final_10-24-08.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:54 URL: http://www.lee.ma.us/sites/leema/files/uploads/town_of_lee_conservation_commission.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:55 URL: http://www.lee.ma.us/sites/leema/files/uploads/town_of_lee_conservation_commission1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:56 URL: http://www.lee.ma.us/sites/leema/files/uploads/town_of_lee_conservation_commissio2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:57 URL: http://www.lee.ma.us/sites/leema/files/uploads/town_of_lee_conservation_commissio3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:59 URL: http://www.lee.ma.us/sites/leema/files/uploads/town_of_lee_conservation_commissio4.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:00 URL: http://www.lee.ma.us/sites/leema/files/uploads/town_of_lee_conservation_commissio5.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:01 URL: http://www.lee.ma.us/sites/leema/files/uploads/town_of_lee_conservation_commissio6.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:02 URL: http://www.lee.ma.us/sites/leema/files/uploads/town_of_lee_conservation_commissio7.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:02 URL: http://www.lee.ma.us/sites/leema/files/uploads/town_of_lee_conservation_commissio8.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:04 URL: http://www.lee.ma.us/sites/leema/files/uploads/town_of_lee_conservation_commission_scenic_mtn_act.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:05 URL:http://www.lee.ma.us/library [59540] -> "../data/townSites2/Lee/www.lee.ma.us/node/61" [1]
+2017-01-02 00:31:06 URL:http://www.lee.ma.us/print/61 [6632] -> "../data/townSites2/Lee/www.lee.ma.us/print/61" [1]
+2017-01-02 00:31:07 URL: http://www.lee.ma.us/node/61/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:09 URL:http://www.lee.ma.us/node/61/agenda [51631] -> "../data/townSites2/Lee/www.lee.ma.us/node/61/agenda" [1]
+2017-01-02 00:31:10 URL:http://www.lee.ma.us/library/agenda/board-library-agenda [56314] -> "../data/townSites2/Lee/www.lee.ma.us/library/agenda/board-library-agenda" [1]
+2017-01-02 00:31:12 URL:http://www.lee.ma.us/lee-police-department [69078] -> "../data/townSites2/Lee/www.lee.ma.us/node/101" [1]
+2017-01-02 00:31:13 URL:http://www.lee.ma.us/print/101 [10325] -> "../data/townSites2/Lee/www.lee.ma.us/print/101" [1]
+2017-01-02 00:31:15 URL:http://www.lee.ma.us/people/jeffrey-roosa [58884] -> "../data/townSites2/Lee/www.lee.ma.us/people/jeffrey-roosa" [1]
+2017-01-02 00:31:17 URL:http://www.lee.ma.us/people/tracy-dunn [58636] -> "../data/townSites2/Lee/www.lee.ma.us/people/tracy-dunn" [1]
+2017-01-02 00:31:18 URL:http://www.lee.ma.us/people/craig-desantis-0 [58886] -> "../data/townSites2/Lee/www.lee.ma.us/people/craig-desantis-0" [1]
+2017-01-02 00:31:20 URL:http://www.lee.ma.us/people/adrian-kohlenberger [58917] -> "../data/townSites2/Lee/www.lee.ma.us/people/adrian-kohlenberger" [1]
+2017-01-02 00:31:22 URL:http://www.lee.ma.us/people/stephanie-burdick [58910] -> "../data/townSites2/Lee/www.lee.ma.us/people/stephanie-burdick" [1]
+2017-01-02 00:31:23 URL:http://www.lee.ma.us/people/ryan-lucy [58875] -> "../data/townSites2/Lee/www.lee.ma.us/people/ryan-lucy" [1]
+2017-01-02 00:31:25 URL:http://www.lee.ma.us/people/benjamin-towne [58897] -> "../data/townSites2/Lee/www.lee.ma.us/people/benjamin-towne" [1]
+2017-01-02 00:31:26 URL:http://www.lee.ma.us/people/jason-hopkins-0 [58899] -> "../data/townSites2/Lee/www.lee.ma.us/people/jason-hopkins-0" [1]
+2017-01-02 00:31:28 URL:http://www.lee.ma.us/people/chad-cummings-0 [58895] -> "../data/townSites2/Lee/www.lee.ma.us/people/chad-cummings-0" [1]
+2017-01-02 00:31:30 URL:http://www.lee.ma.us/people/robert-wood-0 [58889] -> "../data/townSites2/Lee/www.lee.ma.us/people/robert-wood-0" [1]
+2017-01-02 00:31:31 URL:http://www.lee.ma.us/people/michael-snyder-0 [58901] -> "../data/townSites2/Lee/www.lee.ma.us/people/michael-snyder-0" [1]
+2017-01-02 00:31:33 URL:http://www.lee.ma.us/people/timothy-kelly [58893] -> "../data/townSites2/Lee/www.lee.ma.us/people/timothy-kelly" [1]
+2017-01-02 00:31:34 URL: http://www.lee.ma.us/node/101/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:36 URL:http://www.lee.ma.us/police/pages/community-programs [60894] -> "../data/townSites2/Lee/www.lee.ma.us/node/1196" [1]
+2017-01-02 00:31:37 URL:http://www.lee.ma.us/print/1196 [8866] -> "../data/townSites2/Lee/www.lee.ma.us/print/1196" [1]
+2017-01-02 00:31:38 URL:http://www.lee.ma.us/police/pages/downloadable-forms [57466] -> "../data/townSites2/Lee/www.lee.ma.us/node/1221" [1]
+2017-01-02 00:31:39 URL:http://www.lee.ma.us/print/1221 [5683] -> "../data/townSites2/Lee/www.lee.ma.us/print/1221" [1]
+2017-01-02 00:31:40 URL:http://www.lee.ma.us/lee-police-department/pages/employment [58037] -> "../data/townSites2/Lee/www.lee.ma.us/node/1186" [1]
+2017-01-02 00:31:41 URL:http://www.lee.ma.us/print/1186 [6026] -> "../data/townSites2/Lee/www.lee.ma.us/print/1186" [1]
+2017-01-02 00:31:42 URL:http://www.lee.ma.us/police/pages/firearms [60999] -> "../data/townSites2/Lee/www.lee.ma.us/node/1206" [1]
+2017-01-02 00:31:43 URL:http://www.lee.ma.us/print/1206 [9050] -> "../data/townSites2/Lee/www.lee.ma.us/print/1206" [1]
+2017-01-02 00:31:45 URL:http://www.lee.ma.us/police/pages/helpful-links [58284] -> "../data/townSites2/Lee/www.lee.ma.us/node/1181" [1]
+2017-01-02 00:31:46 URL:http://www.lee.ma.us/print/1181 [6373] -> "../data/townSites2/Lee/www.lee.ma.us/print/1181" [1]
+2017-01-02 00:31:47 URL:http://www.lee.ma.us/lee-police-department/slideshows/honor-guard [58959] -> "../data/townSites2/Lee/www.lee.ma.us/node/6191" [1]
+2017-01-02 00:31:48 URL:http://www.lee.ma.us/print/6191 [7210] -> "../data/townSites2/Lee/www.lee.ma.us/print/6191" [1]
+2017-01-02 00:31:49 URL:http://www.lee.ma.us/police/pages/identity-fraud [60797] -> "../data/townSites2/Lee/www.lee.ma.us/node/1211" [1]
+2017-01-02 00:31:50 URL:http://www.lee.ma.us/print/1211 [8810] -> "../data/townSites2/Lee/www.lee.ma.us/print/1211" [1]
+2017-01-02 00:31:52 URL:http://www.lee.ma.us/police/pages/sex-offenders [62577] -> "../data/townSites2/Lee/www.lee.ma.us/node/1216" [1]
+2017-01-02 00:31:53 URL:http://www.lee.ma.us/print/1216 [10733] -> "../data/townSites2/Lee/www.lee.ma.us/print/1216" [1]
+2017-01-02 00:31:55 URL:http://www.lee.ma.us/police/pages/traffic-safety [64165] -> "../data/townSites2/Lee/www.lee.ma.us/node/1201" [1]
+2017-01-02 00:31:56 URL:http://www.lee.ma.us/print/1201 [12206] -> "../data/townSites2/Lee/www.lee.ma.us/print/1201" [1]
+2017-01-02 00:31:57 URL:http://www.lee.ma.us/public-safefy [58279] -> "../data/townSites2/Lee/www.lee.ma.us/node/96" [1]
+2017-01-02 00:31:58 URL:http://www.lee.ma.us/print/96 [6445] -> "../data/townSites2/Lee/www.lee.ma.us/print/96" [1]
+2017-01-02 00:31:58 URL: http://www.lee.ma.us/node/96/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:00 URL:http://www.lee.ma.us/ambulance/pages/about-us [58351] -> "../data/townSites2/Lee/www.lee.ma.us/ambulance/pages/about-us" [1]
+2017-01-02 00:32:02 URL:http://www.lee.ma.us/ambulance/pages/join-us [57221] -> "../data/townSites2/Lee/www.lee.ma.us/ambulance/pages/join-us" [1]
+2017-01-02 00:32:04 URL:http://www.lee.ma.us/ambulance [64385] -> "../data/townSites2/Lee/www.lee.ma.us/node/1356" [1]
+2017-01-02 00:32:05 URL:http://www.lee.ma.us/print/1356 [8929] -> "../data/townSites2/Lee/www.lee.ma.us/print/1356" [1]
+2017-01-02 00:32:05 URL: http://www.lee.ma.us/node/1356/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:07 URL:http://www.lee.ma.us/animal-control [56704] -> "../data/townSites2/Lee/www.lee.ma.us/node/111" [1]
+2017-01-02 00:32:08 URL:http://www.lee.ma.us/print/111 [6040] -> "../data/townSites2/Lee/www.lee.ma.us/print/111" [1]
+2017-01-02 00:32:09 URL: http://www.lee.ma.us/node/111/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:10 URL:http://www.lee.ma.us/fire-and-rescue [56662] -> "../data/townSites2/Lee/www.lee.ma.us/node/106" [1]
+2017-01-02 00:32:12 URL:http://www.lee.ma.us/print/106 [6001] -> "../data/townSites2/Lee/www.lee.ma.us/print/106" [1]
+2017-01-02 00:32:12 URL: http://www.lee.ma.us/node/106/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:14 URL:http://www.lee.ma.us/senior-services [61677] -> "../data/townSites2/Lee/www.lee.ma.us/node/4601" [1]
+2017-01-02 00:32:15 URL:http://www.lee.ma.us/print/4601 [8699] -> "../data/townSites2/Lee/www.lee.ma.us/print/4601" [1]
+2017-01-02 00:32:15 URL: http://www.lee.ma.us/node/4601/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:17 URL:http://www.lee.ma.us/town-administrator [60384] -> "../data/townSites2/Lee/www.lee.ma.us/node/21" [1]
+2017-01-02 00:32:18 URL:http://www.lee.ma.us/print/21 [7586] -> "../data/townSites2/Lee/www.lee.ma.us/print/21" [1]
+2017-01-02 00:32:19 URL: http://www.lee.ma.us/node/21/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:20 URL: http://www.lee.ma.us/sites/leema/files/uploads/dls_plan_for_shared_chief_adminstraive_officer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:22 URL: http://www.lee.ma.us/sites/leema/files/uploads/practitioners_proposal_for_shared_administrative_officer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:23 URL:http://www.lee.ma.us/town-administrator/pages/projects [58307] -> "../data/townSites2/Lee/www.lee.ma.us/node/12893" [1]
+2017-01-02 00:32:24 URL:http://www.lee.ma.us/print/12893 [6637] -> "../data/townSites2/Lee/www.lee.ma.us/print/12893" [1]
+2017-01-02 00:32:26 URL:http://www.lee.ma.us/town-administrator/pages/town-code [58279] -> "../data/townSites2/Lee/www.lee.ma.us/node/4081" [1]
+2017-01-02 00:32:27 URL:http://www.lee.ma.us/print/4081 [6625] -> "../data/townSites2/Lee/www.lee.ma.us/print/4081" [1]
+2017-01-02 00:32:29 URL: http://www.lee.ma.us/sites/leema/files/uploads/le1695-pre.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:30 URL:http://www.lee.ma.us/town-administrator/pages/part-i-administrative-bylaws [60103] -> "../data/townSites2/Lee/www.lee.ma.us/town-administrator/pages/part-i-administrative-bylaws" [1]
+2017-01-02 00:32:32 URL:http://www.lee.ma.us/town-administrator/pages/part-ii-general-bylaws [60977] -> "../data/townSites2/Lee/www.lee.ma.us/town-administrator/pages/part-ii-general-bylaws" [1]
+2017-01-02 00:32:34 URL:http://www.lee.ma.us/town-administrator/pages/division-2-regulations [58404] -> "../data/townSites2/Lee/www.lee.ma.us/town-administrator/pages/division-2-regulations" [1]
+2017-01-02 00:32:36 URL:http://www.lee.ma.us/town-administrator/pages/appendix [57558] -> "../data/townSites2/Lee/www.lee.ma.us/town-administrator/pages/appendix" [1]
+2017-01-02 00:32:37 URL: http://www.lee.ma.us/sites/leema/files/uploads/le1695-dl.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:38 URL: http://www.lee.ma.us/sites/leema/files/uploads/atm_5-12-2016_art_46_47_48.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:40 URL:http://www.lee.ma.us/town-administrator/pages/tri-town-shared-services [59343] -> "../data/townSites2/Lee/www.lee.ma.us/node/12983" [1]
+2017-01-02 00:32:40 URL:http://www.lee.ma.us/print/12983 [7738] -> "../data/townSites2/Lee/www.lee.ma.us/print/12983" [1]
+2017-01-02 00:32:42 URL:http://www.lee.ma.us/town-clerk [71811] -> "../data/townSites2/Lee/www.lee.ma.us/node/26" [1]
+2017-01-02 00:32:43 URL:http://www.lee.ma.us/print/26 [7119] -> "../data/townSites2/Lee/www.lee.ma.us/print/26" [1]
+2017-01-02 00:32:49 URL: http://www.lee.ma.us/node/26/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:52 URL:http://www.lee.ma.us/town-clerk/news/opportunities-volunteer [57576] -> "../data/townSites2/Lee/www.lee.ma.us/town-clerk/news/opportunities-volunteer" [1]
+2017-01-02 00:32:53 URL:http://www.lee.ma.us/town-clerk/news/marriage-intentions [57716] -> "../data/townSites2/Lee/www.lee.ma.us/town-clerk/news/marriage-intentions" [1]
+2017-01-02 00:32:55 URL:http://www.lee.ma.us/node/26/events/day/2017-01-03 [57158] -> "../data/townSites2/Lee/www.lee.ma.us/node/26/events/day/2017-01-03" [1]
+2017-01-02 00:32:57 URL:http://www.lee.ma.us/node/26/events/day/2017-01-04 [56837] -> "../data/townSites2/Lee/www.lee.ma.us/node/26/events/day/2017-01-04" [1]
+2017-01-02 00:32:59 URL:http://www.lee.ma.us/node/26/events/day/2017-01-09 [57155] -> "../data/townSites2/Lee/www.lee.ma.us/node/26/events/day/2017-01-09" [1]
+2017-01-02 00:33:00 URL:http://www.lee.ma.us/node/26/events/day/2017-01-10 [57155] -> "../data/townSites2/Lee/www.lee.ma.us/node/26/events/day/2017-01-10" [1]
+2017-01-02 00:33:02 URL:http://www.lee.ma.us/node/26/events/month/2017-01 [100722] -> "../data/townSites2/Lee/www.lee.ma.us/node/26/events/month/2017-01" [1]
+2017-01-02 00:33:03 URL:http://www.lee.ma.us/town-clerk/pages/permits-licensing [58838] -> "../data/townSites2/Lee/www.lee.ma.us/node/1341" [1]
+2017-01-02 00:33:04 URL:http://www.lee.ma.us/print/1341 [7120] -> "../data/townSites2/Lee/www.lee.ma.us/print/1341" [1]
+2017-01-02 00:33:05 URL:http://www.lee.ma.us/town-clerk/pages/public-notices [73058] -> "../data/townSites2/Lee/www.lee.ma.us/node/1511" [1]
+2017-01-02 00:33:06 URL:http://www.lee.ma.us/print/1511 [21471] -> "../data/townSites2/Lee/www.lee.ma.us/print/1511" [1]
+2017-01-02 00:33:07 URL: http://www.lee.ma.us/sites/leema/files/uploads/selectmen_jan_03_2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:08 URL: http://www.lee.ma.us/sites/leema/files/uploads/conservation_jan_04_2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:09 URL: http://www.lee.ma.us/sites/leema/files/uploads/assessors_jan_03_2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:10 URL: http://www.lee.ma.us/sites/leema/files/uploads/council_on_aging_jan_10_2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:10 URL: http://www.lee.ma.us/sites/leema/files/uploads/berk_cty_retirement_dec_28_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:11 URL: http://www.lee.ma.us/sites/leema/files/uploads/planning_jan_09_2017_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:12 URL: http://www.lee.ma.us/sites/leema/files/uploads/massdot_meeting_2_07_17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:13 URL: http://www.lee.ma.us/sites/leema/files/uploads/selectmen_dec_20_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:14 URL: http://www.lee.ma.us/sites/leema/files/uploads/school_comm_union_dec_19_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:15 URL: http://www.lee.ma.us/sites/leema/files/uploads/planning_nod_dec_14_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:16 URL: http://www.lee.ma.us/sites/leema/files/uploads/planning_jan_09_2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:17 URL: http://www.lee.ma.us/sites/leema/files/uploads/conservation_dec_14_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:18 URL: http://www.lee.ma.us/sites/leema/files/uploads/bpw_dec_13_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:18 URL: http://www.lee.ma.us/sites/leema/files/uploads/assessors_dec_13_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:19 URL: http://www.lee.ma.us/sites/leema/files/uploads/school_comm_dec_13_2016_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:20 URL: http://www.lee.ma.us/sites/leema/files/uploads/housing_auth_dec_19_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:21 URL: http://www.lee.ma.us/sites/leema/files/uploads/cable_adv_comm_dec_13_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:22 URL: http://www.lee.ma.us/sites/leema/files/uploads/school_comm_dec_13_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:23 URL: http://www.lee.ma.us/sites/leema/files/uploads/recycling_comm_dec_12_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:24 URL: http://www.lee.ma.us/sites/leema/files/uploads/tri-town_health_dec_12_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:25 URL: http://www.lee.ma.us/sites/leema/files/uploads/school_comm_dec_12_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:26 URL: http://www.lee.ma.us/sites/leema/files/uploads/conservation_dec_07_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:27 URL: http://www.lee.ma.us/sites/leema/files/uploads/cultural_council_dec_11_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:29 URL: http://www.lee.ma.us/sites/leema/files/uploads/selectmen_dec_06_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:30 URL: http://www.lee.ma.us/sites/leema/files/uploads/youth_comm_dec_12_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:31 URL: http://www.lee.ma.us/sites/leema/files/uploads/planning_board_dec_12_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:32 URL: http://www.lee.ma.us/sites/leema/files/uploads/high_foot_path_dec_01_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:33 URL: http://www.lee.ma.us/sites/leema/files/uploads/brpc_dec_01_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:34 URL: http://www.lee.ma.us/sites/leema/files/uploads/berk_cty_retirement_nov_30_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:34 URL: http://www.lee.ma.us/sites/leema/files/uploads/admin_review_comm_nov_29_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:35 URL: http://www.lee.ma.us/sites/leema/files/uploads/selectmen_nod_nov_22_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:36 URL: http://www.lee.ma.us/sites/leema/files/uploads/school_comm_nov_28_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:37 URL: http://www.lee.ma.us/sites/leema/files/uploads/planning_site_visit_nov_29_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:38 URL: http://www.lee.ma.us/sites/leema/files/uploads/bpw_nov_22_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:39 URL: http://www.lee.ma.us/sites/leema/files/uploads/planning_board_nod_nov_14_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:40 URL: http://www.lee.ma.us/sites/leema/files/uploads/insurance_adv_comm_dec_05_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:40 URL: http://www.lee.ma.us/sites/leema/files/uploads/goose_pond_main_dist_nov_17_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:41 URL: http://www.lee.ma.us/sites/leema/files/uploads/conservation_nov_16_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:42 URL: http://www.lee.ma.us/sites/leema/files/uploads/ag_approval_stm_oct_27_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:43 URL: http://www.lee.ma.us/sites/leema/files/uploads/housing_auth_nov_21_2016_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:44 URL: http://www.lee.ma.us/sites/leema/files/uploads/rest_of_river_comm_nov_15_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:45 URL: http://www.lee.ma.us/sites/leema/files/uploads/selectmen_nov_15_2016_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:46 URL: http://www.lee.ma.us/sites/leema/files/uploads/cultural_council_nov_13_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:46 URL: http://www.lee.ma.us/sites/leema/files/uploads/water_sewer_regulation_public_hearing_nov_22_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:47 URL: http://www.lee.ma.us/sites/leema/files/uploads/school_shared_services_subcomm_nov_18_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:48 URL: http://www.lee.ma.us/sites/leema/files/uploads/youth_comm_nov_14_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:49 URL: http://www.lee.ma.us/sites/leema/files/uploads/planning_board_nov_14_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:50 URL: http://www.lee.ma.us/sites/leema/files/uploads/brpc_nov_17_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:51 URL: http://www.lee.ma.us/sites/leema/files/uploads/recycling_comm_nov_14_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:52 URL: http://www.lee.ma.us/sites/leema/files/uploads/admin_review_nov_09_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:53 URL: http://www.lee.ma.us/sites/leema/files/uploads/selectmen_nov_09_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:53 URL: http://www.lee.ma.us/sites/leema/files/uploads/tri-town_health_nov_16_2016_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:55 URL: http://www.lee.ma.us/sites/leema/files/uploads/board_of_public_works_nov_08_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:55 URL: http://www.lee.ma.us/sites/leema/files/uploads/council_on_aging_nov_07_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:56 URL: http://www.lee.ma.us/sites/leema/files/uploads/historic_comm_nov_08_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:57 URL: http://www.lee.ma.us/sites/leema/files/uploads/school_audit_eval_subcomm_nov_07_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:58 URL: http://www.lee.ma.us/sites/leema/files/uploads/school_comm_nov_07_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:59 URL: http://www.lee.ma.us/sites/leema/files/uploads/assessors_nov_04_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:00 URL: http://www.lee.ma.us/sites/leema/files/uploads/con_comm_nov_2_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:01 URL: http://www.lee.ma.us/sites/leema/files/uploads/school_shared_sevices_comm_revised_oct_31_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:01 URL: http://www.lee.ma.us/sites/leema/files/uploads/selectmen_nov_01_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:02 URL: http://www.lee.ma.us/sites/leema/files/uploads/insurance_adv_comm_nov_07_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:03 URL: http://www.lee.ma.us/sites/leema/files/uploads/rest_of_river_comm_nov_01_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:04 URL: http://www.lee.ma.us/sites/leema/files/uploads/school_comm_shared_services_oct_31_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:05 URL: http://www.lee.ma.us/sites/leema/files/uploads/selectmen_and_tax_classification_oct_27_2016_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:06 URL: http://www.lee.ma.us/sites/leema/files/uploads/vacancy_substitute_custodian.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:07 URL: http://www.lee.ma.us/sites/leema/files/uploads/vacancy_secretary.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:08 URL: http://www.lee.ma.us/sites/leema/files/uploads/vacancy_paraprofessional.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:08 URL: http://www.lee.ma.us/sites/leema/files/uploads/planning_board_oct_31_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:09 URL: http://www.lee.ma.us/sites/leema/files/uploads/warrant_nov_8_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:10 URL: http://www.lee.ma.us/sites/leema/files/uploads/bpw_oct_25_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:11 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee_bike_path_oct_24_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:12 URL: http://www.lee.ma.us/sites/leema/files/uploads/school_comm_union_oct_24_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:13 URL: http://www.lee.ma.us/sites/leema/files/uploads/brta_oct_27_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:14 URL: http://www.lee.ma.us/sites/leema/files/uploads/school_comm_oct_24_2016_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:15 URL: http://www.lee.ma.us/sites/leema/files/uploads/berk_cty_retirement_oct_26_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:16 URL: http://www.lee.ma.us/sites/leema/files/uploads/school_comm_oct_24_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:17 URL: http://www.lee.ma.us/sites/leema/files/uploads/planning_nov_14_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:18 URL: http://www.lee.ma.us/sites/leema/files/uploads/brpc_oct_20_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:19 URL: http://www.lee.ma.us/sites/leema/files/uploads/selectmen_oct_18_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:20 URL: http://www.lee.ma.us/sites/leema/files/uploads/zba_nov_30_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:21 URL: http://www.lee.ma.us/sites/leema/files/uploads/specialtownmeetingwarrant20161027.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:22 URL: http://www.lee.ma.us/sites/leema/files/uploads/zba_decision_oct_17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:23 URL: http://www.lee.ma.us/sites/leema/files/uploads/zba_continuance_oct_17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:24 URL: http://www.lee.ma.us/sites/leema/files/uploads/planningboardmeetng20161017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:24 URL: http://www.lee.ma.us/sites/leema/files/uploads/teacher_contract_neg_oct_18_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:25 URL: http://www.lee.ma.us/sites/leema/files/uploads/finance_comm_oct_13_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:27 URL: http://www.lee.ma.us/sites/leema/files/uploads/massdot_oct_11_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:28 URL: http://www.lee.ma.us/sites/leema/files/uploads/admin_review_comm_oct_13_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:29 URL: http://www.lee.ma.us/sites/leema/files/uploads/bpw_oct_11_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:30 URL: http://www.lee.ma.us/sites/leema/files/uploads/housing_auth_oct_17_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:31 URL: http://www.lee.ma.us/sites/leema/files/uploads/school_comm_oct_12_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:32 URL: http://www.lee.ma.us/sites/leema/files/uploads/school_comm_bud_eval_oct_11_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:33 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee_youth_assn_oct_17_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:33 URL: http://www.lee.ma.us/sites/leema/files/uploads/ph_zba_oct_26_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:34 URL: http://www.lee.ma.us/sites/leema/files/uploads/school_comm_oct_11_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:35 URL: http://www.lee.ma.us/sites/leema/files/uploads/assessors_oct_07_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:36 URL: http://www.lee.ma.us/sites/leema/files/uploads/selectmen_ph_nov_01_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:37 URL: http://www.lee.ma.us/sites/leema/files/uploads/recycling_comm_oct_10_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:38 URL: http://www.lee.ma.us/sites/leema/files/uploads/emergency_response_oct_26_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:39 URL: http://www.lee.ma.us/sites/leema/files/uploads/special_permit_selectmen_nov_15_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:39 URL: http://www.lee.ma.us/sites/leema/files/uploads/selectmen_oct_04_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:40 URL: http://www.lee.ma.us/sites/leema/files/uploads/conservation_oct_05_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:41 URL: http://www.lee.ma.us/sites/leema/files/uploads/brpc_oct_06_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:42 URL: http://www.lee.ma.us/sites/leema/files/uploads/school_comm_oct_05_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:43 URL: http://www.lee.ma.us/sites/leema/files/uploads/brta_sep_29_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:44 URL: http://www.lee.ma.us/sites/leema/files/uploads/rest_of_river_comm_sep_27_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:45 URL: http://www.lee.ma.us/sites/leema/files/uploads/fire_chief_adv_comm_oct_06_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:46 URL: http://www.lee.ma.us/sites/leema/files/uploads/dpw_sep_27_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:47 URL: http://www.lee.ma.us/sites/leema/files/uploads/berk_cty_retirement_sep_28_2016_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:48 URL: http://www.lee.ma.us/sites/leema/files/uploads/school_comm_sep_26_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:49 URL: http://www.lee.ma.us/sites/leema/files/uploads/footpath_collaborative_sep_22_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:49 URL: http://www.lee.ma.us/sites/leema/files/uploads/con_comm_sep_21_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:50 URL: http://www.lee.ma.us/sites/leema/files/uploads/fire_chief_adv_comm_sep_22_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:51 URL: http://www.lee.ma.us/sites/leema/files/uploads/selectmen_sep_20_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:52 URL: http://www.lee.ma.us/sites/leema/files/uploads/brpc_sep_22_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:53 URL: http://www.lee.ma.us/sites/leema/files/uploads/planning_board_sep_26_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:54 URL: http://www.lee.ma.us/sites/leema/files/uploads/energy_adv_comm_sep_15_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:55 URL: http://www.lee.ma.us/sites/leema/files/uploads/housing_auth_sep_19_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:56 URL: http://www.lee.ma.us/sites/leema/files/uploads/school_comm_2_sep_13_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:57 URL: http://www.lee.ma.us/sites/leema/files/uploads/bpw_sep_13_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:58 URL: http://www.lee.ma.us/sites/leema/files/uploads/historical_comm_sep_13_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:59 URL: http://www.lee.ma.us/sites/leema/files/uploads/school_comm_sep_13_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:59 URL: http://www.lee.ma.us/sites/leema/files/uploads/tritown_sep_12_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:00 URL: http://www.lee.ma.us/sites/leema/files/uploads/selectboard_sep_06_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:01 URL: http://www.lee.ma.us/sites/leema/files/uploads/youth_comm_sep_12_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:02 URL: http://www.lee.ma.us/sites/leema/files/uploads/coa_sep_13_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:03 URL: http://www.lee.ma.us/sites/leema/files/uploads/planning_ph_oct_17_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:04 URL: http://www.lee.ma.us/sites/leema/files/uploads/planning_sep_12_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:05 URL: http://www.lee.ma.us/sites/leema/files/uploads/conservation_sep_07_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:06 URL: http://www.lee.ma.us/sites/leema/files/uploads/fire_cheif_comm_sep_07_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:07 URL: http://www.lee.ma.us/sites/leema/files/uploads/school_comm_sep_07_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:08 URL: http://www.lee.ma.us/sites/leema/files/uploads/recycling_comm_sep_12_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:09 URL: http://www.lee.ma.us/sites/leema/files/uploads/brpc_sep_01_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:10 URL:http://www.lee.ma.us/town-clerk/pages/town-census [58887] -> "../data/townSites2/Lee/www.lee.ma.us/node/1331" [1]
+2017-01-02 00:35:11 URL:http://www.lee.ma.us/print/1331 [7096] -> "../data/townSites2/Lee/www.lee.ma.us/print/1331" [1]
+2017-01-02 00:35:12 URL:http://www.lee.ma.us/town-clerk/pages/town-meeting-documents [68291] -> "../data/townSites2/Lee/www.lee.ma.us/node/1346" [1]
+2017-01-02 00:35:13 URL:http://www.lee.ma.us/print/1346 [16784] -> "../data/townSites2/Lee/www.lee.ma.us/print/1346" [1]
+2017-01-02 00:35:13 URL: http://www.lee.ma.us/sites/leema/files/uploads/supplemental_information_memo.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:14 URL: http://www.lee.ma.us/sites/leema/files/uploads/fy_2017_budget_and_town_meeting_preparation_schedule_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:15 URL: http://www.lee.ma.us/sites/leema/files/uploads/warrant_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:16 URL: http://www.lee.ma.us/sites/leema/files/uploads/supplemental_information_memorandum.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:17 URL: http://www.lee.ma.us/sites/leema/files/uploads/recycling_bylaws_overview_and_summaries.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:18 URL: http://www.lee.ma.us/sites/leema/files/uploads/summary_of_articles_and_funding_sources.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:18 URL: http://www.lee.ma.us/sites/leema/files/uploads/budget_impact_analysis.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:20 URL: http://www.lee.ma.us/sites/leema/files/uploads/comparison_of_program_spending_3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:21 URL: http://www.lee.ma.us/sites/leema/files/uploads/classification_compensation_plans.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:22 URL: http://www.lee.ma.us/sites/leema/files/uploads/roadway_paving_referendum_explanation_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:23 URL: http://www.lee.ma.us/sites/leema/files/uploads/baby_town_meeting_flyer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:24 URL: http://www.lee.ma.us/sites/leema/files/uploads/stm_fy2015_5_14_2015_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:24 URL: http://www.lee.ma.us/sites/leema/files/uploads/stm_fy2015_5_14_2015_supplemental_information.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:25 URL: http://www.lee.ma.us/sites/leema/files/uploads/stm_fy2015_5_14_2015_fy16_class_and_comp_with_1.5_adjustment.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:26 URL: http://www.lee.ma.us/sites/leema/files/uploads/atm_fy2016_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:27 URL: http://www.lee.ma.us/sites/leema/files/uploads/atm_fy_2016_request_budget_impact.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:28 URL: http://www.lee.ma.us/sites/leema/files/uploads/atm_fy2016_comparison_of_program_spending.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:29 URL: http://www.lee.ma.us/sites/leema/files/uploads/atm_fy2016_summary_of_articles_and_funding_sources.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:29 URL: http://www.lee.ma.us/sites/leema/files/uploads/fy_2014_stm_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:30 URL: http://www.lee.ma.us/sites/leema/files/uploads/stm_supplemental_information_memo_4_23_14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:32 URL: http://www.lee.ma.us/sites/leema/files/uploads/stm_fy2015_5_14_2015_fy16_class_and_comp_with_1.5_adjustment.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:33 URL: http://www.lee.ma.us/sites/leema/files/uploads/fy_2015_atm_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:34 URL: http://www.lee.ma.us/sites/leema/files/uploads/sign_bylawswithrevisons_rev2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:34 URL: http://www.lee.ma.us/sites/leema/files/uploads/atm_supplemental_information_4_26_14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:35 URL: http://www.lee.ma.us/sites/leema/files/uploads/estimated_tax_rate_and_levy_limit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:36 URL: http://www.lee.ma.us/sites/leema/files/uploads/comparison_of_program_spending.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:37 URL: http://www.lee.ma.us/sites/leema/files/uploads/listing_of_articles_and_funding_sources.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:38 URL: http://www.lee.ma.us/sites/leema/files/uploads/fy2013_special_town_meeting_warrant_-_scanned.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:39 URL: http://www.lee.ma.us/sites/leema/files/uploads/stm_supplemental_information_memo.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:39 URL: http://www.lee.ma.us/sites/leema/files/uploads/classification_and_compensation_plan_fy_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:40 URL: http://www.lee.ma.us/sites/leema/files/uploads/fy2014_annual_town_meeting_warrant-scanned.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:41 URL: http://www.lee.ma.us/sites/leema/files/uploads/atm_supplemental_information4.24.13_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:42 URL: http://www.lee.ma.us/sites/leema/files/uploads/estimated_tax_impact_levy_limit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:43 URL: http://www.lee.ma.us/sites/leema/files/uploads/estimated_averagle_single_family_home_tax_impact.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:44 URL: http://www.lee.ma.us/sites/leema/files/uploads/comparison_of_program_spending_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:45 URL: http://www.lee.ma.us/sites/leema/files/uploads/listing_of_articles_and_funding_sources_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:45 URL: http://www.lee.ma.us/sites/leema/files/uploads/chp_revised_request_4.23.13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:46 URL: http://www.lee.ma.us/sites/leema/files/uploads/warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:47 URL: http://www.lee.ma.us/sites/leema/files/uploads/supplemental_information.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:48 URL: http://www.lee.ma.us/sites/leema/files/uploads/may_10_2012_stm_warrant_4.25.12.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:49 URL: http://www.lee.ma.us/sites/leema/files/uploads/supplemental_information_memo_4.25.12.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:50 URL: http://www.lee.ma.us/sites/leema/files/uploads/fy13_classification_and_compensation_plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:51 URL: http://www.lee.ma.us/sites/leema/files/uploads/classification_and_compensation_plan_explanation.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:52 URL: http://www.lee.ma.us/sites/leema/files/uploads/may_10_2012_atm_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:52 URL: http://www.lee.ma.us/sites/leema/files/uploads/atm_supplemental_information.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:53 URL: http://www.lee.ma.us/sites/leema/files/uploads/summary_of_warrant_and_funding_sources.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:54 URL: http://www.lee.ma.us/sites/leema/files/uploads/finance_committee_budget_impact.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:55 URL: http://www.lee.ma.us/sites/leema/files/uploads/comparison_of_program_spending_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:56 URL: http://www.lee.ma.us/sites/leema/files/uploads/solar_photovoltaic_project_presentation_april_19_2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:57 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee_farm_meridian_drawing.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:58 URL: http://www.lee.ma.us/sites/leema/files/uploads/pv-1c_-_lee_wastewater_treatment-layout1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:59 URL: http://www.lee.ma.us/sites/leema/files/uploads/pv-1a_-_lee_landfill-layout1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:00 URL: http://www.lee.ma.us/sites/leema/files/uploads/fire_truck_inventory_and_repalcement_funding_plans.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:00 URL: http://www.lee.ma.us/sites/leema/files/uploads/college_internship_program_proposal_plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:01 URL: http://www.lee.ma.us/sites/leema/files/uploads/roll-off_container_zoning_bylay_amendment.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:02 URL: http://www.lee.ma.us/sites/leema/files/uploads/zoning_bylaw_revision_february_2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:03 URL: http://www.lee.ma.us/sites/leema/files/uploads/opli_sign_amendment.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:04 URL: http://www.lee.ma.us/sites/leema/files/uploads/planned_commercial_village_district_amendment.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:04 URL: http://www.lee.ma.us/sites/leema/files/uploads/information_sheet-_town_of_lee_zoning_bylaw_recodification.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:05 URL: http://www.lee.ma.us/sites/leema/files/uploads/babyinformation_distribution.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:06 URL: http://www.lee.ma.us/sites/leema/files/uploads/annual_town_meeting_warrant_april_10_2012_draft.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:07 URL: http://www.lee.ma.us/sites/leema/files/uploads/zoning_re-write_summary_of_changes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:08 URL: http://www.lee.ma.us/sites/leema/files/uploads/zoning_bylaw_revision_february_2012_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:09 URL: http://www.lee.ma.us/sites/leema/files/uploads/roll-off_container_bylaw.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:09 URL: http://www.lee.ma.us/sites/leema/files/uploads/opli_sign_amendment_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:10 URL: http://www.lee.ma.us/sites/leema/files/uploads/planned_commercial_village_district_amendment_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:11 URL:http://www.lee.ma.us/town-clerk/webforms/business-certificates [57674] -> "../data/townSites2/Lee/www.lee.ma.us/node/11403" [1]
+2017-01-02 00:36:13 URL:http://www.lee.ma.us/print/11403 [6094] -> "../data/townSites2/Lee/www.lee.ma.us/print/11403" [1]
+2017-01-02 00:36:13 URL: http://www.lee.ma.us/sites/leema/files/uploads/business_certificates_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:14 URL: http://www.lee.ma.us/sites/leema/files/uploads/what_is_a_doing_business_as_certificate_and_who_must_file.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:15 URL:http://www.lee.ma.us/treasurercollector [62112] -> "../data/townSites2/Lee/www.lee.ma.us/node/51" [1]
+2017-01-02 00:36:16 URL:http://www.lee.ma.us/print/51 [7498] -> "../data/townSites2/Lee/www.lee.ma.us/print/51" [1]
+2017-01-02 00:36:17 URL: http://www.lee.ma.us/node/51/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:18 URL:http://www.lee.ma.us/node/51/faq [55052] -> "../data/townSites2/Lee/www.lee.ma.us/node/51/faq" [1]
+2017-01-02 00:36:19 URL:http://www.lee.ma.us/treasurercollector/faq/my-mortgage-company-or-bank-pays-my-real-estate-taxes-why-did-i-receive-tax [58545] -> "../data/townSites2/Lee/www.lee.ma.us/treasurercollector/faq/my-mortgage-company-or-bank-pays-my-real-estate-taxes-why-did-i-receive-tax" [1]
+2017-01-02 00:36:21 URL:http://www.lee.ma.us/treasurercollector/faq/i-bought-house-why-previous-owners-name-still-tax-bill [58934] -> "../data/townSites2/Lee/www.lee.ma.us/treasurercollector/faq/i-bought-house-why-previous-owners-name-still-tax-bill" [1]
+2017-01-02 00:36:22 URL:http://www.lee.ma.us/treasurercollector/faq/what-excise-tax [58535] -> "../data/townSites2/Lee/www.lee.ma.us/treasurercollector/faq/what-excise-tax" [1]
+2017-01-02 00:36:24 URL:http://www.lee.ma.us/treasurercollector/faq/my-license-or-registration-marked-registry [58125] -> "../data/townSites2/Lee/www.lee.ma.us/treasurercollector/faq/my-license-or-registration-marked-registry" [1]
+2017-01-02 00:36:26 URL:http://www.lee.ma.us/treasurercollector/faq/where-do-i-get-tag-sale-permit [57650] -> "../data/townSites2/Lee/www.lee.ma.us/treasurercollector/faq/where-do-i-get-tag-sale-permit" [1]
+2017-01-02 00:36:27 URL:http://www.lee.ma.us/treasurercollector/pages/excise-tax-information [58786] -> "../data/townSites2/Lee/www.lee.ma.us/node/4621" [1]
+2017-01-02 00:36:28 URL:http://www.lee.ma.us/print/4621 [7154] -> "../data/townSites2/Lee/www.lee.ma.us/print/4621" [1]
+2017-01-02 00:36:29 URL:http://www.lee.ma.us/treasurercollector/pages/online-bill-pay [59619] -> "../data/townSites2/Lee/www.lee.ma.us/node/1321" [1]
+2017-01-02 00:36:30 URL:http://www.lee.ma.us/print/1321 [7688] -> "../data/townSites2/Lee/www.lee.ma.us/print/1321" [1]
+2017-01-02 00:36:31 URL:http://www.lee.ma.us/treasurercollector/pages/payments-and-due-dates-water-and-sewer-bills [59466] -> "../data/townSites2/Lee/www.lee.ma.us/node/4626" [1]
+2017-01-02 00:36:32 URL:http://www.lee.ma.us/print/4626 [7831] -> "../data/townSites2/Lee/www.lee.ma.us/print/4626" [1]
+2017-01-02 00:36:33 URL:http://www.lee.ma.us/treasurercollector/pages/payments-and-due-dates-real-estate-and-personal-property-taxes [60502] -> "../data/townSites2/Lee/www.lee.ma.us/node/1371" [1]
+2017-01-02 00:36:34 URL:http://www.lee.ma.us/print/1371 [8816] -> "../data/townSites2/Lee/www.lee.ma.us/print/1371" [1]
+2017-01-02 00:36:35 URL:http://www.lee.ma.us/treasurercollector/pages/request-tax-payment-information [57982] -> "../data/townSites2/Lee/www.lee.ma.us/node/1366" [1]
+2017-01-02 00:36:36 URL:http://www.lee.ma.us/print/1366 [6252] -> "../data/townSites2/Lee/www.lee.ma.us/print/1366" [1]
+2017-01-02 00:36:38 URL:http://www.lee.ma.us/treasurercollector/files/information-request-taxes-paid [58576] -> "../data/townSites2/Lee/www.lee.ma.us/treasurercollector/files/information-request" [1]
+2017-01-02 00:36:39 URL:http://www.lee.ma.us/treasurercollector/pages/town-lee-financial-disclosures [57905] -> "../data/townSites2/Lee/www.lee.ma.us/node/1391" [1]
+2017-01-02 00:36:40 URL:http://www.lee.ma.us/print/1391 [6305] -> "../data/townSites2/Lee/www.lee.ma.us/print/1391" [1]
+2017-01-02 00:36:41 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee_cdfinancial_disclosurefy_15updated.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:42 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee_financial_statement_fy10.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:43 URL: http://www.lee.ma.us/sites/leema/files/uploads/annual_disclosure_2009.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:44 URL:http://www.lee.ma.us/tri-town-health-department [88024] -> "../data/townSites2/Lee/www.lee.ma.us/node/66" [1]
+2017-01-02 00:36:45 URL:http://www.lee.ma.us/print/66 [11054] -> "../data/townSites2/Lee/www.lee.ma.us/print/66" [1]
+2017-01-02 00:36:47 URL:http://www.lee.ma.us/user/81/contact [56377] -> "../data/townSites2/Lee/www.lee.ma.us/user/81/contact" [1]
+2017-01-02 00:36:49 URL:http://www.lee.ma.us/user/86/contact [56385] -> "../data/townSites2/Lee/www.lee.ma.us/user/86/contact" [1]
+2017-01-02 00:36:51 URL:http://www.lee.ma.us/user/91/contact [56371] -> "../data/townSites2/Lee/www.lee.ma.us/user/91/contact" [1]
+2017-01-02 00:36:53 URL:http://www.lee.ma.us/user/106/contact [56384] -> "../data/townSites2/Lee/www.lee.ma.us/user/106/contact" [1]
+2017-01-02 00:36:55 URL: http://www.lee.ma.us/node/66/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:57 URL:http://www.lee.ma.us/node/66/faq [60166] -> "../data/townSites2/Lee/www.lee.ma.us/node/66/faq" [1]
+2017-01-02 00:36:58 URL:http://www.lee.ma.us/tri-town-health-department/faq/what-food-borne-illness-and-what-can-i-do-if-i-am-diagnosed-one [60899] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/faq/what-food-borne-illness-and-what-can-i-do-if-i-am-diagnosed-one" [1]
+2017-01-02 00:37:00 URL:http://www.lee.ma.us/tri-town-health-department/faq/how-often-does-health-department-inspect-restaurants [60347] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/faq/how-often-does-health-department-inspect-restaurants" [1]
+2017-01-02 00:37:01 URL:http://www.lee.ma.us/tri-town-health-department/faq/are-food-service-workers-required-wear-gloves [60278] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/faq/are-food-service-workers-required-wear-gloves" [1]
+2017-01-02 00:37:03 URL:http://www.lee.ma.us/tri-town-health-department/faq/what-are-health-department-permitting-requirements-food-service-and [60823] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/faq/what-are-health-department-permitting-requirements-food-service-and" [1]
+2017-01-02 00:37:05 URL:http://www.lee.ma.us/tri-town-health-department/faq/what-can-i-do-avoid-bedbugs [60503] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/faq/what-can-i-do-avoid-bedbugs" [1]
+2017-01-02 00:37:06 URL:http://www.lee.ma.us/tri-town-health-department/news/please-note-effective-102116-we-will-no-longer-be-accepting-any [54764] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/news/please-note-effective-102116-we-will-no-longer-be-accepting-any" [1]
+2017-01-02 00:37:07 URL:http://www.lee.ma.us/tri-town-health-department/news/new-tri-town-health-department-tobacco-retailer-training-link [60094] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/news/new-tri-town-health-department-tobacco-retailer-training-link" [1]
+2017-01-02 00:37:09 URL:http://www.lee.ma.us/tri-town-health-department/news/january-2-2016-you-must-be-21-years-old-purchase-tobacco-lee-lenox [60779] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/news/january-2-2016-you-must-be-21-years-old-purchase-tobacco-lee-lenox" [1]
+2017-01-02 00:37:10 URL:http://www.lee.ma.us/node/66/news [58728] -> "../data/townSites2/Lee/www.lee.ma.us/node/66/news" [1]
+2017-01-02 00:37:12 URL:http://www.lee.ma.us/node/66/events/month/2017-01 [76276] -> "../data/townSites2/Lee/www.lee.ma.us/node/66/events/month/2017-01" [1]
+2017-01-02 00:37:14 URL:http://www.lee.ma.us/node/66/agenda [56079] -> "../data/townSites2/Lee/www.lee.ma.us/node/66/agenda" [1]
+2017-01-02 00:37:15 URL:http://www.lee.ma.us/tri-town-health-department/agenda/december-12-2016-ttboh-meeting [60504] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/agenda/december-12-2016-ttboh-meeting" [1]
+2017-01-02 00:37:17 URL:http://www.lee.ma.us/tri-town-health-department/agenda/lee-board-health-november-16-2016 [54900] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/agenda/lee-board-health-november-16-2016" [1]
+2017-01-02 00:37:18 URL:http://www.lee.ma.us/tri-town-health-department/agenda/lenox-board-health-public-hearing [60310] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/agenda/lenox-board-health-public-hearing" [1]
+2017-01-02 00:37:19 URL:http://www.lee.ma.us/tri-town-health-department/agenda/december-8-2015-agenda [54839] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/agenda/december-8-2015-agenda" [1]
+2017-01-02 00:37:21 URL:http://www.lee.ma.us/tri-town-health-department/agenda/october-19-2015-tri-town-boards-health [54387] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/agenda/october-19-2015-tri-town-boards-health" [1]
+2017-01-02 00:37:22 URL:http://www.lee.ma.us/tri-town-health-department/pages/fee-schedule [59957] -> "../data/townSites2/Lee/www.lee.ma.us/node/2156" [1]
+2017-01-02 00:37:23 URL:http://www.lee.ma.us/print/2156 [5994] -> "../data/townSites2/Lee/www.lee.ma.us/print/2156" [1]
+2017-01-02 00:37:24 URL: http://www.lee.ma.us/sites/leema/files/uploads/1.15.14_final_fee_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:37:25 URL:http://www.lee.ma.us/animal-control-0 [59587] -> "../data/townSites2/Lee/www.lee.ma.us/node/4691" [1]
+2017-01-02 00:37:26 URL:http://www.lee.ma.us/print/4691 [8737] -> "../data/townSites2/Lee/www.lee.ma.us/print/4691" [1]
+2017-01-02 00:37:27 URL: http://www.lee.ma.us/node/4691/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:37:28 URL:http://www.lee.ma.us/tri-town-health-department/pages/be-well-berkshires [62578] -> "../data/townSites2/Lee/www.lee.ma.us/node/2551" [1]
+2017-01-02 00:37:29 URL:http://www.lee.ma.us/print/2551 [8543] -> "../data/townSites2/Lee/www.lee.ma.us/print/2551" [1]
+2017-01-02 00:37:30 URL:http://www.lee.ma.us/tri-town-health-department/pages/beach-sampling-program [60778] -> "../data/townSites2/Lee/www.lee.ma.us/node/5196" [1]
+2017-01-02 00:37:31 URL:http://www.lee.ma.us/print/5196 [6660] -> "../data/townSites2/Lee/www.lee.ma.us/print/5196" [1]
+2017-01-02 00:37:32 URL:http://www.lee.ma.us/tri-town-health-department/pages/boards-health [61091] -> "../data/townSites2/Lee/www.lee.ma.us/node/2526" [1]
+2017-01-02 00:37:33 URL:http://www.lee.ma.us/print/2526 [6864] -> "../data/townSites2/Lee/www.lee.ma.us/print/2526" [1]
+2017-01-02 00:37:35 URL:http://www.lee.ma.us/user/login?destination=node/5251 [53727] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/files/ttboh-laws" [1]
+2017-01-02 00:37:38 URL:http://www.lee.ma.us/tri-town-health-department/webforms/contact-us [65773/65773] -> "../data/townSites2/Lee/www.lee.ma.us/node/2436" [1]
+2017-01-02 00:37:39 URL:http://www.lee.ma.us/print/2436 [12192/12192] -> "../data/townSites2/Lee/www.lee.ma.us/print/2436" [1]
+2017-01-02 00:37:41 URL:http://www.lee.ma.us/tri-town-health-department/pages/food-service-inspection-program [64411] -> "../data/townSites2/Lee/www.lee.ma.us/node/5146" [1]
+2017-01-02 00:37:42 URL:http://www.lee.ma.us/print/5146 [10358] -> "../data/townSites2/Lee/www.lee.ma.us/print/5146" [1]
+2017-01-02 00:37:44 URL:http://www.lee.ma.us/user/login?destination=node/5166 [53727] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/files/farmers-market-policies" [1]
+2017-01-02 00:37:45 URL:http://www.lee.ma.us/tri-town-health-department/pages/inspectional-services [60417] -> "../data/townSites2/Lee/www.lee.ma.us/node/2441" [1]
+2017-01-02 00:37:46 URL:http://www.lee.ma.us/print/2441 [6448] -> "../data/townSites2/Lee/www.lee.ma.us/print/2441" [1]
+2017-01-02 00:37:47 URL:http://www.lee.ma.us/tri-town-health-department/pages/allergy-awareness [65135] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/pages/allergy-awareness" [1]
+2017-01-02 00:37:49 URL:http://www.lee.ma.us/tri-town-health-department/pages/food-service-sanitation [66153] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/pages/food-service-sanitation" [1]
+2017-01-02 00:37:50 URL:http://www.lee.ma.us/tri-town-health-department/pages/semi-public-pool-program [61976] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/pages/semi-public-pool-program" [1]
+2017-01-02 00:37:51 URL:http://www.lee.ma.us/tri-town-health-department/pages/job-opportunities [60062] -> "../data/townSites2/Lee/www.lee.ma.us/node/2366" [1]
+2017-01-02 00:37:52 URL:http://www.lee.ma.us/print/2366 [6074] -> "../data/townSites2/Lee/www.lee.ma.us/print/2366" [1]
+2017-01-02 00:37:55 URL:http://www.lee.ma.us/user/login?destination=node/5226 [53727] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/files/internship-job-description" [1]
+2017-01-02 00:37:56 URL:http://www.lee.ma.us/tri-town-health-department/pages/lyme-disease [60257] -> "../data/townSites2/Lee/www.lee.ma.us/node/6071" [1]
+2017-01-02 00:37:57 URL:http://www.lee.ma.us/print/6071 [6280] -> "../data/townSites2/Lee/www.lee.ma.us/print/6071" [1]
+2017-01-02 00:37:58 URL:http://www.lee.ma.us/tri-town-health-department/pages/online-permitting [64013] -> "../data/townSites2/Lee/www.lee.ma.us/node/2166" [1]
+2017-01-02 00:37:59 URL:http://www.lee.ma.us/print/2166 [10014] -> "../data/townSites2/Lee/www.lee.ma.us/print/2166" [1]
+2017-01-02 00:38:00 URL: http://www.lee.ma.us/sites/leema/files/uploads/updated_on_line_permitting_cover.instructions.quicktips.wi-fi.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:01 URL: http://www.lee.ma.us/sites/leema/files/uploads/allergen-awareness-vendors_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:02 URL:http://www.lee.ma.us/tri-town-health-department/pages/porchlight-vna-homecare [62338] -> "../data/townSites2/Lee/www.lee.ma.us/node/2456" [1]
+2017-01-02 00:38:03 URL:http://www.lee.ma.us/print/2456 [8206] -> "../data/townSites2/Lee/www.lee.ma.us/print/2456" [1]
+2017-01-02 00:38:04 URL:http://www.lee.ma.us/tri-town-health-department/pages/prevention-and-wellness-trust-fund [62524] -> "../data/townSites2/Lee/www.lee.ma.us/node/5176" [1]
+2017-01-02 00:38:05 URL:http://www.lee.ma.us/print/5176 [8604] -> "../data/townSites2/Lee/www.lee.ma.us/print/5176" [1]
+2017-01-02 00:38:06 URL:http://www.lee.ma.us/tri-town-health-department/pages/septic-system-t-5-and-private-well-information [62509] -> "../data/townSites2/Lee/www.lee.ma.us/node/5201" [1]
+2017-01-02 00:38:07 URL:http://www.lee.ma.us/print/5201 [8442] -> "../data/townSites2/Lee/www.lee.ma.us/print/5201" [1]
+2017-01-02 00:38:08 URL: http://www.lee.ma.us/sites/leema/files/uploads/well_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:08 URL: http://www.lee.ma.us/sites/leema/files/uploads/septic_title_5_witnessing_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:08 URL: http://www.lee.ma.us/sites/leema/files/uploads/septage_hauler_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:09 URL: http://www.lee.ma.us/sites/leema/files/uploads/disposal_works_construction_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:10 URL: http://www.lee.ma.us/sites/leema/files/uploads/septic_perc_test_witnessing_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:10 URL: http://www.lee.ma.us/sites/leema/files/uploads/disposal_works_installer_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:11 URL:http://www.lee.ma.us/tri-town-health-department/pages/staff-profiles [63571] -> "../data/townSites2/Lee/www.lee.ma.us/node/2351" [1]
+2017-01-02 00:38:12 URL:http://www.lee.ma.us/print/2351 [9524] -> "../data/townSites2/Lee/www.lee.ma.us/print/2351" [1]
+2017-01-02 00:38:13 URL:http://www.lee.ma.us/tri-town-health-department/pages/thin-filmed-plastic-bag-and-polystyrene-initiative [62409] -> "../data/townSites2/Lee/www.lee.ma.us/node/7241" [1]
+2017-01-02 00:38:14 URL:http://www.lee.ma.us/print/7241 [8324] -> "../data/townSites2/Lee/www.lee.ma.us/print/7241" [1]
+2017-01-02 00:38:15 URL: http://www.lee.ma.us/sites/leema/files/uploads/list_of_alternatives.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:16 URL: http://www.lee.ma.us/sites/leema/files/uploads/transition_tips_for_establishments_-_12-19-16_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:16 URL: http://www.lee.ma.us/sites/leema/files/uploads/warrant_article_-_polystyrene_-_without_footnotes_-_edited_april_24.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:17 URL: http://www.lee.ma.us/sites/leema/files/uploads/warrant_article_-_thin-film_bags_-_without_foodnotes_-_edited_april_24.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:18 URL: http://www.lee.ma.us/sites/leema/files/uploads/draft_implementation_and_public_eduation_plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:19 URL: http://www.lee.ma.us/sites/leema/files/uploads/polystyrene-plastic_bag_regulatory_concepts_survey_-_february_25_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:20 URL: http://www.lee.ma.us/sites/leema/files/uploads/final_plastic_bag_regulations_town_of_lenox_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:21 URL:http://www.lee.ma.us/tri-town-health-department/pages/tobacco [61908] -> "../data/townSites2/Lee/www.lee.ma.us/node/2476" [1]
+2017-01-02 00:38:22 URL:http://www.lee.ma.us/print/2476 [7879] -> "../data/townSites2/Lee/www.lee.ma.us/print/2476" [1]
+2017-01-02 00:38:25 URL:http://www.lee.ma.us/user/login?destination=node/6011 [53727] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/files/approved-youth-access-regualtions" [1]
+2017-01-02 00:38:26 URL:http://www.lee.ma.us/tri-town-health-department/pages/tobacco-retailer-certification-program [62498] -> "../data/townSites2/Lee/www.lee.ma.us/tri-town-health-department/pages/tobacco-retailer-certification-program" [1]
+2017-01-02 00:38:27 URL:http://www.lee.ma.us/tri-town-health-department/pages/training [61050] -> "../data/townSites2/Lee/www.lee.ma.us/node/2501" [1]
+2017-01-02 00:38:28 URL:http://www.lee.ma.us/print/2501 [6866] -> "../data/townSites2/Lee/www.lee.ma.us/print/2501" [1]
+2017-01-02 00:38:30 URL:http://www.lee.ma.us/tri-town-health-department/pages/tri-town-board-health-regulations [60840] -> "../data/townSites2/Lee/www.lee.ma.us/node/5231" [1]
+2017-01-02 00:38:31 URL:http://www.lee.ma.us/print/5231 [6860] -> "../data/townSites2/Lee/www.lee.ma.us/print/5231" [1]
+2017-01-02 00:38:32 URL:http://www.lee.ma.us/tri-town-health-department/slideshows/tri-town-health-community [62193] -> "../data/townSites2/Lee/www.lee.ma.us/node/5171" [1]
+2017-01-02 00:38:33 URL:http://www.lee.ma.us/print/5171 [8390] -> "../data/townSites2/Lee/www.lee.ma.us/print/5171" [1]
+2017-01-02 00:38:35 URL:http://www.lee.ma.us/veterans-affairs [62064] -> "../data/townSites2/Lee/www.lee.ma.us/node/46" [1]
+2017-01-02 00:38:35 URL:http://www.lee.ma.us/print/46 [7831] -> "../data/townSites2/Lee/www.lee.ma.us/print/46" [1]
+2017-01-02 00:38:36 URL: http://www.lee.ma.us/node/46/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:38 URL:http://www.lee.ma.us/node/46/faq [55202] -> "../data/townSites2/Lee/www.lee.ma.us/node/46/faq" [1]
+2017-01-02 00:38:39 URL:http://www.lee.ma.us/veterans-affairs/faq/where-does-money-come-veterans-services [56479] -> "../data/townSites2/Lee/www.lee.ma.us/veterans-affairs/faq/where-does-money-come-veterans-services" [1]
+2017-01-02 00:38:41 URL:http://www.lee.ma.us/veterans-affairs/faq/where-may-i-file-application [56614] -> "../data/townSites2/Lee/www.lee.ma.us/veterans-affairs/faq/where-may-i-file-application" [1]
+2017-01-02 00:38:42 URL:http://www.lee.ma.us/veterans-affairs/faq/what-does-it-take-qualify-benefits [56587] -> "../data/townSites2/Lee/www.lee.ma.us/veterans-affairs/faq/what-does-it-take-qualify-benefits" [1]
+2017-01-02 00:38:45 URL:http://www.lee.ma.us/veterans-affairs/faq/where-can-i-get-copy-my-discharge-papers [56721] -> "../data/townSites2/Lee/www.lee.ma.us/veterans-affairs/faq/where-can-i-get-copy-my-discharge-papers" [1]
+2017-01-02 00:38:48 URL:http://www.lee.ma.us/veterans-affairs/faq/who-may-apply [56143] -> "../data/townSites2/Lee/www.lee.ma.us/veterans-affairs/faq/who-may-apply" [1]
+2017-01-02 00:38:50 URL:http://www.lee.ma.us/node/46/blog [52354] -> "../data/townSites2/Lee/www.lee.ma.us/node/46/blog" [1]
+2017-01-02 00:38:51 URL:http://www.lee.ma.us/veterans-affairs/blog/test [56144] -> "../data/townSites2/Lee/www.lee.ma.us/veterans-affairs/blog/test" [1]
+2017-01-02 00:38:53 URL:http://www.lee.ma.us/veterans-affairs/pages/how-apply-benefits [58168] -> "../data/townSites2/Lee/www.lee.ma.us/node/2566" [1]
+2017-01-02 00:38:54 URL:http://www.lee.ma.us/print/2566 [7665] -> "../data/townSites2/Lee/www.lee.ma.us/print/2566" [1]
+2017-01-02 00:38:56 URL:http://www.lee.ma.us/town-clerk/pages/vital-records [57746] -> "../data/townSites2/Lee/www.lee.ma.us/node/15" [1]
+2017-01-02 00:38:57 URL:http://www.lee.ma.us/print/15 [6702] -> "../data/townSites2/Lee/www.lee.ma.us/print/15" [1]
+2017-01-02 00:38:59 URL:http://www.lee.ma.us/user/196/contact [56384] -> "../data/townSites2/Lee/www.lee.ma.us/user/196/contact" [1]
+2017-01-02 00:39:01 URL:http://www.lee.ma.us/user/5693/contact [56413] -> "../data/townSites2/Lee/www.lee.ma.us/user/5693/contact" [1]
+2017-01-02 00:39:03 URL:http://www.lee.ma.us/school-committee [56251] -> "../data/townSites2/Lee/www.lee.ma.us/school-committee" [1]
+2017-01-02 00:39:04 URL:http://www.lee.ma.us/board-assessors [60130] -> "../data/townSites2/Lee/www.lee.ma.us/node/181" [1]
+2017-01-02 00:39:05 URL:http://www.lee.ma.us/print/181 [7712] -> "../data/townSites2/Lee/www.lee.ma.us/print/181" [1]
+2017-01-02 00:39:06 URL: http://www.lee.ma.us/node/181/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:08 URL:http://www.lee.ma.us/board-assessors/news/cyclical-re-inspections-town-lee [57883] -> "../data/townSites2/Lee/www.lee.ma.us/board-assessors/news/cyclical-re-inspections-town-lee" [1]
+2017-01-02 00:39:10 URL:http://www.lee.ma.us/board-assessors/pages/public-disclosures [57234] -> "../data/townSites2/Lee/www.lee.ma.us/node/2646" [1]
+2017-01-02 00:39:11 URL:http://www.lee.ma.us/print/2646 [6193] -> "../data/townSites2/Lee/www.lee.ma.us/print/2646" [1]
+2017-01-02 00:39:13 URL: http://www.lee.ma.us/sites/leema/files/uploads/publicdisclosure.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:15 URL: http://www.lee.ma.us/sites/leema/files/uploads/leeassessnarrative_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:16 URL: http://www.lee.ma.us/sites/leema/files/uploads/fy2015publicdisclosure.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:18 URL:http://www.lee.ma.us/board-assessors/pages/useful-links [57209] -> "../data/townSites2/Lee/www.lee.ma.us/node/351" [1]
+2017-01-02 00:39:19 URL:http://www.lee.ma.us/print/351 [6124] -> "../data/townSites2/Lee/www.lee.ma.us/print/351" [1]
+2017-01-02 00:39:21 URL:http://www.lee.ma.us/board-public-works [67458] -> "../data/townSites2/Lee/www.lee.ma.us/node/276" [1]
+2017-01-02 00:39:22 URL:http://www.lee.ma.us/print/276 [7975] -> "../data/townSites2/Lee/www.lee.ma.us/print/276" [1]
+2017-01-02 00:39:23 URL: http://www.lee.ma.us/node/276/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:25 URL:http://www.lee.ma.us/node/276/agenda [51772] -> "../data/townSites2/Lee/www.lee.ma.us/node/276/agenda" [1]
+2017-01-02 00:39:27 URL:http://www.lee.ma.us/board-public-works/agenda/meeting-agenda-19 [56526] -> "../data/townSites2/Lee/www.lee.ma.us/board-public-works/agenda/meeting-agenda-19" [1]
+2017-01-02 00:39:29 URL:http://www.lee.ma.us/board-public-works/agenda/meeting-agenda-18 [56523] -> "../data/townSites2/Lee/www.lee.ma.us/board-public-works/agenda/meeting-agenda-18" [1]
+2017-01-02 00:39:33 URL:http://www.lee.ma.us/board-public-works/agenda/meeting-agenda-17 [56525] -> "../data/townSites2/Lee/www.lee.ma.us/board-public-works/agenda/meeting-agenda-17" [1]
+2017-01-02 00:39:35 URL:http://www.lee.ma.us/board-public-works/agenda/meeting-agenda-16 [56528] -> "../data/townSites2/Lee/www.lee.ma.us/board-public-works/agenda/meeting-agenda-16" [1]
+2017-01-02 00:39:37 URL:http://www.lee.ma.us/board-public-works/agenda/meeting-agenda-15 [56572] -> "../data/townSites2/Lee/www.lee.ma.us/board-public-works/agenda/meeting-agenda-15" [1]
+2017-01-02 00:39:38 URL:http://www.lee.ma.us/node/276/minutes [51985] -> "../data/townSites2/Lee/www.lee.ma.us/node/276/minutes" [1]
+2017-01-02 00:39:39 URL: http://www.lee.ma.us/sites/leema/files/minutes/dpw_minutes_11_8_2016.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:40 URL: http://www.lee.ma.us/sites/leema/files/minutes/dpw_minutes_10_25_2016.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:41 URL: http://www.lee.ma.us/sites/leema/files/minutes/dpw_minutes_10_11_2016.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:42 URL: http://www.lee.ma.us/sites/leema/files/minutes/dpw_minutes_09_27_2016.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:43 URL: http://www.lee.ma.us/sites/leema/files/minutes/dpw_minutes_09_13_2016.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:45 URL:http://www.lee.ma.us/board-selectmen [67284] -> "../data/townSites2/Lee/www.lee.ma.us/node/151" [1]
+2017-01-02 00:39:46 URL:http://www.lee.ma.us/print/151 [9039] -> "../data/townSites2/Lee/www.lee.ma.us/print/151" [1]
+2017-01-02 00:39:48 URL:http://www.lee.ma.us/user/226/contact [56386] -> "../data/townSites2/Lee/www.lee.ma.us/user/226/contact" [1]
+2017-01-02 00:39:49 URL: http://www.lee.ma.us/node/151/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:51 URL:http://www.lee.ma.us/node/151/minutes [51970] -> "../data/townSites2/Lee/www.lee.ma.us/node/151/minutes" [1]
+2017-01-02 00:39:52 URL: http://www.lee.ma.us/sites/leema/files/minutes/11-15-16_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:53 URL: http://www.lee.ma.us/sites/leema/files/minutes/11-1-16_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:54 URL: http://www.lee.ma.us/sites/leema/files/minutes/10-27-16_minuts.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:55 URL: http://www.lee.ma.us/sites/leema/files/minutes/11-18-16_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:55 URL: http://www.lee.ma.us/sites/leema/files/minutes/10-4-16_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:57 URL:http://www.lee.ma.us/conservation-commission [64171] -> "../data/townSites2/Lee/www.lee.ma.us/node/161" [1]
+2017-01-02 00:39:58 URL:http://www.lee.ma.us/print/161 [6562] -> "../data/townSites2/Lee/www.lee.ma.us/print/161" [1]
+2017-01-02 00:40:00 URL: http://www.lee.ma.us/node/161/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:01 URL:http://www.lee.ma.us/node/161/minutes [53770] -> "../data/townSites2/Lee/www.lee.ma.us/node/161/minutes" [1]
+2017-01-02 00:40:02 URL: http://www.lee.ma.us/sites/leema/files/minutes/2016_10_19_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:03 URL: http://www.lee.ma.us/sites/leema/files/minutes/2016_10_05_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:05 URL: http://www.lee.ma.us/sites/leema/files/minutes/2016_09_21_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:06 URL: http://www.lee.ma.us/sites/leema/files/minutes/2016_09_07_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:07 URL: http://www.lee.ma.us/sites/leema/files/minutes/2016_08_17_minutes_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:09 URL:http://www.lee.ma.us/conservation-commission/pages/laurel-lake-study [58073] -> "../data/townSites2/Lee/www.lee.ma.us/node/2966" [1]
+2017-01-02 00:40:10 URL:http://www.lee.ma.us/print/2966 [8034] -> "../data/townSites2/Lee/www.lee.ma.us/print/2966" [1]
+2017-01-02 00:40:11 URL: http://www.lee.ma.us/sites/leema/files/uploads/laurel.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:12 URL: http://www.lee.ma.us/sites/leema/files/uploads/table1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:13 URL: http://www.lee.ma.us/sites/leema/files/uploads/table2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:14 URL: http://www.lee.ma.us/sites/leema/files/uploads/table_3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:15 URL: http://www.lee.ma.us/sites/leema/files/uploads/table_4pdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:17 URL: http://www.lee.ma.us/sites/leema/files/uploads/table_5.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:18 URL: http://www.lee.ma.us/sites/leema/files/uploads/table_6.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:18 URL: http://www.lee.ma.us/sites/leema/files/uploads/table_7.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:19 URL: http://www.lee.ma.us/sites/leema/files/uploads/table_8.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:20 URL: http://www.lee.ma.us/sites/leema/files/uploads/table_9.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:22 URL: http://www.lee.ma.us/sites/leema/files/uploads/table_10.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:23 URL: http://www.lee.ma.us/sites/leema/files/uploads/table_11.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:24 URL: http://www.lee.ma.us/sites/leema/files/uploads/table_12.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:25 URL: http://www.lee.ma.us/sites/leema/files/uploads/table_13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:26 URL: http://www.lee.ma.us/sites/leema/files/uploads/table_14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:27 URL: http://www.lee.ma.us/sites/leema/files/uploads/table_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:28 URL: http://www.lee.ma.us/sites/leema/files/uploads/table_16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:30 URL: http://www.lee.ma.us/sites/leema/files/uploads/table_17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:31 URL: http://www.lee.ma.us/sites/leema/files/uploads/table_18.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:32 URL: http://www.lee.ma.us/sites/leema/files/uploads/table_19.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:33 URL:http://www.lee.ma.us/conservation-commission/pages/wetlands-protection-act [57588] -> "../data/townSites2/Lee/www.lee.ma.us/node/2961" [1]
+2017-01-02 00:40:34 URL:http://www.lee.ma.us/print/2961 [7363] -> "../data/townSites2/Lee/www.lee.ma.us/print/2961" [1]
+2017-01-02 00:40:35 URL:http://www.lee.ma.us/council-aging-0 [58392] -> "../data/townSites2/Lee/www.lee.ma.us/node/4551" [1]
+2017-01-02 00:40:36 URL:http://www.lee.ma.us/print/4551 [6147] -> "../data/townSites2/Lee/www.lee.ma.us/print/4551" [1]
+2017-01-02 00:40:37 URL: http://www.lee.ma.us/node/4551/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:38 URL:http://www.lee.ma.us/energy-efficiency-advisory-committee [60358] -> "../data/townSites2/Lee/www.lee.ma.us/node/211" [1]
+2017-01-02 00:40:39 URL:http://www.lee.ma.us/print/211 [8145] -> "../data/townSites2/Lee/www.lee.ma.us/print/211" [1]
+2017-01-02 00:40:39 URL: http://www.lee.ma.us/node/211/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:41 URL:http://www.lee.ma.us/library-trustees [60503] -> "../data/townSites2/Lee/www.lee.ma.us/node/256" [1]
+2017-01-02 00:40:42 URL:http://www.lee.ma.us/print/256 [6476] -> "../data/townSites2/Lee/www.lee.ma.us/print/256" [1]
+2017-01-02 00:40:42 URL: http://www.lee.ma.us/node/256/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:43 URL:http://www.lee.ma.us/personnel-board [59407] -> "../data/townSites2/Lee/www.lee.ma.us/node/221" [1]
+2017-01-02 00:40:44 URL:http://www.lee.ma.us/print/221 [6520] -> "../data/townSites2/Lee/www.lee.ma.us/print/221" [1]
+2017-01-02 00:40:45 URL: http://www.lee.ma.us/node/221/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:47 URL:http://www.lee.ma.us/planning-board [65706] -> "../data/townSites2/Lee/www.lee.ma.us/node/166" [1]
+2017-01-02 00:40:48 URL:http://www.lee.ma.us/print/166 [7988] -> "../data/townSites2/Lee/www.lee.ma.us/print/166" [1]
+2017-01-02 00:40:50 URL:http://www.lee.ma.us/user/236/contact [56382] -> "../data/townSites2/Lee/www.lee.ma.us/user/236/contact" [1]
+2017-01-02 00:40:52 URL:http://www.lee.ma.us/user/241/contact [56386] -> "../data/townSites2/Lee/www.lee.ma.us/user/241/contact" [1]
+2017-01-02 00:40:54 URL:http://www.lee.ma.us/user/221/contact [56370] -> "../data/townSites2/Lee/www.lee.ma.us/user/221/contact" [1]
+2017-01-02 00:40:55 URL: http://www.lee.ma.us/node/166/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:57 URL:http://www.lee.ma.us/node/166/minutes [52791] -> "../data/townSites2/Lee/www.lee.ma.us/node/166/minutes" [1]
+2017-01-02 00:40:58 URL: http://www.lee.ma.us/sites/leema/files/minutes/minspb10172016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:59 URL: http://www.lee.ma.us/sites/leema/files/minutes/minspb09122016.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:59 URL: http://www.lee.ma.us/sites/leema/files/minutes/minspb08222016.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:00 URL: http://www.lee.ma.us/sites/leema/files/minutes/minspb08082016.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:01 URL: http://www.lee.ma.us/sites/leema/files/minutes/minspb07252016.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:02 URL:http://www.lee.ma.us/planning-board/pages/forms [58577] -> "../data/townSites2/Lee/www.lee.ma.us/node/3131" [1]
+2017-01-02 00:41:03 URL:http://www.lee.ma.us/print/3131 [7855] -> "../data/townSites2/Lee/www.lee.ma.us/print/3131" [1]
+2017-01-02 00:41:04 URL: http://www.lee.ma.us/sites/leema/files/uploads/planningboardappointmentrequest.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:05 URL: http://www.lee.ma.us/sites/leema/files/uploads/varianceapplication.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:06 URL: http://www.lee.ma.us/sites/leema/files/uploads/specialpermitapplicationpb.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:07 URL: http://www.lee.ma.us/sites/leema/files/uploads/specialpermitapplicationpb.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:08 URL: http://www.lee.ma.us/sites/leema/files/uploads/siteplanreviewapplication.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:09 URL: http://www.lee.ma.us/sites/leema/files/uploads/form_a.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:10 URL: http://www.lee.ma.us/sites/leema/files/uploads/form_a-1_checklist.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:11 URL: http://www.lee.ma.us/sites/leema/files/uploads/form_b.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:12 URL: http://www.lee.ma.us/sites/leema/files/uploads/form_c.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:13 URL: http://www.lee.ma.us/sites/leema/files/uploads/form_d-1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:14 URL: http://www.lee.ma.us/sites/leema/files/uploads/form_d-2_const_cost_estimate.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:14 URL: http://www.lee.ma.us/sites/leema/files/uploads/form_e-1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:16 URL:http://www.lee.ma.us/planning-board/pages/sign-bylaws [56586] -> "../data/townSites2/Lee/www.lee.ma.us/node/3126" [1]
+2017-01-02 00:41:17 URL:http://www.lee.ma.us/print/3126 [5867] -> "../data/townSites2/Lee/www.lee.ma.us/print/3126" [1]
+2017-01-02 00:41:18 URL:http://www.lee.ma.us/planning-board/pages/zoning [59888] -> "../data/townSites2/Lee/www.lee.ma.us/node/3201" [1]
+2017-01-02 00:41:19 URL:http://www.lee.ma.us/print/3201 [9129] -> "../data/townSites2/Lee/www.lee.ma.us/print/3201" [1]
+2017-01-02 00:41:20 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee_zoning-map_oct_2011_rev.jpg 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:21 URL: http://www.lee.ma.us/sites/leema/files/uploads/zoning_bylaws_11_15_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:22 URL: http://www.lee.ma.us/sites/leema/files/uploads/zoning_dimensional_tables.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:23 URL: http://www.lee.ma.us/sites/leema/files/uploads/final_10pt_2-2-04.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:23 URL: http://www.lee.ma.us/sites/leema/files/uploads/final_12pt_2-2-04.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:24 URL: http://www.lee.ma.us/sites/leema/files/uploads/figures_b-1_-_b7.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:26 URL: http://www.lee.ma.us/sites/leema/files/uploads/form_b-1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:27 URL: http://www.lee.ma.us/sites/leema/files/uploads/form_c-1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:28 URL: http://www.lee.ma.us/sites/leema/files/uploads/form_c-2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:29 URL: http://www.lee.ma.us/sites/leema/files/uploads/form_e-2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:30 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee_dpw_sewer_water_specs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:31 URL:http://www.lee.ma.us/recycling-greener-gateway-committee [74319] -> "../data/townSites2/Lee/www.lee.ma.us/node/91" [1]
+2017-01-02 00:41:32 URL:http://www.lee.ma.us/print/91 [18956] -> "../data/townSites2/Lee/www.lee.ma.us/print/91" [1]
+2017-01-02 00:41:33 URL: http://www.lee.ma.us/sites/leema/files/uploads/mission_statement_-_final_-_12-9-16_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:35 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee_rewrap_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:36 URL: http://www.lee.ma.us/sites/leema/files/uploads/cet_rewrap_2016_slide_show_3_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:37 URL: http://www.lee.ma.us/sites/leema/files/uploads/rechargeable-battery-municipality-collection-poster.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:38 URL: http://www.lee.ma.us/sites/leema/files/uploads/practical_alternatives_to_thin-film_bags3_-_12-17-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:39 URL: http://www.lee.ma.us/sites/leema/files/uploads/transition_tips_for_establishments_-_12-19-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:41 URL:http://www.lee.ma.us/recycling-greener-gateway-committee/pages/support-transition-plastic-shopping-bag-and-polystyrene [63827] -> "../data/townSites2/Lee/www.lee.ma.us/recycling-committee/pages/support-transition-plastic-shopping-bag-and-polystyrene-container-bylaws" [1]
+2017-01-02 00:41:42 URL: http://www.lee.ma.us/sites/leema/files/uploads/guide_to_the_bylwas_for_printing3_-_12-15-16_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:43 URL: http://www.lee.ma.us/sites/leema/files/uploads/reusable_bag_photo_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:44 URL: http://www.lee.ma.us/sites/leema/files/uploads/lee_table_to_farm_sticker_-_11-16-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:46 URL:http://www.lee.ma.us/user/4991/contact [56389] -> "../data/townSites2/Lee/www.lee.ma.us/user/4991/contact" [1]
+2017-01-02 00:41:49 URL:http://www.lee.ma.us/user/5603/contact [56381] -> "../data/townSites2/Lee/www.lee.ma.us/user/5603/contact" [1]
+2017-01-02 00:41:51 URL:http://www.lee.ma.us/user/5593/contact [56393] -> "../data/townSites2/Lee/www.lee.ma.us/user/5593/contact" [1]
+2017-01-02 00:41:52 URL: http://www.lee.ma.us/node/91/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:54 URL:http://www.lee.ma.us/recycling-greener-gateway-committee/pages/support-transition-plastic-shopping-bag-and-polystyrene [63827] -> "../data/townSites2/Lee/www.lee.ma.us/node/10293" [1]
+2017-01-02 00:41:55 URL:http://www.lee.ma.us/print/10293 [13421] -> "../data/townSites2/Lee/www.lee.ma.us/print/10293" [1]
+2017-01-02 00:41:56 URL: http://www.lee.ma.us/sites/leema/files/uploads/thin-film_shopping_bag_reduction_bylaw_-_as_amended_on_10-27-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:57 URL: http://www.lee.ma.us/sites/leema/files/uploads/warrant_article_-_polystyrene_-_without_footnotes_-_edited_april_24_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:58 URL: http://www.lee.ma.us/sites/leema/files/uploads/transition_faqs2_-_12-17-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:59 URL: http://www.lee.ma.us/sites/leema/files/uploads/plastics_bylaws_transition_activities_list3_-_10-4-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:00 URL: http://www.lee.ma.us/sites/leema/files/uploads/official_copy_-_approvied_list_of_alternatives_-_11-156-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:01 URL: http://www.lee.ma.us/sites/leema/files/uploads/alternatives_list_summary_-_11-17-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:02 URL: http://www.lee.ma.us/sites/leema/files/uploads/reusable_bag_insert4_-_for_non-lg2c_bags_-_12-16-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:03 URL:http://www.lee.ma.us/recycling-committee/pages/recycling-guidelines-and-useful-tips [58417] -> "../data/townSites2/Lee/www.lee.ma.us/node/10043" [1]
+2017-01-02 00:42:04 URL:http://www.lee.ma.us/print/10043 [7796] -> "../data/townSites2/Lee/www.lee.ma.us/print/10043" [1]
+2017-01-02 00:42:06 URL:http://www.lee.ma.us/recycling-committee/pages/zero-waste-initiatives-and-support [57791] -> "../data/townSites2/Lee/www.lee.ma.us/node/9883" [1]
+2017-01-02 00:42:07 URL:http://www.lee.ma.us/print/9883 [7305] -> "../data/townSites2/Lee/www.lee.ma.us/print/9883" [1]
+2017-01-02 00:42:09 URL:http://www.lee.ma.us/representatives [56569] -> "../data/townSites2/Lee/www.lee.ma.us/node/231" [1]
+2017-01-02 00:42:10 URL:http://www.lee.ma.us/print/231 [5933] -> "../data/townSites2/Lee/www.lee.ma.us/print/231" [1]
+2017-01-02 00:42:11 URL: http://www.lee.ma.us/sites/leema/files/uploads/repslist20160330.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:11 URL: http://www.lee.ma.us/node/231/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:13 URL:http://www.lee.ma.us/traffic-committee [56364] -> "../data/townSites2/Lee/www.lee.ma.us/node/226" [1]
+2017-01-02 00:42:14 URL:http://www.lee.ma.us/print/226 [5733] -> "../data/townSites2/Lee/www.lee.ma.us/print/226" [1]
+2017-01-02 00:42:15 URL: http://www.lee.ma.us/node/226/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:16 URL:http://www.lee.ma.us/veterans-foreign-wars [56393] -> "../data/townSites2/Lee/www.lee.ma.us/node/271" [1]
+2017-01-02 00:42:17 URL:http://www.lee.ma.us/print/271 [5777] -> "../data/townSites2/Lee/www.lee.ma.us/print/271" [1]
+2017-01-02 00:42:17 URL: http://www.lee.ma.us/node/271/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:19 URL:http://www.lee.ma.us/youth-commission [60550] -> "../data/townSites2/Lee/www.lee.ma.us/node/216" [1]
+2017-01-02 00:42:20 URL:http://www.lee.ma.us/print/216 [7092] -> "../data/townSites2/Lee/www.lee.ma.us/print/216" [1]
+2017-01-02 00:42:20 URL: http://www.lee.ma.us/node/216/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:22 URL:http://www.lee.ma.us/youth-commission/pages/helpful-resources [55878] -> "../data/townSites2/Lee/www.lee.ma.us/node/2631" [1]
+2017-01-02 00:42:23 URL:http://www.lee.ma.us/print/2631 [6925] -> "../data/townSites2/Lee/www.lee.ma.us/print/2631" [1]
+2017-01-02 00:42:25 URL:http://www.lee.ma.us/zoning-board-appeals [62993] -> "../data/townSites2/Lee/www.lee.ma.us/node/156" [1]
+2017-01-02 00:42:26 URL:http://www.lee.ma.us/print/156 [8314] -> "../data/townSites2/Lee/www.lee.ma.us/print/156" [1]
+2017-01-02 00:42:28 URL:http://www.lee.ma.us/user/246/contact [56396] -> "../data/townSites2/Lee/www.lee.ma.us/user/246/contact" [1]
+2017-01-02 00:42:30 URL:http://www.lee.ma.us/user/251/contact [56368] -> "../data/townSites2/Lee/www.lee.ma.us/user/251/contact" [1]
+2017-01-02 00:42:32 URL:http://www.lee.ma.us/user/256/contact [56376] -> "../data/townSites2/Lee/www.lee.ma.us/user/256/contact" [1]
+2017-01-02 00:42:34 URL:http://www.lee.ma.us/user/261/contact [56376] -> "../data/townSites2/Lee/www.lee.ma.us/user/261/contact" [1]
+2017-01-02 00:42:35 URL:http://www.lee.ma.us/user/266/contact [56362] -> "../data/townSites2/Lee/www.lee.ma.us/user/266/contact" [1]
+2017-01-02 00:42:36 URL: http://www.lee.ma.us/node/156/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:38 URL:http://www.lee.ma.us/quick-view/22 [55411] -> "../data/townSites2/Lee/www.lee.ma.us/quick-view/22" [1]
+2017-01-02 00:42:38 URL:http://www.lee.ma.us/treasurercollector/files/information-request-taxes-paid [58576] -> "../data/townSites2/Lee/www.lee.ma.us/treasurercollector/files/information-request-taxes-paid" [1]
+2017-01-02 00:42:40 URL:http://www.lee.ma.us/lee-chamber-commerce [53954] -> "../data/townSites2/Lee/www.lee.ma.us/node/4786" [1]
+2017-01-02 00:42:41 URL:http://www.lee.ma.us/print/4786 [5965] -> "../data/townSites2/Lee/www.lee.ma.us/print/4786" [1]
+2017-01-02 00:42:42 URL: http://www.lee.ma.us/sites/leema/files/uploads/leefoundersweekend20150831.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:43 URL:http://www.lee.ma.us/home/pages/town-reports [54954] -> "../data/townSites2/Lee/www.lee.ma.us/node/631" [1]
+2017-01-02 00:42:44 URL:http://www.lee.ma.us/print/631 [6773] -> "../data/townSites2/Lee/www.lee.ma.us/print/631" [1]
+2017-01-02 00:42:45 URL: http://www.lee.ma.us/sites/leema/files/uploads/townofleear2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:46 URL: http://www.lee.ma.us/sites/leema/files/uploads/fy_14_town_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:47 URL: http://www.lee.ma.us/sites/leema/files/uploads/fy_13_town_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:48 URL: http://www.lee.ma.us/sites/leema/files/uploads/fy_12_town_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:49 URL: http://www.lee.ma.us/sites/leema/files/uploads/fy_11_town_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:50 URL: http://www.lee.ma.us/sites/leema/files/uploads/fy_10_town_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:51 URL: http://www.lee.ma.us/sites/leema/files/uploads/fy_09_town_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:52 URL: http://www.lee.ma.us/sites/leema/files/uploads/fy_08_town_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:53 URL: http://www.lee.ma.us/sites/leema/files/uploads/fy_07_town_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:54 URL: http://www.lee.ma.us/sites/leema/files/uploads/fy_06_town_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:55 URL: http://www.lee.ma.us/sites/leema/files/uploads/fy_05_town_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:56 URL: http://www.lee.ma.us/sites/leema/files/uploads/fy_99_town_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:57 URL: http://www.lee.ma.us/sites/leema/files/uploads/fy_98_town_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:58 URL:http://www.lee.ma.us/home/news/shared-chief-administrative-officer-community-discussion [54162] -> "../data/townSites2/Lee/www.lee.ma.us/node/13733" [1]
+2017-01-02 00:42:59 URL:http://www.lee.ma.us/print/13733 [6097] -> "../data/townSites2/Lee/www.lee.ma.us/print/13733" [1]
+2017-01-02 00:43:00 URL:http://www.lee.ma.us/home/news/greener-gift-giving-holiday-season-tips [54581] -> "../data/townSites2/Lee/www.lee.ma.us/node/13643" [1]
+2017-01-02 00:43:02 URL:http://www.lee.ma.us/print/13643 [6435] -> "../data/townSites2/Lee/www.lee.ma.us/print/13643" [1]
+2017-01-02 00:43:03 URL:http://www.lee.ma.us/home/news/new-job-openings [54214] -> "../data/townSites2/Lee/www.lee.ma.us/node/12423" [1]
+2017-01-02 00:43:04 URL:http://www.lee.ma.us/print/12423 [5947] -> "../data/townSites2/Lee/www.lee.ma.us/print/12423" [1]
+2017-01-02 00:43:05 URL: http://www.lee.ma.us/sites/leema/files/uploads/fire_chief-ambulance_diector_posting_11_14_16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:06 URL: http://www.lee.ma.us/node/1/news/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:07 URL:http://www.lee.ma.us/home/news/watersewer-rate-increase [55555] -> "../data/townSites2/Lee/www.lee.ma.us/home/news/watersewer-rate-increase" [1]
+2017-01-02 00:43:09 URL:http://www.lee.ma.us/home/news/blackboard-connect [54060] -> "../data/townSites2/Lee/www.lee.ma.us/home/news/blackboard-connect" [1]
+2017-01-02 00:43:11 URL:http://www.lee.ma.us/calendar [102098] -> "../data/townSites2/Lee/www.lee.ma.us/calendar.1" [1]
+2017-01-02 00:43:13 URL:http://www.lee.ma.us/calendar/day [57972] -> "../data/townSites2/Lee/www.lee.ma.us/calendar/day.1" [1]
+2017-01-02 00:43:15 URL:http://www.lee.ma.us/calendar/week [59128] -> "../data/townSites2/Lee/www.lee.ma.us/calendar/week" [1]
+2017-01-02 00:43:17 URL:http://www.lee.ma.us/calendar/year [156765] -> "../data/townSites2/Lee/www.lee.ma.us/calendar/year" [1]
+2017-01-02 00:43:19 URL:http://www.lee.ma.us/calendar/upcoming [56731] -> "../data/townSites2/Lee/www.lee.ma.us/calendar/upcoming" [1]
+2017-01-02 00:43:20 URL:http://www.lee.ma.us/calendar/day/2017-01-02 [58042] -> "../data/townSites2/Lee/www.lee.ma.us/calendar/day/2017-01-02" [1]
+2017-01-02 00:43:22 URL:http://www.lee.ma.us/town-clerk/events/13803 [57651] -> "../data/townSites2/Lee/www.lee.ma.us/node/13803" [1]
+2017-01-02 00:43:23 URL:http://www.lee.ma.us/print/13803 [6182] -> "../data/townSites2/Lee/www.lee.ma.us/print/13803" [1]
+2017-01-02 00:43:25 URL:http://www.lee.ma.us/town-clerk/events/13843 [57651] -> "../data/townSites2/Lee/www.lee.ma.us/node/13843" [1]
+2017-01-02 00:43:26 URL:http://www.lee.ma.us/print/13843 [6182] -> "../data/townSites2/Lee/www.lee.ma.us/print/13843" [1]
+2017-01-02 00:43:27 URL:http://www.lee.ma.us/calendar/day/2017-01-05 [58044] -> "../data/townSites2/Lee/www.lee.ma.us/calendar/day/2017-01-05" [1]
+2017-01-02 00:43:28 URL:http://www.lee.ma.us/town-clerk/events/13823 [57668] -> "../data/townSites2/Lee/www.lee.ma.us/node/13823" [1]
+2017-01-02 00:43:29 URL:http://www.lee.ma.us/print/13823 [6202] -> "../data/townSites2/Lee/www.lee.ma.us/print/13823" [1]
+2017-01-02 00:43:31 URL:http://www.lee.ma.us/calendar/day/2017-01-08 [58042] -> "../data/townSites2/Lee/www.lee.ma.us/calendar/day/2017-01-08" [1]
+2017-01-02 00:43:32 URL:http://www.lee.ma.us/town-clerk/events/13403 [57645] -> "../data/townSites2/Lee/www.lee.ma.us/node/13403" [1]
+2017-01-02 00:43:33 URL:http://www.lee.ma.us/print/13403 [6175] -> "../data/townSites2/Lee/www.lee.ma.us/print/13403" [1]
+2017-01-02 00:43:34 URL:http://www.lee.ma.us/town-clerk/events/13723 [57645] -> "../data/townSites2/Lee/www.lee.ma.us/node/13723" [1]
+2017-01-02 00:43:35 URL:http://www.lee.ma.us/print/13723 [6175] -> "../data/townSites2/Lee/www.lee.ma.us/print/13723" [1]
+2017-01-02 00:43:37 URL:http://www.lee.ma.us/calendar/day/2017-01-11 [58046] -> "../data/townSites2/Lee/www.lee.ma.us/calendar/day/2017-01-11" [1]
+2017-01-02 00:43:38 URL:http://www.lee.ma.us/town-clerk/events/13703 [57660] -> "../data/townSites2/Lee/www.lee.ma.us/node/13703" [1]
+2017-01-02 00:43:39 URL:http://www.lee.ma.us/print/13703 [6191] -> "../data/townSites2/Lee/www.lee.ma.us/print/13703" [1]
+2017-01-02 00:43:41 URL:http://www.lee.ma.us/town-clerk/events/13783 [57654] -> "../data/townSites2/Lee/www.lee.ma.us/node/13783" [1]
+2017-01-02 00:43:42 URL:http://www.lee.ma.us/print/13783 [6171] -> "../data/townSites2/Lee/www.lee.ma.us/print/13783" [1]
+2017-01-02 00:43:43 URL: http://www.lee.ma.us/calendar/feed/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:46 URL:http://www.lee.ma.us/calendar/month/2016-12 [168331] -> "../data/townSites2/Lee/www.lee.ma.us/calendar/month/2016-12" [1]
+2017-01-02 00:43:47 URL:http://www.lee.ma.us/calendar/month/2017-02 [79481] -> "../data/townSites2/Lee/www.lee.ma.us/calendar/month/2017-02" [1]
+2017-01-02 00:43:49 URL:http://www.lee.ma.us/town-administrator/pages/brownsfield-project [59583] -> "../data/townSites2/Lee/www.lee.ma.us/node/12903" [1]
+2017-01-02 00:43:50 URL:http://www.lee.ma.us/print/12903 [7893] -> "../data/townSites2/Lee/www.lee.ma.us/print/12903" [1]
+2017-01-02 00:43:52 URL:http://www.lee.ma.us/webforms/contact-us [63006/63006] -> "../data/townSites2/Lee/www.lee.ma.us/node/3" [1]
+2017-01-02 00:43:54 URL:http://www.lee.ma.us/print/3 [15391/15391] -> "../data/townSites2/Lee/www.lee.ma.us/print/3" [1]
+2017-01-02 00:43:55 URL:http://www.lee.ma.us/about-lee-0 [60918] -> "../data/townSites2/Lee/www.lee.ma.us/node/4091" [1]
+2017-01-02 00:43:56 URL:http://www.lee.ma.us/print/4091 [8391] -> "../data/townSites2/Lee/www.lee.ma.us/print/4091" [1]
+2017-01-02 00:43:57 URL: http://www.lee.ma.us/node/4091/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:58 URL: http://www.lee.ma.us/sites/leema/files/uploads/emt_class_app21.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:59 URL: http://www.lee.ma.us/sites/leema/files/uploads/application_2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:01 URL:http://www.lee.ma.us/node/166/files [56157] -> "../data/townSites2/Lee/www.lee.ma.us/node/166/files" [1]
+2017-01-02 00:44:02 URL: http://www.lee.ma.us/sites/leema/files/uploads/garbage_hauler_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:03 URL: http://www.lee.ma.us/sites/leema/files/uploads/application_for_employment.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:03 URL: http://www.lee.ma.us/sites/leema/files/uploads/well_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:04 URL: http://www.lee.ma.us/sites/leema/files/uploads/tobacco_sales_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:05 URL: http://www.lee.ma.us/sites/leema/files/uploads/tanning_salon_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:07 URL:http://www.lee.ma.us/node/66/files [62144] -> "../data/townSites2/Lee/www.lee.ma.us/node/66/files" [1]
+2017-01-02 00:44:07 URL: http://www.lee.ma.us/sites/leema/files/uploads/form_septicdischargepermit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:08 URL: http://www.lee.ma.us/sites/leema/files/uploads/abatement_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:09 URL: http://www.lee.ma.us/sites/leema/files/uploads/water_and_sewer_capacity_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:10 URL:http://www.lee.ma.us/home/pages/job-postings-invitations-bidquote-town-work-and-supplies [57906] -> "../data/townSites2/Lee/www.lee.ma.us/node/4396" [1]
+2017-01-02 00:44:11 URL:http://www.lee.ma.us/print/4396 [9782] -> "../data/townSites2/Lee/www.lee.ma.us/print/4396" [1]
+2017-01-02 00:44:13 URL: http://www.lee.ma.us/sites/leema/files/uploads/custodian-emt_posting_11.14.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:14 URL: http://www.lee.ma.us/sites/leema/files/uploads/ad_for_winter_truck_driver_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:16 URL: http://www.lee.ma.us/sites/leema/files/uploads/ambulancewindowbidpacket.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:18 URL:http://www.lee.ma.us/user/login?destination=node/9773 [53727] -> "../data/townSites2/Lee/www.lee.ma.us/home/files/posting-dpw-secretary-external" [1]
+2017-01-02 00:44:19 URL: http://www.lee.ma.us/sites/leema/files/uploads/custodial_emt_posting_6-1-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:20 URL: http://www.lee.ma.us/sites/leema/files/uploads/town_clerk_posting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:21 URL: http://www.lee.ma.us/sites/leema/files/uploads/building_official_employment_opportunity.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:22 URL: http://www.lee.ma.us/sites/leema/files/uploads/treasurer-_collector_clerk_posting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:23 URL: http://www.lee.ma.us/sites/leema/files/uploads/truck_driver-laborer_emplyment_opportunity.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:24 URL: http://www.lee.ma.us/sites/leema/files/uploads/sludge_disposal_bid_packet_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:25 URL: http://www.lee.ma.us/sites/leema/files/uploads/council_on_aging_director.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:26 URL: http://www.lee.ma.us/sites/leema/files/uploads/assistant_treasurer-_collector_posting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:27 URL: http://www.lee.ma.us/sites/leema/files/uploads/ad_for_winter_truck_driver_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:28 URL: http://www.lee.ma.us/sites/leema/files/uploads/invitation_to_bid_watermeters.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:29 URL: http://www.lee.ma.us/sites/leema/files/uploads/truck_driver-laborer_posting_external_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:30 URL: http://www.lee.ma.us/sites/leema/files/uploads/posting_external_library_director_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:31 URL: http://www.lee.ma.us/sites/leema/files/uploads/disposition_of_2003_ford_f350_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:32 URL: http://www.lee.ma.us/sites/leema/files/uploads/local_inspector_of_buildingscode_enforcement_officer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:33 URL: http://www.lee.ma.us/sites/leema/files/uploads/ad_for_winter_truck_driver.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:34 URL: http://www.lee.ma.us/sites/leema/files/uploads/highway-cemetery_division_supervisor.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:35 URL: http://www.lee.ma.us/sites/leema/files/uploads/crossing_guard_letter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:36 URL: http://www.lee.ma.us/sites/leema/files/uploads/truck_driver-laborer_posting_external.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:37 URL: http://www.lee.ma.us/sites/leema/files/uploads/bldg_inspector_clerk.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:38 URL: http://www.lee.ma.us/sites/leema/files/uploads/ad_for_town_hall_boiler.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:39 URL: http://www.lee.ma.us/sites/leema/files/uploads/road_paving_invitation_to_bid.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:40 URL: http://www.lee.ma.us/sites/leema/files/uploads/quote_request_for_emergency_snow_removal.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:41 URL: http://www.lee.ma.us/sites/leema/files/uploads/rfp_assessors_publication2016-18.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:42 URL: http://www.lee.ma.us/sites/leema/files/uploads/solar_power_rfp.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:43 URL:http://www.lee.ma.us/home/pages/website-disclaimer [55672] -> "../data/townSites2/Lee/www.lee.ma.us/node/4346" [1]
+2017-01-02 00:44:44 URL:http://www.lee.ma.us/print/4346 [7533] -> "../data/townSites2/Lee/www.lee.ma.us/print/4346" [1]
+Found 1 broken link.
+
+http://www.lee.ma.us/department-public-works/pages/cemetery
+
+FINISHED --2017-01-02 00:44:44--
+Total wall clock time: 23m 11s
+Downloaded: 529 files, 25M in 2m 1s (211 KB/s)

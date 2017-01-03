@@ -1,0 +1,762 @@
+2017-01-02 00:13:47 URL:http://www.phillipston-ma.gov/ [51966] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/index.html" [1]
+2017-01-02 00:13:48 URL: http://www.phillipston-ma.gov/town-calendar/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:13:52 URL:http://www.phillipston-ma.gov/about-phillipston [38578] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/about-phillipston" [1]
+2017-01-02 00:13:54 URL:http://www.phillipston-ma.gov/departments [44368] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/departments" [1]
+2017-01-02 00:13:58 URL:http://www.phillipston-ma.gov/accountant [38151] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/accountant" [1]
+2017-01-02 00:14:01 URL:http://www.phillipston-ma.gov/animal-control [40303] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/animal-control" [1]
+2017-01-02 00:14:03 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/animal_control_bylaws.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:05 URL:http://www.phillipston-ma.gov/animal-control/pages/animal-related-laws [36412] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/animal-control/pages/animal-related-laws" [1]
+2017-01-02 00:14:06 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/dangerous_dogs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:08 URL:http://www.phillipston-ma.gov/animal-control/pages/dog-identification [36348] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/animal-control/pages/dog-identification" [1]
+2017-01-02 00:14:11 URL:http://www.phillipston-ma.gov/town-clerk/pages/dog-licenses [37673] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/animal-control/links/dog-licensing-information" [1]
+2017-01-02 00:14:12 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/animal_control_fees.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:14 URL:http://www.phillipston-ma.gov/animal-control/pages/leash-law [36778] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/animal-control/pages/leash-law" [1]
+2017-01-02 00:14:27 URL:https://www.mspca.org/pet_resources/pet-travel-tips/ [40039] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/animal-control/links/mspca-pet-safety-tips" [1]
+2017-01-02 00:14:31 URL:http://www.mass.gov/eea/agencies/agr/animal-health/rabies-control-program/ [168684] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/animal-control/links/rabies-information" [1]
+2017-01-02 00:14:35 URL:http://www.phillipston-ma.gov/building-department-inspectors [45049] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/building-department-inspectors" [1]
+2017-01-02 00:14:38 URL:http://www.phillipston-ma.gov/building-department-inspectors/pages/applications-fees [37432] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/building-department-inspectors/pages/applications-fees" [1]
+2017-01-02 00:14:40 URL:http://www.phillipston-ma.gov/building-department-inspectors/slideshows/phillipston-building-department-office [38029] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/building-department-inspectors/slideshows/phillipston-building-department-office" [1]
+2017-01-02 00:14:42 URL:http://www.phillipston-ma.gov/building-department-inspectors/slideshows/phillipston-building-department-office-0 [38041] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/building-department-inspectors/slideshows/phillipston-building-department-office-0" [1]
+2017-01-02 00:14:44 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/plumbing_permit_fee_schedule_2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:46 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/fee_schedule_for_wiring_permits_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:49 URL:http://www.phillipston-ma.gov/highway-department [45717] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/highway-department" [1]
+2017-01-02 00:14:50 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/driveway_permit_with_scenic_roads.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:54 URL:http://www.phillipston-ma.gov/highway-department/pages/links-of-interest [37558] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/highway-department/pages/links-of-interest" [1]
+2017-01-02 00:14:59 URL:http://www.phillipston-ma.gov/highway-department/webforms/repair-request-for-attention [44298] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/highway-department/webforms/repair-request-for-attention" [1]
+2017-01-02 00:15:01 URL:http://www.phillipston-ma.gov/highway-department/pages/snow-ice-operations [41030] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/highway-department/pages/snow-ice-operations" [1]
+2017-01-02 00:15:03 URL:http://www.phillipston-ma.gov/highway-department/pages/winter-parking-ban-information [36509] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/highway-department/pages/winter-parking-ban-information" [1]
+2017-01-02 00:15:08 URL:http://www.phillipston-ma.gov/phillipston-free-public-library [42023] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/phillipston-free-public-library" [1]
+2017-01-02 00:15:11 URL:http://www.phillipston-ma.gov/phillipston-free-public-library/pages/circulating-materials [36825] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/phillipston-free-public-library/pages/circulating-materials" [1]
+2017-01-02 00:15:15 URL:http://www.phillipston-ma.gov/phillipston-free-public-library/pages/donations [36713] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/phillipston-free-public-library/pages/donations" [1]
+2017-01-02 00:15:17 URL:http://www.phillipston-ma.gov/phillipston-free-public-library/pages/history-mission [40635] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/phillipston-free-public-library/pages/history-mission" [1]
+2017-01-02 00:15:28 URL:http://www.phillipston-ma.gov/phillipston-free-public-library/pages/inter-library-loan [36780] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/phillipston-free-public-library/pages/inter-library-loan" [1]
+No data received.
+2017-01-02 00:15:46 URL:http://www.phillipston-ma.gov/library-board-of-trustees [47669] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/phillipston-free-public-library/links/library-board-of-trustees" [1]
+2017-01-02 00:15:48 URL:http://www.phillipston-ma.gov/phillipston-free-public-library/pages/photos [37481] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/phillipston-free-public-library/pages/photos" [1]
+2017-01-02 00:15:51 URL:http://www.phillipston-ma.gov/phillipston-free-public-library/pages/regular-programs [36916] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/phillipston-free-public-library/pages/regular-programs" [1]
+2017-01-02 00:15:53 URL:http://www.phillipston-ma.gov/phillipston-free-public-library/pages/services [37107] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/phillipston-free-public-library/pages/services" [1]
+2017-01-02 00:15:55 URL:http://www.phillipston-ma.gov/phillipston-free-public-library/pages/special-events [36842] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/phillipston-free-public-library/pages/special-events" [1]
+2017-01-02 00:15:57 URL:http://www.phillipston-ma.gov/phillipston-free-public-library/pages/volunteering [36775] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/phillipston-free-public-library/pages/volunteering" [1]
+2017-01-02 00:16:00 URL:http://www.phillipston-ma.gov/tax-collector [39778] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/tax-collector" [1]
+2017-01-02 00:16:03 URL:http://www.phillipston-ma.gov/tax-collector/pages/quarterly-real-estate-tax-bills [36940] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/tax-collector/pages/quarterly-real-estate-tax-bills" [1]
+2017-01-02 00:16:07 URL:http://www.phillipston-ma.gov/town-clerk [56812] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-clerk" [1]
+2017-01-02 00:16:09 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/town_by-laws.doc2_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:10 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/kp-553075-v2-phil-5_4_16_atm_warrant.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:12 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/meeting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:14 URL:http://www.phillipston-ma.gov/town-clerk/pages/business-certificates [37639] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-clerk/pages/business-certificates" [1]
+2017-01-02 00:16:15 URL:http://www.phillipston-ma.gov/town-clerk/pages/census-data [37940] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-clerk/pages/census-data" [1]
+2017-01-02 00:16:16 URL:http://www.phillipston-ma.gov/town-clerk/pages/dog-licenses [37673] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-clerk/pages/dog-licenses" [1]
+2017-01-02 00:16:17 URL:http://www.phillipston-ma.gov/town-clerk/pages/elections-voting [37468] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-clerk/pages/elections-voting" [1]
+2017-01-02 00:16:18 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/fee_phillipston_town_clerk_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:19 URL:http://www.phillipston-ma.gov/town-clerk/pages/genealogy [37837] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-clerk/pages/genealogy" [1]
+2017-01-02 00:16:20 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/marriage_licenese_faqs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:21 URL:http://www.phillipston-ma.gov/town-clerk/pages/vital-records [37551] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-clerk/pages/vital-records" [1]
+http://www.123voter.com/:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:16:23 URL:http://www.phillipston-ma.gov/town-clerk/pages/workers-comp [37520] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-clerk/pages/workers-comp" [1]
+wget: unable to resolve host address 'sec.state.ma.us'
+2017-01-02 00:16:27 URL:http://www.phillipston-ma.gov/transfer-station [38207] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/transfer-station" [1]
+2017-01-02 00:16:28 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/transfer_station_hours.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:31 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/transfer_station_fees_rev.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:33 URL:http://www.phillipston-ma.gov/treasurer [39061] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/treasurer" [1]
+2017-01-02 00:16:36 URL:http://www.athol-ma.gov/northeast-quabbin-veterans-services-district [25480] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/node/6561" [1]
+2017-01-02 00:16:39 URL:http://www.phillipston-ma.gov/emergency-services [38342] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/emergency-services" [1]
+2017-01-02 00:16:42 URL:http://www.phillipston-ma.gov/fire-department [54445] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/fire-department" [1]
+2017-01-02 00:16:42 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/article_xv_-_house_numbers_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:44 URL:http://www.phillipston-ma.gov/fire-department/pages/employment-opportunities [38437] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/fire-department/pages/employment-opportunities" [1]
+2017-01-02 00:16:45 URL:http://www.phillipston-ma.gov/fire-department/pages/fire-department-personnel [41473] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/fire-department/pages/fire-department-personnel" [1]
+2017-01-02 00:16:46 URL:http://www.phillipston-ma.gov/fire-department/pages/open-burning-information [38771] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/fire-department/pages/open-burning-information" [1]
+2017-01-02 00:16:49 URL:http://www.phillipston-ma.gov/pema-phillipston-emergency-management-agency [37160] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/fire-department/links/pema-phillipston-emergency-management-agency" [1]
+2017-01-02 00:16:50 URL:http://www.phillipston-ma.gov/fire-department/pages/permitsinspections [39101] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/fire-department/pages/permitsinspections" [1]
+2017-01-02 00:16:51 URL:http://www.phillipston-ma.gov/fire-department/pages/photo-gallery [37437] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/fire-department/pages/photo-gallery" [1]
+http://www.mass.gov/eopss/agencies/dfs/dfs2/osfm/pubed/s-a-f-e/safe-program.html:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:16:54 URL:http://www.phillipston-ma.gov/fire-department/pages/safety-tips [38326] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/fire-department/pages/safety-tips" [1]
+2017-01-02 00:16:55 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/consumers-guide-w-sell-1-and-2-fam1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:56 URL:http://www.phillipston-ma.gov/fire-department/slideshows/training-exercises [48994] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/fire-department/slideshows/training-exercises" [1]
+2017-01-02 00:16:57 URL:http://www.phillipston-ma.gov/pema-phillipston-emergency-management-agency [37160] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/pema-phillipston-emergency-management-agency" [1]
+2017-01-02 00:16:58 URL:http://www.phillipston-ma.gov/pema-phillipston-emergency-management-agency/pages/phillipston-emergency-management [34710] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/pema-phillipston-emergency-management-agency/pages/phillipston-emergency-management" [1]
+2017-01-02 00:17:00 URL:http://www.phillipston-ma.gov/police-department [39937] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/police-department" [1]
+2017-01-02 00:17:02 URL:http://www.phillipston-ma.gov/police-department/pages/firearms-applications [36361] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/police-department/pages/firearms-applications" [1]
+2017-01-02 00:17:03 URL:http://www.phillipston-ma.gov/police-department/webforms/house-check-request [41143] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/police-department/webforms/house-check-request" [1]
+2017-01-02 00:17:04 URL:http://www.phillipston-ma.gov/boards [46819] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/boards" [1]
+2017-01-02 00:17:07 URL:http://www.phillipston-ma.gov/agricultural-commission [49249] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/agricultural-commission" [1]
+2017-01-02 00:17:09 URL:http://www.phillipston-ma.gov/agricultural-commission/pages/animal-summary [36688] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/agricultural-commission/pages/animal-summary" [1]
+2017-01-02 00:17:10 URL:http://www.phillipston-ma.gov/agricultural-commission/pages/farmer%E2%80%99s-market [35366] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/agricultural-commission/pages/farmerâ%80%99s-market" [1]
+2017-01-02 00:17:11 URL:http://www.phillipston-ma.gov/agricultural-commission/pages/giant-pumpkin-contest [35545] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/agricultural-commission/pages/giant-pumpkin-contest" [1]
+2017-01-02 00:17:14 URL:http://www.phillipston-ma.gov/board-of-assessors [51438] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/board-of-assessors" [1]
+2017-01-02 00:17:15 URL:http://www.maao.org/ [481/481] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/board-of-assessors/links/ma-association-of-assessing-officers" [1]
+2017-01-02 00:17:17 URL:http://www.phillipston-ma.gov/board-of-assessors/pages/online-available-documents [37050] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/board-of-assessors/pages/online-available-documents" [1]
+2017-01-02 00:17:18 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/phillipston2016pre-values.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:19 URL:http://www.worcesterdeeds.com/ [6830/6830] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/assessor/links/worcester-county-registry-of-deeds" [1]
+2017-01-02 00:17:22 URL:http://www.phillipston-ma.gov/board-of-health [51252] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/board-of-health" [1]
+2017-01-02 00:17:24 URL:http://www.phillipston-ma.gov/board-of-health/pages/board-of-health-transfer-station-ticket-information [38772] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/board-of-health/pages/board-of-health-transfer-station-ticket-information" [1]
+2017-01-02 00:17:25 URL:http://www.phillipston-ma.gov/board-of-health/pages/fees [36157] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/board-of-health/pages/fees" [1]
+2017-01-02 00:17:26 URL:http://www.phillipston-ma.gov/board-of-health/pages/forms-applications [38333] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/board-of-health/pages/forms-applications" [1]
+2017-01-02 00:17:27 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/2016_master_listof_septic_haulers.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:28 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/2016_solid_waste_haulers_v2.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:29 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/wnv_08.29.13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:32 URL:http://www.phillipston-ma.gov/board-of-selectmen [52215] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/board-of-selectmen" [1]
+2017-01-02 00:17:33 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/2008_fy_audit_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:34 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/affordable_housing_production_plan_2013_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:35 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/2008_fy_audit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:36 URL:http://www.phillipston-ma.gov/board-of-selectmen/pages/free-wood-list-request [36340] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/board-of-selectmen/pages/free-wood-list-request" [1]
+http://www.mytowngovernment.org/013310:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:17:40 URL:http://www.phillipston-ma.gov/cable-advisory-committee [48688] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/cable-advisory-committee" [1]
+2017-01-02 00:17:42 URL:http://www.phillipston-ma.gov/cable-advisory-committee/webforms/gopro-camera-request [39365] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/cable-advisory-committee/webforms/gopro-camera-request" [1]
+2017-01-02 00:17:44 URL:http://www.phillipston-ma.gov/capital-improvement-planning-commission [37179] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/capital-improvement-planning-commission" [1]
+2017-01-02 00:17:46 URL:http://www.phillipston-ma.gov/cemetery-commission [41024] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/cemetery-commission" [1]
+2017-01-02 00:17:48 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/cemetery_bylaws_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:48 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/cemeteryfees_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:50 URL:http://www.phillipston-ma.gov/cemetery-commission/pages/cemetery-locations-history [37416] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/cemetery-commission/pages/cemetery-locations-history" [1]
+2017-01-02 00:17:51 URL:http://www.findagrave.com/cgi-bin/fg.cgi?page=cr&CRid=2203568&CScnty=1186&CSsr=261& [14733] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/cemetery-commission/links/find-a-grave-center-cemetery" [1]
+2017-01-02 00:17:53 URL:http://www.findagrave.com/cgi-bin/fg.cgi?page=cr&CRid=91195&CScnty=1186&CSsr=161& [14125] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/cemetery-commission/links/find-a-grave-lower-cemetery" [1]
+2017-01-02 00:17:54 URL:http://www.phillipston-ma.gov/cemetery-commission/pages/headstones-and-monuments [36023] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/cemetery-commission/pages/headstones-and-monuments" [1]
+2017-01-02 00:17:57 URL:http://www.phillipston-ma.gov/community-preservation-committee [56334] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/community-preservation-committee" [1]
+2017-01-02 00:17:58 URL:http://www.phillipston-ma.gov/community-preservation-committee/pages/accomplishments [36915] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/community-preservation-committee/pages/accomplishments" [1]
+2017-01-02 00:17:59 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/cpc_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:01 URL:http://communitypreservation.org/ [24096] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/community-preservation-committee/links/community-coalition-preservation" [1]
+2017-01-02 00:18:03 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/conceptual_layout_plan_050515_-_presentation_board.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:04 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/cpabrochure.pdf 200 OK
+unlink: No such file or directory
+http://www.mytowngovernment.org/013310:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:18:06 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/final2014.6osp.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:10 URL:http://communitypreservation.org/projects/new?town%5B%5D=Phillipston&keys=&view_name=Projects&view_display_id=page_1&view_args=&view_path=projects%2Fnew&view_base_path=projects%2Fnew&view_dom_id=d4e077af7867a83524a0a835abefc502&pager_element=0 [85738] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/community-preservation-committee/links/projects-database" [1]
+2017-01-02 00:18:13 URL:http://www.phillipston-ma.gov/conservation-commission [59785] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/conservation-commission" [1]
+2017-01-02 00:18:15 URL:https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIX/Chapter131/Section40 [98540/98540] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/conservation-commission/links/wetland-protection-act" [1]
+2017-01-02 00:18:16 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/dep_wpa_form_links_april_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:17 URL:http://www.mass.gov/eea/agencies/massdep/water/regulations/310-cmr-10-00-wetlands-protection-act-regulations.html [195074] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/conservation-commission/links/wetland-protection-regulations" [1]
+2017-01-02 00:18:20 URL:http://www.phillipston-ma.gov/council-on-aging [37105] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/council-on-aging" [1]
+2017-01-02 00:18:23 URL:http://www.phillipston-ma.gov/cultural-council [42579] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/cultural-council" [1]
+2017-01-02 00:18:24 URL:http://www.massculturalcouncil.org/contracts/logos_step1.asp [31962/31962] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/cultural-council/links/credit-logos" [1]
+2017-01-02 00:18:26 URL:http://www.massculturalcouncil.org/contracts/credall.asp [26902/26902] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/cultural-council/links/credit-and-publicity-kit" [1]
+http://www.massculturalcouncil.org/applications/passapp.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:18:28 URL: http://www.massculturalcouncil.org/applications/lccguidelines.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:29 URL:http://www.massculturalcouncil.org/ [40348/40348] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/cultural-council/links/mass-cultural-council" [1]
+failed: Network is unreachable.
+2017-01-02 00:18:37 URL: http://www.massculturalcouncil.org/contracts/lccreim.pdf 200 OK
+unlink: No such file or directory
+http://www.massculturalcouncil.org/applications/lccapp.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:18:41 URL:http://www.phillipston-ma.gov/finance-committee [36893] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/finance-committee" [1]
+2017-01-02 00:18:44 URL:http://www.phillipston-ma.gov/historical-commission [46565] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/historical-commission" [1]
+2017-01-02 00:18:46 URL:http://www.phillipston-ma.gov/library-board-of-trustees [47669] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/library-board-of-trustees" [1]
+2017-01-02 00:18:50 URL:http://www.phillipston-ma.gov/phillipston-free-public-library [42023] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/library-board-of-trustees/links/library" [1]
+2017-01-02 00:18:53 URL:http://www.phillipston-ma.gov/open-space-committee [49615] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/open-space-committee" [1]
+2017-01-02 00:18:54 URL:http://www.phillipston-ma.gov/open-space-committee/pages/accomplishments [35954] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/open-space-committee/pages/accomplishments" [1]
+2017-01-02 00:18:55 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/final2014.6osp.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:58 URL:http://www.phillipston-ma.gov/parks-and-recreation-committee [49435] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/parks-and-recreation-committee" [1]
+2017-01-02 00:18:59 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/pms_flyer_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:00 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/conceptual_layout_plan_050515_-_presentation_board.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:01 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/pms_release_form_2013_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:04 URL:http://www.phillipston-ma.gov/planning-board [50974] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/planning-board" [1]
+2017-01-02 00:19:05 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/site_plan_application_revised.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:08 URL:http://www.phillipston-ma.gov/zoning-board-of-appeals [52895] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/zoning-board-of-appeals" [1]
+2017-01-02 00:19:09 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/frequently_asked_questions.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:10 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/zba_appeal_docs_needed.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:10 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/zba_rules_n_regs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:11 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/zoning_bylaws_pdf_for_website.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:12 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/zoning_map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:13 URL:http://www.phillipston-ma.gov/residents [47916] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/residents" [1]
+2017-01-02 00:19:14 URL:http://www.phillipston-ma.gov/businesses [40390] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/businesses" [1]
+2017-01-02 00:19:15 URL:http://www.phillipston-ma.gov/print/111 [3844] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/111" [1]
+2017-01-02 00:19:16 URL:http://www.phillipston-ma.gov/printmail/111 [33608] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/111" [1]
+2017-01-02 00:19:17 URL:http://www.phillipston-ma.gov/subscribe [37384] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/subscribe" [1]
+2017-01-02 00:19:19 URL:http://www.phillipston-ma.gov/home/pages/pay-bills-online [33230] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/home/pages/pay-bills-online " [1]
+2017-01-02 00:19:22 URL:http://www.phillipston-ma.gov/files [53815] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/files" [1]
+2017-01-02 00:19:23 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/town_by-laws.doc2__0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:24 URL:http://www.phillipston-ma.gov/home/pages/fee-schedules [33607] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/home/pages/fee-schedules" [1]
+2017-01-02 00:19:25 URL:http://www.phillipston-ma.gov/contacts-directory [63121] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/contacts-directory" [1]
+2017-01-02 00:19:28 URL:http://www.phillipston-ma.gov/government-resources [35689] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/government-resources" [1]
+2017-01-02 00:19:29 URL:http://www.phillipston-ma.gov/home/webforms/submit-a-suggestion-or-question [43169] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/home/webforms/submit-a-suggestion-or-question" [1]
+2017-01-02 00:19:30 URL:http://www.phillipston-ma.gov/home/webforms/submit-news-announcements [42436] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/home/webforms/submit-news-announcements" [1]
+2017-01-02 00:19:31 URL:http://www.phillipston-ma.gov/home/pages/points-of-interest [33494] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/home/pages/points-of-interest" [1]
+2017-01-02 00:19:32 URL:http://www.phillipston-ma.gov/town-calendar/2017-01 [45728] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-calendar/2017-01" [1]
+2017-01-02 00:19:33 URL:http://www.phillipston-ma.gov/home/news/rabies-clinic [33269] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/home/news/rabies-clinic" [1]
+2017-01-02 00:19:34 URL:http://www.phillipston-ma.gov/home/news/new-transfer-station-sticker-program-instituted [34738] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/home/news/new-transfer-station-sticker-program-instituted" [1]
+2017-01-02 00:19:35 URL:http://www.phillipston-ma.gov/user/login [32460] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/user/login" [1]
+2017-01-02 00:19:36 URL:http://www.phillipston-ma.gov/user/login?destination=node%2F3336 [32556] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/employees-only" [1]
+2017-01-02 00:19:38 URL:http://www.phillipston-ma.gov/website-disclaimer-and-privacy-policy [35106] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/node/468" [1]
+2017-01-02 00:19:38 URL: http://www.phillipston-ma.gov/node/2411/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:40 URL:http://www.phillipston-ma.gov/print/2411 [4685] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2411" [1]
+2017-01-02 00:19:41 URL:http://www.phillipston-ma.gov/printmail/2411 [33640] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2411" [1]
+2017-01-02 00:19:43 URL:http://www.phillipston-ma.gov/queen-lake [40630] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/queen-lake" [1]
+2017-01-02 00:19:44 URL: http://www.phillipston-ma.gov/node/3556/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:45 URL:http://www.phillipston-ma.gov/print/3556 [4866] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/3556" [1]
+2017-01-02 00:19:47 URL:http://www.phillipston-ma.gov/printmail/3556 [33626] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/3556" [1]
+2017-01-02 00:19:47 URL: http://www.phillipston-ma.gov/node/2226/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:49 URL:http://www.phillipston-ma.gov/print/2226 [5138] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2226" [1]
+2017-01-02 00:19:50 URL:http://www.phillipston-ma.gov/printmail/2226 [33634] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2226" [1]
+2017-01-02 00:19:50 URL:http://www.phillipston-ma.gov/users/gwhitney/contact [34778] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/users/gwhitney/contact" [1]
+2017-01-02 00:19:52 URL:http://www.phillipston-ma.gov/animal-control/news/2016-rabies-clinic [37148] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/animal-control/news/2016-rabies-clinic" [1]
+2017-01-02 00:19:52 URL:http://www.phillipston-ma.gov/print/3841 [3228] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/3841" [1]
+2017-01-02 00:19:53 URL:http://www.phillipston-ma.gov/printmail/3841 [33665] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/3841" [1]
+2017-01-02 00:19:54 URL:http://www.phillipston-ma.gov/print/3851 [3165] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/3851" [1]
+2017-01-02 00:19:55 URL:http://www.phillipston-ma.gov/printmail/3851 [33663] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/3851" [1]
+2017-01-02 00:19:56 URL:http://www.phillipston-ma.gov/print/3846 [3604] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/3846" [1]
+2017-01-02 00:19:57 URL:http://www.phillipston-ma.gov/printmail/3846 [33645] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/3846" [1]
+2017-01-02 00:19:58 URL: http://www.phillipston-ma.gov/node/2251/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:00 URL:http://www.phillipston-ma.gov/print/2251 [6819] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2251" [1]
+2017-01-02 00:20:01 URL:http://www.phillipston-ma.gov/printmail/2251 [33672] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2251" [1]
+2017-01-02 00:20:02 URL:http://www.phillipston-ma.gov/users/bherget/contact [34770] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/users/bherget/contact" [1]
+2017-01-02 00:20:03 URL:http://www.phillipston-ma.gov/users/hbarber/contact [34770] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/users/hbarber/contact" [1]
+2017-01-02 00:20:04 URL:http://www.phillipston-ma.gov/print/4111 [4786] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/4111" [1]
+2017-01-02 00:20:05 URL:http://www.phillipston-ma.gov/printmail/4111 [33683] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/4111" [1]
+2017-01-02 00:20:06 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/poolspahtapp.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:07 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/stoveapp.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:08 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/form-bbrs-building-permit-1-and-2-family-dwelling-03-16-201.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:08 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/debdispaff.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:09 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/sheetmetal.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:10 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/demopermitso.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:11 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/zba_hearing.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:13 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/fee_schedule_for_gas_permits.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:14 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/fee_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:15 URL:http://www.phillipston-ma.gov/print/6306 [5469] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/6306" [1]
+2017-01-02 00:20:16 URL:http://www.phillipston-ma.gov/printmail/6306 [33724] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/6306" [1]
+2017-01-02 00:20:17 URL:http://www.phillipston-ma.gov/print/6311 [5479] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/6311" [1]
+2017-01-02 00:20:19 URL:http://www.phillipston-ma.gov/printmail/6311 [33726] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/6311" [1]
+2017-01-02 00:20:20 URL: http://www.phillipston-ma.gov/node/2236/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:21 URL:http://www.phillipston-ma.gov/print/2236 [7258] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2236" [1]
+2017-01-02 00:20:22 URL:http://www.phillipston-ma.gov/printmail/2236 [33642] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2236" [1]
+2017-01-02 00:20:23 URL:http://www.phillipston-ma.gov/users/rtenney/contact [34770] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/users/rtenney/contact" [1]
+2017-01-02 00:20:25 URL:http://www.phillipston-ma.gov/highway-department/faq/during-a-winter-storm-why-does-it-seem-like-i-only-see-a-plow-or-sander-every [36892] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/highway-department/faq/during-a-winter-storm-why-does-it-seem-like-i-only-see-a-plow-or-sander-every" [1]
+2017-01-02 00:20:26 URL:http://www.phillipston-ma.gov/highway-department/faq/when-is-the-winter-parking-ban-in-effect [36154] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/highway-department/faq/when-is-the-winter-parking-ban-in-effect" [1]
+2017-01-02 00:20:27 URL:http://www.phillipston-ma.gov/highway-department/faq/does-the-highway-department-pick-up-leaves-or-christmas-trees [36492] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/highway-department/faq/does-the-highway-department-pick-up-leaves-or-christmas-trees" [1]
+2017-01-02 00:20:28 URL:http://www.phillipston-ma.gov/highway-department/faq/is-there-a-winter-storm-parking-policy [36587] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/highway-department/faq/is-there-a-winter-storm-parking-policy" [1]
+2017-01-02 00:20:29 URL:http://www.phillipston-ma.gov/highway-department/faq/whom-should-i-contact-about-town-tree-questions [36363] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/highway-department/faq/whom-should-i-contact-about-town-tree-questions" [1]
+2017-01-02 00:20:31 URL:http://www.phillipston-ma.gov/node/2236/faq [33343] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/node/2236/faq" [1]
+2017-01-02 00:20:32 URL:http://www.phillipston-ma.gov/highway-department/news/winter-parking-ban-in-effect-beginning-november-1 [36586] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/highway-department/news/winter-parking-ban-in-effect-beginning-november-1" [1]
+2017-01-02 00:20:33 URL:http://www.phillipston-ma.gov/highway-department/news/seasonal-plow-driver-wanted [37092] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/highway-department/news/seasonal-plow-driver-wanted" [1]
+2017-01-02 00:20:34 URL:http://www.phillipston-ma.gov/highway-department/news/summer-hours-2016-begin [36783] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/highway-department/news/summer-hours-2016-begin" [1]
+2017-01-02 00:20:35 URL:http://www.phillipston-ma.gov/highway-department/news/bid-results-available-online [36852] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/highway-department/news/bid-results-available-online" [1]
+2017-01-02 00:20:37 URL:http://www.phillipston-ma.gov/print/2436 [4441] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2436" [1]
+2017-01-02 00:20:38 URL:http://www.phillipston-ma.gov/printmail/2436 [33665] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2436" [1]
+2017-01-02 00:20:39 URL:http://www.phillipston-ma.gov/print/2431 [11254] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2431" [1]
+2017-01-02 00:20:41 URL:http://www.phillipston-ma.gov/printmail/2431 [33691] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2431" [1]
+2017-01-02 00:20:42 URL:http://www.phillipston-ma.gov/print/2846 [8042] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2846" [1]
+2017-01-02 00:20:43 URL:http://www.phillipston-ma.gov/printmail/2846 [33675] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2846" [1]
+2017-01-02 00:20:45 URL:http://www.phillipston-ma.gov/user/login?destination=node%2F3101 [32556] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-clerk/files/by-laws-2014" [1]
+2017-01-02 00:20:46 URL:http://www.phillipston-ma.gov/print/6406 [3535] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/6406" [1]
+2017-01-02 00:20:47 URL:http://www.phillipston-ma.gov/printmail/6406 [33691] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/6406" [1]
+2017-01-02 00:20:47 URL: http://www.phillipston-ma.gov/node/2241/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:49 URL:http://www.phillipston-ma.gov/print/2241 [5224] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2241" [1]
+2017-01-02 00:20:51 URL:http://www.phillipston-ma.gov/printmail/2241 [33668] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2241" [1]
+2017-01-02 00:20:52 URL:http://www.phillipston-ma.gov/users/library/contact [34756] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/users/library/contact" [1]
+2017-01-02 00:20:53 URL:http://www.phillipston-ma.gov/phillipston-free-public-library/news/holiday-hours [37229] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/phillipston-free-public-library/news/holiday-hours" [1]
+2017-01-02 00:20:54 URL:http://www.phillipston-ma.gov/phillipston-free-public-library/news/new-movies [36824] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/phillipston-free-public-library/news/new-movies" [1]
+2017-01-02 00:20:55 URL:http://www.phillipston-ma.gov/phillipston-free-public-library/news/coffee-refreshments [36829] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/phillipston-free-public-library/news/coffee-refreshments" [1]
+2017-01-02 00:20:56 URL:http://www.phillipston-ma.gov/phillipston-free-public-library/news/please-take-our-survey [38078] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/phillipston-free-public-library/news/please-take-our-survey" [1]
+2017-01-02 00:20:57 URL:http://www.phillipston-ma.gov/print/3886 [3351] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/3886" [1]
+2017-01-02 00:20:58 URL:http://www.phillipston-ma.gov/printmail/3886 [33686] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/3886" [1]
+2017-01-02 00:20:59 URL:http://www.phillipston-ma.gov/print/3896 [3251] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/3896" [1]
+2017-01-02 00:21:00 URL:http://www.phillipston-ma.gov/printmail/3896 [33662] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/3896" [1]
+2017-01-02 00:21:01 URL:http://www.phillipston-ma.gov/print/4361 [7170] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/4361" [1]
+2017-01-02 00:21:02 URL:http://www.phillipston-ma.gov/printmail/4361 [33677] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/4361" [1]
+2017-01-02 00:21:03 URL:http://www.phillipston-ma.gov/print/3891 [3309] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/3891" [1]
+2017-01-02 00:21:04 URL:http://www.phillipston-ma.gov/printmail/3891 [33680] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/3891" [1]
+2017-01-02 00:21:05 URL:http://www.phillipston-ma.gov/print/6651 [4053] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/6651" [1]
+2017-01-02 00:21:06 URL:http://www.phillipston-ma.gov/printmail/6651 [33656] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/6651" [1]
+2017-01-02 00:21:07 URL:http://www.phillipston-ma.gov/print/3911 [3447] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/3911" [1]
+2017-01-02 00:21:07 URL:http://www.phillipston-ma.gov/printmail/3911 [33676] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/3911" [1]
+2017-01-02 00:21:08 URL:http://www.phillipston-ma.gov/print/3901 [3646] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/3901" [1]
+2017-01-02 00:21:09 URL:http://www.phillipston-ma.gov/printmail/3901 [33660] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/3901" [1]
+2017-01-02 00:21:10 URL:http://www.phillipston-ma.gov/print/3906 [3375] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/3906" [1]
+2017-01-02 00:21:11 URL:http://www.phillipston-ma.gov/printmail/3906 [33672] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/3906" [1]
+2017-01-02 00:21:12 URL:http://www.phillipston-ma.gov/print/3881 [3310] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/3881" [1]
+2017-01-02 00:21:14 URL:http://www.phillipston-ma.gov/printmail/3881 [33668] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/3881" [1]
+2017-01-02 00:21:15 URL: http://www.phillipston-ma.gov/node/2286/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:16 URL:http://www.phillipston-ma.gov/print/2286 [4947] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2286" [1]
+2017-01-02 00:21:18 URL:http://www.phillipston-ma.gov/printmail/2286 [33632] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2286" [1]
+2017-01-02 00:21:19 URL:http://www.phillipston-ma.gov/users/skatsberg/contact [34790] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/users/skatsberg/contact" [1]
+2017-01-02 00:21:20 URL:http://www.phillipston-ma.gov/print/3146 [4531] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/3146" [1]
+2017-01-02 00:21:21 URL:http://www.phillipston-ma.gov/printmail/3146 [33688] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/3146" [1]
+2017-01-02 00:21:21 URL: http://www.phillipston-ma.gov/node/2186/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:22 URL: http://www.phillipston-ma.gov/node/2186/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:24 URL:http://www.phillipston-ma.gov/print/2186 [5526] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2186" [1]
+2017-01-02 00:21:25 URL:http://www.phillipston-ma.gov/printmail/2186 [33626] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2186" [1]
+2017-01-02 00:21:27 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/office_of_the_town_clerk.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:28 URL:http://www.phillipston-ma.gov/users/kfoley/contact [34754] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/users/kfoley/contact" [1]
+2017-01-02 00:21:29 URL:http://www.phillipston-ma.gov/town-clerk/faq/when-is-easters-great-gathering-held-at-the-red-apple-farm [37668] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-clerk/faq/when-is-easters-great-gathering-held-at-the-red-apple-farm" [1]
+2017-01-02 00:21:30 URL:http://www.phillipston-ma.gov/town-clerk/faq/when-are-the-annual-town-elections [37480] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-clerk/faq/when-are-the-annual-town-elections" [1]
+2017-01-02 00:21:32 URL:http://www.phillipston-ma.gov/town-clerk/faq/when-is-the-animal-rabies-clinic [37534] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-clerk/faq/when-is-the-animal-rabies-clinic" [1]
+2017-01-02 00:21:33 URL:http://www.phillipston-ma.gov/town-clerk/faq/when-is-the-annual-town-meeting [37478] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-clerk/faq/when-is-the-annual-town-meeting" [1]
+2017-01-02 00:21:35 URL:http://www.phillipston-ma.gov/town-clerk/faq/when-is-the-phillipston-church-bazaar [37515] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-clerk/faq/when-is-the-phillipston-church-bazaar" [1]
+2017-01-02 00:21:36 URL:http://www.phillipston-ma.gov/node/2186/faq [36541] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/node/2186/faq" [1]
+2017-01-02 00:21:37 URL:http://www.phillipston-ma.gov/town-clerk/news/early-voting [40470] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-clerk/news/early-voting" [1]
+2017-01-02 00:21:39 URL:http://www.phillipston-ma.gov/node/2186/events/2017-01 [43204] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/node/2186/events/2017-01" [1]
+2017-01-02 00:21:41 URL:http://www.phillipston-ma.gov/town-clerk/minutes/annual-town-meeting-minutes [38353] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-clerk/minutes/annual-town-meeting-minutes" [1]
+2017-01-02 00:21:42 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/minutes/minutes-file/ballotate16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:44 URL:http://www.phillipston-ma.gov/town-clerk/minutes/special-town-meeting [38301] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-clerk/minutes/special-town-meeting" [1]
+2017-01-02 00:21:45 URL:http://www.phillipston-ma.gov/town-clerk/minutes/special-town-election [37965] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-clerk/minutes/special-town-election" [1]
+2017-01-02 00:21:45 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/minutes/minutes-file/atm_2015_kp-519441-v1-phil-5_6_15_atm_final_warrant.docx_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:46 URL:http://www.phillipston-ma.gov/print/3461 [3328] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/3461" [1]
+2017-01-02 00:21:48 URL:http://www.phillipston-ma.gov/printmail/3461 [33665] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/3461" [1]
+2017-01-02 00:21:49 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/business_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:50 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/businesscertqa.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:52 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/business_outline.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:53 URL:http://www.phillipston-ma.gov/print/5606 [3552] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/5606" [1]
+2017-01-02 00:21:53 URL:http://www.phillipston-ma.gov/printmail/5606 [33645] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/5606" [1]
+2017-01-02 00:21:55 URL:http://www.phillipston-ma.gov/print/3436 [3527] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/3436" [1]
+2017-01-02 00:21:56 URL:http://www.phillipston-ma.gov/printmail/3436 [33647] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/3436" [1]
+2017-01-02 00:21:58 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/dog_license_forms.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:59 URL:http://www.phillipston-ma.gov/print/3876 [3139] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/3876" [1]
+2017-01-02 00:22:00 URL:http://www.phillipston-ma.gov/printmail/3876 [33661] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/3876" [1]
+2017-01-02 00:22:02 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/election_info_website_town_of_phillipston.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:03 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/election.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:04 URL:http://www.phillipston-ma.gov/print/3471 [3451] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/3471" [1]
+2017-01-02 00:22:05 URL:http://www.phillipston-ma.gov/printmail/3471 [33641] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/3471" [1]
+2017-01-02 00:22:07 URL:http://www.phillipston-ma.gov/print/3441 [3161] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/3441" [1]
+2017-01-02 00:22:09 URL:http://www.phillipston-ma.gov/printmail/3441 [33649] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/3441" [1]
+2017-01-02 00:22:10 URL:http://www.phillipston-ma.gov/print/3861 [3189] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/3861" [1]
+2017-01-02 00:22:11 URL:http://www.phillipston-ma.gov/printmail/3861 [33647] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/3861" [1]
+2017-01-02 00:22:12 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/business_certificate_workers_comp_affadavit_general.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:13 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/business_certificate_workers_comp_affadavit_builders_contractors_electricians_plumbers.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:13 URL: http://www.phillipston-ma.gov/node/2276/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:15 URL:http://www.phillipston-ma.gov/print/2276 [3144] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2276" [1]
+2017-01-02 00:22:16 URL:http://www.phillipston-ma.gov/printmail/2276 [33638] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2276" [1]
+2017-01-02 00:22:17 URL:http://www.phillipston-ma.gov/transfer-station/news/transfer-station-bulky-waste-fees [35827] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/transfer-station/news/transfer-station-bulky-waste-fees" [1]
+2017-01-02 00:22:19 URL:http://www.phillipston-ma.gov/transfer-station/news/board-of-health-transfer-station-sticker-program-announcement [37498] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/transfer-station/news/board-of-health-transfer-station-sticker-program-announcement" [1]
+2017-01-02 00:22:19 URL: http://www.phillipston-ma.gov/node/2401/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:21 URL:http://www.phillipston-ma.gov/print/2401 [4908] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2401" [1]
+2017-01-02 00:22:23 URL:http://www.phillipston-ma.gov/printmail/2401 [33624] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2401" [1]
+2017-01-02 00:22:24 URL:http://www.phillipston-ma.gov/users/tcoller/contact [34772] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/users/tcoller/contact" [1]
+2017-01-02 00:22:24 URL: http://www.phillipston-ma.gov/node/2151/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:26 URL:http://www.phillipston-ma.gov/print/2151 [3575] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2151" [1]
+2017-01-02 00:22:28 URL:http://www.phillipston-ma.gov/printmail/2151 [33642] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2151" [1]
+2017-01-02 00:22:29 URL: http://www.phillipston-ma.gov/node/2231/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:30 URL: http://www.phillipston-ma.gov/node/2231/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:31 URL:http://www.phillipston-ma.gov/fire-department/slides/public-safety-fair [38181] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/fire-department/slides/public-safety-fair" [1]
+2017-01-02 00:22:33 URL:http://www.phillipston-ma.gov/print/2231 [5563] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2231" [1]
+2017-01-02 00:22:34 URL:http://www.phillipston-ma.gov/printmail/2231 [33636] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2231" [1]
+2017-01-02 00:22:36 URL:http://www.phillipston-ma.gov/users/rstevens/contact [34794] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/users/rstevens/contact" [1]
+2017-01-02 00:22:37 URL:http://www.phillipston-ma.gov/users/kstanleyfire/contact [34822] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/users/kstanleyfire/contact" [1]
+2017-01-02 00:22:38 URL:http://www.phillipston-ma.gov/fire-department/news/helpful-information-on-preventing-holiday-fires [37775] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/fire-department/news/helpful-information-on-preventing-holiday-fires" [1]
+2017-01-02 00:22:40 URL:http://www.phillipston-ma.gov/fire-department/news/important-new-regulations-in-effect-for-smoke-alarm-requirements [38011] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/fire-department/news/important-new-regulations-in-effect-for-smoke-alarm-requirements" [1]
+2017-01-02 00:22:41 URL:http://www.phillipston-ma.gov/fire-department/news/free-smokeco-detectors-available-for-phillipston-residents [38342] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/fire-department/news/free-smokeco-detectors-available-for-phillipston-residents" [1]
+2017-01-02 00:22:42 URL:http://www.phillipston-ma.gov/node/2231/events/2017-01 [43229] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/node/2231/events/2017-01" [1]
+2017-01-02 00:22:44 URL:http://www.phillipston-ma.gov/print/4306 [4101] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/4306" [1]
+2017-01-02 00:22:45 URL:http://www.phillipston-ma.gov/printmail/4306 [33676] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/4306" [1]
+2017-01-02 00:22:46 URL:http://www.phillipston-ma.gov/print/3341 [7136] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/3341" [1]
+2017-01-02 00:22:47 URL:http://www.phillipston-ma.gov/printmail/3341 [33678] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/3341" [1]
+2017-01-02 00:22:48 URL:http://www.phillipston-ma.gov/print/2791 [4435] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2791" [1]
+2017-01-02 00:22:49 URL:http://www.phillipston-ma.gov/printmail/2791 [33676] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2791" [1]
+2017-01-02 00:22:50 URL:http://www.phillipston-ma.gov/print/4301 [4772] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/4301" [1]
+2017-01-02 00:22:51 URL:http://www.phillipston-ma.gov/printmail/4301 [33665] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/4301" [1]
+2017-01-02 00:22:53 URL:http://www.phillipston-ma.gov/print/5931 [3141] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/5931" [1]
+2017-01-02 00:22:55 URL:http://www.phillipston-ma.gov/printmail/5931 [33654] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/5931" [1]
+2017-01-02 00:22:56 URL:http://www.phillipston-ma.gov/print/6196 [4324] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/6196" [1]
+2017-01-02 00:22:57 URL:http://www.phillipston-ma.gov/printmail/6196 [33650] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/6196" [1]
+2017-01-02 00:22:58 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/u221/holiday_infographic_holiday_fires.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:58 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/u126/up_in_smoke_home_checklist.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:00 URL:http://www.phillipston-ma.gov/user/login?destination=node%2F2771 [32556] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/fire-department/pages/candle-safety" [1]
+2017-01-02 00:23:00 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/u126/escape_grid.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:02 URL:http://www.phillipston-ma.gov/user/login?destination=node%2F2766 [32556] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/fire-department/pages/firework-safety" [1]
+2017-01-02 00:23:03 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/mulchfires2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:04 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/ffgrillingsafety2015-legalapproved1429621547187.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:06 URL:http://www.phillipston-ma.gov/fire-department/pages/holiday-safety [38998] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/fire-department/pages/holiday-safety" [1]
+2017-01-02 00:23:08 URL:http://www.phillipston-ma.gov/fire-department/pages/ice-water-safety [39633] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/fire-department/pages/ice-water-safety" [1]
+2017-01-02 00:23:10 URL:http://www.phillipston-ma.gov/print/4321 [19281] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/4321" [1]
+2017-01-02 00:23:12 URL:http://www.phillipston-ma.gov/printmail/4321 [33669] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/4321" [1]
+2017-01-02 00:23:12 URL: http://www.phillipston-ma.gov/node/2406/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:14 URL:http://www.phillipston-ma.gov/print/2406 [3924] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2406" [1]
+2017-01-02 00:23:16 URL:http://www.phillipston-ma.gov/printmail/2406 [33696] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2406" [1]
+2017-01-02 00:23:17 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/u126/2015_hurricane_power_outages_kns.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:18 URL:http://www.phillipston-ma.gov/print/5991 [3199] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/5991" [1]
+2017-01-02 00:23:20 URL:http://www.phillipston-ma.gov/printmail/5991 [33721] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/5991" [1]
+2017-01-02 00:23:20 URL: http://www.phillipston-ma.gov/node/2271/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:24 URL:http://www.phillipston-ma.gov/print/2271 [4984] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2271" [1]
+2017-01-02 00:23:26 URL:http://www.phillipston-ma.gov/printmail/2271 [33640] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2271" [1]
+2017-01-02 00:23:28 URL:http://www.phillipston-ma.gov/users/kdodge/contact [34754] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/users/kdodge/contact" [1]
+2017-01-02 00:23:29 URL:http://www.phillipston-ma.gov/police-department/news/important-notice-for-firearms-license-holder-and-gun-owners [36565] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/police-department/news/important-notice-for-firearms-license-holder-and-gun-owners" [1]
+2017-01-02 00:23:30 URL:http://www.phillipston-ma.gov/print/4271 [3400] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/4271" [1]
+2017-01-02 00:23:32 URL:http://www.phillipston-ma.gov/printmail/4271 [33672] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/4271" [1]
+2017-01-02 00:23:33 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/doc102516web_3333-10252016095729.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:34 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/doc102516web_2222-10252016095651.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:35 URL:http://www.phillipston-ma.gov/print/4371 [8123] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/4371" [1]
+2017-01-02 00:23:37 URL:http://www.phillipston-ma.gov/printmail/4371 [33671] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/4371" [1]
+2017-01-02 00:23:38 URL: http://www.phillipston-ma.gov/node/2316/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:38 URL: http://www.phillipston-ma.gov/node/2316/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:40 URL:http://www.phillipston-ma.gov/print/2316 [5492] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2316" [1]
+2017-01-02 00:23:41 URL:http://www.phillipston-ma.gov/printmail/2316 [33652] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2316" [1]
+2017-01-02 00:23:44 URL:http://www.phillipston-ma.gov/node/2316/events/2017-01 [43269] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/node/2316/events/2017-01" [1]
+2017-01-02 00:23:45 URL:http://www.phillipston-ma.gov/print/5891 [4777] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/5891" [1]
+2017-01-02 00:23:46 URL:http://www.phillipston-ma.gov/printmail/5891 [33664] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/5891" [1]
+2017-01-02 00:23:47 URL:http://www.phillipston-ma.gov/print/5896 [3448] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/5896" [1]
+2017-01-02 00:23:49 URL:http://www.phillipston-ma.gov/printmail/5896 [33676] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/5896" [1]
+2017-01-02 00:23:50 URL:http://www.phillipston-ma.gov/print/5901 [3611] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/5901" [1]
+2017-01-02 00:23:52 URL:http://www.phillipston-ma.gov/printmail/5901 [33678] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/5901" [1]
+2017-01-02 00:23:52 URL: http://www.phillipston-ma.gov/node/2416/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:53 URL: http://www.phillipston-ma.gov/node/2416/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:55 URL:http://www.phillipston-ma.gov/print/2416 [6366] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2416" [1]
+2017-01-02 00:23:56 URL:http://www.phillipston-ma.gov/printmail/2416 [33642] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2416" [1]
+2017-01-02 00:24:00 URL:http://www.phillipston-ma.gov/node/2416/events/2017-01 [43244] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/node/2416/events/2017-01" [1]
+2017-01-02 00:24:01 URL:http://www.phillipston-ma.gov/print/2516 [4658] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2516" [1]
+2017-01-02 00:24:02 URL:http://www.phillipston-ma.gov/printmail/2516 [33683] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2516" [1]
+2017-01-02 00:24:04 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/assessors_-_blind_exemption-3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:05 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/2012_assessors_mailing_address_change.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:06 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/assessors_-_mvabatement.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:07 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/assessors_-_real_estate_abatement.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:08 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/assessors_-_recreation_land_classification_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:09 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/assessors_-_elderly_exemption_guideline.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:10 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/assessors_-_surviving-spouses-minors_exempt-96-2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:11 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/assessors_-_surviving-spouses-minors_brochure_exempt-96-2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:12 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/assessors_-_veterans_exemption-96-4.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:13 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/assessors_-_veterans_exemption_guideline.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:14 URL: http://www.phillipston-ma.gov/node/2306/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:15 URL: http://www.phillipston-ma.gov/node/2306/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:16 URL:http://www.phillipston-ma.gov/print/2306 [5646] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2306" [1]
+2017-01-02 00:24:18 URL:http://www.phillipston-ma.gov/printmail/2306 [33636] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2306" [1]
+2017-01-02 00:24:21 URL:http://www.phillipston-ma.gov/users/lpearson/contact [34780] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/users/lpearson/contact" [1]
+2017-01-02 00:24:23 URL:http://www.phillipston-ma.gov/board-of-health/news/bulky-waste-day [38934] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/board-of-health/news/bulky-waste-day" [1]
+2017-01-02 00:24:26 URL:http://www.phillipston-ma.gov/board-of-health/news/new-transfer-station-sticker-program-instituted [36738] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/board-of-health/news/new-transfer-station-sticker-program-instituted" [1]
+2017-01-02 00:24:27 URL:http://www.phillipston-ma.gov/node/2306/events/2017-01 [43229] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/node/2306/events/2017-01" [1]
+2017-01-02 00:24:28 URL:http://www.phillipston-ma.gov/print/6251 [5657] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/6251" [1]
+2017-01-02 00:24:30 URL:http://www.phillipston-ma.gov/printmail/6251 [33730] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/6251" [1]
+2017-01-02 00:24:31 URL:http://www.phillipston-ma.gov/print/2651 [3087] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2651" [1]
+2017-01-02 00:24:32 URL:http://www.phillipston-ma.gov/printmail/2651 [33636] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2651" [1]
+2017-01-02 00:24:34 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/boh_fees_rev_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:36 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/transfer_station_fees_rev.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:37 URL:http://www.phillipston-ma.gov/print/2731 [5690] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2731" [1]
+2017-01-02 00:24:39 URL:http://www.phillipston-ma.gov/printmail/2731 [33670] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2731" [1]
+2017-01-02 00:24:40 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/application_for_disposal_works_installer_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:41 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/application_septage_hauler_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:42 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/application_solid_waste_hauler_3-25-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:43 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/application_for_food_permit_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:45 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/boh_-_portable_toilet_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:46 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/boh_-_perc_test_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:47 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/application_for_beaver_removal_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:48 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/boh_-_well_application2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:50 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/boh_-_app_for_beach_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:51 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/boh_-_tight_tank_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:52 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/tobacco_permit_application_rev_march_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:53 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/boh_-_applic_disposal_sys_const_permit_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:55 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/boh_-_complaint_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:56 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/info_on_lot_testing_and_sewage_disposal_works_permit_inform.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:58 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/tight_tank_install_and_maint_agree.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:59 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/boh_-_tight_tank_notification_and_deed_restriction_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:00 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/affivdavit_-_gb_-_feb_23_2015_-_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:01 URL: http://www.phillipston-ma.gov/node/2311/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:02 URL: http://www.phillipston-ma.gov/node/2311/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:03 URL:http://www.phillipston-ma.gov/print/2311 [6908] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2311" [1]
+2017-01-02 00:25:05 URL:http://www.phillipston-ma.gov/printmail/2311 [33642] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2311" [1]
+2017-01-02 00:25:07 URL:http://www.phillipston-ma.gov/users/rsmith/contact [34756] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/users/rsmith/contact" [1]
+2017-01-02 00:25:10 URL:http://www.phillipston-ma.gov/node/2311/events/2017-01 [43244] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/node/2311/events/2017-01" [1]
+2017-01-02 00:25:11 URL:http://www.phillipston-ma.gov/print/3416 [3364] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/3416" [1]
+2017-01-02 00:25:12 URL:http://www.phillipston-ma.gov/printmail/3416 [33675] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/3416" [1]
+2017-01-02 00:25:13 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/wood_list_request.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:14 URL: http://www.phillipston-ma.gov/node/2326/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:15 URL: http://www.phillipston-ma.gov/node/2326/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:16 URL:http://www.phillipston-ma.gov/print/2326 [4842] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2326" [1]
+2017-01-02 00:25:18 URL:http://www.phillipston-ma.gov/printmail/2326 [33654] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2326" [1]
+2017-01-02 00:25:20 URL:http://www.phillipston-ma.gov/users/cableadvisory/contact [34832] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/users/cableadvisory/contact" [1]
+2017-01-02 00:25:21 URL:http://www.phillipston-ma.gov/node/2326/events/2017-01 [43274] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/node/2326/events/2017-01" [1]
+2017-01-02 00:25:22 URL:http://www.phillipston-ma.gov/print/3331 [7356] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/3331" [1]
+2017-01-02 00:25:23 URL:http://www.phillipston-ma.gov/printmail/3331 [33680] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/3331" [1]
+2017-01-02 00:25:24 URL: http://www.phillipston-ma.gov/node/2396/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:25 URL:http://www.phillipston-ma.gov/print/2396 [3344] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2396" [1]
+2017-01-02 00:25:27 URL:http://www.phillipston-ma.gov/printmail/2396 [33684] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2396" [1]
+2017-01-02 00:25:28 URL: http://www.phillipston-ma.gov/node/2331/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:29 URL:http://www.phillipston-ma.gov/print/2331 [5579] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2331" [1]
+2017-01-02 00:25:31 URL:http://www.phillipston-ma.gov/printmail/2331 [33644] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2331" [1]
+2017-01-02 00:25:32 URL:http://www.phillipston-ma.gov/users/gfoley/contact [34758] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/users/gfoley/contact" [1]
+2017-01-02 00:25:33 URL:http://www.phillipston-ma.gov/print/4201 [4487] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/4201" [1]
+2017-01-02 00:25:35 URL:http://www.phillipston-ma.gov/printmail/4201 [33690] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/4201" [1]
+2017-01-02 00:25:35 URL:http://www.phillipston-ma.gov/print/4206 [3090] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/4206" [1]
+2017-01-02 00:25:37 URL:http://www.phillipston-ma.gov/printmail/4206 [33680] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/4206" [1]
+2017-01-02 00:25:38 URL: http://www.phillipston-ma.gov/node/2336/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:38 URL: http://www.phillipston-ma.gov/node/2336/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:40 URL:http://www.phillipston-ma.gov/print/2336 [7283] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2336" [1]
+2017-01-02 00:25:42 URL:http://www.phillipston-ma.gov/printmail/2336 [33670] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2336" [1]
+2017-01-02 00:25:44 URL:http://www.phillipston-ma.gov/users/mmiville/contact [34776] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/users/mmiville/contact" [1]
+2017-01-02 00:25:46 URL:http://www.phillipston-ma.gov/node/2336/events/2017-01 [43314] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/node/2336/events/2017-01" [1]
+2017-01-02 00:25:47 URL:http://www.phillipston-ma.gov/community-preservation-committee/minutes/april-meeting-minutes-0 [37384] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/community-preservation-committee/minutes/april-meeting-minutes-0" [1]
+2017-01-02 00:25:48 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/minutes/minutes-file/cpcminutes3-3-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:49 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/minutes/minutes-file/cpcminutes_2-4-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:50 URL:http://www.phillipston-ma.gov/community-preservation-committee/minutes/november-meeting-minutes [37409] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/community-preservation-committee/minutes/november-meeting-minutes" [1]
+2017-01-02 00:25:52 URL:http://www.phillipston-ma.gov/community-preservation-committee/minutes/april-meeting-minutes [37374] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/community-preservation-committee/minutes/april-meeting-minutes" [1]
+2017-01-02 00:25:53 URL:http://www.phillipston-ma.gov/node/2336/minutes [38866] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/node/2336/minutes" [1]
+2017-01-02 00:25:54 URL:http://www.phillipston-ma.gov/print/4326 [3531] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/4326" [1]
+2017-01-02 00:25:56 URL:http://www.phillipston-ma.gov/printmail/4326 [33675] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/4326" [1]
+2017-01-02 00:25:56 URL: http://www.phillipston-ma.gov/node/2341/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:57 URL: http://www.phillipston-ma.gov/node/2341/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:59 URL:http://www.phillipston-ma.gov/conservation-commission/urgent-alerts/opening-on-conservation-commission [36232] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/conservation-commission/urgent-alerts/opening-on-conservation-commission" [1]
+2017-01-02 00:26:00 URL:http://www.phillipston-ma.gov/print/2341 [6934] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2341" [1]
+2017-01-02 00:26:02 URL:http://www.phillipston-ma.gov/printmail/2341 [33652] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2341" [1]
+2017-01-02 00:26:03 URL:http://www.phillipston-ma.gov/users/conservation-commission/contact [34948] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/users/conservation-commission/contact" [1]
+2017-01-02 00:26:05 URL:http://www.phillipston-ma.gov/node/2341/events/2017-01 [43269] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/node/2341/events/2017-01" [1]
+2017-01-02 00:26:06 URL:http://www.phillipston-ma.gov/conservation-commission/agenda/regular-meeting-3 [37222] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/conservation-commission/agenda/regular-meeting-3" [1]
+2017-01-02 00:26:07 URL:http://www.phillipston-ma.gov/conservation-commission/agenda/regular-meeting-2 [37217] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/conservation-commission/agenda/regular-meeting-2" [1]
+2017-01-02 00:26:08 URL:http://www.phillipston-ma.gov/conservation-commission/agenda/regular-meeting-1 [37213] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/conservation-commission/agenda/regular-meeting-1" [1]
+2017-01-02 00:26:10 URL:http://www.phillipston-ma.gov/conservation-commission/agenda/regular-meeting [37202] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/conservation-commission/agenda/regular-meeting" [1]
+2017-01-02 00:26:11 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/agenda/agenda-file/concom_agenda_06_16_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:12 URL:http://www.phillipston-ma.gov/node/2341/agenda [37536] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/node/2341/agenda" [1]
+2017-01-02 00:26:13 URL:http://www.phillipston-ma.gov/conservation-commission/minutes/regular-meeting-1 [35824] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/conservation-commission/minutes/regular-meeting-1" [1]
+2017-01-02 00:26:14 URL:http://www.phillipston-ma.gov/conservation-commission/minutes/regular-meeting-0 [36470] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/conservation-commission/minutes/regular-meeting-0" [1]
+2017-01-02 00:26:16 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/minutes/minutes-file/concom_minutes_06_16_2015_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:17 URL:http://www.phillipston-ma.gov/conservation-commission/minutes/for-additional-past-minutes-please-see-httpwwwmytowngovernmentorg-of [36398] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/conservation-commission/minutes/for-additional-past-minutes-please-see-httpwwwmytowngovernmentorg-of" [1]
+2017-01-02 00:26:17 URL: http://www.phillipston-ma.gov/node/2346/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:19 URL:http://www.phillipston-ma.gov/print/2346 [3160] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2346" [1]
+2017-01-02 00:26:21 URL:http://www.phillipston-ma.gov/printmail/2346 [33638] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2346" [1]
+2017-01-02 00:26:22 URL: http://www.phillipston-ma.gov/node/2376/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:23 URL:http://www.phillipston-ma.gov/print/2376 [7210] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2376" [1]
+2017-01-02 00:26:25 URL:http://www.phillipston-ma.gov/printmail/2376 [33638] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2376" [1]
+2017-01-02 00:26:25 URL: http://www.phillipston-ma.gov/node/2381/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:27 URL:http://www.phillipston-ma.gov/print/2381 [3168] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2381" [1]
+2017-01-02 00:26:28 URL:http://www.phillipston-ma.gov/printmail/2381 [33582] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2381" [1]
+2017-01-02 00:26:29 URL: http://www.phillipston-ma.gov/node/2351/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:30 URL: http://www.phillipston-ma.gov/node/2351/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:31 URL:http://www.phillipston-ma.gov/print/2351 [3200] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2351" [1]
+2017-01-02 00:26:32 URL:http://www.phillipston-ma.gov/printmail/2351 [33648] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2351" [1]
+2017-01-02 00:26:33 URL:http://www.phillipston-ma.gov/node/2351/events/2017-01 [43259] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/node/2351/events/2017-01" [1]
+2017-01-02 00:26:34 URL: http://www.phillipston-ma.gov/node/3916/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:35 URL: http://www.phillipston-ma.gov/node/3916/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:37 URL:http://www.phillipston-ma.gov/print/3916 [4960] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/3916" [1]
+2017-01-02 00:26:38 URL:http://www.phillipston-ma.gov/printmail/3916 [33656] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/3916" [1]
+2017-01-02 00:26:39 URL:http://www.phillipston-ma.gov/node/3916/events/2017-01 [43279] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/node/3916/events/2017-01" [1]
+2017-01-02 00:26:40 URL: http://www.phillipston-ma.gov/node/2356/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:41 URL: http://www.phillipston-ma.gov/node/2356/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:43 URL:http://www.phillipston-ma.gov/print/2356 [5652] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2356" [1]
+2017-01-02 00:26:44 URL:http://www.phillipston-ma.gov/printmail/2356 [33646] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2356" [1]
+2017-01-02 00:26:45 URL:http://www.phillipston-ma.gov/users/bhouse/contact [34758] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/users/bhouse/contact" [1]
+2017-01-02 00:26:47 URL:http://www.phillipston-ma.gov/node/2356/events/2017-01 [43254] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/node/2356/events/2017-01" [1]
+2017-01-02 00:26:48 URL:http://www.phillipston-ma.gov/print/4366 [3610] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/4366" [1]
+2017-01-02 00:26:49 URL:http://www.phillipston-ma.gov/printmail/4366 [33663] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/4366" [1]
+2017-01-02 00:26:50 URL: http://www.phillipston-ma.gov/node/2371/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:50 URL: http://www.phillipston-ma.gov/node/2371/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:52 URL:http://www.phillipston-ma.gov/print/2371 [5210] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2371" [1]
+2017-01-02 00:26:54 URL:http://www.phillipston-ma.gov/printmail/2371 [33666] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2371" [1]
+2017-01-02 00:26:55 URL:http://www.phillipston-ma.gov/users/wrichard/contact [34778] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/users/wrichard/contact" [1]
+2017-01-02 00:26:56 URL:http://www.phillipston-ma.gov/users/bbond/contact [34740] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/users/bbond/contact" [1]
+2017-01-02 00:26:58 URL:http://www.phillipston-ma.gov/node/2371/events/2017-01 [43304] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/node/2371/events/2017-01" [1]
+2017-01-02 00:26:59 URL: http://www.phillipston-ma.gov/node/2366/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:59 URL: http://www.phillipston-ma.gov/node/2366/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:01 URL:http://www.phillipston-ma.gov/print/2366 [6636] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2366" [1]
+2017-01-02 00:27:03 URL:http://www.phillipston-ma.gov/printmail/2366 [33634] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2366" [1]
+2017-01-02 00:27:04 URL:http://www.phillipston-ma.gov/node/2366/events/2017-01 [43224] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/node/2366/events/2017-01" [1]
+2017-01-02 00:27:05 URL: http://www.phillipston-ma.gov/node/2321/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:05 URL: http://www.phillipston-ma.gov/node/2321/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:07 URL:http://www.phillipston-ma.gov/print/2321 [7829] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2321" [1]
+2017-01-02 00:27:08 URL:http://www.phillipston-ma.gov/printmail/2321 [33652] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2321" [1]
+2017-01-02 00:27:09 URL:http://www.phillipston-ma.gov/node/2321/events/2017-01 [43269] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/node/2321/events/2017-01" [1]
+2017-01-02 00:27:10 URL:http://www.phillipston-ma.gov/quick-view/147 [36085] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/quick-view/147" [1]
+2017-01-02 00:27:12 URL:http://www.phillipston-ma.gov/quick-view/143 [33673] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/quick-view/143" [1]
+2017-01-02 00:27:15 URL:https://unipaygold.unibank.com/default.aspx [101065/101065] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/home/links/pay-bills" [1]
+2017-01-02 00:27:16 URL:http://www.phillipston-ma.gov/quick-view/150 [35472] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/quick-view/150" [1]
+2017-01-02 00:27:18 URL:http://www.phillipston-ma.gov/quick-view/146 [33548] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/quick-view/146" [1]
+2017-01-02 00:27:19 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/appendix_a.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:21 URL:https://www.axisgis.com/PhillipstonMA/ [24693/24693] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/home/links/gis-property-database" [1]
+2017-01-02 00:27:22 URL:http://www.phillipston-ma.gov/quick-view/250 [33639] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/quick-view/250" [1]
+2017-01-02 00:27:23 URL:http://www.phillipston-ma.gov/quick-view/333 [33715] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/quick-view/333" [1]
+2017-01-02 00:27:25 URL:http://www.phillipston-ma.gov/quick-view/334 [34387] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/quick-view/334" [1]
+2017-01-02 00:27:26 URL:http://www.phillipston-ma.gov/quick-view/335 [36231] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/quick-view/335" [1]
+2017-01-02 00:27:28 URL:http://www.phillipston-ma.gov/departments [44368] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/og" [1]
+2017-01-02 00:27:29 URL:http://www.phillipston-ma.gov/ [51966] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/home.1" [1]
+2017-01-02 00:27:30 URL:http://www.phillipston-ma.gov/print/6381 [3234] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/6381" [1]
+2017-01-02 00:27:31 URL:http://www.phillipston-ma.gov/printmail/6381 [33649] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/6381" [1]
+2017-01-02 00:27:32 URL:http://www.phillipston-ma.gov/node/2416/files [34976] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/node/2416/files" [1]
+2017-01-02 00:27:33 URL:http://www.phillipston-ma.gov/node/2306/files [37576] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/node/2306/files" [1]
+2017-01-02 00:27:35 URL:http://www.phillipston-ma.gov/node/2251/files [34410] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/node/2251/files" [1]
+2017-01-02 00:27:36 URL:http://www.phillipston-ma.gov/print/4216 [3757] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/4216" [1]
+2017-01-02 00:27:37 URL:http://www.phillipston-ma.gov/printmail/4216 [33643] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/4216" [1]
+2017-01-02 00:27:39 URL:http://www.phillipston-ma.gov/user/login?destination=node%2F4221 [32556] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/cemetery-commission/files/cemetery-fee-schedule" [1]
+2017-01-02 00:27:40 URL: http://www.phillipston-ma.gov/sites/phillipstonma/files/file/file/fee_phillipston_town_clerk.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:40 URL: http://www.phillipston-ma.gov/node/2196/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:42 URL:http://www.phillipston-ma.gov/print/2196 [5205] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2196" [1]
+2017-01-02 00:27:43 URL:http://www.phillipston-ma.gov/printmail/2196 [33647] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2196" [1]
+2017-01-02 00:27:44 URL:http://www.phillipston-ma.gov/print/1980 [13096] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/1980" [1]
+2017-01-02 00:27:45 URL:http://www.phillipston-ma.gov/printmail/1980 [33682] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/1980" [1]
+2017-01-02 00:27:46 URL:http://www.phillipston-ma.gov/print/2156 [12382] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2156" [1]
+2017-01-02 00:27:47 URL:http://www.phillipston-ma.gov/printmail/2156 [33677] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2156" [1]
+2017-01-02 00:27:48 URL:http://www.phillipston-ma.gov/print/2161 [3466] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/2161" [1]
+2017-01-02 00:27:49 URL:http://www.phillipston-ma.gov/printmail/2161 [33654] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/2161" [1]
+2017-01-02 00:27:50 URL: http://www.phillipston-ma.gov/node/2017-01/town-events/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:52 URL:http://www.phillipston-ma.gov/town-calendar/2017 [131990] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-calendar/2017" [1]
+2017-01-02 00:27:53 URL:http://www.phillipston-ma.gov/town-calendar/2017-W01 [39068] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-calendar/2017-W01" [1]
+2017-01-02 00:27:54 URL:http://www.phillipston-ma.gov/town-calendar/2017-01-01 [37427] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-calendar/2017-01-01" [1]
+2017-01-02 00:27:56 URL:http://www.phillipston-ma.gov/events [31372] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/events" [1]
+2017-01-02 00:27:57 URL:http://www.phillipston-ma.gov/town-calendar [45728] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-calendar.1" [1]
+2017-01-02 00:27:58 URL:http://www.phillipston-ma.gov/town-calendar/2016-12 [45680] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-calendar/2016-12" [1]
+2017-01-02 00:27:59 URL:http://www.phillipston-ma.gov/town-calendar/2017-02 [45588] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-calendar/2017-02" [1]
+2017-01-02 00:28:01 URL:http://www.phillipston-ma.gov/town-calendar/2017-W1 [39058] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-calendar/2017-W1" [1]
+2017-01-02 00:28:02 URL:http://www.phillipston-ma.gov/town-calendar/2017-W2 [39062] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-calendar/2017-W2" [1]
+2017-01-02 00:28:03 URL:http://www.phillipston-ma.gov/town-calendar/2017-W3 [39065] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-calendar/2017-W3" [1]
+2017-01-02 00:28:05 URL:http://www.phillipston-ma.gov/town-calendar/2017-W4 [39065] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-calendar/2017-W4" [1]
+2017-01-02 00:28:06 URL:http://www.phillipston-ma.gov/town-calendar/2017-W5 [39061] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/town-calendar/2017-W5" [1]
+2017-01-02 00:28:07 URL:http://www.phillipston-ma.gov/node/111/news [32723] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/node/111/news" [1]
+2017-01-02 00:28:08 URL:http://www.phillipston-ma.gov/print/6826 [3455] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/6826" [1]
+2017-01-02 00:28:09 URL:http://www.phillipston-ma.gov/printmail/6826 [33642] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/6826" [1]
+2017-01-02 00:28:11 URL:http://www.phillipston-ma.gov/print/6341 [4705] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/6341" [1]
+2017-01-02 00:28:12 URL:http://www.phillipston-ma.gov/printmail/6341 [33710] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/6341" [1]
+2017-01-02 00:28:13 URL:http://www.phillipston-ma.gov/user [33045] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/user.1" [1]
+2017-01-02 00:28:14 URL:http://www.phillipston-ma.gov/user/password [32594] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/user/password" [1]
+2017-01-02 00:28:16 URL:http://www.phillipston-ma.gov/user/login?destination=help%2Fvth_adv_help_inject%2FNew-Website-Guidelines [32716] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/help/vth_adv_help_inject/New-Website-Guidelines" [1]
+2017-01-02 00:28:16 URL:http://www.phillipston-ma.gov/print/468 [5068] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/print/468" [1]
+2017-01-02 00:28:18 URL:http://www.phillipston-ma.gov/printmail/468 [33674] -> "../data/townSites2/Phillipston/www.phillipston-ma.gov/printmail/468" [1]
+Found 5 broken links.
+
+http://www.mytowngovernment.org/013310
+http://www.massculturalcouncil.org/applications/lccapp.pdf
+http://www.123voter.com/
+http://www.massculturalcouncil.org/applications/passapp.pdf
+http://www.mass.gov/eopss/agencies/dfs/dfs2/osfm/pubed/s-a-f-e/safe-program.html
+
+FINISHED --2017-01-02 00:28:18--
+Total wall clock time: 14m 35s
+Downloaded: 424 files, 13M in 1m 30s (144 KB/s)

@@ -1,0 +1,992 @@
+2017-01-01 21:51:42 URL:http://www.townofmedway.org/ [32214] -> "../data/townSites2/Medway/www.townofmedway.org/index.html" [1]
+2017-01-01 21:51:42 URL: http://www.townofmedway.org/sites/medwayma/themes/vts/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-01 21:51:43 URL:http://www.townofmedway.org/departments [39510] -> "../data/townSites2/Medway/www.townofmedway.org/departments" [1]
+2017-01-01 21:51:45 URL:http://www.townofmedway.org/animal-control-department [37521] -> "../data/townSites2/Medway/www.townofmedway.org/animal-control-department" [1]
+2017-01-01 21:51:48 URL:http://www.townofmedway.org/assessing-department [42769] -> "../data/townSites2/Medway/www.townofmedway.org/assessing-department" [1]
+2017-01-01 21:51:50 URL:http://www.townofmedway.org/building-department [41839] -> "../data/townSites2/Medway/www.townofmedway.org/building-department" [1]
+2017-01-01 21:51:51 URL:http://www.townofmedway.org/communications [35838] -> "../data/townSites2/Medway/www.townofmedway.org/communications" [1]
+2017-01-01 21:51:54 URL:http://www.townofmedway.org/community-and-economic-development [50200] -> "../data/townSites2/Medway/www.townofmedway.org/community-and-economic-development" [1]
+2017-01-01 21:51:58 URL:http://www.townofmedway.org/council-aging [45122] -> "../data/townSites2/Medway/www.townofmedway.org/council-aging" [1]
+2017-01-01 21:51:59 URL:http://www.townofmedway.org/department-public-services [39025] -> "../data/townSites2/Medway/www.townofmedway.org/department-public-services" [1]
+2017-01-01 21:52:02 URL:http://www.townofmedway.org/fire-department [50570] -> "../data/townSites2/Medway/www.townofmedway.org/fire-department" [1]
+2017-01-01 21:52:04 URL:http://www.townofmedway.org/human-resources [34541] -> "../data/townSites2/Medway/www.townofmedway.org/human-resources" [1]
+2017-01-01 21:52:06 URL:http://www.townofmedway.org/information-services-department [39884] -> "../data/townSites2/Medway/www.townofmedway.org/information-services-department" [1]
+2017-01-01 21:52:09 URL:http://medwaylib.org/ [27956/27956] -> "../data/townSites2/Medway/www.townofmedway.org/information-services-department/links/medway-public-library" [1]
+2017-01-01 21:52:11 URL:http://www.townofmedway.org/police-department [38741] -> "../data/townSites2/Medway/www.townofmedway.org/police-department" [1]
+2017-01-01 21:52:13 URL:https://www.mapsonline.net/medwayma/forms/standalone.html.php?id=93633620 [67899] -> "../data/townSites2/Medway/www.townofmedway.org/procurement" [1]
+2017-01-01 21:52:16 URL:http://www.townofmedway.org/town-accountant [35083] -> "../data/townSites2/Medway/www.townofmedway.org/town-accountant" [1]
+2017-01-01 21:52:18 URL:http://www.townofmedway.org/town-administrator [35785] -> "../data/townSites2/Medway/www.townofmedway.org/town-administrator" [1]
+2017-01-01 21:52:20 URL:http://www.townofmedway.org/town-clerk [57467] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk" [1]
+2017-01-01 21:52:21 URL:http://www.townofmedway.org/treasurercollector [38151] -> "../data/townSites2/Medway/www.townofmedway.org/treasurercollector" [1]
+2017-01-01 21:52:24 URL:http://www.townofmedway.org/veterans-services [39198] -> "../data/townSites2/Medway/www.townofmedway.org/veterans-services" [1]
+2017-01-01 21:52:26 URL:http://www.townofmedway.org/boards [41667] -> "../data/townSites2/Medway/www.townofmedway.org/boards" [1]
+2017-01-01 21:52:29 URL:http://www.townofmedway.org/affordable-housing [37271] -> "../data/townSites2/Medway/www.townofmedway.org/affordable-housing" [1]
+2017-01-01 21:52:35 URL:http://www.townofmedway.org/board-health [58228] -> "../data/townSites2/Medway/www.townofmedway.org/board-health" [1]
+2017-01-01 21:52:40 URL:http://www.townofmedway.org/board-selectmen [53553] -> "../data/townSites2/Medway/www.townofmedway.org/board-selectmen" [1]
+2017-01-01 21:52:46 URL:http://www.townofmedway.org/conservation-commission [42995] -> "../data/townSites2/Medway/www.townofmedway.org/conservation-commission" [1]
+2017-01-01 21:52:49 URL:http://www.townofmedway.org/historical-commission [38396] -> "../data/townSites2/Medway/www.townofmedway.org/historical-commission" [1]
+2017-01-01 21:52:52 URL:http://www.townofmedway.org/housing-authority [36753] -> "../data/townSites2/Medway/www.townofmedway.org/housing-authority" [1]
+2017-01-01 21:52:56 URL:http://www.townofmedway.org/dps-environmental-services [47158] -> "../data/townSites2/Medway/www.townofmedway.org/dps-environmental-services" [1]
+2017-01-01 21:53:00 URL:http://www.townofmedway.org/planning-economic-development-board [45541] -> "../data/townSites2/Medway/www.townofmedway.org/planning-economic-development-board" [1]
+2017-01-01 21:53:02 URL:http://www.townofmedway.org/redevelopment-authority [53081] -> "../data/townSites2/Medway/www.townofmedway.org/redevelopment-authority" [1]
+2017-01-01 21:53:06 URL:http://www.townofmedway.org/zoning-board-appeals [45200] -> "../data/townSites2/Medway/www.townofmedway.org/zoning-board-appeals" [1]
+2017-01-01 21:53:08 URL:http://www.townofmedway.org/agricultural-committee [36229] -> "../data/townSites2/Medway/www.townofmedway.org/agricultural-committee" [1]
+2017-01-01 21:53:09 URL:http://www.townofmedway.org/capital-improvement-planning-committee [39438] -> "../data/townSites2/Medway/www.townofmedway.org/capital-improvement-planning-committee" [1]
+2017-01-01 21:53:12 URL:http://www.townofmedway.org/community-preservation-committee [38815] -> "../data/townSites2/Medway/www.townofmedway.org/community-preservation-committee" [1]
+2017-01-01 21:53:15 URL:http://www.townofmedway.org/cultural-council [43073] -> "../data/townSites2/Medway/www.townofmedway.org/cultural-council" [1]
+2017-01-01 21:53:17 URL:http://www.townofmedway.org/design-review-committee [42567] -> "../data/townSites2/Medway/www.townofmedway.org/design-review-committee" [1]
+2017-01-01 21:53:19 URL:http://www.townofmedway.org/economic-development-committee [45516] -> "../data/townSites2/Medway/www.townofmedway.org/economic-development-committee" [1]
+2017-01-01 21:53:21 URL:http://www.townofmedway.org/energy-committee [45163] -> "../data/townSites2/Medway/www.townofmedway.org/energy-committee" [1]
+2017-01-01 21:53:23 URL:http://www.townofmedway.org/epfrac [47730] -> "../data/townSites2/Medway/www.townofmedway.org/epfrac" [1]
+2017-01-01 21:53:25 URL:http://www.townofmedway.org/finance-committee [38439] -> "../data/townSites2/Medway/www.townofmedway.org/finance-committee" [1]
+2017-01-01 21:53:28 URL:http://www.townofmedway.org/open-space-committee [40915] -> "../data/townSites2/Medway/www.townofmedway.org/open-space-committee" [1]
+2017-01-01 21:53:30 URL:http://www.townofmedway.org/pride-day-committee [39430] -> "../data/townSites2/Medway/www.townofmedway.org/pride-day-committee" [1]
+2017-01-01 21:53:32 URL:http://www.townofmedway.org/minutes-and-agendas [40182] -> "../data/townSites2/Medway/www.townofmedway.org/minutes-and-agendas" [1]
+2017-01-01 21:53:33 URL:http://www.townofmedway.org/home/pages/find-it-fast [35388] -> "../data/townSites2/Medway/www.townofmedway.org/home/pages/find-it-fast" [1]
+2017-01-01 21:53:34 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/one-day_alcohol-appl.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:53:35 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/application_xmas_parade_yard_sale.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:53:38 URL:http://www.townofmedway.org/board-selectmen/pages/exelon-project [40154] -> "../data/townSites2/Medway/www.townofmedway.org/board-selectmen/pages/exelon-project" [1]
+2017-01-01 21:53:39 URL:http://www.townofmedway.org/board-selectmen/pages/town-bylaws [35692] -> "../data/townSites2/Medway/www.townofmedway.org/board-selectmen/pages/town-bylaws" [1]
+2017-01-01 21:53:41 URL:http://www.townofmedway.org/council-aging/pages/gatra-information [35637] -> "../data/townSites2/Medway/www.townofmedway.org/council-aging/pages/gatra-information" [1]
+2017-01-01 21:53:43 URL:http://www.townofmedway.org/home/pages/resident-qa-archive [33163] -> "../data/townSites2/Medway/www.townofmedway.org/home/pages/resident-qa-archive" [1]
+2017-01-01 21:53:45 URL:http://www.townofmedway.org/board-selectmen/pages/warrants-may-9th-meeting [35827] -> "../data/townSites2/Medway/www.townofmedway.org/board-selectmen/pages/warrants-may-9th-meeting" [1]
+2017-01-01 21:53:49 URL:http://www.townofmedway.org/home/webforms/resident-qa [40953/40953] -> "../data/townSites2/Medway/www.townofmedway.org/site-defaults/webforms/resident-qa" [1]
+2017-01-01 21:53:52 URL:http://www.townofmedway.org/subscribe [53230/53230] -> "../data/townSites2/Medway/www.townofmedway.org/subscribe" [1]
+2017-01-01 21:53:55 URL:http://www.townofmedway.org/communications/pages/subscribe-our-newsletter [37662] -> "../data/townSites2/Medway/www.townofmedway.org/communications/pages/subscribe-our-newsletter" [1]
+2017-01-01 21:54:00 URL:http://www.townofmedway.org/calendar [115129] -> "../data/townSites2/Medway/www.townofmedway.org/calendar" [1]
+2017-01-01 21:54:02 URL:http://www.townofmedway.org/news [47689] -> "../data/townSites2/Medway/www.townofmedway.org/news" [1]
+2017-01-01 21:54:03 URL:http://www.townofmedway.org/online-permitting [32489] -> "../data/townSites2/Medway/www.townofmedway.org/online-permitting" [1]
+2017-01-01 21:54:06 URL:http://www.townofmedway.org/route-109-transportation-improvement-project [38113] -> "../data/townSites2/Medway/www.townofmedway.org/route-109-transportation-improvement-project" [1]
+2017-01-01 21:54:07 URL:http://www.townofmedway.org/dps-engineering-facilities/pages/road-construction [32458] -> "../data/townSites2/Medway/www.townofmedway.org/dps-engineering-facilities/pages/road-construction" [1]
+2017-01-01 21:54:08 URL:http://www.townofmedway.org/dps-environmental-services/pages/trash-recycling [38097] -> "../data/townSites2/Medway/www.townofmedway.org/dps-environmental-services/pages/trash-recycling" [1]
+2017-01-01 21:54:10 URL:http://www.townofmedway.org/dps-environmental-services/pages/recreation [35692] -> "../data/townSites2/Medway/www.townofmedway.org/dps-environmental-services/pages/recreation" [1]
+2017-01-01 21:54:12 URL:http://www.townofmedway.org/home/pages/website-disclaimer-privacy-policy [34870] -> "../data/townSites2/Medway/www.townofmedway.org/home/pages/website-disclaimer-privacy-policy" [1]
+2017-01-01 21:54:13 URL:http://www.townofmedway.org/dps-water-sewer [45442] -> "../data/townSites2/Medway/www.townofmedway.org/dps-water-sewer" [1]
+2017-01-01 21:54:15 URL:http://www.townofmedway.org/animal-control-department [37521] -> "../data/townSites2/Medway/www.townofmedway.org/node/1206" [1]
+2017-01-01 21:54:16 URL:http://www.townofmedway.org/print/1206 [8019] -> "../data/townSites2/Medway/www.townofmedway.org/print/1206" [1]
+2017-01-01 21:54:19 URL:http://www.townofmedway.org/user/286/contact [33507] -> "../data/townSites2/Medway/www.townofmedway.org/user/286/contact" [1]
+2017-01-01 21:54:23 URL:http://www.townofmedway.org/animal-control-department/pages/area-animal-shelters [34326] -> "../data/townSites2/Medway/www.townofmedway.org/animal-control-department/pages/area-animal-shelters" [1]
+2017-01-01 21:54:25 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/dogparkpermit.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:54:26 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/skmbt_42316092714050_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:54:29 URL:https://townforms.com/TownForms/public/Login/BusinessUserLogin.aspx?ch=C7975294ECCBCCF76A1C3FAD63314450&rtn=/public/forms/formViewer.aspx%3Fch%3D8E364967BF00CE56D11788F47CBB6139%26fn%3DSHDogLicense [14543/14543] -> "../data/townSites2/Medway/www.townofmedway.org/animal-control-department/links/online-dog-licensing-system" [1]
+2017-01-01 21:54:31 URL:http://www.townofmedway.org/animal-control-department/pages/reporting-lost-pet [34891] -> "../data/townSites2/Medway/www.townofmedway.org/animal-control-department/pages/reporting-lost-pet" [1]
+2017-01-01 21:54:33 URL:http://www.mass.gov/eea/agencies/dfg/dfw/fish-wildlife-plants/wildlife-in-home-neighborhood.html [168747] -> "../data/townSites2/Medway/www.townofmedway.org/animal-control-department/links/squirrels-racoons-or-other-wild-animals" [1]
+2017-01-01 21:54:35 URL:http://www.townofmedway.org/animal-control-department/pages/testing-bats-rabies [34622] -> "../data/townSites2/Medway/www.townofmedway.org/animal-control-department/pages/testing-bats-rabies" [1]
+2017-01-01 21:54:37 URL:http://www.townofmedway.org/animal-control-department/faq/what-happens-animals-picked-animal-control [34639] -> "../data/townSites2/Medway/www.townofmedway.org/animal-control-department/faq/what-happens-animals-picked-animal-control" [1]
+2017-01-01 21:54:38 URL:http://www.townofmedway.org/animal-control-department/faq/what-considered-emergency [34180] -> "../data/townSites2/Medway/www.townofmedway.org/animal-control-department/faq/what-considered-emergency" [1]
+2017-01-01 21:54:40 URL:http://www.townofmedway.org/animal-control-department/faq/when-do-i-have-renew-it [34025] -> "../data/townSites2/Medway/www.townofmedway.org/animal-control-department/faq/when-do-i-have-renew-it" [1]
+2017-01-01 21:54:42 URL:http://www.townofmedway.org/node/1206/faq [31976] -> "../data/townSites2/Medway/www.townofmedway.org/node/1206/faq" [1]
+2017-01-01 21:54:44 URL:http://www.townofmedway.org/assessing-department [42769] -> "../data/townSites2/Medway/www.townofmedway.org/node/1171" [1]
+2017-01-01 21:54:45 URL:http://www.townofmedway.org/print/1171 [10600] -> "../data/townSites2/Medway/www.townofmedway.org/print/1171" [1]
+2017-01-01 21:54:47 URL:http://www.townofmedway.org/assessing-department/pages/mission-statement [35810] -> "../data/townSites2/Medway/www.townofmedway.org/assessing-department/pages/mission-statement" [1]
+2017-01-01 21:54:49 URL:http://www.townofmedway.org/user/266/contact [33511] -> "../data/townSites2/Medway/www.townofmedway.org/user/266/contact" [1]
+2017-01-01 21:54:51 URL:http://www.townofmedway.org/user/271/contact [33501] -> "../data/townSites2/Medway/www.townofmedway.org/user/271/contact" [1]
+2017-01-01 21:54:53 URL:http://www.townofmedway.org/user/276/contact [33501] -> "../data/townSites2/Medway/www.townofmedway.org/user/276/contact" [1]
+2017-01-01 21:54:55 URL:http://www.townofmedway.org/assessing-department/pages/downloadable-forms [35566] -> "../data/townSites2/Medway/www.townofmedway.org/assessing-department/pages/downloadable-forms" [1]
+2017-01-01 21:54:57 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/fy_17_exemption_qualify_sheet.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:54:59 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/historical_tax_rates_for_the_web_site.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:55:09 URL:http://www.massrmv.com/ [93250/93250] -> "../data/townSites2/Medway/www.townofmedway.org/assessing-department/links/ma-registry-motor-vehicles" [1]
+2017-01-01 21:55:12 URL:https://www.mapsonline.net/medwayma/index.html [43883/43883] -> "../data/townSites2/Medway/www.townofmedway.org/assessing-department/links/mapsonline" [1]
+2017-01-01 21:55:15 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/skmbt_42316061616200.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:55:17 URL:http://www.sec.state.ma.us/cis/cisexc/excidx.htm [89946/89946] -> "../data/townSites2/Medway/www.townofmedway.org/assessing-department/links/motor-vehicle-excise-taxes" [1]
+2017-01-01 21:55:21 URL:http://www.norfolkresearch.org/ALIS/WW400R.HTM?WSIQTP=SY00 [19051/19051] -> "../data/townSites2/Medway/www.townofmedway.org/assessing-department/links/norfolk-county-registry-deeds" [1]
+2017-01-01 21:55:22 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/oak_grove_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:55:24 URL:http://www.townofmedway.org/assessing-department/pages/oath-office [35676] -> "../data/townSites2/Medway/www.townofmedway.org/assessing-department/pages/oath-office" [1]
+2017-01-01 21:55:25 URL: http://medwayarchive.vt-s.net/Pages/MedwayMA_Bcomm/BOA/Index%20Map.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:55:27 URL:http://medway.patriotproperties.com/default.asp [1132/1132] -> "../data/townSites2/Medway/www.townofmedway.org/assessing-department/links/real-estate-online-data" [1]
+2017-01-01 21:55:29 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/fy17_tax_assessment_tax_bill_info.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:55:30 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/street_listing.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:55:32 URL:http://www.townofmedway.org/assessing-department/news/town-assessor-news [35228] -> "../data/townSites2/Medway/www.townofmedway.org/assessing-department/news/town-assessor-news" [1]
+2017-01-01 21:55:35 URL:http://www.townofmedway.org/assessing-department/news/news-assessing-department [35435] -> "../data/townSites2/Medway/www.townofmedway.org/assessing-department/news/news-assessing-department" [1]
+2017-01-01 21:55:37 URL:http://www.townofmedway.org/node/1171/minutes [31825] -> "../data/townSites2/Medway/www.townofmedway.org/node/1171/minutes" [1]
+2017-01-01 21:55:38 URL: http://www.townofmedway.org/sites/medwayma/files/minutes/11-21-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:55:40 URL:http://www.townofmedway.org/building-department [41839] -> "../data/townSites2/Medway/www.townofmedway.org/node/1146" [1]
+2017-01-01 21:55:42 URL:http://www.townofmedway.org/print/1146 [10507] -> "../data/townSites2/Medway/www.townofmedway.org/print/1146" [1]
+2017-01-01 21:55:46 URL:http://www.townofmedway.org/building-department/pages/mission-statement [35974] -> "../data/townSites2/Medway/www.townofmedway.org/building-department/pages/mission-statement" [1]
+2017-01-01 21:55:49 URL:http://www.townofmedway.org/user/261/contact [33451] -> "../data/townSites2/Medway/www.townofmedway.org/user/261/contact" [1]
+2017-01-01 21:55:51 URL:http://www.townofmedway.org/user/1213/contact [33502] -> "../data/townSites2/Medway/www.townofmedway.org/user/1213/contact" [1]
+2017-01-01 21:55:53 URL:http://www.townofmedway.org/user/246/contact [33519] -> "../data/townSites2/Medway/www.townofmedway.org/user/246/contact" [1]
+2017-01-01 21:55:55 URL:http://www.townofmedway.org/building-department/pages/abandoned-foreclosed-properties [35551] -> "../data/townSites2/Medway/www.townofmedway.org/building-department/pages/abandoned-foreclosed-properties" [1]
+2017-01-01 21:55:56 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/basements.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:56:00 URL:http://www.mass.gov/eopss/consumer-prot-and-bus-lic/license-type/csl/building-codebbrs.html [112930] -> "../data/townSites2/Medway/www.townofmedway.org/building-department/links/building-code" [1]
+2017-01-01 21:56:03 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/complaint_form_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:56:07 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/decks.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:56:09 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/home_builders_guide_to_meeting_2012_code_requirements.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:56:11 URL:http://www.townofmedway.org/building-department/pages/info-links-contractors [36361] -> "../data/townSites2/Medway/www.townofmedway.org/building-department/pages/info-links-contractors" [1]
+2017-01-01 21:56:14 URL:https://www.mapsonline.net/medwayma/index.html [43883/43883] -> "../data/townSites2/Medway/www.townofmedway.org/building-department/links/mapsonline" [1]
+2017-01-01 21:56:17 URL:https://www.mapsonline.net/medwayma/permit_portal.php [6232/6232] -> "../data/townSites2/Medway/www.townofmedway.org/building-department/links/online-permits" [1]
+2017-01-01 21:56:19 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/periodic_inspections.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:56:21 URL:http://www.townofmedway.org/building-department/pages/permit-fee-schedule [35547] -> "../data/townSites2/Medway/www.townofmedway.org/building-department/pages/permit-fee-schedule" [1]
+2017-01-01 21:56:22 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/pools.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:56:24 URL:https://energycode.pnl.gov/REScheckWeb/ [4271] -> "../data/townSites2/Medway/www.townofmedway.org/building-department/links/res-check" [1]
+2017-01-01 21:56:26 URL:http://www.townofmedway.org/building-department/pages/regulations-policies [36282] -> "../data/townSites2/Medway/www.townofmedway.org/building-department/pages/regulations-policies" [1]
+2017-01-01 21:56:28 URL:http://www.townofmedway.org/zoning-board-appeals [45200] -> "../data/townSites2/Medway/www.townofmedway.org/building-department/links/zoning-board-appeals" [1]
+2017-01-01 21:56:31 URL:http://www.townofmedway.org/planning-economic-development-board/pages/zoning-bylaw-and-map [35900] -> "../data/townSites2/Medway/www.townofmedway.org/building-department/links/zoning-bylaw-map" [1]
+2017-01-01 21:56:33 URL:http://www.townofmedway.org/building-department/faq/how-do-i-get-application-permit [35171] -> "../data/townSites2/Medway/www.townofmedway.org/building-department/faq/how-do-i-get-application-permit" [1]
+2017-01-01 21:56:35 URL:http://www.townofmedway.org/building-department/faq/what-zoning-district-am-i-or-who-can-tell-me-what-are-my-zoning-set-backs [35450] -> "../data/townSites2/Medway/www.townofmedway.org/building-department/faq/what-zoning-district-am-i-or-who-can-tell-me-what-are-my-zoning-set-backs" [1]
+2017-01-01 21:56:37 URL:http://www.townofmedway.org/building-department/faq/where-can-i-get-application-special-permit-or-variance [35039] -> "../data/townSites2/Medway/www.townofmedway.org/building-department/faq/where-can-i-get-application-special-permit-or-variance" [1]
+2017-01-01 21:56:39 URL:http://www.townofmedway.org/node/1146/faq [34977] -> "../data/townSites2/Medway/www.townofmedway.org/node/1146/faq" [1]
+2017-01-01 21:56:40 URL:http://www.townofmedway.org/communications [35838] -> "../data/townSites2/Medway/www.townofmedway.org/node/1576" [1]
+2017-01-01 21:56:41 URL:http://www.townofmedway.org/print/1576 [8371] -> "../data/townSites2/Medway/www.townofmedway.org/print/1576" [1]
+2017-01-01 21:56:43 URL:http://www.townofmedway.org/user/326/contact [33481] -> "../data/townSites2/Medway/www.townofmedway.org/user/326/contact" [1]
+2017-01-01 21:56:45 URL:http://www.townofmedway.org/news [47689] -> "../data/townSites2/Medway/www.townofmedway.org/communications/links/medway-news" [1]
+2017-01-01 21:56:47 URL:http://www.townofmedway.org/community-and-economic-development [50200] -> "../data/townSites2/Medway/www.townofmedway.org/node/2652" [1]
+2017-01-01 21:56:48 URL:http://www.townofmedway.org/print/2652 [9636] -> "../data/townSites2/Medway/www.townofmedway.org/print/2652" [1]
+2017-01-01 21:56:50 URL:http://www.townofmedway.org/community-and-economic-development/pages/mission-statement [34431] -> "../data/townSites2/Medway/www.townofmedway.org/community-and-economic-development/pages/mission-statement" [1]
+2017-01-01 21:56:52 URL:http://www.townofmedway.org/user/61/contact [33538] -> "../data/townSites2/Medway/www.townofmedway.org/user/61/contact" [1]
+2017-01-01 21:56:55 URL:http://www.townofmedway.org/user/993/contact [33495] -> "../data/townSites2/Medway/www.townofmedway.org/user/993/contact" [1]
+2017-01-01 21:56:57 URL:http://www.townofmedway.org/user/201/contact [33519] -> "../data/townSites2/Medway/www.townofmedway.org/user/201/contact" [1]
+2017-01-01 21:56:59 URL:http://www.townofmedway.org/user/136/contact [33497] -> "../data/townSites2/Medway/www.townofmedway.org/user/136/contact" [1]
+2017-01-01 21:57:01 URL:http://www.townofmedway.org/user/106/contact [33491] -> "../data/townSites2/Medway/www.townofmedway.org/user/106/contact" [1]
+2017-01-01 21:57:03 URL:http://www.townofmedway.org/user/131/contact [33495] -> "../data/townSites2/Medway/www.townofmedway.org/user/131/contact" [1]
+2017-01-01 21:57:05 URL:http://www.townofmedway.org/community-and-economic-development/pages/medway-oak-grove-urp [37984] -> "../data/townSites2/Medway/www.townofmedway.org/community-and-economic-development/pages/medway-oak-grove-urp" [1]
+2017-01-01 21:57:07 URL:http://www.townofmedway.org/community-and-economic-development/sign-bylaw-review-task-force [36628] -> "../data/townSites2/Medway/www.townofmedway.org/community-and-economic-development/sign-bylaw-review-task-force" [1]
+2017-01-01 21:57:09 URL:http://www.townofmedway.org/community-and-economic-development/pages/timber-crest-estates-development [58505] -> "../data/townSites2/Medway/www.townofmedway.org/community-and-economic-development/pages/timber-crest-estates-development" [1]
+2017-01-01 21:57:11 URL:http://www.townofmedway.org/community-and-economic-development/news/business-spotlight-pangea-cuisines [35311] -> "../data/townSites2/Medway/www.townofmedway.org/community-and-economic-development/news/business-spotlight-pangea-cuisines" [1]
+2017-01-01 21:57:12 URL:http://www.townofmedway.org/community-and-economic-development/news/business-spotlight-tc-scoops [36058] -> "../data/townSites2/Medway/www.townofmedway.org/community-and-economic-development/news/business-spotlight-tc-scoops" [1]
+2017-01-01 21:57:14 URL:http://www.townofmedway.org/node/2652/events/month [50118] -> "../data/townSites2/Medway/www.townofmedway.org/node/2652/events/month" [1]
+2017-01-01 21:57:16 URL:http://www.townofmedway.org/node/2652/events/month/2017-01 [50155] -> "../data/townSites2/Medway/www.townofmedway.org/node/2652/events/month/2017-01" [1]
+2017-01-01 21:57:18 URL:http://www.townofmedway.org/council-aging [45122] -> "../data/townSites2/Medway/www.townofmedway.org/node/1051" [1]
+2017-01-01 21:57:19 URL:http://www.townofmedway.org/print/1051 [9416] -> "../data/townSites2/Medway/www.townofmedway.org/print/1051" [1]
+2017-01-01 21:57:22 URL:http://www.townofmedway.org/user/256/contact [33511] -> "../data/townSites2/Medway/www.townofmedway.org/user/256/contact" [1]
+2017-01-01 21:57:25 URL:http://www.ourseniorcenter.com/find/medway-friends-of-elders [45571] -> "../data/townSites2/Medway/www.townofmedway.org/council-aging/links/friends-elders-newsletters" [1]
+2017-01-01 21:57:27 URL:http://www.townofmedway.org/council-aging/pages/fuel-assistance [34485] -> "../data/townSites2/Medway/www.townofmedway.org/council-aging/pages/fuel-assistance" [1]
+2017-01-01 21:57:29 URL:http://www.townofmedway.org/council-aging/pages/outreach [34580] -> "../data/townSites2/Medway/www.townofmedway.org/council-aging/pages/outreach" [1]
+2017-01-01 21:57:31 URL:http://www.townofmedway.org/council-aging/pages/shine-health-insurance [34681] -> "../data/townSites2/Medway/www.townofmedway.org/council-aging/pages/shine-health-insurance" [1]
+2017-01-01 21:57:33 URL:http://www.townofmedway.org/council-aging/pages/transportation [34839] -> "../data/townSites2/Medway/www.townofmedway.org/council-aging/pages/transportation" [1]
+2017-01-01 21:57:35 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/trip_brochure.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:57:37 URL:http://www.townofmedway.org/council-aging/faq/how-old-do-i-have-be-use-senior-center [34214] -> "../data/townSites2/Medway/www.townofmedway.org/council-aging/faq/how-old-do-i-have-be-use-senior-center" [1]
+2017-01-01 21:57:39 URL:http://www.townofmedway.org/council-aging/faq/can-i-get-ride-doctor%E2%80%99s-appointment [34551] -> "../data/townSites2/Medway/www.townofmedway.org/council-aging/faq/can-i-get-ride-doctorâ%80%99s-appointment" [1]
+2017-01-01 21:57:40 URL:http://www.townofmedway.org/council-aging/faq/how-can-i-find-out-about-services-may-be-available-my-elderly-parents [34453] -> "../data/townSites2/Medway/www.townofmedway.org/council-aging/faq/how-can-i-find-out-about-services-may-be-available-my-elderly-parents" [1]
+2017-01-01 21:57:42 URL:http://www.townofmedway.org/node/1051/faq [31470] -> "../data/townSites2/Medway/www.townofmedway.org/node/1051/faq" [1]
+2017-01-01 21:57:43 URL:http://www.townofmedway.org/node/1051/agenda [30111] -> "../data/townSites2/Medway/www.townofmedway.org/node/1051/agenda" [1]
+2017-01-01 21:57:45 URL:http://www.townofmedway.org/council-aging/agenda/medway-council-aging-agenda [34952] -> "../data/townSites2/Medway/www.townofmedway.org/council-aging/agenda/medway-council-aging-agenda" [1]
+2017-01-01 21:57:46 URL:http://www.townofmedway.org/node/1051/minutes [30257] -> "../data/townSites2/Medway/www.townofmedway.org/node/1051/minutes" [1]
+2017-01-01 21:57:48 URL: http://www.townofmedway.org/sites/medwayma/files/minutes/coa_12.13.16_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:57:50 URL:http://www.townofmedway.org/department-public-services [39025] -> "../data/townSites2/Medway/www.townofmedway.org/node/1036" [1]
+2017-01-01 21:57:52 URL:http://www.townofmedway.org/print/1036 [8679] -> "../data/townSites2/Medway/www.townofmedway.org/print/1036" [1]
+2017-01-01 21:57:53 URL:http://www.townofmedway.org/department-public-services/pages/mission-statement [36072] -> "../data/townSites2/Medway/www.townofmedway.org/department-public-services/pages/mission-statement" [1]
+2017-01-01 21:57:55 URL:http://www.townofmedway.org/user/76/contact [33492] -> "../data/townSites2/Medway/www.townofmedway.org/user/76/contact" [1]
+2017-01-01 21:57:58 URL:http://www.townofmedway.org/user/81/contact [33498] -> "../data/townSites2/Medway/www.townofmedway.org/user/81/contact" [1]
+2017-01-01 21:58:01 URL:http://www.townofmedway.org/user/241/contact [33487] -> "../data/townSites2/Medway/www.townofmedway.org/user/241/contact" [1]
+2017-01-01 21:58:04 URL:http://www.townofmedway.org/dps-engineering-facilities [36282] -> "../data/townSites2/Medway/www.townofmedway.org/department-public-services/links/engineering-facilities" [1]
+2017-01-01 21:58:05 URL:http://www.townofmedway.org/dps-environmental-services [47158] -> "../data/townSites2/Medway/www.townofmedway.org/department-public-services/links/environmental-services" [1]
+2017-01-01 21:58:08 URL:http://www.townofmedway.org/dps-highway-fleet-maintenance [39352] -> "../data/townSites2/Medway/www.townofmedway.org/department-public-services/links/highway-fleet-maintenance" [1]
+2017-01-01 21:58:16 URL:https://unipaygold.unibank.com/default.aspx [101065/101065] -> "../data/townSites2/Medway/www.townofmedway.org/department-public-services/links/online-permit-payments" [1]
+2017-01-01 21:58:17 URL:http://www.townofmedway.org/department-public-services/pages/online-permitting-applications [39638] -> "../data/townSites2/Medway/www.townofmedway.org/department-public-services/pages/online-permitting-applications" [1]
+2017-01-01 21:58:19 URL:http://www.townofmedway.org/department-public-services/pages/route-109-design-committee [37228] -> "../data/townSites2/Medway/www.townofmedway.org/department-public-services/pages/route-109-design-committee" [1]
+2017-01-01 21:58:21 URL:http://www.townofmedway.org/dps-water-sewer [45442] -> "../data/townSites2/Medway/www.townofmedway.org/department-public-services/links/water-sewer" [1]
+2017-01-01 21:58:23 URL:http://www.townofmedway.org/department-public-services/pages/downloadable-forms [38387] -> "../data/townSites2/Medway/www.townofmedway.org/department-public-services/pages/downloadable-forms" [1]
+2017-01-01 21:58:24 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/medway_vehicles_september_2016_0.pptx 200 OK
+unlink: No such file or directory
+2017-01-01 21:58:26 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/snow_letter_2016-2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:58:28 URL:http://www.townofmedway.org/department-public-services/news/auction-surplus-items [35528] -> "../data/townSites2/Medway/www.townofmedway.org/department-public-services/news/auction-surplus-items" [1]
+2017-01-01 21:58:29 URL:http://www.townofmedway.org/department-public-services/news/snow-plow-contractors-wanted [35578] -> "../data/townSites2/Medway/www.townofmedway.org/department-public-services/news/snow-plow-contractors-wanted" [1]
+2017-01-01 21:58:32 URL:http://www.townofmedway.org/department-public-services/news/medway-dps-extends-water-ban-until-further-notice [35766] -> "../data/townSites2/Medway/www.townofmedway.org/department-public-services/news/medway-dps-extends-water-ban-until-further-notice" [1]
+2017-01-01 21:58:33 URL:http://www.townofmedway.org/node/1036/news [34901] -> "../data/townSites2/Medway/www.townofmedway.org/node/1036/news" [1]
+2017-01-01 21:58:35 URL:http://www.townofmedway.org/fire-department [50570] -> "../data/townSites2/Medway/www.townofmedway.org/node/986" [1]
+2017-01-01 21:58:37 URL:http://www.townofmedway.org/print/986 [8966] -> "../data/townSites2/Medway/www.townofmedway.org/print/986" [1]
+2017-01-01 21:58:39 URL:http://www.townofmedway.org/user/226/contact [33495] -> "../data/townSites2/Medway/www.townofmedway.org/user/226/contact" [1]
+2017-01-01 21:58:41 URL:http://www.townofmedway.org/user/231/contact [33497] -> "../data/townSites2/Medway/www.townofmedway.org/user/231/contact" [1]
+2017-01-01 21:58:43 URL:http://www.townofmedway.org/user/405/contact [33511] -> "../data/townSites2/Medway/www.townofmedway.org/user/405/contact" [1]
+http://www.mass.gov/eopss/agencies/dfs/dfs2/osfm/pubed/fs-topics/fs-topics-a/carbon-monoxide-safety.html:
+Remote file does not exist -- broken link!!!
+2017-01-01 21:58:47 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/car_seat_new_pic.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:58:49 URL:http://www.townofmedway.org/fire-department/pages/department-personnel [38040] -> "../data/townSites2/Medway/www.townofmedway.org/fire-department/pages/department-personnel" [1]
+2017-01-01 21:58:51 URL:http://www.townofmedway.org/fire-department/slideshows/medway-fire-apparatus [41179] -> "../data/townSites2/Medway/www.townofmedway.org/fire-department/slideshows/medway-fire-apparatus" [1]
+2017-01-01 21:58:52 URL: http://www.mass.gov/eopss/docs/dfs/osfm/pubed/flyers/open-burning-fire-factors.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:58:54 URL:http://www.townofmedway.org/fire-department/pages/permits-and-fees [36319] -> "../data/townSites2/Medway/www.townofmedway.org/fire-department/pages/permits-and-fees" [1]
+2017-01-01 21:58:55 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/advisory_-_recall_combination_smoke_co_alarms_11162016.pdf 200 OK
+unlink: No such file or directory
+http://www.mass.gov/eopss/docs/dfs/osfm/pubed/flyers/consumers-guide-w-sell-1-and-2-fam.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-01 21:58:58 URL:http://www.townofmedway.org/fire-department/news/fire-department-kudos-congratulations-chris-stygles-and-christine-verdolino [35553] -> "../data/townSites2/Medway/www.townofmedway.org/fire-department/news/fire-department-kudos-congratulations-chris-stygles-and-christine-verdolino" [1]
+2017-01-01 21:58:59 URL:http://www.townofmedway.org/fire-department/news/reminder-outdoor-burning-not-allowed-time [36105] -> "../data/townSites2/Medway/www.townofmedway.org/fire-department/news/reminder-outdoor-burning-not-allowed-time" [1]
+2017-01-01 21:59:03 URL:http://www.townofmedway.org/fire-department/news/state-fire-marshals-urge-amazon-and-other-retailers-remove-potentially-unsafe [39457] -> "../data/townSites2/Medway/www.townofmedway.org/fire-department/news/state-fire-marshals-urge-amazon-and-other-retailers-remove-potentially-unsafe" [1]
+2017-01-01 21:59:04 URL:http://www.townofmedway.org/node/986/news [35614] -> "../data/townSites2/Medway/www.townofmedway.org/node/986/news" [1]
+2017-01-01 21:59:06 URL:http://www.townofmedway.org/node/986/events/month [50732] -> "../data/townSites2/Medway/www.townofmedway.org/node/986/events/month" [1]
+2017-01-01 21:59:07 URL:http://www.townofmedway.org/node/986/events/month/2017-01 [50789] -> "../data/townSites2/Medway/www.townofmedway.org/node/986/events/month/2017-01" [1]
+2017-01-01 21:59:11 URL:http://www.townofmedway.org/human-resources [34541] -> "../data/townSites2/Medway/www.townofmedway.org/node/971" [1]
+2017-01-01 21:59:13 URL:http://www.townofmedway.org/print/971 [7303] -> "../data/townSites2/Medway/www.townofmedway.org/print/971" [1]
+2017-01-01 21:59:15 URL:http://www.townofmedway.org/user/216/contact [33485] -> "../data/townSites2/Medway/www.townofmedway.org/user/216/contact" [1]
+2017-01-01 21:59:16 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/app.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 21:59:17 URL:http://www.townofmedway.org/human-resources/pages/job-opportunities [33800] -> "../data/townSites2/Medway/www.townofmedway.org/human-resources/pages/job-opportunities" [1]
+2017-01-01 21:59:20 URL:http://www.townofmedway.org/information-services-department [39884] -> "../data/townSites2/Medway/www.townofmedway.org/node/956" [1]
+2017-01-01 21:59:21 URL:http://www.townofmedway.org/print/956 [11781] -> "../data/townSites2/Medway/www.townofmedway.org/print/956" [1]
+2017-01-01 21:59:24 URL:http://www.townofmedway.org/user/211/contact [33630] -> "../data/townSites2/Medway/www.townofmedway.org/user/211/contact" [1]
+2017-01-01 21:59:26 URL:http://www.townofmedway.org/user/206/contact [33521] -> "../data/townSites2/Medway/www.townofmedway.org/user/206/contact" [1]
+20 redirections exceeded.
+2017-01-01 21:59:43 URL:https://www.youtube.com/watch?v=kUyQI0USNSY [127545] -> "../data/townSites2/Medway/www.townofmedway.org/information-services-department/links/common-sense-internet-safety" [1]
+2017-01-01 21:59:46 URL:http://digitalcitizenship.net/ [12741] -> "../data/townSites2/Medway/www.townofmedway.org/information-services-department/links/digital-citizenship" [1]
+2017-01-01 21:59:48 URL:http://www.townofmedway.org/information-services-department/pages/gismapping [33400] -> "../data/townSites2/Medway/www.townofmedway.org/information-services-department/pages/gismapping" [1]
+2017-01-01 21:59:50 URL:https://www.google.com/safetycenter/families/start/basics/ [48791] -> "../data/townSites2/Medway/www.townofmedway.org/information-services-department/links/google-parental-controls" [1]
+2017-01-01 21:59:52 URL:http://www.netsmartz.org/Parents [26882/26882] -> "../data/townSites2/Medway/www.townofmedway.org/information-services-department/links/netsmartz" [1]
+2017-01-01 21:59:53 URL:http://www.pbs.org/wgbh/pages/frontline/kidsonline/ [22706] -> "../data/townSites2/Medway/www.townofmedway.org/information-services-department/links/pbs-resources" [1]
+2017-01-01 21:59:57 URL:https://wbillpay.verizonwireless.com/vzw/nos/safeguards/safeguardLandingPage.action [54488] -> "../data/townSites2/Medway/www.townofmedway.org/information-services-department/links/verizon-parental-controls" [1]
+2017-01-01 21:59:59 URL:http://www.townofmedway.org/information-services-department/faq/does-town-or-school-department-accept-donations-technology [33498] -> "../data/townSites2/Medway/www.townofmedway.org/information-services-department/faq/does-town-or-school-department-accept-donations-technology" [1]
+2017-01-01 22:00:00 URL:http://www.townofmedway.org/information-services-department/faq/how-can-i-dispose-electronic-equipment-safely [33255] -> "../data/townSites2/Medway/www.townofmedway.org/information-services-department/faq/how-can-i-dispose-electronic-equipment-safely" [1]
+2017-01-01 22:00:02 URL:http://www.townofmedway.org/police-department [38741] -> "../data/townSites2/Medway/www.townofmedway.org/node/906" [1]
+2017-01-01 22:00:03 URL:http://www.townofmedway.org/print/906 [8721] -> "../data/townSites2/Medway/www.townofmedway.org/print/906" [1]
+2017-01-01 22:00:05 URL:http://www.townofmedway.org/police-department/pages/mission-statement [35129] -> "../data/townSites2/Medway/www.townofmedway.org/police-department/pages/mission-statement" [1]
+2017-01-01 22:00:08 URL:http://www.townofmedway.org/user/186/contact [33505] -> "../data/townSites2/Medway/www.townofmedway.org/user/186/contact" [1]
+2017-01-01 22:00:10 URL:http://www.townofmedway.org/user/191/contact [33545] -> "../data/townSites2/Medway/www.townofmedway.org/user/191/contact" [1]
+2017-01-01 22:00:12 URL:http://www.townofmedway.org/user/196/contact [33525] -> "../data/townSites2/Medway/www.townofmedway.org/user/196/contact" [1]
+2017-01-01 22:00:15 URL:http://www.townofmedway.org/user/423/contact [33509] -> "../data/townSites2/Medway/www.townofmedway.org/user/423/contact" [1]
+2017-01-01 22:00:17 URL:http://www.townofmedway.org/police-department/pages/crime-statistics [34818] -> "../data/townSites2/Medway/www.townofmedway.org/police-department/pages/crime-statistics" [1]
+2017-01-01 22:00:19 URL:http://www.townofmedway.org/police-department/pages/department-personnel [38883] -> "../data/townSites2/Medway/www.townofmedway.org/police-department/pages/department-personnel" [1]
+2017-01-01 22:00:21 URL:http://www.townofmedway.org/police-department/pages/downloadable-forms [34854] -> "../data/townSites2/Medway/www.townofmedway.org/police-department/pages/downloadable-forms" [1]
+2017-01-01 22:00:23 URL:http://www.townofmedway.org/police-department/pages/helpful-links [35750] -> "../data/townSites2/Medway/www.townofmedway.org/police-department/pages/helpful-links" [1]
+2017-01-01 22:00:26 URL:https://www.massmostwanted.org/ [32265] -> "../data/townSites2/Medway/www.townofmedway.org/police-department/links/mass-most-wanted" [1]
+2017-01-01 22:00:28 URL:http://www.townofmedway.org/police-department/webforms/tip-center [50551/50551] -> "../data/townSites2/Medway/www.townofmedway.org/police-department/webforms/tip-center" [1]
+2017-01-01 22:00:30 URL:http://www.townofmedway.org/police-department/news/medway-police-department-training [35453] -> "../data/townSites2/Medway/www.townofmedway.org/police-department/news/medway-police-department-training" [1]
+2017-01-01 22:00:32 URL:http://www.townofmedway.org/police-department/news/reminder-outdoor-burning-not-allowed-time [35590] -> "../data/townSites2/Medway/www.townofmedway.org/police-department/news/reminder-outdoor-burning-not-allowed-time" [1]
+2017-01-01 22:00:34 URL:http://www.townofmedway.org/police-department/news/congratulations-and-welcome-medway-police-department [34943] -> "../data/townSites2/Medway/www.townofmedway.org/police-department/news/congratulations-and-welcome-medway-police-department" [1]
+2017-01-01 22:00:35 URL:http://www.townofmedway.org/node/906/news [35868] -> "../data/townSites2/Medway/www.townofmedway.org/node/906/news" [1]
+2017-01-01 22:00:36 URL:http://www.townofmedway.org/town-accountant [35083] -> "../data/townSites2/Medway/www.townofmedway.org/node/886" [1]
+2017-01-01 22:00:38 URL:http://www.townofmedway.org/print/886 [7330] -> "../data/townSites2/Medway/www.townofmedway.org/print/886" [1]
+2017-01-01 22:00:39 URL:http://www.townofmedway.org/town-accountant/pages/mission-statement [34298] -> "../data/townSites2/Medway/www.townofmedway.org/town-accountant/pages/mission-statement" [1]
+2017-01-01 22:00:41 URL:http://www.townofmedway.org/user/181/contact [33485] -> "../data/townSites2/Medway/www.townofmedway.org/user/181/contact" [1]
+2017-01-01 22:00:43 URL:http://www.townofmedway.org/town-accountant/pages/financial-documents [34249] -> "../data/townSites2/Medway/www.townofmedway.org/town-accountant/pages/financial-documents" [1]
+http://www.mass.gov/dor/local-officials/municipal-data-and-financial-management/:
+Remote file does not exist -- broken link!!!
+2017-01-01 22:00:46 URL:http://www.townofmedway.org/town-administrator [35785] -> "../data/townSites2/Medway/www.townofmedway.org/node/851" [1]
+2017-01-01 22:00:48 URL:http://www.townofmedway.org/print/851 [7374] -> "../data/townSites2/Medway/www.townofmedway.org/print/851" [1]
+2017-01-01 22:00:49 URL:http://www.townofmedway.org/town-administrator/pages/welcome-statement [37457] -> "../data/townSites2/Medway/www.townofmedway.org/town-administrator/pages/welcome-statement" [1]
+2017-01-01 22:00:51 URL:http://www.townofmedway.org/user/161/contact [33511] -> "../data/townSites2/Medway/www.townofmedway.org/user/161/contact" [1]
+2017-01-01 22:00:53 URL:http://www.townofmedway.org/user/166/contact [33497] -> "../data/townSites2/Medway/www.townofmedway.org/user/166/contact" [1]
+2017-01-01 22:00:55 URL:http://www.townofmedway.org/user/374/contact [33515] -> "../data/townSites2/Medway/www.townofmedway.org/user/374/contact" [1]
+2017-01-01 22:00:56 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/bylaws.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:00:57 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/federal_legislators_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:00:59 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/medway_vehicles_september_2016.pptx 200 OK
+unlink: No such file or directory
+2017-01-01 22:01:00 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/powersduties.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:01:01 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/state_legislators_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:01:03 URL:http://www.mass.gov/portal/ [66165] -> "../data/townSites2/Medway/www.townofmedway.org/town-administrator/links/state-massachusetts" [1]
+2017-01-01 22:01:05 URL:http://www.townofmedway.org/town-administrator/pages/town-meeting-agendas [34016] -> "../data/townSites2/Medway/www.townofmedway.org/town-administrator/pages/town-meeting-agendas" [1]
+2017-01-01 22:01:06 URL:http://www.townofmedway.org/town-clerk [57467] -> "../data/townSites2/Medway/www.townofmedway.org/node/9" [1]
+2017-01-01 22:01:07 URL:http://www.townofmedway.org/print/9 [7887] -> "../data/townSites2/Medway/www.townofmedway.org/print/9" [1]
+2017-01-01 22:01:08 URL:http://www.townofmedway.org/town-clerk/bulletins/town-election-may-17-2016-700am-800pm-medway-middle-school [35503] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/bulletins/town-election-may-17-2016-700am-800pm-medway-middle-school" [1]
+2017-01-01 22:01:10 URL:http://www.townofmedway.org/town-clerk/pages/mission-statement [36013] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/pages/mission-statement" [1]
+2017-01-01 22:01:12 URL:http://www.townofmedway.org/user/151/contact [33493] -> "../data/townSites2/Medway/www.townofmedway.org/user/151/contact" [1]
+2017-01-01 22:01:14 URL:http://www.townofmedway.org/user/156/contact [33509] -> "../data/townSites2/Medway/www.townofmedway.org/user/156/contact" [1]
+2017-01-01 22:01:15 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/skmbt_65416110922180.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:01:16 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/skmbt_65415030505130.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:01:17 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/2015-annual-election-results.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:01:19 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/skmbt_65416030205331.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:01:20 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/skmbt_65416030205330.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:01:22 URL:http://www.townofmedway.org/town-clerk/pages/annual-town-report [35566] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/pages/annual-town-report" [1]
+2017-01-01 22:01:23 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/new_dba_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:01:25 URL:http://www.townofmedway.org/town-clerk/pages/election-results-may-17-2016 [35590] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/pages/election-results-may-17-2016" [1]
+2017-01-01 22:01:27 URL:http://www.townofmedway.org/town-clerk/pages/list-elected-boards-committees [39314] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/pages/list-elected-boards-committees" [1]
+2017-01-01 22:01:30 URL:http://www.townofmedway.org/town-clerk/faq/how-do-i-obtain-marriage-license-0 [36062] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/links/marriage-license" [1]
+2017-01-01 22:01:33 URL:https://townforms.com/TownForms/public/Login/BusinessUserLogin.aspx?ch=C7975294ECCBCCF76A1C3FAD63314450&rtn=/public/forms/formViewer.aspx%3Fch%3D8E364967BF00CE56D11788F47CBB6139%26fn%3DSHDogLicense [14543/14543] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/links/online-dog-license-renewals" [1]
+2017-01-01 22:01:35 URL:http://www.mass.gov/ago/government-resources/open-meeting-law/ [85909] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/links/open-meeting-law" [1]
+2017-01-01 22:01:36 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/precinct_description_page_1.png 200 OK
+unlink: No such file or directory
+2017-01-01 22:01:38 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/precinct_description_page_2.png 200 OK
+unlink: No such file or directory
+http://www.mass.gov/ethics/new-online-programs-available-december2012.html:
+Remote file does not exist -- broken link!!!
+2017-01-01 22:01:41 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/bylaws_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:01:42 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/towncharter.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:01:44 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/elec.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:01:45 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/requestforvitalrecords.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:01:47 URL:http://www.sec.state.ma.us/ele/eleifv/howabs.htm [71761/71761] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/links/voter-registration-absentee-ballots" [1]
+2017-01-01 22:01:49 URL:http://www.townofmedway.org/planning-economic-development-board/pages/zoning-bylaw-and-map [35900] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/links/zoning-bylaws" [1]
+2017-01-01 22:01:50 URL:http://www.townofmedway.org/town-clerk/faq/how-do-i-obtain-marriage-license-0 [36062] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/faq/how-do-i-obtain-marriage-license-0" [1]
+2017-01-01 22:01:54 URL:http://www.townofmedway.org/town-clerk/faq/how-do-i-obtain-birth-certificates [35788] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/faq/how-do-i-obtain-birth-certificates" [1]
+2017-01-01 22:01:54 URL:http://www.townofmedway.org/town-clerk/faq/how-do-i-obtain-business-certificate-dba [36039] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/faq/how-do-i-obtain-business-certificate-dba" [1]
+2017-01-01 22:01:56 URL:http://www.townofmedway.org/node/9/faq [33959] -> "../data/townSites2/Medway/www.townofmedway.org/node/9/faq" [1]
+2017-01-01 22:01:57 URL:http://www.townofmedway.org/town-clerk/news/early-voting-fall [36120] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/news/early-voting-fall" [1]
+2017-01-01 22:02:00 URL:http://www.townofmedway.org/town-clerk/news/state-primary-thursday-sept-8-2016 [35752] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/news/state-primary-thursday-sept-8-2016" [1]
+2017-01-01 22:02:01 URL:http://www.townofmedway.org/town-clerk/news/town-election-may-17-2016-700am-800pm-medway-middle-school [35620] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/news/town-election-may-17-2016-700am-800pm-medway-middle-school" [1]
+2017-01-01 22:02:03 URL:http://www.townofmedway.org/node/9/events/month [114806] -> "../data/townSites2/Medway/www.townofmedway.org/node/9/events/month" [1]
+2017-01-01 22:02:05 URL:http://www.townofmedway.org/node/9/events/day/2017-01-03 [36739] -> "../data/townSites2/Medway/www.townofmedway.org/node/9/events/day/2017-01-03" [1]
+2017-01-01 22:02:06 URL:http://www.townofmedway.org/town-clerk/events/22043 [36692] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/events/22043" [1]
+2017-01-01 22:02:08 URL:http://www.townofmedway.org/town-clerk/events/22073 [37429] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/events/22073" [1]
+2017-01-01 22:02:10 URL:http://www.townofmedway.org/town-clerk/events/22093 [37499] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/events/22093" [1]
+2017-01-01 22:02:12 URL:http://www.townofmedway.org/town-clerk/events/22283 [37916] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/events/22283" [1]
+2017-01-01 22:02:13 URL:http://www.townofmedway.org/town-clerk/events/21943 [37525] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/events/21943" [1]
+2017-01-01 22:02:15 URL:http://www.townofmedway.org/node/9/events/day/2017-01-04 [35759] -> "../data/townSites2/Medway/www.townofmedway.org/node/9/events/day/2017-01-04" [1]
+2017-01-01 22:02:17 URL:http://www.townofmedway.org/town-clerk/events/21973 [37305] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/events/21973" [1]
+2017-01-01 22:02:19 URL:http://www.townofmedway.org/town-clerk/events/21613 [35815] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/events/21613" [1]
+2017-01-01 22:02:20 URL:http://www.townofmedway.org/node/9/events/day/2017-01-05 [36088] -> "../data/townSites2/Medway/www.townofmedway.org/node/9/events/day/2017-01-05" [1]
+2017-01-01 22:02:22 URL:http://www.townofmedway.org/town-clerk/events/21953 [39881] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/events/21953" [1]
+2017-01-01 22:02:24 URL:http://www.townofmedway.org/town-clerk/events/21963 [39853] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/events/21963" [1]
+2017-01-01 22:02:25 URL:http://www.townofmedway.org/town-clerk/events/21983 [37232] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/events/21983" [1]
+2017-01-01 22:02:27 URL:http://www.townofmedway.org/node/9/events/day/2017-01-10 [35746] -> "../data/townSites2/Medway/www.townofmedway.org/node/9/events/day/2017-01-10" [1]
+2017-01-01 22:02:29 URL:http://www.townofmedway.org/town-clerk/events/16623 [35500] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/events/16623" [1]
+2017-01-01 22:02:31 URL:http://www.townofmedway.org/town-clerk/events/21773 [40338] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/events/21773" [1]
+2017-01-01 22:02:32 URL:http://www.townofmedway.org/node/9/events/day/2017-01-24 [35370] -> "../data/townSites2/Medway/www.townofmedway.org/node/9/events/day/2017-01-24" [1]
+2017-01-01 22:02:34 URL:http://www.townofmedway.org/town-clerk/events/16633 [35496] -> "../data/townSites2/Medway/www.townofmedway.org/town-clerk/events/16633" [1]
+2017-01-01 22:02:37 URL:http://www.townofmedway.org/node/9/events/month/2017-01 [114875] -> "../data/townSites2/Medway/www.townofmedway.org/node/9/events/month/2017-01" [1]
+2017-01-01 22:02:38 URL:http://www.townofmedway.org/treasurercollector [38151] -> "../data/townSites2/Medway/www.townofmedway.org/node/821" [1]
+2017-01-01 22:02:39 URL:http://www.townofmedway.org/print/821 [8026] -> "../data/townSites2/Medway/www.townofmedway.org/print/821" [1]
+2017-01-01 22:02:41 URL:http://www.townofmedway.org/treasurercollector/pages/mission-statement [34860] -> "../data/townSites2/Medway/www.townofmedway.org/treasurercollector/pages/mission-statement" [1]
+2017-01-01 22:02:43 URL:http://www.townofmedway.org/user/146/contact [33515] -> "../data/townSites2/Medway/www.townofmedway.org/user/146/contact" [1]
+2017-01-01 22:02:44 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/legal_notice.docx 200 OK
+unlink: No such file or directory
+2017-01-01 22:02:49 URL:https://unipaygold.unibank.com/default.aspx [101065/101065] -> "../data/townSites2/Medway/www.townofmedway.org/treasurercollector/links/online-bill-payments" [1]
+2017-01-01 22:02:51 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/re2016-inteffdate02012017.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:02:53 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/re2017-inteffdate_02012017.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:02:54 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/unclaimed_checks.xls 200 OK
+unlink: No such file or directory
+2017-01-01 22:02:56 URL:http://www.townofmedway.org/treasurercollector/faq/i-sent-my-payment-my-vehicle-excise-tax-and-received-notice-amounts-due-what [34322] -> "../data/townSites2/Medway/www.townofmedway.org/treasurercollector/faq/i-sent-my-payment-my-vehicle-excise-tax-and-received-notice-amounts-due-what" [1]
+2017-01-01 22:03:00 URL:http://www.townofmedway.org/treasurercollector/faq/i-received-excise-tax-bill-and-i-no-longer-own-vehicle-what-should-i-do [34314] -> "../data/townSites2/Medway/www.townofmedway.org/treasurercollector/faq/i-received-excise-tax-bill-and-i-no-longer-own-vehicle-what-should-i-do" [1]
+2017-01-01 22:03:02 URL:http://www.townofmedway.org/treasurercollector/faq/i-cannot-renew-my-registration-because-i-owe-motor-vehicle-excise-taxes-how [34171] -> "../data/townSites2/Medway/www.townofmedway.org/treasurercollector/faq/i-cannot-renew-my-registration-because-i-owe-motor-vehicle-excise-taxes-how" [1]
+2017-01-01 22:03:04 URL:http://www.townofmedway.org/node/821/faq [34050] -> "../data/townSites2/Medway/www.townofmedway.org/node/821/faq" [1]
+2017-01-01 22:03:06 URL:http://www.townofmedway.org/veterans-services [39198] -> "../data/townSites2/Medway/www.townofmedway.org/node/811" [1]
+2017-01-01 22:03:08 URL:http://www.townofmedway.org/print/811 [8748] -> "../data/townSites2/Medway/www.townofmedway.org/print/811" [1]
+2017-01-01 22:03:09 URL:http://www.townofmedway.org/veterans-services/pages/mission-statement [34472] -> "../data/townSites2/Medway/www.townofmedway.org/veterans-services/pages/mission-statement" [1]
+2017-01-01 22:03:10 URL:http://www.townofmedway.org/user/141/contact [33491] -> "../data/townSites2/Medway/www.townofmedway.org/user/141/contact" [1]
+2017-01-01 22:03:12 URL:http://www.townofmedway.org/veterans-services/pages/medway-monument-approved-list [39325] -> "../data/townSites2/Medway/www.townofmedway.org/veterans-services/pages/medway-monument-approved-list" [1]
+2017-01-01 22:03:15 URL:http://www.metrowestveteranservices.com/ [44403] -> "../data/townSites2/Medway/www.townofmedway.org/veterans-services/links/metro-west-veteran-services" [1]
+2017-01-01 22:03:17 URL:http://www.townofmedway.org/veterans-services/pages/no-record-service-listing [34935] -> "../data/townSites2/Medway/www.townofmedway.org/veterans-services/pages/no-record-service-listing" [1]
+2017-01-01 22:03:18 URL:http://www.townofmedway.org/node/811/agenda [29774] -> "../data/townSites2/Medway/www.townofmedway.org/node/811/agenda" [1]
+2017-01-01 22:03:19 URL: http://www.townofmedway.org/sites/medwayma/files/agendas/veterans_agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:03:20 URL:http://www.townofmedway.org/affordable-housing [37271] -> "../data/townSites2/Medway/www.townofmedway.org/node/766" [1]
+2017-01-01 22:03:21 URL:http://www.townofmedway.org/print/766 [6565] -> "../data/townSites2/Medway/www.townofmedway.org/print/766" [1]
+2017-01-01 22:03:24 URL:http://www.townofmedway.org/affordable-housing-committee [39078] -> "../data/townSites2/Medway/www.townofmedway.org/affordable-housing/links/affordable-housing-committee" [1]
+2017-01-01 22:03:26 URL:http://www.townofmedway.org/affordable-housing/webforms/affordable-housing-information-request [52580/52580] -> "../data/townSites2/Medway/www.townofmedway.org/affordable-housing/webforms/affordable-housing-information-request" [1]
+2017-01-01 22:03:29 URL:http://www.townofmedway.org/affordable-housing-trust [38840] -> "../data/townSites2/Medway/www.townofmedway.org/affordable-housing/links/affordable-housing-trust" [1]
+2017-01-01 22:03:30 URL:http://www.townofmedway.org/affordable-housing/news/affordable-housing-news [34128] -> "../data/townSites2/Medway/www.townofmedway.org/affordable-housing/news/affordable-housing-news" [1]
+2017-01-01 22:03:32 URL:http://www.townofmedway.org/node/766/agenda [29720] -> "../data/townSites2/Medway/www.townofmedway.org/node/766/agenda" [1]
+2017-01-01 22:03:34 URL:http://www.townofmedway.org/affordable-housing/agenda/12012016 [33657] -> "../data/townSites2/Medway/www.townofmedway.org/affordable-housing/agenda/12012016" [1]
+2017-01-01 22:03:35 URL:http://www.townofmedway.org/node/766/minutes [29724] -> "../data/townSites2/Medway/www.townofmedway.org/node/766/minutes" [1]
+2017-01-01 22:03:36 URL: http://www.townofmedway.org/sites/medwayma/files/minutes/110316.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:03:37 URL:http://www.townofmedway.org/board-health [58228] -> "../data/townSites2/Medway/www.townofmedway.org/node/1001" [1]
+2017-01-01 22:03:39 URL:http://www.townofmedway.org/print/1001 [11896] -> "../data/townSites2/Medway/www.townofmedway.org/print/1001" [1]
+2017-01-01 22:03:40 URL:http://www.townofmedway.org/board-health/pages/mission-statement [37794] -> "../data/townSites2/Medway/www.townofmedway.org/board-health/pages/mission-statement" [1]
+2017-01-01 22:03:43 URL:http://www.townofmedway.org/user/236/contact [33495] -> "../data/townSites2/Medway/www.townofmedway.org/user/236/contact" [1]
+2017-01-01 22:03:44 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/skmbt_42316092714050.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:03:45 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/2017_fee_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:03:46 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/notice_regarding_online_applications_-_website.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:03:48 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/skmbt_42316061610060.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:03:52 URL:https://www.cdc.gov/EasternEquineEncephalitis/ [34016/34016] -> "../data/townSites2/Medway/www.townofmedway.org/board-health/links/eastern-equine-encephalitis" [1]
+2017-01-01 22:03:53 URL: http://www.mass.gov/eohhs/docs/dph/environmental/exposure/faq-artificial-turf-0615.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:03:55 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/funeral_directors_renewal.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:03:56 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/head_injuries.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:03:59 URL:http://www.mass.gov/eea/agencies/massdep/service/massdep-site-help.html [164906] -> "../data/townSites2/Medway/www.townofmedway.org/board-health/links/how-care-my-septic-system" [1]
+2017-01-01 22:04:07 URL:http://www.mass.gov/eea/agencies/massdep/ [216422] -> "../data/townSites2/Medway/www.townofmedway.org/board-health/links/ma-dept-environmental-protection" [1]
+2017-01-01 22:04:09 URL:http://www.mass.gov/eohhs/gov/departments/dph/ [51312] -> "../data/townSites2/Medway/www.townofmedway.org/board-health/links/ma-dept-public-health" [1]
+2017-01-01 22:04:11 URL: http://www.mass.gov/eohhs/docs/dph/regs/105cmr590.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:04:12 URL: http://www.mass.gov/eohhs/docs/dph/regs/105cmr410.rtf 200 OK
+unlink: No such file or directory
+2017-01-01 22:04:15 URL:http://www.mass.gov/eea/agencies/massdep/service/massdep-site-help.html [164906] -> "../data/townSites2/Medway/www.townofmedway.org/board-health/links/ma-title-5-regulations" [1]
+2017-01-01 22:04:16 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/medway_public_smoking_regs.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:04:18 URL:http://www.townofmedway.org/board-health/pages/safe-coalition-opioid-info-resources [37275] -> "../data/townSites2/Medway/www.townofmedway.org/board-health/pages/safe-coalition-opioid-info-resources" [1]
+2017-01-01 22:04:19 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/septic_haulers_list_-_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:04:21 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/septic_installers_list_-_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:04:22 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/community_septic_management_betterment_program.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:04:23 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/solid_waste_hauler_-_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:04:25 URL:http://www.cdc.gov/lyme/prev/index.html [32584/32584] -> "../data/townSites2/Medway/www.townofmedway.org/board-health/links/tick-bite-prevention" [1]
+2017-01-01 22:04:26 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/medway_boh_regs_tobacco.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:04:28 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/factsheet.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:04:29 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/well_application_appendix_a.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:04:30 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/well_certificate_appendix_c.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:04:32 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/well_certificate_appendix_b.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:04:35 URL:https://www.cdc.gov/westnile/index.html [39303/39303] -> "../data/townSites2/Medway/www.townofmedway.org/board-health/links/west-nile-virus-fact-sheet" [1]
+2017-01-01 22:04:37 URL:http://www.townofmedway.org/board-health/news/be-prepared-stay-safe-and-healthy-winter-0 [36966] -> "../data/townSites2/Medway/www.townofmedway.org/board-health/news/be-prepared-stay-safe-and-healthy-winter-0" [1]
+2017-01-01 22:04:39 URL:http://www.townofmedway.org/node/1001/events/month [53486] -> "../data/townSites2/Medway/www.townofmedway.org/node/1001/events/month" [1]
+2017-01-01 22:04:41 URL:http://www.townofmedway.org/node/1001/events/month/2017-01 [53543] -> "../data/townSites2/Medway/www.townofmedway.org/node/1001/events/month/2017-01" [1]
+2017-01-01 22:04:43 URL:http://www.townofmedway.org/node/1001/agenda [33436] -> "../data/townSites2/Medway/www.townofmedway.org/node/1001/agenda" [1]
+2017-01-01 22:04:44 URL:http://www.townofmedway.org/board-health/agenda/12192016 [37416] -> "../data/townSites2/Medway/www.townofmedway.org/board-health/agenda/12192016" [1]
+2017-01-01 22:04:46 URL:http://www.townofmedway.org/node/1001/minutes [33788] -> "../data/townSites2/Medway/www.townofmedway.org/node/1001/minutes" [1]
+2017-01-01 22:04:47 URL: http://www.townofmedway.org/sites/medwayma/files/minutes/12516_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:04:48 URL:http://www.townofmedway.org/board-selectmen [53553] -> "../data/townSites2/Medway/www.townofmedway.org/node/756" [1]
+2017-01-01 22:04:50 URL:http://www.townofmedway.org/print/756 [12446] -> "../data/townSites2/Medway/www.townofmedway.org/print/756" [1]
+2017-01-01 22:04:51 URL:http://www.townofmedway.org/user/126/contact [33557] -> "../data/townSites2/Medway/www.townofmedway.org/user/126/contact" [1]
+2017-01-01 22:04:53 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/committee_descriptions.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:04:54 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/1-3-17_press_packet.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:04:55 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/2016holidaysobserved.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:04:56 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/2017holidaycalendar.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:04:57 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/ada_policy_final_approved_by_m_terry_june_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:04:59 URL:http://www.townofmedway.org/board-selectmen/pages/cable-tv-licenses [35872] -> "../data/townSites2/Medway/www.townofmedway.org/board-selectmen/pages/cable-tv-licenses" [1]
+2017-01-01 22:05:02 URL:http://www.milforddailynews.com/article/20160509/NEWS/160506220 [40525] -> "../data/townSites2/Medway/www.townofmedway.org/board-selectmen/links/exelon-pilot-agreement-approved-town-meeting" [1]
+2017-01-01 22:05:03 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/fy17_bos_meeting_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:05:04 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/fiscal_year_2018_budget_policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:05:05 URL:http://www.townofmedway.org/board-selectmen/pages/forms [36052] -> "../data/townSites2/Medway/www.townofmedway.org/board-selectmen/pages/forms" [1]
+2017-01-01 22:05:07 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/masterplan.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:05:09 URL:http://www.townofmedway.org/board-selectmen/pages/meeting-materials [39671] -> "../data/townSites2/Medway/www.townofmedway.org/board-selectmen/pages/meeting-materials" [1]
+2017-01-01 22:05:12 URL:http://www.mass.gov/ago/government-resources/open-meeting-law/ [85909] -> "../data/townSites2/Medway/www.townofmedway.org/board-selectmen/links/open-meeting-law" [1]
+2017-01-01 22:05:13 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/bannerdisplaypolicy-and-application_final_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:05:14 URL:http://www.townofmedway.org/board-selectmen/pages/rules-regulations [36254] -> "../data/townSites2/Medway/www.townofmedway.org/board-selectmen/pages/rules-regulations" [1]
+2017-01-01 22:05:16 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/board_of_selectmen_fy17liaisonlist.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:05:18 URL:http://www.townofmedway.org/board-selectmen/pages/state-town-reports [36162] -> "../data/townSites2/Medway/www.townofmedway.org/board-selectmen/pages/state-town-reports" [1]
+2017-01-01 22:05:19 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/ms4-for-web_8-15-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:05:21 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/bylaws_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:05:22 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/towncharter_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:05:24 URL:http://www.townofmedway.org/board-selectmen/pages/town-meeting-information [39816] -> "../data/townSites2/Medway/www.townofmedway.org/board-selectmen/pages/town-meeting-information" [1]
+2017-01-01 22:05:26 URL:http://www.townofmedway.org/node/756/events/month [52334] -> "../data/townSites2/Medway/www.townofmedway.org/node/756/events/month" [1]
+2017-01-01 22:05:27 URL:http://www.townofmedway.org/node/756/events/month/2017-01 [52395] -> "../data/townSites2/Medway/www.townofmedway.org/node/756/events/month/2017-01" [1]
+2017-01-01 22:05:29 URL:http://www.townofmedway.org/node/756/agenda [32492] -> "../data/townSites2/Medway/www.townofmedway.org/node/756/agenda" [1]
+2017-01-01 22:05:30 URL: http://www.townofmedway.org/sites/medwayma/files/agendas/1-3-17.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:05:31 URL:http://www.townofmedway.org/node/756/minutes [32778] -> "../data/townSites2/Medway/www.townofmedway.org/node/756/minutes" [1]
+2017-01-01 22:05:33 URL: http://www.townofmedway.org/sites/medwayma/files/minutes/8-30-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:05:34 URL:http://www.townofmedway.org/conservation-commission [42995] -> "../data/townSites2/Medway/www.townofmedway.org/node/776" [1]
+2017-01-01 22:05:35 URL:http://www.townofmedway.org/print/776 [11552] -> "../data/townSites2/Medway/www.townofmedway.org/print/776" [1]
+2017-01-01 22:05:36 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/8_11_16_concom_revisedagenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:05:37 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/eagle_scout_brochure_final_medway.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:05:39 URL:http://www.townofmedway.org/conservation-commission/pages/flyers-brochures [34467] -> "../data/townSites2/Medway/www.townofmedway.org/conservation-commission/pages/flyers-brochures" [1]
+2017-01-01 22:05:41 URL:http://www.townofmedway.org/conservation-commission/pages/forms [35086] -> "../data/townSites2/Medway/www.townofmedway.org/conservation-commission/pages/forms" [1]
+2017-01-01 22:05:43 URL:http://www.mass.gov/eea/agencies/massdep/water/regulations/snow-disposal-guidance.html [176688] -> "../data/townSites2/Medway/www.townofmedway.org/conservation-commission/links/ma-dep-snow-disposal-guidelines" [1]
+2017-01-01 22:05:46 URL:http://www.mass.gov/eea/agencies/massdep/ [216422] -> "../data/townSites2/Medway/www.townofmedway.org/conservation-commission/links/ma-dep-website" [1]
+2017-01-01 22:05:48 URL:https://www.maccweb.org/ [15974/15974] -> "../data/townSites2/Medway/www.townofmedway.org/conservation-commission/links/macc" [1]
+2017-01-01 22:05:55 URL:https://www.mapsonline.net/medwayma/index.html [43883/43883] -> "../data/townSites2/Medway/www.townofmedway.org/conservation-commission/links/mapsonline" [1]
+2017-01-01 22:05:59 URL:http://www.townofmedway.org/conservation-commission/pages/meeting-schedules [35008] -> "../data/townSites2/Medway/www.townofmedway.org/conservation-commission/pages/meeting-schedules" [1]
+2017-01-01 22:06:02 URL:https://www.mapsonline.net/medwayma/concom.html [44450/44450] -> "../data/townSites2/Medway/www.townofmedway.org/conservation-commission/links/natural-resource-map" [1]
+2017-01-01 22:06:05 URL:http://www.townofmedway.org/conservation-commission/pages/rules-regulations [34798] -> "../data/townSites2/Medway/www.townofmedway.org/conservation-commission/pages/rules-regulations" [1]
+2017-01-01 22:06:12 URL:https://www.epa.gov/npdes [31840/31840] -> "../data/townSites2/Medway/www.townofmedway.org/conservation-commission/links/stormwater-regulations" [1]
+2017-01-01 22:06:14 URL:http://www.townofmedway.org/node/776/agenda [31443] -> "../data/townSites2/Medway/www.townofmedway.org/node/776/agenda" [1]
+2017-01-01 22:06:17 URL:http://www.townofmedway.org/conservation-commission/agenda/december-8-2016-meeting-agenda [34882] -> "../data/townSites2/Medway/www.townofmedway.org/conservation-commission/agenda/december-8-2016-meeting-agenda" [1]
+2017-01-01 22:06:19 URL:http://www.townofmedway.org/node/776/minutes [31439] -> "../data/townSites2/Medway/www.townofmedway.org/node/776/minutes" [1]
+2017-01-01 22:06:20 URL: http://www.townofmedway.org/sites/medwayma/files/minutes/09_22_16_approved_meeting_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:06:22 URL:http://www.townofmedway.org/historical-commission [38396] -> "../data/townSites2/Medway/www.townofmedway.org/node/396" [1]
+2017-01-01 22:06:23 URL:http://www.townofmedway.org/print/396 [7507] -> "../data/townSites2/Medway/www.townofmedway.org/print/396" [1]
+2017-01-01 22:06:25 URL:http://www.townofmedway.org/user/91/contact [33500] -> "../data/townSites2/Medway/www.townofmedway.org/user/91/contact" [1]
+2017-01-01 22:06:27 URL:http://www.townofmedway.org/historical-commission/pages/current-projects [39800] -> "../data/townSites2/Medway/www.townofmedway.org/historical-commission/pages/current-projects" [1]
+2017-01-01 22:06:28 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/demoapp.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:06:31 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/demolition_bylaw.pdf 200 OK
+unlink: No such file or directory
+https://www.nps.gov/history/hps/TPS/tax/rhb/index.htm:
+Remote file does not exist -- broken link!!!
+2017-01-01 22:06:34 URL:http://www.sec.state.ma.us/mhc/mhcidx.htm [68287/68287] -> "../data/townSites2/Medway/www.townofmedway.org/historical-commission/links/massachusetts-historical-commission" [1]
+2017-01-01 22:06:37 URL:http://www.masshist.org/ [41103] -> "../data/townSites2/Medway/www.townofmedway.org/historical-commission/links/massachusetts-historical-society" [1]
+2017-01-01 22:06:41 URL:http://www.medwayhistoricalsociety.org/ [36888] -> "../data/townSites2/Medway/www.townofmedway.org/historical-commission/links/medway-historical-society" [1]
+2017-01-01 22:06:46 URL:https://www.nedcc.org/index.php [95987] -> "../data/townSites2/Medway/www.townofmedway.org/historical-commission/links/northeast-document-conservation-center" [1]
+2017-01-01 22:06:49 URL:http://www.preservationmass.org/ [27956/27956] -> "../data/townSites2/Medway/www.townofmedway.org/historical-commission/links/preservation-massachusetts" [1]
+wget: unable to resolve host address 'www.preservemassbarns.org'
+2017-01-01 22:07:07 URL:http://www.townofmedway.org/historical-commission/faq/what-demolition-law [34572] -> "../data/townSites2/Medway/www.townofmedway.org/historical-commission/faq/what-demolition-law" [1]
+2017-01-01 22:07:08 URL:http://www.townofmedway.org/historical-commission/faq/does-medway-have-demolition-law [34224] -> "../data/townSites2/Medway/www.townofmedway.org/historical-commission/faq/does-medway-have-demolition-law" [1]
+2017-01-01 22:07:09 URL:http://www.townofmedway.org/historical-commission/faq/who-do-i-contact-if-i-want-research-my-historic-home [34576] -> "../data/townSites2/Medway/www.townofmedway.org/historical-commission/faq/who-do-i-contact-if-i-want-research-my-historic-home" [1]
+2017-01-01 22:07:11 URL:http://www.townofmedway.org/node/396/faq [31810] -> "../data/townSites2/Medway/www.townofmedway.org/node/396/faq" [1]
+2017-01-01 22:07:13 URL:http://www.townofmedway.org/housing-authority [36753] -> "../data/townSites2/Medway/www.townofmedway.org/node/356" [1]
+2017-01-01 22:07:14 URL:http://www.townofmedway.org/print/356 [7627] -> "../data/townSites2/Medway/www.townofmedway.org/print/356" [1]
+2017-01-01 22:07:16 URL:http://www.townofmedway.org/node/356/minutes [28923] -> "../data/townSites2/Medway/www.townofmedway.org/node/356/minutes" [1]
+2017-01-01 22:07:18 URL: http://www.townofmedway.org/sites/medwayma/files/minutes/minutes_2012_complete_11.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:19 URL:http://www.townofmedway.org/dps-environmental-services [47158] -> "../data/townSites2/Medway/www.townofmedway.org/node/226" [1]
+2017-01-01 22:07:21 URL:http://www.townofmedway.org/print/226 [11294] -> "../data/townSites2/Medway/www.townofmedway.org/print/226" [1]
+2017-01-01 22:07:23 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/gale_associates.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:25 URL:http://www.townofmedway.org/dps-environmental-services/pages/parks-rec-areas-fields-com [34972] -> "../data/townSites2/Medway/www.townofmedway.org/dps-environmental-services/pages/parks-rec-areas-fields-com" [1]
+2017-01-01 22:07:26 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/gale_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:28 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/curbside_chronicle_fy17.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:33 URL:https://www.mapsonline.net/medwayma/forms/standalone.html.php?id=135492475 [65912] -> "../data/townSites2/Medway/www.townofmedway.org/dps-environmental-services/links/private-trash-renewal-form" [1]
+2017-01-01 22:07:35 URL:http://www.townofmedway.org/dps-environmental-services/pages/schedule-park-or-field-event [34899] -> "../data/townSites2/Medway/www.townofmedway.org/dps-environmental-services/pages/schedule-park-or-field-event" [1]
+2017-01-01 22:07:36 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/textile_fundraiser.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:37 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/soil.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:39 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/connecticut_reaffirms_safety_of_artificial_turf.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:43 URL:http://www.townofmedway.org/dps-environmental-services/faq/how-much-money-collected-field-permits-and-where-does-money-go [36618] -> "../data/townSites2/Medway/www.townofmedway.org/dps-environmental-services/faq/how-much-money-collected-field-permits-and-where-does-money-go" [1]
+2017-01-01 22:07:44 URL:http://www.townofmedway.org/dps-environmental-services/faq/why-and-how-do-i-get-field-permit [34930] -> "../data/townSites2/Medway/www.townofmedway.org/dps-environmental-services/faq/why-and-how-do-i-get-field-permit" [1]
+2017-01-01 22:07:46 URL:http://www.townofmedway.org/dps-environmental-services/faq/town-owned-tree-just-fell-my-property-who-do-i-call-removal-and [34772] -> "../data/townSites2/Medway/www.townofmedway.org/dps-environmental-services/faq/town-owned-tree-just-fell-my-property-who-do-i-call-removal-and" [1]
+2017-01-01 22:07:47 URL:http://www.townofmedway.org/node/226/faq [37363] -> "../data/townSites2/Medway/www.townofmedway.org/node/226/faq" [1]
+2017-01-01 22:07:49 URL:http://www.townofmedway.org/dps-environmental-services/news/trashrecycling-collection-day-changes-effective-7112016 [35236] -> "../data/townSites2/Medway/www.townofmedway.org/dps-environmental-services/news/trashrecycling-collection-day-changes-effective-7112016" [1]
+2017-01-01 22:07:50 URL:http://www.townofmedway.org/node/226/agenda [30690] -> "../data/townSites2/Medway/www.townofmedway.org/node/226/agenda" [1]
+2017-01-01 22:07:52 URL:http://www.townofmedway.org/dps-environmental-services/agenda/park-comm-agenda-posting-09-26-16 [34761] -> "../data/townSites2/Medway/www.townofmedway.org/dps-environmental-services/agenda/park-comm-agenda-posting-09-26-16" [1]
+2017-01-01 22:07:54 URL:http://www.townofmedway.org/node/226/minutes [30766] -> "../data/townSites2/Medway/www.townofmedway.org/node/226/minutes" [1]
+2017-01-01 22:07:55 URL: http://www.townofmedway.org/sites/medwayma/files/minutes/parks_commission_meeting_minutes_09-28-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:07:56 URL:http://www.townofmedway.org/planning-economic-development-board [45541] -> "../data/townSites2/Medway/www.townofmedway.org/node/926" [1]
+2017-01-01 22:07:57 URL:http://www.townofmedway.org/print/926 [8370] -> "../data/townSites2/Medway/www.townofmedway.org/print/926" [1]
+2017-01-01 22:08:00 URL:http://www.townofmedway.org/planning-economic-development-board/pages/mission-statement [38762] -> "../data/townSites2/Medway/www.townofmedway.org/planning-economic-development-board/pages/mission-statement" [1]
+2017-01-01 22:08:02 URL:http://www.townofmedway.org/user/71/contact [33518] -> "../data/townSites2/Medway/www.townofmedway.org/user/71/contact" [1]
+2017-01-01 22:08:04 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/pedb_2015_annual_town_report_-_final_4-1-16_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:10 URL:http://www.townofmedway.org/planning-economic-development-board/pages/amendments-zoning-bylaw-and-map [36551] -> "../data/townSites2/Medway/www.townofmedway.org/planning-economic-development-board/pages/amendments-zoning-bylaw-and-map" [1]
+2017-01-01 22:08:13 URL:http://www.townofmedway.org/planning-economic-development-board/pages/application-forms-instructions [40882] -> "../data/townSites2/Medway/www.townofmedway.org/planning-economic-development-board/pages/application-forms-instructions" [1]
+2017-01-01 22:08:15 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/pedb_fee_bond_schedule_-_updated_6-29-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:18 URL:http://www.townofmedway.org/planning-economic-development-board/pages/approved-endorsed-plans [36804] -> "../data/townSites2/Medway/www.townofmedway.org/planning-economic-development-board/pages/approved-endorsed-plans" [1]
+2017-01-01 22:08:20 URL:http://www.townofmedway.org/planning-economic-development-board/pages/decisions [36832] -> "../data/townSites2/Medway/www.townofmedway.org/planning-economic-development-board/pages/decisions" [1]
+2017-01-01 22:08:21 URL:http://www.townofmedway.org/planning-economic-development/pages/important-links [36163] -> "../data/townSites2/Medway/www.townofmedway.org/planning-economic-development/pages/important-links" [1]
+2017-01-01 22:08:25 URL:https://www.mapsonline.net/medwayma/index.html [43883/43883] -> "../data/townSites2/Medway/www.townofmedway.org/planning-economic-development-board/links/mapsonline" [1]
+2017-01-01 22:08:29 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/medway_final_design_review_guidelines_-_september_2015_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:08:37 URL:http://www.townofmedway.org/planning-economic-development-board/pages/medway-information [36037] -> "../data/townSites2/Medway/www.townofmedway.org/planning-economic-development-board/pages/medway-information" [1]
+2017-01-01 22:08:40 URL:http://www.townofmedway.org/planning-economic-development-board/pages/medway-planning-documents [36102] -> "../data/townSites2/Medway/www.townofmedway.org/planning-economic-development-board/pages/medway-planning-documents" [1]
+2017-01-01 22:08:43 URL:http://www.townofmedway.org/planning-economic-development-board/pages/meeting-schedule [37149] -> "../data/townSites2/Medway/www.townofmedway.org/planning-economic-development-board/pages/meeting-schedule" [1]
+2017-01-01 22:08:45 URL:http://www.townofmedway.org/planning-economic-development-board/pages/public-hearing-notices [35731] -> "../data/townSites2/Medway/www.townofmedway.org/planning-economic-development-board/pages/public-hearing-notices" [1]
+2017-01-01 22:08:49 URL:http://www.townofmedway.org/planning-economic-development-board/pages/recent-development-applications [35775] -> "../data/townSites2/Medway/www.townofmedway.org/planning-economic-development-board/pages/recent-development-applications" [1]
+2017-01-01 22:08:53 URL:http://www.townofmedway.org/planning-economic-development-board/pages/rules-regulations [36216] -> "../data/townSites2/Medway/www.townofmedway.org/planning-economic-development-board/pages/rules-regulations" [1]
+2017-01-01 22:08:57 URL:http://www.townofmedway.org/planning-economic-development-board/pages/volunteer-opportunities [36979] -> "../data/townSites2/Medway/www.townofmedway.org/planning-economic-development-board/pages/volunteer-opportunities" [1]
+2017-01-01 22:08:59 URL:http://www.townofmedway.org/planning-economic-development-board/pages/zoning-bylaw-and-map [35900] -> "../data/townSites2/Medway/www.townofmedway.org/planning-economic-development-board/pages/zoning-bylaw-and-map" [1]
+2017-01-01 22:09:06 URL:http://www.townofmedway.org/planning-economic-development-board/news/update-salmon-senior-living-community [38057] -> "../data/townSites2/Medway/www.townofmedway.org/planning-economic-development-board/news/update-salmon-senior-living-community" [1]
+2017-01-01 22:09:07 URL:http://www.townofmedway.org/node/926/agenda [32032] -> "../data/townSites2/Medway/www.townofmedway.org/node/926/agenda" [1]
+2017-01-01 22:09:08 URL:http://www.townofmedway.org/planning-economic-development-board/agenda/january-1-2017-pedb-special-meeting-agenda [36113] -> "../data/townSites2/Medway/www.townofmedway.org/planning-economic-development-board/agenda/january-1-2017-pedb-special-meeting-agenda" [1]
+2017-01-01 22:09:10 URL:http://www.townofmedway.org/node/926/minutes [32721] -> "../data/townSites2/Medway/www.townofmedway.org/node/926/minutes" [1]
+2017-01-01 22:09:11 URL: http://www.townofmedway.org/sites/medwayma/files/minutes/11-22-16_pedb_mtg_minutes_-_approved_12-13-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:15 URL:http://www.townofmedway.org/redevelopment-authority [53081] -> "../data/townSites2/Medway/www.townofmedway.org/node/191" [1]
+2017-01-01 22:09:17 URL:http://www.townofmedway.org/print/191 [12680] -> "../data/townSites2/Medway/www.townofmedway.org/print/191" [1]
+2017-01-01 22:09:18 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/bylaws_of_the_medway_redevelopment_authority.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:21 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/handbook.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:23 URL:http://www.townofmedway.org/community-and-economic-development/pages/medway-oak-grove-urp [37984] -> "../data/townSites2/Medway/www.townofmedway.org/redevelopment-authority/links/september-20th-oak-grove-urp-public-forum" [1]
+2017-01-01 22:09:26 URL:http://www.mass.gov/hed/community/planning/urban-renewal-ur.html [61105] -> "../data/townSites2/Medway/www.townofmedway.org/redevelopment-authority/links/what-urban-renewal" [1]
+2017-01-01 22:09:28 URL:http://www.townofmedway.org/node/191/events/month [50142] -> "../data/townSites2/Medway/www.townofmedway.org/node/191/events/month" [1]
+2017-01-01 22:09:30 URL:http://www.townofmedway.org/node/191/events/month/2017-01 [50203] -> "../data/townSites2/Medway/www.townofmedway.org/node/191/events/month/2017-01" [1]
+2017-01-01 22:09:31 URL:http://www.townofmedway.org/node/191/agenda [30022] -> "../data/townSites2/Medway/www.townofmedway.org/node/191/agenda" [1]
+2017-01-01 22:09:32 URL:http://www.townofmedway.org/redevelopment-authority/agenda/12716-agenda [33786] -> "../data/townSites2/Medway/www.townofmedway.org/redevelopment-authority/agenda/12716-agenda" [1]
+2017-01-01 22:09:34 URL:http://www.townofmedway.org/node/191/minutes [30032] -> "../data/townSites2/Medway/www.townofmedway.org/node/191/minutes" [1]
+2017-01-01 22:09:36 URL: http://www.townofmedway.org/sites/medwayma/files/minutes/7.27.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:38 URL:http://www.townofmedway.org/zoning-board-appeals [45200] -> "../data/townSites2/Medway/www.townofmedway.org/node/126" [1]
+2017-01-01 22:09:39 URL:http://www.townofmedway.org/print/126 [13344] -> "../data/townSites2/Medway/www.townofmedway.org/print/126" [1]
+2017-01-01 22:09:41 URL:http://www.townofmedway.org/user/66/contact [33591] -> "../data/townSites2/Medway/www.townofmedway.org/user/66/contact" [1]
+2017-01-01 22:09:43 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/2016_zba_meeting_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:09:44 URL:http://www.townofmedway.org/zoning-board-appeals/pages/2017-zba-meeting-schedule-and-application-filing-deadlines [35145] -> "../data/townSites2/Medway/www.townofmedway.org/zoning-board-appeals/pages/2017-zba-meeting-schedule-and-application-filing-deadlines" [1]
+2017-01-01 22:09:45 URL:http://www.townofmedway.org/zoning-board-appeals/pages/current-applications-under-review [34979] -> "../data/townSites2/Medway/www.townofmedway.org/zoning-board-appeals/pages/current-applications-under-review" [1]
+2017-01-01 22:09:48 URL:http://www.townofmedway.org/zoning-board-appeals/pages/decisions [37239] -> "../data/townSites2/Medway/www.townofmedway.org/zoning-board-appeals/pages/decisions" [1]
+2017-01-01 22:09:50 URL:https://www.mapsonline.net/medwayma/index.html [43883/43883] -> "../data/townSites2/Medway/www.townofmedway.org/zoning-board-appeals/links/mapsonline" [1]
+2017-01-01 22:09:55 URL:https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40A [74960/74960] -> "../data/townSites2/Medway/www.townofmedway.org/zoning-board-appeals/links/mass-general-laws-40a" [1]
+2017-01-01 22:10:00 URL:https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40B [79714/79714] -> "../data/townSites2/Medway/www.townofmedway.org/zoning-board-appeals/links/mass-general-laws-40b" [1]
+2017-01-01 22:10:02 URL:http://www.townofmedway.org/community-and-economic-development/pages/timber-crest-estates-development [58505] -> "../data/townSites2/Medway/www.townofmedway.org/zoning-board-appeals/links/timber-crest-estates-development" [1]
+2017-01-01 22:10:03 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/medway_zba_40b_rules_and_standards_-_2014_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:06 URL:http://www.townofmedway.org/zoning-board-appeals/pages/zba-application-instructions [36625] -> "../data/townSites2/Medway/www.townofmedway.org/zoning-board-appeals/pages/zba-application-instructions" [1]
+2017-01-01 22:10:08 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/medway_zba_rules_and_regulations_-_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:11 URL:http://www.townofmedway.org/planning-economic-development-board/pages/zoning-bylaw-and-map [35900] -> "../data/townSites2/Medway/www.townofmedway.org/zoning-board-appeals/links/zoning-bylaws" [1]
+2017-01-01 22:10:13 URL:http://www.townofmedway.org/node/126/agenda [31440] -> "../data/townSites2/Medway/www.townofmedway.org/node/126/agenda" [1]
+2017-01-01 22:10:14 URL:http://www.townofmedway.org/zoning-board-appeals/agenda/january-4-2017-zba-revised-agenda [35031] -> "../data/townSites2/Medway/www.townofmedway.org/zoning-board-appeals/agenda/january-4-2017-zba-revised-agenda" [1]
+2017-01-01 22:10:16 URL:http://www.townofmedway.org/node/126/minutes [31658] -> "../data/townSites2/Medway/www.townofmedway.org/node/126/minutes" [1]
+2017-01-01 22:10:19 URL: http://www.townofmedway.org/sites/medwayma/files/minutes/zba_meeting_minutes_12.7.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:21 URL:http://www.townofmedway.org/agricultural-committee [36229] -> "../data/townSites2/Medway/www.townofmedway.org/node/2913" [1]
+2017-01-01 22:10:22 URL:http://www.townofmedway.org/print/2913 [6915] -> "../data/townSites2/Medway/www.townofmedway.org/print/2913" [1]
+2017-01-01 22:10:23 URL:http://www.townofmedway.org/node/2913/agenda [28796] -> "../data/townSites2/Medway/www.townofmedway.org/node/2913/agenda" [1]
+2017-01-01 22:10:24 URL: http://www.townofmedway.org/sites/medwayma/files/agendas/agcomagenda121416_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:26 URL:http://www.townofmedway.org/node/2913/minutes [28820] -> "../data/townSites2/Medway/www.townofmedway.org/node/2913/minutes" [1]
+2017-01-01 22:10:27 URL: http://www.townofmedway.org/sites/medwayma/files/minutes/agcom91416.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:34 URL:http://www.townofmedway.org/capital-improvement-planning-committee [39438] -> "../data/townSites2/Medway/www.townofmedway.org/node/726" [1]
+2017-01-01 22:10:35 URL:http://www.townofmedway.org/print/726 [10767] -> "../data/townSites2/Medway/www.townofmedway.org/print/726" [1]
+2017-01-01 22:10:37 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/5_year_plan_fy16-fy20.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:39 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/liaison_list_fy16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:41 URL:http://www.townofmedway.org/node/726/agenda [29923] -> "../data/townSites2/Medway/www.townofmedway.org/node/726/agenda" [1]
+2017-01-01 22:10:42 URL: http://www.townofmedway.org/sites/medwayma/files/agendas/agendas_2015_complete_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:43 URL:http://www.townofmedway.org/node/726/minutes [30139] -> "../data/townSites2/Medway/www.townofmedway.org/node/726/minutes" [1]
+2017-01-01 22:10:44 URL: http://www.townofmedway.org/sites/medwayma/files/minutes/cipc_02_02_16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:46 URL:http://www.townofmedway.org/community-preservation-committee [38815] -> "../data/townSites2/Medway/www.townofmedway.org/node/691" [1]
+2017-01-01 22:10:47 URL:http://www.townofmedway.org/print/691 [8004] -> "../data/townSites2/Medway/www.townofmedway.org/print/691" [1]
+2017-01-01 22:10:49 URL:http://www.townofmedway.org/user/953/contact [33497] -> "../data/townSites2/Medway/www.townofmedway.org/user/953/contact" [1]
+2017-01-01 22:10:51 URL:http://www.townofmedway.org/node/691/minutes [29270] -> "../data/townSites2/Medway/www.townofmedway.org/node/691/minutes" [1]
+2017-01-01 22:10:52 URL: http://www.townofmedway.org/sites/medwayma/files/minutes/meeting_minutes_9-12-16.pdf.docx 200 OK
+unlink: No such file or directory
+2017-01-01 22:10:57 URL:http://www.townofmedway.org/cultural-council [43073] -> "../data/townSites2/Medway/www.townofmedway.org/node/606" [1]
+2017-01-01 22:10:59 URL:http://www.townofmedway.org/print/606 [15428] -> "../data/townSites2/Medway/www.townofmedway.org/print/606" [1]
+2017-01-01 22:11:00 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/guidelines.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:11:01 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/requirements.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:11:03 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/october_21_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:11:06 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/november_11_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:11:11 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/november_13_2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:11:13 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/november_29_2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:11:23 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/november_11_2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:11:26 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/june_29_2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:11:28 URL:http://www.townofmedway.org/user/116/contact [33559] -> "../data/townSites2/Medway/www.townofmedway.org/user/116/contact" [1]
+failed: Network is unreachable.
+2017-01-01 22:11:41 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/ccfunded.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:11:45 URL:http://www.massculturalcouncil.org/applications/lccapp.asp [25353/25353] -> "../data/townSites2/Medway/www.townofmedway.org/cultural-council/links/grant-application-form" [1]
+2017-01-01 22:11:58 URL:http://www.massculturalcouncil.org/ [40334/40334] -> "../data/townSites2/Medway/www.townofmedway.org/cultural-council/links/mass-cultural-council" [1]
+2017-01-01 22:12:00 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/ccsurvey.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:12:01 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/ccperformanceagreement.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:12:04 URL:http://www.townofmedway.org/design-review-committee [42567] -> "../data/townSites2/Medway/www.townofmedway.org/node/566" [1]
+2017-01-01 22:12:05 URL:http://www.townofmedway.org/print/566 [8883] -> "../data/townSites2/Medway/www.townofmedway.org/print/566" [1]
+2017-01-01 22:12:10 URL:http://www.townofmedway.org/user/111/contact [33610] -> "../data/townSites2/Medway/www.townofmedway.org/user/111/contact" [1]
+2017-01-01 22:12:11 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/2016_drc_meeting_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:12:13 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/2017_revised_drc_meeting_schedule_-_approved_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:12:14 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/drc_bylaw_-_approved_5-9-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:12:15 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/medway_final_design_review_guidelines_-_september_2015_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:12:17 URL:http://www.townofmedway.org/design-review-committee/pages/sign-design-review [36038] -> "../data/townSites2/Medway/www.townofmedway.org/design-review-committee/pages/sign-design-review" [1]
+2017-01-01 22:12:18 URL:http://www.townofmedway.org/node/566/agenda [30244] -> "../data/townSites2/Medway/www.townofmedway.org/node/566/agenda" [1]
+2017-01-01 22:12:19 URL: http://www.townofmedway.org/sites/medwayma/files/agendas/drc_meeting_agenda_-_december_5_2016_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:12:23 URL:http://www.townofmedway.org/node/566/minutes [30256] -> "../data/townSites2/Medway/www.townofmedway.org/node/566/minutes" [1]
+2017-01-01 22:12:25 URL: http://www.townofmedway.org/sites/medwayma/files/minutes/nov_7th_meeting_with_attachments.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:12:31 URL:http://www.townofmedway.org/economic-development-committee [45516] -> "../data/townSites2/Medway/www.townofmedway.org/node/526" [1]
+2017-01-01 22:12:33 URL:http://www.townofmedway.org/print/526 [8993] -> "../data/townSites2/Medway/www.townofmedway.org/print/526" [1]
+2017-01-01 22:12:35 URL:http://www.townofmedway.org/economic-development-committee/pages/available-land-sites [34143] -> "../data/townSites2/Medway/www.townofmedway.org/economic-development-committee/pages/available-land-sites" [1]
+2017-01-01 22:12:37 URL:http://www.loopnet.com/Massachusetts/Medway-Commercial-Real-Estate/ [153127/153127] -> "../data/townSites2/Medway/www.townofmedway.org/economic-development-committee/links/commercial-industrial-real-estate" [1]
+2017-01-01 22:12:39 URL:http://www.townofmedway.org/economic-development-committee/pages/economic-development-websites [34789] -> "../data/townSites2/Medway/www.townofmedway.org/economic-development-committee/pages/economic-development-websites" [1]
+2017-01-01 22:12:40 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/brochure.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:12:40 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/handbook.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:12:42 URL:http://www.townofmedway.org/economic-development-committee/pages/medway-information [34397] -> "../data/townSites2/Medway/www.townofmedway.org/economic-development-committee/pages/medway-information" [1]
+2017-01-01 22:12:43 URL:http://www.townofmedway.org/economic-development-committee/pages/news-updates [34725] -> "../data/townSites2/Medway/www.townofmedway.org/economic-development-committee/pages/news-updates" [1]
+2017-01-01 22:12:44 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/servopp.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:12:46 URL:http://www.townofmedway.org/economic-development-committee/news/business-spotlight-advance-auto-parts [36436] -> "../data/townSites2/Medway/www.townofmedway.org/economic-development-committee/news/business-spotlight-advance-auto-parts" [1]
+2017-01-01 22:12:47 URL:http://www.townofmedway.org/economic-development-committee/news/business-spotlight-direct-tire-auto-service [36099] -> "../data/townSites2/Medway/www.townofmedway.org/economic-development-committee/news/business-spotlight-direct-tire-auto-service" [1]
+2017-01-01 22:12:49 URL:http://www.townofmedway.org/economic-development-committee/news/business-spotlight-shear-magic-co [37396] -> "../data/townSites2/Medway/www.townofmedway.org/economic-development-committee/news/business-spotlight-shear-magic-co" [1]
+2017-01-01 22:12:50 URL:http://www.townofmedway.org/node/526/news [35388] -> "../data/townSites2/Medway/www.townofmedway.org/node/526/news" [1]
+2017-01-01 22:12:51 URL:http://www.townofmedway.org/node/526/agenda [30797] -> "../data/townSites2/Medway/www.townofmedway.org/node/526/agenda" [1]
+2017-01-01 22:12:53 URL:http://www.townofmedway.org/economic-development-committee/agenda/121416-edc-agenda [34636] -> "../data/townSites2/Medway/www.townofmedway.org/economic-development-committee/agenda/121416-edc-agenda" [1]
+2017-01-01 22:12:56 URL:http://www.townofmedway.org/node/526/minutes [30876] -> "../data/townSites2/Medway/www.townofmedway.org/node/526/minutes" [1]
+2017-01-01 22:13:04 URL:http://www.townofmedway.org/economic-development-committee/minutes/81016-meeting-was-cancelled-due-lack-quorum [34168] -> "../data/townSites2/Medway/www.townofmedway.org/economic-development-committee/minutes/81016-meeting-was-cancelled-due-lack-quorum" [1]
+2017-01-01 22:13:05 URL:http://www.townofmedway.org/energy-committee [45163] -> "../data/townSites2/Medway/www.townofmedway.org/node/476" [1]
+2017-01-01 22:13:06 URL:http://www.townofmedway.org/print/476 [8163] -> "../data/townSites2/Medway/www.townofmedway.org/print/476" [1]
+2017-01-01 22:13:08 URL:http://www.townofmedway.org/energy-committee/pages/mission-statement [35788] -> "../data/townSites2/Medway/www.townofmedway.org/energy-committee/pages/mission-statement" [1]
+2017-01-01 22:13:09 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/5yearreduction.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:13:09 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/medway_-_cca_power_point_10_17_16_bl.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:13:11 URL:http://www.townofmedway.org/energy-committee/pages/energy-education [35481] -> "../data/townSites2/Medway/www.townofmedway.org/energy-committee/pages/energy-education" [1]
+2017-01-01 22:13:13 URL:http://www.milforddailynews.com/ [59139] -> "../data/townSites2/Medway/www.townofmedway.org/energy-committee/links/free-solar-array-fire-station" [1]
+2017-01-01 22:13:19 URL:http://www.masscec.com/ [84635] -> "../data/townSites2/Medway/www.townofmedway.org/energy-committee/links/ma-clean-energy-center" [1]
+2017-01-01 22:13:25 URL:http://www.mass.gov/eea/grants-and-tech-assistance/guidance-technical-assistance/agencies-and-divisions/doer/ [177581] -> "../data/townSites2/Medway/www.townofmedway.org/energy-committee/links/ma-dept-energy-resources" [1]
+2017-01-01 22:13:27 URL:http://www.mass.gov/eea/energy-utilities-clean-tech/green-communities/ [176705] -> "../data/townSites2/Medway/www.townofmedway.org/energy-committee/links/ma-green-communities" [1]
+2017-01-01 22:13:28 URL: http://images.masscec.com.s3.amazonaws.com/uploads/attachments/MassCEC_SolarGuide_Apr12_Web.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:13:34 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/medway_energy_action_plan_combined.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:13:44 URL:http://www.alsoenergy.com/powertrack/lobbyview.aspx?sid=26904 [3062/3062] -> "../data/townSites2/Medway/www.townofmedway.org/energy-committee/links/medway-high-school-solar-array" [1]
+2017-01-01 22:13:48 URL:http://www.alsoenergy.com/powertrack/lobbyview.aspx?sid=26422 [3062/3062] -> "../data/townSites2/Medway/www.townofmedway.org/energy-committee/links/medway-middle-school-solar-array" [1]
+2017-01-01 22:13:49 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/pressrelease_regionalsolar_022513.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:13:51 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/medway_-_public_review_website_language.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:13:53 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/medway_-_nstar_aggregation_plan_2016-12-22.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:13:55 URL:http://www.townofmedway.org/energy-committee/news/medway-awarded-energy-savings-improvement-funds [36216] -> "../data/townSites2/Medway/www.townofmedway.org/energy-committee/news/medway-awarded-energy-savings-improvement-funds" [1]
+2017-01-01 22:13:57 URL:http://www.townofmedway.org/node/476/agenda [31893] -> "../data/townSites2/Medway/www.townofmedway.org/node/476/agenda" [1]
+2017-01-01 22:13:59 URL: http://www.townofmedway.org/sites/medwayma/files/agendas/mecagendajanuary18th2017.docx 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:01 URL:http://www.townofmedway.org/node/476/minutes [31835] -> "../data/townSites2/Medway/www.townofmedway.org/node/476/minutes" [1]
+2017-01-01 22:14:03 URL: http://www.townofmedway.org/sites/medwayma/files/minutes/mec_minutes_2016-10-19.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:05 URL:http://www.townofmedway.org/epfrac [47730] -> "../data/townSites2/Medway/www.townofmedway.org/node/13183" [1]
+2017-01-01 22:14:07 URL:http://www.townofmedway.org/print/13183 [18688] -> "../data/townSites2/Medway/www.townofmedway.org/print/13183" [1]
+2017-01-01 22:14:09 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/survey-results_12-19-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:11 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/parks-master-plan-update_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:12 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/parks-master-plan-update2-3-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:16 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/cba-presentation_12-7-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:17 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/rfq_parks-improv_addendum-1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:18 URL:http://www.townofmedway.org/node/13183/agenda [30017] -> "../data/townSites2/Medway/www.townofmedway.org/node/13183/agenda" [1]
+2017-01-01 22:14:20 URL:http://www.townofmedway.org/epfrac/agenda/1517 [33045] -> "../data/townSites2/Medway/www.townofmedway.org/epfrac/agenda/1517" [1]
+2017-01-01 22:14:21 URL:http://www.townofmedway.org/node/13183/minutes [29956] -> "../data/townSites2/Medway/www.townofmedway.org/node/13183/minutes" [1]
+2017-01-01 22:14:22 URL: http://www.townofmedway.org/sites/medwayma/files/minutes/minutes_11-02-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:23 URL:http://www.townofmedway.org/finance-committee [38439] -> "../data/townSites2/Medway/www.townofmedway.org/node/421" [1]
+2017-01-01 22:14:24 URL:http://www.townofmedway.org/print/421 [7370] -> "../data/townSites2/Medway/www.townofmedway.org/print/421" [1]
+2017-01-01 22:14:25 URL:http://www.townofmedway.org/finance-committee/pages/mission-statement [33870] -> "../data/townSites2/Medway/www.townofmedway.org/finance-committee/pages/mission-statement" [1]
+2017-01-01 22:14:28 URL:http://www.townofmedway.org/people/dan-doherty [33855] -> "../data/townSites2/Medway/www.townofmedway.org/people/dan-doherty" [1]
+2017-01-01 22:14:30 URL:http://www.townofmedway.org/user/101/contact [33527] -> "../data/townSites2/Medway/www.townofmedway.org/user/101/contact" [1]
+2017-01-01 22:14:32 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/fincom_booklet_ap-v2_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:33 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/fy16_fincom_meeting_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:34 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/fy17_liaison_assignments_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:35 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/fy17_fincom_meeting_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:36 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/fincom_booklet_ap-v3.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:37 URL:http://www.townofmedway.org/node/421/agenda [30247] -> "../data/townSites2/Medway/www.townofmedway.org/node/421/agenda" [1]
+2017-01-01 22:14:38 URL: http://www.townofmedway.org/sites/medwayma/files/agendas/agenda_december_14_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:40 URL:http://www.townofmedway.org/node/421/minutes [30619] -> "../data/townSites2/Medway/www.townofmedway.org/node/421/minutes" [1]
+2017-01-01 22:14:41 URL: http://www.townofmedway.org/sites/medwayma/files/minutes/fincom_10-26-16_final_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:14:42 URL:http://www.townofmedway.org/open-space-committee [40915] -> "../data/townSites2/Medway/www.townofmedway.org/node/311" [1]
+2017-01-01 22:14:43 URL:http://www.townofmedway.org/print/311 [7614] -> "../data/townSites2/Medway/www.townofmedway.org/print/311" [1]
+2017-01-01 22:14:46 URL:http://www.townofmedway.org/open-space-committee/pages/mission-statement [34644] -> "../data/townSites2/Medway/www.townofmedway.org/open-space-committee/pages/mission-statement" [1]
+2017-01-01 22:14:49 URL:http://www.townofmedway.org/user/86/contact [33580] -> "../data/townSites2/Medway/www.townofmedway.org/user/86/contact" [1]
+2017-01-01 22:14:53 URL:http://www.townofmedway.org/open-space-committee/pages/trails-maps [36199] -> "../data/townSites2/Medway/www.townofmedway.org/open-space-committee/pages/trails-maps" [1]
+2017-01-01 22:14:55 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/medway_book_final_04112016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:02 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/medway_final_osrp_9-23-10.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:06 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/medwayopenspacebrochure.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:14 URL:https://www.facebook.com/medwayopenspace [438260] -> "../data/townSites2/Medway/www.townofmedway.org/open-space-committee/links/medway-open-space-facebook" [1]
+2017-01-01 22:15:15 URL:http://www.townofmedway.org/open-space-committee/pages/open-space-conservation-organizations [35974] -> "../data/townSites2/Medway/www.townofmedway.org/open-space-committee/pages/open-space-conservation-organizations" [1]
+2017-01-01 22:15:18 URL:http://www.townofmedway.org/node/311/agenda [30554] -> "../data/townSites2/Medway/www.townofmedway.org/node/311/agenda" [1]
+2017-01-01 22:15:21 URL:http://www.townofmedway.org/open-space-committee/agenda/01032017 [34186] -> "../data/townSites2/Medway/www.townofmedway.org/open-space-committee/agenda/01032017" [1]
+2017-01-01 22:15:22 URL:http://www.townofmedway.org/node/311/minutes [30703] -> "../data/townSites2/Medway/www.townofmedway.org/node/311/minutes" [1]
+2017-01-01 22:15:23 URL: http://www.townofmedway.org/sites/medwayma/files/minutes/11116_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:24 URL:http://www.townofmedway.org/pride-day-committee [39430] -> "../data/townSites2/Medway/www.townofmedway.org/node/2609" [1]
+2017-01-01 22:15:25 URL:http://www.townofmedway.org/print/2609 [9040] -> "../data/townSites2/Medway/www.townofmedway.org/print/2609" [1]
+2017-01-01 22:15:27 URL:http://www.townofmedway.org/pride-day-committee/pages/medway-pride-day-2016-bike-parade [34535] -> "../data/townSites2/Medway/www.townofmedway.org/pride-day-committee/pages/medway-pride-day-2016-bike-parade" [1]
+2017-01-01 22:15:28 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/boothreg.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:29 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/donation.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:30 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/2016_logo_announcement.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:31 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/mpd_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:32 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/activities2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:32 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/button_raffle_2016_for_web.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:34 URL:https://www.facebook.com/medwayprideday [102504] -> "../data/townSites2/Medway/www.townofmedway.org/pride-day-committee/links/visit-us-facebook" [1]
+2017-01-01 22:15:35 URL:http://www.townofmedway.org/node/2136/minutes [31265] -> "../data/townSites2/Medway/www.townofmedway.org/node/2136/minutes" [1]
+2017-01-01 22:15:37 URL:http://www.townofmedway.org/node/2136/agenda [30912] -> "../data/townSites2/Medway/www.townofmedway.org/node/2136/agenda" [1]
+2017-01-01 22:15:40 URL:http://www.townofmedway.org/home/pages/find-it-fast [35388] -> "../data/townSites2/Medway/www.townofmedway.org/node/3053" [1]
+2017-01-01 22:15:41 URL:http://www.townofmedway.org/print/3053 [10739] -> "../data/townSites2/Medway/www.townofmedway.org/print/3053" [1]
+2017-01-01 22:15:42 URL:http://www.townofmedway.org/board-selectmen/pages/exelon-project [40154] -> "../data/townSites2/Medway/www.townofmedway.org/node/2669" [1]
+2017-01-01 22:15:43 URL:http://www.townofmedway.org/print/2669 [10804] -> "../data/townSites2/Medway/www.townofmedway.org/print/2669" [1]
+2017-01-01 22:15:45 URL:http://www.townofmedway.org/planning-economic-development-board/pages/exelon-major-site-plan [42727] -> "../data/townSites2/Medway/www.townofmedway.org/planning-economic-development/pages/exelon-major-site-plan-review" [1]
+2017-01-01 22:15:45 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/pilotno.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:46 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/exelonpilot_faq.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:46 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/exelon_public_hearing_notice_-_updated.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:47 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/mdtclet.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:47 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/10_21_15forumfinalppt.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:47 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/hca_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:48 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/air-quality-report.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:48 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/water-report.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:48 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/noise-report.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:49 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/pilot_10-13-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:49 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/exelonforumflyer.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:49 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/exelonproposedexpansion.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:50 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/responses-to-efsb_12-4-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:50 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/dep_pub_hearing_notice_exelon_air_quality_plan_10.20.16_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:52 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/efsb_15-01_td_11_4_16_final_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:15:53 URL:http://www.townofmedway.org/board-selectmen/pages/town-bylaws [35692] -> "../data/townSites2/Medway/www.townofmedway.org/node/2852" [1]
+2017-01-01 22:15:54 URL:http://www.townofmedway.org/print/2852 [6480] -> "../data/townSites2/Medway/www.townofmedway.org/print/2852" [1]
+2017-01-01 22:15:56 URL:http://www.townofmedway.org/council-aging/pages/gatra-information [35637] -> "../data/townSites2/Medway/www.townofmedway.org/node/1666" [1]
+2017-01-01 22:15:57 URL:http://www.townofmedway.org/print/1666 [7553] -> "../data/townSites2/Medway/www.townofmedway.org/print/1666" [1]
+2017-01-01 22:15:59 URL:http://www.townofmedway.org/home/pages/resident-qa-archive [33163] -> "../data/townSites2/Medway/www.townofmedway.org/node/4633" [1]
+2017-01-01 22:16:00 URL:http://www.townofmedway.org/print/4633 [8572] -> "../data/townSites2/Medway/www.townofmedway.org/print/4633" [1]
+2017-01-01 22:16:02 URL:http://www.townofmedway.org/home/webforms/resident-qa [40973/40973] -> "../data/townSites2/Medway/www.townofmedway.org/home/webforms/resident-qa" [1]
+2017-01-01 22:16:03 URL:http://www.townofmedway.org/board-selectmen/pages/warrants-may-9th-meeting [35827] -> "../data/townSites2/Medway/www.townofmedway.org/node/5863" [1]
+2017-01-01 22:16:04 URL:http://www.townofmedway.org/print/5863 [6641] -> "../data/townSites2/Medway/www.townofmedway.org/print/5863" [1]
+2017-01-01 22:16:05 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/warrant_stm_final_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:16:05 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/warrant_atm_final_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:16:06 URL:http://www.townofmedway.org/communications/pages/subscribe-our-newsletter [37662] -> "../data/townSites2/Medway/www.townofmedway.org/node/3003" [1]
+2017-01-01 22:16:07 URL:http://www.townofmedway.org/print/3003 [10966] -> "../data/townSites2/Medway/www.townofmedway.org/print/3003" [1]
+2017-01-01 22:16:08 URL: http://www.townofmedway.org/calendar/feed/2017-01 200 OK
+unlink: No such file or directory
+2017-01-01 22:16:09 URL:http://www.townofmedway.org/calendar/month [115150] -> "../data/townSites2/Medway/www.townofmedway.org/calendar/month" [1]
+2017-01-01 22:16:11 URL:http://www.townofmedway.org/calendar/week [35407] -> "../data/townSites2/Medway/www.townofmedway.org/calendar/week" [1]
+2017-01-01 22:16:14 URL:http://www.townofmedway.org/calendar/day [35412] -> "../data/townSites2/Medway/www.townofmedway.org/calendar/day" [1]
+2017-01-01 22:16:18 URL:http://www.townofmedway.org/calendar/year [139240] -> "../data/townSites2/Medway/www.townofmedway.org/calendar/year" [1]
+2017-01-01 22:16:20 URL:http://www.townofmedway.org/calendar/upcoming [40029] -> "../data/townSites2/Medway/www.townofmedway.org/calendar/upcoming" [1]
+2017-01-01 22:16:23 URL:http://www.townofmedway.org/calendar/month/2016-12 [308082] -> "../data/townSites2/Medway/www.townofmedway.org/calendar/month/2016-12" [1]
+2017-01-01 22:16:26 URL:http://www.townofmedway.org/calendar/month/2017-02 [52861] -> "../data/townSites2/Medway/www.townofmedway.org/calendar/month/2017-02" [1]
+2017-01-01 22:16:28 URL:http://www.townofmedway.org/calendar/day/2017-01-03 [37233] -> "../data/townSites2/Medway/www.townofmedway.org/calendar/day/2017-01-03" [1]
+2017-01-01 22:16:29 URL:http://www.townofmedway.org/calendar/day/2017-01-04 [36253] -> "../data/townSites2/Medway/www.townofmedway.org/calendar/day/2017-01-04" [1]
+2017-01-01 22:16:31 URL:http://www.townofmedway.org/calendar/day/2017-01-05 [36586] -> "../data/townSites2/Medway/www.townofmedway.org/calendar/day/2017-01-05" [1]
+2017-01-01 22:16:32 URL:http://www.townofmedway.org/calendar/day/2017-01-10 [36248] -> "../data/townSites2/Medway/www.townofmedway.org/calendar/day/2017-01-10" [1]
+2017-01-01 22:16:33 URL:http://www.townofmedway.org/calendar/day/2017-01-24 [35888] -> "../data/townSites2/Medway/www.townofmedway.org/calendar/day/2017-01-24" [1]
+2017-01-01 22:16:34 URL: http://www.townofmedway.org/news/8/feed 200 OK
+unlink: No such file or directory
+2017-01-01 22:16:35 URL:http://www.townofmedway.org/home/news/energy-aggregation-medway [33488] -> "../data/townSites2/Medway/www.townofmedway.org/home/news/energy-aggregation-medway" [1]
+2017-01-01 22:16:37 URL:http://www.townofmedway.org/home/news/congratulations-and-best-wishes-sue-ellis-and-tom-holder [31442] -> "../data/townSites2/Medway/www.townofmedway.org/home/news/congratulations-and-best-wishes-sue-ellis-and-tom-holder" [1]
+2017-01-01 22:16:38 URL:http://www.townofmedway.org/home/news/board-selectmen-present-proclamation-state-representative-john-fernandes [31505] -> "../data/townSites2/Medway/www.townofmedway.org/home/news/board-selectmen-present-proclamation-state-representative-john-fernandes" [1]
+2017-01-01 22:16:40 URL:http://www.townofmedway.org/home/news/troop-367-attend-board-selectmen-meeting [31429] -> "../data/townSites2/Medway/www.townofmedway.org/home/news/troop-367-attend-board-selectmen-meeting" [1]
+2017-01-01 22:16:41 URL:http://www.townofmedway.org/home/news/dps-winter-warning [31874] -> "../data/townSites2/Medway/www.townofmedway.org/home/news/dps-winter-warning" [1]
+2017-01-01 22:16:43 URL:http://www.townofmedway.org/home/news/dps-news-0 [31820] -> "../data/townSites2/Medway/www.townofmedway.org/home/news/dps-news-0" [1]
+2017-01-01 22:16:44 URL:http://www.townofmedway.org/home/news/treasurercollector-news [31292] -> "../data/townSites2/Medway/www.townofmedway.org/home/news/treasurercollector-news" [1]
+2017-01-01 22:16:45 URL:http://www.townofmedway.org/home/news/assessor%E2%80%99s-office-news [32459] -> "../data/townSites2/Medway/www.townofmedway.org/home/news/assessorâ%80%99s-office-news" [1]
+http://www.townofmedway.org/home/news/assessor%25E2%2580%2599s-office-news:
+Remote file does not exist -- broken link!!!
+2017-01-01 22:16:48 URL:http://www.townofmedway.org/home/news/thank-you-medway-knitters [31844] -> "../data/townSites2/Medway/www.townofmedway.org/home/news/thank-you-medway-knitters" [1]
+2017-01-01 22:16:49 URL:http://www.townofmedway.org/home/news/thank-you-medway-poll-workers [31942] -> "../data/townSites2/Medway/www.townofmedway.org/home/news/thank-you-medway-poll-workers" [1]
+2017-01-01 22:16:50 URL:http://www.townofmedway.org/home/news/senior-center-event [31377] -> "../data/townSites2/Medway/www.townofmedway.org/home/news/senior-center-event" [1]
+2017-01-01 22:16:52 URL:http://www.townofmedway.org/home/news/message-medway-fire-department-about-carbon-monoxide-poisoning [32307] -> "../data/townSites2/Medway/www.townofmedway.org/home/news/message-medway-fire-department-about-carbon-monoxide-poisoning" [1]
+2017-01-01 22:16:54 URL:http://www.townofmedway.org/home/news/message-animal-control-officer [32585] -> "../data/townSites2/Medway/www.townofmedway.org/home/news/message-animal-control-officer" [1]
+2017-01-01 22:16:57 URL:http://www.townofmedway.org/home/news/route-109-construction-concludes-season [31623] -> "../data/townSites2/Medway/www.townofmedway.org/home/news/route-109-construction-concludes-season" [1]
+2017-01-01 22:16:58 URL:http://www.townofmedway.org/home/news/help-protect-medway-wetlands-and-open-space-%E2%80%94-join-conservation-commission [33193] -> "../data/townSites2/Medway/www.townofmedway.org/home/news/help-protect-medway-wetlands-and-open-space-â%80%94-join-conservation-commission" [1]
+http://www.townofmedway.org/home/news/help-protect-medway-wetlands-and-open-space-%25E2%2580%2594-join-conservation-commission:
+Remote file does not exist -- broken link!!!
+2017-01-01 22:17:02 URL:http://www.townofmedway.org/home/news/epfrac-survey-town-parks [31336] -> "../data/townSites2/Medway/www.townofmedway.org/home/news/epfrac-survey-town-parks" [1]
+2017-01-01 22:17:03 URL:http://www.townofmedway.org/home/news/route-109-update-week-december-12-2016 [31434] -> "../data/townSites2/Medway/www.townofmedway.org/home/news/route-109-update-week-december-12-2016" [1]
+2017-01-01 22:17:07 URL:http://www.townofmedway.org/home/news/route-109-update-week-december-5-2016 [31731] -> "../data/townSites2/Medway/www.townofmedway.org/home/news/route-109-update-week-december-5-2016" [1]
+2017-01-01 22:17:08 URL:http://www.townofmedway.org/home/news/state-fire-marshal-announces-recall-kidde-nighthawk-hardwired-combination-smokeco-alarms [31364] -> "../data/townSites2/Medway/www.townofmedway.org/home/news/state-fire-marshal-announces-recall-kidde-nighthawk-hardwired-combination-smokeco-alarms" [1]
+2017-01-01 22:17:09 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/advisory_-_recall_combination_smoke_co_alarms_11162016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:17:11 URL:http://www.townofmedway.org/home/news/6th-annual-medway-turkey-trot%C2%A0 [31246] -> "../data/townSites2/Medway/www.townofmedway.org/home/news/6th-annual-medway-turkey-trotÂ " [1]
+http://www.townofmedway.org/home/news/6th-annual-medway-turkey-trot%25C2%25A0:
+Remote file does not exist -- broken link!!!
+2017-01-01 22:17:14 URL:http://www.townofmedway.org/news/8 [47741] -> "../data/townSites2/Medway/www.townofmedway.org/news/8" [1]
+2017-01-01 22:17:17 URL:http://www.townofmedway.org/online-permitting [32489] -> "../data/townSites2/Medway/www.townofmedway.org/node/2639" [1]
+2017-01-01 22:17:18 URL:http://www.townofmedway.org/print/2639 [7813] -> "../data/townSites2/Medway/www.townofmedway.org/print/2639" [1]
+2017-01-01 22:17:20 URL:http://www.townofmedway.org/route-109-transportation-improvement-project [38113] -> "../data/townSites2/Medway/www.townofmedway.org/node/10593" [1]
+2017-01-01 22:17:21 URL:http://www.townofmedway.org/route-109-transportation-improvement-project/urgent-alerts/route-109-construction-underway [37148] -> "../data/townSites2/Medway/www.townofmedway.org/route-109-transportation-improvement-project/urgent-alerts/route-109-construction-underway" [1]
+2017-01-01 22:17:22 URL:http://www.townofmedway.org/print/10593 [7880] -> "../data/townSites2/Medway/www.townofmedway.org/print/10593" [1]
+2017-01-01 22:17:24 URL:https://drive.google.com/file/d/0B3odCeasylnwalB5cjFYWExMM1k/view?usp=sharing [109544] -> "../data/townSites2/Medway/www.townofmedway.org/route-109-transportation-improvement-project/links/rt-109-final-design-plans" [1]
+2017-01-01 22:17:26 URL:https://drive.google.com/a/medwayschools.org/file/d/0B35qeFIRz_DhbFhxZkVGa1lxMzg/view [109640] -> "../data/townSites2/Medway/www.townofmedway.org/route-109-transportation-improvement-project/links/rt-109-right-way-plans" [1]
+2017-01-01 22:17:27 URL:http://www.townofmedway.org/route-109-transportation-improvement-project/news/route-109-update-week-december-12-2016 [32934] -> "../data/townSites2/Medway/www.townofmedway.org/route-109-transportation-improvement-project/news/route-109-update-week-december-12-2016" [1]
+2017-01-01 22:17:28 URL:http://www.townofmedway.org/route-109-transportation-improvement-project/news/route-109-update-week-december-5-2016 [33237] -> "../data/townSites2/Medway/www.townofmedway.org/route-109-transportation-improvement-project/news/route-109-update-week-december-5-2016" [1]
+2017-01-01 22:17:30 URL:http://www.townofmedway.org/route-109-transportation-improvement-project/news/route-109-update-week-november-14-2016 [33119] -> "../data/townSites2/Medway/www.townofmedway.org/route-109-transportation-improvement-project/news/route-109-update-week-november-14-2016" [1]
+2017-01-01 22:17:32 URL:http://www.townofmedway.org/node/10593/news [49493] -> "../data/townSites2/Medway/www.townofmedway.org/node/10593/news" [1]
+2017-01-01 22:17:34 URL:http://www.townofmedway.org/dps-engineering-facilities/pages/road-construction [32458] -> "../data/townSites2/Medway/www.townofmedway.org/node/2640" [1]
+2017-01-01 22:17:35 URL:http://www.townofmedway.org/print/2640 [6682] -> "../data/townSites2/Medway/www.townofmedway.org/print/2640" [1]
+2017-01-01 22:17:37 URL:http://www.townofmedway.org/dps-engineering-facilities [36282] -> "../data/townSites2/Medway/www.townofmedway.org/dps-engineering-facilities.1" [1]
+2017-01-01 22:17:40 URL:http://www.townofmedway.org/department-public-services/pages/summerfall-2016-roadwork [36953] -> "../data/townSites2/Medway/www.townofmedway.org/department-public-services/pages/summerfall-2016-roadwork" [1]
+2017-01-01 22:17:41 URL:http://www.townofmedway.org/dps-engineering-facilities/pages/road-construction [32458] -> "../data/townSites2/Medway/www.townofmedway.org/dps-engineering-facilities/links/road-construction" [1]
+2017-01-01 22:17:43 URL:https://drive.google.com/file/d/0B3odCeasylnwalB5cjFYWExMM1k/view [109456] -> "../data/townSites2/Medway/www.townofmedway.org/dps-engineering-facilities/links/route-109-final-design-plans" [1]
+2017-01-01 22:17:45 URL:http://www.townofmedway.org/dps-environmental-services/pages/trash-recycling [38097] -> "../data/townSites2/Medway/www.townofmedway.org/node/1801" [1]
+2017-01-01 22:17:47 URL:http://www.townofmedway.org/print/1801 [10394] -> "../data/townSites2/Medway/www.townofmedway.org/print/1801" [1]
+2017-01-01 22:17:48 URL:http://www.townofmedway.org/dps-environmental-services/pages/recycling-center-hours-locations-and-fees [35627] -> "../data/townSites2/Medway/www.townofmedway.org/dps-environmental-services/pages/recycling-center-hours-locations-and-fees" [1]
+2017-01-01 22:17:49 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/recycle_center_alternatives.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:17:50 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/dos_donts.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:17:50 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/compost_guide.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:17:50 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/wm_mailer.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:17:50 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/recaccpaper.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:17:51 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/rigid_plastic.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:17:51 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/styrofoam.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:17:52 URL:http://www.townofmedway.org/dps-environmental-services/pages/recreation [35692] -> "../data/townSites2/Medway/www.townofmedway.org/node/1796" [1]
+2017-01-01 22:17:53 URL:http://www.townofmedway.org/print/1796 [7840] -> "../data/townSites2/Medway/www.townofmedway.org/print/1796" [1]
+2017-01-01 22:17:53 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/town_of_medway_athleticfields.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:17:54 URL: http://www.townofmedway.org/sites/medwayma/files/uploads/town_of_medway_publicparks.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:17:55 URL:http://www.townofmedway.org/home/pages/website-disclaimer-privacy-policy [34870] -> "../data/townSites2/Medway/www.townofmedway.org/node/2638" [1]
+2017-01-01 22:17:56 URL:http://www.townofmedway.org/print/2638 [10227] -> "../data/townSites2/Medway/www.townofmedway.org/print/2638" [1]
+Found 8 broken links.
+
+https://www.nps.gov/history/hps/TPS/tax/rhb/index.htm
+http://www.townofmedway.org/home/news/6th-annual-medway-turkey-trot%25C2%25A0
+http://www.mass.gov/dor/local-officials/municipal-data-and-financial-management/
+http://www.mass.gov/eopss/agencies/dfs/dfs2/osfm/pubed/fs-topics/fs-topics-a/carbon-monoxide-safety.html
+http://www.townofmedway.org/home/news/help-protect-medway-wetlands-and-open-space-%25E2%2580%2594-join-conservation-commission
+http://www.townofmedway.org/home/news/assessor%25E2%2580%2599s-office-news
+http://www.mass.gov/eopss/docs/dfs/osfm/pubed/flyers/consumers-guide-w-sell-1-and-2-fam.pdf
+http://www.mass.gov/ethics/new-online-programs-available-december2012.html
+
+FINISHED --2017-01-01 22:17:56--
+Total wall clock time: 26m 16s
+Downloaded: 565 files, 22M in 3m 21s (111 KB/s)

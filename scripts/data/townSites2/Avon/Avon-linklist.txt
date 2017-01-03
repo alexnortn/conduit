@@ -1,0 +1,1407 @@
+2017-01-02 00:13:15 URL:http://www.avon-ma.gov/ [78953] -> "../data/townSites2/Avon/www.avon-ma.gov/index.html" [1]
+2017-01-02 00:13:15 URL: http://www.avon-ma.gov/town-calendar/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:13:17 URL:http://www.avon-ma.gov/departments [69605] -> "../data/townSites2/Avon/www.avon-ma.gov/departments" [1]
+2017-01-02 00:13:21 URL:http://www.avon-ma.gov/animal-control [58605] -> "../data/townSites2/Avon/www.avon-ma.gov/animal-control" [1]
+2017-01-02 00:13:24 URL:http://www.avon-ma.gov/assessors [81335] -> "../data/townSites2/Avon/www.avon-ma.gov/assessors" [1]
+2017-01-02 00:13:26 URL:http://www.mass.gov/dor/local-officials/ [41639] -> "../data/townSites2/Avon/www.avon-ma.gov/assessors/links/ma-division-of-local-services" [1]
+2017-01-02 00:13:28 URL:http://www.norfolkdeeds.org/ [24083] -> "../data/townSites2/Avon/www.avon-ma.gov/assessors/links/norfolk-county-deeds" [1]
+2017-01-02 00:13:32 URL:http://gis.vgsi.com/avonma/ [9080/9080] -> "../data/townSites2/Avon/www.avon-ma.gov/assessors/links/online-database" [1]
+2017-01-02 00:13:35 URL:http://www.massdot.state.ma.us/404.aspx [35770/35770] -> "../data/townSites2/Avon/www.avon-ma.gov/assessors/links/registry-of-motor-vehicles" [1]
+2017-01-02 00:13:37 URL:http://www.avon-ma.gov/assessors/pages/2017-values-have-been-certified [53491] -> "../data/townSites2/Avon/www.avon-ma.gov/assessors/pages/2017-values-have-been-certified" [1]
+2017-01-02 00:13:38 URL:http://www.avon-ma.gov/assessors/pages/abatement-forms [54867] -> "../data/townSites2/Avon/www.avon-ma.gov/assessors/pages/abatement-forms" [1]
+2017-01-02 00:13:40 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/abatement_process_0_0.pptx 200 OK
+unlink: No such file or directory
+2017-01-02 00:13:41 URL:http://www.avon-ma.gov/assessors/pages/additional-forms [53980] -> "../data/townSites2/Avon/www.avon-ma.gov/assessors/pages/additional-forms" [1]
+2017-01-02 00:13:46 URL:http://www.avon-ma.gov/assessors/pages/assessor-maps [56530] -> "../data/townSites2/Avon/www.avon-ma.gov/assessors/pages/assessor-maps" [1]
+2017-01-02 00:13:48 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/assessors_inspection_program.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:13:49 URL:http://www.avon-ma.gov/assessors/slideshows/assessors [55044] -> "../data/townSites2/Avon/www.avon-ma.gov/assessors/slideshows/assessors" [1]
+2017-01-02 00:13:52 URL:http://www.avon-ma.gov/assessors/pages/exemptions [56970] -> "../data/townSites2/Avon/www.avon-ma.gov/assessors/pages/exemptions" [1]
+2017-01-02 00:13:54 URL:http://www.avon-ma.gov/assessors/pages/form-of-list [53674] -> "../data/townSites2/Avon/www.avon-ma.gov/assessors/pages/form-of-list" [1]
+2017-01-02 00:13:58 URL:http://www.avon-ma.gov/assessors/pages/incomeexpense-forms [55299] -> "../data/townSites2/Avon/www.avon-ma.gov/assessors/pages/incomeexpense-forms" [1]
+2017-01-02 00:14:01 URL:http://www.maao.org/ [481/481] -> "../data/townSites2/Avon/www.avon-ma.gov/assessors/links/massachusetts-association-of-assessing-officers" [1]
+2017-01-02 00:14:03 URL:http://www.avon-ma.gov/assessors/pages/munimapper-avon-gis [54393] -> "../data/townSites2/Avon/www.avon-ma.gov/assessors/pages/munimapper-avon-gis" [1]
+2017-01-02 00:14:04 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/reasons_for_motor_vehicle_abatement_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:06 URL:http://www.avon-ma.gov/assessors/pages/tax-rate-process [53717] -> "../data/townSites2/Avon/www.avon-ma.gov/assessors/pages/tax-rate-process" [1]
+2017-01-02 00:14:07 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/tax_rates_fy2005_-_present.xlsx 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:09 URL:http://www.avon-ma.gov/assessors/pages/zoning-map-and-regulations-table [53975] -> "../data/townSites2/Avon/www.avon-ma.gov/assessors/pages/zoning-map-and-regulations-table" [1]
+2017-01-02 00:14:13 URL:http://www.avon-ma.gov/building-department [65874] -> "../data/townSites2/Avon/www.avon-ma.gov/building-department" [1]
+wget: unable to resolve host address 'mas.gov'
+2017-01-02 00:14:18 URL:http://www.mass.gov/eopss/agencies/dps/ [102750] -> "../data/townSites2/Avon/www.avon-ma.gov/building-department/links/building-code-advisory-sheets" [1]
+2017-01-02 00:14:19 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/inspectionfees.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:21 URL:http://www.mass.gov/eopss/consumer-prot-and-bus-lic/license-type/csl/building-codebbrs.html [112930] -> "../data/townSites2/Avon/www.avon-ma.gov/building-department/links/decks" [1]
+2017-01-02 00:14:26 URL:http://www.avon-ma.gov/electrical-inspector [59350] -> "../data/townSites2/Avon/www.avon-ma.gov/electrical-inspector" [1]
+http://www.iccsafe.org/blank-redirect.htmldefault.aspx:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:14:31 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/epaleadpaintrule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:35 URL:http://www.avon-ma.gov/node/2004/files [47601] -> "../data/townSites2/Avon/www.avon-ma.gov/building-department/links/forms" [1]
+2017-01-02 00:14:40 URL:http://www.mass.gov/eopss/consumer-prot-and-bus-lic/license-type/csl/building-codebbrs.html [112930] -> "../data/townSites2/Avon/www.avon-ma.gov/building-department/links/mass-state-building-code" [1]
+2017-01-02 00:14:44 URL:http://www.avon-ma.gov/plumbing-gas-inspector [61099] -> "../data/townSites2/Avon/www.avon-ma.gov/plumbing-gas-inspector" [1]
+2017-01-02 00:14:48 URL:http://www.avon-ma.gov/plumbing-inspector/pages/plumbing-gasfitting-fee-schedule [52036] -> "../data/townSites2/Avon/www.avon-ma.gov/plumbing-inspector/pages/plumbing-gasfitting-fee-schedule" [1]
+2017-01-02 00:14:49 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/requestforrecords.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:51 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/requestforzoningreview.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:58 URL:http://www.mass.gov/eopss/consumer-prot-and-bus-lic/license-type/csl/building-codebbrs.html [112930] -> "../data/townSites2/Avon/www.avon-ma.gov/building-department/links/wood-stoves" [1]
+2017-01-02 00:15:00 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/building_permit_fees_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:02 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/demolition_requirements.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:03 URL: http://www.mass.gov/eopss/docs/dfs/osfm/forms/elec-applic-form-1-07pdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:07 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/electrical_permit_fees_effective_11-01-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:09 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/exterior_storage_units.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:11 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/fences_information.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:14 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/gas_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:16 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/plumbing_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:17 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/plumbing_and_gasfitting_fee_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:28 URL: http://www.avon-ma.gov/sites/avonma/files/u121/snow_removal_bulletin.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:31 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/sample_building_plans.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:35 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/storage_shed_info.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:40 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/swimming_pools.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:45 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/yard_sale_packet_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:47 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/town_of_avon_zoning_bylaws_2014_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:51 URL:http://www.avon-ma.gov/community-development [59816] -> "../data/townSites2/Avon/www.avon-ma.gov/community-development" [1]
+2017-01-02 00:15:53 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/housing_rehab_application_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:54 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/housing_rehab_program_guidelines_0.pdf 200 OK
+unlink: No such file or directory
+http://www.avon-ma.gov/housing_rehab_application.pdf:
+Remote file does not exist -- broken link!!!
+http://www.avon-ma.gov/housing_rehab_application:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:16:02 URL:http://www.avon-ma.gov/council-on-aging [80814] -> "../data/townSites2/Avon/www.avon-ma.gov/council-on-aging" [1]
+2017-01-02 00:16:05 URL:http://www.avon-ma.gov/council-on-aging/slideshows/2016-holiday-luncheon [62124] -> "../data/townSites2/Avon/www.avon-ma.gov/council-on-aging/slideshows/2016-holiday-luncheon" [1]
+2017-01-02 00:16:08 URL:http://www.avon-ma.gov/council-on-aging/slideshows/2016-honoring-heroes [76536] -> "../data/townSites2/Avon/www.avon-ma.gov/council-on-aging/slideshows/2016-honoring-heroes" [1]
+2017-01-02 00:16:09 URL:http://www.avon-ma.gov/council-on-aging/pages/2016-newsletters [52930] -> "../data/townSites2/Avon/www.avon-ma.gov/council-on-aging/pages/2016-newsletters" [1]
+2017-01-02 00:16:12 URL:http://www.avon-ma.gov/council-on-aging/pages/2017-newsletters [52158] -> "../data/townSites2/Avon/www.avon-ma.gov/council-on-aging/pages/2017-newsletters" [1]
+2017-01-02 00:16:14 URL:http://www.avon-ma.gov/council-on-aging/slideshows/chairwoman-of-the-house-committee-on-elder-affairs-rep-denise-garlick-an [58743] -> "../data/townSites2/Avon/www.avon-ma.gov/council-on-aging/slideshows/chairwoman-of-the-house-committee-on-elder-affairs-rep-denise-garlick-an" [1]
+2017-01-02 00:16:16 URL:http://www.jfcsboston.org/Our-Services/Older-Adults/Alzheimers-Related-Disorders-Family-Support/Dementia-Friendly-MA-Initiative [277097/277097] -> "../data/townSites2/Avon/www.avon-ma.gov/council-on-aging/links/dementia-friendly-massachusetts-initiative" [1]
+2017-01-02 00:16:17 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/fuel_assistance_documentation_2014.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:18 URL:http://www.avon-ma.gov/council-on-aging/pages/january-calendar-menu-activities [52584] -> "../data/townSites2/Avon/www.avon-ma.gov/council-on-aging/pages/january-calendar-menu-activities" [1]
+2017-01-02 00:16:20 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/mass211.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:21 URL:http://norfolkcounty.org/index.cfm?pid=10683 [27652] -> "../data/townSites2/Avon/www.avon-ma.gov/council-on-aging/links/norfolk-county-rsvp" [1]
+2017-01-02 00:16:23 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/shine.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:24 URL:http://www.avon-ma.gov/council-on-aging/slideshows/welcome-to-the-council-on-aging-pic [54131] -> "../data/townSites2/Avon/www.avon-ma.gov/council-on-aging/slideshows/welcome-to-the-council-on-aging-pic" [1]
+2017-01-02 00:16:27 URL:http://www.avon-ma.gov/department-of-public-works [68608] -> "../data/townSites2/Avon/www.avon-ma.gov/department-of-public-works" [1]
+2017-01-02 00:16:30 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/2014_water_quality_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:31 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/2015_water_quality_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:32 URL: http://www.avon-ma.gov/sites/avonma/files/u121/bathroom_dye_test.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:34 URL:http://www.avon-ma.gov/department-of-public-works/pages/columbia-gas-of-ma-serious-snow-and-ice-safety-risks-for-natural-ga [58906] -> "../data/townSites2/Avon/www.avon-ma.gov/department-of-public-works/pages/columbia-gas-of-ma-serious-snow-and-ice-safety-risks-for-natural-ga" [1]
+2017-01-02 00:16:35 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/residential_2014_cross_connection_control_and_you.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:36 URL:http://www.avon-ma.gov/department-of-public-works/pages/documents-forms [55456] -> "../data/townSites2/Avon/www.avon-ma.gov/department-of-public-works/pages/documents-forms" [1]
+2017-01-02 00:16:37 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/skmbt_50014051206150.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:37 URL: http://www.avon-ma.gov/sites/avonma/files/u121/tier_1_drinking_water_notice-porter_well_raw-fecal_050914_sample_date_11_10_14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:39 URL:http://www.avon-ma.gov/dpw/pages/emergency-information [60610] -> "../data/townSites2/Avon/www.avon-ma.gov/dpw/pages/emergency-information" [1]
+2017-01-02 00:16:40 URL:http://www.avon-ma.gov/dpw/pages/final-water-reading-request [54866] -> "../data/townSites2/Avon/www.avon-ma.gov/dpw/pages/final-water-reading-request" [1]
+2017-01-02 00:16:41 URL:http://www.avon-ma.gov/dpw/pages/hydrant-flushing [56515] -> "../data/townSites2/Avon/www.avon-ma.gov/dpw/pages/hydrant-flushing" [1]
+2017-01-02 00:16:43 URL:http://www.massdot.state.ma.us/highway/Departments/SnowIce/SafeWinterDrivingTips.aspx [55741/55741] -> "../data/townSites2/Avon/www.avon-ma.gov/department-of-public-works/links/ma-dot-safe-winter-driving-tips" [1]
+2017-01-02 00:16:44 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/news_release_ice_safety_jan2015.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:45 URL:http://maps.massgis.state.ma.us/map_ol/avon.php [12352] -> "../data/townSites2/Avon/www.avon-ma.gov/dpw/links/munimapper-for-avon" [1]
+http://www.avon-ma.gov/home/news/wondering-what-the-construction-is-on-harrison-boulevard-national-grid-is-building-a-subst:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:16:48 URL:http://www.nws.noaa.gov/os/winter/index.shtml [23482/23482] -> "../data/townSites2/Avon/www.avon-ma.gov/department-of-public-works/links/national-weather-service-winter-safety-information" [1]
+2017-01-02 00:16:49 URL:http://www.avon-ma.gov/department-of-public-works/pages/snow-related-information [59069] -> "../data/townSites2/Avon/www.avon-ma.gov/department-of-public-works/pages/snow-related-information" [1]
+2017-01-02 00:16:52 URL:https://www3.epa.gov/region1/npdes/stormwater/ma.html [141870/141870] -> "../data/townSites2/Avon/www.avon-ma.gov/dpw/links/stormwater-management" [1]
+2017-01-02 00:16:54 URL:http://www.avon-ma.gov/department-of-public-works/pages/tips-on-detecting-a-water-leak [55224] -> "../data/townSites2/Avon/www.avon-ma.gov/department-of-public-works/pages/tips-on-detecting-a-water-leak" [1]
+2017-01-02 00:16:55 URL: http://www.avon-ma.gov/sites/avonma/files/u121/water_leak_test.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:57 URL:http://www.avon-ma.gov/dpw/pages/water-meter-readings [55487] -> "../data/townSites2/Avon/www.avon-ma.gov/dpw/pages/water-meter-readings" [1]
+2017-01-02 00:16:58 URL:http://www.avon-ma.gov/dpw/pages/water-rates-fees [56120] -> "../data/townSites2/Avon/www.avon-ma.gov/dpw/pages/water-rates-fees" [1]
+2017-01-02 00:16:59 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/watershed.jpg 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:01 URL:http://www.avon-ma.gov/user/login?destination=node%2F7541 [47449] -> "../data/townSites2/Avon/www.avon-ma.gov/department-of-public-works/links/winter-tips-to-help-avon-open-up-the-streets" [1]
+2017-01-02 00:17:04 URL:http://www.avon-ma.gov/fire-department [66929] -> "../data/townSites2/Avon/www.avon-ma.gov/fire-department" [1]
+2017-01-02 00:17:09 URL:https://comstarbilling.com/ [22518] -> "../data/townSites2/Avon/www.avon-ma.gov/fire-department/links/ambulance-billing" [1]
+2017-01-02 00:17:10 URL:http://www.avon-ma.gov/fire-department/pages/apparatus [56605] -> "../data/townSites2/Avon/www.avon-ma.gov/fire-department/pages/apparatus" [1]
+2017-01-02 00:17:12 URL:http://www.avon-ma.gov/fire-department/pages/fire-prevention-plan-review [52998] -> "../data/townSites2/Avon/www.avon-ma.gov/fire-department/pages/fire-prevention-plan-review" [1]
+2017-01-02 00:17:13 URL:http://www.avon-ma.gov/fire-department/pages/join-afd [53539] -> "../data/townSites2/Avon/www.avon-ma.gov/fire-department/pages/join-afd" [1]
+2017-01-02 00:17:16 URL:http://public.dep.state.ma.us/MassAir/Pages/MapForecast.aspx?&ht=1&hi=108 [124569/124569] -> "../data/townSites2/Avon/www.avon-ma.gov/fire-department/links/open-burining-air-quality-forecast" [1]
+2017-01-02 00:17:16 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/press_release_103_pond_st_avon.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:17 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/pond_st_scotts_truck.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:18 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/consumers-guide-w-sell-1-and-2-fam.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:20 URL:http://www.avon-ma.gov/fire-department/files/tank-truck-permit-application [53827] -> "../data/townSites2/Avon/www.avon-ma.gov/fire-department/files/tank-truck-permit-application" [1]
+2017-01-02 00:17:21 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/trench_permit_application_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:22 URL:http://www.avon-ma.gov/fire-department/pages/useful-links [52842] -> "../data/townSites2/Avon/www.avon-ma.gov/fire-department/pages/useful-links" [1]
+2017-01-02 00:17:25 URL:http://www.avon-ma.gov/parking-clerk [58341] -> "../data/townSites2/Avon/www.avon-ma.gov/parking-clerk" [1]
+2017-01-02 00:17:26 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/hearingreqform2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:28 URL:https://www.kelleyryan.com/epay/ [477/477] -> "../data/townSites2/Avon/www.avon-ma.gov/parking-clerk/links/online-ticket-payments" [1]
+2017-01-02 00:17:31 URL:http://www.avon-ma.gov/parks-and-recreation [60306] -> "../data/townSites2/Avon/www.avon-ma.gov/parks-and-recreation" [1]
+2017-01-02 00:17:33 URL:http://www.avon-ma.gov/police-department [66108] -> "../data/townSites2/Avon/www.avon-ma.gov/police-department" [1]
+2017-01-02 00:17:35 URL:http://www.mass.gov/eopss/law-enforce-and-cj/law-enforce/missing-and-wanted/most-wanted.html [93266] -> "../data/townSites2/Avon/www.avon-ma.gov/police-department/links/10-most-wanted" [1]
+2017-01-02 00:17:37 URL:http://www.avon-ma.gov/police-department/webforms/anonymous-drug-tips [57601] -> "../data/townSites2/Avon/www.avon-ma.gov/police-department/webforms/anonymous-drug-tips" [1]
+2017-01-02 00:17:38 URL:http://www.avon-ma.gov/police-department/webforms/compliment-an-officer [60942] -> "../data/townSites2/Avon/www.avon-ma.gov/police-department/webforms/compliment-an-officer" [1]
+2017-01-02 00:17:39 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/08-18-16_revised_part_time_public_safety_civilian_dispatcher_position.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:40 URL:http://www.avon-ma.gov/police-department/pages/police-press-logs [52116] -> "../data/townSites2/Avon/www.avon-ma.gov/police-department/pages/police-press-logs" [1]
+2017-01-02 00:17:41 URL:http://www.avon-ma.gov/police-department/pages/roster [51776] -> "../data/townSites2/Avon/www.avon-ma.gov/police-department/pages/roster" [1]
+2017-01-02 00:17:42 URL:http://www.avon-ma.gov/council-on-aging [80814] -> "../data/townSites2/Avon/www.avon-ma.gov/police-department/links/safety-tips-for-seniors" [1]
+2017-01-02 00:17:44 URL:http://www.avon-ma.gov/police-department/pages/sex-offender-registry [54208] -> "../data/townSites2/Avon/www.avon-ma.gov/police-department/pages/sex-offender-registry" [1]
+2017-01-02 00:17:45 URL:http://www.avon-ma.gov/police-department/webforms/vacation-house-checks [55309] -> "../data/townSites2/Avon/www.avon-ma.gov/police-department/webforms/vacation-house-checks" [1]
+2017-01-02 00:17:47 URL:http://www.avon-ma.gov/town-administrator [61541] -> "../data/townSites2/Avon/www.avon-ma.gov/town-administrator" [1]
+2017-01-02 00:17:51 URL:http://www.avon-ma.gov/board-of-selectmen [80535] -> "../data/townSites2/Avon/www.avon-ma.gov/town-administrator/links/board-of-selectmen" [1]
+2017-01-02 00:17:53 URL: http://www.avon-ma.gov/sites/avonma/files/u116/september_16_2014_stm_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:55 URL:http://www.avon-ma.gov/town-administrator/pages/special-event-guidelines [51560] -> "../data/townSites2/Avon/www.avon-ma.gov/town-administrator/pages/special-event-guidelines" [1]
+2017-01-02 00:17:57 URL:http://www.avon-ma.gov/town-accountant [59092] -> "../data/townSites2/Avon/www.avon-ma.gov/town-accountant" [1]
+2017-01-02 00:18:00 URL:http://www.avon-ma.gov/town-clerk-registrar-of-voters [71530] -> "../data/townSites2/Avon/www.avon-ma.gov/town-clerk-registrar-of-voters" [1]
+2017-01-02 00:18:02 URL:http://www.avon-ma.gov/town-clerk-registrar-of-voters/pages/a-guide-to-posting-meetings-agendas-minutes [54160] -> "../data/townSites2/Avon/www.avon-ma.gov/town-clerk-registrar-of-voters/pages/a-guide-to-posting-meetings-agendas-minutes" [1]
+2017-01-02 00:18:03 URL:http://www.avon-ma.gov/town-clerk-registrar-of-voters/pages/business-certificates [55551] -> "../data/townSites2/Avon/www.avon-ma.gov/town-clerk-registrar-of-voters/pages/business-certificates" [1]
+2017-01-02 00:18:04 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/town_charter_1989.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:06 URL:http://www.avon-ma.gov/town-clerk-registrar-of-voters/pages/conflict-of-interest [55571] -> "../data/townSites2/Avon/www.avon-ma.gov/town-clerk-registrar-of-voters/pages/conflict-of-interest" [1]
+2017-01-02 00:18:07 URL:http://www.avon-ma.gov/town-clerk-registrar-of-voters/pages/dog-licenses [54370] -> "../data/townSites2/Avon/www.avon-ma.gov/town-clerk-registrar-of-voters/pages/dog-licenses" [1]
+2017-01-02 00:18:08 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/general_bylaws_final_edit_on_june_15_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:10 URL:http://www.avon-ma.gov/town-clerk-registrar-of-voters/pages/how-to-obtain-a-marriage-license [54068] -> "../data/townSites2/Avon/www.avon-ma.gov/town-clerk-registrar-of-voters/pages/how-to-obtain-a-marriage-license" [1]
+2017-01-02 00:18:11 URL:http://www.avon-ma.gov/town-clerk-registrar-of-voters/pages/know-before-you-go [48708] -> "../data/townSites2/Avon/www.avon-ma.gov/town-clerk-registrar-of-voters/pages/know-before-you-go" [1]
+2017-01-02 00:18:12 URL:http://www.avon-ma.gov/town-clerk-registrar-of-voters/pages/order-birth-death-marriage-certificates-online-here [54333] -> "../data/townSites2/Avon/www.avon-ma.gov/town-clerk-registrar-of-voters/pages/order-birth-death-marriage-certificates-online-here" [1]
+2017-01-02 00:18:13 URL: http://www.mass.gov/ago/docs/government/oml/oml-guide.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:14 URL:http://www.avon-ma.gov/town-clerk-registrar-of-voters/pages/public-meeting-posting-form [54011] -> "../data/townSites2/Avon/www.avon-ma.gov/town-clerk-registrar-of-voters/pages/public-meeting-posting-form" [1]
+2017-01-02 00:18:16 URL:http://www.avon-ma.gov/town-clerk-registrar-of-voters/pages/public-records-request-form [54022] -> "../data/townSites2/Avon/www.avon-ma.gov/town-clerk-registrar-of-voters/pages/public-records-request-form" [1]
+2017-01-02 00:18:17 URL:http://www.avon-ma.gov/town-clerk-registrar-of-voters/pages/street-list-census [55673] -> "../data/townSites2/Avon/www.avon-ma.gov/town-clerk-registrar-of-voters/pages/street-list-census" [1]
+2017-01-02 00:18:18 URL:http://www.avon-ma.gov/town-clerk-registrar-of-voters/pages/town-clerk-fee-schedule [53978] -> "../data/townSites2/Avon/www.avon-ma.gov/town-clerk-registrar-of-voters/pages/town-clerk-fee-schedule" [1]
+2017-01-02 00:18:19 URL:http://www.avon-ma.gov/town-clerk-registrar-of-voters/pages/town-meeting [54677] -> "../data/townSites2/Avon/www.avon-ma.gov/town-clerk-registrar-of-voters/pages/town-meeting" [1]
+2017-01-02 00:18:21 URL:http://www.avon-ma.gov/town-clerk-registrar-of-voters/pages/town-reports [54702] -> "../data/townSites2/Avon/www.avon-ma.gov/town-clerk-registrar-of-voters/pages/town-reports" [1]
+2017-01-02 00:18:22 URL:http://www.avon-ma.gov/town-clerk-registrar-of-voters/pages/vital-records [54304] -> "../data/townSites2/Avon/www.avon-ma.gov/town-clerk-registrar-of-voters/pages/vital-records" [1]
+2017-01-02 00:18:23 URL:http://www.avon-ma.gov/town-clerk-registrar-of-voters/pages/voting-elections [60630] -> "../data/townSites2/Avon/www.avon-ma.gov/town-clerk-registrar-of-voters/pages/voting-elections" [1]
+2017-01-02 00:18:26 URL:http://www.avon-ma.gov/town-moderator [59439] -> "../data/townSites2/Avon/www.avon-ma.gov/town-moderator" [1]
+2017-01-02 00:18:28 URL:http://www.avon-ma.gov/town-moderator/pages/glossary-of-terms-used-at-town-meetings [55058] -> "../data/townSites2/Avon/www.avon-ma.gov/town-moderator/pages/glossary-of-terms-used-at-town-meetings" [1]
+2017-01-02 00:18:31 URL:http://www.avon-ma.gov/treasurer-collector [63300] -> "../data/townSites2/Avon/www.avon-ma.gov/treasurer-collector" [1]
+2017-01-02 00:18:34 URL:https://www.unibank.com/ccfeeschedule.aspx [54337/54337] -> "../data/townSites2/Avon/www.avon-ma.gov/treasurer-collector/links/fee-schedule" [1]
+2017-01-02 00:18:36 URL:https://www.kelleyryan.com/epay/ [477/477] -> "../data/townSites2/Avon/www.avon-ma.gov/treasurer-collector/links/kelley-ryan-deputy-collector" [1]
+2017-01-02 00:18:37 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/skmbt_50013121708380.2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:38 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/skmbt_50013121708380.1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:39 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/tailingswebsite15.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:41 URL:http://www.avon-ma.gov/treasurer-collector/pages/tax-calculators [52467] -> "../data/townSites2/Avon/www.avon-ma.gov/treasurer-collector/pages/tax-calculators" [1]
+2017-01-02 00:18:42 URL:http://www.avon-ma.gov/treasurer-collector/pages/tax-taking-october-17-2016-900-am [52208] -> "../data/townSites2/Avon/www.avon-ma.gov/treasurer-collector/pages/tax-taking-october-17-2016-900-am" [1]
+2017-01-02 00:18:44 URL:http://www.avon-ma.gov/recycling-information [64683] -> "../data/townSites2/Avon/www.avon-ma.gov/recycling-information" [1]
+2017-01-02 00:18:46 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/howland_2016_form_for_large_avon.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:46 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/2015_trash_hauler.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:47 URL:http://www.bestbuy.com/site/Global-Promotions/Recycling-Electronics/pcmcat149900050025.c?id=pcmcat149900050025 [227288/227288] -> "../data/townSites2/Avon/www.avon-ma.gov/recycling-information/links/best-buy-free-and-easy-electronics-and-appliance-recycling" [1]
+2017-01-02 00:18:48 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/compost.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:49 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/avon_recycles.jpg 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:50 URL:http://www.mass.gov/eea/agencies/massdep/recycle/hazardous/household-hazardous-waste-collection-facilities.html [189285] -> "../data/townSites2/Avon/www.avon-ma.gov/recycling-information/links/how-to-safely-manage-hazardous-household-products" [1]
+2017-01-02 00:18:52 URL:http://recyclesearch.com/profile/ma [32267/32267] -> "../data/townSites2/Avon/www.avon-ma.gov/recycling-information/links/massdeps-beyond-the-bin-recycling-directory" [1]
+2017-01-02 00:18:53 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/wm-mythbuster.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:54 URL:http://www.mass.gov/eea/agencies/massdep/recycle/hazardous/household-hazardous-waste-collection-facilities.html [189285] -> "../data/townSites2/Avon/www.avon-ma.gov/recycling-information/links/municipal-household-hazardous-waste-collection-facilities" [1]
+2017-01-02 00:18:55 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/wm-poster-8.5x11.jpg 200 OK
+unlink: No such file or directory
+http://www.recyclingworksma.com/:
+http://www.recyclingworksma.com/:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:18:58 URL:http://www.mass.gov/eea/agencies/massdep/recycle/reduce/recycling-in-my-community.html [188699] -> "../data/townSites2/Avon/www.avon-ma.gov/recycling-information/links/recycling-in-my-community" [1]
+2017-01-02 00:18:59 URL:http://maps.env.state.ma.us/dep/arcgis/js/templates/SafeMercuryDisposal/ [6551/6551] -> "../data/townSites2/Avon/www.avon-ma.gov/recycling-information/links/residential-mercury-disposal-where-to-safely-dispose-of-fluorescent-ligh" [1]
+2017-01-02 00:19:00 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/boostersflier.jpg 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:02 URL:http://www.avon-ma.gov/veterans-services [61102] -> "../data/townSites2/Avon/www.avon-ma.gov/veterans-services" [1]
+2017-01-02 00:19:04 URL:http://www.avon-ma.gov/veterans-services/pages/documents-forms [51115] -> "../data/townSites2/Avon/www.avon-ma.gov/veterans-services/pages/documents-forms" [1]
+2017-01-02 00:19:05 URL:http://www.avon-ma.gov/boards [66319] -> "../data/townSites2/Avon/www.avon-ma.gov/boards" [1]
+2017-01-02 00:19:08 URL:http://www.avon-ma.gov/board-of-health [88357] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health" [1]
+2017-01-02 00:19:10 URL:http://www.avon-ma.gov/board-of-health/pages/announcements-recalls [54129] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/pages/announcements-recalls" [1]
+2017-01-02 00:19:11 URL:http://www.cdc.gov/ [64483/64483] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/links/center-for-disease-control-cdc" [1]
+2017-01-02 00:19:12 URL:http://www.ocpcrpa.org/septic.html [13003/13003] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/links/community-septic-management-program" [1]
+2017-01-02 00:19:13 URL:http://www.avon-ma.gov/board-of-health/pages/downloadable-license-permit-applications [55391] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/pages/downloadable-license-permit-applications" [1]
+2017-01-02 00:19:14 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/avon_recycles.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:15 URL:http://www.avon-ma.gov/board-of-health/pages/emergency-preparedness [55170] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/pages/emergency-preparedness" [1]
+2017-01-02 00:19:16 URL:http://www.avon-ma.gov/board-of-health/pages/fee-schedule [53585] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/pages/fee-schedule" [1]
+2017-01-02 00:19:18 URL:http://www.mass.gov/eohhs/gov/departments/dph/programs/environmental-health/food-safety/ [36651] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/links/food-inspections-permitting-and-handling" [1]
+2017-01-02 00:19:19 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/engineers_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:20 URL:http://www.avon-ma.gov/board-of-health/pages/local-regulations [60855] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/pages/local-regulations" [1]
+2017-01-02 00:19:21 URL: http://www.mass.gov/eohhs/docs/dph/emergency-prep/board-of-health-manual.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:22 URL:http://www.mass.gov/eohhs/gov/departments/dph/programs/environmental-health/ [51378] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/links/massachusetts-department-of-environmental-protection" [1]
+2017-01-02 00:19:23 URL:http://www.mass.gov/eohhs/gov/departments/dph/ [51312] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/links/massachusetts-department-of-public-health" [1]
+2017-01-02 00:19:25 URL:http://www.norfolkcountymosquito.org/ [34304] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/links/norfolk-county-mosquito-control-district" [1]
+2017-01-02 00:19:26 URL:http://www.avon-ma.gov/board-of-health/pages/processess-and-procedures [54641] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/pages/processess-and-procedures" [1]
+2017-01-02 00:19:27 URL:http://www.mass.gov/eohhs/gov/departments/dph/programs/environmental-health/comm-sanitation/camps-recreational.html [47894] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/links/recreational-camps-for-children" [1]
+2017-01-02 00:19:28 URL:http://www.avon-ma.gov/board-of-health/pages/recycling-resources-for-difficult-to-manage-items [54629] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/pages/recycling-resources-for-difficult-to-manage-items" [1]
+2017-01-02 00:19:29 URL:http://www.mass.gov/eea/agencies/massdep/recycle/reduce/recycling-in-my-community.html?utm_source=hootsuite&utm_campaign=hootsuite [188751] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/links/recycling-specific-items-and-materials" [1]
+2017-01-02 00:19:30 URL:http://www.avon-ma.gov/board-of-health/pages/schedule [53952] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/pages/schedule" [1]
+2017-01-02 00:19:31 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/2015_septage_hauler.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:33 URL:http://www.avon-ma.gov/board-of-health/pages/textile-recycling-fundraiser [54065] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/pages/textile-recycling-fundraiser" [1]
+2017-01-02 00:19:34 URL:http://www.avon-ma.gov/board-of-health/pages/west-nile-virus-eastern-equine-encephalitistick-information [55235] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/pages/west-nile-virus-eastern-equine-encephalitistick-information" [1]
+2017-01-02 00:19:35 URL:http://www.avon-ma.gov/board-of-selectmen [80535] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-selectmen" [1]
+2017-01-02 00:19:36 URL:http://www.avon-ma.gov/board-of-selectmen/pages/administrative-policies [51875] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-selectmen/pages/administrative-policies" [1]
+2017-01-02 00:19:42 URL:http://www.avon-ma.gov/board-of-selectmen/pages/announcements [1033049] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-selectmen/pages/announcements" [1]
+2017-01-02 00:19:43 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/temporary_sign_policies_and_general_guidelines.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:44 URL:http://www.avon-ma.gov/board-of-selectmen/pages/general-application-renewal-form [51890] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-selectmen/pages/general-application-renewal-form" [1]
+2017-01-02 00:19:45 URL:http://www.avon-ma.gov/board-of-selectmen/pages/park-permit-form [52042] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-selectmen/pages/park-permit-form" [1]
+2017-01-02 00:19:48 URL:http://www.avon-ma.gov/by-law-committee [54981] -> "../data/townSites2/Avon/www.avon-ma.gov/by-law-committee" [1]
+2017-01-02 00:19:50 URL:http://www.avon-ma.gov/cable-tv-advisory-committee [59312] -> "../data/townSites2/Avon/www.avon-ma.gov/cable-tv-advisory-committee" [1]
+2017-01-02 00:19:53 URL:http://www.avon-ma.gov/capital-planning-committee [51754] -> "../data/townSites2/Avon/www.avon-ma.gov/capital-planning-committee" [1]
+2017-01-02 00:19:56 URL:http://www.avon-ma.gov/conservation-commission [74681] -> "../data/townSites2/Avon/www.avon-ma.gov/conservation-commission" [1]
+2017-01-02 00:19:59 URL:http://www.avon-ma.gov/cultural-council [63380] -> "../data/townSites2/Avon/www.avon-ma.gov/cultural-council" [1]
+2017-01-02 00:20:02 URL:http://www.avon-ma.gov/finance-committee [75997] -> "../data/townSites2/Avon/www.avon-ma.gov/finance-committee" [1]
+2017-01-02 00:20:04 URL:http://www.avon-ma.gov/finance-committee/pages/final-finance-committee-comment [52300] -> "../data/townSites2/Avon/www.avon-ma.gov/finance-committee/pages/final-finance-committee-comment" [1]
+2017-01-02 00:20:05 URL:http://www.avon-ma.gov/finance-committee/pages/finance-committee-role-in-the-budget-process [52606] -> "../data/townSites2/Avon/www.avon-ma.gov/finance-committee/pages/finance-committee-role-in-the-budget-process" [1]
+2017-01-02 00:20:08 URL:http://www.avon-ma.gov/historical-commission [60746] -> "../data/townSites2/Avon/www.avon-ma.gov/historical-commission" [1]
+2017-01-02 00:20:09 URL:http://www.avon-ma.gov/historical-commission/pages/blanchards-colonial-tavern-musuem [50424] -> "../data/townSites2/Avon/www.avon-ma.gov/historical-commission/pages/blanchards-colonial-tavern-musuem" [1]
+2017-01-02 00:20:12 URL:http://www.avon-ma.gov/housing-authority [62772] -> "../data/townSites2/Avon/www.avon-ma.gov/housing-authority" [1]
+2017-01-02 00:20:15 URL:http://www.avon-ma.gov/industrial-development-commission [54157] -> "../data/townSites2/Avon/www.avon-ma.gov/industrial-development-commission" [1]
+2017-01-02 00:20:18 URL:http://www.avon-ma.gov/library-trustees [71627] -> "../data/townSites2/Avon/www.avon-ma.gov/library-trustees" [1]
+2017-01-02 00:20:21 URL:http://www.avon-ma.gov/personnel-board [54937] -> "../data/townSites2/Avon/www.avon-ma.gov/personnel-board" [1]
+2017-01-02 00:20:24 URL:http://www.avon-ma.gov/planning-board [77942] -> "../data/townSites2/Avon/www.avon-ma.gov/planning-board" [1]
+2017-01-02 00:20:27 URL:http://www.avon-ma.gov/node/2001/files [47340] -> "../data/townSites2/Avon/www.avon-ma.gov/planning-board/links/documents-forms" [1]
+2017-01-02 00:20:28 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/town_of_avon_planning_board_rules_regulations_governing_the_subdivision_of_land.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:29 URL:http://www.avon-ma.gov/planning-board/pages/zoning-bylaws [51434] -> "../data/townSites2/Avon/www.avon-ma.gov/planning-board/pages/zoning-bylaws" [1]
+2017-01-02 00:20:30 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/zoning_map-final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:33 URL:http://www.avon-ma.gov/designer-selectionpublic-safety-building-committee [65448] -> "../data/townSites2/Avon/www.avon-ma.gov/designer-selectionpublic-safety-building-committee" [1]
+2017-01-02 00:20:34 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/conceptual_drawings_of_the_proposed_new_avon_fire_police_department.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:35 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/current_conditions_of_the_avon_fire_police_department.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:38 URL:http://www.avon-ma.gov/sewer-commission [58032] -> "../data/townSites2/Avon/www.avon-ma.gov/sewer-commission" [1]
+2017-01-02 00:20:42 URL:http://www.avon-ma.gov/zoning-board-of-appeals [64919] -> "../data/townSites2/Avon/www.avon-ma.gov/zoning-board-of-appeals" [1]
+2017-01-02 00:20:44 URL:http://www.avon-ma.gov/zoning-board-of-appeals/pages/2016-public-hearings [50766] -> "../data/townSites2/Avon/www.avon-ma.gov/zoning-board-of-appeals/pages/2016-public-hearings" [1]
+2017-01-02 00:20:45 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/1_procedures_for_applicants_2.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:46 URL:http://www.avon-ma.gov/zoning-board-of-appeals/pages/hearing-application [50767] -> "../data/townSites2/Avon/www.avon-ma.gov/zoning-board-of-appeals/pages/hearing-application" [1]
+2017-01-02 00:20:47 URL:http://www.avon-ma.gov/zoning-board-of-appeals/pages/zoning-bylaws-0 [50577] -> "../data/townSites2/Avon/www.avon-ma.gov/zoning-board-of-appeals/pages/zoning-bylaws-0" [1]
+2017-01-02 00:20:48 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/zoning_map-final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:51 URL:http://www.avon-ma.gov/community-info-0 [54698] -> "../data/townSites2/Avon/www.avon-ma.gov/community-info-0" [1]
+2017-01-02 00:20:54 URL:http://www.avon-ma.gov/avon-civic-association [73230] -> "../data/townSites2/Avon/www.avon-ma.gov/avon-civic-association" [1]
+2017-01-02 00:20:55 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/avon_civic_association_membership_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:57 URL:http://www.onlinecolleges.net/massachusetts/ [258399] -> "../data/townSites2/Avon/www.avon-ma.gov/community-info/links/best-schools-online-colleges-in-massachusetts-guide-to-school-and-state-data" [1]
+2017-01-02 00:20:58 URL:http://www.blanchardstavern.com/ [22848/22848] -> "../data/townSites2/Avon/www.avon-ma.gov/community-info/links/blanchards-colonial-tavern-museum" [1]
+2017-01-02 00:21:00 URL:http://kidshealth.org/en/parents/cyberbullying.html [36302] -> "../data/townSites2/Avon/www.avon-ma.gov/community-info/links/cyberbulling-awareness" [1]
+2017-01-02 00:21:01 URL:http://www.avonvfwpost8892.com/ [5388/5388] -> "../data/townSites2/Avon/www.avon-ma.gov/community-info/links/frank-m-noyes-vfw-post-8892" [1]
+2017-01-02 00:21:03 URL:http://www.avon-ma.gov/home/webforms/community-info-listing [52139] -> "../data/townSites2/Avon/www.avon-ma.gov/community-info/links/list-your-community-info" [1]
+2017-01-02 00:21:06 URL:http://www.avon-ma.gov/memorial-day-parade-committee [59657] -> "../data/townSites2/Avon/www.avon-ma.gov/memorial-day-parade-committee" [1]
+2017-01-02 00:21:07 URL:http://www.whoishostingthis.com/resources/protect-kids-internet/ [42320] -> "../data/townSites2/Avon/www.avon-ma.gov/community-info/links/parents-guide-to-internet-safety" [1]
+2017-01-02 00:21:08 URL:http://www.avon-ma.gov/home/slides/avon-holiday-celebration [48261] -> "../data/townSites2/Avon/www.avon-ma.gov/home/slides/avon-holiday-celebration" [1]
+2017-01-02 00:21:09 URL:http://www.avon-ma.gov/home/slides/avon-holiday-celebration-0 [48252] -> "../data/townSites2/Avon/www.avon-ma.gov/home/slides/avon-holiday-celebration-0" [1]
+2017-01-02 00:21:11 URL:http://www.avon-ma.gov/home/slides/town-hall-closing [48206] -> "../data/townSites2/Avon/www.avon-ma.gov/home/slides/town-hall-closing" [1]
+2017-01-02 00:21:12 URL:http://www.avon-ma.gov/home/slides/holiday [48123] -> "../data/townSites2/Avon/www.avon-ma.gov/home/slides/holiday" [1]
+2017-01-02 00:21:14 URL:http://www.avon-ma.gov/home/slides/demarco [48104] -> "../data/townSites2/Avon/www.avon-ma.gov/home/slides/demarco" [1]
+2017-01-02 00:21:15 URL:http://www.avon-ma.gov/home/slides/gazebo-lit-up [48394] -> "../data/townSites2/Avon/www.avon-ma.gov/home/slides/gazebo-lit-up" [1]
+2017-01-02 00:21:16 URL:http://www.avon-ma.gov/home/slides/holiday-2 [48122] -> "../data/townSites2/Avon/www.avon-ma.gov/home/slides/holiday-2" [1]
+2017-01-02 00:21:17 URL:http://www.avon-ma.gov/home/slides/holiday-1 [48129] -> "../data/townSites2/Avon/www.avon-ma.gov/home/slides/holiday-1" [1]
+2017-01-02 00:21:19 URL:http://www.avon-ma.gov/home/slides/happy-holidays-0 [48179] -> "../data/townSites2/Avon/www.avon-ma.gov/home/slides/happy-holidays-0" [1]
+2017-01-02 00:21:20 URL:http://www.avon-ma.gov/home/news/winter-parking-ban-will-be-in-effect-from-november-15-2016-through-april-15-2016 [49219] -> "../data/townSites2/Avon/www.avon-ma.gov/home/news/winter-parking-ban-will-be-in-effect-from-november-15-2016-through-april-15-2016" [1]
+2017-01-02 00:21:22 URL:http://www.avon-ma.gov/home/news/dog-licenses-are-now-available-new-in-2017-license-your-dog-online-read-below-for-more-inf [50506] -> "../data/townSites2/Avon/www.avon-ma.gov/home/news/dog-licenses-are-now-available-new-in-2017-license-your-dog-online-read-below-for-more-inf" [1]
+2017-01-02 00:21:23 URL:http://www.avon-ma.gov/home/news/town-hall-will-be-closed-january-2nd [48566] -> "../data/townSites2/Avon/www.avon-ma.gov/home/news/town-hall-will-be-closed-january-2nd" [1]
+2017-01-02 00:21:24 URL:http://www.avon-ma.gov/home/news/the-avon-trash-and-recycling-schedule-will-not-be-impacted-by-the-holidays-and-will-contin [49209] -> "../data/townSites2/Avon/www.avon-ma.gov/home/news/the-avon-trash-and-recycling-schedule-will-not-be-impacted-by-the-holidays-and-will-contin" [1]
+2017-01-02 00:21:26 URL:http://www.avon-ma.gov/home/news/house-decorating-contest-winners-0 [51246] -> "../data/townSites2/Avon/www.avon-ma.gov/home/news/house-decorating-contest-winners-0" [1]
+2017-01-02 00:21:28 URL:http://www.avon-ma.gov/news/111 [72802] -> "../data/townSites2/Avon/www.avon-ma.gov/news/111" [1]
+2017-01-02 00:21:29 URL:http://www.avon-ma.gov/print/111 [2617] -> "../data/townSites2/Avon/www.avon-ma.gov/print/111" [1]
+2017-01-02 00:21:30 URL:http://www.avon-ma.gov/printmail/111 [48499] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/111" [1]
+2017-01-02 00:21:32 URL:http://www.avon-ma.gov/home/pages/organizational-charts [48204] -> "../data/townSites2/Avon/www.avon-ma.gov/home/pages/organizational-charts" [1]
+2017-01-02 00:21:33 URL:http://www.avon-ma.gov/minutes-and-agendas [47648] -> "../data/townSites2/Avon/www.avon-ma.gov/minutes-and-agendas" [1]
+2017-01-02 00:21:35 URL:http://www.avon-ma.gov/home/pages/rfpsrfqsbids [47925] -> "../data/townSites2/Avon/www.avon-ma.gov/home/pages/rfpsrfqsbids" [1]
+2017-01-02 00:21:36 URL:http://www.avon-ma.gov/home/pages/online-payments [48364] -> "../data/townSites2/Avon/www.avon-ma.gov/home/pages/online-payments" [1]
+2017-01-02 00:21:38 URL:http://www.avon-ma.gov/town-calendar/2017-01 [66028] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar/2017-01" [1]
+2017-01-02 00:21:40 URL:http://www.avon-ma.gov/town-calendar/2017-01-03 [53955] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar/2017-01-03" [1]
+2017-01-02 00:21:42 URL:http://www.avon-ma.gov/town-calendar/2017-01-05 [54977] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar/2017-01-05" [1]
+2017-01-02 00:21:44 URL:http://www.avon-ma.gov/town-calendar/2017-01-09 [53962] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar/2017-01-09" [1]
+2017-01-02 00:21:45 URL:http://www.avon-ma.gov/town-calendar/2017-01-10 [53962] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar/2017-01-10" [1]
+2017-01-02 00:21:47 URL:http://www.avon-ma.gov/town-calendar/2017-01-12 [53965] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar/2017-01-12" [1]
+2017-01-02 00:21:49 URL:http://www.avon-ma.gov/town-calendar/2017-01-19 [53961] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar/2017-01-19" [1]
+2017-01-02 00:21:50 URL:http://www.avon-ma.gov/user/login [47353] -> "../data/townSites2/Avon/www.avon-ma.gov/user/login" [1]
+2017-01-02 00:21:53 URL:http://www.avon-ma.gov/website-disclaimer-and-privacy-policy [51770] -> "../data/townSites2/Avon/www.avon-ma.gov/node/468" [1]
+2017-01-02 00:21:55 URL:http://www.avon-ma.gov/avon-public-library-0 [56861] -> "../data/townSites2/Avon/www.avon-ma.gov/avon-public-library-0" [1]
+2017-01-02 00:21:58 URL:http://www.avon-ma.gov/health-agent-0 [54930] -> "../data/townSites2/Avon/www.avon-ma.gov/health-agent-0" [1]
+2017-01-02 00:22:01 URL:http://www.avon-ma.gov/park-and-recreation [58118] -> "../data/townSites2/Avon/www.avon-ma.gov/park-and-recreation" [1]
+2017-01-02 00:22:02 URL: http://www.avon-ma.gov/node/2013/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:04 URL:http://www.avon-ma.gov/animal-control/slides/animal-control [50669] -> "../data/townSites2/Avon/www.avon-ma.gov/animal-control/slides/animal-control" [1]
+2017-01-02 00:22:06 URL:http://www.avon-ma.gov/print/2013 [7738] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2013" [1]
+2017-01-02 00:22:08 URL:http://www.avon-ma.gov/printmail/2013 [48525] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2013" [1]
+2017-01-02 00:22:10 URL:http://www.avon-ma.gov/users/lhedges/contact [49671] -> "../data/townSites2/Avon/www.avon-ma.gov/users/lhedges/contact" [1]
+2017-01-02 00:22:11 URL: http://www.avon-ma.gov/node/1990/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:12 URL: http://www.avon-ma.gov/node/1990/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:13 URL:http://www.avon-ma.gov/assessors/slides/board-of-assessors [53554] -> "../data/townSites2/Avon/www.avon-ma.gov/assessors/slides/board-of-assessors" [1]
+2017-01-02 00:22:15 URL:http://www.avon-ma.gov/print/1990 [11841] -> "../data/townSites2/Avon/www.avon-ma.gov/print/1990" [1]
+2017-01-02 00:22:17 URL:http://www.avon-ma.gov/printmail/1990 [48515] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/1990" [1]
+2017-01-02 00:22:18 URL:http://www.avon-ma.gov/users/smonahan/contact [49679] -> "../data/townSites2/Avon/www.avon-ma.gov/users/smonahan/contact" [1]
+2017-01-02 00:22:19 URL:http://www.avon-ma.gov/assessors/news/fy2017-personal-exemption-applications [55713] -> "../data/townSites2/Avon/www.avon-ma.gov/assessors/news/fy2017-personal-exemption-applications" [1]
+2017-01-02 00:22:21 URL:http://www.avon-ma.gov/assessors/news/2017-values-have-been-certified [53544] -> "../data/townSites2/Avon/www.avon-ma.gov/assessors/news/2017-values-have-been-certified" [1]
+2017-01-02 00:22:23 URL:http://www.avon-ma.gov/assessors/news/tax-classification-hearing-thursday-november-3-2016-at-745 [63317] -> "../data/townSites2/Avon/www.avon-ma.gov/assessors/news/tax-classification-hearing-thursday-november-3-2016-at-745" [1]
+2017-01-02 00:22:24 URL:http://www.avon-ma.gov/assessors/news/fy-2017-income-and-expense-submissions [54464] -> "../data/townSites2/Avon/www.avon-ma.gov/assessors/news/fy-2017-income-and-expense-submissions" [1]
+2017-01-02 00:22:26 URL:http://www.avon-ma.gov/node/1990/events/2017-01 [58025] -> "../data/townSites2/Avon/www.avon-ma.gov/node/1990/events/2017-01" [1]
+2017-01-02 00:22:27 URL: http://www.avon-ma.gov/sites/avonma/files/agenda/agenda-file/assessors_agenda_12-29-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:29 URL: http://www.avon-ma.gov/sites/avonma/files/agenda/agenda-file/assessors_agenda_12-1-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:31 URL: http://www.avon-ma.gov/sites/avonma/files/agenda/agenda-file/assessors_agenda_11-3-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:33 URL: http://www.avon-ma.gov/sites/avonma/files/agenda/agenda-file/assessors_agenda_10-20-16_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:34 URL: http://www.avon-ma.gov/sites/avonma/files/agenda/agenda-file/assessors_agenda_9-29-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:37 URL:http://www.avon-ma.gov/node/1990/agenda [97994] -> "../data/townSites2/Avon/www.avon-ma.gov/node/1990/agenda" [1]
+2017-01-02 00:22:38 URL: http://www.avon-ma.gov/sites/avonma/files/minutes/minutes-file/assessors_minutes_12-1-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:39 URL: http://www.avon-ma.gov/sites/avonma/files/minutes/minutes-file/assessors_minutes_11-3-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:40 URL: http://www.avon-ma.gov/sites/avonma/files/minutes/minutes-file/assessors_minutes_10-27-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:41 URL:http://www.avon-ma.gov/assessors/minutes/minutes-97 [54114] -> "../data/townSites2/Avon/www.avon-ma.gov/assessors/minutes/minutes-97" [1]
+2017-01-02 00:22:42 URL: http://www.avon-ma.gov/sites/avonma/files/minutes/minutes-file/assessors_minutes_10-20-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:45 URL:http://www.avon-ma.gov/node/1990/minutes [156462] -> "../data/townSites2/Avon/www.avon-ma.gov/node/1990/minutes" [1]
+2017-01-02 00:22:46 URL:http://www.avon-ma.gov/print/18521 [3115] -> "../data/townSites2/Avon/www.avon-ma.gov/print/18521" [1]
+2017-01-02 00:22:48 URL:http://www.avon-ma.gov/printmail/18521 [48581] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/18521" [1]
+2017-01-02 00:22:48 URL: http://www.avon-ma.gov/sites/avonma/files/u116/tax_rate_public_disclosure_fy17_-2_5_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:49 URL:http://www.avon-ma.gov/print/2314 [4409] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2314" [1]
+2017-01-02 00:22:51 URL:http://www.avon-ma.gov/printmail/2314 [48543] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2314" [1]
+2017-01-02 00:22:52 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/mvabatementform.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:53 URL:http://www.avon-ma.gov/print/2318 [3521] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2318" [1]
+2017-01-02 00:22:56 URL:http://www.avon-ma.gov/printmail/2318 [48545] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2318" [1]
+2017-01-02 00:22:56 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/abutters_list_request_form_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:57 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/addresschangeform.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:58 URL:http://www.avon-ma.gov/print/2604 [6113] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2604" [1]
+2017-01-02 00:23:00 URL:http://www.avon-ma.gov/printmail/2604 [48539] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2604" [1]
+2017-01-02 00:23:01 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-index.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:02 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-a4.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:03 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-a5.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:04 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-a6.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:06 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-a7.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:07 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-b1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:08 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-b2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:09 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-b3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:11 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-b4.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:12 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-b5.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:13 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-b6.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:13 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-b7.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:14 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-b8.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:15 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-b9.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:17 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-b10.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:18 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-c1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:19 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-c2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:20 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-c3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:21 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-c4.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:22 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-c5.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:24 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-c6.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:26 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-c7.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:27 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-c8.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:28 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-c9.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:29 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-d2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:29 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-d3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:30 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-d4.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:32 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-d5.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:33 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-d6.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:34 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-d7.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:35 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-e3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:36 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-e4.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:37 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-e5.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:38 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/map-e6.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:39 URL:http://www.avon-ma.gov/print/17261 [5036] -> "../data/townSites2/Avon/www.avon-ma.gov/print/17261" [1]
+2017-01-02 00:23:41 URL:http://www.avon-ma.gov/printmail/17261 [48542] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/17261" [1]
+2017-01-02 00:23:44 URL:http://www.avon-ma.gov/print/2312 [6268] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2312" [1]
+2017-01-02 00:23:47 URL:http://www.avon-ma.gov/printmail/2312 [48533] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2312" [1]
+2017-01-02 00:23:48 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/3abc.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:49 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/blindinfoform.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:49 URL: http://www.avon-ma.gov/sites/avonma/files/u111/20161202103356515.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:50 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/clause_17d_-_information.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:51 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/seniorinfo.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:52 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/veteransinfo.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:53 URL:http://www.avon-ma.gov/print/2766 [3341] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2766" [1]
+2017-01-02 00:23:57 URL:http://www.avon-ma.gov/printmail/2766 [48537] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2766" [1]
+2017-01-02 00:23:59 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/formiflistrev_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:00 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/formoflistmobile.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:01 URL:http://www.avon-ma.gov/print/2315 [4811] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2315" [1]
+2017-01-02 00:24:03 URL:http://www.avon-ma.gov/printmail/2315 [48552] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2315" [1]
+2017-01-02 00:24:05 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/i_e_formal_cover_letter_fy2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:06 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/ciproperty.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:07 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/apartmentuse.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:08 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/mixeduse.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:09 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/annualexpenses.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:10 URL:http://www.avon-ma.gov/print/3301 [3980] -> "../data/townSites2/Avon/www.avon-ma.gov/print/3301" [1]
+2017-01-02 00:24:11 URL:http://www.avon-ma.gov/printmail/3301 [48553] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/3301" [1]
+2017-01-02 00:24:13 URL:http://www.avon-ma.gov/print/5441 [3512] -> "../data/townSites2/Avon/www.avon-ma.gov/print/5441" [1]
+2017-01-02 00:24:15 URL:http://www.avon-ma.gov/printmail/5441 [48545] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/5441" [1]
+2017-01-02 00:24:15 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/show_budget_-_tax_rate_presentation_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:16 URL:http://www.avon-ma.gov/print/3271 [3622] -> "../data/townSites2/Avon/www.avon-ma.gov/print/3271" [1]
+2017-01-02 00:24:18 URL:http://www.avon-ma.gov/printmail/3271 [48577] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/3271" [1]
+2017-01-02 00:24:19 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/zoning_map-final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:22 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/zoning_reg_table.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:23 URL: http://www.avon-ma.gov/node/2004/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:26 URL:http://www.avon-ma.gov/building-department/slides/building-pic [54837] -> "../data/townSites2/Avon/www.avon-ma.gov/building-department/slides/building-pic" [1]
+2017-01-02 00:24:27 URL:http://www.avon-ma.gov/print/2004 [9894] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2004" [1]
+2017-01-02 00:24:30 URL:http://www.avon-ma.gov/printmail/2004 [48535] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2004" [1]
+2017-01-02 00:24:31 URL:http://www.avon-ma.gov/users/bborden/contact [49669] -> "../data/townSites2/Avon/www.avon-ma.gov/users/bborden/contact" [1]
+2017-01-02 00:24:32 URL: http://www.avon-ma.gov/node/2007/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:34 URL:http://www.avon-ma.gov/electrical-inspector/slides/electrical-inspector-business-card [51093] -> "../data/townSites2/Avon/www.avon-ma.gov/electrical-inspector/slides/electrical-inspector-business-card" [1]
+2017-01-02 00:24:36 URL:http://www.avon-ma.gov/print/2007 [8265] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2007" [1]
+2017-01-02 00:24:38 URL:http://www.avon-ma.gov/printmail/2007 [48537] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2007" [1]
+2017-01-02 00:24:39 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/building_permit_instructions_updated_03-30-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:40 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/ocpermitrequest.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:41 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/construction_control_document.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:43 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/mechanicalsheetmetalapplication2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:43 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/yardsalepermit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:44 URL: http://www.avon-ma.gov/node/2005/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:45 URL:http://www.avon-ma.gov/plumbing-gas-inspector/slides/plumbing-and-gas-inspector-business-card [51664] -> "../data/townSites2/Avon/www.avon-ma.gov/plumbing-gas-inspector/slides/plumbing-and-gas-inspector-business-card" [1]
+2017-01-02 00:24:47 URL:http://www.avon-ma.gov/print/2005 [8895] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2005" [1]
+2017-01-02 00:24:49 URL:http://www.avon-ma.gov/printmail/2005 [48547] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2005" [1]
+2017-01-02 00:24:50 URL:http://www.avon-ma.gov/print/2433 [3764] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2433" [1]
+2017-01-02 00:24:52 URL:http://www.avon-ma.gov/printmail/2433 [48592] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2433" [1]
+2017-01-02 00:24:53 URL: http://www.avon-ma.gov/node/2000/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:55 URL:http://www.avon-ma.gov/community-development/slides/block-grant-awarded [51271] -> "../data/townSites2/Avon/www.avon-ma.gov/community-development/slides/block-grant-awarded" [1]
+2017-01-02 00:24:58 URL:http://www.avon-ma.gov/print/2000 [6699] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2000" [1]
+2017-01-02 00:24:59 URL:http://www.avon-ma.gov/printmail/2000 [48539] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2000" [1]
+2017-01-02 00:25:01 URL: http://www.avon-ma.gov/node/2025/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:03 URL:http://www.avon-ma.gov/council-on-aging/slides/wishing-everyone-a-happy-and-healthy-new-year [52898] -> "../data/townSites2/Avon/www.avon-ma.gov/council-on-aging/slides/wishing-everyone-a-happy-and-healthy-new-year" [1]
+2017-01-02 00:25:04 URL:http://www.avon-ma.gov/council-on-aging/slides/christmas-2016 [52708] -> "../data/townSites2/Avon/www.avon-ma.gov/council-on-aging/slides/christmas-2016" [1]
+2017-01-02 00:25:05 URL:http://www.avon-ma.gov/council-on-aging/slides/christmas-2016-daisy-troop-finger-painting-3-for-coa [52990] -> "../data/townSites2/Avon/www.avon-ma.gov/council-on-aging/slides/christmas-2016-daisy-troop-finger-painting-3-for-coa" [1]
+2017-01-02 00:25:09 URL:http://www.avon-ma.gov/council-on-aging/slides/2016-coa-holiday-cards-wishes [52794] -> "../data/townSites2/Avon/www.avon-ma.gov/council-on-aging/slides/2016-coa-holiday-cards-wishes" [1]
+2017-01-02 00:25:11 URL:http://www.avon-ma.gov/council-on-aging/slides/christmas-2016-daisy-troop-finger-painting-4-for-coa [52990] -> "../data/townSites2/Avon/www.avon-ma.gov/council-on-aging/slides/christmas-2016-daisy-troop-finger-painting-4-for-coa" [1]
+2017-01-02 00:25:13 URL:http://www.avon-ma.gov/council-on-aging/slides/christmas-2016-daisy-troop-tree-2-40 [52874] -> "../data/townSites2/Avon/www.avon-ma.gov/council-on-aging/slides/christmas-2016-daisy-troop-tree-2-40" [1]
+2017-01-02 00:25:14 URL:http://www.avon-ma.gov/council-on-aging/slides/christmas-2016-daisy-troop-tree-1-40 [52872] -> "../data/townSites2/Avon/www.avon-ma.gov/council-on-aging/slides/christmas-2016-daisy-troop-tree-1-40" [1]
+2017-01-02 00:25:16 URL:http://www.avon-ma.gov/print/2025 [13658] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2025" [1]
+2017-01-02 00:25:17 URL:http://www.avon-ma.gov/printmail/2025 [48529] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2025" [1]
+2017-01-02 00:25:19 URL:http://www.avon-ma.gov/council-on-aging/faq/where-can-i-find-a-monthly-newsletter [52659] -> "../data/townSites2/Avon/www.avon-ma.gov/council-on-aging/faq/where-can-i-find-a-monthly-newsletter" [1]
+2017-01-02 00:25:20 URL:http://www.avon-ma.gov/council-on-aging/faq/do-you-offer-a-nutritional-program [52691] -> "../data/townSites2/Avon/www.avon-ma.gov/council-on-aging/faq/do-you-offer-a-nutritional-program" [1]
+2017-01-02 00:25:22 URL:http://www.avon-ma.gov/council-on-aging/news/shine-appointments [53527] -> "../data/townSites2/Avon/www.avon-ma.gov/council-on-aging/news/shine-appointments" [1]
+2017-01-02 00:25:23 URL:http://www.avon-ma.gov/council-on-aging/news/dementia-memory-loss-support-group-thursday-january-12th-at-6pm [52940] -> "../data/townSites2/Avon/www.avon-ma.gov/council-on-aging/news/dementia-memory-loss-support-group-thursday-january-12th-at-6pm" [1]
+2017-01-02 00:25:24 URL:http://www.avon-ma.gov/council-on-aging/news/blood-pressure-glucose-clinic-thursday-january-19th-from-1030-am-1230-pm [52761] -> "../data/townSites2/Avon/www.avon-ma.gov/council-on-aging/news/blood-pressure-glucose-clinic-thursday-january-19th-from-1030-am-1230-pm" [1]
+2017-01-02 00:25:26 URL:http://www.avon-ma.gov/council-on-aging/minutes/minutes-6 [52969] -> "../data/townSites2/Avon/www.avon-ma.gov/council-on-aging/minutes/minutes-6" [1]
+2017-01-02 00:25:28 URL:http://www.avon-ma.gov/council-on-aging/minutes/minutes-5 [52966] -> "../data/townSites2/Avon/www.avon-ma.gov/council-on-aging/minutes/minutes-5" [1]
+2017-01-02 00:25:29 URL:http://www.avon-ma.gov/council-on-aging/minutes/minutes-4 [52964] -> "../data/townSites2/Avon/www.avon-ma.gov/council-on-aging/minutes/minutes-4" [1]
+2017-01-02 00:25:31 URL:http://www.avon-ma.gov/council-on-aging/minutes/minutes-3 [52963] -> "../data/townSites2/Avon/www.avon-ma.gov/council-on-aging/minutes/minutes-3" [1]
+2017-01-02 00:25:32 URL:http://www.avon-ma.gov/council-on-aging/minutes/minutes-2 [52962] -> "../data/townSites2/Avon/www.avon-ma.gov/council-on-aging/minutes/minutes-2" [1]
+2017-01-02 00:25:34 URL:http://www.avon-ma.gov/node/2025/minutes [59118] -> "../data/townSites2/Avon/www.avon-ma.gov/node/2025/minutes" [1]
+2017-01-02 00:25:35 URL:http://www.avon-ma.gov/print/20366 [16629] -> "../data/townSites2/Avon/www.avon-ma.gov/print/20366" [1]
+2017-01-02 00:25:37 URL:http://www.avon-ma.gov/printmail/20366 [48573] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/20366" [1]
+2017-01-02 00:25:38 URL:http://www.avon-ma.gov/print/20111 [43383] -> "../data/townSites2/Avon/www.avon-ma.gov/print/20111" [1]
+2017-01-02 00:25:39 URL:http://www.avon-ma.gov/printmail/20111 [48571] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/20111" [1]
+2017-01-02 00:25:40 URL:http://www.avon-ma.gov/print/2601 [3528] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2601" [1]
+2017-01-02 00:25:42 URL:http://www.avon-ma.gov/printmail/2601 [48552] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2601" [1]
+2017-01-02 00:25:42 URL: http://www.avon-ma.gov/sites/avonma/files/u181/december_2016_-_volume_40_issue_12.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:43 URL: http://www.avon-ma.gov/sites/avonma/files/u181/november_2016_-_volume_40_issue_11.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:43 URL: http://www.avon-ma.gov/sites/avonma/files/u111/may_newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:44 URL: http://www.avon-ma.gov/sites/avonma/files/u111/april_newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:45 URL: http://www.avon-ma.gov/sites/avonma/files/u111/march_newsletter.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:46 URL: http://www.avon-ma.gov/sites/avonma/files/u111/20160128173537775.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:47 URL:http://www.avon-ma.gov/print/20361 [2944] -> "../data/townSites2/Avon/www.avon-ma.gov/print/20361" [1]
+2017-01-02 00:25:48 URL:http://www.avon-ma.gov/printmail/20361 [48558] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/20361" [1]
+2017-01-02 00:25:48 URL: http://www.avon-ma.gov/sites/avonma/files/u181/january_2017_-_volume_41_issue_1_-_for_the_website_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:50 URL:http://www.avon-ma.gov/print/16501 [11481] -> "../data/townSites2/Avon/www.avon-ma.gov/print/16501" [1]
+2017-01-02 00:25:51 URL:http://www.avon-ma.gov/printmail/16501 [48779] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/16501" [1]
+2017-01-02 00:25:53 URL:http://www.avon-ma.gov/print/2602 [3267] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2602" [1]
+2017-01-02 00:25:55 URL:http://www.avon-ma.gov/printmail/2602 [48586] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2602" [1]
+2017-01-02 00:25:56 URL: http://www.avon-ma.gov/sites/avonma/files/u181/january_2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:56 URL: http://www.avon-ma.gov/sites/avonma/files/u181/january_lunch_menu.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:56 URL: http://www.avon-ma.gov/sites/avonma/files/u181/up-dated_activity_list.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:58 URL:http://www.avon-ma.gov/print/20411 [5235] -> "../data/townSites2/Avon/www.avon-ma.gov/print/20411" [1]
+2017-01-02 00:26:00 URL:http://www.avon-ma.gov/printmail/20411 [48601] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/20411" [1]
+2017-01-02 00:26:01 URL: http://www.avon-ma.gov/node/3001/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:03 URL:http://www.avon-ma.gov/department-of-public-works/slides/dpw [55188] -> "../data/townSites2/Avon/www.avon-ma.gov/department-of-public-works/slides/dpw" [1]
+2017-01-02 00:26:04 URL:http://www.avon-ma.gov/department-of-public-works/slides/accepting-credit-cards [55702] -> "../data/townSites2/Avon/www.avon-ma.gov/department-of-public-works/slides/accepting-credit-cards" [1]
+2017-01-02 00:26:06 URL:http://www.avon-ma.gov/department-of-public-works/slides/dpw-0 [55206] -> "../data/townSites2/Avon/www.avon-ma.gov/department-of-public-works/slides/dpw-0" [1]
+2017-01-02 00:26:09 URL:http://www.avon-ma.gov/print/3001 [11714] -> "../data/townSites2/Avon/www.avon-ma.gov/print/3001" [1]
+2017-01-02 00:26:11 URL:http://www.avon-ma.gov/printmail/3001 [48549] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/3001" [1]
+2017-01-02 00:26:12 URL:http://www.avon-ma.gov/users/wfitzgerald/contact [49719] -> "../data/townSites2/Avon/www.avon-ma.gov/users/wfitzgerald/contact" [1]
+2017-01-02 00:26:15 URL:http://www.avon-ma.gov/department-of-public-works/news/please-notify-the-department-of-public-works-of-potholes [57288] -> "../data/townSites2/Avon/www.avon-ma.gov/department-of-public-works/news/please-notify-the-department-of-public-works-of-potholes" [1]
+2017-01-02 00:26:17 URL:http://www.avon-ma.gov/print/9121 [6804] -> "../data/townSites2/Avon/www.avon-ma.gov/print/9121" [1]
+2017-01-02 00:26:19 URL:http://www.avon-ma.gov/printmail/9121 [48674] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/9121" [1]
+2017-01-02 00:26:20 URL:http://www.avon-ma.gov/print/5986 [3512] -> "../data/townSites2/Avon/www.avon-ma.gov/print/5986" [1]
+2017-01-02 00:26:22 URL:http://www.avon-ma.gov/printmail/5986 [48566] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/5986" [1]
+2017-01-02 00:26:22 URL: http://www.avon-ma.gov/sites/avonma/files/u121/avon-2013_reporting_year_ccr_final_copy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:23 URL: http://www.avon-ma.gov/sites/avonma/files/u121/2012avonwaterqualityreport.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:23 URL: http://www.avon-ma.gov/sites/avonma/files/u121/2011avonwaterqualityreport.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:24 URL: http://www.avon-ma.gov/sites/avonma/files/u121/helpfulhint.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:24 URL: http://www.avon-ma.gov/sites/avonma/files/u121/sodium_0_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:26 URL:http://www.avon-ma.gov/print/5981 [8613] -> "../data/townSites2/Avon/www.avon-ma.gov/print/5981" [1]
+2017-01-02 00:26:28 URL:http://www.avon-ma.gov/printmail/5981 [48549] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/5981" [1]
+2017-01-02 00:26:29 URL:http://www.avon-ma.gov/print/5976 [2863] -> "../data/townSites2/Avon/www.avon-ma.gov/print/5976" [1]
+2017-01-02 00:26:30 URL:http://www.avon-ma.gov/printmail/5976 [48561] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/5976" [1]
+2017-01-02 00:26:31 URL:http://www.avon-ma.gov/print/5971 [4523] -> "../data/townSites2/Avon/www.avon-ma.gov/print/5971" [1]
+2017-01-02 00:26:32 URL:http://www.avon-ma.gov/printmail/5971 [48539] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/5971" [1]
+2017-01-02 00:26:33 URL:http://www.avon-ma.gov/print/5941 [7008] -> "../data/townSites2/Avon/www.avon-ma.gov/print/5941" [1]
+2017-01-02 00:26:35 URL:http://www.avon-ma.gov/printmail/5941 [48578] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/5941" [1]
+2017-01-02 00:26:35 URL: http://www.avon-ma.gov/sites/avonma/files/u121/news_release_ice_safety_jan2015_0.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:37 URL:http://www.avon-ma.gov/print/7631 [3186] -> "../data/townSites2/Avon/www.avon-ma.gov/print/7631" [1]
+2017-01-02 00:26:38 URL:http://www.avon-ma.gov/printmail/7631 [48590] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/7631" [1]
+2017-01-02 00:26:39 URL: http://www.avon-ma.gov/sites/avonma/files/u121/bathroom_dye_test.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:40 URL: http://www.avon-ma.gov/sites/avonma/files/u121/water_leak_test.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:41 URL:http://www.avon-ma.gov/print/5961 [3491] -> "../data/townSites2/Avon/www.avon-ma.gov/print/5961" [1]
+2017-01-02 00:26:42 URL:http://www.avon-ma.gov/printmail/5961 [48547] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/5961" [1]
+2017-01-02 00:26:43 URL:http://www.avon-ma.gov/print/5956 [4134] -> "../data/townSites2/Avon/www.avon-ma.gov/print/5956" [1]
+2017-01-02 00:26:45 URL:http://www.avon-ma.gov/printmail/5956 [48545] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/5956" [1]
+2017-01-02 00:26:46 URL: http://www.avon-ma.gov/node/2011/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:49 URL:http://www.avon-ma.gov/fire-department/urgent-alerts/open-burning-has-ended-for-the-season-it-will-resume-january-15-2017 [53182] -> "../data/townSites2/Avon/www.avon-ma.gov/fire-department/urgent-alerts/open-burning-has-ended-for-the-season-it-will-resume-january-15-2017" [1]
+2017-01-02 00:26:51 URL:http://www.avon-ma.gov/fire-department/slides/avon-ladder [53036] -> "../data/townSites2/Avon/www.avon-ma.gov/fire-department/slides/avon-ladder" [1]
+2017-01-02 00:26:54 URL:http://www.avon-ma.gov/fire-department/slides/bob [53287] -> "../data/townSites2/Avon/www.avon-ma.gov/fire-department/slides/bob" [1]
+2017-01-02 00:26:55 URL:http://www.avon-ma.gov/fire-department/slides/fire-station [53044] -> "../data/townSites2/Avon/www.avon-ma.gov/fire-department/slides/fire-station" [1]
+2017-01-02 00:26:58 URL:http://www.avon-ma.gov/print/2011 [8742] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2011" [1]
+2017-01-02 00:27:00 URL:http://www.avon-ma.gov/printmail/2011 [48527] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2011" [1]
+2017-01-02 00:27:00 URL: http://www.avon-ma.gov/sites/avonma/files/images.jpeg 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:00 URL: http://www.avon-ma.gov/sites/avonma/files/images-1.jpeg 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:02 URL:http://www.avon-ma.gov/print/3041 [6717] -> "../data/townSites2/Avon/www.avon-ma.gov/print/3041" [1]
+2017-01-02 00:27:03 URL:http://www.avon-ma.gov/printmail/3041 [48537] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/3041" [1]
+2017-01-02 00:27:04 URL:http://www.avon-ma.gov/print/4416 [3098] -> "../data/townSites2/Avon/www.avon-ma.gov/print/4416" [1]
+2017-01-02 00:27:06 URL:http://www.avon-ma.gov/printmail/4416 [48579] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/4416" [1]
+2017-01-02 00:27:07 URL:http://www.avon-ma.gov/print/2340 [3614] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2340" [1]
+2017-01-02 00:27:08 URL:http://www.avon-ma.gov/printmail/2340 [48535] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2340" [1]
+2017-01-02 00:27:10 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/call_ff-emt_application_1-14_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:11 URL:http://www.avon-ma.gov/node/2011/files [46816] -> "../data/townSites2/Avon/www.avon-ma.gov/node/2011/files" [1]
+2017-01-02 00:27:12 URL:http://www.avon-ma.gov/print/5781 [3856] -> "../data/townSites2/Avon/www.avon-ma.gov/print/5781" [1]
+2017-01-02 00:27:13 URL:http://www.avon-ma.gov/printmail/5781 [48577] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/5781" [1]
+2017-01-02 00:27:13 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/tank_truck_permit_form_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:15 URL:http://www.avon-ma.gov/print/2341 [2891] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2341" [1]
+2017-01-02 00:27:16 URL:http://www.avon-ma.gov/printmail/2341 [48543] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2341" [1]
+2017-01-02 00:27:17 URL: http://www.avon-ma.gov/node/2069/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:18 URL:http://www.avon-ma.gov/parking-clerk/slides/parking-violation [52246] -> "../data/townSites2/Avon/www.avon-ma.gov/parking-clerk/slides/parking-violation" [1]
+2017-01-02 00:27:20 URL:http://www.avon-ma.gov/print/2069 [6253] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2069" [1]
+2017-01-02 00:27:22 URL:http://www.avon-ma.gov/printmail/2069 [48523] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2069" [1]
+2017-01-02 00:27:23 URL: http://www.avon-ma.gov/node/2021/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:25 URL:http://www.avon-ma.gov/print/2021 [8111] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2021" [1]
+2017-01-02 00:27:27 URL:http://www.avon-ma.gov/printmail/2021 [48537] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2021" [1]
+2017-01-02 00:27:28 URL:http://www.avon-ma.gov/parks-and-recreation/minutes/minutes-24 [50194] -> "../data/townSites2/Avon/www.avon-ma.gov/parks-and-recreation/minutes/minutes-24" [1]
+2017-01-02 00:27:29 URL:http://www.avon-ma.gov/parks-and-recreation/minutes/minutes-22 [50191] -> "../data/townSites2/Avon/www.avon-ma.gov/parks-and-recreation/minutes/minutes-22" [1]
+2017-01-02 00:27:31 URL:http://www.avon-ma.gov/parks-and-recreation/minutes/minutes-23 [50193] -> "../data/townSites2/Avon/www.avon-ma.gov/parks-and-recreation/minutes/minutes-23" [1]
+2017-01-02 00:27:32 URL:http://www.avon-ma.gov/parks-and-recreation/minutes/minutes-20 [50185] -> "../data/townSites2/Avon/www.avon-ma.gov/parks-and-recreation/minutes/minutes-20" [1]
+2017-01-02 00:27:34 URL:http://www.avon-ma.gov/parks-and-recreation/minutes/minutes-21 [50182] -> "../data/townSites2/Avon/www.avon-ma.gov/parks-and-recreation/minutes/minutes-21" [1]
+2017-01-02 00:27:36 URL:http://www.avon-ma.gov/node/2021/minutes [92409] -> "../data/townSites2/Avon/www.avon-ma.gov/node/2021/minutes" [1]
+2017-01-02 00:27:37 URL: http://www.avon-ma.gov/node/2012/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:38 URL:http://www.avon-ma.gov/police-department/slides/kids-thanking-police [51444] -> "../data/townSites2/Avon/www.avon-ma.gov/police-department/slides/kids-thanking-police" [1]
+2017-01-02 00:27:40 URL:http://www.avon-ma.gov/police-department/slides/kids-thanking-police-2 [51458] -> "../data/townSites2/Avon/www.avon-ma.gov/police-department/slides/kids-thanking-police-2" [1]
+2017-01-02 00:27:41 URL:http://www.avon-ma.gov/police-department/slides/lock-your-car-doors [51828] -> "../data/townSites2/Avon/www.avon-ma.gov/police-department/slides/lock-your-car-doors" [1]
+2017-01-02 00:27:43 URL:http://www.avon-ma.gov/print/2012 [6274] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2012" [1]
+2017-01-02 00:27:44 URL:http://www.avon-ma.gov/printmail/2012 [48531] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2012" [1]
+2017-01-02 00:27:45 URL:http://www.avon-ma.gov/print/2074 [9313] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2074" [1]
+2017-01-02 00:27:47 URL:http://www.avon-ma.gov/printmail/2074 [48562] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2074" [1]
+2017-01-02 00:27:48 URL:http://www.avon-ma.gov/print/2075 [12650] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2075" [1]
+2017-01-02 00:27:50 URL:http://www.avon-ma.gov/printmail/2075 [48566] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2075" [1]
+2017-01-02 00:27:51 URL:http://www.avon-ma.gov/print/19006 [4113] -> "../data/townSites2/Avon/www.avon-ma.gov/print/19006" [1]
+2017-01-02 00:27:53 URL:http://www.avon-ma.gov/printmail/19006 [48561] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/19006" [1]
+2017-01-02 00:27:54 URL: http://www.avon-ma.gov/sites/avonma/files/u111/presslog09-28-10-05-2016redacted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:55 URL: http://www.avon-ma.gov/sites/avonma/files/u111/presslog10-06-12redacted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:55 URL: http://www.avon-ma.gov/sites/avonma/files/u111/presslogs10-13-19-2016redacted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:56 URL: http://www.avon-ma.gov/sites/avonma/files/u111/presslog10-20-26redacted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:56 URL: http://www.avon-ma.gov/sites/avonma/files/u90/presslog11.3-9.2016aredacted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:56 URL: http://www.avon-ma.gov/sites/avonma/files/u111/presslog11-10-16-2016redacted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:57 URL: http://www.avon-ma.gov/sites/avonma/files/u111/presslog11-17-24-2016redacted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:57 URL: http://www.avon-ma.gov/sites/avonma/files/u111/presslog11-24-30-2016redacted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:57 URL: http://www.avon-ma.gov/sites/avonma/files/u111/presslog12-01-07-2016redacted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:58 URL: http://www.avon-ma.gov/sites/avonma/files/u111/presslog12-8-14-2016redacted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:00 URL:http://www.avon-ma.gov/print/2080 [3506] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2080" [1]
+2017-01-02 00:28:03 URL:http://www.avon-ma.gov/printmail/2080 [48533] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2080" [1]
+2017-01-02 00:28:05 URL:http://www.avon-ma.gov/print/2076 [5923] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2076" [1]
+2017-01-02 00:28:07 URL:http://www.avon-ma.gov/printmail/2076 [48563] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2076" [1]
+2017-01-02 00:28:08 URL:http://www.avon-ma.gov/print/2078 [7017] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2078" [1]
+2017-01-02 00:28:10 URL:http://www.avon-ma.gov/printmail/2078 [48566] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2078" [1]
+2017-01-02 00:28:11 URL: http://www.avon-ma.gov/node/1989/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:13 URL:http://www.avon-ma.gov/print/1989 [11583] -> "../data/townSites2/Avon/www.avon-ma.gov/print/1989" [1]
+2017-01-02 00:28:15 URL:http://www.avon-ma.gov/printmail/1989 [48533] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/1989" [1]
+2017-01-02 00:28:17 URL:http://www.avon-ma.gov/users/fcrimmins/contact [49711] -> "../data/townSites2/Avon/www.avon-ma.gov/users/fcrimmins/contact" [1]
+2017-01-02 00:28:19 URL:http://www.avon-ma.gov/print/6526 [3038] -> "../data/townSites2/Avon/www.avon-ma.gov/print/6526" [1]
+2017-01-02 00:28:22 URL:http://www.avon-ma.gov/printmail/6526 [48570] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/6526" [1]
+2017-01-02 00:28:22 URL: http://www.avon-ma.gov/sites/avonma/files/u121/town_of_avon_demarco_park_usage_policies.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:23 URL: http://www.avon-ma.gov/node/1993/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:25 URL:http://www.avon-ma.gov/print/1993 [8373] -> "../data/townSites2/Avon/www.avon-ma.gov/print/1993" [1]
+2017-01-02 00:28:27 URL:http://www.avon-ma.gov/printmail/1993 [48527] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/1993" [1]
+http://www.avon-ma.gov/user/%252Fcontact:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:28:29 URL:http://www.avon-ma.gov/town-accountant/faq/when-does-a-vendor-receive-payment [50830] -> "../data/townSites2/Avon/www.avon-ma.gov/town-accountant/faq/when-does-a-vendor-receive-payment" [1]
+2017-01-02 00:28:31 URL:http://www.avon-ma.gov/town-accountant/faq/i-worked-for-the-town-during-calendar-2006-and-earned-more-than-60000-am-i-1099 [52091] -> "../data/townSites2/Avon/www.avon-ma.gov/town-accountant/faq/i-worked-for-the-town-during-calendar-2006-and-earned-more-than-60000-am-i-1099" [1]
+2017-01-02 00:28:33 URL:http://www.avon-ma.gov/town-accountant/faq/i-am-looking-for-goods-or-services-that-i-have-provided-to-the-town-who-should-i [51397] -> "../data/townSites2/Avon/www.avon-ma.gov/town-accountant/faq/i-am-looking-for-goods-or-services-that-i-have-provided-to-the-town-who-should-i" [1]
+2017-01-02 00:28:35 URL: http://www.avon-ma.gov/node/1991/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:37 URL:http://www.avon-ma.gov/town-clerk-registrar-of-voters/slides/order-birth-death-marriage-certificates-online [54771] -> "../data/townSites2/Avon/www.avon-ma.gov/town-clerk-registrar-of-voters/slides/order-birth-death-marriage-certificates-online" [1]
+2017-01-02 00:28:39 URL:http://www.avon-ma.gov/town-clerk-registrar-of-voters/slides/the-town-clerks-office-is-now-accepting-credit-cards [54800] -> "../data/townSites2/Avon/www.avon-ma.gov/town-clerk-registrar-of-voters/slides/the-town-clerks-office-is-now-accepting-credit-cards" [1]
+2017-01-02 00:28:41 URL:http://www.avon-ma.gov/print/1991 [14768] -> "../data/townSites2/Avon/www.avon-ma.gov/print/1991" [1]
+2017-01-02 00:28:44 URL:http://www.avon-ma.gov/printmail/1991 [48559] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/1991" [1]
+2017-01-02 00:28:46 URL:http://www.avon-ma.gov/users/pbessette/contact [49703] -> "../data/townSites2/Avon/www.avon-ma.gov/users/pbessette/contact" [1]
+2017-01-02 00:28:47 URL:http://www.avon-ma.gov/users/ccosta/contact [49661] -> "../data/townSites2/Avon/www.avon-ma.gov/users/ccosta/contact" [1]
+2017-01-02 00:28:49 URL:http://www.avon-ma.gov/users/stheil/contact [49655] -> "../data/townSites2/Avon/www.avon-ma.gov/users/stheil/contact" [1]
+2017-01-02 00:28:50 URL:http://www.avon-ma.gov/print/17706 [3213] -> "../data/townSites2/Avon/www.avon-ma.gov/print/17706" [1]
+2017-01-02 00:28:52 URL:http://www.avon-ma.gov/printmail/17706 [48633] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/17706" [1]
+2017-01-02 00:28:52 URL: http://www.avon-ma.gov/sites/avonma/files/u116/oml_posting_guide_-_avon.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:54 URL:http://www.avon-ma.gov/print/2092 [4605] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2092" [1]
+2017-01-02 00:28:56 URL:http://www.avon-ma.gov/printmail/2092 [48576] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2092" [1]
+2017-01-02 00:28:56 URL: http://www.avon-ma.gov/sites/avonma/files/u121/business_certificate_laws.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:56 URL: http://www.avon-ma.gov/sites/avonma/files/u121/avon_business_certificate_application_with_inspector_sign_off.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:57 URL: http://www.avon-ma.gov/sites/avonma/files/u121/avon_business_certificate_amendment_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:58 URL:http://www.avon-ma.gov/print/14616 [4546] -> "../data/townSites2/Avon/www.avon-ma.gov/print/14616" [1]
+2017-01-02 00:29:00 URL:http://www.avon-ma.gov/printmail/14616 [48580] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/14616" [1]
+2017-01-02 00:29:02 URL:http://www.avon-ma.gov/print/2091 [3389] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2091" [1]
+2017-01-02 00:29:04 URL:http://www.avon-ma.gov/printmail/2091 [48558] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2091" [1]
+2017-01-02 00:29:04 URL: http://www.avon-ma.gov/sites/avonma/files/u116/annual_license_your_dog_by_mail_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:05 URL:http://www.avon-ma.gov/print/6821 [3127] -> "../data/townSites2/Avon/www.avon-ma.gov/print/6821" [1]
+2017-01-02 00:29:07 URL:http://www.avon-ma.gov/printmail/6821 [48598] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/6821" [1]
+2017-01-02 00:29:07 URL: http://www.avon-ma.gov/sites/avonma/files/u121/how_to_obtain_a_marriage_license.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:08 URL:http://www.avon-ma.gov/print/5871 [3512] -> "../data/townSites2/Avon/www.avon-ma.gov/print/5871" [1]
+2017-01-02 00:29:10 URL:http://www.avon-ma.gov/printmail/5871 [48571] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/5871" [1]
+2017-01-02 00:29:11 URL:http://www.avon-ma.gov/print/6816 [3358] -> "../data/townSites2/Avon/www.avon-ma.gov/print/6816" [1]
+2017-01-02 00:29:13 URL:http://www.avon-ma.gov/printmail/6816 [48643] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/6816" [1]
+2017-01-02 00:29:14 URL:http://www.avon-ma.gov/print/7526 [3075] -> "../data/townSites2/Avon/www.avon-ma.gov/print/7526" [1]
+2017-01-02 00:29:16 URL:http://www.avon-ma.gov/printmail/7526 [48588] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/7526" [1]
+2017-01-02 00:29:16 URL: http://www.avon-ma.gov/sites/avonma/files/u111/notice_of_meeting_0.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:17 URL:http://www.avon-ma.gov/print/17841 [3084] -> "../data/townSites2/Avon/www.avon-ma.gov/print/17841" [1]
+2017-01-02 00:29:19 URL:http://www.avon-ma.gov/printmail/17841 [48594] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/17841" [1]
+2017-01-02 00:29:19 URL: http://www.avon-ma.gov/sites/avonma/files/u111/public_records_request.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:20 URL:http://www.avon-ma.gov/print/2098 [4688] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2098" [1]
+2017-01-02 00:29:22 URL:http://www.avon-ma.gov/printmail/2098 [48572] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2098" [1]
+2017-01-02 00:29:22 URL: http://www.avon-ma.gov/sites/avonma/files/u116/2016_census.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:23 URL:http://www.avon-ma.gov/print/6811 [3046] -> "../data/townSites2/Avon/www.avon-ma.gov/print/6811" [1]
+2017-01-02 00:29:26 URL:http://www.avon-ma.gov/printmail/6811 [48580] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/6811" [1]
+2017-01-02 00:29:27 URL: http://www.avon-ma.gov/sites/avonma/files/u121/town_clerk_fee_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:28 URL:http://www.avon-ma.gov/print/2097 [3740] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2097" [1]
+2017-01-02 00:29:29 URL:http://www.avon-ma.gov/printmail/2097 [48558] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2097" [1]
+2017-01-02 00:29:31 URL:http://www.avon-ma.gov/town-clerk-registrar-of-voters/pages/town-meeting-warrantsresults [59736] -> "../data/townSites2/Avon/www.avon-ma.gov/town-clerk-registrar-of-voters/pages/town-meeting-warrantsresults" [1]
+2017-01-02 00:29:31 URL: http://www.avon-ma.gov/sites/avonma/files/u116/avon7111a_app_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:32 URL: http://www.avon-ma.gov/sites/avonma/files/u116/general_town_bylaws_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:33 URL:http://www.avon-ma.gov/print/2086 [3787] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2086" [1]
+2017-01-02 00:29:35 URL:http://www.avon-ma.gov/printmail/2086 [48558] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2086" [1]
+2017-01-02 00:29:36 URL: http://www.avon-ma.gov/sites/avonma/files/u111/avon_2015_tr-web_copy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:36 URL: http://www.avon-ma.gov/sites/avonma/files/u121/annual_town_report_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:37 URL: http://www.avon-ma.gov/sites/avonma/files/u121/avon_2013_town_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:37 URL: http://www.avon-ma.gov/sites/avonma/files/u121/avon_ma_2012_tr-web_copy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:39 URL:http://www.avon-ma.gov/print/2095 [3300] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2095" [1]
+2017-01-02 00:29:41 URL:http://www.avon-ma.gov/printmail/2095 [48560] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2095" [1]
+2017-01-02 00:29:42 URL:http://www.avon-ma.gov/print/2085 [9497] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2085" [1]
+2017-01-02 00:29:44 URL:http://www.avon-ma.gov/printmail/2085 [48572] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2085" [1]
+2017-01-02 00:29:44 URL: http://www.avon-ma.gov/sites/avonma/files/u116/2017_local_election_calendar.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:45 URL: http://www.avon-ma.gov/sites/avonma/files/u116/candidates_guide_2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:45 URL: http://www.avon-ma.gov/sites/avonma/files/u121/clerks_ovr_press_release.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:46 URL: http://www.avon-ma.gov/sites/avonma/files/u116/your_enrollment_as_a_voter_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:46 URL: http://www.avon-ma.gov/sites/avonma/files/u116/ward-and-town-committee-brochure-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:48 URL:http://www.avon-ma.gov/town-clerk-registrar-of-voters/pages/election-results [59405] -> "../data/townSites2/Avon/www.avon-ma.gov/town-clerk-registrar-of-voters/pages/election-results" [1]
+2017-01-02 00:29:48 URL: http://www.avon-ma.gov/sites/avonma/files/u116/the_automark_machine.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:49 URL: http://www.avon-ma.gov/node/1994/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:51 URL:http://www.avon-ma.gov/print/1994 [10187] -> "../data/townSites2/Avon/www.avon-ma.gov/print/1994" [1]
+2017-01-02 00:29:53 URL:http://www.avon-ma.gov/printmail/1994 [48525] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/1994" [1]
+2017-01-02 00:29:54 URL:http://www.avon-ma.gov/print/2292 [6803] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2292" [1]
+2017-01-02 00:29:56 URL:http://www.avon-ma.gov/printmail/2292 [48596] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2292" [1]
+2017-01-02 00:29:57 URL: http://www.avon-ma.gov/node/1992/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:59 URL:http://www.avon-ma.gov/treasurer-collector/slides/credit-cards-now-accepted [52779] -> "../data/townSites2/Avon/www.avon-ma.gov/treasurer-collector/slides/credit-cards-now-accepted" [1]
+2017-01-02 00:30:00 URL:http://www.avon-ma.gov/print/1992 [9511] -> "../data/townSites2/Avon/www.avon-ma.gov/print/1992" [1]
+2017-01-02 00:30:01 URL:http://www.avon-ma.gov/printmail/1992 [48537] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/1992" [1]
+2017-01-02 00:30:04 URL:http://www.avon-ma.gov/users/dmorin/contact [49655] -> "../data/townSites2/Avon/www.avon-ma.gov/users/dmorin/contact" [1]
+2017-01-02 00:30:04 URL: http://www.avon-ma.gov/sites/avonma/files/u66/altus.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:05 URL:http://www.avon-ma.gov/users/kcollum/contact [49667] -> "../data/townSites2/Avon/www.avon-ma.gov/users/kcollum/contact" [1]
+2017-01-02 00:30:08 URL:http://www.avon-ma.gov/treasurer-collector/faq/tax-faqs [57950] -> "../data/townSites2/Avon/www.avon-ma.gov/treasurer-collector/faq/tax-faqs" [1]
+2017-01-02 00:30:09 URL:http://www.avon-ma.gov/print/2640 [3261] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2640" [1]
+2017-01-02 00:30:11 URL:http://www.avon-ma.gov/printmail/2640 [48553] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2640" [1]
+2017-01-02 00:30:12 URL:http://www.avon-ma.gov/print/18676 [3070] -> "../data/townSites2/Avon/www.avon-ma.gov/print/18676" [1]
+2017-01-02 00:30:13 URL:http://www.avon-ma.gov/printmail/18676 [48601] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/18676" [1]
+2017-01-02 00:30:14 URL: http://www.avon-ma.gov/sites/avonma/files/u111/tax_taking_advertise.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:15 URL: http://www.avon-ma.gov/node/2015/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:16 URL:http://www.avon-ma.gov/recycling-information/slides/town-of-avon-ma-launching-remyndr-the-trash-and-recycling-app-this-week [56118] -> "../data/townSites2/Avon/www.avon-ma.gov/recycling-information/slides/town-of-avon-ma-launching-remyndr-the-trash-and-recycling-app-this-week" [1]
+2017-01-02 00:30:18 URL:http://www.avon-ma.gov/recycling-information/slides/single-stream-recycling [53486] -> "../data/townSites2/Avon/www.avon-ma.gov/recycling-information/slides/single-stream-recycling" [1]
+2017-01-02 00:30:20 URL:http://www.avon-ma.gov/recycling-information/slides/opening-wednesday-april-13th [53578] -> "../data/townSites2/Avon/www.avon-ma.gov/recycling-information/slides/opening-wednesday-april-13th" [1]
+2017-01-02 00:30:22 URL:http://www.avon-ma.gov/print/2015 [8414] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2015" [1]
+2017-01-02 00:30:24 URL:http://www.avon-ma.gov/printmail/2015 [48539] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2015" [1]
+2017-01-02 00:30:26 URL:http://www.avon-ma.gov/recycling-information/news/2016-2017-trash-collection-schedule [53575] -> "../data/townSites2/Avon/www.avon-ma.gov/recycling-information/news/2016-2017-trash-collection-schedule" [1]
+2017-01-02 00:30:28 URL:http://www.avon-ma.gov/recycling-information/news/2016-household-hazardous-waste-collection-day [53704] -> "../data/townSites2/Avon/www.avon-ma.gov/recycling-information/news/2016-household-hazardous-waste-collection-day" [1]
+2017-01-02 00:30:28 URL: http://www.avon-ma.gov/node/2022/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:29 URL:http://www.avon-ma.gov/veterans-services/slides/dale-kurtz [51356] -> "../data/townSites2/Avon/www.avon-ma.gov/veterans-services/slides/dale-kurtz" [1]
+2017-01-02 00:30:31 URL:http://www.avon-ma.gov/print/2022 [8979] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2022" [1]
+2017-01-02 00:30:34 URL:http://www.avon-ma.gov/printmail/2022 [48537] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2022" [1]
+2017-01-02 00:30:35 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/mass211_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:36 URL:http://www.avon-ma.gov/print/2668 [2853] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2668" [1]
+2017-01-02 00:30:37 URL:http://www.avon-ma.gov/printmail/2668 [48557] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2668" [1]
+2017-01-02 00:30:40 URL:http://www.avon-ma.gov/designer-selection-committee [58496] -> "../data/townSites2/Avon/www.avon-ma.gov/designer-selection-committee" [1]
+2017-01-02 00:30:43 URL:http://www.avon-ma.gov/school-committee [53675] -> "../data/townSites2/Avon/www.avon-ma.gov/school-committee" [1]
+2017-01-02 00:30:45 URL: http://www.avon-ma.gov/node/2014/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:45 URL: http://www.avon-ma.gov/node/2014/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:47 URL:http://www.avon-ma.gov/board-of-health/slides/trash-and-recycling-collection-notification-reminder-app [54613] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/slides/trash-and-recycling-collection-notification-reminder-app" [1]
+2017-01-02 00:30:49 URL:http://www.avon-ma.gov/board-of-health/slides/community-septic-loan-program [57195] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/slides/community-septic-loan-program" [1]
+2017-01-02 00:30:51 URL:http://www.avon-ma.gov/board-of-health/slides/what-not-to-recycle [54095] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/slides/what-not-to-recycle" [1]
+2017-01-02 00:30:52 URL:http://www.avon-ma.gov/board-of-health/slides/trash-and-recycling-collection-schedule-for-2016-2017 [54642] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/slides/trash-and-recycling-collection-schedule-for-2016-2017" [1]
+2017-01-02 00:30:54 URL:http://www.avon-ma.gov/print/2014 [10705] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2014" [1]
+2017-01-02 00:30:56 URL:http://www.avon-ma.gov/printmail/2014 [48527] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2014" [1]
+2017-01-02 00:30:58 URL:http://www.avon-ma.gov/board-of-health/pages/more-about [56095] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/pages/more-about" [1]
+2017-01-02 00:30:59 URL:http://www.avon-ma.gov/users/ttradd/contact [49659] -> "../data/townSites2/Avon/www.avon-ma.gov/users/ttradd/contact" [1]
+2017-01-02 00:31:01 URL:http://www.avon-ma.gov/board-of-health/faq/unsure-how-to-dispose-of-certain-items [53781] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/faq/unsure-how-to-dispose-of-certain-items" [1]
+2017-01-02 00:31:02 URL:http://www.avon-ma.gov/board-of-health/faq/care-and-maintenance-of-your-septic-system-effluent-filter [53971] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/faq/care-and-maintenance-of-your-septic-system-effluent-filter" [1]
+2017-01-02 00:31:04 URL:http://www.avon-ma.gov/board-of-health/faq/we-found-our-dream-house-but-it-failed-the-title-5-inspection-whos-responsibilit [54588] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/faq/we-found-our-dream-house-but-it-failed-the-title-5-inspection-whos-responsibilit" [1]
+2017-01-02 00:31:06 URL:http://www.avon-ma.gov/board-of-health/faq/the-30-year-old-property-we-want-to-purchase-has-a-title-5-certificate-what-does [54411] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/faq/the-30-year-old-property-we-want-to-purchase-has-a-title-5-certificate-what-does" [1]
+2017-01-02 00:31:07 URL:http://www.avon-ma.gov/board-of-health/faq/i-am-remodeling-my-house-and-adding-a-room-to-the-back-do-i-have-to-do-a-title-5 [54504] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/faq/i-am-remodeling-my-house-and-adding-a-room-to-the-back-do-i-have-to-do-a-title-5" [1]
+2017-01-02 00:31:08 URL:http://www.avon-ma.gov/node/2014/faq [49388] -> "../data/townSites2/Avon/www.avon-ma.gov/node/2014/faq" [1]
+2017-01-02 00:31:10 URL:http://www.avon-ma.gov/board-of-health/news/2016-mosquito-spraying-season-notification [54429] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/news/2016-mosquito-spraying-season-notification" [1]
+2017-01-02 00:31:11 URL:http://www.avon-ma.gov/board-of-health/news/2016-household-hazardous-waste-collection-day [54540] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/news/2016-household-hazardous-waste-collection-day" [1]
+2017-01-02 00:31:13 URL:http://www.avon-ma.gov/board-of-health/news/2016-2017-trash-collection-schedule [53944] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/news/2016-2017-trash-collection-schedule" [1]
+2017-01-02 00:31:14 URL:http://www.avon-ma.gov/board-of-health/news/compost-site-is-opening-wednesday-april-13th-for-the-2016-season [56241] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/news/compost-site-is-opening-wednesday-april-13th-for-the-2016-season" [1]
+2017-01-02 00:31:16 URL:http://www.avon-ma.gov/board-of-health/news/rabies-vaccine-protocols-for-dogs-and-cats [54715] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/news/rabies-vaccine-protocols-for-dogs-and-cats" [1]
+2017-01-02 00:31:17 URL:http://www.avon-ma.gov/node/2014/events/2017-01 [58055] -> "../data/townSites2/Avon/www.avon-ma.gov/node/2014/events/2017-01" [1]
+2017-01-02 00:31:20 URL:http://www.avon-ma.gov/board-of-health/agenda/agenda-9 [55148] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/agenda/agenda-9" [1]
+2017-01-02 00:31:22 URL:http://www.avon-ma.gov/board-of-health/agenda/agenda-8 [55153] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/agenda/agenda-8" [1]
+2017-01-02 00:31:24 URL:http://www.avon-ma.gov/board-of-health/agenda/agenda-7 [55488] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/agenda/agenda-7" [1]
+2017-01-02 00:31:25 URL:http://www.avon-ma.gov/board-of-health/agenda/agenda-6 [55141] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/agenda/agenda-6" [1]
+2017-01-02 00:31:27 URL:http://www.avon-ma.gov/board-of-health/agenda/agenda-5 [55151] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/agenda/agenda-5" [1]
+2017-01-02 00:31:29 URL:http://www.avon-ma.gov/node/2014/agenda [57186] -> "../data/townSites2/Avon/www.avon-ma.gov/node/2014/agenda" [1]
+2017-01-02 00:31:31 URL:http://www.avon-ma.gov/board-of-health/minutes/minutes-29 [54416] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/minutes/minutes-29" [1]
+2017-01-02 00:31:32 URL:http://www.avon-ma.gov/board-of-health/minutes/minutes-28 [54415] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/minutes/minutes-28" [1]
+2017-01-02 00:31:34 URL:http://www.avon-ma.gov/board-of-health/minutes/minutes-26 [54399] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/minutes/minutes-26" [1]
+2017-01-02 00:31:36 URL:http://www.avon-ma.gov/board-of-health/minutes/minutes-27 [54417] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/minutes/minutes-27" [1]
+2017-01-02 00:31:38 URL:http://www.avon-ma.gov/board-of-health/minutes/minutes-25 [54397] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/minutes/minutes-25" [1]
+2017-01-02 00:31:40 URL:http://www.avon-ma.gov/node/2014/minutes [75648] -> "../data/townSites2/Avon/www.avon-ma.gov/node/2014/minutes" [1]
+2017-01-02 00:31:41 URL:http://www.avon-ma.gov/print/2174 [3423] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2174" [1]
+2017-01-02 00:31:42 URL:http://www.avon-ma.gov/printmail/2174 [48567] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2174" [1]
+2017-01-02 00:31:44 URL:http://www.avon-ma.gov/print/2170 [4909] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2170" [1]
+2017-01-02 00:31:45 URL:http://www.avon-ma.gov/printmail/2170 [48606] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2170" [1]
+2017-01-02 00:31:46 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/installers_permit_app.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:47 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/tobacco_permit_appl.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:48 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/t5form5.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:49 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/perc_applic.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:49 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/trash_permit_appl._web.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:51 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/body_art_establishment_permit_appl.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:52 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/body_art_practitioner_permit_appl.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:53 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/feeschedule2008_1.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:54 URL:http://www.avon-ma.gov/board-of-health/files/trash-and-recyling-calendar [54249] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-health/files/trash-and-recyling-calendar" [1]
+2017-01-02 00:31:56 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/workerscomp.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:57 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/trench_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:57 URL: http://www.avon-ma.gov/sites/avonma/files/u67/engineers.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:58 URL:http://www.avon-ma.gov/print/2177 [4545] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2177" [1]
+2017-01-02 00:31:59 URL:http://www.avon-ma.gov/printmail/2177 [48563] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2177" [1]
+2017-01-02 00:32:00 URL: http://www.avon-ma.gov/sites/avonma/files/u67/eheguide_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:00 URL: http://www.avon-ma.gov/sites/avonma/files/u67/cold_guide.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:01 URL: http://www.avon-ma.gov/sites/avonma/files/u67/snow_snoveling_safety.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:01 URL: http://www.avon-ma.gov/sites/avonma/files/u67/winter_safety_series_automobile_2013.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:02 URL: http://www.avon-ma.gov/sites/avonma/files/u67/winter_safety_series_before_the_storm_2013.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:03 URL:http://www.avon-ma.gov/print/2178 [2882] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2178" [1]
+2017-01-02 00:32:05 URL:http://www.avon-ma.gov/printmail/2178 [48543] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2178" [1]
+2017-01-02 00:32:06 URL:http://www.avon-ma.gov/print/2175 [10543] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2175" [1]
+2017-01-02 00:32:08 URL:http://www.avon-ma.gov/printmail/2175 [48553] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2175" [1]
+2017-01-02 00:32:08 URL: http://www.avon-ma.gov/sites/avonma/files/u67/town_of_avon_regulations_for_body_art_establishments_-_copy.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:08 URL: http://www.avon-ma.gov/sites/avonma/files/u67/2013smokinginpublicplacesreg.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:09 URL: http://www.avon-ma.gov/sites/avonma/files/u67/tobaccosalereg.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:09 URL: http://www.avon-ma.gov/sites/avonma/files/u67/avonbohregulations2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:09 URL: http://www.avon-ma.gov/sites/avonma/files/u67/potluckmealsandbakesales.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:10 URL: http://www.avon-ma.gov/sites/avonma/files/u67/105cmr300.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:11 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/310cmr11.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:12 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/food-allergen-2-amendments-105cmr590.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:12 URL: http://www.avon-ma.gov/sites/avonma/files/u67/105cmr561.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:14 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/avon_housing_by-law.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:15 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/booklet-2-housing-code-checklist3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:16 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/314cmr18.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:17 URL: http://www.avon-ma.gov/sites/avonma/files/u67/105cmr480.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:17 URL: http://www.avon-ma.gov/sites/avonma/files/u67/105cmr460.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:18 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/105cmr410.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:19 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/105cmr590.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:20 URL: http://www.avon-ma.gov/sites/avonma/files/u67/105cmr435_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:21 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/310cmr15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:22 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/avonbohregulations2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:24 URL:http://www.avon-ma.gov/print/2168 [3903] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2168" [1]
+2017-01-02 00:32:25 URL:http://www.avon-ma.gov/printmail/2168 [48569] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2168" [1]
+2017-01-02 00:32:26 URL:http://www.avon-ma.gov/print/7076 [4178] -> "../data/townSites2/Avon/www.avon-ma.gov/print/7076" [1]
+2017-01-02 00:32:28 URL:http://www.avon-ma.gov/printmail/7076 [48617] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/7076" [1]
+2017-01-02 00:32:28 URL: http://www.avon-ma.gov/sites/avonma/files/u67/revisedcovanta_semass_dtm_booklet_for_municipalities_-_pdf_form_v10.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:29 URL: http://www.avon-ma.gov/sites/avonma/files/u67/addictive_drugs_poster_web.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:29 URL: http://www.avon-ma.gov/sites/avonma/files/u67/wm-mythbuster.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:30 URL:http://www.avon-ma.gov/print/2160 [3231] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2160" [1]
+2017-01-02 00:32:32 URL:http://www.avon-ma.gov/printmail/2160 [48535] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2160" [1]
+2017-01-02 00:32:33 URL:http://www.avon-ma.gov/print/2836 [3331] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2836" [1]
+2017-01-02 00:32:34 URL:http://www.avon-ma.gov/printmail/2836 [48575] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2836" [1]
+2017-01-02 00:32:35 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/avon_flyer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:36 URL:http://www.avon-ma.gov/print/3061 [4547] -> "../data/townSites2/Avon/www.avon-ma.gov/print/3061" [1]
+2017-01-02 00:32:38 URL:http://www.avon-ma.gov/printmail/3061 [48639] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/3061" [1]
+2017-01-02 00:32:39 URL: http://www.avon-ma.gov/node/1988/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:40 URL: http://www.avon-ma.gov/node/1988/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:41 URL:http://www.avon-ma.gov/print/1988 [10885] -> "../data/townSites2/Avon/www.avon-ma.gov/print/1988" [1]
+2017-01-02 00:32:43 URL:http://www.avon-ma.gov/printmail/1988 [48533] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/1988" [1]
+2017-01-02 00:32:44 URL:http://www.avon-ma.gov/board-of-selectmen/pages/more-about [53537] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-selectmen/pages/more-about" [1]
+2017-01-02 00:32:45 URL:http://www.avon-ma.gov/users/fhegarty/contact [49689] -> "../data/townSites2/Avon/www.avon-ma.gov/users/fhegarty/contact" [1]
+2017-01-02 00:32:47 URL:http://www.avon-ma.gov/users/srose/contact [49651] -> "../data/townSites2/Avon/www.avon-ma.gov/users/srose/contact" [1]
+2017-01-02 00:32:48 URL:http://www.avon-ma.gov/users/rbrady/contact [49673] -> "../data/townSites2/Avon/www.avon-ma.gov/users/rbrady/contact" [1]
+2017-01-02 00:32:49 URL:http://www.avon-ma.gov/node/1988/events/2017-01 [58070] -> "../data/townSites2/Avon/www.avon-ma.gov/node/1988/events/2017-01" [1]
+2017-01-02 00:32:51 URL:http://www.avon-ma.gov/board-of-selectmen/agenda/agenda-67 [53677] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-selectmen/agenda/agenda-67" [1]
+2017-01-02 00:32:52 URL:http://www.avon-ma.gov/board-of-selectmen/agenda/agenda-66 [53673] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-selectmen/agenda/agenda-66" [1]
+2017-01-02 00:32:54 URL:http://www.avon-ma.gov/board-of-selectmen/agenda/agenda-65 [53677] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-selectmen/agenda/agenda-65" [1]
+2017-01-02 00:32:55 URL:http://www.avon-ma.gov/board-of-selectmen/agenda/agenda-61 [53338] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-selectmen/agenda/agenda-61" [1]
+2017-01-02 00:32:57 URL:http://www.avon-ma.gov/board-of-selectmen/agenda/agenda-62 [53338] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-selectmen/agenda/agenda-62" [1]
+2017-01-02 00:32:58 URL:http://www.avon-ma.gov/node/1988/agenda [113668] -> "../data/townSites2/Avon/www.avon-ma.gov/node/1988/agenda" [1]
+2017-01-02 00:32:59 URL:http://www.avon-ma.gov/board-of-selectmen/minutes/minutes-145 [52589] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-selectmen/minutes/minutes-145" [1]
+2017-01-02 00:33:00 URL:http://www.avon-ma.gov/board-of-selectmen/minutes/minutes-146 [52589] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-selectmen/minutes/minutes-146" [1]
+2017-01-02 00:33:02 URL:http://www.avon-ma.gov/board-of-selectmen/minutes/minutes-148 [52586] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-selectmen/minutes/minutes-148" [1]
+2017-01-02 00:33:03 URL:http://www.avon-ma.gov/board-of-selectmen/minutes/minutes-147 [52587] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-selectmen/minutes/minutes-147" [1]
+2017-01-02 00:33:04 URL:http://www.avon-ma.gov/board-of-selectmen/minutes/minutes-144 [52590] -> "../data/townSites2/Avon/www.avon-ma.gov/board-of-selectmen/minutes/minutes-144" [1]
+2017-01-02 00:33:08 URL:http://www.avon-ma.gov/node/1988/minutes [191483] -> "../data/townSites2/Avon/www.avon-ma.gov/node/1988/minutes" [1]
+2017-01-02 00:33:09 URL:http://www.avon-ma.gov/print/9006 [3064] -> "../data/townSites2/Avon/www.avon-ma.gov/print/9006" [1]
+2017-01-02 00:33:10 URL:http://www.avon-ma.gov/printmail/9006 [48568] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/9006" [1]
+2017-01-02 00:33:10 URL: http://www.avon-ma.gov/sites/avonma/files/u121/02-05-15_bos_emergency_closing_of_facilities_policy.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:16 URL:http://www.avon-ma.gov/print/2250 [984195] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2250" [1]
+2017-01-02 00:33:17 URL:http://www.avon-ma.gov/printmail/2250 [48548] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2250" [1]
+2017-01-02 00:38:13 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/mass211.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:14 URL:http://www.avon-ma.gov/print/18451 [3077] -> "../data/townSites2/Avon/www.avon-ma.gov/print/18451" [1]
+2017-01-02 00:38:15 URL:http://www.avon-ma.gov/printmail/18451 [48594] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/18451" [1]
+2017-01-02 00:38:16 URL: http://www.avon-ma.gov/sites/avonma/files/u111/general_application_-_renewal_form.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:17 URL:http://www.avon-ma.gov/print/18636 [3243] -> "../data/townSites2/Avon/www.avon-ma.gov/print/18636" [1]
+2017-01-02 00:38:18 URL:http://www.avon-ma.gov/printmail/18636 [48560] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/18636" [1]
+2017-01-02 00:38:18 URL: http://www.avon-ma.gov/sites/avonma/files/u111/park_permit_application.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:19 URL: http://www.avon-ma.gov/node/1998/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:20 URL:http://www.avon-ma.gov/print/1998 [6369] -> "../data/townSites2/Avon/www.avon-ma.gov/print/1998" [1]
+2017-01-02 00:38:22 URL:http://www.avon-ma.gov/printmail/1998 [48529] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/1998" [1]
+2017-01-02 00:38:22 URL: http://www.avon-ma.gov/node/2027/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:24 URL:http://www.avon-ma.gov/cable-tv-advisory-committee/slides/acam-picture [50362] -> "../data/townSites2/Avon/www.avon-ma.gov/cable-tv-advisory-committee/slides/acam-picture" [1]
+2017-01-02 00:38:26 URL:http://www.avon-ma.gov/print/2027 [7129] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2027" [1]
+2017-01-02 00:38:27 URL:http://www.avon-ma.gov/printmail/2027 [48551] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2027" [1]
+2017-01-02 00:38:28 URL:http://www.avon-ma.gov/cable-tv-advisory-committee/minutes/minutes [50695] -> "../data/townSites2/Avon/www.avon-ma.gov/cable-tv-advisory-committee/minutes/minutes" [1]
+2017-01-02 00:38:29 URL: http://www.avon-ma.gov/node/1997/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:30 URL:http://www.avon-ma.gov/print/1997 [3226] -> "../data/townSites2/Avon/www.avon-ma.gov/print/1997" [1]
+2017-01-02 00:38:32 URL:http://www.avon-ma.gov/printmail/1997 [48549] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/1997" [1]
+2017-01-02 00:38:33 URL: http://www.avon-ma.gov/node/2003/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:34 URL: http://www.avon-ma.gov/node/2003/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:35 URL:http://www.avon-ma.gov/conservation-commission/slides/conservation-business-card [50176] -> "../data/townSites2/Avon/www.avon-ma.gov/conservation-commission/slides/conservation-business-card" [1]
+2017-01-02 00:38:37 URL:http://www.avon-ma.gov/print/2003 [10115] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2003" [1]
+2017-01-02 00:38:38 URL:http://www.avon-ma.gov/printmail/2003 [48543] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2003" [1]
+2017-01-02 00:38:40 URL:http://www.avon-ma.gov/node/2003/events/2017-01 [58095] -> "../data/townSites2/Avon/www.avon-ma.gov/node/2003/events/2017-01" [1]
+2017-01-02 00:38:41 URL: http://www.avon-ma.gov/sites/avonma/files/minutes/minutes-file/march12012min.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:42 URL: http://www.avon-ma.gov/sites/avonma/files/minutes/minutes-file/feb22012min.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:44 URL: http://www.avon-ma.gov/sites/avonma/files/minutes/minutes-file/jan122012min.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:46 URL: http://www.avon-ma.gov/sites/avonma/files/minutes/minutes-file/dec152011min.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:48 URL: http://www.avon-ma.gov/sites/avonma/files/minutes/minutes-file/oct62011min.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:51 URL:http://www.avon-ma.gov/node/2003/minutes [61753] -> "../data/townSites2/Avon/www.avon-ma.gov/node/2003/minutes" [1]
+2017-01-02 00:38:52 URL: http://www.avon-ma.gov/node/2024/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:54 URL:http://www.avon-ma.gov/print/2024 [10373] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2024" [1]
+2017-01-02 00:38:55 URL:http://www.avon-ma.gov/printmail/2024 [48529] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2024" [1]
+2017-01-02 00:38:56 URL:http://www.avon-ma.gov/cultural-council/faq/if-i-am-approved-when-do-i-get-my-money [50161] -> "../data/townSites2/Avon/www.avon-ma.gov/cultural-council/faq/if-i-am-approved-when-do-i-get-my-money" [1]
+2017-01-02 00:38:58 URL:http://www.avon-ma.gov/cultural-council/faq/how-can-i-apply [49786] -> "../data/townSites2/Avon/www.avon-ma.gov/cultural-council/faq/how-can-i-apply" [1]
+2017-01-02 00:38:59 URL:http://www.avon-ma.gov/cultural-council/faq/when-can-i-apply [49576] -> "../data/townSites2/Avon/www.avon-ma.gov/cultural-council/faq/when-can-i-apply" [1]
+2017-01-02 00:39:00 URL:http://www.avon-ma.gov/cultural-council/faq/what-do-you-mean-by-arts-humanities-and-interpretive-sciences [50161] -> "../data/townSites2/Avon/www.avon-ma.gov/cultural-council/faq/what-do-you-mean-by-arts-humanities-and-interpretive-sciences" [1]
+2017-01-02 00:39:02 URL:http://www.avon-ma.gov/cultural-council/faq/who-should-apply [49804] -> "../data/townSites2/Avon/www.avon-ma.gov/cultural-council/faq/who-should-apply" [1]
+2017-01-02 00:39:03 URL:http://www.avon-ma.gov/cultural-council/minutes/minutes-1 [50370] -> "../data/townSites2/Avon/www.avon-ma.gov/cultural-council/minutes/minutes-1" [1]
+2017-01-02 00:39:05 URL:http://www.avon-ma.gov/cultural-council/minutes/minutes [50372] -> "../data/townSites2/Avon/www.avon-ma.gov/cultural-council/minutes/minutes" [1]
+2017-01-02 00:39:06 URL:http://www.avon-ma.gov/cultural-council/minutes/minutes-0 [50381] -> "../data/townSites2/Avon/www.avon-ma.gov/cultural-council/minutes/minutes-0" [1]
+2017-01-02 00:39:07 URL: http://www.avon-ma.gov/node/1995/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:08 URL: http://www.avon-ma.gov/node/1995/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:10 URL:http://www.avon-ma.gov/finance-committee/slides/finance-committee-business-card [51303] -> "../data/townSites2/Avon/www.avon-ma.gov/finance-committee/slides/finance-committee-business-card" [1]
+2017-01-02 00:39:12 URL:http://www.avon-ma.gov/print/1995 [11681] -> "../data/townSites2/Avon/www.avon-ma.gov/print/1995" [1]
+2017-01-02 00:39:15 URL:http://www.avon-ma.gov/printmail/1995 [48531] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/1995" [1]
+2017-01-02 00:39:16 URL:http://www.avon-ma.gov/users/financecommittee/contact [49761] -> "../data/townSites2/Avon/www.avon-ma.gov/users/financecommittee/contact" [1]
+2017-01-02 00:39:18 URL:http://www.avon-ma.gov/people/mary-ann-diamond-0 [55564] -> "../data/townSites2/Avon/www.avon-ma.gov/people/mary-ann-diamond-0" [1]
+2017-01-02 00:39:20 URL:http://www.avon-ma.gov/node/1995/events/2017-01 [58065] -> "../data/townSites2/Avon/www.avon-ma.gov/node/1995/events/2017-01" [1]
+2017-01-02 00:39:22 URL:http://www.avon-ma.gov/finance-committee/minutes/minutes-41 [51714] -> "../data/townSites2/Avon/www.avon-ma.gov/finance-committee/minutes/minutes-41" [1]
+2017-01-02 00:39:23 URL:http://www.avon-ma.gov/finance-committee/minutes/minutes-42 [51716] -> "../data/townSites2/Avon/www.avon-ma.gov/finance-committee/minutes/minutes-42" [1]
+2017-01-02 00:39:25 URL:http://www.avon-ma.gov/finance-committee/minutes/minutes-40 [51711] -> "../data/townSites2/Avon/www.avon-ma.gov/finance-committee/minutes/minutes-40" [1]
+2017-01-02 00:39:27 URL:http://www.avon-ma.gov/finance-committee/minutes/minutes-39 [51716] -> "../data/townSites2/Avon/www.avon-ma.gov/finance-committee/minutes/minutes-39" [1]
+2017-01-02 00:39:30 URL:http://www.avon-ma.gov/finance-committee/minutes/minutes-38 [51711] -> "../data/townSites2/Avon/www.avon-ma.gov/finance-committee/minutes/minutes-38" [1]
+2017-01-02 00:39:34 URL:http://www.avon-ma.gov/node/1995/minutes [87867] -> "../data/townSites2/Avon/www.avon-ma.gov/node/1995/minutes" [1]
+2017-01-02 00:39:35 URL:http://www.avon-ma.gov/print/2409 [4260] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2409" [1]
+2017-01-02 00:39:37 URL:http://www.avon-ma.gov/printmail/2409 [48583] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2409" [1]
+2017-01-02 00:39:38 URL:http://www.avon-ma.gov/print/2408 [4553] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2408" [1]
+2017-01-02 00:39:39 URL:http://www.avon-ma.gov/printmail/2408 [48609] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2408" [1]
+2017-01-02 00:39:40 URL: http://www.avon-ma.gov/node/2010/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:42 URL:http://www.avon-ma.gov/historical-commission/slides/tavern-and-museum [50947] -> "../data/townSites2/Avon/www.avon-ma.gov/historical-commission/slides/tavern-and-museum" [1]
+2017-01-02 00:39:43 URL:http://www.avon-ma.gov/historical-commission/slides/museum-and-tavern [50979] -> "../data/townSites2/Avon/www.avon-ma.gov/historical-commission/slides/museum-and-tavern" [1]
+2017-01-02 00:39:45 URL:http://www.avon-ma.gov/print/2010 [7462] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2010" [1]
+2017-01-02 00:39:47 URL:http://www.avon-ma.gov/printmail/2010 [48539] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2010" [1]
+2017-01-02 00:39:48 URL:http://www.avon-ma.gov/historical-commission/news/candlelight-tours-at-captain-samuel-robbins-house [51267] -> "../data/townSites2/Avon/www.avon-ma.gov/historical-commission/news/candlelight-tours-at-captain-samuel-robbins-house" [1]
+2017-01-02 00:39:50 URL:http://www.avon-ma.gov/historical-commission/minutes/minutes-1 [51132] -> "../data/townSites2/Avon/www.avon-ma.gov/historical-commission/minutes/minutes-1" [1]
+2017-01-02 00:39:51 URL:http://www.avon-ma.gov/historical-commission/minutes/minutes [51124] -> "../data/townSites2/Avon/www.avon-ma.gov/historical-commission/minutes/minutes" [1]
+2017-01-02 00:39:53 URL:http://www.avon-ma.gov/print/18921 [3067] -> "../data/townSites2/Avon/www.avon-ma.gov/print/18921" [1]
+2017-01-02 00:39:54 URL:http://www.avon-ma.gov/printmail/18921 [48603] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/18921" [1]
+2017-01-02 00:39:55 URL: http://www.avon-ma.gov/node/2023/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:57 URL:http://www.avon-ma.gov/print/2023 [9867] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2023" [1]
+2017-01-02 00:39:59 URL:http://www.avon-ma.gov/printmail/2023 [48531] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2023" [1]
+2017-01-02 00:40:01 URL:http://www.avon-ma.gov/housing-authority/agenda/agenda-0 [52217] -> "../data/townSites2/Avon/www.avon-ma.gov/housing-authority/agenda/agenda-0" [1]
+2017-01-02 00:40:02 URL:http://www.avon-ma.gov/housing-authority/minutes/minutes-21 [51471] -> "../data/townSites2/Avon/www.avon-ma.gov/housing-authority/minutes/minutes-21" [1]
+2017-01-02 00:40:04 URL:http://www.avon-ma.gov/housing-authority/minutes/minutes-20 [51470] -> "../data/townSites2/Avon/www.avon-ma.gov/housing-authority/minutes/minutes-20" [1]
+2017-01-02 00:40:05 URL:http://www.avon-ma.gov/housing-authority/minutes/minutes-19 [51465] -> "../data/townSites2/Avon/www.avon-ma.gov/housing-authority/minutes/minutes-19" [1]
+2017-01-02 00:40:07 URL:http://www.avon-ma.gov/housing-authority/minutes/minutes-17 [51453] -> "../data/townSites2/Avon/www.avon-ma.gov/housing-authority/minutes/minutes-17" [1]
+2017-01-02 00:40:09 URL:http://www.avon-ma.gov/housing-authority/minutes/minutes-18 [51454] -> "../data/townSites2/Avon/www.avon-ma.gov/housing-authority/minutes/minutes-18" [1]
+2017-01-02 00:40:10 URL:http://www.avon-ma.gov/node/2023/minutes [70249] -> "../data/townSites2/Avon/www.avon-ma.gov/node/2023/minutes" [1]
+2017-01-02 00:40:11 URL: http://www.avon-ma.gov/node/2008/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:13 URL:http://www.avon-ma.gov/print/2008 [5460] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2008" [1]
+2017-01-02 00:40:14 URL:http://www.avon-ma.gov/printmail/2008 [48563] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2008" [1]
+2017-01-02 00:40:15 URL: http://www.avon-ma.gov/node/2026/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:16 URL: http://www.avon-ma.gov/node/2026/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:18 URL:http://www.avon-ma.gov/print/2026 [7828] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2026" [1]
+2017-01-02 00:40:19 URL:http://www.avon-ma.gov/printmail/2026 [48529] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2026" [1]
+2017-01-02 00:40:21 URL:http://www.avon-ma.gov/node/2026/events/2017-01 [58060] -> "../data/townSites2/Avon/www.avon-ma.gov/node/2026/events/2017-01" [1]
+2017-01-02 00:40:22 URL:http://www.avon-ma.gov/library-trustees/agenda/agenda-0 [51092] -> "../data/townSites2/Avon/www.avon-ma.gov/library-trustees/agenda/agenda-0" [1]
+2017-01-02 00:40:24 URL:http://www.avon-ma.gov/library-trustees/agenda/agenda [51112] -> "../data/townSites2/Avon/www.avon-ma.gov/library-trustees/agenda/agenda" [1]
+2017-01-02 00:40:26 URL:http://www.avon-ma.gov/library-trustees/minutes/minutes-15 [50361] -> "../data/townSites2/Avon/www.avon-ma.gov/library-trustees/minutes/minutes-15" [1]
+2017-01-02 00:40:27 URL:http://www.avon-ma.gov/library-trustees/minutes/minutes-13 [50360] -> "../data/townSites2/Avon/www.avon-ma.gov/library-trustees/minutes/minutes-13" [1]
+2017-01-02 00:40:29 URL:http://www.avon-ma.gov/library-trustees/minutes/minutes-12 [50362] -> "../data/townSites2/Avon/www.avon-ma.gov/library-trustees/minutes/minutes-12" [1]
+2017-01-02 00:40:31 URL:http://www.avon-ma.gov/library-trustees/minutes/minutes-14 [50364] -> "../data/townSites2/Avon/www.avon-ma.gov/library-trustees/minutes/minutes-14" [1]
+2017-01-02 00:40:33 URL:http://www.avon-ma.gov/library-trustees/minutes/minutes-16 [50385] -> "../data/townSites2/Avon/www.avon-ma.gov/library-trustees/minutes/minutes-16" [1]
+2017-01-02 00:40:34 URL:http://www.avon-ma.gov/node/2026/minutes [63655] -> "../data/townSites2/Avon/www.avon-ma.gov/node/2026/minutes" [1]
+2017-01-02 00:40:35 URL: http://www.avon-ma.gov/node/1996/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:37 URL:http://www.avon-ma.gov/print/1996 [3263] -> "../data/townSites2/Avon/www.avon-ma.gov/print/1996" [1]
+2017-01-02 00:40:38 URL:http://www.avon-ma.gov/printmail/1996 [48527] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/1996" [1]
+2017-01-02 00:40:39 URL: http://www.avon-ma.gov/sites/avonma/files/minutes/minutes-file/121112.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:40 URL: http://www.avon-ma.gov/sites/avonma/files/minutes/minutes-file/11712.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:41 URL: http://www.avon-ma.gov/sites/avonma/files/minutes/minutes-file/06712.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:41 URL: http://www.avon-ma.gov/sites/avonma/files/minutes/minutes-file/053012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:42 URL: http://www.avon-ma.gov/sites/avonma/files/minutes/minutes-file/032712.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:44 URL:http://www.avon-ma.gov/node/1996/minutes [60535] -> "../data/townSites2/Avon/www.avon-ma.gov/node/1996/minutes" [1]
+2017-01-02 00:40:45 URL: http://www.avon-ma.gov/node/2001/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:46 URL: http://www.avon-ma.gov/node/2001/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:48 URL:http://www.avon-ma.gov/planning-board/slides/planning-board [51724] -> "../data/townSites2/Avon/www.avon-ma.gov/planning-board/slides/planning-board" [1]
+2017-01-02 00:40:50 URL:http://www.avon-ma.gov/print/2001 [11734] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2001" [1]
+2017-01-02 00:40:51 URL:http://www.avon-ma.gov/printmail/2001 [48525] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2001" [1]
+2017-01-02 00:40:53 URL:http://www.avon-ma.gov/planning-board/faq/how-to-get-on-the-agenda [51515] -> "../data/townSites2/Avon/www.avon-ma.gov/planning-board/faq/how-to-get-on-the-agenda" [1]
+2017-01-02 00:40:54 URL:http://www.avon-ma.gov/planning-board/faq/how-can-i-contact-a-board-member [51639] -> "../data/townSites2/Avon/www.avon-ma.gov/planning-board/faq/how-can-i-contact-a-board-member" [1]
+2017-01-02 00:40:55 URL:http://www.avon-ma.gov/planning-board/faq/do-i-need-to-meet-with-the-planning-board [52134] -> "../data/townSites2/Avon/www.avon-ma.gov/planning-board/faq/do-i-need-to-meet-with-the-planning-board" [1]
+2017-01-02 00:40:56 URL:http://www.avon-ma.gov/planning-board/faq/what-should-i-bring [51552] -> "../data/townSites2/Avon/www.avon-ma.gov/planning-board/faq/what-should-i-bring" [1]
+2017-01-02 00:40:57 URL:http://www.avon-ma.gov/node/2001/events/2017-01 [58050] -> "../data/townSites2/Avon/www.avon-ma.gov/node/2001/events/2017-01" [1]
+2017-01-02 00:40:59 URL:http://www.avon-ma.gov/planning-board/minutes/minutes-35 [52312] -> "../data/townSites2/Avon/www.avon-ma.gov/planning-board/minutes/minutes-35" [1]
+2017-01-02 00:41:00 URL:http://www.avon-ma.gov/planning-board/minutes/minutes-34 [52325] -> "../data/townSites2/Avon/www.avon-ma.gov/planning-board/minutes/minutes-34" [1]
+2017-01-02 00:41:02 URL:http://www.avon-ma.gov/planning-board/minutes/minutes-33 [52297] -> "../data/townSites2/Avon/www.avon-ma.gov/planning-board/minutes/minutes-33" [1]
+2017-01-02 00:41:03 URL:http://www.avon-ma.gov/planning-board/minutes/minutes-32 [52291] -> "../data/townSites2/Avon/www.avon-ma.gov/planning-board/minutes/minutes-32" [1]
+2017-01-02 00:41:04 URL:http://www.avon-ma.gov/planning-board/minutes/minutes-28 [52304] -> "../data/townSites2/Avon/www.avon-ma.gov/planning-board/minutes/minutes-28" [1]
+2017-01-02 00:41:06 URL:http://www.avon-ma.gov/node/2001/minutes [81106] -> "../data/townSites2/Avon/www.avon-ma.gov/node/2001/minutes" [1]
+2017-01-02 00:41:07 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/planning_board_application.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:07 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/checklist.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:08 URL: http://www.avon-ma.gov/sites/avonma/files/file/file/fees.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:09 URL:http://www.avon-ma.gov/print/17521 [2895] -> "../data/townSites2/Avon/www.avon-ma.gov/print/17521" [1]
+2017-01-02 00:41:10 URL:http://www.avon-ma.gov/printmail/17521 [48550] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/17521" [1]
+2017-01-02 00:41:11 URL: http://www.avon-ma.gov/sites/avonma/files/u111/town_of_avon_zoning_bylaws_2014_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:12 URL: http://www.avon-ma.gov/node/2072/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:13 URL:http://www.avon-ma.gov/public-safety-building-committee/slides/the-existing-avon-public-safety-building-constructed-in-1968 [53539] -> "../data/townSites2/Avon/www.avon-ma.gov/public-safety-building-committee/slides/the-existing-avon-public-safety-building-constructed-in-1968" [1]
+2017-01-02 00:41:15 URL:http://www.avon-ma.gov/print/2072 [9757] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2072" [1]
+2017-01-02 00:41:16 URL:http://www.avon-ma.gov/printmail/2072 [48598] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2072" [1]
+2017-01-02 00:41:17 URL: http://www.avon-ma.gov/sites/avonma/files/u121/current_conditions_of_the_avon_fire_police_department_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:17 URL: http://www.avon-ma.gov/sites/avonma/files/u121/conceptual_drawings_of_the_proposed_new_avon_fire_police_department_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:19 URL:http://www.avon-ma.gov/designer-selectionpublic-safety-building-committee/minutes/minutes [51265] -> "../data/townSites2/Avon/www.avon-ma.gov/designer-selectionpublic-safety-building-committee/minutes/minutes" [1]
+2017-01-02 00:41:20 URL:http://www.avon-ma.gov/public-safety-building-committee/minutes/meeting-minutes-13 [51205] -> "../data/townSites2/Avon/www.avon-ma.gov/public-safety-building-committee/minutes/meeting-minutes-13" [1]
+2017-01-02 00:41:22 URL:http://www.avon-ma.gov/public-safety-building-committee/minutes/meeting-minutes-12 [51207] -> "../data/townSites2/Avon/www.avon-ma.gov/public-safety-building-committee/minutes/meeting-minutes-12" [1]
+2017-01-02 00:41:23 URL:http://www.avon-ma.gov/public-safety-building-committee/minutes/meeting-minutes-11 [51220] -> "../data/townSites2/Avon/www.avon-ma.gov/public-safety-building-committee/minutes/meeting-minutes-11" [1]
+2017-01-02 00:41:25 URL:http://www.avon-ma.gov/public-safety-building-committee/minutes/meeting-minutes-10 [51223] -> "../data/townSites2/Avon/www.avon-ma.gov/public-safety-building-committee/minutes/meeting-minutes-10" [1]
+2017-01-02 00:41:27 URL:http://www.avon-ma.gov/node/2072/minutes [60938] -> "../data/townSites2/Avon/www.avon-ma.gov/node/2072/minutes" [1]
+2017-01-02 00:41:27 URL: http://www.avon-ma.gov/node/9876/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:28 URL:http://www.avon-ma.gov/sewer-commission/slides/sewer-commission [50070] -> "../data/townSites2/Avon/www.avon-ma.gov/sewer-commission/slides/sewer-commission" [1]
+2017-01-02 00:41:30 URL:http://www.avon-ma.gov/print/9876 [7137] -> "../data/townSites2/Avon/www.avon-ma.gov/print/9876" [1]
+2017-01-02 00:41:31 URL:http://www.avon-ma.gov/printmail/9876 [48529] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/9876" [1]
+2017-01-02 00:41:33 URL: http://www.avon-ma.gov/node/2002/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:34 URL:http://www.avon-ma.gov/zoning-board-of-appeals/slides/zoning-board-of-appeals-card [50970] -> "../data/townSites2/Avon/www.avon-ma.gov/zoning-board-of-appeals/slides/zoning-board-of-appeals-card" [1]
+2017-01-02 00:41:35 URL:http://www.avon-ma.gov/print/2002 [9153] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2002" [1]
+2017-01-02 00:41:37 URL:http://www.avon-ma.gov/printmail/2002 [48543] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2002" [1]
+2017-01-02 00:41:38 URL:http://www.avon-ma.gov/zoning-board-of-appeals/minutes/september-12-2016 [51580] -> "../data/townSites2/Avon/www.avon-ma.gov/zoning-board-of-appeals/minutes/september-12-2016" [1]
+2017-01-02 00:41:39 URL:http://www.avon-ma.gov/zoning-board-of-appeals/minutes/minutes-7 [51443] -> "../data/townSites2/Avon/www.avon-ma.gov/zoning-board-of-appeals/minutes/minutes-7" [1]
+2017-01-02 00:41:41 URL:http://www.avon-ma.gov/zoning-board-of-appeals/minutes/minutes-6 [51463] -> "../data/townSites2/Avon/www.avon-ma.gov/zoning-board-of-appeals/minutes/minutes-6" [1]
+2017-01-02 00:41:42 URL:http://www.avon-ma.gov/zoning-board-of-appeals/minutes/minutes-5 [51466] -> "../data/townSites2/Avon/www.avon-ma.gov/zoning-board-of-appeals/minutes/minutes-5" [1]
+2017-01-02 00:41:43 URL:http://www.avon-ma.gov/zoning-board-of-appeals/minutes/minutes-2 [51461] -> "../data/townSites2/Avon/www.avon-ma.gov/zoning-board-of-appeals/minutes/minutes-2" [1]
+2017-01-02 00:41:45 URL:http://www.avon-ma.gov/node/2002/minutes [53394] -> "../data/townSites2/Avon/www.avon-ma.gov/node/2002/minutes" [1]
+2017-01-02 00:41:46 URL:http://www.avon-ma.gov/print/2588 [3073] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2588" [1]
+2017-01-02 00:41:47 URL:http://www.avon-ma.gov/printmail/2588 [48568] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2588" [1]
+2017-01-02 00:41:48 URL: http://www.avon-ma.gov/sites/avonma/files/u111/c_16-1_101_wales_avenue_decision_5-3-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:49 URL:http://www.avon-ma.gov/print/19001 [3131] -> "../data/townSites2/Avon/www.avon-ma.gov/print/19001" [1]
+2017-01-02 00:41:50 URL:http://www.avon-ma.gov/printmail/19001 [48571] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/19001" [1]
+2017-01-02 00:41:51 URL: http://www.avon-ma.gov/sites/avonma/files/u111/zba_application.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:52 URL:http://www.avon-ma.gov/print/7061 [2945] -> "../data/townSites2/Avon/www.avon-ma.gov/print/7061" [1]
+2017-01-02 00:41:53 URL:http://www.avon-ma.gov/printmail/7061 [48555] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/7061" [1]
+2017-01-02 00:41:54 URL: http://www.avon-ma.gov/node/2405/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:56 URL:http://www.avon-ma.gov/print/2405 [4321] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2405" [1]
+2017-01-02 00:41:58 URL:http://www.avon-ma.gov/printmail/2405 [48527] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2405" [1]
+2017-01-02 00:41:58 URL: http://www.avon-ma.gov/sites/avonma/files/u121/dta_cultural_partnerships_with_an_ebt_card.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:59 URL: http://www.avon-ma.gov/node/9881/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:01 URL:http://www.avon-ma.gov/avon-civic-association/slides/a-small-town-is-like-a-big-family [51348] -> "../data/townSites2/Avon/www.avon-ma.gov/avon-civic-association/slides/a-small-town-is-like-a-big-family" [1]
+2017-01-02 00:42:03 URL:http://www.avon-ma.gov/print/9881 [14755] -> "../data/townSites2/Avon/www.avon-ma.gov/print/9881" [1]
+2017-01-02 00:42:05 URL:http://www.avon-ma.gov/printmail/9881 [48541] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/9881" [1]
+2017-01-02 00:42:07 URL:http://www.avon-ma.gov/ [78953] -> "../data/townSites2/Avon/www.avon-ma.gov/home.1" [1]
+2017-01-02 00:42:08 URL:http://www.avon-ma.gov/print/2406 [7079] -> "../data/townSites2/Avon/www.avon-ma.gov/print/2406" [1]
+2017-01-02 00:42:10 URL:http://www.avon-ma.gov/printmail/2406 [48555] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/2406" [1]
+2017-01-02 00:42:11 URL: http://www.avon-ma.gov/node/10651/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:12 URL:http://www.avon-ma.gov/memorial-day-parade-committee/slides/2016-memorial-day-parade [49460] -> "../data/townSites2/Avon/www.avon-ma.gov/memorial-day-parade-committee/slides/2016-memorial-day-parade" [1]
+2017-01-02 00:42:13 URL:http://www.avon-ma.gov/memorial-day-parade-committee/slides/2016-memorial-day-parade-pictures [49534] -> "../data/townSites2/Avon/www.avon-ma.gov/memorial-day-parade-committee/slides/2016-memorial-day-parade-pictures" [1]
+2017-01-02 00:42:14 URL:http://www.avon-ma.gov/memorial-day-parade-committee/slides/the-memorial-day-committee-board-members [49749] -> "../data/townSites2/Avon/www.avon-ma.gov/memorial-day-parade-committee/slides/the-memorial-day-committee-board-members" [1]
+2017-01-02 00:42:16 URL:http://www.avon-ma.gov/print/10651 [5658] -> "../data/townSites2/Avon/www.avon-ma.gov/print/10651" [1]
+2017-01-02 00:42:17 URL:http://www.avon-ma.gov/printmail/10651 [48561] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/10651" [1]
+2017-01-02 00:42:18 URL:http://www.avon-ma.gov/print/19916 [3238] -> "../data/townSites2/Avon/www.avon-ma.gov/print/19916" [1]
+2017-01-02 00:42:19 URL:http://www.avon-ma.gov/printmail/19916 [48564] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/19916" [1]
+2017-01-02 00:42:20 URL:http://www.avon-ma.gov/print/19926 [3224] -> "../data/townSites2/Avon/www.avon-ma.gov/print/19926" [1]
+2017-01-02 00:42:22 URL:http://www.avon-ma.gov/printmail/19926 [48565] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/19926" [1]
+2017-01-02 00:42:23 URL:http://www.avon-ma.gov/print/20101 [3189] -> "../data/townSites2/Avon/www.avon-ma.gov/print/20101" [1]
+2017-01-02 00:42:24 URL:http://www.avon-ma.gov/printmail/20101 [48549] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/20101" [1]
+2017-01-02 00:42:25 URL:http://www.avon-ma.gov/print/19936 [3116] -> "../data/townSites2/Avon/www.avon-ma.gov/print/19936" [1]
+2017-01-02 00:42:27 URL:http://www.avon-ma.gov/printmail/19936 [48529] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/19936" [1]
+2017-01-02 00:42:27 URL:http://www.avon-ma.gov/print/19991 [3097] -> "../data/townSites2/Avon/www.avon-ma.gov/print/19991" [1]
+2017-01-02 00:42:29 URL:http://www.avon-ma.gov/printmail/19991 [48529] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/19991" [1]
+2017-01-02 00:42:30 URL:http://www.avon-ma.gov/print/19846 [3140] -> "../data/townSites2/Avon/www.avon-ma.gov/print/19846" [1]
+2017-01-02 00:42:31 URL:http://www.avon-ma.gov/printmail/19846 [48541] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/19846" [1]
+2017-01-02 00:42:32 URL:http://www.avon-ma.gov/print/20001 [3113] -> "../data/townSites2/Avon/www.avon-ma.gov/print/20001" [1]
+2017-01-02 00:42:33 URL:http://www.avon-ma.gov/printmail/20001 [48533] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/20001" [1]
+2017-01-02 00:42:34 URL:http://www.avon-ma.gov/print/19996 [3120] -> "../data/townSites2/Avon/www.avon-ma.gov/print/19996" [1]
+2017-01-02 00:42:35 URL:http://www.avon-ma.gov/printmail/19996 [48533] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/19996" [1]
+2017-01-02 00:42:36 URL:http://www.avon-ma.gov/print/20116 [3161] -> "../data/townSites2/Avon/www.avon-ma.gov/print/20116" [1]
+2017-01-02 00:42:37 URL:http://www.avon-ma.gov/printmail/20116 [48545] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/20116" [1]
+2017-01-02 00:42:39 URL:http://www.avon-ma.gov/node/111/news [72139] -> "../data/townSites2/Avon/www.avon-ma.gov/node/111/news" [1]
+2017-01-02 00:42:40 URL:http://www.avon-ma.gov/print/7426 [4152] -> "../data/townSites2/Avon/www.avon-ma.gov/print/7426" [1]
+2017-01-02 00:42:41 URL:http://www.avon-ma.gov/printmail/7426 [48669] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/7426" [1]
+2017-01-02 00:42:42 URL:http://www.avon-ma.gov/print/8451 [5402] -> "../data/townSites2/Avon/www.avon-ma.gov/print/8451" [1]
+2017-01-02 00:42:43 URL:http://www.avon-ma.gov/printmail/8451 [48698] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/8451" [1]
+2017-01-02 00:42:44 URL:http://www.avon-ma.gov/print/20126 [3539] -> "../data/townSites2/Avon/www.avon-ma.gov/print/20126" [1]
+2017-01-02 00:42:45 URL:http://www.avon-ma.gov/printmail/20126 [48585] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/20126" [1]
+2017-01-02 00:42:46 URL:http://www.avon-ma.gov/print/20141 [4210] -> "../data/townSites2/Avon/www.avon-ma.gov/print/20141" [1]
+2017-01-02 00:42:47 URL:http://www.avon-ma.gov/printmail/20141 [48775] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/20141" [1]
+2017-01-02 00:42:48 URL:http://www.avon-ma.gov/print/20121 [6183] -> "../data/townSites2/Avon/www.avon-ma.gov/print/20121" [1]
+2017-01-02 00:42:49 URL:http://www.avon-ma.gov/printmail/20121 [48579] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/20121" [1]
+2017-01-02 00:42:51 URL: http://www.avon-ma.gov/node/111/news/feed 200 OK
+unlink: No such file or directory
+http://www.avon-ma.gov/news:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:42:53 URL:http://www.avon-ma.gov/home/news/the-compost-site-is-now-closed-for-the-winter-and-will-reopen-in-the-spring [49075] -> "../data/townSites2/Avon/www.avon-ma.gov/home/news/the-compost-site-is-now-closed-for-the-winter-and-will-reopen-in-the-spring" [1]
+2017-01-02 00:42:54 URL:http://www.avon-ma.gov/home/news/dinner-theater-fundraiser-at-the-amhs-on-jan-6th-7th [51168] -> "../data/townSites2/Avon/www.avon-ma.gov/home/news/dinner-theater-fundraiser-at-the-amhs-on-jan-6th-7th" [1]
+2017-01-02 00:42:56 URL:http://www.avon-ma.gov/home/news/weather-alert-move-the-hoops [49406] -> "../data/townSites2/Avon/www.avon-ma.gov/home/news/weather-alert-move-the-hoops" [1]
+2017-01-02 00:42:57 URL:http://www.avon-ma.gov/home/news/amhs-eye-of-the-panther-fall-edition-newspaper [48854] -> "../data/townSites2/Avon/www.avon-ma.gov/home/news/amhs-eye-of-the-panther-fall-edition-newspaper" [1]
+2017-01-02 00:42:58 URL:http://www.avon-ma.gov/home/news/hand-delivered-hope-accepting-new-or-used-blankets-coats-etc-drop-off-box-at-avon-town-hal [49259] -> "../data/townSites2/Avon/www.avon-ma.gov/home/news/hand-delivered-hope-accepting-new-or-used-blankets-coats-etc-drop-off-box-at-avon-town-hal" [1]
+2017-01-02 00:42:59 URL:http://www.avon-ma.gov/home/news/recycling-and-bulk-collection-information-for-homeowners-and-renters [49159] -> "../data/townSites2/Avon/www.avon-ma.gov/home/news/recycling-and-bulk-collection-information-for-homeowners-and-renters" [1]
+2017-01-02 00:43:01 URL:http://www.avon-ma.gov/home/news/2016-17-fuel-assistance [48858] -> "../data/townSites2/Avon/www.avon-ma.gov/home/news/2016-17-fuel-assistance" [1]
+2017-01-02 00:43:02 URL:http://www.avon-ma.gov/home/news/special-town-meeting-minutes-october-24-2016 [48715] -> "../data/townSites2/Avon/www.avon-ma.gov/home/news/special-town-meeting-minutes-october-24-2016" [1]
+2017-01-02 00:43:03 URL:http://www.avon-ma.gov/home/news/keep-captain-chaos-at-bay-receive-emergency-alerts-be-informed-build-an-emergency-kit [49590] -> "../data/townSites2/Avon/www.avon-ma.gov/home/news/keep-captain-chaos-at-bay-receive-emergency-alerts-be-informed-build-an-emergency-kit" [1]
+2017-01-02 00:43:05 URL:http://www.avon-ma.gov/home/news/2016-fall-newsletter [48514] -> "../data/townSites2/Avon/www.avon-ma.gov/home/news/2016-fall-newsletter" [1]
+2017-01-02 00:43:06 URL:http://www.avon-ma.gov/home/news/massdot-advertises-23m-avon-harrison-boulevard-median-safety-barrier-project [50568] -> "../data/townSites2/Avon/www.avon-ma.gov/home/news/massdot-advertises-23m-avon-harrison-boulevard-median-safety-barrier-project" [1]
+2017-01-02 00:43:07 URL:http://www.avon-ma.gov/home/news/avon-boosters-butler-asa-ongoing-textile-recycling-fundraiser [49555] -> "../data/townSites2/Avon/www.avon-ma.gov/home/news/avon-boosters-butler-asa-ongoing-textile-recycling-fundraiser" [1]
+2017-01-02 00:43:09 URL:http://www.avon-ma.gov/home/news/2016-street-list-books-available-at-the-town-clerks-office-5-for-residents-and-10-for-non- [49016] -> "../data/townSites2/Avon/www.avon-ma.gov/home/news/2016-street-list-books-available-at-the-town-clerks-office-5-for-residents-and-10-for-non-" [1]
+2017-01-02 00:43:11 URL:http://www.avon-ma.gov/home/news/do-you-need-help-paying-your-real-estate-taxes [49351] -> "../data/townSites2/Avon/www.avon-ma.gov/home/news/do-you-need-help-paying-your-real-estate-taxes" [1]
+2017-01-02 00:43:12 URL:http://www.avon-ma.gov/home/news/special-election-results [48569] -> "../data/townSites2/Avon/www.avon-ma.gov/home/news/special-election-results" [1]
+2017-01-02 00:43:14 URL:http://www.avon-ma.gov/departments [69605] -> "../data/townSites2/Avon/www.avon-ma.gov/og" [1]
+2017-01-02 00:43:15 URL:http://www.avon-ma.gov/print/9261 [3184] -> "../data/townSites2/Avon/www.avon-ma.gov/print/9261" [1]
+2017-01-02 00:43:16 URL:http://www.avon-ma.gov/printmail/9261 [48550] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/9261" [1]
+2017-01-02 00:43:16 URL: http://www.avon-ma.gov/sites/avonma/files/u111/06-21-16_final_town_of_avon_org_structure_by_appointed_officials.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:17 URL: http://www.avon-ma.gov/sites/avonma/files/u111/09-20-16_final_town_of_avon_org_structure_by_elected_officials.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:18 URL:http://www.avon-ma.gov/node/2023/agenda [47326] -> "../data/townSites2/Avon/www.avon-ma.gov/node/2023/agenda" [1]
+2017-01-02 00:43:19 URL:http://www.avon-ma.gov/node/2026/agenda [48243] -> "../data/townSites2/Avon/www.avon-ma.gov/node/2026/agenda" [1]
+2017-01-02 00:43:21 URL:http://www.avon-ma.gov/node/2018/minutes [59332] -> "../data/townSites2/Avon/www.avon-ma.gov/node/2018/minutes" [1]
+2017-01-02 00:43:22 URL:http://www.avon-ma.gov/node/2027/minutes [47392] -> "../data/townSites2/Avon/www.avon-ma.gov/node/2027/minutes" [1]
+2017-01-02 00:43:23 URL:http://www.avon-ma.gov/node/2024/minutes [49478] -> "../data/townSites2/Avon/www.avon-ma.gov/node/2024/minutes" [1]
+2017-01-02 00:43:25 URL:http://www.avon-ma.gov/node/17441/minutes [47404] -> "../data/townSites2/Avon/www.avon-ma.gov/node/17441/minutes" [1]
+2017-01-02 00:43:26 URL:http://www.avon-ma.gov/node/2010/minutes [48594] -> "../data/townSites2/Avon/www.avon-ma.gov/node/2010/minutes" [1]
+2017-01-02 00:43:27 URL:http://www.avon-ma.gov/print/10446 [2954] -> "../data/townSites2/Avon/www.avon-ma.gov/print/10446" [1]
+2017-01-02 00:43:29 URL:http://www.avon-ma.gov/printmail/10446 [48552] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/10446" [1]
+2017-01-02 00:43:29 URL: http://www.avon-ma.gov/sites/avonma/files/u121/legal_notice_for_rock_salt_sand_bids_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:30 URL:http://www.avon-ma.gov/print/10876 [3304] -> "../data/townSites2/Avon/www.avon-ma.gov/print/10876" [1]
+2017-01-02 00:43:31 URL:http://www.avon-ma.gov/printmail/10876 [48544] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/10876" [1]
+2017-01-02 00:43:32 URL: http://www.avon-ma.gov/node/2017-01/town-events/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:34 URL:http://www.avon-ma.gov/town-calendar/2017 [148381] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar/2017" [1]
+2017-01-02 00:43:35 URL:http://www.avon-ma.gov/town-calendar/2017-W01 [60979] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar/2017-W01" [1]
+2017-01-02 00:43:37 URL:http://www.avon-ma.gov/town-calendar/2017-01-01 [52923] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar/2017-01-01" [1]
+2017-01-02 00:43:38 URL:http://www.avon-ma.gov/events [63927] -> "../data/townSites2/Avon/www.avon-ma.gov/events" [1]
+2017-01-02 00:43:39 URL:http://www.avon-ma.gov/town-calendar [66028] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar.1" [1]
+2017-01-02 00:43:41 URL:http://www.avon-ma.gov/town-calendar/2016-12 [75532] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar/2016-12" [1]
+2017-01-02 00:43:42 URL:http://www.avon-ma.gov/town-calendar/2017-02 [61747] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar/2017-02" [1]
+2017-01-02 00:43:43 URL:http://www.avon-ma.gov/town-calendar/2017-W1 [60969] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar/2017-W1" [1]
+2017-01-02 00:43:45 URL:http://www.avon-ma.gov/home/events/20331 [48753] -> "../data/townSites2/Avon/www.avon-ma.gov/home/events/20331" [1]
+2017-01-02 00:43:47 URL:http://www.avon-ma.gov/home/events/20166 [48679] -> "../data/townSites2/Avon/www.avon-ma.gov/home/events/20166" [1]
+2017-01-02 00:43:48 URL:http://www.avon-ma.gov/home/events/20046 [48746] -> "../data/townSites2/Avon/www.avon-ma.gov/home/events/20046" [1]
+2017-01-02 00:43:49 URL:http://www.avon-ma.gov/town-calendar/2017-W2 [59628] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar/2017-W2" [1]
+2017-01-02 00:43:50 URL:http://www.avon-ma.gov/home/events/20176 [48770] -> "../data/townSites2/Avon/www.avon-ma.gov/home/events/20176" [1]
+2017-01-02 00:43:51 URL:http://www.avon-ma.gov/home/events/20136 [48762] -> "../data/townSites2/Avon/www.avon-ma.gov/home/events/20136" [1]
+2017-01-02 00:43:53 URL:http://www.avon-ma.gov/home/events/20241 [48777] -> "../data/townSites2/Avon/www.avon-ma.gov/home/events/20241" [1]
+2017-01-02 00:43:55 URL:http://www.avon-ma.gov/town-calendar/2017-W3 [56731] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar/2017-W3" [1]
+2017-01-02 00:43:57 URL:http://www.avon-ma.gov/home/events/20056 [48749] -> "../data/townSites2/Avon/www.avon-ma.gov/home/events/20056" [1]
+2017-01-02 00:43:58 URL:http://www.avon-ma.gov/town-calendar/2017-W4 [54561] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar/2017-W4" [1]
+2017-01-02 00:43:59 URL:http://www.avon-ma.gov/town-calendar/2017-W5 [54557] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar/2017-W5" [1]
+2017-01-02 00:44:00 URL: http://www.avon-ma.gov/town-calendar/ical/2017-01-03 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:01 URL: http://www.avon-ma.gov/node/2017-01-03/town-events/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:02 URL:http://www.avon-ma.gov/town-calendar/2017-01-02 [52923] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar/2017-01-02" [1]
+2017-01-02 00:44:03 URL:http://www.avon-ma.gov/town-calendar/2017-01-04 [52926] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar/2017-01-04" [1]
+2017-01-02 00:44:04 URL: http://www.avon-ma.gov/town-calendar/ical/2017-01-05 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:04 URL: http://www.avon-ma.gov/node/2017-01-05/town-events/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:06 URL:http://www.avon-ma.gov/town-calendar/2017-01-06 [52923] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar/2017-01-06" [1]
+2017-01-02 00:44:06 URL: http://www.avon-ma.gov/town-calendar/ical/2017-01-09 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:07 URL: http://www.avon-ma.gov/node/2017-01-09/town-events/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:09 URL:http://www.avon-ma.gov/town-calendar/2017-W02 [59638] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar/2017-W02" [1]
+2017-01-02 00:44:10 URL:http://www.avon-ma.gov/town-calendar/2017-01-08 [52923] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar/2017-01-08" [1]
+2017-01-02 00:44:11 URL: http://www.avon-ma.gov/town-calendar/ical/2017-01-10 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:11 URL: http://www.avon-ma.gov/node/2017-01-10/town-events/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:13 URL:http://www.avon-ma.gov/town-calendar/2017-01-11 [52927] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar/2017-01-11" [1]
+2017-01-02 00:44:14 URL: http://www.avon-ma.gov/town-calendar/ical/2017-01-12 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:15 URL: http://www.avon-ma.gov/node/2017-01-12/town-events/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:16 URL:http://www.avon-ma.gov/town-calendar/2017-01-13 [52924] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar/2017-01-13" [1]
+2017-01-02 00:44:16 URL: http://www.avon-ma.gov/town-calendar/ical/2017-01-19 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:17 URL: http://www.avon-ma.gov/node/2017-01-19/town-events/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:18 URL:http://www.avon-ma.gov/town-calendar/2017-W03 [56741] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar/2017-W03" [1]
+2017-01-02 00:44:20 URL:http://www.avon-ma.gov/town-calendar/2017-01-18 [52927] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar/2017-01-18" [1]
+2017-01-02 00:44:21 URL:http://www.avon-ma.gov/town-calendar/2017-01-20 [52924] -> "../data/townSites2/Avon/www.avon-ma.gov/town-calendar/2017-01-20" [1]
+2017-01-02 00:44:23 URL:http://www.avon-ma.gov/user [47938] -> "../data/townSites2/Avon/www.avon-ma.gov/user.1" [1]
+2017-01-02 00:44:24 URL:http://www.avon-ma.gov/user/password [47494] -> "../data/townSites2/Avon/www.avon-ma.gov/user/password" [1]
+2017-01-02 00:44:26 URL:http://www.avon-ma.gov/user/login?destination=help%2Fvth_adv_help_inject%2FNew-Website-Guidelines [47609] -> "../data/townSites2/Avon/www.avon-ma.gov/help/vth_adv_help_inject/New-Website-Guidelines" [1]
+2017-01-02 00:44:27 URL:http://www.avon-ma.gov/print/468 [6729] -> "../data/townSites2/Avon/www.avon-ma.gov/print/468" [1]
+2017-01-02 00:44:27 URL:http://www.avon-ma.gov/printmail/468 [48565] -> "../data/townSites2/Avon/www.avon-ma.gov/printmail/468" [1]
+Found 7 broken links.
+
+http://www.recyclingworksma.com/
+http://www.iccsafe.org/blank-redirect.htmldefault.aspx
+http://www.avon-ma.gov/user/%252Fcontact
+http://www.avon-ma.gov/housing_rehab_application
+http://www.avon-ma.gov/news
+http://www.avon-ma.gov/housing_rehab_application.pdf
+http://www.avon-ma.gov/home/news/wondering-what-the-construction-is-on-harrison-boulevard-national-grid-is-building-a-subst
+
+FINISHED --2017-01-02 00:44:27--
+Total wall clock time: 31m 15s
+Downloaded: 736 files, 34M in 3m 10s (185 KB/s)

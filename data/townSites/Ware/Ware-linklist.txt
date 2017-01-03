@@ -1,0 +1,1555 @@
+2017-01-02 12:11:56 URL:http://www.townofware.com/ [52375/52375] -> "../data/townSites/Ware/www.townofware.com/index.html" [1]
+http://www.townofware.com/_assets_/images/favicon.ico:
+Remote file does not exist -- broken link!!!
+2017-01-02 12:11:58 URL:http://www.townofware.com/government/index.php [34824/34824] -> "../data/townSites/Ware/www.townofware.com/government/index.php" [1]
+2017-01-02 12:11:58 URL:http://www.townofware.com/government/board_of_selectmen/index.php [37193/37193] -> "../data/townSites/Ware/www.townofware.com/government/board_of_selectmen/index.php" [1]
+2017-01-02 12:11:59 URL:http://www.townofware.com/government/boards_and_committees/index.php [39565/39565] -> "../data/townSites/Ware/www.townofware.com/government/boards_and_committees/index.php" [1]
+2017-01-02 12:12:00 URL:http://www.townofware.com/government/municipal_finance/index.php [41466/41466] -> "../data/townSites/Ware/www.townofware.com/government/municipal_finance/index.php" [1]
+2017-01-02 12:12:01 URL:http://www.townofware.com/government/town_clerk/index.php [37606/37606] -> "../data/townSites/Ware/www.townofware.com/government/town_clerk/index.php" [1]
+2017-01-02 12:12:02 URL:http://www.townofware.com/government/town_manager/index.php [39727/39727] -> "../data/townSites/Ware/www.townofware.com/government/town_manager/index.php" [1]
+2017-01-02 12:12:03 URL:http://www.townofware.com/departments/index.php [40118/40118] -> "../data/townSites/Ware/www.townofware.com/departments/index.php" [1]
+2017-01-02 12:12:03 URL:http://www.townofware.com/departments/a_-_g_departments/index.php [36125/36125] -> "../data/townSites/Ware/www.townofware.com/departments/a_-_g_departments/index.php" [1]
+2017-01-02 12:12:04 URL:http://www.townofware.com/departments/animal_control/index.php [34286/34286] -> "../data/townSites/Ware/www.townofware.com/departments/animal_control/index.php" [1]
+2017-01-02 12:12:05 URL:http://www.townofware.com/departments/assessors/index.php [42524/42524] -> "../data/townSites/Ware/www.townofware.com/departments/assessors/index.php" [1]
+2017-01-02 12:12:06 URL:http://www.townofware.com/departments/building_inspector/index.php [36801/36801] -> "../data/townSites/Ware/www.townofware.com/departments/building_inspector/index.php" [1]
+2017-01-02 12:12:06 URL:http://www.townofware.com/departments/community_development/index.php [41378/41378] -> "../data/townSites/Ware/www.townofware.com/departments/community_development/index.php" [1]
+2017-01-02 12:12:07 URL:http://www.townofware.com/departments/council_on_aging/index.php [40043/40043] -> "../data/townSites/Ware/www.townofware.com/departments/council_on_aging/index.php" [1]
+2017-01-02 12:12:08 URL:http://www.townofware.com/departments/electrical_inspector/index.php [34799/34799] -> "../data/townSites/Ware/www.townofware.com/departments/electrical_inspector/index.php" [1]
+2017-01-02 12:12:09 URL:http://www.townofware.com/departments/emergency_management/index.php [38739/38739] -> "../data/townSites/Ware/www.townofware.com/departments/emergency_management/index.php" [1]
+2017-01-02 12:12:10 URL:http://www.townofware.com/departments/fire_department/index.php [37211/37211] -> "../data/townSites/Ware/www.townofware.com/departments/fire_department/index.php" [1]
+2017-01-02 12:12:11 URL:http://www.townofware.com/departments/gas_inspector/index.php [32825/32825] -> "../data/townSites/Ware/www.townofware.com/departments/gas_inspector/index.php" [1]
+2017-01-02 12:12:11 URL:http://www.townofware.com/departments/h_-_z_departments/index.php [35841/35841] -> "../data/townSites/Ware/www.townofware.com/departments/h_-_z_departments/index.php" [1]
+2017-01-02 12:12:12 URL:http://www.townofware.com/departments/health_department/index.php [40590/40590] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/index.php" [1]
+2017-01-02 12:12:13 URL:http://www.townofware.com/departments/h_-_z_departments/human_resources/index.php [35117/35117] -> "../data/townSites/Ware/www.townofware.com/departments/h_-_z_departments/human_resources/index.php" [1]
+2017-01-02 12:12:15 URL:http://www.townofware.com/departments/information_technology/index.php [42132/42132] -> "../data/townSites/Ware/www.townofware.com/departments/information_technology/index.php" [1]
+2017-01-02 12:12:16 URL:http://www.townofware.com/departments/parks_and_recreation/index.php [35274/35274] -> "../data/townSites/Ware/www.townofware.com/departments/parks_and_recreation/index.php" [1]
+2017-01-02 12:12:16 URL:http://www.townofware.com/departments/planning_department/index.php [41565/41565] -> "../data/townSites/Ware/www.townofware.com/departments/planning_department/index.php" [1]
+2017-01-02 12:12:17 URL:http://www.townofware.com/departments/police_department/index.php [36398/36398] -> "../data/townSites/Ware/www.townofware.com/departments/police_department/index.php" [1]
+2017-01-02 12:12:18 URL:http://www.townofware.com/departments/public_works/index.php [38175/38175] -> "../data/townSites/Ware/www.townofware.com/departments/public_works/index.php" [1]
+2017-01-02 12:12:19 URL:http://www.townofware.com/departments/veteran_s_agent/index.php [40186/40186] -> "../data/townSites/Ware/www.townofware.com/departments/veteran_s_agent/index.php" [1]
+2017-01-02 12:12:20 URL:http://www.townofware.com/residents/index.php [36689/36689] -> "../data/townSites/Ware/www.townofware.com/residents/index.php" [1]
+2017-01-02 12:12:21 URL:http://www.townofware.com/residents/useful_links_for_business/index.php [39353/39353] -> "../data/townSites/Ware/www.townofware.com/residents/useful_links_for_business/index.php" [1]
+2017-01-02 12:12:22 URL:http://www.townofware.com/residents/useful_links_for_residents/index.php [36569/36569] -> "../data/townSites/Ware/www.townofware.com/residents/useful_links_for_residents/index.php" [1]
+2017-01-02 12:12:23 URL:http://www.townofware.com/visitors/index.php [34469/34469] -> "../data/townSites/Ware/www.townofware.com/visitors/index.php" [1]
+2017-01-02 12:12:23 URL:http://www.townofware.com/visitors/about_ware/index.php [34730/34730] -> "../data/townSites/Ware/www.townofware.com/visitors/about_ware/index.php" [1]
+2017-01-02 12:12:24 URL:http://www.townofware.com/visitors/useful_links_for_visitors/index.php [36719/36719] -> "../data/townSites/Ware/www.townofware.com/visitors/useful_links_for_visitors/index.php" [1]
+2017-01-02 12:12:25 URL: http://www.townofware.com/sliderimages/holidaytree2.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 12:12:25 URL: http://www.townofware.com/sliderimages/008%20-%20Copy.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 12:12:26 URL:http://www.townofware.com/town_hall_directory/index.php [35097/35097] -> "../data/townSites/Ware/www.townofware.com/town_hall_directory/index.php" [1]
+2017-01-02 12:12:26 URL:http://www.townofware.com/online_pay/index.php [33233/33233] -> "../data/townSites/Ware/www.townofware.com/online_pay/index.php" [1]
+2017-01-02 12:12:27 URL:http://www.townofware.com/how_do_i_%28faq%29/where_do_i_go_for/index.php [47820/47820] -> "../data/townSites/Ware/www.townofware.com/how_do_i_(faq)/where_do_i_go_for/index.php" [1]
+2017-01-02 12:12:28 URL:http://www.townofware.com/agendas_and_minutes/index.php [34122/34122] -> "../data/townSites/Ware/www.townofware.com/agendas_and_minutes/index.php" [1]
+2017-01-02 12:12:29 URL:http://www.townofware.com/Schools/index.php [33626/33626] -> "../data/townSites/Ware/www.townofware.com/Schools/index.php" [1]
+2017-01-02 12:12:30 URL:http://www.townofware.com/public_records_access_information/index.php [34660/34660] -> "../data/townSites/Ware/www.townofware.com/public_records_access_information/index.php" [1]
+2017-01-02 12:12:31 URL:http://www.townofware.com/subscribe_to_news/index.php [33340/33340] -> "../data/townSites/Ware/www.townofware.com/subscribe_to_news/index.php" [1]
+2017-01-02 12:12:31 URL:http://www.townofware.com/send_us_comments/index.php [36902/36902] -> "../data/townSites/Ware/www.townofware.com/send_us_comments/index.php" [1]
+2017-01-02 12:12:32 URL:http://www.townofware.com/seeclickfix/index.php [34588/34588] -> "../data/townSites/Ware/www.townofware.com/seeclickfix/index.php" [1]
+2017-01-02 12:12:33 URL:http://www.townofware.com/news_detail_T2_R137.php [29035/29035] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R137.php" [1]
+2017-01-02 12:12:34 URL:http://www.townofware.com/news_detail_T2_R136.php [29105/29105] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R136.php" [1]
+2017-01-02 12:12:34 URL:http://www.townofware.com/news_detail_T2_R135.php [29300/29300] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R135.php" [1]
+2017-01-02 12:12:35 URL:http://www.townofware.com/news_detail_T2_R127.php [29274/29274] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R127.php" [1]
+2017-01-02 12:12:36 URL:http://www.townofware.com/news_detail_T2_R132.php [29091/29091] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R132.php" [1]
+2017-01-02 12:12:37 URL:http://www.townofware.com/news_detail_T2_R128.php [29103/29103] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R128.php" [1]
+2017-01-02 12:12:38 URL:http://www.townofware.com/newslist.php [872636/872636] -> "../data/townSites/Ware/www.townofware.com/newslist.php" [1]
+2017-01-02 12:12:39 URL:http://www.townofware.com/calendar_app/index.html [86242/86242] -> "../data/townSites/Ware/www.townofware.com/calendar_app/index.html" [1]
+2017-01-02 12:12:40 URL:http://www.townofware.com/calendar.php [29004/29004] -> "../data/townSites/Ware/www.townofware.com/calendar.php" [1]
+2017-01-02 12:12:41 URL:http://www.townofware.com/what_are_city_hall_s_hour.php [29634/29634] -> "../data/townSites/Ware/www.townofware.com/what_are_city_hall_s_hour.php" [1]
+2017-01-02 12:12:42 URL:http://www.townofware.com/where_do_i_obtain_a_birth_certificate.php [34537/34537] -> "../data/townSites/Ware/www.townofware.com/where_do_i_obtain_a_birth_certificate.php" [1]
+2017-01-02 12:12:42 URL:http://www.townofware.com/index.php [52375/52375] -> "../data/townSites/Ware/www.townofware.com/index.php" [1]
+2017-01-02 12:12:43 URL:http://www.townofware.com/employement/index.php [30231/30231] -> "../data/townSites/Ware/www.townofware.com/employement/index.php" [1]
+2017-01-02 12:12:44 URL:http://www.townofware.com/government/board_of_selectmen/meeting_agendas.php [369244/369244] -> "../data/townSites/Ware/www.townofware.com/government/board_of_selectmen/meeting_agendas.php" [1]
+2017-01-02 12:12:45 URL:http://www.townofware.com/government/board_of_selectmen/meeting_minutes.php [301719/301719] -> "../data/townSites/Ware/www.townofware.com/government/board_of_selectmen/meeting_minutes.php" [1]
+2017-01-02 12:12:46 URL:http://www.townofware.com/government/boards_and_committees/ada_commission.php [36509/36509] -> "../data/townSites/Ware/www.townofware.com/government/boards_and_committees/ada_commission.php" [1]
+2017-01-02 12:12:47 URL:http://www.townofware.com/government/boards_and_committees/board_of_assessors.php [43030/43030] -> "../data/townSites/Ware/www.townofware.com/government/boards_and_committees/board_of_assessors.php" [1]
+2017-01-02 12:12:48 URL:http://www.townofware.com/government/boards_and_committees/cemetery.php [39540/39540] -> "../data/townSites/Ware/www.townofware.com/government/boards_and_committees/cemetery.php" [1]
+2017-01-02 12:12:48 URL:http://www.townofware.com/government/boards_and_committees/community_development_authority.php [37969/37969] -> "../data/townSites/Ware/www.townofware.com/government/boards_and_committees/community_development_authority.php" [1]
+2017-01-02 12:12:49 URL:http://www.townofware.com/government/boards_and_committees/conservation_commission.php [44556/44556] -> "../data/townSites/Ware/www.townofware.com/government/boards_and_committees/conservation_commission.php" [1]
+2017-01-02 12:12:50 URL:http://www.townofware.com/government/boards_and_committees/finance_committee.php [38478/38478] -> "../data/townSites/Ware/www.townofware.com/government/boards_and_committees/finance_committee.php" [1]
+2017-01-02 12:12:51 URL:http://www.townofware.com/government/boards_and_committees/historical_commission.php [42314/42314] -> "../data/townSites/Ware/www.townofware.com/government/boards_and_committees/historical_commission.php" [1]
+2017-01-02 12:12:52 URL:http://www.townofware.com/government/boards_and_committees/housing_authority.php [39460/39460] -> "../data/townSites/Ware/www.townofware.com/government/boards_and_committees/housing_authority.php" [1]
+2017-01-02 12:12:52 URL:http://www.townofware.com/government/boards_and_committees/master_plan_steering_committee.php [36871/36871] -> "../data/townSites/Ware/www.townofware.com/government/boards_and_committees/master_plan_steering_committee.php" [1]
+2017-01-02 12:12:53 URL:http://www.townofware.com/government/boards_and_committees/parks_and_recreation_commission.php [36561/36561] -> "../data/townSites/Ware/www.townofware.com/government/boards_and_committees/parks_and_recreation_commission.php" [1]
+2017-01-02 12:12:54 URL:http://www.townofware.com/government/municipal_finance/links_to_state_websites.php [36819/36819] -> "../data/townSites/Ware/www.townofware.com/government/municipal_finance/links_to_state_websites.php" [1]
+2017-01-02 12:12:55 URL:http://www.townofware.com/government/municipal_finance/municipal_lien_certificate_requests.php [35720/35720] -> "../data/townSites/Ware/www.townofware.com/government/municipal_finance/municipal_lien_certificate_requests.php" [1]
+2017-01-02 12:12:56 URL:http://www.townofware.com/government/municipal_finance/operating_budgets.php [36899/36899] -> "../data/townSites/Ware/www.townofware.com/government/municipal_finance/operating_budgets.php" [1]
+2017-01-02 12:12:57 URL:http://www.townofware.com/government/municipal_finance/procedures_to_collect_unpaid_real_estate_bills.php [38005/38005] -> "../data/townSites/Ware/www.townofware.com/government/municipal_finance/procedures_to_collect_unpaid_real_estate_bills.php" [1]
+2017-01-02 12:12:58 URL:http://www.townofware.com/government/municipal_finance/tax_bill_information.php [37454/37454] -> "../data/townSites/Ware/www.townofware.com/government/municipal_finance/tax_bill_information.php" [1]
+2017-01-02 12:12:59 URL:http://www.townofware.com/government/municipal_finance/town_financial_statements.php [35531/35531] -> "../data/townSites/Ware/www.townofware.com/government/municipal_finance/town_financial_statements.php" [1]
+2017-01-02 12:12:59 URL: http://www.townofware.com/document_center/Clerk/Dog_Licenses.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:12:59 URL: http://www.townofware.com/document_center/Clerk/Ware_Town_Charter_2007_and_Amendments.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:13:00 URL: http://www.townofware.com/document_center/Clerk/AnnualTownReport15.pdf 200 OK
+unlink: No such file or directory
+http://www.townofware.com/Pages/WareMA_Clerk/Charter.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 12:13:01 URL:http://www.townofware.com/government/town_manager/town_manager_reports.php [47086/47086] -> "../data/townSites/Ware/www.townofware.com/government/town_manager/town_manager_reports.php" [1]
+2017-01-02 12:13:02 URL:http://www.townofware.com/government/town_manager/capital_improvement_plan.php [34288/34288] -> "../data/townSites/Ware/www.townofware.com/government/town_manager/capital_improvement_plan.php" [1]
+2017-01-02 12:13:02 URL: http://www.townofware.com/document_center/Manager/FY2013-FY2020%20Capital%20Plan%20for%20Ware%20MA.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:13:03 URL: http://www.townofware.com/document_center/BoardSelectment/safedriving.pdf 200 OK
+unlink: No such file or directory
+http://www.townofware.com/Icons/0:
+Remote file does not exist -- broken link!!!
+2017-01-02 12:13:04 URL:http://www.townofware.com/departments/assessors/chapterland.php [35196/35196] -> "../data/townSites/Ware/www.townofware.com/departments/assessors/chapterland.php" [1]
+2017-01-02 12:13:05 URL:http://www.townofware.com/departments/assessors/downloadable_forms.php [81385/81385] -> "../data/townSites/Ware/www.townofware.com/departments/assessors/downloadable_forms.php" [1]
+2017-01-02 12:13:06 URL:http://www.townofware.com/departments/assessors/duties_and_responsibilities.php [39414/39414] -> "../data/townSites/Ware/www.townofware.com/departments/assessors/duties_and_responsibilities.php" [1]
+2017-01-02 12:13:07 URL:http://www.townofware.com/departments/assessors/exemptions.php [74752/74752] -> "../data/townSites/Ware/www.townofware.com/departments/assessors/exemptions.php" [1]
+2017-01-02 12:13:08 URL:http://www.townofware.com/departments/assessors/frequently_asked_questions.php [40025/40025] -> "../data/townSites/Ware/www.townofware.com/departments/assessors/frequently_asked_questions.php" [1]
+2017-01-02 12:13:08 URL:http://www.townofware.com/departments/assessors/glossary_of_terms.php [50081/50081] -> "../data/townSites/Ware/www.townofware.com/departments/assessors/glossary_of_terms.php" [1]
+2017-01-02 12:13:09 URL:http://www.townofware.com/departments/assessors/inspection_information.php [35268/35268] -> "../data/townSites/Ware/www.townofware.com/departments/assessors/inspection_information.php" [1]
+2017-01-02 12:13:10 URL:http://www.townofware.com/departments/assessors/motor_vehicle_computation.php [37083/37083] -> "../data/townSites/Ware/www.townofware.com/departments/assessors/motor_vehicle_computation.php" [1]
+2017-01-02 12:13:11 URL:http://www.townofware.com/departments/assessors/real_estate_taxe_rate_breakdown.php [40894/40894] -> "../data/townSites/Ware/www.townofware.com/departments/assessors/real_estate_taxe_rate_breakdown.php" [1]
+2017-01-02 12:13:12 URL:http://www.townofware.com/departments/assessors/useful_links.php [36861/36861] -> "../data/townSites/Ware/www.townofware.com/departments/assessors/useful_links.php" [1]
+2017-01-02 12:13:13 URL:http://www.townofware.com/departments/building_inspector/applications_forms.php [149776/149776] -> "../data/townSites/Ware/www.townofware.com/departments/building_inspector/applications_forms.php" [1]
+2017-01-02 12:13:14 URL:http://www.townofware.com/departments/building_inspector/electrical_inspector.php [35845/35845] -> "../data/townSites/Ware/www.townofware.com/departments/building_inspector/electrical_inspector.php" [1]
+2017-01-02 12:13:14 URL:http://www.townofware.com/departments/building_inspector/frequently_asked_questions.php [39849/39849] -> "../data/townSites/Ware/www.townofware.com/departments/building_inspector/frequently_asked_questions.php" [1]
+2017-01-02 12:13:15 URL:http://www.townofware.com/departments/building_inspector/gas_inspector.php [34745/34745] -> "../data/townSites/Ware/www.townofware.com/departments/building_inspector/gas_inspector.php" [1]
+2017-01-02 12:13:16 URL:http://www.townofware.com/departments/building_inspector/open_building_permits.php [35331/35331] -> "../data/townSites/Ware/www.townofware.com/departments/building_inspector/open_building_permits.php" [1]
+2017-01-02 12:13:16 URL: http://www.townofware.com/document_center/Building/GAS_FITTING_FEES.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:13:17 URL: http://www.townofware.com/document_center/Building/BUILDING_FEES.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:13:17 URL: http://www.townofware.com/document_center/Building/ELECTRICAL_FEES.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:13:17 URL: http://www.townofware.com/document_center/Building/IECC_Workshop_for_Contractors_06_24_14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:13:18 URL: http://www.townofware.com/document_center/Building/FILE_A_COMPLAINT.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:13:18 URL: http://www.townofware.com/document_center/Building/NEW_CONSTRUCTION_FLOW_CHART.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:13:19 URL:http://www.townofware.com/departments/community_development/community_development_planning.php [36858/36858] -> "../data/townSites/Ware/www.townofware.com/departments/community_development/community_development_planning.php" [1]
+2017-01-02 12:13:20 URL: http://www.townofware.com/document_center/CommunityDevelopment/Housing_Rehabilitation_PRE_APPLICATION_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:13:20 URL:http://www.townofware.com/departments/planning_department/open_space_and_recreation_plan.php [78576/78576] -> "../data/townSites/Ware/www.townofware.com/departments/planning_department/open_space_and_recreation_plan.php" [1]
+2017-01-02 12:13:21 URL:http://www.townofware.com/departments/community_development/parp_report.php [39356/39356] -> "../data/townSites/Ware/www.townofware.com/departments/community_development/parp_report.php" [1]
+2017-01-02 12:13:22 URL:http://www.townofware.com/departments/planning_department/visioning_branding_and_wayfinding_project.php [40040/40040] -> "../data/townSites/Ware/www.townofware.com/departments/planning_department/visioning_branding_and_wayfinding_project.php" [1]
+2017-01-02 12:13:22 URL: http://www.townofware.com/document_center/CommunityDevelopment/Funding_since_1982.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:13:23 URL:http://www.townofware.com/departments/community_development/meeting_minutes.php [82660/82660] -> "../data/townSites/Ware/www.townofware.com/departments/community_development/meeting_minutes.php" [1]
+2017-01-02 12:13:23 URL: http://www.townofware.com/document_center/CommunityDevelopment/CDS.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:13:24 URL: http://www.townofware.com/document_center/ElectricalInspector/Application_for_Electrical_Work.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:13:24 URL: http://www.townofware.com/document_center/ElectricalInspector/Fee_Schedule_ELECTRICALFEES.pdf 200 OK
+unlink: No such file or directory
+http://www.townofware.com/Pages/WareMA_EmManage/shelter:
+Remote file does not exist -- broken link!!!
+2017-01-02 12:13:25 URL: http://www.townofware.com/Subscription%20Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:13:25 URL:http://www.townofware.com/departments/fire_department/annual_and_monthy_reports.php [56335/56335] -> "../data/townSites/Ware/www.townofware.com/departments/fire_department/annual_and_monthy_reports.php" [1]
+2017-01-02 12:13:26 URL:http://www.townofware.com/departments/fire_department/burning_information_and_permit.php [69325/69325] -> "../data/townSites/Ware/www.townofware.com/departments/fire_department/burning_information_and_permit.php" [1]
+2017-01-02 12:13:27 URL: http://www.townofware.com/document_center/Fire/Fees.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:13:27 URL:http://www.townofware.com/departments/fire_department/fire_apparatus.php [36591/36591] -> "../data/townSites/Ware/www.townofware.com/departments/fire_department/fire_apparatus.php" [1]
+2017-01-02 12:13:28 URL:http://www.townofware.com/departments/fire_department/fire_photo_gallery.php [43059/43059] -> "../data/townSites/Ware/www.townofware.com/departments/fire_department/fire_photo_gallery.php" [1]
+2017-01-02 12:13:28 URL: http://www.townofware.com/document_center/Fire/Carbon_Monoxide_Information.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:13:29 URL: http://www.townofware.com/document_center/Fire/Safe_Haven_Act_of_2004_FAQ.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:13:30 URL:http://www.townofware.com/departments/fire_department/standard_operating_guidelines.php [34867/34867] -> "../data/townSites/Ware/www.townofware.com/departments/fire_department/standard_operating_guidelines.php" [1]
+2017-01-02 12:13:30 URL: http://www.townofware.com/document_center/Fire/9_11.ppt 200 OK
+unlink: No such file or directory
+2017-01-02 12:13:31 URL: http://www.townofware.com/document_center/Gas/Gas_Fitting_Fees.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:13:32 URL:http://www.townofware.com/departments/health_department/agendas_and_minutes.php [137531/137531] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/agendas_and_minutes.php" [1]
+2017-01-02 12:13:33 URL:http://www.townofware.com/departments/health_department/duties_and_annual_reports.php [91320/91320] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/duties_and_annual_reports.php" [1]
+2017-01-02 12:13:33 URL:http://www.townofware.com/departments/health_department/eee_virus_info.php [36581/36581] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/eee_virus_info.php" [1]
+2017-01-02 12:13:34 URL:http://www.townofware.com/departments/health_department/emergency_preparedness.php [40652/40652] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/emergency_preparedness.php" [1]
+2017-01-02 12:13:35 URL:http://www.townofware.com/departments/health_department/energy_assistance.php [36496/36496] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/energy_assistance.php" [1]
+2017-01-02 12:13:36 URL:http://www.townofware.com/departments/health_department/environmental_health.php [49573/49573] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/environmental_health.php" [1]
+2017-01-02 12:13:37 URL:http://www.townofware.com/departments/health_department/fees.php [40641/40641] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/fees.php" [1]
+2017-01-02 12:13:38 URL:http://www.townofware.com/departments/health_department/file_a_complaint.php [41229/41229] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/file_a_complaint.php" [1]
+2017-01-02 12:13:39 URL:http://www.townofware.com/departments/health_department/forms_and_applications.php [44120/44120] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/forms_and_applications.php" [1]
+2017-01-02 12:13:40 URL:http://www.townofware.com/departments/health_department/frequently_asked_questions.php [63866/63866] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/frequently_asked_questions.php" [1]
+2017-01-02 12:13:40 URL:http://www.townofware.com/departments/health_department/h1n1_influenza_clinic.php [36115/36115] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/h1n1_influenza_clinic.php" [1]
+2017-01-02 12:13:41 URL:http://www.townofware.com/departments/health_department/helpful_links.php [44786/44786] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/helpful_links.php" [1]
+2017-01-02 12:13:42 URL:http://www.townofware.com/departments/health_department/plumbing.php [42570/42570] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/plumbing.php" [1]
+2017-01-02 12:13:43 URL:http://www.townofware.com/departments/health_department/pubic_health_nursing.php [38781/38781] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/pubic_health_nursing.php" [1]
+2017-01-02 12:13:44 URL:http://www.townofware.com/departments/health_department/regulations.php [44747/44747] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/regulations.php" [1]
+2017-01-02 12:13:44 URL:http://www.townofware.com/departments/health_department/heroin_and_opioid_resources.php [186166/186166] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/heroin_and_opioid_resources.php" [1]
+2017-01-02 12:13:45 URL:http://www.townofware.com/departments/h_-_z_departments/human_resources/employee_benefits/index.php [33351/33351] -> "../data/townSites/Ware/www.townofware.com/departments/h_-_z_departments/human_resources/employee_benefits/index.php" [1]
+2017-01-02 12:13:46 URL:http://www.townofware.com/departments/h_-_z_departments/human_resources/employee_benefits/full-time_employee_benefits.php [36029/36029] -> "../data/townSites/Ware/www.townofware.com/departments/h_-_z_departments/human_resources/employee_benefits/full-time_employee_benefits.php" [1]
+2017-01-02 12:13:47 URL:http://www.townofware.com/departments/h_-_z_departments/human_resources/employee_benefits/part-time_employee_benefits.php [35170/35170] -> "../data/townSites/Ware/www.townofware.com/departments/h_-_z_departments/human_resources/employee_benefits/part-time_employee_benefits.php" [1]
+2017-01-02 12:13:47 URL: http://www.townofware.com/Town_Anti_discriminatory_harassment_policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:13:48 URL:http://www.townofware.com/departments/h_-_z_departments/human_resources/wellness_information.php [35440/35440] -> "../data/townSites/Ware/www.townofware.com/departments/h_-_z_departments/human_resources/wellness_information.php" [1]
+2017-01-02 12:13:49 URL:http://www.townofware.com/departments/parks_and_recreation/grenville_park.php [39780/39780] -> "../data/townSites/Ware/www.townofware.com/departments/parks_and_recreation/grenville_park.php" [1]
+2017-01-02 12:13:50 URL:http://www.townofware.com/departments/parks_and_recreation/memorial_field.php [36694/36694] -> "../data/townSites/Ware/www.townofware.com/departments/parks_and_recreation/memorial_field.php" [1]
+2017-01-02 12:13:51 URL:http://www.townofware.com/departments/parks_and_recreation/reed_municipal_pool.php [34265/34265] -> "../data/townSites/Ware/www.townofware.com/departments/parks_and_recreation/reed_municipal_pool.php" [1]
+2017-01-02 12:13:51 URL:http://www.townofware.com/departments/parks_and_recreation/veterans_park.php [35604/35604] -> "../data/townSites/Ware/www.townofware.com/departments/parks_and_recreation/veterans_park.php" [1]
+2017-01-02 12:13:52 URL: http://www.townofware.com/document_center/BoardSelectment/Registration%20Package%20-%20Ware%20Baseball%202-2-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:13:52 URL: http://www.townofware.com/Ware%20Park%20Commission%20Field%20Usage%20Request%20Requirements.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:13:53 URL:http://www.townofware.com/departments/planning_department/application_forms.php [77102/77102] -> "../data/townSites/Ware/www.townofware.com/departments/planning_department/application_forms.php" [1]
+2017-01-02 12:13:53 URL: http://www.townofware.com/document_center/Planning/Zoning_Bylaw.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:13:54 URL:http://www.townofware.com/departments/planning_department/master_plan.php [39857/39857] -> "../data/townSites/Ware/www.townofware.com/departments/planning_department/master_plan.php" [1]
+2017-01-02 12:13:54 URL: http://www.townofware.com/document_center/Planning/Subdivision_Regs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:13:55 URL:http://www.townofware.com/departments/planning_department/planning_board_minutes.php [161998/161998] -> "../data/townSites/Ware/www.townofware.com/departments/planning_department/planning_board_minutes.php" [1]
+2017-01-02 12:13:56 URL:http://www.townofware.com/departments/planning_department/zoning-board-minutes.php [74599/74599] -> "../data/townSites/Ware/www.townofware.com/departments/planning_department/zoning-board-minutes.php" [1]
+2017-01-02 12:13:56 URL:http://www.townofware.com/departments/planning_department/chapter_40b.php [38022/38022] -> "../data/townSites/Ware/www.townofware.com/departments/planning_department/chapter_40b.php" [1]
+2017-01-02 12:13:57 URL:http://www.townofware.com/departments/planning_department/zoning_brochures.php [86498/86498] -> "../data/townSites/Ware/www.townofware.com/departments/planning_department/zoning_brochures.php" [1]
+2017-01-02 12:13:58 URL: http://www.townofware.com/document_center/Planning/Master%20Plan/Ware%20Master%20Plan%202016%20-%206-9-16%20s.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:13:58 URL: http://www.townofware.com/document_center/Planning/2016%20PB%20meeting%20dates%20and%20deadlines.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:13:58 URL: http://www.townofware.com/document_center/Planning/vacancy_information_ZBA_vacancy_notice.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:13:59 URL: http://www.townofware.com/document_center/Planning/ZBA%202016%20meeting%20dates%20and%20deadlines.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:13:59 URL: http://www.townofware.com/document_center/Planning/local_zoning_bylaw.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:14:00 URL:http://www.townofware.com/departments/police_department/animal_control.php [46848/46848] -> "../data/townSites/Ware/www.townofware.com/departments/police_department/animal_control.php" [1]
+2017-01-02 12:14:01 URL:http://www.townofware.com/departments/police_department/community_policing_services.php [35105/35105] -> "../data/townSites/Ware/www.townofware.com/departments/police_department/community_policing_services.php" [1]
+2017-01-02 12:14:02 URL:http://www.townofware.com/departments/police_department/detective_bureau.php [35402/35402] -> "../data/townSites/Ware/www.townofware.com/departments/police_department/detective_bureau.php" [1]
+2017-01-02 12:14:02 URL:http://www.townofware.com/departments/police_department/domestic_violence.php [36210/36210] -> "../data/townSites/Ware/www.townofware.com/departments/police_department/domestic_violence.php" [1]
+2017-01-02 12:14:03 URL:http://www.townofware.com/departments/police_department/mass_firearms_license_information.php [38154/38154] -> "../data/townSites/Ware/www.townofware.com/departments/police_department/mass_firearms_license_information.php" [1]
+2017-01-02 12:14:04 URL:http://www.townofware.com/departments/police_department/our_officers.php [40875/40875] -> "../data/townSites/Ware/www.townofware.com/departments/police_department/our_officers.php" [1]
+2017-01-02 12:14:05 URL:http://www.townofware.com/departments/police_department/arrests.php [34836/34836] -> "../data/townSites/Ware/www.townofware.com/departments/police_department/arrests.php" [1]
+2017-01-02 12:14:06 URL:http://www.townofware.com/departments/public_works/did_you_know.php [35643/35643] -> "../data/townSites/Ware/www.townofware.com/departments/public_works/did_you_know.php" [1]
+2017-01-02 12:14:06 URL:http://www.townofware.com/departments/public_works/notices.php [47178/47178] -> "../data/townSites/Ware/www.townofware.com/departments/public_works/notices.php" [1]
+2017-01-02 12:14:07 URL:http://www.townofware.com/departments/public_works/cemetery_information.php [35238/35238] -> "../data/townSites/Ware/www.townofware.com/departments/public_works/cemetery_information.php" [1]
+2017-01-02 12:14:08 URL:http://www.townofware.com/departments/public_works/downloadable_forms.php [60884/60884] -> "../data/townSites/Ware/www.townofware.com/departments/public_works/downloadable_forms.php" [1]
+2017-01-02 12:14:09 URL:http://www.townofware.com/departments/public_works/water_and_sewer_rate_schedule.php [35444/35444] -> "../data/townSites/Ware/www.townofware.com/departments/public_works/water_and_sewer_rate_schedule.php" [1]
+2017-01-02 12:14:09 URL: http://www.townofware.com/document_center/PublicWorks/Water%20Master%20Plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:14:09 URL: http://www.townofware.com/document_center/PublicWorks/FinalMP.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:14:09 URL: http://www.townofware.com/document_center/PublicWorks/Water_Zone_Index_Map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:14:10 URL: http://www.townofware.com/TownWareWaterH.indd.p1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:14:11 URL:http://www.townofware.com/departments/public_works/photo_gallery.php [36269/36269] -> "../data/townSites/Ware/www.townofware.com/departments/public_works/photo_gallery.php" [1]
+2017-01-02 12:14:11 URL: http://www.townofware.com/document_center/PublicWorks/faq_ALB_Jan_05.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:14:12 URL: http://www.townofware.com/document_center/PublicWorks/ALB_Look_alikes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:14:12 URL: http://www.townofware.com/document_center/PublicWorks/ALB___identifying_marks___environment.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:14:12 URL: http://www.townofware.com/document_center/PublicWorks/mangfactsheet.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:14:13 URL: http://www.townofware.com/document_center/PublicWorks/Manganese_Letter_to_Residents.pdf 200 OK
+unlink: No such file or directory
+http://www.townofware.com/Pages/WareMA_WebDocs/healthmore:
+Remote file does not exist -- broken link!!!
+2017-01-02 12:14:14 URL:http://www.townofware.com/visitors/about_ware/a_brief_history.php [36652/36652] -> "../data/townSites/Ware/www.townofware.com/visitors/about_ware/a_brief_history.php" [1]
+2017-01-02 12:14:15 URL:http://www.townofware.com/visitors/about_ware/demographics.php [34531/34531] -> "../data/townSites/Ware/www.townofware.com/visitors/about_ware/demographics.php" [1]
+2017-01-02 12:14:15 URL: http://www.townofware.com/document_center/Directions_to_Town_Hall.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:14:16 URL: http://www.townofware.com/document_center/Our_National_Phrase.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:14:16 URL: http://www.townofware.com/document_center/Town_of_Worthwhile_1913.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:14:16 URL: http://www.townofware.com/document_center/faq_ALB_Jan_05.pdf 200 OK
+unlink: No such file or directory
+http://www.townofware.com/Pages/WareMA_WebDocs/About:
+Remote file does not exist -- broken link!!!
+2017-01-02 12:14:17 URL: http://www.townofware.com/document_center/BoardSelectment/Directions%20to%20Town%20Hall.pdf 200 OK
+unlink: No such file or directory
+http://www.townofware.com/Pages/WareMA_BOH/emerprep:
+Remote file does not exist -- broken link!!!
+http://www.townofware.com/Pages/WareMA_webdocs/dog_licenses.pdf:
+Remote file does not exist -- broken link!!!
+http://www.townofware.com/Pages/WareMA_Police/DV:
+Remote file does not exist -- broken link!!!
+2017-01-02 12:14:19 URL:http://www.townofware.com/how_do_i_(faq)/where_do_i_go_for/employment.php [34098/34098] -> "../data/townSites/Ware/www.townofware.com/how_do_i_(faq)/where_do_i_go_for/employment.php" [1]
+2017-01-02 12:14:19 URL:http://www.townofware.com/government/boards_and_committees/upcoming_meeting.php [35625/35625] -> "../data/townSites/Ware/www.townofware.com/government/boards_and_committees/upcoming_meeting.php" [1]
+2017-01-02 12:14:20 URL:http://www.townofware.com/how_do_i_(faq)/where_do_i_go_for/municipal_lien_certificates.php [34454/34454] -> "../data/townSites/Ware/www.townofware.com/how_do_i_(faq)/where_do_i_go_for/municipal_lien_certificates.php" [1]
+http://www.townofware.com/Pages/WareMA_ZBA/2012%20Zoning%20Bylaw%20adopted%20at%20ATM.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 12:14:21 URL:http://www.townofware.com/government/boards_and_committees/meeting_minutes.php [177603/177603] -> "../data/townSites/Ware/www.townofware.com/government/boards_and_committees/meeting_minutes.php" [1]
+2017-01-02 12:14:22 URL:http://www.townofware.com/government/boards_and_committees/meeting_minutesHistorical.php [94617/94617] -> "../data/townSites/Ware/www.townofware.com/government/boards_and_committees/meeting_minutesHistorical.php" [1]
+2017-01-02 12:14:23 URL:http://www.townofware.com/departments/planning_department/zoning_board_minutes.php [51803/51803] -> "../data/townSites/Ware/www.townofware.com/departments/planning_department/zoning_board_minutes.php" [1]
+2017-01-02 12:14:23 URL: http://www.townofware.com/Snow%20and%20Ice%20Removal%20Bylaws%20.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:14:24 URL: http://www.townofware.com/document_center/BoardSelectment/SlumBlight%20Area%20Designation%20Fact%20Sheet.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:14:24 URL: http://www.townofware.com/document_center/summarybrief.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:14:24 URL: http://www.townofware.com/document_center/STM%201116packet.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:14:25 URL: http://www.townofware.com/Bank%20St.%20.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:14:25 URL: http://www.townofware.com/State%20Election%20Instructions%20for%2011-8.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:14:26 URL:http://www.townofware.com/news_detail_T2_R125.php [29112/29112] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R125.php" [1]
+2017-01-02 12:14:27 URL:http://www.townofware.com/news_detail_T2_R124.php [30361/30361] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R124.php" [1]
+2017-01-02 12:14:27 URL:http://www.townofware.com/news_detail_T2_R122.php [31088/31088] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R122.php" [1]
+2017-01-02 12:14:28 URL:http://www.townofware.com/news_detail_T2_R121.php [30060/30060] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R121.php" [1]
+2017-01-02 12:14:29 URL:http://www.townofware.com/news_detail_T2_R118.php [29024/29024] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R118.php" [1]
+2017-01-02 12:14:30 URL:http://www.townofware.com/news_detail_T2_R116.php [29088/29088] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R116.php" [1]
+2017-01-02 12:14:30 URL:http://www.townofware.com/news_detail_T2_R119.php [30749/30749] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R119.php" [1]
+2017-01-02 12:14:31 URL:http://www.townofware.com/news_detail_T2_R115.php [29729/29729] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R115.php" [1]
+2017-01-02 12:14:31 URL: http://www.townofware.com/Ware%20DPW-2016%20Water%20Taste%20Test%20(2).JPG 200 OK
+unlink: No such file or directory
+2017-01-02 12:14:32 URL:http://www.townofware.com/news_detail_T2_R114.php [29099/29099] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R114.php" [1]
+2017-01-02 12:14:33 URL:http://www.townofware.com/news_detail_T2_R113.php [28992/28992] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R113.php" [1]
+2017-01-02 12:14:33 URL:http://www.townofware.com/news_detail_T2_R103.php [29215/29215] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R103.php" [1]
+2017-01-02 12:14:34 URL:http://www.townofware.com/news_detail_T2_R109.php [28885/28885] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R109.php" [1]
+2017-01-02 12:14:35 URL:http://www.townofware.com/news_detail_T2_R92.php [31763/31763] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R92.php" [1]
+2017-01-02 12:14:36 URL:http://www.townofware.com/news_detail_T2_R94.php [29327/29327] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R94.php" [1]
+2017-01-02 12:14:36 URL:http://www.townofware.com/news_detail_T2_R98.php [28810/28810] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R98.php" [1]
+2017-01-02 12:14:37 URL:http://www.townofware.com/news_detail_T2_R96.php [31229/31229] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R96.php" [1]
+2017-01-02 12:14:38 URL:http://www.townofware.com/news_detail_T2_R95.php [29515/29515] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R95.php" [1]
+2017-01-02 12:14:39 URL:http://www.townofware.com/news_detail_T2_R97.php [29206/29206] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R97.php" [1]
+2017-01-02 12:14:40 URL:http://www.townofware.com/news_detail_T2_R91.php [29187/29187] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R91.php" [1]
+2017-01-02 12:14:41 URL:http://www.townofware.com/news_detail_T2_R93.php [28887/28887] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R93.php" [1]
+2017-01-02 12:14:41 URL:http://www.townofware.com/news_detail_T2_R90.php [29018/29018] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R90.php" [1]
+2017-01-02 12:14:42 URL:http://www.townofware.com/news_detail_T2_R88.php [28773/28773] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R88.php" [1]
+2017-01-02 12:14:43 URL:http://www.townofware.com/news_detail_T2_R86.php [28944/28944] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R86.php" [1]
+2017-01-02 12:14:44 URL:http://www.townofware.com/news_detail_T2_R85.php [29058/29058] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R85.php" [1]
+2017-01-02 12:14:45 URL:http://www.townofware.com/news_detail_T2_R83.php [29085/29085] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R83.php" [1]
+2017-01-02 12:14:45 URL:http://www.townofware.com/news_detail_T2_R89.php [28981/28981] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R89.php" [1]
+2017-01-02 12:14:46 URL:http://www.townofware.com/news_detail_T2_R31.php [30432/30432] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R31.php" [1]
+2017-01-02 12:14:47 URL:http://www.townofware.com/news_detail_T2_R69.php [29158/29158] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R69.php" [1]
+2017-01-02 12:14:48 URL:http://www.townofware.com/news_detail_T2_R57.php [28964/28964] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R57.php" [1]
+2017-01-02 12:14:49 URL:http://www.townofware.com/news_detail_T2_R49.php [29549/29549] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R49.php" [1]
+2017-01-02 12:14:49 URL: http://www.townofware.com/GG_public_educ_pamphlet.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:14:49 URL: http://www.townofware.com/GG_Medical_STA_Agreement.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:14:50 URL:http://www.townofware.com/news_detail_T2_R51.php [29131/29131] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R51.php" [1]
+2017-01-02 12:14:51 URL:http://www.townofware.com/news_detail_T2_R45.php [32630/32630] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R45.php" [1]
+2017-01-02 12:14:51 URL:http://www.townofware.com/news_detail_T2_R44.php [28987/28987] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R44.php" [1]
+2017-01-02 12:14:52 URL:http://www.townofware.com/news_detail_T2_R43.php [29262/29262] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R43.php" [1]
+2017-01-02 12:14:53 URL: http://www.townofware.com/IMG_18871.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 12:14:54 URL:http://www.townofware.com/news_detail_T2_R39.php [29513/29513] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R39.php" [1]
+2017-01-02 12:14:54 URL:http://www.townofware.com/news_detail_T2_R36.php [28792/28792] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R36.php" [1]
+2017-01-02 12:14:56 URL:http://www.townofware.com/news_detail_T2_R12.php [29227/29227] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R12.php" [1]
+2017-01-02 12:14:56 URL:http://www.townofware.com/news_detail_T2_R13.php [29720/29720] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R13.php" [1]
+2017-01-02 12:14:57 URL:http://www.townofware.com/news_detail_T2_R14.php [29215/29215] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R14.php" [1]
+http://www.townofware.com/Pages/WareMA_News/I05156D3C:
+Remote file does not exist -- broken link!!!
+2017-01-02 12:14:58 URL:http://www.townofware.com/news_detail_T2_R15.php [31461/31461] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R15.php" [1]
+2017-01-02 12:14:59 URL:http://www.townofware.com/news_detail_T2_R16.php [29430/29430] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R16.php" [1]
+2017-01-02 12:14:59 URL: http://www.townofware.com/document_center/Site_Suitability_Appl_Complete_May_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:00 URL:http://www.townofware.com/news_detail_T2_R17.php [29176/29176] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R17.php" [1]
+2017-01-02 12:15:01 URL: http://www.townofware.com/document_center/RaceTrackltr051915.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:01 URL:http://www.townofware.com/news_detail_T2_R18.php [29837/29837] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R18.php" [1]
+2017-01-02 12:15:02 URL:http://www.townofware.com/news_detail_T2_R21.php [29187/29187] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R21.php" [1]
+2017-01-02 12:15:03 URL: http://www.townofware.com/document_center/Notice_of_Tax_Taking__5_29.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:04 URL:http://www.townofware.com/news_detail_T2_R22.php [29358/29358] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R22.php" [1]
+http://www.townofware.com/Pages/WareMA_News/I050D72A3:
+Remote file does not exist -- broken link!!!
+2017-01-02 12:15:05 URL:http://www.townofware.com/news_detail_T2_R23.php [29235/29235] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R23.php" [1]
+http://www.townofware.com/Pages/WareMA_News/I050D6C16:
+Remote file does not exist -- broken link!!!
+2017-01-02 12:15:07 URL:http://www.townofware.com/news_detail_T2_R24.php [29416/29416] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R24.php" [1]
+2017-01-02 12:15:07 URL: http://www.townofware.com/document_center/Notice_to_Ware_Residents_Regarding_Water_Use_Restrictions.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:08 URL:http://www.townofware.com/news_detail_T2_R25.php [29103/29103] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R25.php" [1]
+http://www.townofware.com/Pages/WareMA_News/I050A22B0:
+Remote file does not exist -- broken link!!!
+2017-01-02 12:15:09 URL:http://www.townofware.com/news_detail_T2_R26.php [31958/31958] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R26.php" [1]
+2017-01-02 12:15:10 URL: http://www.townofware.com/document_center/yard_waste_notice___5_9_and_17_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:11 URL:http://www.townofware.com/news_detail_T2_R27.php [29195/29195] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R27.php" [1]
+2017-01-02 12:15:11 URL: http://www.townofware.com/document_center/CDA_vacancy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:12 URL:http://www.townofware.com/news_detail_T2_R28.php [32593/32593] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R28.php" [1]
+2017-01-02 12:15:12 URL:http://www.townofware.com/news_detail_T2_R29.php [29288/29288] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R29.php" [1]
+2017-01-02 12:15:13 URL:http://www.townofware.com/news_detail_T2_R30.php [29106/29106] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R30.php" [1]
+2017-01-02 12:15:14 URL:http://www.townofware.com/news_detail_T2_R32.php [29511/29511] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R32.php" [1]
+2017-01-02 12:15:14 URL:http://www.townofware.com/news_detail_T2_R33.php [29270/29270] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R33.php" [1]
+2017-01-02 12:15:15 URL: http://www.townofware.com/document_center/1News/tree_public_hearing_2_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:15 URL:http://www.townofware.com/news_detail_T2_R67.php [28745/28745] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R67.php" [1]
+2017-01-02 12:15:16 URL:http://www.townofware.com/news_detail_T2_R74.php [28696/28696] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R74.php" [1]
+2017-01-02 12:15:17 URL:http://www.townofware.com/news_detail_T2_R99.php [28759/28759] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R99.php" [1]
+2017-01-02 12:15:18 URL:http://www.townofware.com/news_detail_T2_R104.php [29774/29774] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R104.php" [1]
+2017-01-02 12:15:19 URL:http://www.townofware.com/news_detail_T2_R106.php [28893/28893] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R106.php" [1]
+2017-01-02 12:15:19 URL:http://www.townofware.com/news_detail_T2_R108.php [28720/28720] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R108.php" [1]
+2017-01-02 12:15:20 URL:http://www.townofware.com/news_detail_T2_R126.php [29109/29109] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R126.php" [1]
+2017-01-02 12:15:21 URL:http://www.townofware.com/news_detail_T2_R66.php [28904/28904] -> "../data/townSites/Ware/www.townofware.com/news_detail_T2_R66.php" [1]
+2017-01-02 12:15:21 URL: http://www.townofware.com/document_center/BoardSelectment/part%20time%20department%20assistant-DPW.doc 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:22 URL: http://www.townofware.com/document_center/HumanResources/Ware_Employment_Application.doc 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:22 URL: http://www.townofware.com/document_center/Manager/Ware%20PlannerCDDirectorJobDescrip%20082416.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:22 URL: http://www.townofware.com/document_center/BoardSelectment/Ware%20Quaboag%20Hills%20DFC%20Project%20Coordinator%20Job%20Posting%20REVISED%2010%205%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:23 URL:http://www.townofware.com/government/board_of_selectmen/01-30-07a.php [33460/33460] -> "../data/townSites/Ware/www.townofware.com/government/board_of_selectmen/01-30-07a.php" [1]
+2017-01-02 12:15:24 URL: http://www.townofware.com/document_center/BoardSelectment/BOSApril142015Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:24 URL: http://www.townofware.com/document_center/BoardSelectment/BOSApril282015Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:24 URL: http://www.townofware.com/document_center/BoardSelectment/BOSAug182015Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:25 URL: http://www.townofware.com/document_center/BoardSelectment/BOSAug42015Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:25 URL: http://www.townofware.com/document_center/BoardSelectment/BOSDec12015Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:25 URL: http://www.townofware.com/document_center/BoardSelectment/BOSDec152015Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:26 URL: http://www.townofware.com/document_center/BoardSelectment/BOSFeb172015Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:26 URL: http://www.townofware.com/document_center/BoardSelectment/BOSFeb32015Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:26 URL: http://www.townofware.com/document_center/BoardSelectment/BOSJan202015Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:27 URL: http://www.townofware.com/document_center/BoardSelectment/BOSJan62015Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:27 URL: http://www.townofware.com/document_center/BoardSelectment/BOSJuly142015Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:27 URL: http://www.townofware.com/document_center/BoardSelectment/BOSJuly212015Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:28 URL: http://www.townofware.com/document_center/BoardSelectment/BOSJune232015Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:28 URL: http://www.townofware.com/document_center/BoardSelectment/BOSJune92015Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:29 URL: http://www.townofware.com/document_center/BoardSelectment/BOSMar172015Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:29 URL: http://www.townofware.com/document_center/BoardSelectment/BOSMar32015Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:29 URL: http://www.townofware.com/document_center/BoardSelectment/BOSMar312015Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:30 URL: http://www.townofware.com/document_center/BoardSelectment/BOSMay122015Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:30 URL: http://www.townofware.com/document_center/BoardSelectment/BOSMay262015Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:31 URL: http://www.townofware.com/document_center/BoardSelectment/BOSNov172015Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:31 URL: http://www.townofware.com/document_center/BoardSelectment/BOSNov32015Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:31 URL: http://www.townofware.com/document_center/BoardSelectment/BOSOct202015Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:31 URL: http://www.townofware.com/document_center/BoardSelectment/BOSOct62015Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:32 URL: http://www.townofware.com/document_center/BoardSelectment/BOSSep222015Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:32 URL: http://www.townofware.com/document_center/BoardSelectment/BOSSep82015Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:33 URL: http://www.townofware.com/document_center/BoardSelectment/BOSApril12014Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:33 URL: http://www.townofware.com/document_center/BoardSelectment/BOSApril152014Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:33 URL: http://www.townofware.com/document_center/BoardSelectment/BOSAug192014Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:34 URL: http://www.townofware.com/document_center/BoardSelectment/BOSAug52014Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:34 URL: http://www.townofware.com/document_center/BoardSelectment/BOSDec102014Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:34 URL: http://www.townofware.com/document_center/BoardSelectment/BOSDec162014Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:35 URL: http://www.townofware.com/document_center/BoardSelectment/BOSDec22014Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:35 URL: http://www.townofware.com/document_center/BoardSelectment/BOSFeb182014Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:36 URL: http://www.townofware.com/document_center/BoardSelectment/BOSFeb252014Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:36 URL: http://www.townofware.com/document_center/BoardSelectment/BOSFeb42014Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:36 URL: http://www.townofware.com/document_center/BoardSelectment/BOSJan212014Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:37 URL: http://www.townofware.com/document_center/BoardSelectment/BOSJan282014Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:37 URL: http://www.townofware.com/document_center/BoardSelectment/BOSJan72014Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:38 URL: http://www.townofware.com/document_center/BoardSelectment/BOSJuly152014Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:38 URL: http://www.townofware.com/document_center/BoardSelectment/BOSJune172014Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:38 URL: http://www.townofware.com/document_center/BoardSelectment/BOSJune32014Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:39 URL: http://www.townofware.com/document_center/BoardSelectment/BOSMar182014Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:39 URL: http://www.townofware.com/document_center/BoardSelectment/BOSMar42014Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:40 URL: http://www.townofware.com/document_center/BoardSelectment/BOSMay202014Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:40 URL: http://www.townofware.com/document_center/BoardSelectment/BOSMay62014Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:40 URL: http://www.townofware.com/document_center/BoardSelectment/BOSNov182014Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:40 URL: http://www.townofware.com/document_center/BoardSelectment/BOSNov52014Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:41 URL: http://www.townofware.com/document_center/BoardSelectment/BOSOct212014Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:41 URL: http://www.townofware.com/document_center/BoardSelectment/BOSOct72014Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:41 URL: http://www.townofware.com/document_center/BoardSelectment/BOSSep162014Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:42 URL: http://www.townofware.com/document_center/BoardSelectment/BOSSep232014Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:42 URL: http://www.townofware.com/document_center/BoardSelectment/BOS%20April26%202016%20Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:42 URL: http://www.townofware.com/document_center/BoardSelectment/BOSApril52016Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:43 URL: http://www.townofware.com/document_center/BoardSelectment/BOSAugust232016Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:43 URL: http://www.townofware.com/document_center/BoardSelectment/BOSAugust92016Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:43 URL: http://www.townofware.com/document_center/BoardSelectment/BOSDec202016Agendaposted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:44 URL: http://www.townofware.com/document_center/BoardSelectment/BOSDec202016Agendaanddocs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:44 URL: http://www.townofware.com/document_center/BoardSelectment/BOSDecember62016Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:45 URL: http://www.townofware.com/document_center/BoardSelectment/BOSFeb162016Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:45 URL: http://www.townofware.com/document_center/BoardSelectment/BOSFeb22016Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:45 URL: http://www.townofware.com/document_center/BoardSelectment/BOSJan192016Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:46 URL: http://www.townofware.com/document_center/BoardSelectment/BOSJuly122016Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:46 URL: http://www.townofware.com/document_center/BoardSelectment/BOSJuly262016Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:46 URL: http://www.townofware.com/document_center/BoardSelectment/BOSJune212016Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:47 URL: http://www.townofware.com/document_center/BoardSelectment/BOSJune72016Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:47 URL: http://www.townofware.com/document_center/BoardSelectment/BOSMarch222016Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:47 URL: http://www.townofware.com/document_center/BoardSelectment/BOSMarch82016Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:48 URL: http://www.townofware.com/document_center/BoardSelectment/BOSMay172016Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:48 URL: http://www.townofware.com/document_center/BoardSelectment/BOSMay32016Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:48 URL: http://www.townofware.com/document_center/BoardSelectment/BOSNov12016Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:49 URL: http://www.townofware.com/document_center/BoardSelectment/BOSNov152016Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:49 URL: http://www.townofware.com/document_center/BoardSelectment/BOSNov292016Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:49 URL: http://www.townofware.com/document_center/BoardSelectment/BOSOct182016Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:50 URL: http://www.townofware.com/document_center/BoardSelectment/BOSOct42016Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:50 URL: http://www.townofware.com/document_center/BoardSelectment/BOSSept202016Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:50 URL: http://www.townofware.com/document_center/BoardSelectment/BosSept62016Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:51 URL:http://www.townofware.com/government/board_of_selectmen/12-28-2011.php [36926/36926] -> "../data/townSites/Ware/www.townofware.com/government/board_of_selectmen/12-28-2011.php" [1]
+2017-01-02 12:15:52 URL:http://www.townofware.com/government/board_of_selectmen/selectmen_minutes_march_6_2007.php [43523/43523] -> "../data/townSites/Ware/www.townofware.com/government/board_of_selectmen/selectmen_minutes_march_6_2007.php" [1]
+2017-01-02 12:15:52 URL: http://www.townofware.com/document_center/BoardSelectment/BOSNov172015Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:53 URL: http://www.townofware.com/document_center/BoardSelectment/BOSDec152015Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:53 URL: http://www.townofware.com/document_center/BoardSelectment/BOSJan62015Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:54 URL: http://www.townofware.com/document_center/BoardSelectment/BOSJan202015Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:54 URL: http://www.townofware.com/document_center/BoardSelectment/BOSFeb32015Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:54 URL: http://www.townofware.com/document_center/BoardSelectment/BOSFeb172015Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:55 URL: http://www.townofware.com/document_center/BoardSelectment/BOSMar32015Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:55 URL: http://www.townofware.com/document_center/BoardSelectment/BOSMar172015Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:56 URL: http://www.townofware.com/document_center/BoardSelectment/BOSMar312015Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:56 URL: http://www.townofware.com/document_center/BoardSelectment/BOSApril282015Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:56 URL: http://www.townofware.com/document_center/BoardSelectment/BOSMay122015Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:57 URL: http://www.townofware.com/document_center/BoardSelectment/BOSMay262015Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:57 URL: http://www.townofware.com/document_center/BoardSelectment/BOSJune92015Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:57 URL: http://www.townofware.com/document_center/BoardSelectment/BOSJune232015Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:58 URL: http://www.townofware.com/document_center/BoardSelectment/BOSJuly142015Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:58 URL: http://www.townofware.com/document_center/BoardSelectment/BOSJuly212015Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:58 URL: http://www.townofware.com/document_center/BoardSelectment/BOSAug42015Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:59 URL: http://www.townofware.com/document_center/BoardSelectment/BOSAug182015Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:59 URL: http://www.townofware.com/document_center/BoardSelectment/BOSSep82015Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:15:59 URL: http://www.townofware.com/document_center/BoardSelectment/BOSSep222015Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:00 URL: http://www.townofware.com/document_center/BoardSelectment/BOSOct62015Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:00 URL: http://www.townofware.com/document_center/BoardSelectment/BOSOct202015Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:00 URL: http://www.townofware.com/document_center/BoardSelectment/BOSNov32015Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:01 URL: http://www.townofware.com/document_center/BoardSelectment/BOSDec162014Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:01 URL: http://www.townofware.com/document_center/BoardSelectment/BOSDec102014Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:01 URL: http://www.townofware.com/document_center/BoardSelectment/BOSDec22014Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:02 URL: http://www.townofware.com/document_center/BoardMinutes/October_9_2012MEETING_MINUTES.doc 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:02 URL: http://www.townofware.com/document_center/BoardMinutes/JULY24MEETING_MINUTES.doc 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:03 URL: http://www.townofware.com/document_center/BoardSelectment/BOSOct42016Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:03 URL: http://www.townofware.com/document_center/BoardSelectment/BOS11292016Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:03 URL: http://www.townofware.com/document_center/BoardSelectment/BOSJanusry192016Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:04 URL: http://www.townofware.com/document_center/BoardSelectment/BOSFebruary22016Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:04 URL: http://www.townofware.com/document_center/BoardSelectment/BOSFebruary162016Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:05 URL: http://www.townofware.com/document_center/BoardSelectment/BOSMarch82016Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:05 URL: http://www.townofware.com/document_center/BoardSelectment/BOSMay32016Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:05 URL: http://www.townofware.com/document_center/BoardSelectment/BOSMay172016Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:06 URL:http://www.townofware.com/government/boards_and_committees/cemetery_photos.php [42049/42049] -> "../data/townSites/Ware/www.townofware.com/government/boards_and_committees/cemetery_photos.php" [1]
+2017-01-02 12:16:06 URL: http://www.townofware.com/document_center/Cemetery/ASPEN_GROVE_CEMETERY___MAPS.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:07 URL: http://www.townofware.com/document_center/Cemetery/ASPEN_GROVE_CONSOLIDATED_MAP___NEW.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:07 URL: http://www.townofware.com/document_center/Cemetery/FEES_AS_OF_JULY_01__2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:07 URL: http://www.townofware.com/document_center/Cemetery/RULES_and_REGULATIONS.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:08 URL:http://www.townofware.com/government/boards_and_committees/east_cemetery_(indian_cemetery).php [35759/35759] -> "../data/townSites/Ware/www.townofware.com/government/boards_and_committees/east_cemetery_(indian_cemetery).php" [1]
+2017-01-02 12:16:09 URL: http://www.townofware.com/document_center/Cemetery/William_Arthur_Candy_Cummings.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:09 URL: http://www.townofware.com/document_center/Cemetery/ORIGINS_OF_ASPEN_GROVE_CEMETERY_By_Stephen_Katz.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:09 URL: http://www.townofware.com/document_center/Cemetery/CONSOLIDATED_MAP_OF_EAST_CHURCH_CEMETERY.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:10 URL: http://www.townofware.com/document_center/Cemetery/PLAN_OF_EAST_CHURCH_CEMETERY__near_United_Church_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:10 URL: http://www.townofware.com/document_center/Cemetery/PLAN_OF_WARE_CENTER_CEMETERY.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:10 URL: http://www.townofware.com/document_center/Cemetery/VETERAN_GRAVE_SITES_AT_ASPEN_GROVE_CEMETERY.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:11 URL: http://www.townofware.com/document_center/Cemetery/PLAN_OF_EAST_CHURCH_CEMETERY_1_of_4.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:11 URL: http://www.townofware.com/document_center/Cemetery/PLAN_OF_EAST_CHURCH_CEMETERY_2_of_4.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:11 URL: http://www.townofware.com/document_center/Cemetery/PLAN_OF_EAST_CHURCH_CEMETERY_3_of_4.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:12 URL: http://www.townofware.com/document_center/Cemetery/PLAN_OF_EAST_CHURCH_CEMETERY_4_of_4.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:12 URL: http://www.townofware.com/document_center/ConservationCommission/sample_legal_ad.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:13 URL: http://www.townofware.com/document_center/ConservationCommission/Fee_Schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:13 URL: http://www.townofware.com/document_center/ConservationCommission/2016%20meeting%20dates.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:13 URL: http://www.townofware.com/document_center/ConservationCommission/Emergency_Declaration___January_2015_Blizzard_FINAL.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:14 URL:http://www.townofware.com/government/boards_and_committees/asian_longhorned_beetle_(alb).php [36401/36401] -> "../data/townSites/Ware/www.townofware.com/government/boards_and_committees/asian_longhorned_beetle_(alb).php" [1]
+2017-01-02 12:16:15 URL: http://www.townofware.com/document_center/ConservationCommission/Emerald_Ash_Borer_brochure.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:15 URL: http://www.townofware.com/document_center/ConservationCommission/COMPLAINT_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:16 URL:http://www.townofware.com/government/boards_and_committees/general_conservation_information.php [37076/37076] -> "../data/townSites/Ware/www.townofware.com/government/boards_and_committees/general_conservation_information.php" [1]
+2017-01-02 12:16:16 URL: http://www.townofware.com/document_center/ConservationCommission/site%20inspection%20report%20form%203-2016%20-%20fill%20in.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:17 URL:http://www.townofware.com/government/boards_and_committees/state_and_fed_conservation_resources.php [37786/37786] -> "../data/townSites/Ware/www.townofware.com/government/boards_and_committees/state_and_fed_conservation_resources.php" [1]
+2017-01-02 12:16:18 URL:http://www.townofware.com/government/boards_and_committees/water_and_sewer_rate_increases.php [42616/42616] -> "../data/townSites/Ware/www.townofware.com/government/boards_and_committees/water_and_sewer_rate_increases.php" [1]
+2017-01-02 12:16:18 URL: http://www.townofware.com/document_center/HistoricalCommission/Historical_Commission_Fountain_Fund.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:18 URL: http://www.townofware.com/document_center/HistoricalCommission/Demo_Delay_FINAL_May_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:19 URL: http://www.townofware.com/document_center/HistoricalCommission/Nenameseck_Fountain_Maintenance_Fund.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:19 URL: http://www.townofware.com/document_center/HistoricalCommission/2016%20mtg%20dates.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:20 URL:http://www.townofware.com/government/boards_and_committees/2013_fountain_restoration_pictures.php [43385/43385] -> "../data/townSites/Ware/www.townofware.com/government/boards_and_committees/2013_fountain_restoration_pictures.php" [1]
+2017-01-02 12:16:21 URL: http://www.townofware.com/document_center/HistoricalCommission/The_Town_That_Can_t_Be_Licked.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:21 URL: http://www.townofware.com/document_center/HistoricalCommission/The_Town_of_Worthwhile.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:22 URL:http://www.townofware.com/government/boards_and_committees/2004_master_plan.php [76498/76498] -> "../data/townSites/Ware/www.townofware.com/government/boards_and_committees/2004_master_plan.php" [1]
+2017-01-02 12:16:22 URL: http://www.townofware.com/document_center/MunicipalFinance/MLC_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:23 URL: http://www.townofware.com/document_center/MunicipalFinance/17_BudgetMaster%20Adopted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:23 URL: http://www.townofware.com/FY16_Budget_Adopted_NoOverride.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:23 URL: http://www.townofware.com/document_center/MunicipalFinance/FY15_Budget_Ware_Adopted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:24 URL: http://www.townofware.com/document_center/MunicipalFinance/FY14_Budget_Ware_Adopted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:24 URL: http://www.townofware.com/document_center/MunicipalFinance/FY13_Budget_Ware_Adopted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:25 URL: http://www.townofware.com/document_center/MunicipalFinance/FY12_Budget_Ware_Adopted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:25 URL: http://www.townofware.com/document_center/MunicipalFinance/FY11_Budget_Ware_Adopted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:25 URL: http://www.townofware.com/document_center/MunicipalFinance/FY10_Budget_Ware_Adopted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:26 URL: http://www.townofware.com/document_center/MunicipalFinance/FY09_Budget_Ware_Adopted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:26 URL: http://www.townofware.com/document_center/MunicipalFinance/17_Enterprise%20Master%20Adopted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:26 URL: http://www.townofware.com/FY16_EnterpriseBudget_Adopted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:27 URL: http://www.townofware.com/document_center/MunicipalFinance/FY15_EnterpriseBudgets_Ware_Adopted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:27 URL: http://www.townofware.com/document_center/MunicipalFinance/FY14_EnterpriseBudgets_Ware_Adopted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:28 URL: http://www.townofware.com/document_center/MunicipalFinance/FY13_EnterpriseBudgets_Ware_Adopted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:28 URL: http://www.townofware.com/document_center/MunicipalFinance/Ware%20Audit%20FY15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:28 URL: http://www.townofware.com/document_center/MunicipalFinance/Ware_Audit_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:29 URL: http://www.townofware.com/document_center/MunicipalFinance/Ware_Audit_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:29 URL: http://www.townofware.com/document_center/MunicipalFinance/Ware_Audit_2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:30 URL: http://www.townofware.com/document_center/MunicipalFinance/Ware_Audit_2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:30 URL: http://www.townofware.com/document_center/MunicipalFinance/Ware_Audit_2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:30 URL: http://www.townofware.com/document_center/MunicipalFinance/Ware_Audit_2009.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:31 URL: http://www.townofware.com/document_center/MunicipalFinance/Ware_Audit_2008.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:31 URL: http://www.townofware.com/document_center/MunicipalFinance/Ware_Audit_2007.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:32 URL: http://www.townofware.com/document_center/Manager/Town%20Manager%20060716.doc 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:32 URL: http://www.townofware.com/document_center/Manager/Town%20Manager%20051716.doc 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:32 URL: http://www.townofware.com/document_center/Manager/Town%20Manager%20042616.doc 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:33 URL: http://www.townofware.com/document_center/Manager/Town%20Manager%20122016.doc 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:33 URL: http://www.townofware.com/document_center/Assessor/Abutters_List_Request_Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:33 URL: http://www.townofware.com/document_center/Assessor/Boat_Status_Change_Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:34 URL: http://www.townofware.com/document_center/Assessor/Motor_Vehicle_Abatement_Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:34 URL: http://www.townofware.com/AFFIDAVIT%20-%20INSULATION%20%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:34 URL: http://www.townofware.com/APPLICATION%20-%201%20or%202%20FAMILY%20%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:35 URL: http://www.townofware.com/APPLICATION%20-%20DECK.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:35 URL: http://www.townofware.com/APPLICATION%20-%20OTHER%20THAN%201%20or%202%20FAMILY%20-%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:36 URL: http://www.townofware.com/APPLICATION%20-%20SIDING%20-%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:36 URL: http://www.townofware.com/APPLICATION%20-%20SPRINKLER%20%20%20%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:36 URL: http://www.townofware.com/APPLICATION%20%20%20SOLID%20FUEL%20STOVE%20%20(WOOD-COAL-PELLET)%20%20%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:37 URL: http://www.townofware.com/document_center/Building/BUILDING_PERMIT_FEES.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:37 URL: http://www.townofware.com/document_center/Building/CONSTRUCTION_DEBRIS_AFFIDAVIT___REQUIRED_FOR_ALL_DEMOLITION.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:37 URL: http://www.townofware.com/document_center/Building/ITEMS_REQUIRED_TO_BE_SHOWN_ON_PLAN.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:38 URL: http://www.townofware.com/document_center/Building/SHED_GUIDELINES.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:38 URL: http://www.townofware.com/document_center/Building/SITE_PLAN_FORM_REQUIRED_FOR_ALL_POOLS__SPAS_HOT_TUBS.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:38 URL: http://www.townofware.com/document_center/Building/TIPS_FOR_SAFE_USE_OF_SOLID_FUEL_STOVE.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:39 URL: http://www.townofware.com/document_center/Building/WORK_REQUIRING_a_CSL_or_HIC_LICENSE.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:39 URL: http://www.townofware.com/document_center/Building/WORKER_S_COMPENSATION_INSURANCE_AFFIDAVIT.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:40 URL: http://www.townofware.com/APPLICATION%20%20NEW%20CONSTRUCTION%20%20-%20%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:40 URL: http://www.townofware.com/NEW%20CONSTRUCTION%20-%20REQUIREMENTS%20FOR%20SUBMISSION%20OF%20APPLICATION.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:40 URL: http://www.townofware.com/NEW%20CONSTRUCTION%20FLOW%20CHART.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:41 URL: http://www.townofware.com/SIGNATURE%20SHEET%20REQUIRED%20FOR%20NEW%20CONSTRUCTION%20OF%20HOUSE-GARAGE-ADDITION%20%20%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:41 URL: http://www.townofware.com/APPLICATION%20-%20DEMO%20%20%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:41 URL: http://www.townofware.com/REQUIRED%20SIGNATURES%20FOR%20DEMO%20APPLICATION%20%20%20%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:42 URL: http://www.townofware.com/2016%20%20%20APPLICATION%20-%20AG%20POOL%20and%20HOT%20TUB.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:43 URL: http://www.townofware.com/2016%20%20%20APPLICATION%20-%20IN%20GROUND%20POOL%20.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:43 URL: http://www.townofware.com/APPLICATION%20TO%20PERFORM%20ELECTRICAL%20WORK.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:43 URL: http://www.townofware.com/ELECTRICAL%20FEES.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:44 URL: http://www.townofware.com/GAS%20FITTING%20FEES.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:44 URL: http://www.townofware.com/AFFIDAVIT%20-%20SOLAR.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:44 URL: http://www.townofware.com/APPLICATION%20-%20%20SOLAR%20%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:45 URL: http://www.townofware.com/zoning%20determination%20-%20NOT%20AT%20HOME%20%20%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:45 URL: http://www.townofware.com/zoning%20determination%20form%20-%20HOME%20BASED%20BUSINESS%20%20%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:45 URL: http://www.townofware.com/APPLICATION%20-%20SIGN%20with%20SIGN%20BY-LAW%20ATTACHED%20%20as%20AMENDED%20IN%202014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:46 URL: http://www.townofware.com/document_center/Building/ELECTRICAL_FEES2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:46 URL: http://www.townofware.com/document_center/Building/Application_for_Electrical_Work.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:47 URL: http://www.townofware.com/document_center/Planning/OS&RPlan/2016%20osrp%20March%203,%202016%20-%20web.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:47 URL: http://www.townofware.com/document_center/Planning/1_OS4_16_2013_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:47 URL: http://www.townofware.com/document_center/Planning/2_map_note.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:48 URL: http://www.townofware.com/document_center/Planning/3_map_1___Ware_Openspace_ActionPlan_2007.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:48 URL: http://www.townofware.com/document_center/Planning/4_map_2___openspace_wnhesp.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:48 URL: http://www.townofware.com/document_center/Planning/5_map_6___farmsoils.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:49 URL: http://www.townofware.com/document_center/Planning/6_map_5___naturallands.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:49 URL: http://www.townofware.com/document_center/Planning/7_map_4____topo_slope_water_flood.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:50 URL: http://www.townofware.com/document_center/Planning/8_map_3___municipalzoning.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:50 URL: http://www.townofware.com/document_center/Planning/9_2007_Open_Space_Plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:50 URL: http://www.townofware.com/document_center/CommunityDevelopment/2014_Ware_PARP_Report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:51 URL: http://www.townofware.com/document_center/CommunityDevelopment/2014_Ware_PARP_Appendix.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:51 URL: http://www.townofware.com/document_center/CommunityDevelopment/Funding_Source_Information_for_Owner_Occupants.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:52 URL: http://www.townofware.com/document_center/CommunityDevelopment/Funding_Source_Information_for_Investor_Owners.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:52 URL: http://www.townofware.com/document_center/Planning/Branding%20Project/style%20guide%20brochure%20v4.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:53 URL: http://www.townofware.com/document_center/Planning/Branding%20Project/style%20guide%20presentation%20nov%202015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:53 URL: http://www.townofware.com/document_center/Planning/Branding%20Project/Ware_Report_Final%206-8-2014%20s.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:53 URL: http://www.townofware.com/document_center/Planning/Branding%20Project/Ware-Wayfinding-Final-Report%20REVISED%207-10-2015%20s.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:54 URL: http://www.townofware.com/document_center/Planning/Branding%20Project/Style%20Guide%201%20-%20Intro.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:54 URL: http://www.townofware.com/document_center/Planning/Branding%20Project/Style%20Guide%202%20-%20Collateral%20Catalog.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:55 URL: http://www.townofware.com/document_center/Planning/Branding%20Project/Style%20Guide%203%20-%20Logo%20Catalog.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:55 URL: http://www.townofware.com/document_center/Planning/Branding%20Project/Style%20Guide%204%20-%20Photo%20Catalog.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:55 URL: http://www.townofware.com/document_center/Planning/Branding%20Project/Style%20Guide%205%20-%20Advertising%20Catalog.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:55 URL: http://www.townofware.com/document_center/CommunityDevelopment/minutes%20CDA/2016/1-7-2016-minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:56 URL: http://www.townofware.com/document_center/CommunityDevelopment/minutes%20CDA/2016/3-17-2016-minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:56 URL: http://www.townofware.com/document_center/CommunityDevelopment/minutes%20CDA/12-17-2015-minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:57 URL: http://www.townofware.com/document_center/CommunityDevelopment/minutes%20CDA/1-8-2015-minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:57 URL: http://www.townofware.com/document_center/CommunityDevelopment/minutes%20CDA/10-15-2015-minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:57 URL: http://www.townofware.com/document_center/CommunityDevelopment/minutes%20CDA/2-12-2015-minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:58 URL: http://www.townofware.com/document_center/CommunityDevelopment/minutes%20CDA/3-16-2015-minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:58 URL: http://www.townofware.com/document_center/CommunityDevelopment/minutes%20CDA/4-16-2015-minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:59 URL: http://www.townofware.com/document_center/CommunityDevelopment/minutes%20CDA/5-28-2015-minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:59 URL: http://www.townofware.com/document_center/CommunityDevelopment/minutes%20CDA/6-18-2015-minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:16:59 URL: http://www.townofware.com/document_center/CommunityDevelopment/minutes%20CDA/8-20-2015-minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:00 URL: http://www.townofware.com/document_center/CommunityDevelopment/minutes%20CDA/9-17-2015-minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:00 URL: http://www.townofware.com/document_center/Fire/Jan07.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:01 URL: http://www.townofware.com/document_center/Fire/March07.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:01 URL: http://www.townofware.com/document_center/Fire/Agricultural_Burning.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:01 URL: http://www.townofware.com/document_center/Fire/Assessment_and_Taxation_of_Agrilcultural_Land.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:02 URL: http://www.townofware.com/document_center/Fire/Bonfires_July_2_to_July_6.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:02 URL: http://www.townofware.com/document_center/Fire/Burning_of_Christmas_Trees.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:03 URL: http://www.townofware.com/document_center/Fire/Burning_Permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:03 URL: http://www.townofware.com/document_center/Fire/Ceremonial_bonfires.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:03 URL: http://www.townofware.com/document_center/Fire/Farming__Agrilculture__Farmer_Definitions.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:03 URL: http://www.townofware.com/document_center/Fire/Open_Burning_FAQ.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:04 URL: http://www.townofware.com/revize_photo_gallery/Fire/IM000464.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:04 URL:http://www.townofware.com/departments/health_department/boh_minutes_5_25_10.php [40649/40649] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/boh_minutes_5_25_10.php" [1]
+2017-01-02 12:17:05 URL: http://www.townofware.com/document_center/Health/2007_Quabbin_Health_District.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:05 URL: http://www.townofware.com/document_center/Health/2007_Board_of_Health_Clerk.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:06 URL: http://www.townofware.com/document_center/Health/2007_Plumbing_Inspector.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:06 URL: http://www.townofware.com/document_center/Health/2007_Public_Health_Nurse.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:06 URL: http://www.townofware.com/document_center/Health/2007_Animal_Inspector.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:07 URL: http://www.townofware.com/document_center/Health/2007_Burial_Agent.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:07 URL: http://www.townofware.com/document_center/Health/2006_Quabbin_Health_District.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:08 URL: http://www.townofware.com/document_center/Health/2006_Board_of_Health_Clerk.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:08 URL: http://www.townofware.com/document_center/Health/2006_Plumbing_Inspector.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:08 URL: http://www.townofware.com/document_center/Health/2006_Public_Health_Nurse.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:09 URL: http://www.townofware.com/document_center/Health/2006_Animal_Inspector.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:09 URL: http://www.townofware.com/document_center/Health/2006_Burial_Agent.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:10 URL: http://www.townofware.com/document_center/Health/EEE_Info.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:10 URL: http://www.townofware.com/document_center/Health/Communication_Tools.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:10 URL: http://www.townofware.com/document_center/Health/Kids_Poster.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:11 URL: http://www.townofware.com/document_center/Health/Energy_Saving_Programs.doc 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:11 URL: http://www.townofware.com/document_center/Health/45_Ways_to_Use_Energy_Wisely.doc 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:11 URL: http://www.townofware.com/document_center/Health/Food_Protection_Certification_Exam_and_Directory.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:11 URL: http://www.townofware.com/document_center/Health/Food_Safety_Principals_for_Food_Workers.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:12 URL: http://www.townofware.com/document_center/Health/Foodborne_Illness__What_it_is_and_How_to_Report_it.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:12 URL: http://www.townofware.com/document_center/Health/Safe_and_Sanitary_Housing_for_Massachusetts_Residents.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:13 URL: http://www.townofware.com/document_center/Health/Tenants_Rights_and_Responsibilities_in_Massachusetts.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:13 URL: http://www.townofware.com/document_center/Health/Understanding_Lead_Poisoning.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:13 URL: http://www.townofware.com/document_center/Health/Caring_For_Your_Septic_System.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:14 URL: http://www.townofware.com/document_center/Health/Buying_or_Selling_Property_with_an_On_Site_System.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:14 URL: http://www.townofware.com/document_center/Health/EPA_Booklet__Drinking_Water_from_Household_Wells.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:14 URL: http://www.townofware.com/document_center/Health/Reduce_Reuse_Recycle.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:15 URL: http://www.townofware.com/document_center/Health/Preventing_Disease_Spread_by_Mosquitoes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:15 URL: http://www.townofware.com/document_center/Health/Public_Health_Fact_Sheet__Rabies.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:15 URL: http://www.townofware.com/document_center/Health/Living_With_Wildlife__Suburban_Wildlife_in_Massachusetts.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:15 URL: http://www.townofware.com/document_center/Health/Simple_Tips_for_Safe_Swimming.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:16 URL: http://www.townofware.com/document_center/Health/Info_on_Camps_in_Massachusetts__Questions_and_Answers_for_Parents.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:16 URL: http://www.townofware.com/document_center/Health/Massage_Tips_for_Consumers.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:17 URL: http://www.townofware.com/document_center/Health/Considerations_When_Obtaining_a_Tattoo_or_Piercing.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:17 URL: http://www.townofware.com/document_center/Health/The_Darker_Side_of_Tanning.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:18 URL:http://www.townofware.com/departments/health_department/new_food_establishment_construction.php [42473/42473] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/new_food_establishment_construction.php" [1]
+2017-01-02 12:17:18 URL: http://www.townofware.com/document_center/Health/1_NewandremodeledFood.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:18 URL: http://www.townofware.com/2015_APPLICATION_PERMIT_Company_Name_Change.doc 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:19 URL:http://www.townofware.com/departments/health_department/remodeled_food_establishment_construction.php [44563/44563] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/remodeled_food_establishment_construction.php" [1]
+2017-01-02 12:17:20 URL:http://www.townofware.com/departments/health_department/food_establishment_change_of_ownership_only.php [36494/36494] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/food_establishment_change_of_ownership_only.php" [1]
+2017-01-02 12:17:21 URL:http://www.townofware.com/departments/health_department/food_establishment_renewal.php [37803/37803] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/food_establishment_renewal.php" [1]
+2017-01-02 12:17:21 URL:http://www.townofware.com/departments/health_department/mobile_food.php [37580/37580] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/mobile_food.php" [1]
+2017-01-02 12:17:22 URL: http://www.townofware.com/Application_for_Mobile_and_Temporary_Food_permits.docx 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:22 URL:http://www.townofware.com/departments/health_department/temporary_food.php [45319/45319] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/temporary_food.php" [1]
+2017-01-02 12:17:23 URL: http://www.townofware.com/FOOD_PERMIT_APPLICATION.doc 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:23 URL:http://www.townofware.com/departments/health_department/catering.php [37654/37654] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/catering.php" [1]
+2017-01-02 12:17:24 URL: http://www.townofware.com/document_center/Health/3_CateringSubmittalforms.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:25 URL:http://www.townofware.com/departments/health_department/residential_kitchen.php [43678/43678] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/residential_kitchen.php" [1]
+2017-01-02 12:17:26 URL:http://www.townofware.com/departments/health_department/submittal_requirements.php [37194/37194] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/submittal_requirements.php" [1]
+2017-01-02 12:17:27 URL:http://www.townofware.com/departments/health_department/farmer_s_market.php [42358/42358] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/farmer_s_market.php" [1]
+2017-01-02 12:17:27 URL: http://www.townofware.com/document_center/Health/1_FarmerMarketRegistrationform.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:28 URL:http://www.townofware.com/departments/health_department/tanning_facility.php [37678/37678] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/tanning_facility.php" [1]
+2017-01-02 12:17:29 URL:http://www.townofware.com/departments/health_department/plan_review_forms.php [36402/36402] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/plan_review_forms.php" [1]
+2017-01-02 12:17:29 URL: http://www.townofware.com/Tanning_facility_NEW.doc 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:29 URL: http://www.townofware.com/document_center/Health/4_TATTOOreviewforms.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:30 URL:http://www.townofware.com/departments/health_department/public_swimming_pool.php [37396/37396] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/public_swimming_pool.php" [1]
+2017-01-02 12:17:31 URL:http://www.townofware.com/new_departments/health_department/plan_review_forms.php [38524/38524] -> "../data/townSites/Ware/www.townofware.com/new_departments/health_department/plan_review_forms.php" [1]
+2017-01-02 12:17:32 URL:http://www.townofware.com/departments/health_department/tobacco_retailer.php [37482/37482] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/tobacco_retailer.php" [1]
+2017-01-02 12:17:32 URL:http://www.townofware.com/departments/health_department/perc_test_application.php [37083/37083] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/perc_test_application.php" [1]
+2017-01-02 12:17:33 URL:http://www.townofware.com/departments/health_department/disposal_works_construction_permit.php [36906/36906] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/disposal_works_construction_permit.php" [1]
+2017-01-02 12:17:34 URL:http://www.townofware.com/departments/health_department/septic_local_upgrade.php [37752/37752] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/septic_local_upgrade.php" [1]
+2017-01-02 12:17:35 URL:http://www.townofware.com/departments/health_department/septic_local_variance.php [36687/36687] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/septic_local_variance.php" [1]
+2017-01-02 12:17:35 URL:http://www.townofware.com/departments/health_department/septic_state_variance.php [37688/37688] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/septic_state_variance.php" [1]
+2017-01-02 12:17:36 URL:http://www.townofware.com/departments/health_department/septic_installer.php [37824/37824] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/septic_installer.php" [1]
+2017-01-02 12:17:37 URL: http://www.townofware.com/document_center/Health/2_InstallerHaulerrequirements.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:37 URL:http://www.townofware.com/departments/health_department/septic_pumper_hauler.php [40973/40973] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/septic_pumper_hauler.php" [1]
+2017-01-02 12:17:38 URL:http://www.townofware.com/departments/health_department/solid_waste_transporter.php [36392/36392] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/solid_waste_transporter.php" [1]
+2017-01-02 12:17:39 URL:http://www.townofware.com/departments/health_department/solid_waste_collector.php [36364/36364] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/solid_waste_collector.php" [1]
+2017-01-02 12:17:40 URL:http://www.townofware.com/departments/health_department/beaver_permit.php [37644/37644] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/beaver_permit.php" [1]
+2017-01-02 12:17:40 URL: http://www.townofware.com/BeaverPermitApplication.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:40 URL: http://www.townofware.com/Info_on_Housing_Additions_with_septic.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:41 URL: http://www.townofware.com/Workers_Comp_General.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:41 URL: http://www.townofware.com/document_center/Health/Permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:42 URL: http://www.townofware.com/document_center/Health/Variance_Procedureplum.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:43 URL:http://www.townofware.com/departments/health_department/reportable_diseases_and_investigations_surveillance.php [43479/43479] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/reportable_diseases_and_investigations_surveillance.php" [1]
+2017-01-02 12:17:43 URL:http://www.townofware.com/departments/health_department/immunization_schedule.php [40819/40819] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/immunization_schedule.php" [1]
+2017-01-02 12:17:44 URL:http://www.townofware.com/departments/health_department/help_with_health_care_costs.php [40837/40837] -> "../data/townSites/Ware/www.townofware.com/departments/health_department/help_with_health_care_costs.php" [1]
+2017-01-02 12:17:45 URL: http://www.townofware.com/document_center/Health/Ware_Board_of_Health_Septic_Regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:45 URL: http://www.townofware.com/document_center/Health/Ware_Board_of_Health_Regulations_for_Body_Art_Establishments.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:45 URL: http://www.townofware.com/document_center/Health/Ware_Board_of_Health_Floor_Drain_Regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:46 URL: http://www.townofware.com/document_center/Health/Ware_Board_of_Health_Regulations_Restricting_Youth_Access_to_Tobacco.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:46 URL: http://www.townofware.com/document_center/Health/Ware_Board_of_Health_Regulations_Governing_the_Transportation_of_Solid_Waste_Not_Collected_in_Ware.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:46 URL: http://www.townofware.com/document_center/Health/Ware_Board_of_Health_Regulations_Affecting_the_Collection_and_Removal_of_Refuse.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:47 URL: http://www.townofware.com/HOPE_Poster__July_1_2015_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:47 URL: http://www.townofware.com/HOPE_brochure_MAY.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:47 URL: http://www.townofware.com/document_center/HumanResources/FY17%20HMO%20Summary.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:48 URL: http://www.townofware.com/document_center/HumanResources/FY17%20PPO%20Summary.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:48 URL: http://www.townofware.com/document_center/HumanResources/Ware%20EE%20Contributions%2016-17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:48 URL: http://www.townofware.com/document_center/HumanResources/Dental%20Blue%20Summary%20of%20Benefits.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:49 URL: http://www.townofware.com/document_center/HumanResources/Town%20of%20Ware%20MBS.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:49 URL: http://www.townofware.com/document_center/HumanResources/MASS_OBRA_Plan_Highlights.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:50 URL: http://www.townofware.com/document_center/Planning/Application_Fee_Schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:50 URL: http://www.townofware.com/document_center/Planning/ANR%20application1-2016%20fill%20in%20w%20Conservation%20letter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:50 URL: http://www.townofware.com/document_center/Planning/site_plan_application_s_8_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:50 URL: http://www.townofware.com/document_center/Planning/Special%20Permit%20Application%20PACKET.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:51 URL: http://www.townofware.com/document_center/Planning/Variance_Application_Packet_s_8_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:51 URL: http://www.townofware.com/document_center/Planning/Master%20Plan/Ware%20Master%20Plan%202016%20Appendix%20s.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:52 URL: http://www.townofware.com/document_center/Planning/Master%20Plan/Ware%20Master%20Plan%20-%20Posters%20s.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:52 URL: http://www.townofware.com/document_center/Planning/1975_Master_Plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:52 URL: http://www.townofware.com/document_center/Planning/1987_Growth_Mgmt___Dev_Plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:53 URL: http://www.townofware.com/document_center/Planning/2004_Plan_TEXT_DOCUMENT.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:53 URL: http://www.townofware.com/document_center/Planning/PBMinutes/11-2-2016%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:53 URL: http://www.townofware.com/document_center/Planning/PBMinutes/10-19-2016%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:54 URL: http://www.townofware.com/document_center/Planning/10-5-2016%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:54 URL: http://www.townofware.com/document_center/Planning/PBMinutes/9-21-2016%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:54 URL: http://www.townofware.com/document_center/Planning/PBMinutes/9-13-2016%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:54 URL: http://www.townofware.com/document_center/Planning/PBMinutes/9-7-2016%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:55 URL: http://www.townofware.com/document_center/Planning/PBMinutes/8-17-2016%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:55 URL: http://www.townofware.com/document_center/Planning/PBMinutes/6-15-2016%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:55 URL: http://www.townofware.com/document_center/Planning/PBMinutes/6-1-2016%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:56 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2016/5-18-2016%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:56 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2016/5-4-2016%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:57 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2016/4-20-2016%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:57 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2016/4-6-2016%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:58 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2016/3-16-2016%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:58 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2016/3-2-2016%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:58 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2016/2-17-2016%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:59 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2016/1-20-2016%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:17:59 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2016/1-6-2016%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:00 URL: http://www.townofware.com/document_center/Planning/7-15-2015%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:00 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2015/8-19-2015%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:00 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2015/9-2-2015%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:01 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2015/10-7-2015%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:01 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2015/11-4-2015%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:01 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2015/12-2-2015%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:02 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2015/1_7_2015_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:02 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2015/2_4_2015_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:02 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2015/4_15_2015_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:03 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2015/5_6_2015_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:03 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2015/5_20_2015_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:04 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2015/6_17_2015_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:04 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2014/12_3_2014_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:04 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2014/03_05_2014_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:04 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2014/2_19_2014_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:05 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2014/03_19_2014_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:05 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2014/04_02_2014_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:06 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2014/04_16_2014_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:06 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2014/05_21_2014_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:07 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2014/06_04_2014_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:07 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2014/06_18_2014_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:07 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2014/7_14_2014_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:08 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2014/7_16_2014_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:08 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2014/8_20_2014_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:08 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2014/10_1_2014_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:09 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2014/10_15_2014_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:09 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2014/11_5_2014_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:09 URL: http://www.townofware.com/document_center/Planning/PBMinutes/PB2014/1_15_2014_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:10 URL: http://www.townofware.com/document_center/Planning/ZBMinutes/2016/5-25-2016%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:10 URL: http://www.townofware.com/document_center/Planning/ZBMinutes/2016/3-23-2016%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:11 URL: http://www.townofware.com/document_center/Planning/ZBMinutes/2016/2-24-2016%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:11 URL: http://www.townofware.com/document_center/Planning/ZBMinutes/8-26-2015%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:11 URL: http://www.townofware.com/document_center/Planning/ZBMinutes/4-22-2015%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:12 URL: http://www.townofware.com/document_center/Planning/ZBMinutes/2-25-2015%20minutes%20zba.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:12 URL: http://www.townofware.com/document_center/Planning/ZBMinutes/10-28-2015%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:13 URL: http://www.townofware.com/document_center/Planning/ZBMinutes/1_28_2015_minutes_zba.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:13 URL: http://www.townofware.com/document_center/Planning/Accessory_Apartments.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:13 URL: http://www.townofware.com/document_center/Planning/Accessory_Uses.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:14 URL: http://www.townofware.com/document_center/Planning/Approval_Procedures.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:14 URL: http://www.townofware.com/document_center/Planning/Aquifers_Protecting_Drinking_Water.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:14 URL: http://www.townofware.com/document_center/Planning/Beaver_Lake_A_New_Zoning_District.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:15 URL: http://www.townofware.com/document_center/Planning/Commercial_Industrial_District.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:15 URL: http://www.townofware.com/document_center/Planning/Dimensional_Regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:15 URL: http://www.townofware.com/document_center/Planning/Downtown_Revitalization_and_Zoning.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:16 URL: http://www.townofware.com/document_center/Planning/Fact_Sheet_Proposed_Zoning_Bylaw_Whats_Changing.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:16 URL: http://www.townofware.com/document_center/Planning/Floodplain_Dealing_w_Floods.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:16 URL: http://www.townofware.com/document_center/Planning/Nonconformities.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:17 URL: http://www.townofware.com/document_center/Planning/Suburban_Residential_District.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:17 URL: http://www.townofware.com/document_center/Planning/Use_of_a_Home_for_Business.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:18 URL: http://www.townofware.com/document_center/Planning/Use_Table.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:18 URL: http://www.townofware.com/document_center/Planning/What_Is_Zoning.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:18 URL: http://www.townofware.com/document_center/Planning/Zoning_Map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:19 URL: http://www.townofware.com/document_center/police/Firearms_License_Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:19 URL: http://www.townofware.com/document_center/police/FIREARMS_LICENSE_CHANGE_OF_ADDRESS.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:19 URL: http://www.townofware.com/document_center/PublicWorks/Driveway_Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:20 URL: http://www.townofware.com/document_center/PublicWorks/Water_Service_Connection_Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:20 URL: http://www.townofware.com/document_center/PublicWorks/Sewer_Connection_Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:20 URL: http://www.townofware.com/document_center/PublicWorks/Trench_Permit_Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:21 URL:http://www.townofware.com/how_do_i_(faq)/where_do_i_go_for/building_commissioner_posting.php [34499/34499] -> "../data/townSites/Ware/www.townofware.com/how_do_i_(faq)/where_do_i_go_for/building_commissioner_posting.php" [1]
+2017-01-02 12:18:21 URL: http://www.townofware.com/document_center/Employment/DPW_Director_posting.docx 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:22 URL: http://www.townofware.com/document_center/Employment/DPWDIRECTORJOBDESCRIPTIONFinal.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:22 URL: http://www.townofware.com/document_center/Employment/Ware_Employment_Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:22 URL: http://www.townofware.com/document_center/Employment/Ware_Employment_Application.doc 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:23 URL: http://www.townofware.com/document_center/MunicipalFinance/MLC_form1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:23 URL: http://www.townofware.com/document_center/FinanceCommittee/3-18-2016%20FC%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:23 URL: http://www.townofware.com/document_center/FinanceCommittee/3-16-2016%20FC%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:24 URL: http://www.townofware.com/document_center/FinanceCommittee/3-14-2016%20FC%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:24 URL: http://www.townofware.com/document_center/FinanceCommittee/3-7-2016%20FC%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:25 URL: http://www.townofware.com/document_center/FinanceCommittee/3-2-2016%20FC%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:25 URL: http://www.townofware.com/document_center/FinanceCommittee/1-6-2016%20FC%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:26 URL: http://www.townofware.com/document_center/FinanceCommittee/3-17-2016-minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:26 URL: http://www.townofware.com/document_center/FinanceCommittee/4-8-2016%20FC%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:26 URL: http://www.townofware.com/document_center/FinanceCommittee/4-27-2016%20FC%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:27 URL: http://www.townofware.com/document_center/FinanceCommittee/5-19-2016%20FC%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:27 URL: http://www.townofware.com/document_center/FinanceCommittee/6-23-2016%20FC%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:27 URL: http://www.townofware.com/document_center/FinanceCommittee/7-13-2016%20FC%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:28 URL: http://www.townofware.com/document_center/FinanceCommittee/8-25-2016%20FC%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:28 URL: http://www.townofware.com/document_center/FinanceCommittee/10-19-2016%20FC%20minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:29 URL: http://www.townofware.com/document_center/FinanceCommittee/October%208%202015%20FC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:29 URL: http://www.townofware.com/document_center/FinanceCommittee/June%2025%202015%20FC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:30 URL: http://www.townofware.com/document_center/FinanceCommittee/June_10_2015_FC_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:30 URL: http://www.townofware.com/document_center/MunicipalFinance/6_1_2015_FC_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:31 URL: http://www.townofware.com/document_center/MunicipalFinance/May_7_2015_FC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:31 URL: http://www.townofware.com/document_center/MunicipalFinance/April_15_2015_FC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:31 URL: http://www.townofware.com/document_center/MunicipalFinance/March_13_2015_FC_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:32 URL: http://www.townofware.com/document_center/MunicipalFinance/March_9_2015_FC_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:32 URL: http://www.townofware.com/document_center/MunicipalFinance/February_25_2015_FCminutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:33 URL: http://www.townofware.com/document_center/MunicipalFinance/January_22_2015_FC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:33 URL: http://www.townofware.com/document_center/MunicipalFinance/January_6_2015_FC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:33 URL: http://www.townofware.com/document_center/MunicipalFinance/September_25_2014_FC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:33 URL: http://www.townofware.com/document_center/MunicipalFinance/October_30_2014_FC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:34 URL: http://www.townofware.com/document_center/MunicipalFinance/July_14_2014_FC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:34 URL: http://www.townofware.com/document_center/MunicipalFinance/6_16_2014_FC_min.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:35 URL: http://www.townofware.com/document_center/MunicipalFinance/April_2_2014_FC_min.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:35 URL: http://www.townofware.com/document_center/MunicipalFinance/March_28_2014_FC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:36 URL: http://www.townofware.com/document_center/MunicipalFinance/3_25_2014_FC_min.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:36 URL: http://www.townofware.com/document_center/MunicipalFinance/March_20_2014_FC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:36 URL: http://www.townofware.com/document_center/MunicipalFinance/March_19_2014_FC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:37 URL: http://www.townofware.com/document_center/MunicipalFinance/March_18_2014_minutes_FC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:37 URL: http://www.townofware.com/document_center/MunicipalFinance/March_10_2014_minutes_FC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:37 URL: http://www.townofware.com/document_center/MunicipalFinance/March_7_2014_minutes_FC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:38 URL: http://www.townofware.com/document_center/MunicipalFinance/February_7_2014_FC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:38 URL: http://www.townofware.com/document_center/MunicipalFinance/January_15_2014_FC_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:39 URL: http://www.townofware.com/document_center/MunicipalFinance/October_2_2013_FC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:39 URL: http://www.townofware.com/document_center/MunicipalFinance/August_30_2013_FCmin.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:39 URL: http://www.townofware.com/document_center/MunicipalFinance/August_20_2013_FCminutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:40 URL: http://www.townofware.com/document_center/MunicipalFinance/July_3_2013_FC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:40 URL: http://www.townofware.com/document_center/MunicipalFinance/June_26_2013_FC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:40 URL: http://www.townofware.com/document_center/MunicipalFinance/June_17_2013_FC_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:41 URL: http://www.townofware.com/document_center/MunicipalFinance/may_2013_fincom_min.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:41 URL: http://www.townofware.com/document_center/MunicipalFinance/FinCom_Minutes_03_28_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:42 URL: http://www.townofware.com/document_center/MunicipalFinance/FinCom_Minutes_03_15_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:42 URL: http://www.townofware.com/document_center/MunicipalFinance/February_12_2013_FC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:42 URL: http://www.townofware.com/document_center/MunicipalFinance/January_23_2013_FC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:43 URL: http://www.townofware.com/document_center/HistoricalCommission/j10_28_2013HC_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:43 URL: http://www.townofware.com/document_center/HistoricalCommission/k09_23_2013HC_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:43 URL: http://www.townofware.com/document_center/HistoricalCommission/l08_26_2013HC_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:43 URL: http://www.townofware.com/document_center/HistoricalCommission/m06_24_2013HC_agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:44 URL: http://www.townofware.com/document_center/HistoricalCommission/n05_20_2013HC_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:44 URL: http://www.townofware.com/document_center/HistoricalCommission/o04_22_2013HC_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:45 URL: http://www.townofware.com/document_center/HistoricalCommission/p03_25_2013HC_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:45 URL: http://www.townofware.com/document_center/HistoricalCommission/q02_25_2013HC_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:45 URL: http://www.townofware.com/document_center/HistoricalCommission/r01_28_2013HC_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:46 URL: http://www.townofware.com/document_center/HistoricalCommission/s11_26_2012HC_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:46 URL: http://www.townofware.com/document_center/HistoricalCommission/t10_24_2012HC_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:46 URL: http://www.townofware.com/document_center/HistoricalCommission/u09_24_2012HC_minutes_R.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:47 URL: http://www.townofware.com/document_center/HistoricalCommission/v06_25_2012HC_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:47 URL: http://www.townofware.com/document_center/HistoricalCommission/w05_21_2012HC_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:47 URL: http://www.townofware.com/document_center/HistoricalCommission/x04_23_2012_HC_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:48 URL: http://www.townofware.com/document_center/HistoricalCommission/y03_26_2012_HC_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:48 URL: http://www.townofware.com/document_center/HistoricalCommission/z02_27_2012_HC_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:48 URL: http://www.townofware.com/document_center/BoardSelectment/Unclaimed%20funds%20Nov2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:49 URL: http://www.townofware.com/document_center/PublicWorks/Water%20Dept/ice%20pigging9-2016.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:49 URL: http://www.townofware.com/document_center/PublicWorks/Water%20Dept/ice%20pigging%20results9-2016.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:49 URL: http://www.townofware.com/document_center/Planning/bylaws/2016%20proposed%20bylaw%20amendments-%20moratorium%20on%20medical%20and%20recreational%20marijuana.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:50 URL: http://www.townofware.com/Legal%20Ad%20High%20St%20Improvements%20Bids%20.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:50 URL: http://www.townofware.com/document_center/Planning/ZBA%20aps/Krasnecky%20appeal%208-11-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:50 URL: http://www.townofware.com/document_center/Planning/ZBA%20aps/Legal%20Ad%20A-2016-01.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:51 URL: http://www.townofware.com/document_center/Planning/Master%20Plan/8-27-2016%20public%20forum%20flyer%20v2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:51 URL: http://www.townofware.com/Voter%20Registration%20Deadline%20Sept.%20Primary%202016%20copy%20for%20website%20.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:52 URL: http://www.townofware.com/document_center/PublicWorks/Bacon%20Rd%20Construction%20Notice.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:52 URL: http://www.townofware.com/document_center/HistoricalCommission/Thomas%20Vincent%20SAR%20-%20Copy.jpeg 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:52 URL: http://www.townofware.com/revize_photo_gallery/HistoricCommission/Kathy%20at%20Elm%20Ceremony%20(002)%20-%20Copy.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:52 URL: http://www.townofware.com/revize_photo_gallery/HistoricCommission/Thomas%20Vincent%20SAR.jpeg 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:53 URL: http://www.townofware.com/document_center/HistoricalCommission/Lafayette%20Elm%20flyer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:53 URL: http://www.townofware.com/document_center/BoardSelectment/Summer%20Reading%20Program.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:53 URL: http://www.townofware.com/document_center/BoardSelectment/DPH%20Response%20to%20ML%20Plan%205-6-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:54 URL: http://www.townofware.com/docs/Flushing%20Notice%20-%20Spring%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:54 URL: http://www.townofware.com/document_center/BoardSelectment/DPH%20Response%20Following%20BMLH%20Hearing%204-13-16%20(002).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:55 URL: http://www.townofware.com/document_center/BoardSelectment/WARRANT%20FOR%20SPECIAL%20TOWN%20MEETING%20April%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:55 URL: http://www.townofware.com/document_center/BoardSelectment/Warrant%20for%20Annual%20Town%20Mtg2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:55 URL: http://www.townofware.com/document_center/BoardSelectment/Town%20Meeting%20Packet%20050916.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:56 URL: http://www.townofware.com/Fuss%20%20O'Neil%20traffic%20review%20(Oct%20%2027%202015).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:56 URL: http://www.townofware.com/Fuss%20%20O'Neil%20environmental%20review%20(Oct%20%2022%202015).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:57 URL: http://www.townofware.com/REDLINE%20-%20WARRANT%20FOR%20STM%20November%202015%20rev.doc 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:57 URL: http://www.townofware.com/Nov15STMpacket.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:58 URL: http://www.townofware.com/SouthStStudyRDK.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:58 URL: http://www.townofware.com/SouthStStudyClarkGreen.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:58 URL: http://www.townofware.com/IMG_1887.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:59 URL: http://www.townofware.com/QHCC_Activity_on_opioid.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:59 URL: http://www.townofware.com/document_center/WareTagSale6_20_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:18:59 URL: http://www.townofware.com/document_center/1_Flushing_Notice___Spring_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:00 URL: http://www.townofware.com/document_center/2_Flushing_Program_Q_A.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:00 URL: http://www.townofware.com/document_center/3_Zone_Index_Map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:01 URL: http://www.townofware.com/document_center/4_Water_Flushing_Zone_Index___Announcement_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:01 URL: http://www.townofware.com/document_center/2015_Town_Meeting_Packet.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:01 URL: http://www.townofware.com/document_center/Annual_Town_Report_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:02 URL: http://www.townofware.com/document_center/1News/Supp_L___Town_of_Ware_General_Conditions.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:02 URL: http://www.townofware.com/document_center/1News/Supp_J___Prevailing_Wage_Schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:03 URL: http://www.townofware.com/document_center/1News/Supp_I___Gravel_Common_Fill_Source___Zoning_Approval.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:03 URL: http://www.townofware.com/document_center/1News/Supp_H___Gate_Example.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:03 URL: http://www.townofware.com/document_center/1News/Supp_G___Channel_Plant___Material_Schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:04 URL: http://www.townofware.com/document_center/1News/Supp_F___REVISED___Drainage_Easement_Construction_2014_12_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:04 URL: http://www.townofware.com/document_center/1News/Supp_E___Sheehy_Road_OOC_Approval_7_1_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:04 URL: http://www.townofware.com/document_center/1News/Supp_E___Sheehy_Road_MESA_Review_Requirements_7_8_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:05 URL: http://www.townofware.com/document_center/1News/Supp_E___NOI_CSA_Storm_Water_Management_Plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:05 URL: http://www.townofware.com/document_center/1News/Supp_D___Sheehy_Road_CAD_Extension_Approval_10_3_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:06 URL: http://www.townofware.com/document_center/1News/Supp_D___Corrective_Action_Design__CAD_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:06 URL: http://www.townofware.com/document_center/1News/Supp__I___Robbins_Rd_Leaf_Yard_Waste_Permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:06 URL: http://www.townofware.com/document_center/1News/Sheet_C_4_Cross_Section__1_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:07 URL: http://www.townofware.com/document_center/1News/Sheet_C_3_Cross_Section__1_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:07 URL: http://www.townofware.com/document_center/1News/Sheet_C_2_Proposed_Site_Grades___Stablization_Plan__1_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:07 URL: http://www.townofware.com/document_center/1News/Sheet_C_1_Existing_Conditions__1_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:08 URL: http://www.townofware.com/document_center/1News/Sheehy_Road_RFP_RFQ_3_26_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:08 URL: http://www.townofware.com/document_center/1News/Supp__Sheehy_Road_CAD_Approval_5_23_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:08 URL: http://www.townofware.com/document_center/1News/AMBULANCE_SUBSCRIPTION_SERVICE_PROGRAM_2015___APPLICATION.docx 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:09 URL: http://www.townofware.com/document_center/1News/Ambulance_Subscription_SVC_Q___A.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:09 URL: http://www.townofware.com/Reed%20Municipal%20Pool%20Information%207-14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:10 URL: http://www.townofware.com/Warrant%20for%20the%2011-14%20Town%20Meeting%20.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:10 URL: http://www.townofware.com/Snow%20and%20Ice%20Removal%20bylaw.doc 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:10 URL: http://www.townofware.com/SNOW%20Removal%20BYLAW.docx 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:11 URL: http://www.townofware.com/document_center/ConservationCommission/ALB_Identifying_Traits.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:11 URL: http://www.townofware.com/document_center/ConservationCommission/ALB_FAQ.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:11 URL: http://www.townofware.com/document_center/ConservationCommission/ALB_look_alikes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:12 URL: http://www.townofware.com/document_center/ConservationCommission/8_Interests_of_the_Wetlands_Protection_Act__WPA_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:12 URL: http://www.townofware.com/document_center/ConservationCommission/fee_schedule1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:13 URL: http://www.townofware.com/document_center/ConservationCommission/Consultants_list.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:13 URL: http://www.townofware.com/revize_photo_gallery/HistoricCommission/6_24_2013_fountain_rest_1.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:13 URL: http://www.townofware.com/revize_photo_gallery/HistoricCommission/6_24_2013_fountain_rest_2.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:14 URL: http://www.townofware.com/revize_photo_gallery/HistoricCommission/7_11_2013_fountain_rest_2.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:14 URL: http://www.townofware.com/revize_photo_gallery/HistoricCommission/7_11_2013_fountain_rest_3.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:14 URL: http://www.townofware.com/revize_photo_gallery/HistoricCommission/7_15_2013_fountain_rest_1.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:15 URL: http://www.townofware.com/revize_photo_gallery/HistoricCommission/7_15_2013_fountain_rest_2.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:15 URL: http://www.townofware.com/revize_photo_gallery/HistoricCommission/7_15_2013_fountain_rest_4.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:15 URL: http://www.townofware.com/revize_photo_gallery/HistoricCommission/7_15_2013_fountain_rest_5.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:16 URL: http://www.townofware.com/revize_photo_gallery/HistoricCommission/7_15_2013_fountain_rest_7.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:16 URL: http://www.townofware.com/revize_photo_gallery/HistoricCommission/7_15_2013_fountain_rest_8.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:17 URL: http://www.townofware.com/revize_photo_gallery/HistoricCommission/7_15_2013_water_test.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:17 URL: http://www.townofware.com/document_center/Planning/MAP_water_sewer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:18 URL: http://www.townofware.com/document_center/Planning/MAP_zoning.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:18 URL: http://www.townofware.com/document_center/Planning/MAP_flood_and_H2O_supply.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:18 URL: http://www.townofware.com/document_center/Planning/MAP_ortho.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:19 URL: http://www.townofware.com/document_center/Planning/MAP_open_space.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:19 URL: http://www.townofware.com/document_center/Planning/MAP_natural.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:19 URL: http://www.townofware.com/document_center/Planning/MAP_EcoDev.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:20 URL: http://www.townofware.com/document_center/Planning/MAP_all.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:20 URL: http://www.townofware.com/document_center/Planning/MAP_housing.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 12:19:20 URL: http://www.townofware.com/document_center/Planning/MAP_topo.pdf 200 OK
+unlink: No such file or directory
+Found 14 broken links.
+
+http://www.townofware.com/Pages/WareMA_News/I05156D3C
+http://www.townofware.com/Pages/WareMA_EmManage/shelter
+http://www.townofware.com/Icons/0
+http://www.townofware.com/Pages/WareMA_Police/DV
+http://www.townofware.com/Pages/WareMA_webdocs/dog_licenses.pdf
+http://www.townofware.com/Pages/WareMA_ZBA/2012%20Zoning%20Bylaw%20adopted%20at%20ATM.pdf
+http://www.townofware.com/Pages/WareMA_WebDocs/About
+http://www.townofware.com/Pages/WareMA_News/I050A22B0
+http://www.townofware.com/Pages/WareMA_News/I050D72A3
+http://www.townofware.com/Pages/WareMA_News/I050D6C16
+http://www.townofware.com/Pages/WareMA_WebDocs/healthmore
+http://www.townofware.com/Pages/WareMA_BOH/emerprep
+http://www.townofware.com/_assets_/images/favicon.ico
+http://www.townofware.com/Pages/WareMA_Clerk/Charter.pdf
+
+FINISHED --2017-01-02 12:19:20--
+Total wall clock time: 7m 25s
+Downloaded: 255 files, 11M in 4.6s (2.42 MB/s)

@@ -1,0 +1,1289 @@
+2017-01-01 22:48:27 URL:http://www.holyoke.org/ [30801/30801] -> "../data/townSites2/Holyoke/www.holyoke.org/index.html" [1]
+2017-01-01 22:48:28 URL: http://www.holyoke.org/wp-content/themes/holyoke-city/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-01 22:48:28 URL: http://www.holyoke.org/xmlrpc.php 200 OK
+unlink: No such file or directory
+2017-01-01 22:48:33 URL:http://www.holyoke.org/about/ [56173] -> "../data/townSites2/Holyoke/www.holyoke.org/about" [1]
+2017-01-01 22:48:37 URL:http://www.holyoke.org/about/history/ [54116] -> "../data/townSites2/Holyoke/www.holyoke.org/about/history/index.html" [1]
+2017-01-01 22:48:41 URL:http://www.holyoke.org/about/location/ [54810] -> "../data/townSites2/Holyoke/www.holyoke.org/about/location/index.html" [1]
+2017-01-01 22:48:44 URL:http://www.holyoke.org/about/attractions/ [55586] -> "../data/townSites2/Holyoke/www.holyoke.org/about/attractions/index.html" [1]
+2017-01-01 22:48:48 URL:http://www.holyoke.org/about/Region/ [55473] -> "../data/townSites2/Holyoke/www.holyoke.org/about/Region/index.html" [1]
+2017-01-01 22:48:51 URL:http://www.holyoke.org/city-directory/ [63288] -> "../data/townSites2/Holyoke/www.holyoke.org/city-directory/index.html" [1]
+2017-01-01 22:48:54 URL:http://www.holyoke.org/news/ [69540] -> "../data/townSites2/Holyoke/www.holyoke.org/news/index.html" [1]
+2017-01-01 22:48:59 URL:http://www.holyoke.org/living-in-holyoke/ [60934] -> "../data/townSites2/Holyoke/www.holyoke.org/living-in-holyoke" [1]
+2017-01-01 22:49:04 URL:http://www.holyoke.org/resident-information/ [54168] -> "../data/townSites2/Holyoke/www.holyoke.org/resident-information/index.html" [1]
+2017-01-01 22:49:08 URL:http://www.holyoke.org/utilities/ [54837] -> "../data/townSites2/Holyoke/www.holyoke.org/utilities/index.html" [1]
+2017-01-01 22:49:15 URL:http://www.holyoke.org/public-safety/ [54456] -> "../data/townSites2/Holyoke/www.holyoke.org/public-safety/index.html" [1]
+2017-01-01 22:49:19 URL:http://www.holyoke.org/education-in-holyoke/ [54963] -> "../data/townSites2/Holyoke/www.holyoke.org/education-in-holyoke/index.html" [1]
+2017-01-01 22:49:21 URL:http://www.holyoke.org/services/ [22810] -> "../data/townSites2/Holyoke/www.holyoke.org/services/index.html" [1]
+2017-01-01 23:04:34 URL:http://www.holyoke.org/visiting-holyoke/ [57698] -> "../data/townSites2/Holyoke/www.holyoke.org/visiting-holyoke" [2]
+2017-01-01 23:04:38 URL:http://www.holyoke.org/culture-and-tourism/ [54748] -> "../data/townSites2/Holyoke/www.holyoke.org/culture-and-tourism/index.html" [1]
+2017-01-01 23:04:42 URL:http://www.holyoke.org/getting-around/ [54567] -> "../data/townSites2/Holyoke/www.holyoke.org/getting-around/index.html" [1]
+2017-01-01 23:04:45 URL:http://www.holyoke.org/what-to-do/ [54564] -> "../data/townSites2/Holyoke/www.holyoke.org/what-to-do/index.html" [1]
+2017-01-01 23:04:50 URL:http://www.holyoke.org/business-in-holyoke/ [58135] -> "../data/townSites2/Holyoke/www.holyoke.org/business-in-holyoke" [1]
+2017-01-01 23:04:54 URL:http://www.holyoke.org/business-in-holyoke/ [58135] -> "../data/townSites2/Holyoke/www.holyoke.org/business-in-holyoke/index.html" [1]
+2017-01-01 23:04:57 URL:http://www.holyoke.org/business-incentives/ [55716] -> "../data/townSites2/Holyoke/www.holyoke.org/business-incentives/index.html" [1]
+2017-01-01 23:05:01 URL:http://www.holyoke.org/projects/ [54552] -> "../data/townSites2/Holyoke/www.holyoke.org/projects/index.html" [1]
+2017-01-01 23:05:03 URL:http://www.holyoke.org/departments/economic-development/ [53448] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/economic-development/index.html" [1]
+2017-01-01 23:05:06 URL:http://www.holyoke.org/real-estate-site-selection/ [56762] -> "../data/townSites2/Holyoke/www.holyoke.org/real-estate-site-selection/index.html" [1]
+2017-01-01 23:05:10 URL:http://www.holyoke.org/ordinances-maps/ [55160] -> "../data/townSites2/Holyoke/www.holyoke.org/ordinances-maps/index.html" [1]
+2017-01-01 23:05:14 URL:http://www.holyoke.org/government-in-holyoke/ [57069] -> "../data/townSites2/Holyoke/www.holyoke.org/government-in-holyoke" [1]
+2017-01-01 23:05:17 URL:http://www.holyoke.org/elected-officials/ [58965] -> "../data/townSites2/Holyoke/www.holyoke.org/elected-officials/index.html" [1]
+2017-01-01 23:05:22 URL:http://www.holyoke.org/councilors/ [56960] -> "../data/townSites2/Holyoke/www.holyoke.org/councilors" [1]
+2017-01-01 23:05:26 URL:http://www.holyoke.org/city-hall/ [60813] -> "../data/townSites2/Holyoke/www.holyoke.org/city-hall/index.html" [1]
+2017-01-01 23:05:30 URL:http://www.holyoke.org/budget-and-finance/ [54350] -> "../data/townSites2/Holyoke/www.holyoke.org/budget-and-finance/index.html" [1]
+2017-01-01 23:05:35 URL:http://www.holyoke.org/departments/city-clerk/ [56117] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/city-clerk/index.html" [1]
+2017-01-01 23:05:39 URL:http://www.holyoke.org/government-in-holyoke/ [57069] -> "../data/townSites2/Holyoke/www.holyoke.org/government-in-holyoke/index.html" [1]
+2017-01-01 23:05:43 URL:http://www.holyoke.org/search/ [15488] -> "../data/townSites2/Holyoke/www.holyoke.org/search" [1]
+2017-01-01 23:05:46 URL:http://www.holyoke.org/news/ [69540] -> "../data/townSites2/Holyoke/www.holyoke.org/news.1" [1]
+2017-01-01 23:05:48 URL:http://www.holyoke.org/calendar-list/ [27455] -> "../data/townSites2/Holyoke/www.holyoke.org/calendar-list" [1]
+2017-01-01 23:05:51 URL:http://www.holyoke.org/services/ [22810] -> "../data/townSites2/Holyoke/www.holyoke.org/services.1" [1]
+2017-01-01 23:05:55 URL:http://www.holyoke.org/departments/mayors-office/ [103535] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/mayors-office" [1]
+2017-01-01 23:06:00 URL:http://www.holyoke.org/how-do-i/ [59078] -> "../data/townSites2/Holyoke/www.holyoke.org/how-do-i" [1]
+2017-01-01 23:06:02 URL:http://www.holyoke.org/news/featured/community-field-hours/ [19563] -> "../data/townSites2/Holyoke/www.holyoke.org/news/featured/community-field-hours/index.html" [1]
+2017-01-01 23:06:06 URL:http://www.holyoke.org/news/featured/first-night-jr/ [19394] -> "../data/townSites2/Holyoke/www.holyoke.org/news/featured/first-night-jr/index.html" [1]
+2017-01-01 23:06:08 URL:http://www.holyoke.org/news/featured/holyoke-historic-preservation-plan/ [19562] -> "../data/townSites2/Holyoke/www.holyoke.org/news/featured/holyoke-historic-preservation-plan/index.html" [1]
+2017-01-01 23:06:09 URL:http://www.holyoke.org/news/featured/chamber-pop-up-shop/ [18955] -> "../data/townSites2/Holyoke/www.holyoke.org/news/featured/chamber-pop-up-shop/index.html" [1]
+2017-01-01 23:06:10 URL:http://www.holyoke.org/news/featured/be-safe-holiday-fire-tips/ [19080] -> "../data/townSites2/Holyoke/www.holyoke.org/news/featured/be-safe-holiday-fire-tips/index.html" [1]
+2017-01-01 23:06:12 URL:http://www.holyoke.org/news/featured/grand-colleen-accepting-applications/ [19356] -> "../data/townSites2/Holyoke/www.holyoke.org/news/featured/grand-colleen-accepting-applications/index.html" [1]
+2017-01-01 23:06:13 URL:http://www.holyoke.org/news/featured/5th-annual-nick-cosmos-memorial-boxing-show/ [19073] -> "../data/townSites2/Holyoke/www.holyoke.org/news/featured/5th-annual-nick-cosmos-memorial-boxing-show/index.html" [1]
+2017-01-01 23:06:15 URL:http://www.holyoke.org/news/featured/thanksgiving-turkey-drive/ [19070] -> "../data/townSites2/Holyoke/www.holyoke.org/news/featured/thanksgiving-turkey-drive/index.html" [1]
+2017-01-01 23:06:17 URL:http://www.holyoke.org/news/citys-economic-future-looks-bright/ [22955] -> "../data/townSites2/Holyoke/www.holyoke.org/news/citys-economic-future-looks-bright/index.html" [1]
+2017-01-01 23:06:18 URL:http://www.holyoke.org/news/city-council-approves-major-redevelopment-initiatives/ [23998] -> "../data/townSites2/Holyoke/www.holyoke.org/news/city-council-approves-major-redevelopment-initiatives/index.html" [1]
+2017-01-01 23:06:21 URL:http://www.holyoke.org/category/news/feed/ [128042] -> "../data/townSites2/Holyoke/www.holyoke.org/category/news/feed" [1]
+2017-01-01 23:06:23 URL:http://www.holyoke.org/news/pouliot-pool-to-undergo-renovation/ [25287] -> "../data/townSites2/Holyoke/www.holyoke.org/news/pouliot-pool-to-undergo-renovation/index.html" [1]
+2017-01-01 23:06:25 URL:http://www.holyoke.org/category/news/ [82944] -> "../data/townSites2/Holyoke/www.holyoke.org/category/news/index.html" [1]
+2017-01-01 23:06:26 URL:http://www.holyoke.org/news/first-annual-menorah-lighting/ [23915] -> "../data/townSites2/Holyoke/www.holyoke.org/news/first-annual-menorah-lighting/index.html" [1]
+2017-01-01 23:06:29 URL:http://www.holyoke.org/news/state-rep-aaron-vega-announces-holiday-house-competition/ [23974] -> "../data/townSites2/Holyoke/www.holyoke.org/news/state-rep-aaron-vega-announces-holiday-house-competition/index.html" [1]
+2017-01-01 23:06:31 URL:http://www.holyoke.org/events/school-committee-136/ [17933] -> "../data/townSites2/Holyoke/www.holyoke.org/events/school-committee-136/index.html" [1]
+2017-01-01 23:06:33 URL:http://www.holyoke.org/events/holyoke-city-council-meeting-48/ [24118] -> "../data/townSites2/Holyoke/www.holyoke.org/events/holyoke-city-council-meeting-48/index.html" [1]
+2017-01-01 23:06:35 URL:http://www.holyoke.org/events/holyoke-gas-electric-commission-51/ [19860] -> "../data/townSites2/Holyoke/www.holyoke.org/events/holyoke-gas-electric-commission-51/index.html" [1]
+2017-01-01 23:06:38 URL:http://www.holyoke.org/events/license-board-meeting-9/ [21321] -> "../data/townSites2/Holyoke/www.holyoke.org/events/license-board-meeting-9/index.html" [1]
+2017-01-01 23:06:40 URL:http://www.holyoke.org/events/board-of-health-meeting-29/ [20269] -> "../data/townSites2/Holyoke/www.holyoke.org/events/board-of-health-meeting-29/index.html" [1]
+2017-01-01 23:06:45 URL:http://www.holyoke.org/departments/auxillary-police/ [37543] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/auxillary-police/index.html" [1]
+2017-01-01 23:06:47 URL:http://www.holyoke.org/departments/board-of-health/ [69703] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/board-of-health/index.html" [1]
+2017-01-01 23:06:48 URL:http://www.holyoke.org/departments/building-department/ [47546] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/building-department/index.html" [1]
+2017-01-01 23:06:50 URL:http://www.holyoke.org/departments/city-assessor/ [31026] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/city-assessor/index.html" [1]
+2017-01-01 23:06:54 URL:http://www.holyoke.org/departments/city-auditor/ [33592] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/city-auditor/index.html" [1]
+2017-01-01 23:06:55 URL:http://www.holyoke.org/departments/city-solicitor/ [32693] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/city-solicitor/index.html" [1]
+2017-01-01 23:06:58 URL:http://www.holyoke.org/departments/treasurer/ [37585] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/treasurer/index.html" [1]
+2017-01-01 23:07:07 URL:http://www.holyoke.org/departments/community-development/ [53674] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/community-development/index.html" [1]
+No data received.
+2017-01-01 23:07:19 URL:http://www.holyoke.org/departments/conservation-commission/ [79719] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/conservation-commission/index.html" [1]
+2017-01-01 23:07:20 URL:http://www.holyoke.org/departments/council-on-aging-2/ [40849] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/council-on-aging-2/index.html" [1]
+2017-01-01 23:07:22 URL:http://www.holyoke.org/departments/local-emergency-planning-committee/ [26871] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/local-emergency-planning-committee/index.html" [1]
+2017-01-01 23:07:23 URL:http://www.holyoke.org/departments/fire-department/ [39818] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/fire-department/index.html" [1]
+2017-01-01 23:07:25 URL:http://www.holyoke.org/departments/historical-commission/ [39280] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/historical-commission/index.html" [1]
+2017-01-01 23:07:27 URL:http://www.holyoke.org/departments/holyoke-gas-electric-hge/ [25037] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/holyoke-gas-electric-hge/index.html" [1]
+2017-01-01 23:07:29 URL:http://www.holyoke.org/departments/holyoke-public-library/ [36304] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/holyoke-public-library/index.html" [1]
+2017-01-01 23:07:31 URL:http://www.holyoke.org/departments/water-works/ [47291] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/water-works/index.html" [1]
+2017-01-01 23:07:32 URL:http://www.holyoke.org/departments/licensing-board/ [30038] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/licensing-board/index.html" [1]
+2017-01-01 23:07:34 URL:http://www.holyoke.org/departments/mayors-office/ [103535] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/mayors-office/index.html" [1]
+2017-01-01 23:07:36 URL:http://www.holyoke.org/departments/parks-and-recreation/ [64823] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/parks-and-recreation/index.html" [1]
+2017-01-01 23:07:38 URL:http://www.holyoke.org/departments/personnel/ [57568] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/personnel/index.html" [1]
+2017-01-01 23:07:39 URL:http://www.holyoke.org/departments/police-department/ [26392] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/police-department/index.html" [1]
+2017-01-01 23:07:41 URL:http://www.holyoke.org/departments/public-works/ [68444] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/public-works/index.html" [1]
+2017-01-01 23:07:43 URL:http://www.holyoke.org/departments/purchasing-department/ [31823] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/purchasing-department/index.html" [1]
+2017-01-01 23:07:45 URL:http://www.holyoke.org/departments/registrar-of-voters/ [38241] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/registrar-of-voters/index.html" [1]
+2017-01-01 23:07:47 URL:http://www.holyoke.org/departments/retirement-board/ [69861] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/retirement-board/index.html" [1]
+2017-01-01 23:07:48 URL:http://www.holyoke.org/departments/school-department/ [25229] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/school-department/index.html" [1]
+2017-01-01 23:07:50 URL:http://www.holyoke.org/departments/tax-collector/ [43902] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/tax-collector/index.html" [1]
+2017-01-01 23:07:52 URL:http://www.holyoke.org/departments/veteran-services/ [36747] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/veteran-services/index.html" [1]
+2017-01-01 23:07:54 URL:http://www.holyoke.org/departments/sealer-of-weights-and-measures/ [22968] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/sealer-of-weights-and-measures/index.html" [1]
+2017-01-01 23:07:55 URL:http://www.holyoke.org/departments/wistariahurst-museum/ [28104] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/wistariahurst-museum/index.html" [1]
+2017-01-01 23:07:58 URL:http://www.holyoke.org/calendar-detailed/ [21621] -> "../data/townSites2/Holyoke/www.holyoke.org/calendar-detailed/index.html" [1]
+2017-01-01 23:08:00 URL:http://www.holyoke.org/calendar-list/ [27455] -> "../data/townSites2/Holyoke/www.holyoke.org/calendar-list/index.html" [1]
+2017-01-01 23:08:05 URL:http://www.holyoke.org/how-do-i/ [59078] -> "../data/townSites2/Holyoke/www.holyoke.org/how-do-i/index.html" [1]
+2017-01-01 23:08:08 URL:http://www.holyoke.org/connect/ [35352] -> "../data/townSites2/Holyoke/www.holyoke.org/connect/index.html" [1]
+2017-01-01 23:08:08 URL: http://www.holyoke.org/sitemap.xml 200 OK
+unlink: No such file or directory
+2017-01-01 23:08:11 URL:http://www.holyoke.org/usage-and-privacy/ [58777] -> "../data/townSites2/Holyoke/www.holyoke.org/usage-and-privacy/index.html" [1]
+2017-01-01 23:08:15 URL:http://www.holyoke.org/local-colleges/ [55006] -> "../data/townSites2/Holyoke/www.holyoke.org/local-colleges/index.html" [1]
+2017-01-01 23:08:16 URL:http://www.holyoke.org/author/developer/ [20469] -> "../data/townSites2/Holyoke/www.holyoke.org/author/developer/index.html" [1]
+2017-01-01 23:08:18 URL:http://www.holyoke.org/author/cityadmin/ [53538] -> "../data/townSites2/Holyoke/www.holyoke.org/author/cityadmin/index.html" [1]
+2017-01-01 23:08:21 URL:http://www.holyoke.org/about/region/ [55473] -> "../data/townSites2/Holyoke/www.holyoke.org/about/region/index.html" [1]
+2017-01-01 23:08:25 URL:http://www.holyoke.org/living-in-holyoke/ [60934] -> "../data/townSites2/Holyoke/www.holyoke.org/living-in-holyoke/index.html" [1]
+2017-01-01 23:08:28 URL:http://www.holyoke.org/cchip/ [59833] -> "../data/townSites2/Holyoke/www.holyoke.org/cchip/index.html" [1]
+2017-01-01 23:08:30 URL:http://www.holyoke.org/author/eileenp/ [51427] -> "../data/townSites2/Holyoke/www.holyoke.org/author/eileenp/index.html" [1]
+2017-01-01 23:08:31 URL:http://www.holyoke.org/search/ [15488] -> "../data/townSites2/Holyoke/www.holyoke.org/search/index.html" [1]
+2017-01-01 23:08:34 URL:http://www.holyoke.org/category/events/ [28507] -> "../data/townSites2/Holyoke/www.holyoke.org/category/events/index.html" [1]
+2017-01-01 23:08:35 URL:http://www.holyoke.org/category/news/featured/ [37483] -> "../data/townSites2/Holyoke/www.holyoke.org/category/news/featured/index.html" [1]
+2017-01-01 23:08:37 URL:http://www.holyoke.org/news/christina-royal-next-president-of-holyoke-community-college/ [23815] -> "../data/townSites2/Holyoke/www.holyoke.org/news/christina-royal-next-president-of-holyoke-community-college/index.html" [1]
+2017-01-01 23:08:39 URL:http://www.holyoke.org/news/holyoke-contracts-with-action-ambulance-service-inc/ [34850] -> "../data/townSites2/Holyoke/www.holyoke.org/news/holyoke-contracts-with-action-ambulance-service-inc/index.html" [1]
+2017-01-01 23:08:40 URL:http://www.holyoke.org/news/holyoke-announces-dementia-friendly-community-efforts/ [24379] -> "../data/townSites2/Holyoke/www.holyoke.org/news/holyoke-announces-dementia-friendly-community-efforts/index.html" [1]
+2017-01-01 23:08:41 URL:http://www.holyoke.org/news/new-property-values/ [23074] -> "../data/townSites2/Holyoke/www.holyoke.org/news/new-property-values/index.html" [1]
+2017-01-01 23:08:42 URL:http://www.holyoke.org/news/ag-healy-announces-new-hotline/ [23865] -> "../data/townSites2/Holyoke/www.holyoke.org/news/ag-healy-announces-new-hotline/index.html" [1]
+2017-01-01 23:08:44 URL:http://www.holyoke.org/news/college-at-holyoke-high-school/ [23463] -> "../data/townSites2/Holyoke/www.holyoke.org/news/college-at-holyoke-high-school/index.html" [1]
+2017-01-01 23:08:46 URL:http://www.holyoke.org/news/brenna-mcgee-to-receive-women-of-excellence-award/ [23751] -> "../data/townSites2/Holyoke/www.holyoke.org/news/brenna-mcgee-to-receive-women-of-excellence-award/index.html" [1]
+2017-01-01 23:08:47 URL:http://www.holyoke.org/news/election-information-2/ [22507] -> "../data/townSites2/Holyoke/www.holyoke.org/news/election-information-2/index.html" [1]
+2017-01-01 23:08:49 URL:http://www.holyoke.org/news/painless-american-government/ [23842] -> "../data/townSites2/Holyoke/www.holyoke.org/news/painless-american-government/index.html" [1]
+2017-01-01 23:08:50 URL:http://www.holyoke.org/news/hcc-celebrates-non-native-english-speaking-students/ [23837] -> "../data/townSites2/Holyoke/www.holyoke.org/news/hcc-celebrates-non-native-english-speaking-students/index.html" [1]
+2017-01-01 23:08:52 URL:http://www.holyoke.org/news/holyoke-unemployment-rate-drops-to-5-4/ [25632] -> "../data/townSites2/Holyoke/www.holyoke.org/news/holyoke-unemployment-rate-drops-to-5-4/index.html" [1]
+2017-01-01 23:08:53 URL:http://www.holyoke.org/news/holyoke-wins-community-development-award/ [27822] -> "../data/townSites2/Holyoke/www.holyoke.org/news/holyoke-wins-community-development-award/index.html" [1]
+2017-01-01 23:08:54 URL:http://www.holyoke.org/news/early-voter-registration/ [22969] -> "../data/townSites2/Holyoke/www.holyoke.org/news/early-voter-registration/index.html" [1]
+2017-01-01 23:08:56 URL:http://www.holyoke.org/news/greennfit-block-rebuild-day/ [25172] -> "../data/townSites2/Holyoke/www.holyoke.org/news/greennfit-block-rebuild-day/index.html" [1]
+2017-01-01 23:08:57 URL:http://www.holyoke.org/news/employee-fall-walking-challenge/ [23307] -> "../data/townSites2/Holyoke/www.holyoke.org/news/employee-fall-walking-challenge/index.html" [1]
+2017-01-01 23:08:59 URL:http://www.holyoke.org/news/new-look-for-holyoke-public-schools/ [23405] -> "../data/townSites2/Holyoke/www.holyoke.org/news/new-look-for-holyoke-public-schools/index.html" [1]
+2017-01-01 23:09:00 URL:http://www.holyoke.org/news/holyoke-seeks-city-christmas-tree/ [24568] -> "../data/townSites2/Holyoke/www.holyoke.org/news/holyoke-seeks-city-christmas-tree/index.html" [1]
+2017-01-01 23:09:02 URL:http://www.holyoke.org/news/michael-mcmanus-named-new-superintendent-of-holyoke-dpw/ [27453] -> "../data/townSites2/Holyoke/www.holyoke.org/news/michael-mcmanus-named-new-superintendent-of-holyoke-dpw/index.html" [1]
+2017-01-01 23:09:03 URL:http://www.holyoke.org/news/tax-collector-improves-online-payments/ [25345] -> "../data/townSites2/Holyoke/www.holyoke.org/news/tax-collector-improves-online-payments/index.html" [1]
+2017-01-01 23:09:05 URL:http://www.holyoke.org/news/mayor-proposes-holyoke-reinvestment-bond-to-transform-holyoke/ [36909] -> "../data/townSites2/Holyoke/www.holyoke.org/news/mayor-proposes-holyoke-reinvestment-bond-to-transform-holyoke/index.html" [1]
+2017-01-01 23:09:07 URL:http://www.holyoke.org/news/leadership-holyoke-2016/ [23299] -> "../data/townSites2/Holyoke/www.holyoke.org/news/leadership-holyoke-2016/index.html" [1]
+2017-01-01 23:09:08 URL:http://www.holyoke.org/news/apply-for-new-free-hcc-hospitality-training-program/ [24769] -> "../data/townSites2/Holyoke/www.holyoke.org/news/apply-for-new-free-hcc-hospitality-training-program/index.html" [1]
+2017-01-01 23:09:10 URL:http://www.holyoke.org/news/new-laptops-for-public-schools-educators-and-students/ [25063] -> "../data/townSites2/Holyoke/www.holyoke.org/news/new-laptops-for-public-schools-educators-and-students/index.html" [1]
+2017-01-01 23:09:11 URL:http://www.holyoke.org/news/slide-the-city-returns/ [25202] -> "../data/townSites2/Holyoke/www.holyoke.org/news/slide-the-city-returns/index.html" [1]
+2017-01-01 23:09:13 URL:http://www.holyoke.org/news/celebrate-holyoke-announces-2016-music-line-up/ [24838] -> "../data/townSites2/Holyoke/www.holyoke.org/news/celebrate-holyoke-announces-2016-music-line-up/index.html" [1]
+2017-01-01 23:09:14 URL:http://www.holyoke.org/news/hcc-and-mgm-springfield-announce-partnership-for-new-culinary-center-downtown/ [25000] -> "../data/townSites2/Holyoke/www.holyoke.org/news/hcc-and-mgm-springfield-announce-partnership-for-new-culinary-center-downtown/index.html" [1]
+2017-01-01 23:09:16 URL:http://www.holyoke.org/news/mayor-morse-and-the-city-of-holyoke-awarded-mayors-climate-protection-award/ [27337] -> "../data/townSites2/Holyoke/www.holyoke.org/news/mayor-morse-and-the-city-of-holyoke-awarded-mayors-climate-protection-award/index.html" [1]
+2017-01-01 23:09:17 URL:http://www.holyoke.org/news/city-council-special-meeting-3/ [20353] -> "../data/townSites2/Holyoke/www.holyoke.org/news/city-council-special-meeting-3/index.html" [1]
+2017-01-01 23:09:18 URL:http://www.holyoke.org/category/city-council/ [41670] -> "../data/townSites2/Holyoke/www.holyoke.org/category/city-council/index.html" [1]
+2017-01-01 23:09:20 URL:http://www.holyoke.org/news/holyoke-water-works-annual-quality-report/ [23994] -> "../data/townSites2/Holyoke/www.holyoke.org/news/holyoke-water-works-annual-quality-report/index.html" [1]
+2017-01-01 23:09:22 URL:http://www.holyoke.org/news/page/2/ [68527] -> "../data/townSites2/Holyoke/www.holyoke.org/news/page/2/index.html" [1]
+2017-01-01 23:09:23 URL:http://www.holyoke.org/category/news/community_news/ [35394] -> "../data/townSites2/Holyoke/www.holyoke.org/category/news/community_news/index.html" [1]
+2017-01-01 23:09:25 URL:http://www.holyoke.org/category/news/mayors-blog/ [41670] -> "../data/townSites2/Holyoke/www.holyoke.org/category/news/mayors-blog/index.html" [1]
+2017-01-01 23:09:26 URL:http://www.holyoke.org/category/news/press-release/ [35286] -> "../data/townSites2/Holyoke/www.holyoke.org/category/news/press-release/index.html" [1]
+2017-01-01 23:09:28 URL:http://www.holyoke.org/category/news/special-announcements/ [28719] -> "../data/townSites2/Holyoke/www.holyoke.org/category/news/special-announcements/index.html" [1]
+2017-01-01 23:09:29 URL:http://www.holyoke.org/2016/12/ [53555] -> "../data/townSites2/Holyoke/www.holyoke.org/2016/12/index.html" [1]
+2017-01-01 23:09:31 URL:http://www.holyoke.org/2016/11/ [54214] -> "../data/townSites2/Holyoke/www.holyoke.org/2016/11/index.html" [1]
+2017-01-01 23:09:33 URL:http://www.holyoke.org/2016/10/ [53912] -> "../data/townSites2/Holyoke/www.holyoke.org/2016/10/index.html" [1]
+2017-01-01 23:09:35 URL:http://www.holyoke.org/2016/09/ [54166] -> "../data/townSites2/Holyoke/www.holyoke.org/2016/09/index.html" [1]
+2017-01-01 23:09:36 URL:http://www.holyoke.org/2016/08/ [49579] -> "../data/townSites2/Holyoke/www.holyoke.org/2016/08/index.html" [1]
+2017-01-01 23:09:38 URL:http://www.holyoke.org/2016/07/ [53839] -> "../data/townSites2/Holyoke/www.holyoke.org/2016/07/index.html" [1]
+2017-01-01 23:09:40 URL:http://www.holyoke.org/2016/06/ [53850] -> "../data/townSites2/Holyoke/www.holyoke.org/2016/06/index.html" [1]
+2017-01-01 23:09:42 URL:http://www.holyoke.org/2016/05/ [53659] -> "../data/townSites2/Holyoke/www.holyoke.org/2016/05/index.html" [1]
+2017-01-01 23:09:44 URL:http://www.holyoke.org/2016/04/ [53874] -> "../data/townSites2/Holyoke/www.holyoke.org/2016/04/index.html" [1]
+2017-01-01 23:09:45 URL:http://www.holyoke.org/2016/03/ [54160] -> "../data/townSites2/Holyoke/www.holyoke.org/2016/03/index.html" [1]
+2017-01-01 23:09:48 URL:http://www.holyoke.org/2016/02/ [54007] -> "../data/townSites2/Holyoke/www.holyoke.org/2016/02/index.html" [1]
+2017-01-01 23:09:50 URL:http://www.holyoke.org/2016/01/ [53507] -> "../data/townSites2/Holyoke/www.holyoke.org/2016/01/index.html" [1]
+2017-01-01 23:09:52 URL:http://www.holyoke.org/2015/12/ [53598] -> "../data/townSites2/Holyoke/www.holyoke.org/2015/12/index.html" [1]
+2017-01-01 23:09:54 URL:http://www.holyoke.org/2015/11/ [53827] -> "../data/townSites2/Holyoke/www.holyoke.org/2015/11/index.html" [1]
+2017-01-01 23:09:56 URL:http://www.holyoke.org/2015/10/ [54428] -> "../data/townSites2/Holyoke/www.holyoke.org/2015/10/index.html" [1]
+2017-01-01 23:09:58 URL:http://www.holyoke.org/2015/09/ [54150] -> "../data/townSites2/Holyoke/www.holyoke.org/2015/09/index.html" [1]
+2017-01-01 23:10:00 URL:http://www.holyoke.org/2015/08/ [48314] -> "../data/townSites2/Holyoke/www.holyoke.org/2015/08/index.html" [1]
+2017-01-01 23:10:02 URL:http://www.holyoke.org/2015/07/ [54072] -> "../data/townSites2/Holyoke/www.holyoke.org/2015/07/index.html" [1]
+2017-01-01 23:10:04 URL:http://www.holyoke.org/2015/06/ [53284] -> "../data/townSites2/Holyoke/www.holyoke.org/2015/06/index.html" [1]
+2017-01-01 23:10:06 URL:http://www.holyoke.org/2015/05/ [54031] -> "../data/townSites2/Holyoke/www.holyoke.org/2015/05/index.html" [1]
+2017-01-01 23:10:08 URL:http://www.holyoke.org/2015/04/ [53555] -> "../data/townSites2/Holyoke/www.holyoke.org/2015/04/index.html" [1]
+2017-01-01 23:10:10 URL:http://www.holyoke.org/2015/03/ [54404] -> "../data/townSites2/Holyoke/www.holyoke.org/2015/03/index.html" [1]
+2017-01-01 23:10:12 URL:http://www.holyoke.org/2015/02/ [54362] -> "../data/townSites2/Holyoke/www.holyoke.org/2015/02/index.html" [1]
+2017-01-01 23:10:15 URL:http://www.holyoke.org/2015/01/ [54020] -> "../data/townSites2/Holyoke/www.holyoke.org/2015/01/index.html" [1]
+2017-01-01 23:10:17 URL:http://www.holyoke.org/2014/12/ [53616] -> "../data/townSites2/Holyoke/www.holyoke.org/2014/12/index.html" [1]
+2017-01-01 23:10:18 URL:http://www.holyoke.org/2014/11/ [52918] -> "../data/townSites2/Holyoke/www.holyoke.org/2014/11/index.html" [1]
+2017-01-01 23:10:20 URL:http://www.holyoke.org/2014/10/ [54879] -> "../data/townSites2/Holyoke/www.holyoke.org/2014/10/index.html" [1]
+2017-01-01 23:10:23 URL:http://www.holyoke.org/2014/09/ [53519] -> "../data/townSites2/Holyoke/www.holyoke.org/2014/09/index.html" [1]
+2017-01-01 23:10:25 URL:http://www.holyoke.org/2014/08/ [53318] -> "../data/townSites2/Holyoke/www.holyoke.org/2014/08/index.html" [1]
+2017-01-01 23:10:26 URL:http://www.holyoke.org/2014/07/ [54285] -> "../data/townSites2/Holyoke/www.holyoke.org/2014/07/index.html" [1]
+2017-01-01 23:10:28 URL:http://www.holyoke.org/2014/06/ [53541] -> "../data/townSites2/Holyoke/www.holyoke.org/2014/06/index.html" [1]
+2017-01-01 23:10:30 URL:http://www.holyoke.org/2014/05/ [53540] -> "../data/townSites2/Holyoke/www.holyoke.org/2014/05/index.html" [1]
+2017-01-01 23:10:31 URL:http://www.holyoke.org/2014/04/ [54541] -> "../data/townSites2/Holyoke/www.holyoke.org/2014/04/index.html" [1]
+2017-01-01 23:10:34 URL:http://www.holyoke.org/2014/03/ [54519] -> "../data/townSites2/Holyoke/www.holyoke.org/2014/03/index.html" [1]
+2017-01-01 23:10:37 URL:http://www.holyoke.org/2014/02/ [55525] -> "../data/townSites2/Holyoke/www.holyoke.org/2014/02/index.html" [1]
+2017-01-01 23:10:40 URL:http://www.holyoke.org/2014/01/ [55302] -> "../data/townSites2/Holyoke/www.holyoke.org/2014/01/index.html" [1]
+2017-01-01 23:10:42 URL:http://www.holyoke.org/2013/12/ [54544] -> "../data/townSites2/Holyoke/www.holyoke.org/2013/12/index.html" [1]
+2017-01-01 23:10:44 URL:http://www.holyoke.org/2013/11/ [54418] -> "../data/townSites2/Holyoke/www.holyoke.org/2013/11/index.html" [1]
+2017-01-01 23:10:46 URL:http://www.holyoke.org/2013/10/ [55030] -> "../data/townSites2/Holyoke/www.holyoke.org/2013/10/index.html" [1]
+2017-01-01 23:10:48 URL:http://www.holyoke.org/2013/09/ [53913] -> "../data/townSites2/Holyoke/www.holyoke.org/2013/09/index.html" [1]
+2017-01-01 23:10:49 URL:http://www.holyoke.org/2013/08/ [55024] -> "../data/townSites2/Holyoke/www.holyoke.org/2013/08/index.html" [1]
+2017-01-01 23:10:51 URL:http://www.holyoke.org/2013/07/ [54695] -> "../data/townSites2/Holyoke/www.holyoke.org/2013/07/index.html" [1]
+2017-01-01 23:10:53 URL:http://www.holyoke.org/2013/06/ [53742] -> "../data/townSites2/Holyoke/www.holyoke.org/2013/06/index.html" [1]
+2017-01-01 23:10:55 URL:http://www.holyoke.org/2013/05/ [54631] -> "../data/townSites2/Holyoke/www.holyoke.org/2013/05/index.html" [1]
+2017-01-01 23:10:56 URL:http://www.holyoke.org/2013/04/ [55317] -> "../data/townSites2/Holyoke/www.holyoke.org/2013/04/index.html" [1]
+2017-01-01 23:10:58 URL:http://www.holyoke.org/2013/03/ [54273] -> "../data/townSites2/Holyoke/www.holyoke.org/2013/03/index.html" [1]
+2017-01-01 23:11:00 URL:http://www.holyoke.org/2013/02/ [52846] -> "../data/townSites2/Holyoke/www.holyoke.org/2013/02/index.html" [1]
+2017-01-01 23:11:02 URL:http://www.holyoke.org/2013/01/ [39361] -> "../data/townSites2/Holyoke/www.holyoke.org/2013/01/index.html" [1]
+2017-01-01 23:11:04 URL:http://www.holyoke.org/2012/12/ [33068] -> "../data/townSites2/Holyoke/www.holyoke.org/2012/12/index.html" [1]
+2017-01-01 23:11:06 URL:http://www.holyoke.org/2012/11/ [29240] -> "../data/townSites2/Holyoke/www.holyoke.org/2012/11/index.html" [1]
+2017-01-01 23:11:07 URL:http://www.holyoke.org/2012/10/ [23405] -> "../data/townSites2/Holyoke/www.holyoke.org/2012/10/index.html" [1]
+2017-01-01 23:11:08 URL:http://www.holyoke.org/2012/09/ [23791] -> "../data/townSites2/Holyoke/www.holyoke.org/2012/09/index.html" [1]
+2017-01-01 23:11:12 URL:http://www.holyoke.org/arts-in-holyoke/ [54775] -> "../data/townSites2/Holyoke/www.holyoke.org/arts-in-holyoke/index.html" [1]
+2017-01-01 23:11:15 URL:http://www.holyoke.org/utility-payment-options/ [53935] -> "../data/townSites2/Holyoke/www.holyoke.org/utility-payment-options/index.html" [1]
+2017-01-01 23:11:19 URL:http://www.holyoke.org/yard-waste/ [57474] -> "../data/townSites2/Holyoke/www.holyoke.org/yard-waste/index.html" [1]
+2017-01-01 23:11:20 URL:http://www.holyoke.org/services/assessor-field-cards/ [18974] -> "../data/townSites2/Holyoke/www.holyoke.org/services/assessor-field-cards/index.html" [1]
+2017-01-01 23:11:22 URL:http://www.holyoke.org/services/pay-property-taxes/ [20817] -> "../data/townSites2/Holyoke/www.holyoke.org/services/pay-property-taxes/index.html" [1]
+2017-01-01 23:11:23 URL:http://www.holyoke.org/services/pay-vital-records/ [18358] -> "../data/townSites2/Holyoke/www.holyoke.org/services/pay-vital-records/index.html" [1]
+2017-01-01 23:11:25 URL:http://www.holyoke.org/services/pay-water-and-sewer/ [19410] -> "../data/townSites2/Holyoke/www.holyoke.org/services/pay-water-and-sewer/index.html" [1]
+2017-01-01 23:11:26 URL:http://www.holyoke.org/services/pay-your-gas-and-electric-bill/ [18331] -> "../data/townSites2/Holyoke/www.holyoke.org/services/pay-your-gas-and-electric-bill/index.html" [1]
+2017-01-01 23:11:27 URL:http://www.holyoke.org/services/property-viewer-2/ [18583] -> "../data/townSites2/Holyoke/www.holyoke.org/services/property-viewer-2/index.html" [1]
+2017-01-01 23:11:29 URL:http://www.holyoke.org/services/receive-emergency-notifications/ [18896] -> "../data/townSites2/Holyoke/www.holyoke.org/services/receive-emergency-notifications/index.html" [1]
+2017-01-01 23:11:30 URL:http://www.holyoke.org/services/report-an-issue/ [19621] -> "../data/townSites2/Holyoke/www.holyoke.org/services/report-an-issue/index.html" [1]
+2017-01-01 23:11:33 URL:http://www.holyoke.org/tif/ [57086] -> "../data/townSites2/Holyoke/www.holyoke.org/tif/index.html" [1]
+2017-01-01 23:11:37 URL:http://www.holyoke.org/holyoke-museums/ [55795] -> "../data/townSites2/Holyoke/www.holyoke.org/holyoke-museums/index.html" [1]
+2017-01-01 23:11:40 URL:http://www.holyoke.org/dining-and-lodging/ [58890] -> "../data/townSites2/Holyoke/www.holyoke.org/dining-and-lodging/index.html" [1]
+http://www.holyoke.org/directions/:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:11:44 URL:http://www.holyoke.org/public-transportation/ [54926] -> "../data/townSites2/Holyoke/www.holyoke.org/public-transportation/index.html" [1]
+2017-01-01 23:11:48 URL:http://www.holyoke.org/surrounding-region/ [54256] -> "../data/townSites2/Holyoke/www.holyoke.org/surrounding-region/index.html" [1]
+2017-01-01 23:11:51 URL:http://www.holyoke.org/real-estate-whiting-farms-rd/ [56005] -> "../data/townSites2/Holyoke/www.holyoke.org/real-estate-whiting-farms-rd/index.html" [1]
+2017-01-01 23:11:55 URL:http://www.holyoke.org/news-2/ [53224] -> "../data/townSites2/Holyoke/www.holyoke.org/news-2/index.html" [1]
+2017-01-01 23:11:59 URL:http://www.holyoke.org/home-health-care/ [58435] -> "../data/townSites2/Holyoke/www.holyoke.org/home-health-care/index.html" [1]
+2017-01-01 23:12:05 URL:http://www.holyoke.org/places-of-worship/ [57546] -> "../data/townSites2/Holyoke/www.holyoke.org/places-of-worship/index.html" [1]
+2017-01-01 23:12:09 URL:http://www.holyoke.org/doing-business-in-holyoke/ [55013] -> "../data/townSites2/Holyoke/www.holyoke.org/doing-business-in-holyoke/index.html" [1]
+2017-01-01 23:12:13 URL:http://www.holyoke.org/business-resources/ [66136] -> "../data/townSites2/Holyoke/www.holyoke.org/business-resources/index.html" [1]
+2017-01-01 23:12:14 URL:http://www.holyoke.org/events/board-of-health-2/ [19217] -> "../data/townSites2/Holyoke/www.holyoke.org/events/board-of-health-2/index.html" [1]
+2017-01-01 23:12:14 URL: http://www.holyoke.org/wp-content/uploads/2013/02/20130213_zoning24x36.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:12:18 URL:http://www.holyoke.org/business-certificate/ [54407] -> "../data/townSites2/Holyoke/www.holyoke.org/business-certificate/index.html" [1]
+2017-01-01 23:12:18 URL: http://www.holyoke.org/wp-content/uploads/2013/02/2010wardsprecincts.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:12:18 URL: http://www.holyoke.org/wp-content/uploads/2013/02/2010censustracts.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:12:19 URL: http://www.holyoke.org/wp-content/uploads/2013/02/neighborhoods.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:12:20 URL:http://www.holyoke.org/author/planningdepartment/ [54399] -> "../data/townSites2/Holyoke/www.holyoke.org/author/planningdepartment/index.html" [1]
+2017-01-01 23:12:24 URL:http://www.holyoke.org/planning-board-agendas-minutes/ [74626] -> "../data/townSites2/Holyoke/www.holyoke.org/planning-board-agendas-minutes/index.html" [1]
+2017-01-01 23:12:25 URL:http://www.holyoke.org/homepage-slideshow/homepage-slideshow/ [21912] -> "../data/townSites2/Holyoke/www.holyoke.org/homepage-slideshow/homepage-slideshow/index.html" [1]
+2017-01-01 23:12:28 URL:http://www.holyoke.org/departments/economic-development/ [53448] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/departments/economic-development/index.html" [1]
+2017-01-01 23:12:31 URL:http://www.holyoke.org/planning-forms/ [59347] -> "../data/townSites2/Holyoke/www.holyoke.org/planning-forms/index.html" [1]
+2017-01-01 23:12:36 URL:http://www.holyoke.org/boa-minutes/ [54229] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/boa-minutes/index.html" [1]
+http://www.holyoke.org/departments/wp-content/uploads/2012/07/ZONING-ORDINANCE.pdf:
+Remote file does not exist -- broken link!!!
+http://www.holyoke.org/departments/wp-content/uploads/2013/01/application-on-letterhead-appeals_morse.pdf:
+Remote file does not exist -- broken link!!!
+http://www.holyoke.org/departments/wp-content/uploads/2012/07/FINAL-2012-app_checklist.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:12:43 URL:http://www.holyoke.org/hedic-agendas-minutes/ [54246] -> "../data/townSites2/Holyoke/www.holyoke.org/hedic-agendas-minutes/index.html" [1]
+2017-01-01 23:12:43 URL: http://www.holyoke.org/wp-content/uploads/2012/07/HEDIC-By-laws.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:12:47 URL:http://www.holyoke.org/hedic-loan/ [56467] -> "../data/townSites2/Holyoke/www.holyoke.org/hedic-loan/index.html" [1]
+2017-01-01 23:12:50 URL:http://www.holyoke.org/ftz/ [58452] -> "../data/townSites2/Holyoke/www.holyoke.org/ftz/index.html" [1]
+2017-01-01 23:12:51 URL: http://www.holyoke.org/wp-content/uploads/2012/10/ZONING-ORDINANCE4.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:12:55 URL:http://www.holyoke.org/hra-agendas-minutes/ [68899] -> "../data/townSites2/Holyoke/www.holyoke.org/hra-agendas-minutes/index.html" [1]
+2017-01-01 23:12:55 URL: http://www.holyoke.org/wp-content/uploads/2012/10/HRA-By-Laws-Amended1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:12:58 URL:http://www.holyoke.org/tighe-carmody-reservoir/ [54917] -> "../data/townSites2/Holyoke/www.holyoke.org/tighe-carmody-reservoir/index.html" [1]
+2017-01-01 23:12:59 URL: http://www.holyoke.org/wp-content/uploads/2012/07/ZONING-ORDINANCE.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:00 URL: http://www.holyoke.org/wp-content/uploads/2012/07/Subdivision-Regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:00 URL: http://www.holyoke.org/wp-content/uploads/2013/01/Final_Stormwater_Regulations_May_17_2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:00 URL: http://www.holyoke.org/wp-content/uploads/2013/01/Wetlands-Protection-Regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:04 URL:http://www.holyoke.org/handicap-advisory-board/ [55089] -> "../data/townSites2/Holyoke/www.holyoke.org/handicap-advisory-board/index.html" [1]
+2017-01-01 23:13:08 URL:http://www.holyoke.org/winter-parking-regulations/ [56421] -> "../data/townSites2/Holyoke/www.holyoke.org/winter-parking-regulations/index.html" [1]
+2017-01-01 23:13:14 URL:http://www.holyoke.org/councilors/ [56960] -> "../data/townSites2/Holyoke/www.holyoke.org/councilors/index.html" [1]
+2017-01-01 23:13:19 URL:http://www.holyoke.org/city-annex/ [56745] -> "../data/townSites2/Holyoke/www.holyoke.org/city-annex/index.html" [1]
+2017-01-01 23:13:20 URL:http://www.holyoke.org/events/city-council-2/ [28737] -> "../data/townSites2/Holyoke/www.holyoke.org/events/city-council-2/index.html" [1]
+2017-01-01 23:13:22 URL:http://www.holyoke.org/events/registrars-of-voters-4/ [18360] -> "../data/townSites2/Holyoke/www.holyoke.org/events/registrars-of-voters-4/index.html" [1]
+2017-01-01 23:13:22 URL: http://www.holyoke.org/wp-content/uploads/2013/01/FY2016-Adopted-Budget-2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:22 URL: http://www.holyoke.org/wp-content/uploads/2012/12/BIRTH-CERTIFICATE-REQUEST-FORM1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:23 URL: http://www.holyoke.org/wp-content/uploads/2012/12/MarriageCertificateFinal1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:23 URL: http://www.holyoke.org/wp-content/uploads/2012/12/DeathRecordFinal1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:23 URL: http://www.holyoke.org/wp-content/uploads/2012/12/new-dog-letter.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:24 URL: http://www.holyoke.org/wp-content/uploads/2013/01/LicensingClerk_JunkDealer.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:24 URL: http://www.holyoke.org/wp-content/uploads/2013/01/LicensingClerk_SecondhandLicense.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:25 URL: http://www.holyoke.org/wp-content/uploads/2013/01/LicensingClerk_Exhibition.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:26 URL: http://www.holyoke.org/wp-content/uploads/2013/01/LicensingClerk_Auction.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:27 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Updated-Business-Certifcate-Application-Packet.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:27 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Claim-Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:27 URL: http://www.holyoke.org/wp-content/uploads/2013/01/LicensingClerk_LiveryServices.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:28 URL: http://www.holyoke.org/wp-content/uploads/2013/01/LicensingClerk_Pawnbroker.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:28 URL: http://www.holyoke.org/wp-content/uploads/2013/01/LicensingClerk_PoolAndBilliard.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:29 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Special-Permit-Application-CC.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:29 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Special-Permit-Ordinance.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:30 URL: http://www.holyoke.org/wp-content/uploads/2012/12/4.3-Table-of-Principal-Uses.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:30 URL: http://www.holyoke.org/wp-content/uploads/2012/12/5.2-Table-of-Dimensional-Regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:31 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Table-of-Off-Street-Parking-Standards.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:32 URL: http://www.holyoke.org/wp-content/uploads/2012/12/4.4.3-Dwelling-units-in-acessory-structures-Ordinance2.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:33 URL: http://www.holyoke.org/wp-content/uploads/2012/12/4.7.3-Nonconforming-structures-other-than-single-and-two-family-structures-Ordinance1.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:34 URL: http://www.holyoke.org/wp-content/uploads/2012/12/4.4.9-Acessory-to-scientific-research-Ordinance1.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:34 URL: http://www.holyoke.org/wp-content/uploads/2012/12/4.7.5-Nonconforming-single-and-two-family-structures-Ordinance1.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:34 URL: http://www.holyoke.org/wp-content/uploads/2012/12/4.7.2-Nonconforming-uses1.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:35 URL: http://www.holyoke.org/wp-content/uploads/2012/12/4.8.2-By-special-permit-Home-Occupation-Ordinance1.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:35 URL: http://www.holyoke.org/wp-content/uploads/2012/12/5.3.1-Height-limitation-Ordinance1.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:36 URL: http://www.holyoke.org/wp-content/uploads/2012/12/6.1.8.1-Special-permit-for-a-driveway-in-a-front-yard-Ordinance1.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:36 URL: http://www.holyoke.org/wp-content/uploads/2012/12/7.1.1-Hosptial-Height1.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:37 URL: http://www.holyoke.org/wp-content/uploads/2012/12/7.2.13-Outdoor-sales-lots-for-new-and-used-motor-vehicles-and-trucks-and-marine-and-recreational-vehicles-for-website.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:37 URL: http://www.holyoke.org/wp-content/uploads/2012/12/7.2.1-Motor-vehicle-service-station-for-website2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:38 URL: http://www.holyoke.org/wp-content/uploads/2012/12/7.2.13a-Motor-vehicle-repair-garage.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:38 URL: http://www.holyoke.org/wp-content/uploads/2012/12/7.2.2-Bulk-fuel-oil-gas-coal-storage-or-distribution-operation.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:38 URL: http://www.holyoke.org/wp-content/uploads/2012/12/7.2.13b-Motor-vehicle-body-repair-or-paint-shop-for-website.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:39 URL: http://www.holyoke.org/wp-content/uploads/2012/12/7.2.3-Advertising-blimps.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:39 URL: http://www.holyoke.org/wp-content/uploads/2012/12/7.2.14-Refuse-transfer-station.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:40 URL: http://www.holyoke.org/wp-content/uploads/2012/12/7.2.4-Financial-institutions-in-industrial-park-districts-Ordinance.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:40 URL: http://www.holyoke.org/wp-content/uploads/2012/12/7.3-Removal-of-earth-materials.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:40 URL: http://www.holyoke.org/wp-content/uploads/2012/12/7.2.5-Flea-market-for-website.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:40 URL: http://www.holyoke.org/wp-content/uploads/2012/12/7.4.1-Conversion-of-two-family-dwelling-into-a-three-family-dwelling-Ordinance.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:41 URL: http://www.holyoke.org/wp-content/uploads/2012/12/7.2.6-Boarding-houses-Ordinance.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:41 URL: http://www.holyoke.org/wp-content/uploads/2012/12/7.7.2-Retirement-Communities-Ordinance.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:41 URL: http://www.holyoke.org/wp-content/uploads/2012/12/7.2.7-Bed-and-breakfast-Ordinance.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:42 URL: http://www.holyoke.org/wp-content/uploads/2012/12/7.2.8-Adult-entertainment-Ordinance.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:42 URL: http://www.holyoke.org/wp-content/uploads/2012/12/7.2.9-Third-dwelling-unit-in-an-exisiting-two-family-dwelling.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:43 URL: http://www.holyoke.org/wp-content/uploads/2012/12/7.2.11-Motor-car-race-tracks-speedways.doc-horse-and-dog-rack-tracks-permanent-Ordiance.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:43 URL: http://www.holyoke.org/wp-content/uploads/2012/12/7.2.12-Temporary-storage-units-Ordinance.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:44 URL: http://www.holyoke.org/wp-content/uploads/2012/12/7.8.3.1-Wireless-Telcommunication-facilities-and-antennas-Ordinance.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:45 URL: http://www.holyoke.org/wp-content/uploads/2012/12/7.8.9-Alterations-to-Wireless-Telecommunications-Facilities.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:46 URL: http://www.holyoke.org/wp-content/uploads/2012/12/7.8.5-Antenna-on-an-exisiting-wireless-telecommunications-facility-Ordinance.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:47 URL: http://www.holyoke.org/wp-content/uploads/2012/12/7.10.Medical-Marijuana-Facilities.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:47 URL: http://www.holyoke.org/wp-content/uploads/2012/12/8.4-Professional-Office-Overlay-District-POOD-Ordinance.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:48 URL: http://www.holyoke.org/wp-content/uploads/2012/12/8.1.2-Floodplain-overlay-district-Ordinance.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:48 URL: http://www.holyoke.org/wp-content/uploads/2012/12/8.7.4-Arts-and-Industry-Overlay-District-Ordiance.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:49 URL: http://www.holyoke.org/wp-content/uploads/2012/12/8.3.3-Motor-vehicle-lgiht-service-shopping-center-Ordinance.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:49 URL: http://www.holyoke.org/wp-content/uploads/2012/12/8.8.3-Nonconforming-Downtown-Residental-District-Ordinance.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:50 URL: http://www.holyoke.org/wp-content/uploads/2012/12/8.8.5-Dimensional-Variation-Ordinance.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:50 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Zone-Change-Application.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:51 URL: http://www.holyoke.org/wp-content/uploads/2012/12/As-of-Right-Home-Occupation-Application.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:52 URL: http://www.holyoke.org/wp-content/uploads/2012/12/4.8.1-As-of-Right-Home-Occupation-Ordinance.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:52 URL: http://www.holyoke.org/wp-content/uploads/2012/12/State-Election-Presidential-11.8.16-Official.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:53 URL: http://www.holyoke.org/wp-content/uploads/2012/12/State-Election-Presidential-11.8.16-Unofficial.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:53 URL: http://www.holyoke.org/wp-content/uploads/2012/12/State-Primary-9.8.16-Official.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:53 URL: http://www.holyoke.org/wp-content/uploads/2012/12/State-Primary-9.8.16-Unofficial.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:53 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Presidential-Primary-Official-Results-3.1.2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:54 URL: http://www.holyoke.org/wp-content/uploads/2012/12/November-3-2015-Unofficial-Results.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:54 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Preliminary-Official-Results-9.22.15.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:55 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Official-Results-State-Election-November-4-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:55 URL: http://www.holyoke.org/wp-content/uploads/2012/12/State-Primary-Election-Results-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:55 URL: http://www.holyoke.org/wp-content/uploads/2012/12/OCPF-Special-Edition-Campaign-Finance-Law-Changes.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:13:59 URL:http://www.holyoke.org/year-end-2015/ [58111] -> "../data/townSites2/Holyoke/www.holyoke.org/year-end-2015/index.html" [1]
+2017-01-01 23:14:03 URL:http://www.holyoke.org/year-end-2014/ [57212] -> "../data/townSites2/Holyoke/www.holyoke.org/year-end-2014/index.html" [1]
+2017-01-01 23:14:06 URL:http://www.holyoke.org/campaign-finance/ [57703] -> "../data/townSites2/Holyoke/www.holyoke.org/campaign-finance/index.html" [1]
+2017-01-01 23:14:08 URL:http://www.holyoke.org/author/cityclerk/ [22376] -> "../data/townSites2/Holyoke/www.holyoke.org/author/cityclerk/index.html" [1]
+2017-01-01 23:14:12 URL:http://www.holyoke.org/council-meeting-minutes/ [53854] -> "../data/townSites2/Holyoke/www.holyoke.org/council-meeting-minutes/index.html" [1]
+2017-01-01 23:14:15 URL:http://www.holyoke.org/boards-and-commisions/ [57795] -> "../data/townSites2/Holyoke/www.holyoke.org/boards-and-commisions/index.html" [1]
+2017-01-01 23:14:16 URL:http://www.holyoke.org/events/i-love-wine-a-tasting-to-benefit-wistariahurst-museum/ [19887] -> "../data/townSites2/Holyoke/www.holyoke.org/events/i-love-wine-a-tasting-to-benefit-wistariahurst-museum/index.html" [1]
+2017-01-01 23:14:18 URL:http://www.holyoke.org/events/holyoke-city-council-agenda-4/ [34277] -> "../data/townSites2/Holyoke/www.holyoke.org/events/holyoke-city-council-agenda-4/index.html" [1]
+2017-01-01 23:14:19 URL:http://www.holyoke.org/events/license-board-meeting-8/ [29325] -> "../data/townSites2/Holyoke/www.holyoke.org/events/license-board-meeting-8/index.html" [1]
+2017-01-01 23:14:21 URL:http://www.holyoke.org/events/holyoke-public-library-corporation-board-of-directors-10/ [20459] -> "../data/townSites2/Holyoke/www.holyoke.org/events/holyoke-public-library-corporation-board-of-directors-10/index.html" [1]
+2017-01-01 23:14:23 URL:http://www.holyoke.org/events/public-safety-committee-meeting-121516/ [20748] -> "../data/townSites2/Holyoke/www.holyoke.org/events/public-safety-committee-meeting-121516/index.html" [1]
+2017-01-01 23:14:23 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Holyoke-Preservation-Plan-Update-1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:14:24 URL:http://www.holyoke.org/events/hampden-hampshire-conservation-district/ [19698] -> "../data/townSites2/Holyoke/www.holyoke.org/events/hampden-hampshire-conservation-district/index.html" [1]
+2017-01-01 23:14:26 URL:http://www.holyoke.org/events/board-of-public-works-meeting/ [22746] -> "../data/townSites2/Holyoke/www.holyoke.org/events/board-of-public-works-meeting/index.html" [1]
+2017-01-01 23:14:27 URL:http://www.holyoke.org/events/stormwater-authority-public-hearing-5/ [18561] -> "../data/townSites2/Holyoke/www.holyoke.org/events/stormwater-authority-public-hearing-5/index.html" [1]
+2017-01-01 23:14:29 URL:http://www.holyoke.org/events/city-of-holyoke-christmas-tree-lighting-santa-arrives-on-the-polar-express/ [19755] -> "../data/townSites2/Holyoke/www.holyoke.org/events/city-of-holyoke-christmas-tree-lighting-santa-arrives-on-the-polar-express/index.html" [1]
+2017-01-01 23:14:30 URL:http://www.holyoke.org/events/holyooke-public-library-corporation-board-of-directors/ [20332] -> "../data/townSites2/Holyoke/www.holyoke.org/events/holyooke-public-library-corporation-board-of-directors/index.html" [1]
+2017-01-01 23:14:31 URL:http://www.holyoke.org/events/local-historic-district-commission-5/ [19194] -> "../data/townSites2/Holyoke/www.holyoke.org/events/local-historic-district-commission-5/index.html" [1]
+2017-01-01 23:14:33 URL:http://www.holyoke.org/events/parks-and-recreation-commission-meeting-4/ [20361] -> "../data/townSites2/Holyoke/www.holyoke.org/events/parks-and-recreation-commission-meeting-4/index.html" [1]
+2017-01-01 23:14:35 URL:http://www.holyoke.org/news/mentoring-helps-youth-on-path-to-greatness/ [26675] -> "../data/townSites2/Holyoke/www.holyoke.org/news/mentoring-helps-youth-on-path-to-greatness/index.html" [1]
+2017-01-01 23:14:36 URL:http://www.holyoke.org/events/public-works-meeting/ [21086] -> "../data/townSites2/Holyoke/www.holyoke.org/events/public-works-meeting/index.html" [1]
+2017-01-01 23:14:37 URL:http://www.holyoke.org/events/lego-club/ [18098] -> "../data/townSites2/Holyoke/www.holyoke.org/events/lego-club/index.html" [1]
+2017-01-01 23:14:39 URL:http://www.holyoke.org/news/holyoke-soldiers-home-veterans-holiday-party/ [22975] -> "../data/townSites2/Holyoke/www.holyoke.org/news/holyoke-soldiers-home-veterans-holiday-party/index.html" [1]
+2017-01-01 23:14:40 URL:http://www.holyoke.org/events/bicycle-pedestrian-committee/ [17941] -> "../data/townSites2/Holyoke/www.holyoke.org/events/bicycle-pedestrian-committee/index.html" [1]
+2017-01-01 23:14:44 URL:http://www.holyoke.org/events/water-commission-meeting-56/ [19110] -> "../data/townSites2/Holyoke/www.holyoke.org/events/water-commission-meeting-56/index.html" [1]
+2017-01-01 23:14:46 URL:http://www.holyoke.org/category/events/feed/ [142899] -> "../data/townSites2/Holyoke/www.holyoke.org/category/events/feed/index.html" [1]
+2017-01-01 23:14:48 URL:http://www.holyoke.org/category/news/page/2/ [80531] -> "../data/townSites2/Holyoke/www.holyoke.org/category/news/page/2/index.html" [1]
+2017-01-01 23:14:49 URL:http://www.holyoke.org/events/board-of-assessors-public-hearing-notice/ [18091] -> "../data/townSites2/Holyoke/www.holyoke.org/events/board-of-assessors-public-hearing-notice/index.html" [1]
+2017-01-01 23:14:51 URL:http://www.holyoke.org/events/holyoke-council-on-aging-board-of-directors-meeting-24/ [18892] -> "../data/townSites2/Holyoke/www.holyoke.org/events/holyoke-council-on-aging-board-of-directors-meeting-24/index.html" [1]
+2017-01-01 23:14:52 URL:http://www.holyoke.org/author/mayor-admin/ [39319] -> "../data/townSites2/Holyoke/www.holyoke.org/author/mayor-admin/index.html" [1]
+2017-01-01 23:14:54 URL:http://www.holyoke.org/events/development-and-govt-relations-cmte-meeting-1916/ [21212] -> "../data/townSites2/Holyoke/www.holyoke.org/events/development-and-govt-relations-cmte-meeting-1916/index.html" [1]
+2017-01-01 23:14:56 URL:http://www.holyoke.org/author/school-admin/ [50962] -> "../data/townSites2/Holyoke/www.holyoke.org/author/school-admin/index.html" [1]
+2017-01-01 23:14:58 URL:http://www.holyoke.org/author/cityclerkadmin/ [52986] -> "../data/townSites2/Holyoke/www.holyoke.org/author/cityclerkadmin/index.html" [1]
+2017-01-01 23:15:00 URL:http://www.holyoke.org/author/troman/ [56912] -> "../data/townSites2/Holyoke/www.holyoke.org/author/troman/index.html" [1]
+2017-01-01 23:15:01 URL: http://www.holyoke.org/wp-content/uploads/2016/12/1-4-17-Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:03 URL:http://www.holyoke.org/author/license-board/ [32445] -> "../data/townSites2/Holyoke/www.holyoke.org/author/license-board/index.html" [1]
+2017-01-01 23:15:05 URL:http://www.holyoke.org/author/bohadmin/ [33074] -> "../data/townSites2/Holyoke/www.holyoke.org/author/bohadmin/index.html" [1]
+2017-01-01 23:15:07 URL:http://www.holyoke.org/events/a-wine-tasting-to-benefit-wistariahurst/ [19455] -> "../data/townSites2/Holyoke/www.holyoke.org/events/a-wine-tasting-to-benefit-wistariahurst/index.html" [1]
+2017-01-01 23:15:10 URL:http://www.holyoke.org/news/a-safer-holyoke-in-2012/ [25996] -> "../data/townSites2/Holyoke/www.holyoke.org/news/a-safer-holyoke-in-2012/index.html" [1]
+2017-01-01 23:15:12 URL:http://www.holyoke.org/author/auxpolice/ [20136] -> "../data/townSites2/Holyoke/www.holyoke.org/author/auxpolice/index.html" [1]
+2017-01-01 23:15:12 URL: http://www.holyoke.org/wp-content/uploads/2012/12/DECEMBER-HEALTH-NEWS-2016.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:12 URL: http://www.holyoke.org/wp-content/uploads/2012/12/NEW-TOBACCO-REGULATIONS-NOV-3-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:13 URL: http://www.holyoke.org/wp-content/uploads/2012/12/FOOD-ESTABLISHMENT-APP.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:13 URL: http://www.holyoke.org/wp-content/uploads/2012/12/FOOD-ESTABLISHMENT-APP1.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:13 URL: http://www.holyoke.org/wp-content/uploads/2012/12/MOBILE-FOOD-REV.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:14 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Application_Temp_permit.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:14 URL: http://www.holyoke.org/wp-content/uploads/2012/12/FOOD_SERVICE_RETAIL_FOOD.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:14 URL: http://www.holyoke.org/wp-content/uploads/2012/12/BAKERY-APPL-REV.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:14 URL: http://www.holyoke.org/wp-content/uploads/2012/12/FROZEN-TREAT-APPL.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:15 URL: http://www.holyoke.org/wp-content/uploads/2012/12/NEW-TOBACCO-APPL.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:15 URL: http://www.holyoke.org/wp-content/uploads/2012/12/SALE-AND-USE-E-CIGARETTES.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:16 URL: http://www.holyoke.org/wp-content/uploads/2012/12/SALE-OF-TOBACCO-UNDER-21.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:16 URL: http://www.holyoke.org/wp-content/uploads/2012/12/TOBACCO-USE-IN-PUBLIC-PLACES.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:16 URL: http://www.holyoke.org/wp-content/uploads/2012/12/DUMPSTER-APPL1.doc 200 OK
+unlink: No such file or directory
+http://www.holyoke.org/wp-content/uploads/2012/12/MANICURING-APPL.doc:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:15:17 URL: http://www.holyoke.org/wp-content/uploads/2012/12/TANNING-APPLICATION.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:18 URL: http://www.holyoke.org/wp-content/uploads/2012/12/BODY-ART-ESTABLISHMENT.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:18 URL: http://www.holyoke.org/wp-content/uploads/2012/12/ART-PRACTITIONER-APPL.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:18 URL: http://www.holyoke.org/wp-content/uploads/2012/12/SWIMMING-POOL-APL.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:19 URL: http://www.holyoke.org/wp-content/uploads/2012/12/HOTEL-APPL.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:19 URL: http://www.holyoke.org/wp-content/uploads/2012/12/RECREATIONAL-CAMP-APPL.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:19 URL: http://www.holyoke.org/wp-content/uploads/2012/12/SEPTAGE.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:20 URL: http://www.holyoke.org/wp-content/uploads/2012/12/DisposalWorksInstaller.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:20 URL: http://www.holyoke.org/wp-content/uploads/2012/12/MRVP-VOUCHR-INSP-FORM75.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:20 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Vacant-Building-Registration-Form-2016-2017.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:25 URL:http://www.holyoke.org/animal-control-ordinances/ [53742] -> "../data/townSites2/Holyoke/www.holyoke.org/animal-control-ordinances/index.html" [1]
+2017-01-01 23:15:30 URL:http://www.holyoke.org/frequently-asked-questions/ [60042] -> "../data/townSites2/Holyoke/www.holyoke.org/frequently-asked-questions/index.html" [1]
+2017-01-01 23:15:30 URL: http://www.holyoke.org/wp-content/uploads/2012/12/servesafe-classes.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:30 URL: http://www.holyoke.org/wp-content/uploads/2012/12/SERVSAFE-SCAN.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:30 URL: http://www.holyoke.org/wp-content/uploads/2012/12/FOOD-SAFETY-MANAGER-COURSE.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:31 URL: http://www.holyoke.org/wp-content/uploads/2012/12/BODY-ART-SKIN-COURSE.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:31 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Wellness-Champion.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:35 URL:http://www.holyoke.org/the-way-to-wellness/ [56355] -> "../data/townSites2/Holyoke/www.holyoke.org/the-way-to-wellness/index.html" [1]
+2017-01-01 23:15:36 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Dates-flier7.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:36 URL: http://www.holyoke.org/wp-content/uploads/2012/12/PCP-Screening-form1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:36 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Dates-flier22.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:37 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Referrals.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:37 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Bone-marrow-drive2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:37 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Snap-Fitness.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:43 URL:http://www.holyoke.org/workplace-wellness-city-insurance-benefits/ [55247] -> "../data/townSites2/Holyoke/www.holyoke.org/workplace-wellness-city-insurance-benefits/index.html" [1]
+2017-01-01 23:15:45 URL:http://www.holyoke.org/news/hge-helps-holyoke-seniors-prepare-for-winter/ [23282] -> "../data/townSites2/Holyoke/www.holyoke.org/news/hge-helps-holyoke-seniors-prepare-for-winter/index.html" [1]
+2017-01-01 23:15:45 URL: http://www.holyoke.org/wp-content/uploads/2012/12/public-records-request-and-instructions1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:45 URL: http://www.holyoke.org/wp-content/uploads/2012/12/HIC-and-CSL-checklist.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:46 URL: http://www.holyoke.org/wp-content/uploads/2012/12/FAQ-other-than-one-two-family.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:46 URL: http://www.holyoke.org/wp-content/uploads/2012/12/building-permit-one-and-two-family7.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:46 URL: http://www.holyoke.org/wp-content/uploads/2012/12/building-permit-other-than-one-and-two-family.2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:46 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Holyoke-Mall-Application2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:47 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Sheet-Metal5.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:47 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Demolition-application4.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:47 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Trench_Permit_Form_Electronic_new2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:48 URL: http://www.holyoke.org/wp-content/uploads/2012/12/workers-comp-affidavit-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:48 URL: http://www.holyoke.org/wp-content/uploads/2012/12/CI-app-and-instructions2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:48 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Gas-application-3.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:49 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Plumbing-App-2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:49 URL: http://www.holyoke.org/wp-content/uploads/2012/12/electrical_mass_form-2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:49 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Electrical-INSTITUTIONAL-App.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:51 URL:http://www.holyoke.org/author/brooksc/ [21006] -> "../data/townSites2/Holyoke/www.holyoke.org/author/brooksc/index.html" [1]
+2017-01-01 23:15:52 URL:http://www.holyoke.org/events/christmas-tree-lighting/ [18110] -> "../data/townSites2/Holyoke/www.holyoke.org/events/christmas-tree-lighting/index.html" [1]
+2017-01-01 23:15:53 URL: http://www.holyoke.org/wp-content/uploads/2012/11/ABATEMENT_APP.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:54 URL:http://www.holyoke.org/author/assessor/ [20982] -> "../data/townSites2/Holyoke/www.holyoke.org/author/assessor/index.html" [1]
+2017-01-01 23:15:55 URL: http://www.holyoke.org/wp-content/uploads/2012/11/FY2014-Financial-Statements-City-of-Holyoke-MA.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:55 URL: http://www.holyoke.org/wp-content/uploads/2012/11/FY2015-Financial-Statements-City-of-Holyoke-MA.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:55 URL: http://www.holyoke.org/wp-content/uploads/2012/11/FY2015-Single-Audit-Report-City-of-Holyoke-MA.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:56 URL: http://www.holyoke.org/wp-content/uploads/2012/11/FY2014-Single-Audit-City-of-Holyoke-MA.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:56 URL: http://www.holyoke.org/wp-content/uploads/2012/11/FY2013-Audited-Financial-Statements-City-of-Holyoke-MA.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:56 URL: http://www.holyoke.org/wp-content/uploads/2012/11/FY2013-Federal-Single-Audit-City-of-Holyoke-MA.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:57 URL: http://www.holyoke.org/wp-content/uploads/2012/11/12-Audit-Financials-Holyoke-signed-final.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:57 URL: http://www.holyoke.org/wp-content/uploads/2012/11/12-Audit-Single-Audit-Holyoke-signed-final.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:57 URL: http://www.holyoke.org/wp-content/uploads/2012/11/11_Audit_Financial.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:57 URL: http://www.holyoke.org/wp-content/uploads/2012/11/11_Audit_Single_Audit.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:58 URL: http://www.holyoke.org/wp-content/uploads/2012/11/10_Audit_Financials.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:58 URL: http://www.holyoke.org/wp-content/uploads/2012/11/10_Audit_Single_Audit.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:58 URL: http://www.holyoke.org/wp-content/uploads/2012/11/09-Audit-Financials-Holyoke-signed-final.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:59 URL: http://www.holyoke.org/wp-content/uploads/2012/11/09-Audit-Single-Audit-Holyoke-signed-final.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:59 URL: http://www.holyoke.org/wp-content/uploads/2012/11/08-Audit-Financials-Holyoke-signed-final.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:15:59 URL: http://www.holyoke.org/wp-content/uploads/2012/11/08-Audit-Single-Audit-Holyoke-signed-final.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:00 URL: http://www.holyoke.org/wp-content/uploads/2012/11/FY2017-Budget-City-of-Holyoke-MA.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:00 URL: http://www.holyoke.org/wp-content/uploads/2012/11/FY2016-Adopted-Budget.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:00 URL: http://www.holyoke.org/wp-content/uploads/2012/11/FY15-budget.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:01 URL: http://www.holyoke.org/wp-content/uploads/2012/11/FY2014-Adopted-Budget.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:01 URL: http://www.holyoke.org/wp-content/uploads/2012/11/FY-2013-Adopted-Budget.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:01 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Fiscal-Policies-Manual.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:03 URL:http://www.holyoke.org/city-council/rebecca-lisi/ [20419] -> "../data/townSites2/Holyoke/www.holyoke.org/city-council/rebecca-lisi/index.html" [1]
+http://www.holyoke.org/images/stories/dept_public_works/Claim_form_with_City_Seal.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:16:05 URL:http://www.holyoke.org/author/city-solicitor/ [20998] -> "../data/townSites2/Holyoke/www.holyoke.org/author/city-solicitor/index.html" [1]
+2017-01-01 23:16:07 URL:http://www.holyoke.org/events/massachusetts-green-building-holyokes-high-performance-computing-center/ [19676] -> "../data/townSites2/Holyoke/www.holyoke.org/events/massachusetts-green-building-holyokes-high-performance-computing-center/index.html" [1]
+http://www.holyoke.org/wp-content/uploads/2012/12/Excerpt-of-MCTA-Treasurer-Chapter-2-Duties-Responsibilities-of-the-City-Treasurer.pdf:
+Remote file does not exist -- broken link!!!
+http://www.holyoke.org/wp-content/uploads/2012/12/2014-06-30-All-Debt-with-GL-Codes-Part-1.pdf:
+Remote file does not exist -- broken link!!!
+http://www.holyoke.org/wp-content/uploads/2012/12/2014-06-30-All-Debt-with-GL-Codes-Part-2.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:16:10 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Enrollment-Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:10 URL: http://www.holyoke.org/wp-content/uploads/2012/12/enrollment_form457.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:10 URL: http://www.holyoke.org/wp-content/uploads/2012/12/City-of-Holyoke-obra-enrollment-5.14.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:11 URL: http://www.holyoke.org/wp-content/uploads/2012/12/403b-Salary-Deferral-Agreement.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:11 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Beneficiary-Designation-Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:11 URL: http://www.holyoke.org/wp-content/uploads/2012/12/457-Beneficiary-Designation.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:11 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Withdrawal-Request-Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:12 URL: http://www.holyoke.org/wp-content/uploads/2012/12/403b-Beneficiary-Designation.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:12 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Paycheck-Contribution-Election.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:12 URL: http://www.holyoke.org/wp-content/uploads/2012/12/457-Contribution-Change-Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:13 URL: http://www.holyoke.org/wp-content/uploads/2012/12/403b-Contribution-Change-Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:13 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Catch-Up-Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:13 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Catch-Up-Form1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:14 URL: http://www.holyoke.org/wp-content/uploads/2012/12/15-Year-Rule-Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:14 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Withdrawal-Request.pdf 200 OK
+unlink: No such file or directory
+http://www.holyoke.org/wp-content/uploads/2012/12/Direct-Deposit-Form.pdf:
+Remote file does not exist -- broken link!!!
+http://www.holyoke.org/wp-content/uploads/2012/12/Bi-Weekly-Time-Sheets-Rev-05-2012.xls:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:16:15 URL: http://www.holyoke.org/wp-content/uploads/2012/12/W-4-2015.pdf 200 OK
+unlink: No such file or directory
+http://www.holyoke.org/wp-content/uploads/2012/12/m-4.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:16:17 URL:http://www.holyoke.org/author/city-treasurer/ [20988] -> "../data/townSites2/Holyoke/www.holyoke.org/author/city-treasurer/index.html" [1]
+2017-01-01 23:16:18 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Notice-of-Availability-CDBG-Funds.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:18 URL: http://www.holyoke.org/wp-content/uploads/2012/11/December-14-2016-Public-Hearing.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:18 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Mountain-Road.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:19 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Mountain-Road-Wetlands-Final-Notice.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:19 URL: http://www.holyoke.org/wp-content/uploads/2012/11/NOI-Mt.-Road.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:19 URL: http://www.holyoke.org/wp-content/uploads/2012/11/RROF-84-88-Newton.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:20 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Jennifer-Martins-Disclosure.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:20 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Public-Disclosure-Jennifer-Martins.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:20 URL: http://www.holyoke.org/wp-content/uploads/2012/11/First-Time-Homebuyers-Workshop.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:21 URL: http://www.holyoke.org/wp-content/uploads/2012/11/FFY2016-Spreadsheet-FINAL-ALLOCATIONS.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:21 URL: http://www.holyoke.org/wp-content/uploads/2016/08/FY2015-CAPER.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:21 URL: http://www.holyoke.org/wp-content/uploads/2012/11/2015-CAPER-DRAFT-VERSION-9-2-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:21 URL: http://www.holyoke.org/wp-content/uploads/2012/11/FY13-Hampden-County-Continuum-of-Care-Allocations.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:22 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Neighborhood-Improvement-Program.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:22 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Rental-Neighborhood-Improvement-Program.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:22 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Community-Development-Public-Services.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:23 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Community-Resource-Guide-2014-.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:23 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Fair-Housing-and-Equity-Assessment.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:23 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Have-you-found-Closed-Doors-When-Looking-for-Housing-Enlsigh-Spanish.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:24 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Fair-Housing-Domestic-Violence-Victims00012.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:24 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Fair-Housing-Sexual-Orientation0001.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:24 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Fair-Housing-HIV-AIDS00012.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:25 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Fair-Housing-HIV-AIDS-Spanish0001.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:25 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Fair-Housing-Physical-Disabilities0001.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:25 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Fair-Housing-Physical-Disabilities-Spanish0001.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:26 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Fair-Housing-Mental-Disabilities00013.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:26 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Fair-Housing-Mental-Disabilities-Spansih0001.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:26 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Fair-Housing-Families-with-Children0001.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:26 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Fair-Housing-Families-with-Children-Spanish0001.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:27 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Fair-Housing-Public-Housing0001.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:27 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Fair-Housing-Public-Housing-Spanish00011.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:27 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Spreadsheet-FINAL-ALLOCATIONS-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:28 URL: http://www.holyoke.org/wp-content/uploads/2012/11/2017-ConPlan-Schedule.pdf 200 OK
+unlink: No such file or directory
+http://www.holyoke.org/images/stories/dept_community_dev/Notice_of_Availability_of_Funding.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:16:29 URL: http://www.holyoke.org/wp-content/uploads/2012/11/CHDO-Policies-Procedures.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:29 URL: http://www.holyoke.org/wp-content/uploads/2012/11/CHDO-Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:29 URL: http://www.holyoke.org/wp-content/uploads/2012/11/CHDO-Recertification.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:30 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Historic-Inventory-pdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:31 URL:http://www.holyoke.org/news/holyoke-historical-commission-2/ [22952] -> "../data/townSites2/Holyoke/www.holyoke.org/news/holyoke-historical-commission-2/index.html" [1]
+2017-01-01 23:16:32 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Chestnut-Street.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:32 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Subrecipient-Manual.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:32 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Monthly-Reporting-Forms.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:32 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Monthly-Activity-Funding-Update-Form1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:33 URL: http://www.holyoke.org/wp-content/uploads/2012/11/FY2016-Income-Limits.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:33 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Performance-Monitoring-Checklist.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:33 URL: http://www.holyoke.org/wp-content/uploads/2013/03/Fiscal-Monitoring-Checklist.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:35 URL:http://www.holyoke.org/author/community-development/ [25006] -> "../data/townSites2/Holyoke/www.holyoke.org/author/community-development/index.html" [1]
+2017-01-01 23:16:35 URL: http://www.holyoke.org/wp-content/uploads/2012/10/Eligible-Planting-Area.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:37 URL:http://www.holyoke.org/departments/city-clerk/ [56117] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/departments/city-clerk/index.html" [1]
+http://www.holyoke.org/departments/wp-content/uploads/2012/10/bylaws-2011.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:16:38 URL: http://www.holyoke.org/wp-content/uploads/2012/10/Holyoke-Energy-Reduction-Plan-May-14-2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:38 URL: http://www.holyoke.org/wp-content/uploads/2013/01/rivers_protection_act_handout0001.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:39 URL: http://www.holyoke.org/wp-content/uploads/2013/01/protecting_wetlands_in_holyoke0001.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:39 URL: http://www.holyoke.org/wp-content/uploads/2013/01/landscapers_brochure.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:39 URL: http://www.holyoke.org/wp-content/uploads/2013/01/DEP_POLICY.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:40 URL: http://www.holyoke.org/wp-content/uploads/2012/10/HWW_WETLANDS_OBLIGATIONS.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:40 URL: http://www.holyoke.org/wp-content/uploads/2012/10/2013-fee-table.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:40 URL: http://www.holyoke.org/wp-content/uploads/2012/10/2013_Local_Ordinance1.pdf 200 OK
+unlink: No such file or directory
+http://www.holyoke.org/images/stories/dept_conservation_commission/water_chestnut_poster0001.pdf:
+Remote file does not exist -- broken link!!!
+http://www.holyoke.org/images/stories/dept_conservation_commission/living_with_beavers.pdf:
+Remote file does not exist -- broken link!!!
+http://www.holyoke.org/images/stories/dept_conservation_commission/beaver_citizens_guide.pdf:
+Remote file does not exist -- broken link!!!
+http://www.holyoke.org/images/stories/dept_conservation_commission/beaver_concom_guidance.pdf:
+Remote file does not exist -- broken link!!!
+http://www.holyoke.org/images/stories/dept_conservation_commission/beaver_boh_guidance.pdf:
+Remote file does not exist -- broken link!!!
+http://www.holyoke.org/images/stories/dept_conservation_commission/beaver_water_flow_devices.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:16:44 URL: http://www.holyoke.org/wp-content/uploads/2012/10/reducedfinal2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:45 URL: http://www.holyoke.org/wp-content/uploads/2012/10/Hampden_FIS_Vol1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:45 URL: http://www.holyoke.org/wp-content/uploads/2012/10/Hampden_FIS_Vol2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:45 URL: http://www.holyoke.org/wp-content/uploads/2012/10/Hampden_FIS_Vol3.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:45 URL: http://www.holyoke.org/wp-content/uploads/2012/10/25013C0086E.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:46 URL: http://www.holyoke.org/wp-content/uploads/2012/10/25013C0088E.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:46 URL: http://www.holyoke.org/wp-content/uploads/2012/10/25013C0181E.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:46 URL: http://www.holyoke.org/wp-content/uploads/2012/10/25013C0182E.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:47 URL: http://www.holyoke.org/wp-content/uploads/2012/10/25013C0183E.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:47 URL: http://www.holyoke.org/wp-content/uploads/2012/10/25013C0191E.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:47 URL: http://www.holyoke.org/wp-content/uploads/2012/10/25013C0192E.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:48 URL: http://www.holyoke.org/wp-content/uploads/2012/10/25013C0201E.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:48 URL: http://www.holyoke.org/wp-content/uploads/2012/10/25013C0203E.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:49 URL: http://www.holyoke.org/wp-content/uploads/2012/10/25013C0204E.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:49 URL: http://www.holyoke.org/wp-content/uploads/2012/10/25013C0211E.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:49 URL: http://www.holyoke.org/wp-content/uploads/2012/10/bike2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:49 URL: http://www.holyoke.org/wp-content/uploads/2012/10/empty-grates.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:50 URL: http://www.holyoke.org/wp-content/uploads/2012/10/HolyokePrioritizedPlantableArea-reduced.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:50 URL: http://www.holyoke.org/wp-content/uploads/2012/10/Holyoke-Community-Based-Assessment_Draft-for-Client-Review.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:50 URL: http://www.holyoke.org/wp-content/uploads/2012/10/Final-Cover-Page-LowRes-w-Cover.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:51 URL: http://www.holyoke.org/wp-content/uploads/2012/10/DEP_POLICY.pdf 200 OK
+unlink: No such file or directory
+http://www.holyoke.org/images/stories/2010-2015_PGP.pdf:
+Remote file does not exist -- broken link!!!
+http://www.holyoke.org/images/stories/dept_public_works/Final_Stormwater_Regulations_May_17_2010.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:16:52 URL: http://www.holyoke.org/wp-content/uploads/2013/02/article97.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:53 URL: http://www.holyoke.org/wp-content/uploads/2012/10/wpaform1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:53 URL: http://www.holyoke.org/wp-content/uploads/2012/10/wpaform3.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:53 URL: http://www.holyoke.org/wp-content/uploads/2012/10/Holyoke-Affidavit-of-Service.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:55 URL:http://www.holyoke.org/events/open-for-vacation/ [18225] -> "../data/townSites2/Holyoke/www.holyoke.org/events/open-for-vacation/index.html" [1]
+2017-01-01 23:16:55 URL: http://www.holyoke.org/wp-content/uploads/2012/12/COA-December-2016-menu.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:55 URL: http://www.holyoke.org/wp-content/uploads/2012/12/COA-December-2016-BP-Clinics.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:55 URL: http://www.holyoke.org/wp-content/uploads/2012/12/COA-December-2016-newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:16:57 URL:http://www.holyoke.org/departments/council-on-aging-2/ [40849] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/departments/council-on-aging-2/index.html" [1]
+2017-01-01 23:16:59 URL:http://www.holyoke.org/author/coa-admin/ [55896] -> "../data/townSites2/Holyoke/www.holyoke.org/author/coa-admin/index.html" [1]
+2017-01-01 23:17:01 URL:http://www.holyoke.org/events/holyoke-historic-commission/ [18635] -> "../data/townSites2/Holyoke/www.holyoke.org/events/holyoke-historic-commission/index.html" [1]
+2017-01-01 23:17:01 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Fire-Prevention-Application-for-Permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:03 URL:http://www.holyoke.org/author/firedept-admin/ [47790] -> "../data/townSites2/Holyoke/www.holyoke.org/author/firedept-admin/index.html" [1]
+2017-01-01 23:17:04 URL: http://www.holyoke.org/wp-content/uploads/2012/12/HOLYOKE-IS-THE-NEWEST-CERTIFIED-LOCAL-GOVERNMENT.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:04 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Plaque-application2013.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:04 URL: http://www.holyoke.org/wp-content/uploads/2012/12/plaque.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:05 URL: http://www.holyoke.org/wp-content/uploads/2012/12/2013-demo-delay.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:05 URL: http://www.holyoke.org/wp-content/uploads/2012/12/INSURANCE-FOR-HISTORIC-HOMES.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:05 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Holyoke-Historical-Preservation-Awards.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:05 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Holyoke-Historical-Preservation-Awards-Scoring-Rubric.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:06 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Preservation-Awards-2015-Program.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:06 URL: http://www.holyoke.org/wp-content/uploads/2012/12/HHC-Historical-Significance-Assessment.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:07 URL: http://www.holyoke.org/wp-content/uploads/2012/12/How-to-Research-your-Home-in-Holyoke.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:07 URL: http://www.holyoke.org/wp-content/uploads/2012/12/CPA-endorsement.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:07 URL: http://www.holyoke.org/wp-content/uploads/2012/12/OnlineResourcesHolyokeWMass.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:08 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Historical-Minutes-January-11-16.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:08 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Historical-Minutes-February-22.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:08 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Historical-Minutes-March-1416.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:08 URL: http://www.holyoke.org/wp-content/uploads/2012/12/historcial-minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:09 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Historical-Commission-Minutes-May-9.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:09 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Historical-Commission-Minutes-June-13.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:09 URL: http://www.holyoke.org/wp-content/uploads/2012/12/HistoricalCommission_Minutes_091916.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:10 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Historicalminutes-101716.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:10 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Polish-HeritageJune.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:10 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Legal-Form-Historic-District-Ordinance1-Fairfield.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:11 URL: http://www.holyoke.org/wp-content/uploads/2012/12/falhd_registry21.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:11 URL: http://www.holyoke.org/wp-content/uploads/2012/12/fairfield-ave-Sheet1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:11 URL: http://www.holyoke.org/wp-content/uploads/2012/12/FAIRFIELDSUMMARYREPORT.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:11 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Fairfield-app.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:12 URL: http://www.holyoke.org/wp-content/uploads/2012/12/FAIRFIELD-AVENUE-MINUTES2.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:12 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Fairfield-Ave-Sec-Report-June-8-2016-1.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:12 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Fairfield-Sept-14-2016.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:13 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Fairfield-minutes1.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:14 URL:http://www.holyoke.org/author/olivia/ [54561] -> "../data/townSites2/Holyoke/www.holyoke.org/author/olivia/index.html" [1]
+2017-01-01 23:17:16 URL:http://www.holyoke.org/author/hpl-board-admin/ [53285] -> "../data/townSites2/Holyoke/www.holyoke.org/author/hpl-board-admin/index.html" [1]
+2017-01-01 23:17:18 URL:http://www.holyoke.org/events/city-council-meeting/ [18183] -> "../data/townSites2/Holyoke/www.holyoke.org/events/city-council-meeting/index.html" [1]
+2017-01-01 23:17:18 URL: http://www.holyoke.org/wp-content/uploads/2012/11/City-Water-Rates-2015-Figure.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:18 URL: http://www.holyoke.org/wp-content/uploads/2013/01/feescharges_Part1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:19 URL: http://www.holyoke.org/wp-content/uploads/2013/01/feescharges_Part2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:19 URL: http://www.holyoke.org/wp-content/uploads/2013/01/feescharges_Part3.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:19 URL: http://www.holyoke.org/wp-content/uploads/2013/01/finespenalties.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:17:23 URL:http://www.holyoke.org/mclean-reservoir/ [54705] -> "../data/townSites2/Holyoke/www.holyoke.org/mclean-reservoir/index.html" [1]
+2017-01-01 23:17:27 URL:http://www.holyoke.org/ashley-reservoir/ [54721] -> "../data/townSites2/Holyoke/www.holyoke.org/ashley-reservoir/index.html" [1]
+2017-01-01 23:17:31 URL:http://www.holyoke.org/whiting-street-reservoir/ [54132] -> "../data/townSites2/Holyoke/www.holyoke.org/whiting-street-reservoir/index.html" [1]
+2017-01-01 23:17:37 URL:http://www.holyoke.org/west-heights-storage-tanks/ [54604] -> "../data/townSites2/Holyoke/www.holyoke.org/west-heights-storage-tanks/index.html" [1]
+2017-01-01 23:17:41 URL:http://www.holyoke.org/west-holyoke-storage-tank/ [53635] -> "../data/townSites2/Holyoke/www.holyoke.org/west-holyoke-storage-tank/index.html" [1]
+2017-01-01 23:17:45 URL:http://www.holyoke.org/low-service-storage-tanks/ [53604] -> "../data/townSites2/Holyoke/www.holyoke.org/low-service-storage-tanks/index.html" [1]
+2017-01-01 23:17:48 URL:http://www.holyoke.org/high-service-storage-tanks/ [53644] -> "../data/townSites2/Holyoke/www.holyoke.org/high-service-storage-tanks/index.html" [1]
+2017-01-01 23:17:53 URL:http://www.holyoke.org/west-heights-pumping-station/ [54391] -> "../data/townSites2/Holyoke/www.holyoke.org/west-heights-pumping-station/index.html" [1]
+2017-01-01 23:17:56 URL:http://www.holyoke.org/west-holyokemclean-transfer-pumping-station/ [54784] -> "../data/townSites2/Holyoke/www.holyoke.org/west-holyokemclean-transfer-pumping-station/index.html" [1]
+2017-01-01 23:18:00 URL:http://www.holyoke.org/reduced-west-heights-pumping-station/ [54594] -> "../data/townSites2/Holyoke/www.holyoke.org/reduced-west-heights-pumping-station/index.html" [1]
+2017-01-01 23:18:04 URL:http://www.holyoke.org/storage-and-maintenance-garages/ [54392] -> "../data/townSites2/Holyoke/www.holyoke.org/storage-and-maintenance-garages/index.html" [1]
+2017-01-01 23:18:08 URL:http://www.holyoke.org/water-treatment-facility/ [54794] -> "../data/townSites2/Holyoke/www.holyoke.org/water-treatment-facility/index.html" [1]
+2017-01-01 23:18:08 URL: http://www.holyoke.org/wp-content/uploads/2012/11/123796-HWW2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:18:08 URL: http://www.holyoke.org/wp-content/uploads/2012/11/127459-HWW-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:18:09 URL: http://www.holyoke.org/wp-content/uploads/2012/11/2015-CCR.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:18:09 URL: http://www.holyoke.org/wp-content/uploads/2012/11/UCMR-3-Tier-3-Notification-2016-Newspaper.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:18:09 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Awards.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:18:10 URL: http://www.holyoke.org/wp-content/uploads/2012/11/HCVF-policy-July-26-2016.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:18:10 URL: http://www.holyoke.org/wp-content/uploads/2012/11/TigheCarmody-HCVF-assessment-DH-July-28-2016.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:18:10 URL: http://www.holyoke.org/wp-content/uploads/2012/11/McLeanHCVF-assessment-DH-Aug-1-2016-Copy.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:18:11 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Ashley-PondsHCVF-assessment-DH-Aug-1-2016.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:18:11 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Whiting-Street-HCVF-assessment-DH-Aug-1-2016.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:18:13 URL:http://www.holyoke.org/author/holyoke-water-works/ [55556] -> "../data/townSites2/Holyoke/www.holyoke.org/author/holyoke-water-works/index.html" [1]
+2017-01-01 23:18:15 URL:http://www.holyoke.org/events/land-preservation-workshop/ [19327] -> "../data/townSites2/Holyoke/www.holyoke.org/events/land-preservation-workshop/index.html" [1]
+2017-01-01 23:18:16 URL:http://www.holyoke.org/events/celebrate-holyoke-fundraiser-3/ [19454] -> "../data/townSites2/Holyoke/www.holyoke.org/events/celebrate-holyoke-fundraiser-3/index.html" [1]
+2017-01-01 23:18:18 URL:http://www.holyoke.org/author/licensing-board/ [42076] -> "../data/townSites2/Holyoke/www.holyoke.org/author/licensing-board/index.html" [1]
+2017-01-01 23:18:20 URL:http://www.holyoke.org/news/holiday-greetings-from-mayor-morse/ [24613] -> "../data/townSites2/Holyoke/www.holyoke.org/news/holiday-greetings-from-mayor-morse/index.html" [1]
+2017-01-01 23:18:24 URL:http://www.holyoke.org/news/mayor-morse-to-honor-holyoke-high-as-schools-match-wits-team/ [23913] -> "../data/townSites2/Holyoke/www.holyoke.org/news/mayor-morse-to-honor-holyoke-high-as-schools-match-wits-team/index.html" [1]
+2017-01-01 23:18:26 URL:http://www.holyoke.org/news/opening-celebration-and-proclamation-for-colombian-independence-day-2/ [24073] -> "../data/townSites2/Holyoke/www.holyoke.org/news/opening-celebration-and-proclamation-for-colombian-independence-day-2/index.html" [1]
+2017-01-01 23:18:28 URL:http://www.holyoke.org/news/holyoke-2014-a-year-of-economic-progress/ [27478] -> "../data/townSites2/Holyoke/www.holyoke.org/news/holyoke-2014-a-year-of-economic-progress/index.html" [1]
+2017-01-01 23:18:31 URL:http://www.holyoke.org/news/giving-thanks/ [25324] -> "../data/townSites2/Holyoke/www.holyoke.org/news/giving-thanks/index.html" [1]
+2017-01-01 23:18:36 URL:http://www.holyoke.org/news/thoughts-on-the-2014-elections/ [26917] -> "../data/townSites2/Holyoke/www.holyoke.org/news/thoughts-on-the-2014-elections/index.html" [1]
+2017-01-01 23:18:38 URL:http://www.holyoke.org/news/reflections-on-public-art-and-the-community/ [27167] -> "../data/townSites2/Holyoke/www.holyoke.org/news/reflections-on-public-art-and-the-community/index.html" [1]
+2017-01-01 23:18:39 URL:http://www.holyoke.org/news/reflections-on-community-and-the-essex-house/ [27909] -> "../data/townSites2/Holyoke/www.holyoke.org/news/reflections-on-community-and-the-essex-house/index.html" [1]
+2017-01-01 23:18:41 URL:http://www.holyoke.org/news/celebrating-holyoke/ [24908] -> "../data/townSites2/Holyoke/www.holyoke.org/news/celebrating-holyoke/index.html" [1]
+2017-01-01 23:18:42 URL:http://www.holyoke.org/news/the-fish-return-reflections-on-coral-reef-restoration-and-downtown-holyoke/ [30149] -> "../data/townSites2/Holyoke/www.holyoke.org/news/the-fish-return-reflections-on-coral-reef-restoration-and-downtown-holyoke/index.html" [1]
+2017-01-01 23:18:44 URL:http://www.holyoke.org/news/ripples-of-hope-reflections-on-the-roca-initiative/ [29036] -> "../data/townSites2/Holyoke/www.holyoke.org/news/ripples-of-hope-reflections-on-the-roca-initiative/index.html" [1]
+2017-01-01 23:18:46 URL:http://www.holyoke.org/news/reflections-on-the-summer-tour/ [27126] -> "../data/townSites2/Holyoke/www.holyoke.org/news/reflections-on-the-summer-tour/index.html" [1]
+2017-01-01 23:18:47 URL:http://www.holyoke.org/news/update-on-the-state-of-the-city/ [29323] -> "../data/townSites2/Holyoke/www.holyoke.org/news/update-on-the-state-of-the-city/index.html" [1]
+2017-01-01 23:18:49 URL:http://www.holyoke.org/news/lynch-school-redevelopment-brings-opportunity-and-growth-to-holyoke/ [29803] -> "../data/townSites2/Holyoke/www.holyoke.org/news/lynch-school-redevelopment-brings-opportunity-and-growth-to-holyoke/index.html" [1]
+2017-01-01 23:18:51 URL:http://www.holyoke.org/news/building-a-better-holyoke-one-tree-at-a-time/ [28325] -> "../data/townSites2/Holyoke/www.holyoke.org/news/building-a-better-holyoke-one-tree-at-a-time/index.html" [1]
+2017-01-01 23:18:52 URL:http://www.holyoke.org/news/mayors-100-days-in-office/ [29608] -> "../data/townSites2/Holyoke/www.holyoke.org/news/mayors-100-days-in-office/index.html" [1]
+2017-01-01 23:18:55 URL:http://www.holyoke.org/state-of-the-city-archives/ [53574] -> "../data/townSites2/Holyoke/www.holyoke.org/state-of-the-city-archives/index.html" [1]
+2017-01-01 23:18:57 URL:http://www.holyoke.org/city-council/daniel-bresnahan/ [20479] -> "../data/townSites2/Holyoke/www.holyoke.org/city-council/daniel-bresnahan/index.html" [1]
+2017-01-01 23:18:58 URL:http://www.holyoke.org/news/new-swim-gym-summer-program/ [23436] -> "../data/townSites2/Holyoke/www.holyoke.org/news/new-swim-gym-summer-program/index.html" [1]
+2017-01-01 23:18:59 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Employment-with-the-City-of-Holyoke-November-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:18:59 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Job-Posting-Personnel-Administrator-December-22-20164.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:18:59 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Job-Posting-City-Auditor-Updated-December-13-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:00 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Job-Posting-Planner-1-Office-of-Planning-and-Economic-Development-November-28-20161.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:00 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Job-Posting-Planner-1-Office-of-Planning-and-Economic-Development-November-28-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:00 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Job-Posting-Matrons-Police-Department-Per-Diem-November-7-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:01 URL: http://www.holyoke.org/wp-content/uploads/2012/12/City-of-Holyoke-Employment-Application-2016-Fillable-using-Internet-Explorer.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:01 URL: http://www.holyoke.org/wp-content/uploads/2012/12/City-of-Holyoke-Employment-Application-2016-Voluntary-Affirmative-Action-Request-Form-Fillable-using-Internet-Explorer.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:01 URL: http://www.holyoke.org/wp-content/uploads/2012/12/City-of-Holyoke-Labor-Service-Positions-Job-Descriptions-12-20-12.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:02 URL: http://www.holyoke.org/wp-content/uploads/2012/12/November-2016-Medicare-Open-Enrollment-Notice.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:02 URL: http://www.holyoke.org/wp-content/uploads/2012/12/2017-Medicare-Advantage-Supplement-Comparison-Chart.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:02 URL: http://www.holyoke.org/wp-content/uploads/2012/12/16-May-12-Retiree-Open-Enrollment-Notice.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:03 URL: http://www.holyoke.org/wp-content/uploads/2012/12/16-July-1-Final-Employee-Comparison-Chart1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:03 URL: http://www.holyoke.org/wp-content/uploads/2012/12/HNE-HMO-Essential-2000-Plan-Out-of-Pocket-Reimbursement1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:03 URL: http://www.holyoke.org/wp-content/uploads/2012/12/BCBS-HMO-Blue-New-England-1000-SOB-SBC.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:04 URL: http://www.holyoke.org/wp-content/uploads/2012/12/BCBS-Dental-Blue+Ortho-SOB.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:04 URL: http://www.holyoke.org/wp-content/uploads/2012/12/BCBS-Fitness-Wellness-Fact-Sheet1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:05 URL: http://www.holyoke.org/wp-content/uploads/2012/12/BCBS-Weight-Loss-Wellness-Fact-Sheet.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:05 URL: http://www.holyoke.org/wp-content/uploads/2012/12/HNE-HMO-1000-SBC.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:05 URL: http://www.holyoke.org/wp-content/uploads/2012/12/HNE-HMO-2000-SBC.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:05 URL: http://www.holyoke.org/wp-content/uploads/2012/12/HNE-PPO-2000-SBC.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:06 URL: http://www.holyoke.org/wp-content/uploads/2012/12/HNE-Wellness-Reimbursement-Form1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:06 URL: http://www.holyoke.org/wp-content/uploads/2012/12/HNE-Here-To-There-Care-Program.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:07 URL: http://www.holyoke.org/wp-content/uploads/2012/12/15-Oct-29-Medicare-Open-Enrollment-Notice2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:07 URL: http://www.holyoke.org/wp-content/uploads/2012/12/2016-Medicare-Advantage-Supplement-Comparison-Chart.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:07 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Medicare-You-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:08 URL: http://www.holyoke.org/wp-content/uploads/2012/12/2016-Medex-Summary-of-Benefits.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:08 URL: http://www.holyoke.org/wp-content/uploads/2012/12/2016-Blue-MedicareRX-PDP-Formulary.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:08 URL: http://www.holyoke.org/wp-content/uploads/2012/12/2016-Medicare-HMO-Blue.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:08 URL: http://www.holyoke.org/wp-content/uploads/2012/12/2016-HNE-Secure-Freedom-Summary-of-Benefits.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:09 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Holyoke-Code-of-Ordinances-Officers-and-Employees-generally.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:09 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Sec-2-38-Paid-holidays-generally-2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:09 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Holyoke-Code-of-Ordinances-Personnel-Department.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:10 URL: http://www.holyoke.org/wp-content/uploads/2012/12/16-May-12-Final-Employee-Open-Enrollment-Notice.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:10 URL: http://www.holyoke.org/wp-content/uploads/2012/12/16-July-1-Final-Employee-Comparison-Chart.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:10 URL: http://www.holyoke.org/wp-content/uploads/2012/12/TASC-FSA-Overview-Enrollment-Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:11 URL: http://www.holyoke.org/wp-content/uploads/2012/12/HNE-HMO-Essential-2000-Plan-Out-of-Pocket-Reimbursement.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:11 URL: http://www.holyoke.org/wp-content/uploads/2012/12/TASC-FSA-Overview.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:12 URL: http://www.holyoke.org/wp-content/uploads/2012/12/TASC-Common-FSA-Eligible-Expenses.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:12 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Health-New-England-Enrollment-Change-Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:12 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Blue-Cross-Blue-Shield-Enrollment-Change-Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:13 URL: http://www.holyoke.org/wp-content/uploads/2012/12/City-of-Holyoke-Boston-Mutual-Life-Insurance-Open-Enrollment-Locations-September-October-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:13 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Combined-Benefit-Summary-Holyoke.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:13 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Questions-and-answers-about-group-life-insurance-through-Boston-Mutual-v.7.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:14 URL: http://www.holyoke.org/wp-content/uploads/2012/12/September-October-2015-City-of-Holyoke-Boston-Mutual-Life-Insurance-Company-Comparison-Chart.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:14 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Employee-Guide-to-FMLA.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:14 URL: http://www.holyoke.org/wp-content/uploads/2012/12/FMLA-Form-23.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:14 URL: http://www.holyoke.org/wp-content/uploads/2012/12/WH-380-E.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:15 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Certification-of-Health-Care-Provider-for-Family-Member-Serious-Health-Condition.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:15 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Why-Chronic-Complaining-is-Toxic-July-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:15 URL: http://www.holyoke.org/wp-content/uploads/2012/12/We-Can-Help.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:15 URL: http://www.holyoke.org/wp-content/uploads/2012/12/October-is-Domestic-Violence-Awareness-Month.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:16 URL: http://www.holyoke.org/wp-content/uploads/2012/12/What-You-Need-to-Know-about-Addiction-April-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:16 URL: http://www.holyoke.org/wp-content/uploads/2012/12/2.-Holyoke-Compensation-Study-Position-Analysis-Questionnaire-PDF-VERSION.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:16 URL: http://www.holyoke.org/wp-content/uploads/2012/12/1.-Holyoke-Compensation-Study-Position-Analysis-Questionnaire-WORD-VERSION.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:17 URL: http://www.holyoke.org/wp-content/uploads/2012/12/3.-Holyoke-Compensation-Study-Instructions-to-complete-the-Position-Analysis-Questionnnaire.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:17 URL: http://www.holyoke.org/wp-content/uploads/2012/12/4.-Holyoke-Compensation-Study-Action-Verbs-to-Describe-Job-Duties.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:17 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Position-Analysis-Questionnaire-Page-9-of-9-Comments-of-the-Department-Head.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:18 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Position-Analysis-Questionnaire-Page-9-of-9-Comments-of-the-Department-Head.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:18 URL: http://www.holyoke.org/wp-content/uploads/2012/12/5.-Holyoke-Compensation-Study-Classification-Rating-Factors.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:18 URL: http://www.holyoke.org/wp-content/uploads/2012/12/6.-Holyoke-Compensation-Study-Human-Resources-Services-Inc.-Classification-and-Compensation-Study-for-the-City-of-Holyoke1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:19 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Holyoke-Compensation-Study-Report-Components.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:19 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Human-Resources-Services-Inc.-Sample-inteview-questions-for-employees-of-the-City-of-Holyoke.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:19 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Personnel-Acquisition-Form-December-2015-Fillable-using-Internet-Explorer.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:20 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Request-For-Leave_020112_PDF.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:20 URL: http://www.holyoke.org/wp-content/uploads/2012/12/I-9.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:20 URL: http://www.holyoke.org/wp-content/uploads/2012/12/City-of-Holyoke-Criminal-Offender-Record-Information-Policy-Signed-5-28-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:21 URL: http://www.holyoke.org/wp-content/uploads/2012/12/City-of-Holyoke-ADA-Policy_1-Sept-23-20113.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:21 URL: http://www.holyoke.org/wp-content/uploads/2012/12/City-of-Holyoke-Sexual-Harassment-Policy-Revised-October-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:21 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Information-Technology-Resources-Acceptable-Use-Policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:22 URL: http://www.holyoke.org/wp-content/uploads/2012/12/DRUG-FREE-WORKPLACE-POLICY-June-2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:22 URL: http://www.holyoke.org/wp-content/uploads/2012/12/City-of-Holyoke-Domestic-Violence-Leave-Policy-December-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:22 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Collins-Center-Human-Resources-Compliance-Audit-and-Personnel-Policy-Review1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:22 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Collins-Center-Report-Cover-Memo.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:23 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Collins-Center-Human-Resources-Compliance-Audit-and-Personnel-Policy-Review3.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:23 URL: http://www.holyoke.org/wp-content/uploads/2012/12/2017-City-of-Holyoke-Holiday-Schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:23 URL: http://www.holyoke.org/wp-content/uploads/2012/12/2016-City-of-Holyoke-Holiday-Schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:24 URL: http://www.holyoke.org/wp-content/uploads/2012/12/ADA-Employment.ppt 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:24 URL: http://www.holyoke.org/wp-content/uploads/2012/12/August-3-2016-Invitation-from-Mayor-Morse-to-Disability-Sensitivity-Training-on-August-24-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:24 URL: http://www.holyoke.org/wp-content/uploads/2012/12/What-Every-Manager-Needs-To-Know.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:26 URL:http://www.holyoke.org/author/personnelladmin/ [20981] -> "../data/townSites2/Holyoke/www.holyoke.org/author/personnelladmin/index.html" [1]
+2017-01-01 23:19:27 URL:http://www.holyoke.org/city-council/gladys-lebron-martinez/ [20503] -> "../data/townSites2/Holyoke/www.holyoke.org/city-council/gladys-lebron-martinez/index.html" [1]
+2017-01-01 23:19:29 URL:http://www.holyoke.org/news/this-is-our-community/ [24343] -> "../data/townSites2/Holyoke/www.holyoke.org/news/this-is-our-community/index.html" [1]
+2017-01-01 23:19:30 URL:http://www.holyoke.org/events/charter-school-board-of-trustees-rescheduled-from-102313/ [19935] -> "../data/townSites2/Holyoke/www.holyoke.org/events/charter-school-board-of-trustees-rescheduled-from-102313/index.html" [1]
+2017-01-01 23:19:31 URL:http://www.holyoke.org/events/jeepers-creepers-ghouls-goblins/ [19085] -> "../data/townSites2/Holyoke/www.holyoke.org/events/jeepers-creepers-ghouls-goblins/index.html" [1]
+2017-01-01 23:19:34 URL:http://www.holyoke.org/calendar-list/ [27455] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/calendar-list/index.html" [1]
+2017-01-01 23:19:34 URL: http://www.holyoke.org/wp-content/uploads/2013/10/Minutes-BPW-12.05.16.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:34 URL: http://www.holyoke.org/wp-content/uploads/2013/10/Minutes-Sewer-12.05.16.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:35 URL: http://www.holyoke.org/wp-content/uploads/2013/10/Minutes-Stormwater-12.05.16.doc 200 OK
+unlink: No such file or directory
+http://www.holyoke.org/departments/wp-content/uploads/2012/12/Sewer-Comm-Policy.pdf:
+Remote file does not exist -- broken link!!!
+http://www.holyoke.org/departments/wp-content/uploads/2013/10/Final-Stormwater-Regulations-May-17-2010.pdf:
+Remote file does not exist -- broken link!!!
+http://www.holyoke.org/departments/wp-content/uploads/2012/12/Stormwater-ordinance-legal-form.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:19:37 URL: http://www.holyoke.org/wp-content/uploads/2013/10/Permit-List.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:37 URL: http://www.holyoke.org/wp-content/uploads/2013/10/Postcard-Holyoke-3-10-161.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:38 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Recycling-Center1.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:42 URL:http://www.holyoke.org/frequently-asked-questions-2/ [65079] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/frequently-asked-questions-2/index.html" [1]
+2017-01-01 23:19:46 URL:http://www.holyoke.org/curbside-waste-collections/ [59635] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/yard-waste/curbside-waste-collection" [1]
+2017-01-01 23:19:50 URL:http://www.holyoke.org/collection-services/ [56709] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/collection-services/index.html" [1]
+2017-01-01 23:19:54 URL:http://www.holyoke.org/yard-waste/ [57474] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/yard-waste/index.html" [1]
+2017-01-01 23:20:00 URL:http://www.holyoke.org/medical-waste-disposal/ [56749] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/medical-waste-disposal/index.html" [1]
+2017-01-01 23:20:06 URL:http://www.holyoke.org/recycling-and-hazardous-waste-web-resources/ [56074] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/recycling-and-hazardous-waste-web-resources/index.html" [1]
+2017-01-01 23:20:06 URL: http://www.holyoke.org/wp-content/uploads/2013/10/Final-Stormwater-Regulations-May-17-2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:06 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Stormwater-ordinance-legal-form.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:07 URL: http://www.holyoke.org/wp-content/uploads/2013/02/cso_fact_sheets.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:07 URL: http://www.holyoke.org/wp-content/uploads/2013/02/dogs.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:07 URL: http://www.holyoke.org/wp-content/uploads/2013/02/butts.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:08 URL: http://www.holyoke.org/wp-content/uploads/2013/02/fertilizer.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:08 URL: http://www.holyoke.org/wp-content/uploads/2012/12/BPW-Permit-Fees.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:08 URL: http://www.holyoke.org/wp-content/uploads/2012/12/2012_Sanitary_Sewer_Entrance_Fees1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:09 URL: http://www.holyoke.org/wp-content/uploads/2012/12/driveway_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:09 URL: http://www.holyoke.org/wp-content/uploads/2012/12/2012_HDPW_Sewer_Connection_Permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:09 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Trench_Permit_Form_Electronic.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:10 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Petition_for_Stormwater_Permit_Application_Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:10 URL: http://www.holyoke.org/wp-content/uploads/2012/12/City-Driveway-Standards.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:13 URL:http://www.holyoke.org/contractor-information/ [61470] -> "../data/townSites2/Holyoke/www.holyoke.org/contractor-information/index.html" [1]
+2017-01-01 23:20:18 URL:http://www.holyoke.org/winter-parking-regulations/ [56421] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/winter-parking-regulations/index.html" [1]
+2017-01-01 23:20:22 URL:http://www.holyoke.org/sidewalk-snow-and-ice-removal/ [54738] -> "../data/townSites2/Holyoke/www.holyoke.org/departments/sidewalk-snow-and-ice-removal/index.html" [1]
+2017-01-01 23:20:24 URL:http://www.holyoke.org/author/publicworks/ [54775] -> "../data/townSites2/Holyoke/www.holyoke.org/author/publicworks/index.html" [1]
+2017-01-01 23:20:26 URL:http://www.holyoke.org/author/purchasing/ [21024] -> "../data/townSites2/Holyoke/www.holyoke.org/author/purchasing/index.html" [1]
+2017-01-01 23:20:26 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Poll-Worker-application.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:28 URL:http://www.holyoke.org/author/voter/ [23418] -> "../data/townSites2/Holyoke/www.holyoke.org/author/voter/index.html" [1]
+2017-01-01 23:20:28 URL: http://www.holyoke.org/wp-content/uploads/2012/12/2016-ACH-Calendar.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:29 URL: http://www.holyoke.org/wp-content/uploads/2012/12/directdeposit1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:29 URL: http://www.holyoke.org/wp-content/uploads/2013/04/PERCGRP11.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:29 URL: http://www.holyoke.org/wp-content/uploads/2013/04/PERCGRP2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:30 URL: http://www.holyoke.org/wp-content/uploads/2013/04/PERCGRP4.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:30 URL: http://www.holyoke.org/wp-content/uploads/2012/12/prcnew1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:31 URL: http://www.holyoke.org/wp-content/uploads/2012/12/prcnew2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:31 URL: http://www.holyoke.org/wp-content/uploads/2012/12/prcnew4.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:31 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Setion91FAQ.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:32 URL: http://www.holyoke.org/wp-content/uploads/2012/12/socialsecurity.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:32 URL: http://www.holyoke.org/wp-content/uploads/2012/12/wep.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:32 URL: http://www.holyoke.org/wp-content/uploads/2012/12/gpo.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:33 URL: http://www.holyoke.org/wp-content/uploads/2012/12/medicare.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:33 URL: http://www.holyoke.org/wp-content/uploads/2012/12/fordivorceattorneys.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:33 URL: http://www.holyoke.org/wp-content/uploads/2012/12/DRO-Appendix-A.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:33 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Unacceptprov.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:34 URL: http://www.holyoke.org/wp-content/uploads/2012/12/Sample-Domestic-Relations-Order.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:38 URL:http://www.holyoke.org/author/cheryl/ [52893] -> "../data/townSites2/Holyoke/www.holyoke.org/author/cheryl/index.html" [1]
+2017-01-01 23:20:40 URL:http://www.holyoke.org/news/farmers-market/ [23135] -> "../data/townSites2/Holyoke/www.holyoke.org/news/farmers-market/index.html" [1]
+2017-01-01 23:20:40 URL: http://www.holyoke.org/wp-content/uploads/2012/11/Parking-Appeal.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:20:43 URL:http://www.holyoke.org/author/taxcollector/ [20990] -> "../data/townSites2/Holyoke/www.holyoke.org/author/taxcollector/index.html" [1]
+2017-01-01 23:20:46 URL:http://www.holyoke.org/author/veterans-admin/ [21003] -> "../data/townSites2/Holyoke/www.holyoke.org/author/veterans-admin/index.html" [1]
+2017-01-01 23:20:50 URL:http://www.holyoke.org/author/wistariahurst/ [54486] -> "../data/townSites2/Holyoke/www.holyoke.org/author/wistariahurst/index.html" [1]
+2017-01-01 23:20:54 URL:http://www.holyoke.org/calendar-detailed/ [21621] -> "../data/townSites2/Holyoke/www.holyoke.org/calendar-detailed.1" [1]
+2017-01-01 23:20:56 URL:http://www.holyoke.org/events/historical-commission-13/ [18965] -> "../data/townSites2/Holyoke/www.holyoke.org/events/historical-commission-13/index.html" [1]
+2017-01-01 23:21:01 URL:http://www.holyoke.org/permits-and-licensing/ [57583] -> "../data/townSites2/Holyoke/www.holyoke.org/permits-and-licensing/index.html" [1]
+2017-01-01 23:21:03 URL:http://www.holyoke.org/city-council/peter-r-tallman/ [20371] -> "../data/townSites2/Holyoke/www.holyoke.org/city-council/peter-r-tallman/index.html" [1]
+2017-01-01 23:21:06 URL:http://www.holyoke.org/city-council/joseph-m-mcgiverin/ [20468] -> "../data/townSites2/Holyoke/www.holyoke.org/city-council/joseph-m-mcgiverin/index.html" [1]
+2017-01-01 23:21:07 URL:http://www.holyoke.org/city-council/james-m-leahy/ [23125] -> "../data/townSites2/Holyoke/www.holyoke.org/city-council/james-m-leahy/index.html" [1]
+2017-01-01 23:21:09 URL:http://www.holyoke.org/city-council/kevin-a-jourdain/ [20501] -> "../data/townSites2/Holyoke/www.holyoke.org/city-council/kevin-a-jourdain/index.html" [1]
+2017-01-01 23:21:10 URL:http://www.holyoke.org/city-council/gordon-paul-alexander/ [20163] -> "../data/townSites2/Holyoke/www.holyoke.org/city-council/gordon-paul-alexander/index.html" [1]
+2017-01-01 23:21:12 URL:http://www.holyoke.org/city-council/todd-mcgee/ [20066] -> "../data/townSites2/Holyoke/www.holyoke.org/city-council/todd-mcgee/index.html" [1]
+2017-01-01 23:21:14 URL:http://www.holyoke.org/city-council/linda-vacon/ [20458] -> "../data/townSites2/Holyoke/www.holyoke.org/city-council/linda-vacon/index.html" [1]
+2017-01-01 23:21:17 URL:http://www.holyoke.org/city-council/david-k-bartley/ [21385] -> "../data/townSites2/Holyoke/www.holyoke.org/city-council/david-k-bartley/index.html" [1]
+2017-01-01 23:21:19 URL:http://www.holyoke.org/city-council/anthony-soto/ [20422] -> "../data/townSites2/Holyoke/www.holyoke.org/city-council/anthony-soto/index.html" [1]
+http://www.holyoke.org/connect/www.riseupholyoke.com:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:21:21 URL:http://www.holyoke.org/city-council/jossie-valentin/ [21545] -> "../data/townSites2/Holyoke/www.holyoke.org/city-council/jossie-valentin/index.html" [1]
+2017-01-01 23:21:23 URL:http://www.holyoke.org/city-council/howard-greaney-jr/ [20482] -> "../data/townSites2/Holyoke/www.holyoke.org/city-council/howard-greaney-jr/index.html" [1]
+2017-01-01 23:21:25 URL:http://www.holyoke.org/city-council/jennifer-chateauneuf/ [20534] -> "../data/townSites2/Holyoke/www.holyoke.org/city-council/jennifer-chateauneuf/index.html" [1]
+2017-01-01 23:21:28 URL:http://www.holyoke.org/tighe-carmody-reservoir-2/ [54756] -> "../data/townSites2/Holyoke/www.holyoke.org/tighe-carmody-reservoir-2/index.html" [1]
+Found 26 broken links.
+
+http://www.holyoke.org/connect/www.riseupholyoke.com
+http://www.holyoke.org/departments/wp-content/uploads/2013/10/Final-Stormwater-Regulations-May-17-2010.pdf
+http://www.holyoke.org/images/stories/dept_conservation_commission/beaver_concom_guidance.pdf
+http://www.holyoke.org/departments/wp-content/uploads/2012/12/Sewer-Comm-Policy.pdf
+http://www.holyoke.org/wp-content/uploads/2012/12/Bi-Weekly-Time-Sheets-Rev-05-2012.xls
+http://www.holyoke.org/images/stories/dept_public_works/Claim_form_with_City_Seal.pdf
+http://www.holyoke.org/departments/wp-content/uploads/2012/07/FINAL-2012-app_checklist.pdf
+http://www.holyoke.org/images/stories/dept_conservation_commission/beaver_citizens_guide.pdf
+http://www.holyoke.org/images/stories/dept_conservation_commission/water_chestnut_poster0001.pdf
+http://www.holyoke.org/images/stories/dept_community_dev/Notice_of_Availability_of_Funding.pdf
+http://www.holyoke.org/departments/wp-content/uploads/2012/10/bylaws-2011.pdf
+http://www.holyoke.org/wp-content/uploads/2012/12/m-4.pdf
+http://www.holyoke.org/images/stories/dept_public_works/Final_Stormwater_Regulations_May_17_2010.pdf
+http://www.holyoke.org/directions/
+http://www.holyoke.org/images/stories/dept_conservation_commission/beaver_boh_guidance.pdf
+http://www.holyoke.org/images/stories/dept_conservation_commission/beaver_water_flow_devices.pdf
+http://www.holyoke.org/departments/wp-content/uploads/2012/12/Stormwater-ordinance-legal-form.pdf
+http://www.holyoke.org/wp-content/uploads/2012/12/Excerpt-of-MCTA-Treasurer-Chapter-2-Duties-Responsibilities-of-the-City-Treasurer.pdf
+http://www.holyoke.org/images/stories/dept_conservation_commission/living_with_beavers.pdf
+http://www.holyoke.org/wp-content/uploads/2012/12/2014-06-30-All-Debt-with-GL-Codes-Part-2.pdf
+http://www.holyoke.org/wp-content/uploads/2012/12/Direct-Deposit-Form.pdf
+http://www.holyoke.org/images/stories/2010-2015_PGP.pdf
+http://www.holyoke.org/wp-content/uploads/2012/12/MANICURING-APPL.doc
+http://www.holyoke.org/wp-content/uploads/2012/12/2014-06-30-All-Debt-with-GL-Codes-Part-1.pdf
+http://www.holyoke.org/departments/wp-content/uploads/2013/01/application-on-letterhead-appeals_morse.pdf
+http://www.holyoke.org/departments/wp-content/uploads/2012/07/ZONING-ORDINANCE.pdf
+
+FINISHED --2017-01-01 23:21:28--
+Total wall clock time: 33m 4s
+Downloaded: 366 files, 14M in 21m 6s (11.5 KB/s)

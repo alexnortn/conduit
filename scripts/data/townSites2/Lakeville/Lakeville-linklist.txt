@@ -1,0 +1,603 @@
+2017-01-02 00:08:31 URL:http://www.lakevillema.org/ [36777] -> "../data/townSites2/Lakeville/www.lakevillema.org/index.html" [1]
+2017-01-02 00:08:34 URL:http://www.lakevillema.org/index.cfm [36777/36777] -> "../data/townSites2/Lakeville/www.lakevillema.org/index.cfm" [1]
+2017-01-02 00:08:36 URL:http://www.lakevillema.org/contactus.cfm [15078/15078] -> "../data/townSites2/Lakeville/www.lakevillema.org/contactus.cfm" [1]
+2017-01-02 00:08:38 URL:http://www.lakevillema.org/about.cfm [13129/13129] -> "../data/townSites2/Lakeville/www.lakevillema.org/about.cfm" [1]
+2017-01-02 00:08:40 URL:http://www.lakevillema.org/calendar.cfm [27327/27327] -> "../data/townSites2/Lakeville/www.lakevillema.org/calendar.cfm" [1]
+2017-01-02 00:08:42 URL:http://www.lakevillema.org/departments/index.cfm [21071/21071] -> "../data/townSites2/Lakeville/www.lakevillema.org/departments/index.cfm" [1]
+2017-01-02 00:08:44 URL:http://www.lakevillema.org/departments/selectment.cfm [21377/21377] -> "../data/townSites2/Lakeville/www.lakevillema.org/departments/selectment.cfm" [1]
+2017-01-02 00:08:46 URL:http://www.lakevillema.org/departments/accounting.cfm [15155/15155] -> "../data/townSites2/Lakeville/www.lakevillema.org/departments/accounting.cfm" [1]
+2017-01-02 00:08:47 URL:http://www.lakevillema.org/departments/animal_shelter.cfm [21002/21002] -> "../data/townSites2/Lakeville/www.lakevillema.org/departments/animal_shelter.cfm" [1]
+2017-01-02 00:08:49 URL:http://www.lakevillema.org/departments/assessor.cfm [29579/29579] -> "../data/townSites2/Lakeville/www.lakevillema.org/departments/assessor.cfm" [1]
+2017-01-02 00:08:50 URL:http://www.lakevillema.org/health/boardofhealth.cfm [33791/33791] -> "../data/townSites2/Lakeville/www.lakevillema.org/health/boardofhealth.cfm" [1]
+2017-01-02 00:08:52 URL:http://www.lakevillema.org/building/index.cfm [29699/29699] -> "../data/townSites2/Lakeville/www.lakevillema.org/building/index.cfm" [1]
+2017-01-02 00:08:54 URL:http://www.lakevillema.org/departments/aging.cfm [22121/22121] -> "../data/townSites2/Lakeville/www.lakevillema.org/departments/aging.cfm" [1]
+2017-01-02 00:08:56 URL:http://www.lakevillema.org/departments/fire.cfm [16705/16705] -> "../data/townSites2/Lakeville/www.lakevillema.org/departments/fire.cfm" [1]
+2017-01-02 00:08:58 URL:http://www.lakevillema.org/departments/highway.cfm [19591/19591] -> "../data/townSites2/Lakeville/www.lakevillema.org/departments/highway.cfm" [1]
+2017-01-02 00:09:01 URL:http://www.lakevillema.org/departments/library.cfm [18101/18101] -> "../data/townSites2/Lakeville/www.lakevillema.org/departments/library.cfm" [1]
+2017-01-02 00:09:02 URL:http://www.lakevillema.org/departments/park_commission.cfm [20071/20071] -> "../data/townSites2/Lakeville/www.lakevillema.org/departments/park_commission.cfm" [1]
+2017-01-02 00:09:04 URL:http://www.lakevillema.org/departments/payroll.cfm [14822/14822] -> "../data/townSites2/Lakeville/www.lakevillema.org/departments/payroll.cfm" [1]
+2017-01-02 00:09:05 URL:http://www.lakevillema.org/departments/police.cfm [17200/17200] -> "../data/townSites2/Lakeville/www.lakevillema.org/departments/police.cfm" [1]
+2017-01-02 00:09:07 URL:http://www.lakevillema.org/town_clerk/index.cfm [23331/23331] -> "../data/townSites2/Lakeville/www.lakevillema.org/town_clerk/index.cfm" [1]
+2017-01-02 00:09:09 URL:http://www.lakevillema.org/departments/transfer_station.cfm [23468/23468] -> "../data/townSites2/Lakeville/www.lakevillema.org/departments/transfer_station.cfm" [1]
+2017-01-02 00:09:11 URL:http://www.lakevillema.org/departments/treasurer_collector.cfm [19617/19617] -> "../data/townSites2/Lakeville/www.lakevillema.org/departments/treasurer_collector.cfm" [1]
+2017-01-02 00:09:12 URL:http://www.lakevillema.org/departments/veteran_services.cfm [18796/18796] -> "../data/townSites2/Lakeville/www.lakevillema.org/departments/veteran_services.cfm" [1]
+2017-01-02 00:09:15 URL:http://www.lakevillema.org/departments/boards.cfm [29914/29914] -> "../data/townSites2/Lakeville/www.lakevillema.org/departments/boards.cfm" [1]
+2017-01-02 00:09:17 URL:http://www.lakevillema.org/departments/appeals.cfm [18822/18822] -> "../data/townSites2/Lakeville/www.lakevillema.org/departments/appeals.cfm" [1]
+2017-01-02 00:09:19 URL:http://www.lakevillema.org/cabletv_advisory_committee.cfm [16686/16686] -> "../data/townSites2/Lakeville/www.lakevillema.org/cabletv_advisory_committee.cfm" [1]
+2017-01-02 00:09:20 URL:http://www.lakevillema.org/cemetary_commission.cfm [17885/17885] -> "../data/townSites2/Lakeville/www.lakevillema.org/cemetary_commission.cfm" [1]
+2017-01-02 00:09:21 URL:http://www.lakevillema.org/cdc.cfm [16691/16691] -> "../data/townSites2/Lakeville/www.lakevillema.org/cdc.cfm" [1]
+2017-01-02 00:09:23 URL:http://www.lakevillema.org/conservation_commission.cfm [22593/22593] -> "../data/townSites2/Lakeville/www.lakevillema.org/conservation_commission.cfm" [1]
+2017-01-02 00:09:25 URL:http://www.lakevillema.org/economicdevelopment.cfm [18984/18984] -> "../data/townSites2/Lakeville/www.lakevillema.org/economicdevelopment.cfm" [1]
+2017-01-02 00:09:27 URL:http://www.lakevillema.org/energyadvisory.cfm [21665/21665] -> "../data/townSites2/Lakeville/www.lakevillema.org/energyadvisory.cfm" [1]
+2017-01-02 00:09:28 URL:http://www.lakevillema.org/finance_committee.cfm [17025/17025] -> "../data/townSites2/Lakeville/www.lakevillema.org/finance_committee.cfm" [1]
+2017-01-02 00:09:30 URL:http://www.lakevillema.org/historical_commission.cfm [17052/17052] -> "../data/townSites2/Lakeville/www.lakevillema.org/historical_commission.cfm" [1]
+2017-01-02 00:09:32 URL:http://www.lakevillema.org/arts_council.cfm [18197/18197] -> "../data/townSites2/Lakeville/www.lakevillema.org/arts_council.cfm" [1]
+2017-01-02 00:09:33 URL:http://www.lakevillema.org/departments/library_board.cfm [16975/16975] -> "../data/townSites2/Lakeville/www.lakevillema.org/departments/library_board.cfm" [1]
+2017-01-02 00:09:35 URL:http://www.lakevillema.org/open_space_committee.cfm [19350/19350] -> "../data/townSites2/Lakeville/www.lakevillema.org/open_space_committee.cfm" [1]
+2017-01-02 00:09:37 URL:http://www.lakevillema.org/park_commission_cal.cfm [24852/24852] -> "../data/townSites2/Lakeville/www.lakevillema.org/park_commission_cal.cfm" [1]
+2017-01-02 00:09:39 URL:http://www.lakevillema.org/planning_board.cfm [21486/21486] -> "../data/townSites2/Lakeville/www.lakevillema.org/planning_board.cfm" [1]
+2017-01-02 00:09:41 URL:http://www.lakevillema.org/school_committee.cfm [16322/16322] -> "../data/townSites2/Lakeville/www.lakevillema.org/school_committee.cfm" [1]
+2017-01-02 00:09:43 URL:http://www.lakevillema.org/watercommission.cfm [13838/13838] -> "../data/townSites2/Lakeville/www.lakevillema.org/watercommission.cfm" [1]
+2017-01-02 00:09:44 URL:http://www.lakevillema.org/jobs/index.cfm [14523/14523] -> "../data/townSites2/Lakeville/www.lakevillema.org/jobs/index.cfm" [1]
+2017-01-02 00:09:46 URL:http://www.lakevillema.org/links.cfm [16774/16774] -> "../data/townSites2/Lakeville/www.lakevillema.org/links.cfm" [1]
+2017-01-02 00:09:48 URL:http://www.lakevillema.org/building_directory.cfm [43740/43740] -> "../data/townSites2/Lakeville/www.lakevillema.org/building_directory.cfm" [1]
+2017-01-02 00:09:48 URL: http://www.lakevillema.org/Bylaws/2016%20General%20Bylaws.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:49 URL: http://www.lakevillema.org/Bylaws/MASTER-2016%20ZONING%20BY-LAW.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:49 URL: http://www.lakevillema.org/uploads/2009.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:50 URL: http://www.lakevillema.org/uploads/2010%20Town%20Report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:50 URL: http://www.lakevillema.org/uploads/LAKEVILLE%202011%20Town%20Report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:50 URL: http://www.lakevillema.org/uploads/Lakeville%202012%20Town%20Report-Web%20Copy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:50 URL: http://www.lakevillema.org/uploads/Master%20Copy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:51 URL: http://www.lakevillema.org/Town%20Report/2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:51 URL: http://www.lakevillema.org/Town%20Report/2015%20Town%20Report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:53 URL:http://www.lakevillema.org/assawompsetpondlevels.cfm [26871/26871] -> "../data/townSites2/Lakeville/www.lakevillema.org/assawompsetpondlevels.cfm" [1]
+2017-01-02 00:09:55 URL:http://www.lakevillema.org/bidsolicitations.cfm [12492/12492] -> "../data/townSites2/Lakeville/www.lakevillema.org/bidsolicitations.cfm" [1]
+http://www.lakevillema.org/2017volunteerform(1).pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:09:57 URL:http://www.lakevillema.org/communityevents.cfm [14467/14467] -> "../data/townSites2/Lakeville/www.lakevillema.org/communityevents.cfm" [1]
+2017-01-02 00:09:58 URL: http://www.lakevillema.org/Budgets/FY17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:59 URL: http://www.lakevillema.org/Elections/Results%20Annual%20Town%20Election%204%204%2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:59 URL: http://www.lakevillema.org/Town%20Meeting%20Results/Annual%20Town%20Meeting%20June%206%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:00 URL: http://www.lakevillema.org/Town%20Meeting%20Results/Special%20Town%20Meeting%20Results%206%204%2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:00 URL: http://www.lakevillema.org/health/State%20Primary%20September%208%20%202016%20results.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:00 URL: http://www.lakevillema.org/Elections/State%20Election%20November_%208_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:01 URL: http://www.lakevillema.org/Historical/Scholarship%20applicatoin%20form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:01 URL: http://www.lakevillema.org/building/Economic%20Development%20Resident%20Survey%20Results%20FINAL%20AB%2021814.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:02 URL: http://www.lakevillema.org/Misc/Part%201%20Route%20105%20Study.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:02 URL: http://www.lakevillema.org/Misc/Part%202%20Route%20105%20Study.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:02 URL: http://www.lakevillema.org/Misc/Water%20Street%20lottery.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:03 URL: http://www.lakevillema.org/Fire/Make%20a%20Plan%20During%20Emergency%20Preparedness%20Month.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:03 URL: http://www.lakevillema.org/Fire/Build%20an%20Emergency%20Kit%20During%20Emergency%20Preparedness%20Month.pdf 200 OK
+unlink: No such file or directory
+http://www.lakevillema.org/Icons/0:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:10:07 URL:http://www.lakevillema.org/ [36777] -> "../data/townSites2/Lakeville/www.lakevillema.org/health/index.cfm" [1]
+2017-01-02 00:10:09 URL:http://www.lakevillema.org/selectmenminutes2006.cfm [18696/18696] -> "../data/townSites2/Lakeville/www.lakevillema.org/selectmenminutes2006.cfm" [1]
+2017-01-02 00:10:11 URL:http://www.lakevillema.org/selectmensminutes2007.cfm [19895/19895] -> "../data/townSites2/Lakeville/www.lakevillema.org/selectmensminutes2007.cfm" [1]
+2017-01-02 00:10:13 URL:http://www.lakevillema.org/selectmen2008minutes.cfm [18521/18521] -> "../data/townSites2/Lakeville/www.lakevillema.org/selectmen2008minutes.cfm" [1]
+2017-01-02 00:10:15 URL:http://www.lakevillema.org/selectmen2009minutes.cfm [17585/17585] -> "../data/townSites2/Lakeville/www.lakevillema.org/selectmen2009minutes.cfm" [1]
+2017-01-02 00:10:17 URL:http://www.lakevillema.org/selectmenminutes2010.cfm [19057/19057] -> "../data/townSites2/Lakeville/www.lakevillema.org/selectmenminutes2010.cfm" [1]
+2017-01-02 00:10:19 URL:http://www.lakevillema.org/2011selectmensminutes.cfm [17945/17945] -> "../data/townSites2/Lakeville/www.lakevillema.org/2011selectmensminutes.cfm" [1]
+2017-01-02 00:10:20 URL:http://www.lakevillema.org/selectmenminutes2012.cfm [17695/17695] -> "../data/townSites2/Lakeville/www.lakevillema.org/selectmenminutes2012.cfm" [1]
+2017-01-02 00:10:22 URL:http://www.lakevillema.org/2013selectmenminutes.cfm [17766/17766] -> "../data/townSites2/Lakeville/www.lakevillema.org/2013selectmenminutes.cfm" [1]
+2017-01-02 00:10:23 URL:http://www.lakevillema.org/selectmenminutes2014.cfm [19108/19108] -> "../data/townSites2/Lakeville/www.lakevillema.org/selectmenminutes2014.cfm" [1]
+2017-01-02 00:10:25 URL:http://www.lakevillema.org/selectmenminutes2015.cfm [17687/17687] -> "../data/townSites2/Lakeville/www.lakevillema.org/selectmenminutes2015.cfm" [1]
+2017-01-02 00:10:26 URL:http://www.lakevillema.org/selectmen2016minutes.cfm [16328/16328] -> "../data/townSites2/Lakeville/www.lakevillema.org/selectmen2016minutes.cfm" [1]
+2017-01-02 00:10:27 URL: http://www.lakevillema.org/Application.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:29 URL:http://www.lakevillema.org/earth_removal_permit.cfm [15372/15372] -> "../data/townSites2/Lakeville/www.lakevillema.org/earth_removal_permit.cfm" [1]
+2017-01-02 00:10:30 URL: http://www.lakevillema.org/jobs/Bylaws.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:30 URL: http://www.lakevillema.org/MassWildlife%20Problem%20Animal.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:31 URL: http://www.lakevillema.org/Living%20With%20Wildlife.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:31 URL: http://www.lakevillema.org/Moving%20Wild%20Animals.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:32 URL: http://www.lakevillema.org/Living%20With%20Coyotes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:34 URL:http://www.lakevillema.org/assessorsminutes2009.cfm [12182/12182] -> "../data/townSites2/Lakeville/www.lakevillema.org/assessorsminutes2009.cfm" [1]
+2017-01-02 00:10:36 URL:http://www.lakevillema.org/assessors2010minutes.cfm [12428/12428] -> "../data/townSites2/Lakeville/www.lakevillema.org/assessors2010minutes.cfm" [1]
+2017-01-02 00:10:38 URL:http://www.lakevillema.org/assessorsminutes2011.cfm [13710/13710] -> "../data/townSites2/Lakeville/www.lakevillema.org/assessorsminutes2011.cfm" [1]
+2017-01-02 00:10:40 URL:http://www.lakevillema.org/2012assessorsminutes.cfm [14613/14613] -> "../data/townSites2/Lakeville/www.lakevillema.org/2012assessorsminutes.cfm" [1]
+2017-01-02 00:10:42 URL:http://www.lakevillema.org/2013assessorsminutes.cfm [15605/15605] -> "../data/townSites2/Lakeville/www.lakevillema.org/2013assessorsminutes.cfm" [1]
+2017-01-02 00:10:43 URL:http://www.lakevillema.org/2014assessorsminutes.cfm [14991/14991] -> "../data/townSites2/Lakeville/www.lakevillema.org/2014assessorsminutes.cfm" [1]
+2017-01-02 00:10:45 URL:http://www.lakevillema.org/2015assessorsminutes.cfm [12873/12873] -> "../data/townSites2/Lakeville/www.lakevillema.org/2015assessorsminutes.cfm" [1]
+2017-01-02 00:10:47 URL:http://www.lakevillema.org/2016assessorsminutes.cfm [12988/12988] -> "../data/townSites2/Lakeville/www.lakevillema.org/2016assessorsminutes.cfm" [1]
+2017-01-02 00:10:47 URL: http://www.lakevillema.org/Assessors/LakevilleHow%20do%20I%20file.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:47 URL: http://www.lakevillema.org/Assessors/abatement%202015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:48 URL: http://www.lakevillema.org/Assessors%20Chapter%2061.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:48 URL: http://www.lakevillema.org/MA%20ENVIRONMENTAL_Boat%20Change%20Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:48 URL: http://www.lakevillema.org/Assessors%20Chapter%2061A.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:49 URL: http://www.lakevillema.org/Assessors%20Chapter%2061B.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:51 URL:http://www.lakevillema.org/bohminutes2007.cfm [13065/13065] -> "../data/townSites2/Lakeville/www.lakevillema.org/bohminutes2007.cfm" [1]
+2017-01-02 00:10:52 URL:http://www.lakevillema.org/boh2008minutes.cfm [14200/14200] -> "../data/townSites2/Lakeville/www.lakevillema.org/boh2008minutes.cfm" [1]
+2017-01-02 00:10:54 URL:http://www.lakevillema.org/boardofhealth2009minutes.cfm [13937/13937] -> "../data/townSites2/Lakeville/www.lakevillema.org/boardofhealth2009minutes.cfm" [1]
+2017-01-02 00:10:55 URL:http://www.lakevillema.org/boardofhealth2010minutes.cfm [14493/14493] -> "../data/townSites2/Lakeville/www.lakevillema.org/boardofhealth2010minutes.cfm" [1]
+2017-01-02 00:10:57 URL:http://www.lakevillema.org/boardofhealth2011minutes.cfm [14094/14094] -> "../data/townSites2/Lakeville/www.lakevillema.org/boardofhealth2011minutes.cfm" [1]
+2017-01-02 00:10:58 URL:http://www.lakevillema.org/2012healthminutes.cfm [13486/13486] -> "../data/townSites2/Lakeville/www.lakevillema.org/2012healthminutes.cfm" [1]
+2017-01-02 00:11:00 URL:http://www.lakevillema.org/2013boardofhealthminutes.cfm [13409/13409] -> "../data/townSites2/Lakeville/www.lakevillema.org/2013boardofhealthminutes.cfm" [1]
+2017-01-02 00:11:02 URL:http://www.lakevillema.org/2014boardofhealthminutes.cfm [13838/13838] -> "../data/townSites2/Lakeville/www.lakevillema.org/2014boardofhealthminutes.cfm" [1]
+2017-01-02 00:11:03 URL:http://www.lakevillema.org/2015boardofhealthminutes.cfm [14079/14079] -> "../data/townSites2/Lakeville/www.lakevillema.org/2015boardofhealthminutes.cfm" [1]
+2017-01-02 00:11:05 URL:http://www.lakevillema.org/2016boardofhealthminutes.cfm [14095/14095] -> "../data/townSites2/Lakeville/www.lakevillema.org/2016boardofhealthminutes.cfm" [1]
+2017-01-02 00:11:05 URL: http://www.lakevillema.org/health/Revised%20Horse%20manure%20Advisory%2010-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:05 URL: http://www.lakevillema.org/health/Radionuclide%20Advisory%2010-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:06 URL: http://www.lakevillema.org/health/Beach%20Press%20Release%206%202014(1).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:06 URL: http://www.lakevillema.org/health/Mosquito%20info.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:07 URL: http://www.lakevillema.org/health/Homeowner%20Mosquito%20Control%20Brochure%20from%20PCMC%20(2).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:07 URL: http://www.lakevillema.org/health/Pesticide%20FAW.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:07 URL: http://www.lakevillema.org/TITLE%20V%20Applications%20.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:08 URL: http://www.lakevillema.org/Trench%20Permit%20Master.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:08 URL: http://www.lakevillema.org/health/Perc%20Test%20Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:09 URL: http://www.lakevillema.org/health/Food%20Establishment.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:09 URL: http://www.lakevillema.org/Trench%20Permit%20regulation.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:09 URL: http://www.lakevillema.org/health/Stable%20Regs%20Current.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:10 URL: http://www.lakevillema.org/health/Body%20Art%20Regs-retyped.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:10 URL: http://www.lakevillema.org/health/7%2017%2013%20Pool%20Regs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:10 URL: http://www.lakevillema.org/health/Noise%20Regs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:11 URL: http://www.lakevillema.org/health/WATER%20ANALYSIS%20POLICY%20-%20CURRENT-12-6-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:13 URL:http://www.lakevillema.org/FoodRecalls.cfm [32608/32608] -> "../data/townSites2/Lakeville/www.lakevillema.org/FoodRecalls.cfm" [1]
+2017-01-02 00:11:13 URL: http://www.lakevillema.org/Purchasing/Fee%20schedule%20(Current)%20(2).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:14 URL: http://www.lakevillema.org/health/Gross%20Alpha%20Policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:16 URL:http://www.lakevillema.org/eeeinfomration.cfm [14410/14410] -> "../data/townSites2/Lakeville/www.lakevillema.org/eeeinfomration.cfm" [1]
+2017-01-02 00:11:16 URL: http://www.lakevillema.org/Flu%20Manual1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:16 URL: http://www.lakevillema.org/health/Beach%20results.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:17 URL: http://www.lakevillema.org/building/Gas%20Application%20intereactive.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:17 URL: http://www.lakevillema.org/building/Plumbing%20Application%20interactive.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:18 URL: http://www.lakevillema.org/building/Wiring%20Permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:18 URL: http://www.lakevillema.org/building/Bldg%20%20Fees%20Rev%20%205%2031%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:19 URL: http://www.lakevillema.org/building/Wiring%20Fee%20Schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:19 URL: http://www.lakevillema.org/building/Plumbing%20Fee%20Schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:19 URL: http://www.lakevillema.org/building/Gas%20Fee%20Schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:20 URL: http://www.lakevillema.org/building/Residential%20Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:20 URL: http://www.lakevillema.org/building/Commercial%20Building%20Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:21 URL: http://www.lakevillema.org/building/Swimming%20Pool%202015%20website.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:21 URL: http://www.lakevillema.org/building/Mechanical%20Application%20%20Information.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:22 URL: http://www.lakevillema.org/building/Sign%20Application%202015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:22 URL: http://www.lakevillema.org/Commercial%20Demolition%20Instructions%20%20Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:22 URL: http://www.lakevillema.org/building/Residential%20Demo%20Permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:23 URL: http://www.lakevillema.org/building/Solid%20Fuel%20Applications%20(Stoves).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:23 URL: http://www.lakevillema.org/building/Home%20Occupation%20Permit%20Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:24 URL: http://www.lakevillema.org/building/Home%20Occupation%20Permit%20Application(1).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:24 URL: http://www.lakevillema.org/building/Trench%20Permit%20%20Information.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:24 URL: http://www.lakevillema.org/building/Website%20shed%20form%202014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:25 URL: http://www.lakevillema.org/building/MISC%20%20BUILDING%20REPAIR%20APPLICATION.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:25 URL: http://www.lakevillema.org/Roof%20%20Siding%20%20Window%20%20Door%20Replacement%20Application%20.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:26 URL: http://www.lakevillema.org/FIREPLACE%20%20CHIMNEY%20FORM.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:26 URL: http://www.lakevillema.org/Affidavit%20Home%20Improvement%20Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:26 URL: http://www.lakevillema.org/Homeowner%20License%20Exempton.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:27 URL: http://www.lakevillema.org/Bylaws/2013%20Zoning%20Bylaws.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:28 URL: http://www.lakevillema.org/building/SHEET%20METAL%20INFORMATION.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:28 URL: http://www.lakevillema.org/building/Stretch%20Code%20document.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:29 URL: http://www.lakevillema.org/COMPLAINT%20FORM.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:29 URL: http://www.lakevillema.org/building/Solar%20Information.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:29 URL: http://www.lakevillema.org/building/2015%20Worker's%20Compensation.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:30 URL: http://www.lakevillema.org/building/information%20request%20form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:30 URL: http://www.lakevillema.org/building/2016%20Work%20without%20a%20permit%20form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:32 URL:http://www.lakevillema.org/COA2010minutes.cfm [12277/12277] -> "../data/townSites2/Lakeville/www.lakevillema.org/COA2010minutes.cfm" [1]
+2017-01-02 00:11:33 URL:http://www.lakevillema.org/departments/burning_regulations.cfm [14573/14573] -> "../data/townSites2/Lakeville/www.lakevillema.org/departments/burning_regulations.cfm" [1]
+2017-01-02 00:11:34 URL: http://www.lakevillema.org/Smoke_20detectors1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:34 URL: http://www.lakevillema.org/Highway/Highway%20Trench%20Permit-Current.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:34 URL: http://www.lakevillema.org/Highway/Application%20on%20letterhead.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:35 URL: http://www.lakevillema.org/Highway/Curb%20cut%20applicaiton%20and%20regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:35 URL: http://www.lakevillema.org/parks_commission_minutes/Swimming%20lessons.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:36 URL: http://www.lakevillema.org/parks_commission_minutes/CLEAR%20POND%20%20PRICES%206%2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:37 URL:http://www.lakevillema.org/departments/dickran_diran_square.cfm [14791/14791] -> "../data/townSites2/Lakeville/www.lakevillema.org/departments/dickran_diran_square.cfm" [1]
+2017-01-02 00:11:37 URL: http://www.lakevillema.org/parks_commission_minutes/Loon%20Pond%20Horseshoe%20schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:37 URL: http://www.lakevillema.org/Elections/Early%20voting%20notice.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:38 URL: http://www.lakevillema.org/town_clerk/EARLY%20VOTING%20FAQS_%20Lakeville.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:39 URL:http://www.lakevillema.org/town_clerk/census_streetlist.cfm [13563/13563] -> "../data/townSites2/Lakeville/www.lakevillema.org/town_clerk/census_streetlist.cfm" [1]
+2017-01-02 00:11:41 URL:http://www.lakevillema.org/town_clerk/vital_statistics.cfm [15531/15531] -> "../data/townSites2/Lakeville/www.lakevillema.org/town_clerk/vital_statistics.cfm" [1]
+2017-01-02 00:11:42 URL:http://www.lakevillema.org/town_clerk/posted_meetings.cfm [13300/13300] -> "../data/townSites2/Lakeville/www.lakevillema.org/town_clerk/posted_meetings.cfm" [1]
+2017-01-02 00:11:45 URL:http://www.lakevillema.org/town_clerk/elections_meetings.cfm [14139/14139] -> "../data/townSites2/Lakeville/www.lakevillema.org/town_clerk/elections_meetings.cfm" [1]
+2017-01-02 00:11:45 URL: http://www.lakevillema.org/town_clerk/Voter%20Registration%20Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:47 URL:http://www.lakevillema.org/town_clerk/absentee_voting.cfm [14378/14378] -> "../data/townSites2/Lakeville/www.lakevillema.org/town_clerk/absentee_voting.cfm" [1]
+2017-01-02 00:11:48 URL:http://www.lakevillema.org/town_clerk/dog_license.cfm [14720/14720] -> "../data/townSites2/Lakeville/www.lakevillema.org/town_clerk/dog_license.cfm" [1]
+2017-01-02 00:11:50 URL:http://www.lakevillema.org/townclerkforms.cfm [12793/12793] -> "../data/townSites2/Lakeville/www.lakevillema.org/townclerkforms.cfm" [1]
+2017-01-02 00:11:52 URL:http://www.lakevillema.org/town_clerk/other_permits.cfm [18526/18526] -> "../data/townSites2/Lakeville/www.lakevillema.org/town_clerk/other_permits.cfm" [1]
+2017-01-02 00:11:52 URL: http://www.lakevillema.org/town_clerk/Getting%20Married%20Guidelines%20for%20Website.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:52 URL: http://www.lakevillema.org/applicaiton.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:54 URL:http://www.lakevillema.org/departments/transfer_station_stickers.cfm [17392/17392] -> "../data/townSites2/Lakeville/www.lakevillema.org/departments/transfer_station_stickers.cfm" [1]
+2017-01-02 00:11:55 URL: http://www.lakevillema.org/RECYCLING%20INFORMATION.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:57 URL:http://www.lakevillema.org/departments/transfer_station_composting.cfm [44137/44137] -> "../data/townSites2/Lakeville/www.lakevillema.org/departments/transfer_station_composting.cfm" [1]
+2017-01-02 00:11:57 URL: http://www.lakevillema.org/Transfer%20Station/TRANSFER%20PRICE%20SHEET%202015(2).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:57 URL: http://www.lakevillema.org/Transfer%20Station/Mattress%20Disposal%20Policy_1_7_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:58 URL: http://www.lakevillema.org/Transfer%20Station/Materials%20Collected.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:12:00 URL:http://www.lakevillema.org/onlinebillpay.cfm [14216/14216] -> "../data/townSites2/Lakeville/www.lakevillema.org/onlinebillpay.cfm" [1]
+2017-01-02 00:12:01 URL: http://www.lakevillema.org/Website%20FAQs%20Submitter%20Program%20V3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:12:02 URL:http://www.lakevillema.org/ZBA2007minutes.cfm [12894/12894] -> "../data/townSites2/Lakeville/www.lakevillema.org/ZBA2007minutes.cfm" [1]
+2017-01-02 00:12:04 URL:http://www.lakevillema.org/ZBA2008minutes.cfm [13413/13413] -> "../data/townSites2/Lakeville/www.lakevillema.org/ZBA2008minutes.cfm" [1]
+2017-01-02 00:12:06 URL:http://www.lakevillema.org/zba2009minutes.cfm [13196/13196] -> "../data/townSites2/Lakeville/www.lakevillema.org/zba2009minutes.cfm" [1]
+2017-01-02 00:12:07 URL:http://www.lakevillema.org/zoningminutes2010.cfm [13059/13059] -> "../data/townSites2/Lakeville/www.lakevillema.org/zoningminutes2010.cfm" [1]
+2017-01-02 00:12:09 URL:http://www.lakevillema.org/zoningminutes2011.cfm [12324/12324] -> "../data/townSites2/Lakeville/www.lakevillema.org/zoningminutes2011.cfm" [1]
+2017-01-02 00:12:10 URL:http://www.lakevillema.org/zbaminues2012.cfm [12404/12404] -> "../data/townSites2/Lakeville/www.lakevillema.org/zbaminues2012.cfm" [1]
+2017-01-02 00:12:12 URL:http://www.lakevillema.org/zoningminutes2013.cfm [12974/12974] -> "../data/townSites2/Lakeville/www.lakevillema.org/zoningminutes2013.cfm" [1]
+2017-01-02 00:12:13 URL:http://www.lakevillema.org/2014zbaminutes.cfm [13305/13305] -> "../data/townSites2/Lakeville/www.lakevillema.org/2014zbaminutes.cfm" [1]
+2017-01-02 00:12:16 URL:http://www.lakevillema.org/cemeterycommission2008.cfm [13211/13211] -> "../data/townSites2/Lakeville/www.lakevillema.org/cemeterycommission2008.cfm" [1]
+2017-01-02 00:12:18 URL:http://www.lakevillema.org/cemetery2009minutes.cfm [13437/13437] -> "../data/townSites2/Lakeville/www.lakevillema.org/cemetery2009minutes.cfm" [1]
+2017-01-02 00:12:20 URL:http://www.lakevillema.org/cemetery2010minutes.cfm [13562/13562] -> "../data/townSites2/Lakeville/www.lakevillema.org/cemetery2010minutes.cfm" [1]
+2017-01-02 00:12:21 URL:http://www.lakevillema.org/cemeteryminutes2011.cfm [12950/12950] -> "../data/townSites2/Lakeville/www.lakevillema.org/cemeteryminutes2011.cfm" [1]
+2017-01-02 00:12:24 URL:http://www.lakevillema.org/2012cemeteryminutes.cfm [13318/13318] -> "../data/townSites2/Lakeville/www.lakevillema.org/2012cemeteryminutes.cfm" [1]
+2017-01-02 00:12:25 URL:http://www.lakevillema.org/2013cemeterycommissionminutes.cfm [12626/12626] -> "../data/townSites2/Lakeville/www.lakevillema.org/2013cemeterycommissionminutes.cfm" [1]
+2017-01-02 00:12:27 URL:http://www.lakevillema.org/2014cemeterycommissionminutes.cfm [12872/12872] -> "../data/townSites2/Lakeville/www.lakevillema.org/2014cemeterycommissionminutes.cfm" [1]
+2017-01-02 00:12:29 URL:http://www.lakevillema.org/2015cemeteryminutes.cfm [13264/13264] -> "../data/townSites2/Lakeville/www.lakevillema.org/2015cemeteryminutes.cfm" [1]
+2017-01-02 00:12:31 URL:http://www.lakevillema.org/2016cemeteryminutes.cfm [13116/13116] -> "../data/townSites2/Lakeville/www.lakevillema.org/2016cemeteryminutes.cfm" [1]
+2017-01-02 00:12:31 URL: http://www.lakevillema.org/Cemetery%20minutes/Cemetery%20Commission%20fee%20schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:12:32 URL: http://www.lakevillema.org/Cemetery%20minutes/Rules%20and%20Regs_VET_Cemetery%20Aug%202015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:12:33 URL:http://www.lakevillema.org/conservation_minutes.cfm [13467/13467] -> "../data/townSites2/Lakeville/www.lakevillema.org/conservation_minutes.cfm" [1]
+2017-01-02 00:12:35 URL:http://www.lakevillema.org/conservationminutes2008.cfm [12650/12650] -> "../data/townSites2/Lakeville/www.lakevillema.org/conservationminutes2008.cfm" [1]
+2017-01-02 00:12:37 URL:http://www.lakevillema.org/concomminutes2010.cfm [13269/13269] -> "../data/townSites2/Lakeville/www.lakevillema.org/concomminutes2010.cfm" [1]
+2017-01-02 00:12:38 URL:http://www.lakevillema.org/conservationcomm2011minutes.cfm [13275/13275] -> "../data/townSites2/Lakeville/www.lakevillema.org/conservationcomm2011minutes.cfm" [1]
+2017-01-02 00:12:40 URL:http://www.lakevillema.org/2012conservationminutes.cfm [14443/14443] -> "../data/townSites2/Lakeville/www.lakevillema.org/2012conservationminutes.cfm" [1]
+2017-01-02 00:12:42 URL:http://www.lakevillema.org/2013conservationminutes.cfm [14521/14521] -> "../data/townSites2/Lakeville/www.lakevillema.org/2013conservationminutes.cfm" [1]
+2017-01-02 00:12:44 URL:http://www.lakevillema.org/2014conservationminutes.cfm [14056/14056] -> "../data/townSites2/Lakeville/www.lakevillema.org/2014conservationminutes.cfm" [1]
+2017-01-02 00:12:46 URL:http://www.lakevillema.org/2015conservationminutes.cfm [14366/14366] -> "../data/townSites2/Lakeville/www.lakevillema.org/2015conservationminutes.cfm" [1]
+2017-01-02 00:12:47 URL:http://www.lakevillema.org/2016minutesconservationcommission.cfm [13794/13794] -> "../data/townSites2/Lakeville/www.lakevillema.org/2016minutesconservationcommission.cfm" [1]
+2017-01-02 00:12:49 URL:http://www.lakevillema.org/conservation_links.cfm [14703/14703] -> "../data/townSites2/Lakeville/www.lakevillema.org/conservation_links.cfm" [1]
+2017-01-02 00:12:49 URL: http://www.lakevillema.org/Conservation/Lakeville%20ConCom%20Fee%20Schedule%20-%20Revised%2010-12-10.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:12:50 URL: http://www.lakevillema.org/Conservation/Submittal%20Requirements%202017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:12:50 URL: http://www.lakevillema.org/Conservation/Notice%20of%20Intent%20Checklist(2).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:12:51 URL: http://www.lakevillema.org/Conservation/Site%20Access%20Consent%20Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:12:51 URL: http://www.lakevillema.org/Conservation/Stewardship%20plan%20proposal(1).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:12:51 URL: http://www.lakevillema.org/Conservation/Vigers%20forest%20management%20plan(1).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:12:53 URL:http://www.lakevillema.org/economicdevminutes.cfm [13377/13377] -> "../data/townSites2/Lakeville/www.lakevillema.org/economicdevminutes.cfm" [1]
+2017-01-02 00:12:55 URL:http://www.lakevillema.org/2014EDCminutes.cfm [13567/13567] -> "../data/townSites2/Lakeville/www.lakevillema.org/2014EDCminutes.cfm" [1]
+2017-01-02 00:12:55 URL: http://www.lakevillema.org/Economic%20Development%20Committee/Business%20Guide.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:12:57 URL:http://www.lakevillema.org/energy2010minutes.cfm [12642/12642] -> "../data/townSites2/Lakeville/www.lakevillema.org/energy2010minutes.cfm" [1]
+2017-01-02 00:12:59 URL:http://www.lakevillema.org/energyadvisory2012minutes.cfm [12451/12451] -> "../data/townSites2/Lakeville/www.lakevillema.org/energyadvisory2012minutes.cfm" [1]
+2017-01-02 00:12:59 URL: http://www.lakevillema.org/Energy/Town%20of%20Lakeville%20Action%20Plan%20-%20Final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:13:01 URL:http://www.lakevillema.org/financeminutes2009.cfm [12844/12844] -> "../data/townSites2/Lakeville/www.lakevillema.org/financeminutes2009.cfm" [1]
+2017-01-02 00:13:03 URL:http://www.lakevillema.org/2011financeminutes.cfm [12846/12846] -> "../data/townSites2/Lakeville/www.lakevillema.org/2011financeminutes.cfm" [1]
+2017-01-02 00:13:05 URL:http://www.lakevillema.org/2012financecommminutes.cfm [12984/12984] -> "../data/townSites2/Lakeville/www.lakevillema.org/2012financecommminutes.cfm" [1]
+2017-01-02 00:13:05 URL: http://www.lakevillema.org/Historical/Veteran's%20Honor%20Roll.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:13:06 URL: http://www.lakevillema.org/Historical/Historical%20Comm%20Educ%20Scholarship%20Article.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:13:06 URL: http://www.lakevillema.org/Historical/Brick%20Fundraiser%20Promotion.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:13:07 URL: http://www.lakevillema.org/Historical/Brick%20Order%20Form%20POLL.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:13:07 URL: http://www.lakevillema.org/Arts%20Council/Crafter%20application%20and%20rules%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:13:08 URL: http://www.lakevillema.org/Arts%20Council/Non%20profit%20appl%20and%20rules%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:13:08 URL: http://www.lakevillema.org/Arts%20Council/grant%20announcement%202016_Lakeville.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:13:10 URL:http://www.lakevillema.org/library2009minutes.cfm [13014/13014] -> "../data/townSites2/Lakeville/www.lakevillema.org/library2009minutes.cfm" [1]
+2017-01-02 00:13:11 URL:http://www.lakevillema.org/2010minuteslibrary.cfm [12521/12521] -> "../data/townSites2/Lakeville/www.lakevillema.org/2010minuteslibrary.cfm" [1]
+2017-01-02 00:13:14 URL:http://www.lakevillema.org/2011libraryminutes.cfm [13606/13606] -> "../data/townSites2/Lakeville/www.lakevillema.org/2011libraryminutes.cfm" [1]
+2017-01-02 00:13:15 URL:http://www.lakevillema.org/2012libraryminutes.cfm [12707/12707] -> "../data/townSites2/Lakeville/www.lakevillema.org/2012libraryminutes.cfm" [1]
+2017-01-02 00:13:17 URL:http://www.lakevillema.org/2013libraryminutes.cfm [12973/12973] -> "../data/townSites2/Lakeville/www.lakevillema.org/2013libraryminutes.cfm" [1]
+2017-01-02 00:13:18 URL:http://www.lakevillema.org/libraryminutes2014.cfm [13085/13085] -> "../data/townSites2/Lakeville/www.lakevillema.org/libraryminutes2014.cfm" [1]
+2017-01-02 00:13:20 URL:http://www.lakevillema.org/2015libraryminutes.cfm [13423/13423] -> "../data/townSites2/Lakeville/www.lakevillema.org/2015libraryminutes.cfm" [1]
+2017-01-02 00:13:21 URL:http://www.lakevillema.org/openspaceminutes2007.cfm [12795/12795] -> "../data/townSites2/Lakeville/www.lakevillema.org/openspaceminutes2007.cfm" [1]
+2017-01-02 00:13:23 URL:http://www.lakevillema.org/openspace2008minutes.cfm [13993/13993] -> "../data/townSites2/Lakeville/www.lakevillema.org/openspace2008minutes.cfm" [1]
+2017-01-02 00:13:24 URL:http://www.lakevillema.org/openspace2009minutes.cfm [13212/13212] -> "../data/townSites2/Lakeville/www.lakevillema.org/openspace2009minutes.cfm" [1]
+2017-01-02 00:13:27 URL:http://www.lakevillema.org/openspace2010minutes.cfm [13708/13708] -> "../data/townSites2/Lakeville/www.lakevillema.org/openspace2010minutes.cfm" [1]
+2017-01-02 00:13:28 URL:http://www.lakevillema.org/openspace2011.cfm [13465/13465] -> "../data/townSites2/Lakeville/www.lakevillema.org/openspace2011.cfm" [1]
+2017-01-02 00:13:29 URL:http://www.lakevillema.org/openspaceminutes2012.cfm [13767/13767] -> "../data/townSites2/Lakeville/www.lakevillema.org/openspaceminutes2012.cfm" [1]
+2017-01-02 00:13:30 URL:http://www.lakevillema.org/openspaceminutes2013.cfm [13385/13385] -> "../data/townSites2/Lakeville/www.lakevillema.org/openspaceminutes2013.cfm" [1]
+2017-01-02 00:13:32 URL:http://www.lakevillema.org/2015openspaceminutes.cfm [13198/13198] -> "../data/townSites2/Lakeville/www.lakevillema.org/2015openspaceminutes.cfm" [1]
+2017-01-02 00:13:33 URL:http://www.lakevillema.org/2016openspaceminutes.cfm [12357/12357] -> "../data/townSites2/Lakeville/www.lakevillema.org/2016openspaceminutes.cfm" [1]
+2017-01-02 00:13:35 URL:http://www.lakevillema.org/openspaceplan2012.cfm [14698/14698] -> "../data/townSites2/Lakeville/www.lakevillema.org/openspaceplan2012.cfm" [1]
+2017-01-02 00:13:36 URL:http://www.lakevillema.org/planningboardminutes2007.cfm [15547/15547] -> "../data/townSites2/Lakeville/www.lakevillema.org/planningboardminutes2007.cfm" [1]
+2017-01-02 00:13:38 URL:http://www.lakevillema.org/planningboard2008minutes.cfm [14434/14434] -> "../data/townSites2/Lakeville/www.lakevillema.org/planningboard2008minutes.cfm" [1]
+2017-01-02 00:13:39 URL:http://www.lakevillema.org/2009planningboardminutes.cfm [14506/14506] -> "../data/townSites2/Lakeville/www.lakevillema.org/2009planningboardminutes.cfm" [1]
+2017-01-02 00:13:42 URL:http://www.lakevillema.org/planningboard2010minutes.cfm [13949/13949] -> "../data/townSites2/Lakeville/www.lakevillema.org/planningboard2010minutes.cfm" [1]
+2017-01-02 00:13:46 URL:http://www.lakevillema.org/2011planningboardminutes.cfm [14402/14402] -> "../data/townSites2/Lakeville/www.lakevillema.org/2011planningboardminutes.cfm" [1]
+2017-01-02 00:13:48 URL:http://www.lakevillema.org/2012planningboardminutes.cfm [13161/13161] -> "../data/townSites2/Lakeville/www.lakevillema.org/2012planningboardminutes.cfm" [1]
+2017-01-02 00:13:49 URL:http://www.lakevillema.org/planningboard2013minutes.cfm [14370/14370] -> "../data/townSites2/Lakeville/www.lakevillema.org/planningboard2013minutes.cfm" [1]
+2017-01-02 00:13:52 URL:http://www.lakevillema.org/2014planningboardminutes.cfm [15316/15316] -> "../data/townSites2/Lakeville/www.lakevillema.org/2014planningboardminutes.cfm" [1]
+2017-01-02 00:13:54 URL:http://www.lakevillema.org/2015planningboardminutes.cfm [14862/14862] -> "../data/townSites2/Lakeville/www.lakevillema.org/2015planningboardminutes.cfm" [1]
+2017-01-02 00:13:58 URL:http://www.lakevillema.org/2016planningboardminutes.cfm [13960/13960] -> "../data/townSites2/Lakeville/www.lakevillema.org/2016planningboardminutes.cfm" [1]
+2017-01-02 00:13:59 URL: http://www.lakevillema.org/planning_board_minutes/Planning%20Board%20Fees%20-%20January%2026%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:00 URL: http://www.lakevillema.org/planning_board_minutes/Planning%20Board%20Rules%20and%20Regs%20Amended%201-26-16%20new%20index%2011-14-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:00 URL: http://www.lakevillema.org/Form%20A.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:01 URL: http://www.lakevillema.org/Form%20B.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:01 URL: http://www.lakevillema.org/Form%20C.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:02 URL: http://www.lakevillema.org/planning_board_minutes/Form%20F%20Certificate%20of%20Performance.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:02 URL: http://www.lakevillema.org/Receipt%20of%20Site%20Plan1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:03 URL: http://www.lakevillema.org/Receipt%20of%20Preliminary%20Definitive%20Form%20C.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:03 URL: http://www.lakevillema.org/images/Water%20Tower/pouring.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:04 URL: http://www.lakevillema.org/images/Water%20Tower/pour%20almost%20complete.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:05 URL: http://www.lakevillema.org/images/Water%20Tower/finishing%20pour%205th%20course_00.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:05 URL: http://www.lakevillema.org/images/Water%20Tower/5%20rings%209-8.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:06 URL: http://www.lakevillema.org/images/Water%20Tower/Lakeville%20setting%20forms%209-8.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:06 URL: http://www.lakevillema.org/images/Water%20Tower/from%20inside%20pedestal%20at%2064%20ft.JPG 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:08 URL:http://www.lakevillema.org/jobs/jobs_list.cfm [13716/13716] -> "../data/townSites2/Lakeville/www.lakevillema.org/jobs/jobs_list.cfm" [1]
+2017-01-02 00:14:09 URL: http://www.lakevillema.org/selectmen_minutes/Employment%20Applicaiton.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:09 URL: http://www.lakevillema.org/jobs/New%20CORI%20form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:11 URL:http://www.lakevillema.org/departments/parks.cfm [20317/20317] -> "../data/townSites2/Lakeville/www.lakevillema.org/departments/parks.cfm" [1]
+http://www.lakevillema.org/Public_Documents/LakevilleMA_WebDocs/Board.Selectmen@lakevillema.org:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:14:12 URL: http://www.lakevillema.org/Pond%20Levels/APC%20Presentation1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:13 URL: http://www.lakevillema.org/Pond%20Levels/APC%20Update%20_%20One%20Year%20Later%20REV.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:13 URL: http://www.lakevillema.org/Pond%20Levels/NEW%20LEVELS.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:14 URL: http://www.lakevillema.org/Pond%20Levels/12-6-11%20Ponds%20Public%20Meeting%20Presentation.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:14 URL: http://www.lakevillema.org/Pond%20Levels/August%202010.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:14 URL: http://www.lakevillema.org/Pond%20Levels/January%202014(2).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:15 URL: http://www.lakevillema.org/Pond%20Levels/September%2020102.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:16 URL: http://www.lakevillema.org/Pond%20Levels/20140227111221265.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:16 URL: http://www.lakevillema.org/Pond%20Levels/October%2020103.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:17 URL: http://www.lakevillema.org/Pond%20Levels/March%202014(1).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:18 URL: http://www.lakevillema.org/Pond%20Levels/November%2020101.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:18 URL: http://www.lakevillema.org/Pond%20Levels/April%202014(4).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:19 URL: http://www.lakevillema.org/Pond%20Levels/December%2020102.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:19 URL: http://www.lakevillema.org/Pond%20Levels/May%202014(1).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:20 URL: http://www.lakevillema.org/Pond%20Levels/June%202014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:20 URL: http://www.lakevillema.org/Pond%20Levels/July%202014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:21 URL: http://www.lakevillema.org/Pond%20Levels/August%202014(1).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:21 URL: http://www.lakevillema.org/Pond%20Levels/January%2020111.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:21 URL: http://www.lakevillema.org/Pond%20Levels/September%202014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:22 URL: http://www.lakevillema.org/Pond%20Levels/February%2020112.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:23 URL: http://www.lakevillema.org/Pond%20Levels/October%202014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:24 URL: http://www.lakevillema.org/Pond%20Levels/March%2020112.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:25 URL: http://www.lakevillema.org/Pond%20Levels/November%202014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:26 URL: http://www.lakevillema.org/Pond%20Levels/April%2020114.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:26 URL: http://www.lakevillema.org/Pond%20Levels/December%202014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:26 URL: http://www.lakevillema.org/Pond%20Levels/May%2020113.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:27 URL: http://www.lakevillema.org/Pond%20Levels/June%2020113.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:27 URL: http://www.lakevillema.org/Pond%20Levels/July%2020114.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:28 URL: http://www.lakevillema.org/Pond%20Levels/August%2020112.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:28 URL: http://www.lakevillema.org/Pond%20Levels/September%2020112.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:29 URL: http://www.lakevillema.org/Pond%20Levels/January%202015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:30 URL: http://www.lakevillema.org/Pond%20Levels/October%2020114.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:30 URL: http://www.lakevillema.org/Pond%20Levels/February%202015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:31 URL: http://www.lakevillema.org/Pond%20Levels/November%2020114.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:32 URL: http://www.lakevillema.org/Pond%20Levels/March%202015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:33 URL: http://www.lakevillema.org/Pond%20Levels/December%2020114.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:34 URL: http://www.lakevillema.org/Pond%20Levels/April%202015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:34 URL: http://www.lakevillema.org/Pond%20Levels/May%202015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:35 URL: http://www.lakevillema.org/Pond%20Levels/June%202015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:36 URL: http://www.lakevillema.org/Pond%20Levels/July%202015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:37 URL: http://www.lakevillema.org/Pond%20Levels/January%2020124.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:38 URL: http://www.lakevillema.org/Pond%20Levels/August%202015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:38 URL: http://www.lakevillema.org/Pond%20Levels/February%2020122.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:40 URL: http://www.lakevillema.org/Pond%20Levels/September%202015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:40 URL: http://www.lakevillema.org/Pond%20Levels/March%2020121.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:40 URL: http://www.lakevillema.org/Pond%20Levels/October%202015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:41 URL: http://www.lakevillema.org/Pond%20Levels/April%2020124.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:42 URL: http://www.lakevillema.org/Pond%20Levels/November%202015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:42 URL: http://www.lakevillema.org/Pond%20Levels/May%2020123.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:43 URL: http://www.lakevillema.org/Pond%20Levels/December%202015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:44 URL: http://www.lakevillema.org/June%202012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:44 URL: http://www.lakevillema.org/Pond%20Levels/July%202012(1).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:45 URL: http://www.lakevillema.org/Pond%20Levels/August%202012(2).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:45 URL: http://www.lakevillema.org/Pond%20Levels/September%202012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:46 URL: http://www.lakevillema.org/Pond%20Levels/January%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:47 URL: http://www.lakevillema.org/Pond%20Levels/October%202012%20new.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:48 URL: http://www.lakevillema.org/Pond%20Levels/February%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:49 URL: http://www.lakevillema.org/selectmens%20agendas/November%202012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:49 URL: http://www.lakevillema.org/Pond%20Levels/March%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:49 URL: http://www.lakevillema.org/Misc/December%202012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:50 URL: http://www.lakevillema.org/Pond%20Levels/April%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:50 URL: http://www.lakevillema.org/Pond%20Levels/May%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:51 URL: http://www.lakevillema.org/Pond%20Levels/June%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:53 URL: http://www.lakevillema.org/Pond%20Levels/July%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:53 URL: http://www.lakevillema.org/Pond%20Levels/January%202013(3).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:54 URL: http://www.lakevillema.org/Pond%20Levels/August%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:57 URL: http://www.lakevillema.org/Pond%20Levels/February%202013(6).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:58 URL: http://www.lakevillema.org/Pond%20Levels/September%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:59 URL: http://www.lakevillema.org/Pond%20Levels/March%202013(7).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:00 URL: http://www.lakevillema.org/Pond%20Levels/April%202013(5).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:00 URL: http://www.lakevillema.org/Pond%20Levels/May%202013(3).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:01 URL: http://www.lakevillema.org/Pond%20Levels/June%202013(3).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:01 URL: http://www.lakevillema.org/Pond%20Levels/July%202013(5).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:02 URL: http://www.lakevillema.org/Pond%20Levels/August%202013(2).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:03 URL: http://www.lakevillema.org/Pond%20Levels/September%202013(2).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:03 URL: http://www.lakevillema.org/Pond%20Levels/October%202013(1).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:04 URL: http://www.lakevillema.org/Pond%20Levels/November%202013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:05 URL: http://www.lakevillema.org/Pond%20Levels/December%202013(1).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:05 URL: http://www.lakevillema.org/Purchasing/Bid%20specs(3).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:07 URL: http://www.lakevillema.org/Community%20Events/COA%20bulletin.pdf 200 OK
+unlink: No such file or directory
+Found 3 broken links.
+
+http://www.lakevillema.org/Public_Documents/LakevilleMA_WebDocs/Board.Selectmen@lakevillema.org
+http://www.lakevillema.org/2017volunteerform(1).pdf
+http://www.lakevillema.org/Icons/0
+
+FINISHED --2017-01-02 00:15:07--
+Total wall clock time: 6m 38s
+Downloaded: 156 files, 2.5M in 1m 0s (42.2 KB/s)

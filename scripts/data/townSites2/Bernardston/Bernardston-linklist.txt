@@ -1,0 +1,204 @@
+2017-01-02 04:10:21 URL:http://www.townofbernardston.org/ [32262] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.html" [1]
+2017-01-02 04:10:21 URL: http://www.townofbernardston.org/templates/ja_simpli/favicon.ico 200 OK
+unlink: No such file or directory
+No data received.
+2017-01-02 04:10:39 URL:http://www.townofbernardston.org/index.php [32283] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php" [2]
+2017-01-02 04:10:39 URL: http://www.townofbernardston.org/images/clerk/Newsletters/Bernardston-Newsletter-09-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:10:56 URL:http://www.townofbernardston.org/index.php/town-calendar [27042] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/town-calendar" [1]
+2017-01-02 04:10:57 URL: http://www.townofbernardston.org/images/clerk/VerdeEnergyFAQnov2016-1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:10:57 URL: http://www.townofbernardston.org/images/senior/menu/01-January-2017-mSenior-Center-Congregate-Meals-Part-1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:10:58 URL: http://www.townofbernardston.org/images/senior/menu/01-January-2017-mSenior-Center-Congregate-Meals-Part-2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:10:58 URL: http://www.townofbernardston.org/images/senior/calendar/01-January-2017-Senior-Center-Calendar.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:10:58 URL: http://www.townofbernardston.org/images/senior/newsletter/01%20January%202017%20Senior%20Center%20Newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:11:00 URL:http://www.townofbernardston.org/index.php/8-uncategorised/1-about-bernardston [19436] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/1-about-bernardston" [1]
+2017-01-02 04:11:02 URL:http://www.townofbernardston.org/index.php/8-uncategorised/2-agricultural-commission [16820] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/2-agricultural-commission" [1]
+2017-01-02 04:11:18 URL:http://www.townofbernardston.org/index.php/8-uncategorised/3-animal-control [14784] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/3-animal-control" [1]
+2017-01-02 04:11:20 URL:http://www.townofbernardston.org/index.php/8-uncategorised/4-animal-inspector [14853] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/4-animal-inspector" [1]
+2017-01-02 04:11:37 URL:http://www.townofbernardston.org/index.php/8-uncategorised/5-board-of-assessors [16556] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/5-board-of-assessors" [1]
+2017-01-02 04:11:39 URL:http://www.townofbernardston.org/index.php/9-board-of-health [17460] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/9-board-of-health" [1]
+2017-01-02 04:11:42 URL:http://www.townofbernardston.org/index.php/8-uncategorised/27-board-of-selectmen [16994] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/27-board-of-selectmen" [1]
+2017-01-02 04:11:43 URL:http://www.townofbernardston.org/index.php/8-uncategorised/6-building-inspector [15874] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/6-building-inspector" [1]
+2017-01-02 04:11:45 URL:http://www.townofbernardston.org/index.php/8-uncategorised/52-charity-farm [18728] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/52-charity-farm" [1]
+2017-01-02 04:11:47 URL:http://www.townofbernardston.org/index.php/8-uncategorised/7-conservation-commission [15337] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/7-conservation-commission" [1]
+2017-01-02 04:11:49 URL:http://www.townofbernardston.org/index.php/8-uncategorised/28-senior-center [16259] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/28-senior-center" [1]
+2017-01-02 04:11:50 URL:http://www.townofbernardston.org/index.php/8-uncategorised/29-cultural-council [25406] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/29-cultural-council" [1]
+2017-01-02 04:11:52 URL:http://www.townofbernardston.org/index.php/8-uncategorised/8-electrical-inspector [16615] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/8-electrical-inspector" [1]
+2017-01-02 04:11:54 URL:http://www.townofbernardston.org/index.php/8-uncategorised/22-emergency-management [29986] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/22-emergency-management" [1]
+2017-01-02 04:11:56 URL:http://www.townofbernardston.org/index.php/8-uncategorised/26-farmers-market [15487] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/26-farmers-market" [1]
+No data received.
+2017-01-02 04:11:59 URL:http://www.townofbernardston.org/index.php/8-uncategorised/9-finance-committee [14949] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/9-finance-committee" [1]
+2017-01-02 04:12:00 URL:http://www.townofbernardston.org/index.php/8-uncategorised/36-fire-department [17335] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/36-fire-department" [1]
+2017-01-02 04:12:02 URL:http://www.townofbernardston.org/index.php/8-uncategorised/10-highway-department [14812] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/10-highway-department" [1]
+2017-01-02 04:12:03 URL:http://www.townofbernardston.org/index.php/8-uncategorised/11-historical-commission [14919] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/11-historical-commission" [1]
+2017-01-02 04:12:05 URL:http://www.townofbernardston.org/index.php/8-uncategorised/51-marriage-how-to-do-it [20861] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/51-marriage-how-to-do-it" [1]
+2017-01-02 04:12:07 URL:http://www.townofbernardston.org/index.php/8-uncategorised/53-master-plan-2016 [17728] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/53-master-plan-2016" [1]
+2017-01-02 04:12:08 URL:http://www.townofbernardston.org/index.php/8-uncategorised/12-planning-board [17044] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/12-planning-board" [1]
+2017-01-02 04:12:10 URL:http://www.townofbernardston.org/index.php/8-uncategorised/13-plumbing-inspector [15796] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/13-plumbing-inspector" [1]
+2017-01-02 04:12:12 URL:http://www.townofbernardston.org/index.php/12-police-department [18588] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/12-police-department" [1]
+2017-01-02 04:12:14 URL:http://www.townofbernardston.org/index.php/8-uncategorised/14-recreation-department [47099] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/14-recreation-department" [1]
+2017-01-02 04:12:17 URL:http://www.townofbernardston.org/index.php/8-uncategorised/15-street-list [16491] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/15-street-list" [2]
+2017-01-02 04:12:19 URL:http://www.townofbernardston.org/index.php/8-uncategorised/16-town-accountant [15853] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/16-town-accountant" [1]
+No data received.
+2017-01-02 04:12:37 URL:http://www.townofbernardston.org/index.php/8-uncategorised/30-town-clerk [16738] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/30-town-clerk" [1]
+2017-01-02 04:12:53 URL:http://www.townofbernardston.org/index.php/8-uncategorised/17-town-coordinator [15961] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/17-town-coordinator" [1]
+2017-01-02 04:12:53 URL: http://www.townofbernardston.org/images/clerk/Bylaws-Codified-2016-06-22-Archived.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:12:55 URL:http://www.townofbernardston.org/index.php/8-uncategorised/58-town-meeting-minutes [18209] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/58-town-meeting-minutes" [1]
+2017-01-02 04:12:57 URL:http://www.townofbernardston.org/index.php/8-uncategorised/18-transfer-station [15459] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/18-transfer-station" [1]
+2017-01-02 04:12:59 URL:http://www.townofbernardston.org/index.php/8-uncategorised/19-treasurer [16291] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/19-treasurer" [1]
+2017-01-02 04:13:00 URL:http://www.townofbernardston.org/index.php/8-uncategorised/20-veterans-services [20446] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/20-veterans-services" [1]
+2017-01-02 04:13:02 URL:http://www.townofbernardston.org/index.php/8-uncategorised/21-zoning-board-of-appeals [14884] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/8-uncategorised/21-zoning-board-of-appeals" [1]
+2017-01-02 04:13:04 URL:http://www.townofbernardston.org/index.php/town-calendar/monthcalendar/2017/1/- [32224] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/town-calendar/monthcalendar/2017/1/-" [1]
+2017-01-02 04:13:06 URL:http://www.townofbernardston.org/index.php/town-calendar/eventsbyweek/2017/01/01/- [26583] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/town-calendar/eventsbyweek/2017/01/01/-" [1]
+2017-01-02 04:13:08 URL:http://www.townofbernardston.org/index.php/10-board-of-selectmen/23-selectboard-minutes-2016 [18591] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/10-board-of-selectmen/23-selectboard-minutes-2016" [1]
+2017-01-02 04:13:09 URL:http://www.townofbernardston.org/index.php/10-board-of-selectmen/31-selectboard-minutes-2015 [20935] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/10-board-of-selectmen/31-selectboard-minutes-2015" [1]
+2017-01-02 04:13:11 URL:http://www.townofbernardston.org/index.php/10-board-of-selectmen/32-selectboard-minutes-2014 [22096] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/10-board-of-selectmen/32-selectboard-minutes-2014" [1]
+2017-01-02 04:13:12 URL:http://www.townofbernardston.org/index.php/10-board-of-selectmen/33-selectboard-minutes-2013 [21759] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/10-board-of-selectmen/33-selectboard-minutes-2013" [1]
+No data received.
+2017-01-02 04:13:16 URL:http://www.townofbernardston.org/index.php/10-board-of-selectmen/34-selectboard-minutes-2012 [18301] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/10-board-of-selectmen/34-selectboard-minutes-2012" [1]
+2017-01-02 04:13:17 URL:http://www.townofbernardston.org/index.php/10-board-of-selectmen/35-selectboard-minutes-2011 [18365] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/10-board-of-selectmen/35-selectboard-minutes-2011" [1]
+2017-01-02 04:13:18 URL: http://www.townofbernardston.org/images/clerk/charity/0_Cover_TOC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:18 URL: http://www.townofbernardston.org/images/clerk/charity/0_Forward.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:18 URL: http://www.townofbernardston.org/images/clerk/charity/1-Intro_Goals_Context.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:19 URL: http://www.townofbernardston.org/images/clerk/charity/2_History_Community_Process.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:19 URL: http://www.townofbernardston.org/images/clerk/charity/3_Site_Analysis.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:19 URL: http://www.townofbernardston.org/images/clerk/charity/4_Management_Scenarios.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:19 URL: http://www.townofbernardston.org/images/clerk/charity/5_GettingStarted_Appendix.pdf 200 OK
+unlink: No such file or directory
+http://www.townofbernardston.org/images/pdfs/clerk/02%20February%202016%20Senior%20Center%20Calendar.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 04:13:22 URL:http://www.townofbernardston.org/index.php/15-fire-department/37-burn-permits [17525] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/15-fire-department/37-burn-permits" [1]
+2017-01-02 04:13:23 URL:http://www.townofbernardston.org/index.php/15-fire-department/38-who-we-are [20755] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/15-fire-department/38-who-we-are" [1]
+2017-01-02 04:13:24 URL: http://www.townofbernardston.org/images/clerk/Marriage-00-Bernardston-Marriage-Intention--Certificate-Process-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:24 URL: http://www.townofbernardston.org/images/clerk/Marriage-01-Legal-Impediments-to-Marriage-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:24 URL: http://www.townofbernardston.org/images/clerk/Marriage-02-Intention-Front-Form-2016-Forward.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:25 URL: http://www.townofbernardston.org/images/clerk/Marriage-03-Worksheet-Form-2015-Onward.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:25 URL: http://www.townofbernardston.org/images/clerk/Marriage-04-Supplement-to-Intention-2014-forward.pdf 200 OK
+unlink: No such file or directory
+http://www.townofbernardston.org/images/pdfs/clerk/Marriage%2004%20Supplement%20to%20Intention%202014%20forward.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 04:13:26 URL: http://www.townofbernardston.org/images/planning/MasterPlan/1_TOC-Introduction.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:26 URL: http://www.townofbernardston.org/images/planning/MasterPlan/2_Goals_Vision.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:27 URL: http://www.townofbernardston.org/images/planning/MasterPlan/3_Watershed-Protection.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:27 URL: http://www.townofbernardston.org/images/planning/MasterPlan/4_1_Natural_Cultural_Resources.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:27 URL: http://www.townofbernardston.org/images/planning/MasterPlan/4_2_Natural_Cultural_Resources.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:28 URL: http://www.townofbernardston.org/images/planning/MasterPlan/5_0_Land_use.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:28 URL: http://www.townofbernardston.org/images/planning/MasterPlan/6_0_Housing.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:28 URL: http://www.townofbernardston.org/images/planning/MasterPlan/7_Transportation.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:29 URL: http://www.townofbernardston.org/images/planning/MasterPlan/8_Services_Facilities.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:29 URL: http://www.townofbernardston.org/images/planning/MasterPlan/9_EconomicDevelopment.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:29 URL: http://www.townofbernardston.org/images/planning/MasterPlan/10_Recommendations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:30 URL: http://www.townofbernardston.org/images/planning/MasterPlan/11_References--Appendix.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:30 URL: http://www.townofbernardston.org/images/planning/PoliciesandProcedures.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:30 URL: http://www.townofbernardston.org/images/zoning/Zoning-Bylaws-2016-04-27.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:31 URL: http://www.townofbernardston.org/images/planning/subdivision_rules_062888_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:31 URL: http://www.townofbernardston.org/images/zoning/Map-01-Zoning-Official-Map-10_8_14-High-Res.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:31 URL: http://www.townofbernardston.org/images/planning/FORM-A-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:32 URL: http://www.townofbernardston.org/images/planning/form_b.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:32 URL: http://www.townofbernardston.org/images/planning/form_c.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:32 URL: http://www.townofbernardston.org/images/planning/site_plan_review_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:33 URL: http://www.townofbernardston.org/images/planning/special_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:33 URL: http://www.townofbernardston.org/images/planning/EPD_application_Nov2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:36 URL:http://www.townofbernardston.org/index.php/12-police-department/50-contact-us [17430] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/12-police-department/50-contact-us" [1]
+2017-01-02 04:13:37 URL:http://www.townofbernardston.org/index.php/12-police-department/49-about-bpd [17602] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/12-police-department/49-about-bpd" [1]
+No data received.
+2017-01-02 04:13:40 URL:http://www.townofbernardston.org/index.php/12-police-department/48-in-memoriam [21103] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/12-police-department/48-in-memoriam" [1]
+2017-01-02 04:13:42 URL:http://www.townofbernardston.org/index.php/12-police-department/47-bpd-in-the-news [45632] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/12-police-department/47-bpd-in-the-news" [1]
+2017-01-02 04:13:43 URL:http://www.townofbernardston.org/index.php/12-police-department/46-faq [26283] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/12-police-department/46-faq" [1]
+2017-01-02 04:13:45 URL:http://www.townofbernardston.org/index.php/12-police-department/45-police-cruisers [15725] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/12-police-department/45-police-cruisers" [1]
+No data received.
+2017-01-02 04:13:48 URL:http://www.townofbernardston.org/index.php/12-police-department/44-domestic-violence [43908] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/12-police-department/44-domestic-violence" [1]
+2017-01-02 04:13:50 URL:http://www.townofbernardston.org/index.php/12-police-department/43-bpd-forms [15825] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/12-police-department/43-bpd-forms" [1]
+2017-01-02 04:13:52 URL:http://www.townofbernardston.org/index.php/12-police-department/42-click-it-or-ticket [20917] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/12-police-department/42-click-it-or-ticket" [1]
+2017-01-02 04:13:53 URL:http://www.townofbernardston.org/index.php/12-police-department/41-bpd-annual-reports [15457] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/12-police-department/41-bpd-annual-reports" [1]
+2017-01-02 04:13:55 URL:http://www.townofbernardston.org/index.php/12-police-department/40-department-roster [16426] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/12-police-department/40-department-roster" [1]
+2017-01-02 04:13:56 URL:http://www.townofbernardston.org/index.php/12-police-department/39-message-from-the-chief [16579] -> "../data/townSites2/Bernardston/www.townofbernardston.org/index.php/12-police-department/39-message-from-the-chief" [1]
+http://www.townofbernardston.org/images/clerk/2016%2001%20Bernardston%20Annual%20Public%20Street%20List%20Alphabetical%20with%20Header%20PROPERED.pdf:
+Remote file does not exist -- broken link!!!
+http://www.townofbernardston.org/images/clerk/2016%2002%20Bernardston%20Annual%20Public%20Street%20List%20Address%20with%20Header%20PROPERED.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 04:13:57 URL: http://www.townofbernardston.org/images/clerk/townmeetings/Minutes/2013-ATM-05-29-2013-Minutes-Official-Sealed.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:58 URL: http://www.townofbernardston.org/images/clerk/townmeetings/Minutes/2013-STM-Minutes-03-25-2013-01.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:58 URL: http://www.townofbernardston.org/images/clerk/townmeetings/Minutes/2013-STM-Minutes-03-25-2013-02.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:58 URL: http://www.townofbernardston.org/images/clerk/townmeetings/Minutes/2013-STM-09-2013-Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:59 URL: http://www.townofbernardston.org/images/clerk/townmeetings/Minutes/2014-ATM-05-2014-Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:13:59 URL: http://www.townofbernardston.org/images/clerk/townmeetings/Minutes/2014-ATM-Addendum-Charity-Farm-Lot-Report-for-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:14:00 URL: http://www.townofbernardston.org/images/clerk/townmeetings/Minutes/2014-STM-Meeting-Minutes-2014-10-08-Final-w-Lewis-Letter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:14:00 URL: http://www.townofbernardston.org/images/clerk/townmeetings/Minutes/2014-Proposed-Zoning-Change-01-for-South-Street-Scan-Version.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:14:00 URL: http://www.townofbernardston.org/images/clerk/townmeetings/Minutes/2014-Proposed-Zoning-Change-02-for-South-Street-Scan-Version-Detail.pdf 200 OK
+unlink: No such file or directory
+No data received.
+2017-01-02 04:14:02 URL: http://www.townofbernardston.org/images/clerk/townmeetings/Minutes/2015-ATM-2015-05-19-Minutes-Official.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:14:02 URL: http://www.townofbernardston.org/images/clerk/townmeetings/Minutes/2015-ATM-Addendum-Charity-Farm-Report-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:14:02 URL: http://www.townofbernardston.org/images/clerk/townmeetings/Minutes/2015-ATM-Addendum-Gift-of-Property-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:14:03 URL: http://www.townofbernardston.org/images/clerk/townmeetings/Minutes/2015-Minutes-STM-April-15-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:14:03 URL: http://www.townofbernardston.org/images/clerk/townmeetings/Minutes/2016-ATM-2016-04-27-Minutes-Final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:14:03 URL: http://www.townofbernardston.org/images/clerk/townmeetings/Minutes/2016-ATM-Solar-By-Law-Article-34-for-Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:14:04 URL: http://www.townofbernardston.org/images/clerk/townmeetings/Minutes/2016-ATM-Dutcher-Addendum-Comments.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:14:04 URL: http://www.townofbernardston.org/images/clerk/townmeetings/Minutes/2016-STM-Minutes-09-28-2016-Final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 04:14:04 URL: http://www.townofbernardston.org/images/Veterans/UPVVSD-MTG-Oct-2016.pdf 200 OK
+unlink: No such file or directory
+Found 4 broken links.
+
+http://www.townofbernardston.org/images/clerk/2016%2001%20Bernardston%20Annual%20Public%20Street%20List%20Alphabetical%20with%20Header%20PROPERED.pdf
+http://www.townofbernardston.org/images/clerk/2016%2002%20Bernardston%20Annual%20Public%20Street%20List%20Address%20with%20Header%20PROPERED.pdf
+http://www.townofbernardston.org/images/pdfs/clerk/02%20February%202016%20Senior%20Center%20Calendar.pdf
+http://www.townofbernardston.org/images/pdfs/clerk/Marriage%2004%20Supplement%20to%20Intention%202014%20forward.pdf
+
+FINISHED --2017-01-02 04:14:04--
+Total wall clock time: 3m 54s
+Downloaded: 59 files, 1.1M in 5.8s (203 KB/s)

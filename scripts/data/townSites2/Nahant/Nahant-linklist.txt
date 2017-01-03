@@ -1,0 +1,47 @@
+2017-01-02 02:46:15 URL:http://www.nahant.org/ [409/409] -> "../data/townSites2/Nahant/www.nahant.org/index.html" [1]
+2017-01-02 02:46:16 URL:http://www.nahant.org/default.shtml [37945] -> "../data/townSites2/Nahant/www.nahant.org/default.shtml" [1]
+2017-01-02 02:46:16 URL: http://www.nahant.org/nahant_ico.ico 200 OK
+unlink: No such file or directory
+2017-01-02 02:46:17 URL:http://www.nahant.org/community/default.shtml [77598] -> "../data/townSites2/Nahant/www.nahant.org/community/default.shtml" [1]
+2017-01-02 02:46:18 URL:http://www.nahant.org/departments/default.shtml [22722] -> "../data/townSites2/Nahant/www.nahant.org/departments/default.shtml" [1]
+2017-01-02 02:46:19 URL:http://www.nahant.org/committees/clerk_meetings.shtml [403483] -> "../data/townSites2/Nahant/www.nahant.org/committees/clerk_meetings.shtml" [1]
+2017-01-02 02:46:20 URL:http://www.nahant.org/documents/default.shtml [73008] -> "../data/townSites2/Nahant/www.nahant.org/documents/default.shtml" [1]
+2017-01-02 02:46:20 URL:http://www.nahant.org/contact/default.shtml [49869] -> "../data/townSites2/Nahant/www.nahant.org/contact/default.shtml" [1]
+2017-01-02 02:46:21 URL:http://www.nahant.org/departments/trash_recycling.shtml [31005] -> "../data/townSites2/Nahant/www.nahant.org/departments/trash_recycling.shtml" [1]
+2017-01-02 02:46:21 URL: http://www.nahant.org/documents/permits_fees/2015_Nahant_Event%20Request%20Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:46:22 URL: http://www.nahant.org/documents/permits_fees/2015_Nahant_Land%20and%20Facility%20Use%20Policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:46:22 URL:http://www.nahant.org/permit_archive/inspectors_building_permits.shtml [282720] -> "../data/townSites2/Nahant/www.nahant.org/permit_archive/inspectors_building_permits.shtml" [1]
+2017-01-02 02:46:23 URL:http://www.nahant.org/calendar.shtml [11313] -> "../data/townSites2/Nahant/www.nahant.org/calendar.shtml" [1]
+2017-01-02 02:46:24 URL:http://www.nahant.org/community/coastal_resources.shtml [31806] -> "../data/townSites2/Nahant/www.nahant.org/community/coastal_resources.shtml" [1]
+2017-01-02 02:46:24 URL: http://www.nahant.org/documents/clerk/TownofNahant_OpenMeetingNotice.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:46:25 URL:http://www.nahant.org/departments/clerk_records_request.shtml [6548] -> "../data/townSites2/Nahant/www.nahant.org/departments/clerk_records_request.shtml" [1]
+2017-01-02 02:46:25 URL: http://www.nahant.org/documents/misc/2016_2017_Bus_Schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:46:26 URL:http://www.nahant.org/departments/clerk_elections.shtml [154294] -> "../data/townSites2/Nahant/www.nahant.org/departments/clerk_elections.shtml" [1]
+2017-01-02 02:46:27 URL:http://www.nahant.org/departments/accountant.shtml [68772] -> "../data/townSites2/Nahant/www.nahant.org/departments/accountant.shtml" [1]
+2017-01-02 02:46:27 URL:http://www.nahant.org/departments/administrator.shtml [19455] -> "../data/townSites2/Nahant/www.nahant.org/departments/administrator.shtml" [1]
+2017-01-02 02:46:28 URL:http://www.nahant.org/departments/assessors.shtml [57471] -> "../data/townSites2/Nahant/www.nahant.org/departments/assessors.shtml" [1]
+2017-01-02 02:46:28 URL:http://www.nahant.org/departments/clerk.shtml [42647] -> "../data/townSites2/Nahant/www.nahant.org/departments/clerk.shtml" [1]
+2017-01-02 02:46:29 URL:http://www.nahant.org/departments/selectmen.shtml [114318] -> "../data/townSites2/Nahant/www.nahant.org/departments/selectmen.shtml" [1]
+2017-01-02 02:46:30 URL:http://www.nahant.org/departments/inspectional_services.shtml [32048] -> "../data/townSites2/Nahant/www.nahant.org/departments/inspectional_services.shtml" [1]
+2017-01-02 02:46:31 URL:http://www.nahant.org/departments/treasurer.shtml [52441] -> "../data/townSites2/Nahant/www.nahant.org/departments/treasurer.shtml" [1]
+2017-01-02 02:46:31 URL:http://www.nahant.org/departments/ems.shtml [70525] -> "../data/townSites2/Nahant/www.nahant.org/departments/ems.shtml" [1]
+2017-01-02 02:46:32 URL:http://www.nahant.org/departments/fire.shtml [34649] -> "../data/townSites2/Nahant/www.nahant.org/departments/fire.shtml" [1]
+2017-01-02 02:46:33 URL:http://www.nahant.org/departments/harbormaster.shtml [54538] -> "../data/townSites2/Nahant/www.nahant.org/departments/harbormaster.shtml" [1]
+2017-01-02 02:46:33 URL:http://www.nahant.org/departments/health_department.shtml [17134] -> "../data/townSites2/Nahant/www.nahant.org/departments/health_department.shtml" [1]
+2017-01-02 02:46:34 URL:http://www.nahant.org/departments/ocean_rescue.shtml [8172] -> "../data/townSites2/Nahant/www.nahant.org/departments/ocean_rescue.shtml" [1]
+2017-01-02 02:46:35 URL:http://www.nahant.org/departments/publicworks.shtml [60553] -> "../data/townSites2/Nahant/www.nahant.org/departments/publicworks.shtml" [1]
+2017-01-02 02:46:36 URL:http://www.nahant.org/departments/wharfinger.shtml [24101] -> "../data/townSites2/Nahant/www.nahant.org/departments/wharfinger.shtml" [1]
+2017-01-02 02:46:36 URL:http://www.nahant.org/calendar_submit.shtml [10112] -> "../data/townSites2/Nahant/www.nahant.org/calendar_submit.shtml" [1]
+http://www.nahant.org/committees/default.shtml:
+Remote file does not exist -- broken link!!!
+Found 1 broken link.
+
+http://www.nahant.org/committees/default.shtml
+
+FINISHED --2017-01-02 02:46:37--
+Total wall clock time: 23s
+Downloaded: 28 files, 1.8M in 1.5s (1.18 MB/s)

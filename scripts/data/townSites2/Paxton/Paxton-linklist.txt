@@ -1,0 +1,26 @@
+2017-01-01 23:10:17 URL:http://www.townofpaxton.net/ [36801/36801] -> "../data/townSites2/Paxton/www.townofpaxton.net/index.html" [1]
+2017-01-01 23:10:17 URL: http://www.townofpaxton.net/repository/designs/images/GO_favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-01 23:10:18 URL: http://www.townofpaxton.net/vertical/sites/%7B4877D6D1-B638-4BAD-B942-A67C40C2215D%7D/uploads/Paxton_Recylcing_Chart_2016-17.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:10:18 URL: http://www.townofpaxton.net/vertical/sites/%7B4877D6D1-B638-4BAD-B942-A67C40C2215D%7D/uploads/FY17_Annual_Town_Warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:10:18 URL: http://www.townofpaxton.net/vertical/sites/%7B4877D6D1-B638-4BAD-B942-A67C40C2215D%7D/uploads/VOLUNTEER_TO_SERVE_YOUR_TOWN(1).docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:10:19 URL: http://www.townofpaxton.net/vertical/sites/%7B4877D6D1-B638-4BAD-B942-A67C40C2215D%7D/uploads/Annual_Town_Meeting_Warrant_5_4_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:10:19 URL: http://www.townofpaxton.net/vertical/sites/%7B4877D6D1-B638-4BAD-B942-A67C40C2215D%7D/uploads/IRS_Scam.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:10:19 URL: http://www.townofpaxton.net/vertical/sites/%7B4877D6D1-B638-4BAD-B942-A67C40C2215D%7D/uploads/%7B870D4FF4-55FA-4831-8AFA-CAF4A36C2E45%7D.DOC 200 OK
+unlink: No such file or directory
+2017-01-01 23:10:19 URL: http://www.townofpaxton.net/vertical/sites/%7B4877D6D1-B638-4BAD-B942-A67C40C2215D%7D/uploads/%7B7CA393BD-2151-40D8-BDC3-9AAB77C49C58%7D.PDF 200 OK
+unlink: No such file or directory
+2017-01-01 23:10:20 URL: http://www.townofpaxton.net/vertical/sites/%7B4877D6D1-B638-4BAD-B942-A67C40C2215D%7D/uploads/Agricultural_and_Farm_Preservation_Bylaw.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:10:20 URL: http://www.townofpaxton.net/vertical/sites/%7B4877D6D1-B638-4BAD-B942-A67C40C2215D%7D/uploads/Special_Town_Meeting_7-27-2016.doc 200 OK
+unlink: No such file or directory
+Found no broken links.
+
+FINISHED --2017-01-01 23:10:20--
+Total wall clock time: 3.7s
+Downloaded: 1 files, 36K in 0.1s (262 KB/s)

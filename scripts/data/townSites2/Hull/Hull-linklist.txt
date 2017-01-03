@@ -1,0 +1,60 @@
+2017-01-02 00:04:14 URL:http://www.town.hull.ma.us/ [1232] -> "../data/townSites2/Hull/www.town.hull.ma.us/index.html" [1]
+2017-01-02 00:04:16 URL:http://www.town.hull.ma.us/Public_Documents/index [74094] -> "../data/townSites2/Hull/www.town.hull.ma.us/Public_Documents/index" [1]
+2017-01-02 00:04:18 URL:http://www.town.hull.ma.us/Public_Documents/residents [55051] -> "../data/townSites2/Hull/www.town.hull.ma.us/Public_Documents/residents" [1]
+2017-01-02 00:04:20 URL:http://www.town.hull.ma.us/Public_Documents/visitors [40730] -> "../data/townSites2/Hull/www.town.hull.ma.us/Public_Documents/visitors" [1]
+2017-01-02 00:04:23 URL:http://www.town.hull.ma.us/Public_Documents/businesses [41077] -> "../data/townSites2/Hull/www.town.hull.ma.us/Public_Documents/businesses" [1]
+2017-01-02 00:04:26 URL:http://www.town.hull.ma.us/Public_Documents/HullMA_BComm/index [62610] -> "../data/townSites2/Hull/www.town.hull.ma.us/Public_Documents/HullMA_BComm/index" [1]
+2017-01-02 00:04:28 URL:http://www.town.hull.ma.us/Public_Documents/HullMA_WebDocs/deptindex [60530] -> "../data/townSites2/Hull/www.town.hull.ma.us/Public_Documents/HullMA_WebDocs/deptindex" [1]
+2017-01-02 00:04:29 URL:http://www.town.hull.ma.us/Public_Documents/HullMA_BComm/vacancies/ [38422] -> "../data/townSites2/Hull/www.town.hull.ma.us/Public_Documents/HullMA_BComm/vacancies/index.html" [1]
+2017-01-02 00:04:32 URL:http://www.town.hull.ma.us/public_documents/HullMA_Bids/Index [40150] -> "../data/townSites2/Hull/www.town.hull.ma.us/public_documents/HullMA_Bids/Index" [1]
+2017-01-02 00:04:33 URL:http://www.town.hull.ma.us/Public_Documents/HullMA_JobOpps/ [40181] -> "../data/townSites2/Hull/www.town.hull.ma.us/Public_Documents/HullMA_JobOpps/index.html" [1]
+2017-01-02 00:04:36 URL:http://www.town.hull.ma.us/Public_Documents/HullMA_schools/index [70654] -> "../data/townSites2/Hull/www.town.hull.ma.us/Public_Documents/HullMA_schools/index" [1]
+2017-01-02 00:04:37 URL:http://www.town.hull.ma.us/Public_Documents/HullMA_Maps/ [40718] -> "../data/townSites2/Hull/www.town.hull.ma.us/Public_Documents/HullMA_Maps/index.html" [1]
+2017-01-02 00:04:39 URL:http://www.town.hull.ma.us/Public_Documents/HullMA_ParkRec/parkrec [48641] -> "../data/townSites2/Hull/www.town.hull.ma.us/Public_Documents/HullMA_ParkRec/parkrec" [1]
+2017-01-02 00:04:41 URL:http://www.town.hull.ma.us/Public_Documents/HullMA_WebDocs/weather [40471] -> "../data/townSites2/Hull/www.town.hull.ma.us/Public_Documents/HullMA_WebDocs/weather" [1]
+2017-01-02 00:04:43 URL:http://www.town.hull.ma.us/Public_Documents/HullMA_Library/homepage [55167] -> "../data/townSites2/Hull/www.town.hull.ma.us/Public_Documents/HullMA_Library/homepage" [1]
+2017-01-02 00:04:45 URL:http://www.town.hull.ma.us/subscriber [66195] -> "../data/townSites2/Hull/www.town.hull.ma.us/subscriber" [1]
+2017-01-02 00:04:47 URL:http://www.town.hull.ma.us/Public_Documents/HullMA_WebDocs/comments [47235] -> "../data/townSites2/Hull/www.town.hull.ma.us/Public_Documents/HullMA_WebDocs/comments" [1]
+2017-01-02 00:04:47 URL: http://www.town.hull.ma.us/Icons/0 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:49 URL:http://www.town.hull.ma.us/Public_Documents/HullMA_Taxcollect/onlinebill/ [38935] -> "../data/townSites2/Hull/www.town.hull.ma.us/Public_Documents/HullMA_Taxcollect/onlinebill" [1]
+2017-01-02 00:04:51 URL:http://www.town.hull.ma.us/Public_Documents/Code%20Red%20Links [37794] -> "../data/townSites2/Hull/www.town.hull.ma.us/Public_Documents/Code Red Links" [1]
+2017-01-02 00:04:53 URL:http://www.town.hull.ma.us/Public_Documents/HullMA_Taxcollect/parkingticket [39599] -> "../data/townSites2/Hull/www.town.hull.ma.us/Public_Documents/HullMA_Taxcollect/parkingticket" [1]
+2017-01-02 00:05:00 URL:http://www.town.hull.ma.us/Public_Documents/New%20Folder/ [50469] -> "../data/townSites2/Hull/www.town.hull.ma.us/Public_Documents/New Folder" [1]
+2017-01-02 00:05:01 URL: http://www.town.hull.ma.us/Public_Documents/NANTASKET.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:01 URL: http://www.town.hull.ma.us/Public_Documents/GUIDEbyJBL.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:01 URL: http://www.town.hull.ma.us/Public_Documents/2015-01-08.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:02 URL: http://www.town.hull.ma.us/Public_Documents/2016RESTRICTEv2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:05 URL:http://www.town.hull.ma.us/Public_Documents/HullMA_conservation/flood [46233] -> "../data/townSites2/Hull/www.town.hull.ma.us/Public_Documents/HullMA_conservation/flood" [1]
+2017-01-02 00:05:06 URL:http://www.town.hull.ma.us/Public_Documents/HullMA_conservation/floodmapshomepage/Floodmapshomepage [48185] -> "../data/townSites2/Hull/www.town.hull.ma.us/Public_Documents/HullMA_conservation/floodmapshomepage/Floodmapshomepage" [1]
+2017-01-02 00:05:09 URL:http://www.town.hull.ma.us/Public_Documents/HullMA_BComm/capitaloutlay/Capital [49430] -> "../data/townSites2/Hull/www.town.hull.ma.us/Public_Documents/HullMA_BComm/capitaloutlay/Capital" [1]
+2017-01-02 00:05:10 URL: http://www.town.hull.ma.us/Public_Documents/HullMA_conservation/BMP%202-21-12%20adopted%20by%20Smen.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:10 URL: http://www.town.hull.ma.us/Public_Documents/HullMA_townmgr/ContactLegislators.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:12 URL:http://www.town.hull.ma.us/Public_Documents/HullMA_Health/HAPSA/ [41501] -> "../data/townSites2/Hull/www.town.hull.ma.us/Public_Documents/HullMA_Health/HAPSA/index.html" [1]
+2017-01-02 00:05:13 URL: http://www.town.hull.ma.us/Public_Documents/HullMA_DPW/Hull%20-%20CIP.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:14 URL: http://www.town.hull.ma.us/Public_Documents/HullMA_CommDev/HULL%20Public%20Meeting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:15 URL:http://www.town.hull.ma.us/Public_Documents/HullMA_Animal/coyote/ [39328] -> "../data/townSites2/Hull/www.town.hull.ma.us/Public_Documents/HullMA_Animal/coyote/index.html" [1]
+2017-01-02 00:05:18 URL:http://www.town.hull.ma.us/Public_documents/HullMA_NewInfo/ [49340] -> "../data/townSites2/Hull/www.town.hull.ma.us/Public_documents/HullMA_NewInfo/index.html" [1]
+2017-01-02 00:05:18 URL: http://www.town.hull.ma.us/Public_documents/HullMA_NewInfo/02520D7E-000F8513 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:19 URL: http://www.town.hull.ma.us/Public_documents/HullMA_NewInfo/02520B16-000F8513 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:19 URL: http://www.town.hull.ma.us/Public_documents/HullMA_NewInfo/0251A517-000F8513 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:20 URL: http://www.town.hull.ma.us/Public_documents/HullMA_NewInfo/02519D4F-000F8513 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:21 URL: http://www.town.hull.ma.us/Public_documents/HullMA_NewInfo/02496C6A-000F8513 200 OK
+unlink: No such file or directory
+Found no broken links.
+
+FINISHED --2017-01-02 00:05:21--
+Total wall clock time: 1m 8s
+Downloaded: 27 files, 1.2M in 26s (48.1 KB/s)

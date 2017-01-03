@@ -1,0 +1,1264 @@
+2017-01-02 07:32:30 URL:http://www.saugus-ma.gov/ [59978] -> "../data/townSites2/Saugus/www.saugus-ma.gov/index.html" [1]
+2017-01-02 07:32:30 URL: http://www.saugus-ma.gov/sites/saugusma/themes/vts/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 07:32:32 URL:http://www.saugus-ma.gov/about [39416] -> "../data/townSites2/Saugus/www.saugus-ma.gov/about" [1]
+2017-01-02 07:32:33 URL:http://www.saugus-ma.gov/about/pages/demographics [35655] -> "../data/townSites2/Saugus/www.saugus-ma.gov/about/pages/demographics" [1]
+2017-01-02 07:32:34 URL:http://www.saugus-ma.gov/about/pages/geography [35220] -> "../data/townSites2/Saugus/www.saugus-ma.gov/about/pages/geography" [1]
+2017-01-02 07:32:36 URL:http://www.saugus-ma.gov/about/pages/history [35395] -> "../data/townSites2/Saugus/www.saugus-ma.gov/about/pages/history" [1]
+2017-01-02 07:32:37 URL:http://www.saugus-ma.gov/about/pages/information-businesses [36088] -> "../data/townSites2/Saugus/www.saugus-ma.gov/about/pages/information-businesses" [1]
+2017-01-02 07:32:39 URL:http://www.saugus-ma.gov/about/pages/information-residents [35894] -> "../data/townSites2/Saugus/www.saugus-ma.gov/about/pages/information-residents" [1]
+2017-01-02 07:32:40 URL:http://www.saugus-ma.gov/about/pages/media [35255] -> "../data/townSites2/Saugus/www.saugus-ma.gov/about/pages/media" [1]
+2017-01-02 07:32:42 URL:http://www.saugus-ma.gov/about/pages/organizations [37397] -> "../data/townSites2/Saugus/www.saugus-ma.gov/about/pages/organizations" [1]
+2017-01-02 07:32:43 URL:http://www.saugus-ma.gov/about/pages/points-interest [35061] -> "../data/townSites2/Saugus/www.saugus-ma.gov/about/pages/points-interest" [1]
+2017-01-02 07:32:45 URL:http://www.saugus-ma.gov/departments [50971] -> "../data/townSites2/Saugus/www.saugus-ma.gov/departments" [1]
+2017-01-02 07:32:46 URL:http://www.saugus-ma.gov/accounting [45742] -> "../data/townSites2/Saugus/www.saugus-ma.gov/accounting" [1]
+2017-01-02 07:32:48 URL:http://www.saugus-ma.gov/animal-control [42854] -> "../data/townSites2/Saugus/www.saugus-ma.gov/animal-control" [1]
+2017-01-02 07:32:50 URL:http://www.saugus-ma.gov/assessors-office [58774] -> "../data/townSites2/Saugus/www.saugus-ma.gov/assessors-office" [1]
+2017-01-02 07:32:52 URL:http://www.saugus-ma.gov/board-health [62280] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-health" [1]
+2017-01-02 07:32:54 URL:http://www.saugus-ma.gov/cemetery-department [46260] -> "../data/townSites2/Saugus/www.saugus-ma.gov/cemetery-department" [1]
+2017-01-02 07:32:55 URL:http://www.saugus-ma.gov/planning-and-development [54958] -> "../data/townSites2/Saugus/www.saugus-ma.gov/planning-and-development" [1]
+2017-01-02 07:32:57 URL:http://www.saugus-ma.gov/fire-department [57792] -> "../data/townSites2/Saugus/www.saugus-ma.gov/fire-department" [1]
+2017-01-02 07:32:59 URL:http://www.saugus-ma.gov/housing-authority [63024] -> "../data/townSites2/Saugus/www.saugus-ma.gov/housing-authority" [1]
+2017-01-02 07:33:01 URL:http://www.saugus-ma.gov/human-resources [43653] -> "../data/townSites2/Saugus/www.saugus-ma.gov/human-resources" [1]
+2017-01-02 07:33:03 URL:http://www.saugus-ma.gov/inspectional-services [46851] -> "../data/townSites2/Saugus/www.saugus-ma.gov/inspectional-services" [1]
+2017-01-02 07:33:07 URL:http://www.sauguspubliclibrary.org/ [93211] -> "../data/townSites2/Saugus/www.saugus-ma.gov/library" [1]
+2017-01-02 07:33:08 URL:http://www.saugus-ma.gov/mis-department [43119] -> "../data/townSites2/Saugus/www.saugus-ma.gov/mis-department" [1]
+2017-01-02 07:33:10 URL:http://www.sauguspd.com/ [32129/32129] -> "../data/townSites2/Saugus/www.saugus-ma.gov/police-department" [1]
+2017-01-02 07:33:11 URL:http://www.saugus-ma.gov/public-works [44983] -> "../data/townSites2/Saugus/www.saugus-ma.gov/public-works" [1]
+2017-01-02 07:33:13 URL:http://www.saugus-ma.gov/purchasing-department [42544] -> "../data/townSites2/Saugus/www.saugus-ma.gov/purchasing-department" [1]
+2017-01-02 07:33:14 URL:http://www.saugus.k12.ma.us/ [11243/11243] -> "../data/townSites2/Saugus/www.saugus-ma.gov/school-administration" [1]
+2017-01-02 07:33:15 URL:http://www.saugus-ma.gov/senior-center [44376] -> "../data/townSites2/Saugus/www.saugus-ma.gov/senior-center" [1]
+2017-01-02 07:33:17 URL:http://www.saugus-ma.gov/solid-waste-recycling-department [44597] -> "../data/townSites2/Saugus/www.saugus-ma.gov/solid-waste-recycling-department" [1]
+2017-01-02 07:33:19 URL:http://www.saugus-ma.gov/town-clerk [67721] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk" [1]
+2017-01-02 07:33:20 URL:http://www.saugus-ma.gov/town-managers-office [46439] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-managers-office" [1]
+2017-01-02 07:33:22 URL:http://www.saugus-ma.gov/treasurer-collector [46971] -> "../data/townSites2/Saugus/www.saugus-ma.gov/treasurer-collector" [1]
+2017-01-02 07:33:23 URL:http://www.mwsveteranservices.org/saugus.html [46790] -> "../data/townSites2/Saugus/www.saugus-ma.gov/veteran-services-department" [1]
+2017-01-02 07:33:25 URL:http://www.saugus-ma.gov/water-department [42743] -> "../data/townSites2/Saugus/www.saugus-ma.gov/water-department" [1]
+2017-01-02 07:33:26 URL:http://www.saugus-ma.gov/youth-recreation [55513] -> "../data/townSites2/Saugus/www.saugus-ma.gov/youth-recreation" [1]
+2017-01-02 07:33:28 URL:http://www.saugus-ma.gov/boards [50511] -> "../data/townSites2/Saugus/www.saugus-ma.gov/boards" [1]
+2017-01-02 07:33:30 URL:http://www.saugus-ma.gov/affordable-housing-trust [66719] -> "../data/townSites2/Saugus/www.saugus-ma.gov/affordable-housing-trust" [1]
+2017-01-02 07:33:32 URL:http://www.saugus-ma.gov/alternative-energy-committee [42385] -> "../data/townSites2/Saugus/www.saugus-ma.gov/alternative-energy-committee" [1]
+2017-01-02 07:33:34 URL:http://www.saugus-ma.gov/ballard-school-council [48511] -> "../data/townSites2/Saugus/www.saugus-ma.gov/ballard-school-council" [1]
+2017-01-02 07:33:35 URL:http://www.saugus-ma.gov/belmonte-middle-school-building-council [37254] -> "../data/townSites2/Saugus/www.saugus-ma.gov/belmonte-middle-school-building-council" [1]
+2017-01-02 07:33:38 URL:http://www.saugus-ma.gov/board-appeals [66247] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-appeals" [1]
+2017-01-02 07:33:39 URL:http://www.saugus-ma.gov/board-assessors [55373] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-assessors" [1]
+2017-01-02 07:33:41 URL:http://www.saugus-ma.gov/board-registrars [56203] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-registrars" [1]
+2017-01-02 07:33:43 URL:http://www.saugus-ma.gov/board-selectmen [68868] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-selectmen" [1]
+2017-01-02 07:33:45 URL:http://www.saugus-ma.gov/boats-waterways-commission [43460] -> "../data/townSites2/Saugus/www.saugus-ma.gov/boats-waterways-commission" [1]
+2017-01-02 07:33:46 URL:http://www.saugus-ma.gov/building-committee [39833] -> "../data/townSites2/Saugus/www.saugus-ma.gov/building-committee" [1]
+2017-01-02 07:33:48 URL:http://www.saugustv.org/ [30083/30083] -> "../data/townSites2/Saugus/www.saugus-ma.gov/cable-television-commission" [1]
+2017-01-02 07:33:50 URL:http://www.saugus-ma.gov/cemetery-commission [54656] -> "../data/townSites2/Saugus/www.saugus-ma.gov/cemetery-commission" [1]
+2017-01-02 07:33:51 URL:http://www.saugus-ma.gov/commission-disability [43229] -> "../data/townSites2/Saugus/www.saugus-ma.gov/commission-disability" [1]
+2017-01-02 07:33:53 URL:http://www.saugus-ma.gov/conservation-commission [64067] -> "../data/townSites2/Saugus/www.saugus-ma.gov/conservation-commission" [1]
+2017-01-02 07:33:55 URL:http://www.saugus-ma.gov/council-aging [65078] -> "../data/townSites2/Saugus/www.saugus-ma.gov/council-aging" [1]
+2017-01-02 07:33:57 URL:http://www.saugus-ma.gov/cultural-council [58488] -> "../data/townSites2/Saugus/www.saugus-ma.gov/cultural-council" [1]
+2017-01-02 07:33:59 URL:http://www.saugus-ma.gov/finance-committee [63020] -> "../data/townSites2/Saugus/www.saugus-ma.gov/finance-committee" [1]
+2017-01-02 07:34:01 URL:http://www.saugus-ma.gov/high-school-project-building-committee [55631] -> "../data/townSites2/Saugus/www.saugus-ma.gov/high-school-project-building-committee" [1]
+2017-01-02 07:34:03 URL:http://www.saugus-ma.gov/historical-commission [62718] -> "../data/townSites2/Saugus/www.saugus-ma.gov/historical-commission" [1]
+2017-01-02 07:34:04 URL:http://www.saugus-ma.gov/library-board-trustees [51656] -> "../data/townSites2/Saugus/www.saugus-ma.gov/library-board-trustees" [1]
+2017-01-02 07:34:06 URL:http://www.saugus-ma.gov/lynnhurst-school-site-council [48597] -> "../data/townSites2/Saugus/www.saugus-ma.gov/lynnhurst-school-site-council" [1]
+2017-01-02 07:34:08 URL:http://www.saugus-ma.gov/planning-board [64801] -> "../data/townSites2/Saugus/www.saugus-ma.gov/planning-board" [1]
+2017-01-02 07:34:10 URL:http://www.saugus-ma.gov/retirement-board [62165] -> "../data/townSites2/Saugus/www.saugus-ma.gov/retirement-board" [1]
+2017-01-02 07:34:12 URL:http://www.saugus-ma.gov/saugus-cable-television-board-directors [48734] -> "../data/townSites2/Saugus/www.saugus-ma.gov/saugus-cable-television-board-directors" [1]
+2017-01-02 07:34:14 URL:http://www.saugus-ma.gov/saugus-high-school-council-committee [49269] -> "../data/townSites2/Saugus/www.saugus-ma.gov/saugus-high-school-council-committee" [1]
+2017-01-02 07:34:16 URL:http://www.saugus-ma.gov/school-building-assessment-committee [45693] -> "../data/townSites2/Saugus/www.saugus-ma.gov/school-building-assessment-committee" [1]
+2017-01-02 07:34:18 URL:http://www.saugus-ma.gov/school-committee [61239] -> "../data/townSites2/Saugus/www.saugus-ma.gov/school-committee" [1]
+2017-01-02 07:34:19 URL:http://www.saugus-ma.gov/town-managers-economic-development-committee [39676] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-managers-economic-development-committee" [1]
+2017-01-02 07:34:21 URL:http://www.saugus-ma.gov/tree-committee [58333] -> "../data/townSites2/Saugus/www.saugus-ma.gov/tree-committee" [1]
+2017-01-02 07:34:23 URL:http://www.saugus-ma.gov/youth-recreation-commission [58817] -> "../data/townSites2/Saugus/www.saugus-ma.gov/youth-recreation-commission" [1]
+2017-01-02 07:34:24 URL:http://www.saugus-ma.gov/home/pages/find-it-fast [36394] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/pages/find-it-fast" [1]
+2017-01-02 07:34:26 URL:http://www.saugus-ma.gov/senior-center/pages/transportation [37386] -> "../data/townSites2/Saugus/www.saugus-ma.gov/senior-center/pages/transportation" [1]
+2017-01-02 07:34:27 URL:http://www.saugus-ma.gov/senior-center/pages/calender [37508] -> "../data/townSites2/Saugus/www.saugus-ma.gov/senior-center/pages/calender" [1]
+2017-01-02 07:34:28 URL:http://www.saugus-ma.gov/board-selectmen/pages/annual-reports [36734] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-selectmen/pages/annual-reports" [1]
+2017-01-02 07:34:29 URL:http://www.saugus-ma.gov/inspectional-services/pages/building-forms-information [38867] -> "../data/townSites2/Saugus/www.saugus-ma.gov/inspectional-services/pages/building-forms-information" [1]
+2017-01-02 07:34:30 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/town_bylaws.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:34:31 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/zoning_by-laws.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:34:33 URL:http://www.saugus-ma.gov/human-resources/pages/town-employment [39057] -> "../data/townSites2/Saugus/www.saugus-ma.gov/human-resources/pages/town-employment" [1]
+2017-01-02 07:34:35 URL:http://www.saugus-ma.gov/where [70120] -> "../data/townSites2/Saugus/www.saugus-ma.gov/where" [1]
+2017-01-02 07:34:36 URL:http://www.saugus-ma.gov/home/urgent-alerts/trash-and-recycling-one-day-delay [33922] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/urgent-alerts/trash-and-recycling-one-day-delay" [1]
+2017-01-02 07:34:38 URL:http://www.saugus-ma.gov/home/news/town-saugus-announces-trash-recycling-collection-running-one-day-holiday-delay [34779] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/news/town-saugus-announces-trash-recycling-collection-running-one-day-holiday-delay" [1]
+2017-01-02 07:34:39 URL:http://www.saugus-ma.gov/home/news/saugus-town-manager-scott-c-crabtree-announces-cliftondale-market-analysis-findings [36048] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/news/saugus-town-manager-scott-c-crabtree-announces-cliftondale-market-analysis-findings" [1]
+2017-01-02 07:34:40 URL:http://www.saugus-ma.gov/home/news/saugus-town-manager-scott-c-crabtree-announces-housing-production-plan-public-meeting [35538] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/news/saugus-town-manager-scott-c-crabtree-announces-housing-production-plan-public-meeting" [1]
+2017-01-02 07:34:41 URL:http://www.saugus-ma.gov/node/1/news [46047] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/1/news" [1]
+2017-01-02 07:34:43 URL:http://www.saugus-ma.gov/calendar/day/2017-01-02 [39538] -> "../data/townSites2/Saugus/www.saugus-ma.gov/calendar/day/2017-01-02" [1]
+2017-01-02 07:34:44 URL:http://www.saugus-ma.gov/town-clerk/events/8553 [38082] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/events/8553" [1]
+2017-01-02 07:34:45 URL:http://www.saugus-ma.gov/board-health/events/1633 [37814] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-health/events/1633" [1]
+2017-01-02 07:34:47 URL:http://www.saugus-ma.gov/board-health/events/7813 [37870] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-health/events/7813" [1]
+2017-01-02 07:34:48 URL:http://www.saugus-ma.gov/calendar/day/2017-01-03 [38897] -> "../data/townSites2/Saugus/www.saugus-ma.gov/calendar/day/2017-01-03" [1]
+2017-01-02 07:34:49 URL:http://www.saugus-ma.gov/town-clerk/events/8473 [41938] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/events/8473" [1]
+2017-01-02 07:34:51 URL:http://www.saugus-ma.gov/calendar/day/2017-01-04 [41055] -> "../data/townSites2/Saugus/www.saugus-ma.gov/calendar/day/2017-01-04" [1]
+2017-01-02 07:34:52 URL:http://www.saugus-ma.gov/school-committee/events/8743 [42012] -> "../data/townSites2/Saugus/www.saugus-ma.gov/school-committee/events/8743" [1]
+2017-01-02 07:34:54 URL:http://www.saugus-ma.gov/finance-committee/events/8763 [35648] -> "../data/townSites2/Saugus/www.saugus-ma.gov/finance-committee/events/8763" [1]
+2017-01-02 07:34:55 URL:http://www.saugus-ma.gov/housing-authority/events/8783 [36472] -> "../data/townSites2/Saugus/www.saugus-ma.gov/housing-authority/events/8783" [1]
+2017-01-02 07:34:56 URL:http://www.saugus-ma.gov/cultural-council/events/8803 [37294] -> "../data/townSites2/Saugus/www.saugus-ma.gov/cultural-council/events/8803" [1]
+2017-01-02 07:34:57 URL:http://www.saugus-ma.gov/board-selectmen/events/8053 [37691] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-selectmen/events/8053" [1]
+2017-01-02 07:34:59 URL:http://www.saugus-ma.gov/calendar/day/2017-01-09 [39384] -> "../data/townSites2/Saugus/www.saugus-ma.gov/calendar/day/2017-01-09" [1]
+2017-01-02 07:35:00 URL:http://www.saugus-ma.gov/council-aging/events/8273 [38974] -> "../data/townSites2/Saugus/www.saugus-ma.gov/council-aging/events/8273" [1]
+2017-01-02 07:35:02 URL:http://www.saugus-ma.gov/historical-commission/events/8163 [37440] -> "../data/townSites2/Saugus/www.saugus-ma.gov/historical-commission/events/8163" [1]
+2017-01-02 07:35:03 URL:http://www.saugus-ma.gov/calendar/day/2017-01-18 [38857] -> "../data/townSites2/Saugus/www.saugus-ma.gov/calendar/day/2017-01-18" [1]
+2017-01-02 07:35:05 URL:http://www.saugus-ma.gov/board-selectmen/events/8063 [37262] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-selectmen/events/8063" [1]
+2017-01-02 07:35:07 URL:http://www.saugus-ma.gov/calendar/month [108727] -> "../data/townSites2/Saugus/www.saugus-ma.gov/calendar/month" [1]
+2017-01-02 07:35:09 URL:http://www.saugus-ma.gov/treasurer-collector/pages/bill-pay [39832] -> "../data/townSites2/Saugus/www.saugus-ma.gov/treasurer-collector/pages/bill-pay" [1]
+2017-01-02 07:35:11 URL:http://www.saugus-ma.gov/subscribe [37999/37999] -> "../data/townSites2/Saugus/www.saugus-ma.gov/subscribe" [1]
+2017-01-02 07:35:14 URL:http://www.saugus-ma.gov/files [50895] -> "../data/townSites2/Saugus/www.saugus-ma.gov/files" [1]
+2017-01-02 07:35:15 URL:http://www.saugus-ma.gov/minutes-and-agendas [38497] -> "../data/townSites2/Saugus/www.saugus-ma.gov/minutes-and-agendas" [1]
+2017-01-02 07:35:18 URL:http://www.saugus-ma.gov/home/webforms/send-us-comments [42475/42475] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/webforms/send-us-comments" [1]
+2017-01-02 07:35:19 URL:http://www.saugus-ma.gov/home/pages/website-disclaimer [35291] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/pages/website-disclaimer" [1]
+2017-01-02 07:35:20 URL:http://www.saugus-ma.gov/about [39416] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/13" [1]
+2017-01-02 07:35:21 URL:http://www.saugus-ma.gov/print/13 [6595] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/13" [1]
+2017-01-02 07:35:22 URL: http://www.saugus-ma.gov/node/13/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:35:23 URL:http://www.saugus-ma.gov/node/13/news [32911] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/13/news" [1]
+2017-01-02 07:35:24 URL:http://www.saugus-ma.gov/about/news/official-results-11-8-2016-election [34983] -> "../data/townSites2/Saugus/www.saugus-ma.gov/about/news/official-results-11-8-2016-election" [1]
+2017-01-02 07:35:25 URL:http://www.saugus-ma.gov/about/pages/demographics [35655] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/711" [1]
+2017-01-02 07:35:26 URL:http://www.saugus-ma.gov/print/711 [6790] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/711" [1]
+2017-01-02 07:35:27 URL:http://www.saugus-ma.gov/about/pages/geography [35220] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/710" [1]
+2017-01-02 07:35:28 URL:http://www.saugus-ma.gov/print/710 [6232] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/710" [1]
+2017-01-02 07:35:29 URL:http://www.saugus-ma.gov/about/pages/history [35395] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/709" [1]
+2017-01-02 07:35:30 URL:http://www.saugus-ma.gov/print/709 [6399] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/709" [1]
+2017-01-02 07:35:31 URL:http://www.saugus-ma.gov/about/pages/information-businesses [36088] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/971" [1]
+2017-01-02 07:35:32 URL:http://www.saugus-ma.gov/print/971 [7249] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/971" [1]
+2017-01-02 07:35:33 URL:http://www.saugus-ma.gov/about/pages/information-residents [35894] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/972" [1]
+2017-01-02 07:35:34 URL:http://www.saugus-ma.gov/print/972 [7160] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/972" [1]
+2017-01-02 07:35:35 URL:http://www.saugus-ma.gov/about/pages/media [35255] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/713" [1]
+2017-01-02 07:35:36 URL:http://www.saugus-ma.gov/print/713 [6353] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/713" [1]
+2017-01-02 07:35:37 URL:http://www.saugus-ma.gov/about/pages/organizations [37397] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/712" [1]
+2017-01-02 07:35:38 URL:http://www.saugus-ma.gov/print/712 [8619] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/712" [1]
+2017-01-02 07:35:39 URL:http://www.saugus-ma.gov/about/pages/points-interest [35061] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/714" [1]
+2017-01-02 07:35:39 URL:http://www.saugus-ma.gov/print/714 [6223] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/714" [1]
+2017-01-02 07:35:40 URL:http://www.saugus-ma.gov/accounting [45742] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/18" [1]
+2017-01-02 07:35:41 URL:http://www.saugus-ma.gov/print/18 [9100] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/18" [1]
+2017-01-02 07:35:43 URL:http://www.saugus-ma.gov/user/53/contact [35797] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/53/contact" [1]
+2017-01-02 07:35:45 URL:http://www.saugus-ma.gov/user/52/contact [35775] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/52/contact" [1]
+2017-01-02 07:35:46 URL:http://www.saugus-ma.gov/user/54/contact [35779] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/54/contact" [1]
+2017-01-02 07:35:48 URL:http://www.saugus-ma.gov/user/55/contact [35777] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/55/contact" [1]
+2017-01-02 07:35:49 URL: http://www.saugus-ma.gov/node/18/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:35:50 URL:http://www.saugus-ma.gov/accounting/pages/additional-reports [36632] -> "../data/townSites2/Saugus/www.saugus-ma.gov/accounting/pages/additional-reports" [1]
+2017-01-02 07:35:52 URL:http://www.saugus-ma.gov/accounting/pages/budget-copies [36979] -> "../data/townSites2/Saugus/www.saugus-ma.gov/accounting/pages/budget-copies" [1]
+2017-01-02 07:35:53 URL:http://www.saugus-ma.gov/accounting/pages/fy-2017-preliminary-budgets [37098] -> "../data/townSites2/Saugus/www.saugus-ma.gov/accounting/pages/fy-2017-preliminary-budgets" [1]
+2017-01-02 07:35:54 URL:http://www.saugus-ma.gov/accounting/pages/financial-statements [37883] -> "../data/townSites2/Saugus/www.saugus-ma.gov/accounting/pages/financial-statements" [1]
+2017-01-02 07:35:56 URL:http://www.saugus-ma.gov/accounting/pages/forms [37110] -> "../data/townSites2/Saugus/www.saugus-ma.gov/accounting/pages/forms" [1]
+2017-01-02 07:35:57 URL:http://www.saugus-ma.gov/accounting/pages/quarterly-budget-reports [37611] -> "../data/townSites2/Saugus/www.saugus-ma.gov/accounting/pages/quarterly-budget-reports" [1]
+2017-01-02 07:35:58 URL:http://www.saugus-ma.gov/accounting/pages/town-budgets [39863] -> "../data/townSites2/Saugus/www.saugus-ma.gov/accounting/pages/town-budgets" [1]
+2017-01-02 07:36:00 URL:http://www.saugus-ma.gov/news [46811] -> "../data/townSites2/Saugus/www.saugus-ma.gov/news" [1]
+2017-01-02 07:36:01 URL:http://www.saugus-ma.gov/home/news/memorable-tree-lighting-year [37323] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/news/memorable-tree-lighting-year" [1]
+2017-01-02 07:36:02 URL:http://www.saugus-ma.gov/home/news/town-manager-scott-c-crabtree-announces-riverwalk-public-meeting [35788] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/news/town-manager-scott-c-crabtree-announces-riverwalk-public-meeting" [1]
+2017-01-02 07:36:04 URL:http://www.saugus-ma.gov/news/1 [46825] -> "../data/townSites2/Saugus/www.saugus-ma.gov/news/1" [1]
+2017-01-02 07:36:05 URL:http://www.saugus-ma.gov/animal-control [42854] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/19" [1]
+2017-01-02 07:36:05 URL:http://www.saugus-ma.gov/print/19 [7780] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/19" [1]
+2017-01-02 07:36:07 URL:http://www.saugus-ma.gov/user/47/contact [35767] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/47/contact" [1]
+2017-01-02 07:36:08 URL: http://www.saugus-ma.gov/node/19/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:36:09 URL:http://www.saugus-ma.gov/animal-control/pages/dog-licensing [36510] -> "../data/townSites2/Saugus/www.saugus-ma.gov/animal-control/pages/dog-licensing" [1]
+2017-01-02 07:36:10 URL:http://www.saugus-ma.gov/animal-control/pages/fees [36599] -> "../data/townSites2/Saugus/www.saugus-ma.gov/animal-control/pages/fees" [1]
+2017-01-02 07:36:12 URL:http://www.saugus-ma.gov/animal-control/pages/helpful-links [36483] -> "../data/townSites2/Saugus/www.saugus-ma.gov/animal-control/pages/helpful-links" [1]
+2017-01-02 07:36:13 URL:http://www.saugus-ma.gov/animal-control/pages/important-information [36896] -> "../data/townSites2/Saugus/www.saugus-ma.gov/animal-control/pages/important-information" [1]
+2017-01-02 07:36:14 URL:http://www.saugus-ma.gov/animal-control/pages/laws-and-fines [36839] -> "../data/townSites2/Saugus/www.saugus-ma.gov/animal-control/pages/laws-and-fines" [1]
+2017-01-02 07:36:15 URL:http://www.saugus-ma.gov/assessors-office [58774] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/20" [1]
+2017-01-02 07:36:16 URL:http://www.saugus-ma.gov/print/20 [9009] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/20" [1]
+2017-01-02 07:36:18 URL:http://www.saugus-ma.gov/user/94/contact [35769] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/94/contact" [1]
+2017-01-02 07:36:19 URL:http://www.saugus-ma.gov/user/95/contact [35765] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/95/contact" [1]
+2017-01-02 07:36:21 URL:http://www.saugus-ma.gov/user/163/contact [35812] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/163/contact" [1]
+2017-01-02 07:36:23 URL: http://www.saugus-ma.gov/node/20/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:36:24 URL:http://www.saugus-ma.gov/assessors-office/pages/assessors-plate-maps [47439] -> "../data/townSites2/Saugus/www.saugus-ma.gov/assessors-office/pages/assessors-plate-maps" [1]
+2017-01-02 07:36:25 URL:http://www.saugus-ma.gov/board-assessors [55373] -> "../data/townSites2/Saugus/www.saugus-ma.gov/assessors-office/links/board-assessors" [1]
+2017-01-02 07:36:26 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/everything_you_need_to_know_about_your_assessing_department_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:36:28 URL:http://www.saugus-ma.gov/assessors-office/pages/forms [37571] -> "../data/townSites2/Saugus/www.saugus-ma.gov/assessors-office/pages/forms" [1]
+2017-01-02 07:36:29 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/frequently_asked_questions.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:36:30 URL:http://www.saugus-ma.gov/assessors-office/pages/motor-vehicle-boat-excise-tax [38095] -> "../data/townSites2/Saugus/www.saugus-ma.gov/assessors-office/pages/motor-vehicle-boat-excise-tax" [1]
+2017-01-02 07:36:31 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/personal_property_tax.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:36:32 URL:http://saugus.patriotproperties.com/default.asp [1132/1132] -> "../data/townSites2/Saugus/www.saugus-ma.gov/assessors-office/links/property-data-information" [1]
+2017-01-02 07:36:33 URL:http://www.saugus-ma.gov/assessors-office/pages/real-estate-personal-property-abatement [38708] -> "../data/townSites2/Saugus/www.saugus-ma.gov/assessors-office/pages/real-estate-personal-property-abatement" [1]
+2017-01-02 07:36:34 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/tax_rates_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:36:35 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/the_role_of_the_assessor_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:36:36 URL:http://www.saugus-ma.gov/node/20/faq [35335] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/20/faq" [1]
+2017-01-02 07:36:37 URL:http://www.saugus-ma.gov/assessors-office/faq/how-often-property-revalued [37789] -> "../data/townSites2/Saugus/www.saugus-ma.gov/assessors-office/faq/how-often-property-revalued" [1]
+2017-01-02 07:36:39 URL:http://www.saugus-ma.gov/assessors-office/faq/what-%E2%80%9Cfull-and-fair-cash-value%E2%80%9D [37741] -> "../data/townSites2/Saugus/www.saugus-ma.gov/assessors-office/faq/what-â%80%9Cfull-and-fair-cash-valueâ%80%9D" [1]
+2017-01-02 07:36:40 URL:http://www.saugus-ma.gov/assessors-office/faq/how-my-assessed-value-determined [37864] -> "../data/townSites2/Saugus/www.saugus-ma.gov/assessors-office/faq/how-my-assessed-value-determined" [1]
+2017-01-02 07:36:41 URL:http://www.saugus-ma.gov/assessors-office/faq/why-did-my-value-go-higher-my-neighbors [37773] -> "../data/townSites2/Saugus/www.saugus-ma.gov/assessors-office/faq/why-did-my-value-go-higher-my-neighbors" [1]
+2017-01-02 07:36:43 URL:http://www.saugus-ma.gov/assessors-office/faq/what-do-i-do-if-i-think-my-value-too-high [37786] -> "../data/townSites2/Saugus/www.saugus-ma.gov/assessors-office/faq/what-do-i-do-if-i-think-my-value-too-high" [1]
+2017-01-02 07:36:44 URL:http://www.saugus-ma.gov/node/20/events/month [53318] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/20/events/month" [1]
+2017-01-02 07:36:45 URL:http://www.saugus-ma.gov/node/20/events/month/2017-01 [53375] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/20/events/month/2017-01" [1]
+2017-01-02 07:36:47 URL:http://www.saugus-ma.gov/node/20/agenda [33108] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/20/agenda" [1]
+2017-01-02 07:36:48 URL:http://www.saugus-ma.gov/assessors-office/agenda/assessors-meeting [38223] -> "../data/townSites2/Saugus/www.saugus-ma.gov/assessors-office/agenda/assessors-meeting" [1]
+2017-01-02 07:36:49 URL:http://www.saugus-ma.gov/board-health [62280] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/21" [1]
+2017-01-02 07:36:50 URL:http://www.saugus-ma.gov/print/21 [12389] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/21" [1]
+2017-01-02 07:36:51 URL:http://www.saugus-ma.gov/user/77/contact [35811] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/77/contact" [1]
+2017-01-02 07:36:53 URL:http://www.saugus-ma.gov/user/78/contact [35809] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/78/contact" [1]
+2017-01-02 07:36:54 URL: http://www.saugus-ma.gov/node/21/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:36:56 URL:http://www.saugus-ma.gov/board-health/pages/additional-boh-duties [37419] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-health/pages/additional-boh-duties" [1]
+2017-01-02 07:36:57 URL:http://www.saugus-ma.gov/board-health/pages/emergency-preparedness [37183] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-health/pages/emergency-preparedness" [1]
+2017-01-02 07:36:58 URL:http://www.saugus-ma.gov/board-health/pages/fee-schedule [42225] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-health/pages/fee-schedule" [1]
+2017-01-02 07:36:59 URL:http://www.saugus-ma.gov/board-health/pages/food-safety [37992] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-health/pages/food-safety" [1]
+2017-01-02 07:37:01 URL:http://www.saugus-ma.gov/board-health-cancelled-8-15-2016/pages/helpful-links [37517] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-health-cancelled-8-15-2016/pages/helpful-links" [1]
+2017-01-02 07:37:02 URL:http://www.saugus-ma.gov/board-health-cancelled-8-15-2016/pages/mosquito-information [37251] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-health-cancelled-8-15-2016/pages/mosquito-information" [1]
+2017-01-02 07:37:03 URL:http://www.saugus-ma.gov/board-health/pages/permits-and-applications [38396] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-health/pages/permits-and-applications" [1]
+2017-01-02 07:37:05 URL:http://www.saugus-ma.gov/board-health/pages/regulations [38217] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-health/pages/regulations" [1]
+2017-01-02 07:37:06 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/sharps_disposal_information.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:37:07 URL:http://www.saugus-ma.gov/node/21/events/month [60404] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/21/events/month" [1]
+2017-01-02 07:37:08 URL:http://www.saugus-ma.gov/node/21/events/day/2017-01-02 [36369] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/21/events/day/2017-01-02" [1]
+2017-01-02 07:37:09 URL:http://www.saugus-ma.gov/node/21/events/month/2017-01 [60465] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/21/events/month/2017-01" [1]
+2017-01-02 07:37:11 URL:http://www.saugus-ma.gov/node/21/agenda [32688] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/21/agenda" [1]
+2017-01-02 07:37:12 URL:http://www.saugus-ma.gov/board-health/agenda/board-health-meeting-2 [37821] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-health/agenda/board-health-meeting-2" [1]
+2017-01-02 07:37:13 URL:http://www.saugus-ma.gov/board-health/agenda/board-health-meeting-12-5-2016-cancelled-1252016 [37984] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-health/agenda/board-health-meeting-12-5-2016-cancelled-1252016" [1]
+2017-01-02 07:37:15 URL:http://www.saugus-ma.gov/board-health/agenda/board-health-meeting-1 [37799] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-health/agenda/board-health-meeting-1" [1]
+2017-01-02 07:37:16 URL:http://www.saugus-ma.gov/board-health/agenda/board-health-0 [37794] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-health/agenda/board-health-0" [1]
+2017-01-02 07:37:17 URL:http://www.saugus-ma.gov/board-health-cancelled-8-15-2016/agenda/board-health-meeting-9-12-2016 [37603] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-health-cancelled-8-15-2016/agenda/board-health-meeting-9-12-2016" [1]
+2017-01-02 07:37:18 URL:http://www.saugus-ma.gov/cemetery-department [46260] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/22" [1]
+2017-01-02 07:37:19 URL:http://www.saugus-ma.gov/print/22 [8476] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/22" [1]
+2017-01-02 07:37:21 URL:http://www.saugus-ma.gov/user/48/contact [35767] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/48/contact" [1]
+2017-01-02 07:37:23 URL:http://www.saugus-ma.gov/user/49/contact [35793] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/49/contact" [1]
+2017-01-02 07:37:23 URL: http://www.saugus-ma.gov/node/22/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:37:24 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/approved_shrub_planting_list.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:37:25 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/artificial_flower_and_container_use.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:37:27 URL:http://www.saugus-ma.gov/cemetery-department/pages/directions-riverside-cemetery [37470] -> "../data/townSites2/Saugus/www.saugus-ma.gov/cemetery-department/pages/directions-riverside-cemetery" [1]
+2017-01-02 07:37:28 URL:http://www.saugus-ma.gov/cemetery-department/pages/fee-schedule [37737] -> "../data/townSites2/Saugus/www.saugus-ma.gov/cemetery-department/pages/fee-schedule" [1]
+2017-01-02 07:37:29 URL:http://www.saugus-ma.gov/cemetery-department/pages/programs-and-services [37679] -> "../data/townSites2/Saugus/www.saugus-ma.gov/cemetery-department/pages/programs-and-services" [1]
+2017-01-02 07:37:30 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/riverside_cemetery_rules_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:37:31 URL:http://www.saugus-ma.gov/cemetery-department/pages/veterans-information [37665] -> "../data/townSites2/Saugus/www.saugus-ma.gov/cemetery-department/pages/veterans-information" [1]
+2017-01-02 07:37:33 URL:http://www.saugus-ma.gov/cemetery-department/pages/work-order-requests [37908] -> "../data/townSites2/Saugus/www.saugus-ma.gov/cemetery-department/pages/work-order-requests" [1]
+2017-01-02 07:37:34 URL:http://www.saugus-ma.gov/node/22/faq [34529] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/22/faq" [1]
+2017-01-02 07:37:35 URL:http://www.saugus-ma.gov/cemetery-department/faq/how-much-does-cemetery-lot-cost [36861] -> "../data/townSites2/Saugus/www.saugus-ma.gov/cemetery-department/faq/how-much-does-cemetery-lot-cost" [1]
+2017-01-02 07:37:36 URL:http://www.saugus-ma.gov/cemetery-department/faq/who-can-purchase-cemetery-lot [37374] -> "../data/townSites2/Saugus/www.saugus-ma.gov/cemetery-department/faq/who-can-purchase-cemetery-lot" [1]
+2017-01-02 07:37:38 URL:http://www.saugus-ma.gov/cemetery-department/faq/can-i-sell-my-unused-lot [37605] -> "../data/townSites2/Saugus/www.saugus-ma.gov/cemetery-department/faq/can-i-sell-my-unused-lot" [1]
+2017-01-02 07:37:39 URL:http://www.saugus-ma.gov/cemetery-department/faq/how-do-i-transfer-ownership-my-lot [37146] -> "../data/townSites2/Saugus/www.saugus-ma.gov/cemetery-department/faq/how-do-i-transfer-ownership-my-lot" [1]
+2017-01-02 07:37:41 URL:http://www.saugus-ma.gov/cemetery-department/faq/who-do-i-report-cemetery-theft-too [37212] -> "../data/townSites2/Saugus/www.saugus-ma.gov/cemetery-department/faq/who-do-i-report-cemetery-theft-too" [1]
+2017-01-02 07:37:42 URL:http://www.saugus-ma.gov/planning-and-development [54958] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/23" [1]
+2017-01-02 07:37:42 URL:http://www.saugus-ma.gov/print/23 [8015] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/23" [1]
+2017-01-02 07:37:43 URL: http://www.saugus-ma.gov/node/23/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:37:44 URL:http://www.saugus-ma.gov/planning-and-development/pages/additional-documents [37690] -> "../data/townSites2/Saugus/www.saugus-ma.gov/planning-and-development/pages/additional-documents" [1]
+2017-01-02 07:37:46 URL:http://www.saugus-ma.gov/planning-and-development/files/economic-development [37384] -> "../data/townSites2/Saugus/www.saugus-ma.gov/planning-and-development/files/economic-development" [1]
+2017-01-02 07:37:47 URL:http://www.saugus-ma.gov/planning-and-development/files/housing [37512] -> "../data/townSites2/Saugus/www.saugus-ma.gov/planning-and-development/files/housing" [1]
+2017-01-02 07:37:48 URL:http://www.saugus-ma.gov/planning-and-development/pages/planning-and-development-news [37074] -> "../data/townSites2/Saugus/www.saugus-ma.gov/planning-and-development/pages/planning-and-development-news" [1]
+2017-01-02 07:37:50 URL:http://www.saugus-ma.gov/economic-development/pages/solar-overlay-maps-information [37205] -> "../data/townSites2/Saugus/www.saugus-ma.gov/economic-development/pages/solar-overlay-maps-information" [1]
+2017-01-02 07:37:51 URL:http://www.saugus-ma.gov/economic-development/pages/waterfront-maps-information [38113] -> "../data/townSites2/Saugus/www.saugus-ma.gov/economic-development/pages/waterfront-maps-information" [1]
+2017-01-02 07:37:52 URL: ftp://ftp.mapc.org/Saugus%20Rte%201/ [578] -> "../data/townSites2/Saugus/ftp.mapc.org/Saugus Rte 1/.listing" [1]
+2017-01-02 07:37:53 URL:http://www.saugus-ma.gov/node/23/events/month [52899] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/23/events/month" [1]
+2017-01-02 07:37:55 URL:http://www.saugus-ma.gov/node/23/events/month/2017-01 [52956] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/23/events/month/2017-01" [1]
+2017-01-02 07:37:56 URL:http://www.saugus-ma.gov/node/23/agenda [32671] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/23/agenda" [1]
+2017-01-02 07:37:57 URL:http://www.saugus-ma.gov/planning-and-development/agenda/open-space-recreation-plan-committee-meeting-12-5-2016 [37853] -> "../data/townSites2/Saugus/www.saugus-ma.gov/planning-and-development/agenda/open-space-recreation-plan-committee-meeting-12-5-2016" [1]
+2017-01-02 07:37:58 URL:http://www.saugus-ma.gov/fire-department [57792] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/24" [1]
+2017-01-02 07:37:59 URL:http://www.saugus-ma.gov/print/24 [12017] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/24" [1]
+2017-01-02 07:38:01 URL:http://www.saugus-ma.gov/user/26/contact [35785] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/26/contact" [1]
+2017-01-02 07:38:02 URL:http://www.saugus-ma.gov/user/27/contact [35759] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/27/contact" [1]
+2017-01-02 07:38:04 URL:http://www.saugus-ma.gov/user/28/contact [35785] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/28/contact" [1]
+2017-01-02 07:38:05 URL:http://www.saugus-ma.gov/user/29/contact [35781] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/29/contact" [1]
+2017-01-02 07:38:07 URL:http://www.saugus-ma.gov/user/30/contact [35773] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/30/contact" [1]
+2017-01-02 07:38:09 URL:http://www.saugus-ma.gov/user/31/contact [35779] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/31/contact" [1]
+2017-01-02 07:38:10 URL: http://www.saugus-ma.gov/node/24/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:38:11 URL:http://www.saugus-ma.gov/fire-department/pages/about-fire-department [39942] -> "../data/townSites2/Saugus/www.saugus-ma.gov/fire-department/pages/about-fire-department" [1]
+2017-01-02 07:38:12 URL:http://www.mass.gov/anf/employment-equal-access-disability/civil-serv-info/ [142916] -> "../data/townSites2/Saugus/www.saugus-ma.gov/fire-department/links/civil-service-exam" [1]
+2017-01-02 07:38:14 URL:http://www.saugus-ma.gov/emergency-management [41141] -> "../data/townSites2/Saugus/www.saugus-ma.gov/emergency-management" [1]
+2017-01-02 07:38:15 URL:http://www.redcross.org/ [135916] -> "../data/townSites2/Saugus/www.saugus-ma.gov/emergency-management/links/american-red-cross" [1]
+2017-01-02 07:38:17 URL:https://msc.fema.gov/portal [45707] -> "../data/townSites2/Saugus/www.saugus-ma.gov/emergency-management/links/fema-flood-maps" [1]
+2017-01-02 07:38:19 URL:https://www.fema.gov/ [34633] -> "../data/townSites2/Saugus/www.saugus-ma.gov/emergency-management/links/federal-emergency-management-agency-fema" [1]
+2017-01-02 07:38:20 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/2011_hazard_mitigation_plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:38:21 URL:http://www.mass.gov/eopss/agencies/mema/ [113050] -> "../data/townSites2/Saugus/www.saugus-ma.gov/emergency-management/links/massachusetts-emergency-management-agency-mema" [1]
+http://www.mass.gov/eopss/agencies/dfs/dfs2/osfm/pubed/fs-topics/fire-safety-topics-and-flyers.html:
+Remote file does not exist -- broken link!!!
+2017-01-02 07:38:24 URL:http://www.saugus-ma.gov/fire-department/pages/forms-and-fees [38932] -> "../data/townSites2/Saugus/www.saugus-ma.gov/fire-department/pages/forms-and-fees" [1]
+2017-01-02 07:38:24 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/residential_lock_box_program.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:38:26 URL:http://www.saugus-ma.gov/fire-department/pages/rules-and-regulations [38894] -> "../data/townSites2/Saugus/www.saugus-ma.gov/fire-department/pages/rules-and-regulations" [1]
+2017-01-02 07:38:27 URL:http://www.saugus-ma.gov/fire-department/pages/saugus-fire-chiefs [40025] -> "../data/townSites2/Saugus/www.saugus-ma.gov/fire-department/pages/saugus-fire-chiefs" [1]
+2017-01-02 07:38:28 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/smoke_and_carbon_monoxide_detector_requirements.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:38:29 URL:http://www.mass.gov/eopss/agencies/dfs/ [114551] -> "../data/townSites2/Saugus/www.saugus-ma.gov/fire-department/links/state-fire-marshall" [1]
+2017-01-02 07:38:30 URL:http://www.saugus-ma.gov/node/24/news [34687] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/24/news" [1]
+2017-01-02 07:38:31 URL:http://www.saugus-ma.gov/fire-department/news/fire-prevention-week-open-house-saturday-october-15-2017 [38878] -> "../data/townSites2/Saugus/www.saugus-ma.gov/fire-department/news/fire-prevention-week-open-house-saturday-october-15-2017" [1]
+2017-01-02 07:38:33 URL:http://www.saugus-ma.gov/node/24/events/month [53892] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/24/events/month" [1]
+2017-01-02 07:38:35 URL:http://www.saugus-ma.gov/node/24/events/month/2017-01 [53949] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/24/events/month/2017-01" [1]
+2017-01-02 07:38:36 URL:http://www.saugus-ma.gov/housing-authority [63024] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/25" [1]
+2017-01-02 07:38:37 URL:http://www.saugus-ma.gov/print/25 [15126] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/25" [1]
+2017-01-02 07:38:39 URL:http://www.saugus-ma.gov/user/58/contact [35771] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/58/contact" [1]
+2017-01-02 07:38:39 URL: http://www.saugus-ma.gov/node/25/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:38:40 URL:http://www.saugus-ma.gov/node/25/events/month [56022] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/25/events/month" [1]
+2017-01-02 07:38:42 URL:http://www.saugus-ma.gov/node/25/events/day/2017-01-04 [34633] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/25/events/day/2017-01-04" [1]
+2017-01-02 07:38:43 URL:http://www.saugus-ma.gov/node/25/events/month/2017-01 [56083] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/25/events/month/2017-01" [1]
+2017-01-02 07:38:44 URL:http://www.saugus-ma.gov/node/25/agenda [31141] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/25/agenda" [1]
+2017-01-02 07:38:45 URL:http://www.saugus-ma.gov/housing-authority/agenda/saugus-housing-authority-special-meeting [36140] -> "../data/townSites2/Saugus/www.saugus-ma.gov/housing-authority/agenda/saugus-housing-authority-special-meeting" [1]
+2017-01-02 07:38:47 URL:http://www.saugus-ma.gov/housing-authority/agenda/saugus-housing-authority-meeting-12-14-2016 [36455] -> "../data/townSites2/Saugus/www.saugus-ma.gov/housing-authority/agenda/saugus-housing-authority-meeting-12-14-2016" [1]
+2017-01-02 07:38:48 URL:http://www.saugus-ma.gov/housing-authority/agenda/saugus-housing-authority-0 [36347] -> "../data/townSites2/Saugus/www.saugus-ma.gov/housing-authority/agenda/saugus-housing-authority-0" [1]
+2017-01-02 07:38:49 URL:http://www.saugus-ma.gov/housing-authority/agenda/saugus-board-selectmen-saugus-housing-authority [36518] -> "../data/townSites2/Saugus/www.saugus-ma.gov/housing-authority/agenda/saugus-board-selectmen-saugus-housing-authority" [1]
+2017-01-02 07:38:51 URL:http://www.saugus-ma.gov/housing-authority/agenda/saugus-housing-authority [36311] -> "../data/townSites2/Saugus/www.saugus-ma.gov/housing-authority/agenda/saugus-housing-authority" [1]
+2017-01-02 07:38:52 URL:http://www.saugus-ma.gov/human-resources [43653] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/26" [1]
+2017-01-02 07:38:52 URL:http://www.saugus-ma.gov/print/26 [8679] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/26" [1]
+2017-01-02 07:38:54 URL:http://www.saugus-ma.gov/user/62/contact [35785] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/62/contact" [1]
+2017-01-02 07:38:55 URL: http://www.saugus-ma.gov/node/26/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:38:56 URL:http://www.saugus-ma.gov/human-resources/pages/benefits [37102] -> "../data/townSites2/Saugus/www.saugus-ma.gov/human-resources/pages/benefits" [1]
+2017-01-02 07:38:57 URL:http://www.saugus-ma.gov/human-resources/pages/employee-assistance-program [36698] -> "../data/townSites2/Saugus/www.saugus-ma.gov/human-resources/pages/employee-assistance-program" [1]
+2017-01-02 07:38:58 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/property_insurance_claims.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:00 URL:http://www.saugus-ma.gov/human-resources/pages/retirement [36528] -> "../data/townSites2/Saugus/www.saugus-ma.gov/human-resources/pages/retirement" [1]
+2017-01-02 07:39:00 URL:http://www.saugus-ma.gov/inspectional-services [46851] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/27" [1]
+2017-01-02 07:39:01 URL:http://www.saugus-ma.gov/print/27 [9353] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/27" [1]
+2017-01-02 07:39:03 URL:http://www.saugus-ma.gov/user/96/contact [35771] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/96/contact" [1]
+2017-01-02 07:39:05 URL:http://www.saugus-ma.gov/user/97/contact [35791] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/97/contact" [1]
+2017-01-02 07:39:06 URL:http://www.saugus-ma.gov/user/98/contact [35789] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/98/contact" [1]
+2017-01-02 07:39:08 URL:http://www.saugus-ma.gov/user/99/contact [35781] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/99/contact" [1]
+2017-01-02 07:39:09 URL: http://www.saugus-ma.gov/node/27/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:10 URL:http://www.saugus-ma.gov/inspectional-services/pages/electrical-forms-information [37517] -> "../data/townSites2/Saugus/www.saugus-ma.gov/inspectional-services/pages/electrical-forms-information" [1]
+2017-01-02 07:39:11 URL:http://www.mass.gov/eopss/agencies/dps/ [102750] -> "../data/townSites2/Saugus/www.saugus-ma.gov/inspectional-services/links/ma-state-building-code" [1]
+2017-01-02 07:39:12 URL:http://www.saugus-ma.gov/inspectional-services/pages/plumbing-forms-information [38257] -> "../data/townSites2/Saugus/www.saugus-ma.gov/inspectional-services/pages/plumbing-forms-information" [1]
+2017-01-02 07:39:14 URL:http://www.saugus-ma.gov/solid-waste-recycling-department [44597] -> "../data/townSites2/Saugus/www.saugus-ma.gov/inspectional-services/links/solid-wasterecycling-department" [1]
+2017-01-02 07:39:15 URL:http://www.saugus-ma.gov/mis-department [43119] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/29" [1]
+2017-01-02 07:39:16 URL:http://www.saugus-ma.gov/print/29 [8982] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/29" [1]
+2017-01-02 07:39:17 URL:http://www.saugus-ma.gov/user/46/contact [35781] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/46/contact" [1]
+2017-01-02 07:39:18 URL: http://www.saugus-ma.gov/node/29/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:19 URL:http://www.saugus-ma.gov/public-works [44983] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/31" [1]
+2017-01-02 07:39:20 URL:http://www.saugus-ma.gov/print/31 [9715] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/31" [1]
+2017-01-02 07:39:21 URL:http://www.saugus-ma.gov/user/553/contact [35772] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/553/contact" [1]
+2017-01-02 07:39:23 URL:http://www.saugus-ma.gov/user/82/contact [35793] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/82/contact" [1]
+2017-01-02 07:39:24 URL:http://www.saugus-ma.gov/user/83/contact [35765] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/83/contact" [1]
+2017-01-02 07:39:25 URL: http://www.saugus-ma.gov/node/31/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:26 URL:http://www.saugus-ma.gov/public-works/pages/seeclickfix [33998] -> "../data/townSites2/Saugus/www.saugus-ma.gov/public-works/pages/seeclickfix" [1]
+2017-01-02 07:39:27 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/plow_package_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:28 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/street_opening_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:29 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/trench_permit_jackies_law.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:30 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/evaluation_of_wastewater_pumping_stations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:31 URL:http://www.saugus-ma.gov/water-department [42743] -> "../data/townSites2/Saugus/www.saugus-ma.gov/public-works/links/water-department" [1]
+2017-01-02 07:39:32 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/saugus_water_tap_fees.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:33 URL:http://www.saugus-ma.gov/node/31/news [33761] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/31/news" [1]
+2017-01-02 07:39:34 URL:http://www.saugus-ma.gov/public-works/news/sidewalk-repair-work-notice-4172014 [37175] -> "../data/townSites2/Saugus/www.saugus-ma.gov/public-works/news/sidewalk-repair-work-notice-4172014" [1]
+2017-01-02 07:39:36 URL:http://www.saugus-ma.gov/public-works/news/lincoln-ave-work-resumes-notice-4172014 [37192] -> "../data/townSites2/Saugus/www.saugus-ma.gov/public-works/news/lincoln-ave-work-resumes-notice-4172014" [1]
+2017-01-02 07:39:37 URL:http://www.saugus-ma.gov/public-works/news/street-sweeping-program-notice-422014 [37188] -> "../data/townSites2/Saugus/www.saugus-ma.gov/public-works/news/street-sweeping-program-notice-422014" [1]
+2017-01-02 07:39:38 URL:http://www.saugus-ma.gov/public-works/news/streetlight-repair-notice-1182013 [37165] -> "../data/townSites2/Saugus/www.saugus-ma.gov/public-works/news/streetlight-repair-notice-1182013" [1]
+2017-01-02 07:39:39 URL:http://www.saugus-ma.gov/public-works/news/water-main-project-notice-9112013 [37167] -> "../data/townSites2/Saugus/www.saugus-ma.gov/public-works/news/water-main-project-notice-9112013" [1]
+2017-01-02 07:39:41 URL:http://www.saugus-ma.gov/purchasing-department [42544] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/35" [1]
+2017-01-02 07:39:41 URL:http://www.saugus-ma.gov/print/35 [9097] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/35" [1]
+2017-01-02 07:39:42 URL: http://www.saugus-ma.gov/node/35/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:43 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/potholes_tree_damage.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:44 URL:http://www.saugus-ma.gov/purchasing-department/pages/procurement-procedures [36884] -> "../data/townSites2/Saugus/www.saugus-ma.gov/purchasing-department/pages/procurement-procedures" [1]
+2017-01-02 07:39:46 URL:http://www.saugus-ma.gov/subscribe [37999/37999] -> "../data/townSites2/Saugus/www.saugus-ma.gov/purchasing-department/links/subscribe-upcoming-bid-email-notification-list" [1]
+2017-01-02 07:39:48 URL:http://www.saugus-ma.gov/bids [33957] -> "../data/townSites2/Saugus/www.saugus-ma.gov/purchasing-department/links/upcoming-bids-rfps" [1]
+2017-01-02 07:39:49 URL:http://www.saugus-ma.gov/senior-center [44376] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/17" [1]
+2017-01-02 07:39:50 URL:http://www.saugus-ma.gov/print/17 [10112] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/17" [1]
+2017-01-02 07:39:51 URL:http://www.saugus-ma.gov/user/35/contact [35767] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/35/contact" [1]
+2017-01-02 07:39:53 URL:http://www.saugus-ma.gov/user/36/contact [35767] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/36/contact" [1]
+2017-01-02 07:39:53 URL: http://www.saugus-ma.gov/node/17/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:55 URL:http://www.saugus-ma.gov/senior-center/pages/gift-shop [36920] -> "../data/townSites2/Saugus/www.saugus-ma.gov/senior-center/pages/gift-shop" [1]
+2017-01-02 07:39:56 URL:http://www.saugus-ma.gov/senior-center/pages/menu [38176] -> "../data/townSites2/Saugus/www.saugus-ma.gov/senior-center/pages/menu" [1]
+2017-01-02 07:39:57 URL:http://www.saugus-ma.gov/senior-center/pages/newsletter [36856] -> "../data/townSites2/Saugus/www.saugus-ma.gov/senior-center/pages/newsletter" [1]
+2017-01-02 07:39:58 URL:http://www.saugus-ma.gov/senior-center/pages/programs-activities [37799] -> "../data/townSites2/Saugus/www.saugus-ma.gov/senior-center/pages/programs-activities" [1]
+2017-01-02 07:40:00 URL:http://www.saugus-ma.gov/senior-center/pages/trips [36290] -> "../data/townSites2/Saugus/www.saugus-ma.gov/senior-center/pages/trips" [1]
+2017-01-02 07:40:01 URL:http://www.saugus-ma.gov/senior-center/pages/volunteer [36638] -> "../data/townSites2/Saugus/www.saugus-ma.gov/senior-center/pages/volunteer" [1]
+2017-01-02 07:40:02 URL:http://www.saugus-ma.gov/solid-waste-recycling-department [44597] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/16" [1]
+2017-01-02 07:40:03 URL:http://www.saugus-ma.gov/print/16 [8709] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/16" [1]
+2017-01-02 07:40:05 URL:http://www.saugus-ma.gov/user/24/contact [35787] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/24/contact" [1]
+2017-01-02 07:40:08 URL:http://www.saugus-ma.gov/user/25/contact [35769] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/25/contact" [1]
+2017-01-02 07:40:09 URL: http://www.saugus-ma.gov/node/16/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:10 URL:http://www.saugus-ma.gov/solid-waste-recycling-department/pages/charm-facility [38414] -> "../data/townSites2/Saugus/www.saugus-ma.gov/solid-waste-recycling-department/pages/charm-facility" [1]
+2017-01-02 07:40:12 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/compost_site_clsoing_2016.doc 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:13 URL:http://www.saugus-ma.gov/solid-waste-recycling-department/pages/compost-site [37918] -> "../data/townSites2/Saugus/www.saugus-ma.gov/solid-waste-recycling-department/pages/compost-site" [1]
+2017-01-02 07:40:14 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/compost_site_information.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:15 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/curbside_leaf_disposal_fall_2016.docx 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:17 URL:http://www.saugus-ma.gov/solid-waste-recycling-department/webforms/hazardous-waste-registration-form [47656/47656] -> "../data/townSites2/Saugus/www.saugus-ma.gov/solid-waste-recycling-department/webforms/hazardous-waste-registration-form" [1]
+2017-01-02 07:40:19 URL:http://www.saugus-ma.gov/solid-waste-recycling-department/pages/personnel [37661] -> "../data/townSites2/Saugus/www.saugus-ma.gov/solid-waste-recycling-department/pages/personnel" [1]
+2017-01-02 07:40:20 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/recycling_brochure.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:21 URL:http://www.saugus-ma.gov/solid-waste-recycling-department/pages/seasonal-curbside-yard-waste-collection [38138] -> "../data/townSites2/Saugus/www.saugus-ma.gov/solid-waste-recycling-department/pages/seasonal-curbside-yard-waste-collection" [1]
+2017-01-02 07:40:22 URL:http://www.saugus-ma.gov/town-clerk [67721] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/36" [1]
+2017-01-02 07:40:24 URL:http://www.saugus-ma.gov/print/36 [8942] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/36" [1]
+2017-01-02 07:40:25 URL:http://www.saugus-ma.gov/town-clerk/bulletins/dog-license-late-fee-notice [37960] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/bulletins/dog-license-late-fee-notice" [1]
+2017-01-02 07:40:27 URL:http://www.saugus-ma.gov/user/84/contact [35773] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/84/contact" [1]
+2017-01-02 07:40:29 URL:http://www.saugus-ma.gov/user/85/contact [35787] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/85/contact" [1]
+2017-01-02 07:40:31 URL: http://www.saugus-ma.gov/node/36/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:32 URL:http://www.saugus-ma.gov/town-clerk/pages/annual-town-meeting-information [40228] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/pages/annual-town-meeting-information" [1]
+2017-01-02 07:40:34 URL:http://www.saugus-ma.gov/town-clerk/pages/business-certificates [39744] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/pages/business-certificates" [1]
+2017-01-02 07:40:35 URL:http://www.saugus-ma.gov/town-clerk/pages/campaign-finance-reports [38991] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/pages/campaign-finance-reports" [1]
+2017-01-02 07:40:36 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/early_voting_hours_for_the_paper.docx_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:37 URL:http://www.saugus-ma.gov/town-clerk/pages/election-information-and-results [39330] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/pages/election-information-and-results" [1]
+2017-01-02 07:40:39 URL:http://www.saugus-ma.gov/town-clerk/pages/licenses-certificates [38917] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/pages/licenses-certificates" [1]
+2017-01-02 07:40:40 URL:http://www.saugus-ma.gov/boards [50511] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/links/list-boards-committees" [1]
+2017-01-02 07:40:41 URL:http://www.sec.state.ma.us/ele/eleidx.htm [71233/71233] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/links/ma-state-website-elections-division" [1]
+2017-01-02 07:40:42 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/10-24-2016_stm_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:42 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/official_results_11-8-16_election.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:44 URL:http://www.saugus-ma.gov/town-clerk/pages/open-meeting-law-guides-templates [38704] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/pages/open-meeting-law-guides-templates" [1]
+2017-01-02 07:40:45 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/official_results_9-8-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:46 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/town_by-laws.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:46 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/town_charter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:47 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/town_meeting_2015_-_2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:49 URL:http://www.saugus-ma.gov/town-clerk/pages/warrants [43926] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/pages/warrants" [1]
+2017-01-02 07:40:50 URL:http://www.saugus-ma.gov/node/36/faq [36647] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/36/faq" [1]
+2017-01-02 07:40:51 URL:http://www.saugus-ma.gov/town-clerk/faq/who-do-i-call-regarding-my-excise-and-property-taxeswater-bills [37929] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/faq/who-do-i-call-regarding-my-excise-and-property-taxeswater-bills" [1]
+2017-01-02 07:40:53 URL:http://www.saugus-ma.gov/town-clerk/faq/can-you-tell-me-when-leaf-pick-will-start [37849] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/faq/can-you-tell-me-when-leaf-pick-will-start" [1]
+2017-01-02 07:40:54 URL:http://www.saugus-ma.gov/town-clerk/faq/how-do-i-get-plot-plan [37787] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/faq/how-do-i-get-plot-plan" [1]
+2017-01-02 07:40:56 URL:http://www.saugus-ma.gov/town-clerk/faq/can-you-connect-me-building-electrical-and-plumbing-inspector [38180] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/faq/can-you-connect-me-building-electrical-and-plumbing-inspector" [1]
+2017-01-02 07:40:57 URL:http://www.saugus-ma.gov/town-clerk/faq/how-do-i-get-touch-veterans-agent-and-what-are-his-hours [38248] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/faq/how-do-i-get-touch-veterans-agent-and-what-are-his-hours" [1]
+2017-01-02 07:40:59 URL:http://www.saugus-ma.gov/node/36/events/month [63702] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/36/events/month" [1]
+2017-01-02 07:41:00 URL:http://www.saugus-ma.gov/node/36/events/day/2017-01-02 [37253] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/36/events/day/2017-01-02" [1]
+2017-01-02 07:41:01 URL:http://www.saugus-ma.gov/node/36/events/day/2017-01-03 [37291] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/36/events/day/2017-01-03" [1]
+2017-01-02 07:41:03 URL:http://www.saugus-ma.gov/node/36/events/month/2017-01 [63751] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/36/events/month/2017-01" [1]
+2017-01-02 07:41:04 URL:http://www.saugus-ma.gov/node/36/agenda [33771] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/36/agenda" [1]
+2017-01-02 07:41:05 URL:http://www.saugus-ma.gov/town-clerk/agenda/northeast-massachusetts-mosquito-control-wetlands-management-district-meeting [39065] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/agenda/northeast-massachusetts-mosquito-control-wetlands-management-district-meeting" [1]
+2017-01-02 07:41:07 URL:http://www.saugus-ma.gov/town-clerk/agenda/saugus-school-committee-food-service-sub-committee [38556] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/agenda/saugus-school-committee-food-service-sub-committee" [1]
+2017-01-02 07:41:08 URL:http://www.saugus-ma.gov/town-clerk/agenda/region-3d-north-shore-cape-ann-emergency-preparedness-coalition [38938] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/agenda/region-3d-north-shore-cape-ann-emergency-preparedness-coalition" [1]
+2017-01-02 07:41:09 URL:http://www.saugus-ma.gov/town-clerk/agenda/saugus-school-committee-finance-sub-committee [38846] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/agenda/saugus-school-committee-finance-sub-committee" [1]
+2017-01-02 07:41:11 URL:http://www.saugus-ma.gov/town-clerk/agenda/belmonte-middle-school-school-building-council-meeting-0 [38883] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/agenda/belmonte-middle-school-school-building-council-meeting-0" [1]
+2017-01-02 07:41:12 URL:http://www.saugus-ma.gov/node/36/minutes [33713] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/36/minutes" [1]
+2017-01-02 07:41:13 URL: http://www.saugus-ma.gov/sites/saugusma/files/minutes/10-24-2016_stm_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:41:13 URL: http://www.saugus-ma.gov/sites/saugusma/files/minutes/6-13-2016_stm_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:41:14 URL: http://www.saugus-ma.gov/sites/saugusma/files/minutes/6-6-2016_3rd_session_atm_minutes_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:41:15 URL: http://www.saugus-ma.gov/sites/saugusma/files/minutes/5-16-2016_2nd_session_atm_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:41:16 URL: http://www.saugus-ma.gov/sites/saugusma/files/minutes/5-2-2016_atm_minutes_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:41:17 URL:http://www.saugus-ma.gov/town-managers-office [46439] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/37" [1]
+2017-01-02 07:41:18 URL:http://www.saugus-ma.gov/print/37 [9407] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/37" [1]
+2017-01-02 07:41:20 URL:http://www.saugus-ma.gov/user/102/contact [35796] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/102/contact" [1]
+2017-01-02 07:41:22 URL:http://www.saugus-ma.gov/user/101/contact [35764] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/101/contact" [1]
+2017-01-02 07:41:23 URL:http://www.saugus-ma.gov/user/103/contact [35802] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/103/contact" [1]
+2017-01-02 07:41:24 URL: http://www.saugus-ma.gov/node/37/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:41:26 URL:http://www.saugus-ma.gov/town-managers-office/pages/look-demographics-housing-economic-development [37639] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-managers-office/pages/look-demographics-housing-economic-development" [1]
+2017-01-02 07:41:27 URL:http://www.saugus-ma.gov/town-managers-office/pages/additional-documents [38237] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-managers-office/pages/additional-documents" [1]
+2017-01-02 07:41:28 URL:http://www.saugus-ma.gov/town-managers-office/pages/budget-reports [38298] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-managers-office/pages/budget-reports" [1]
+2017-01-02 07:41:30 URL:http://www.saugus-ma.gov/finance-committee/pages/budget-reports [35449] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-managers-office/links/finance-committee-fy15-recommendation" [1]
+2017-01-02 07:41:31 URL:http://www.saugus-ma.gov/town-managers-office/pages/forms-applications [37726] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-managers-office/pages/forms-applications" [1]
+2017-01-02 07:41:33 URL:http://www.saugus-ma.gov/town-managers-office/pages/msba-saugus-high-school-project [38116] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-managers-office/pages/msba-saugus-high-school-project" [1]
+2017-01-02 07:41:37 URL:https://malegislature.gov/People/Profile/tmm0 [115387/115387] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-managers-office/links/state-senator-mcgee" [1]
+2017-01-02 07:41:41 URL:https://malegislature.gov/People/Profile/DHW1 [82606/82606] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-managers-office/links/state-representative-wong" [1]
+2017-01-02 07:41:45 URL:https://malegislature.gov/People/Profile/R_V1 [98472/98472] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-managers-office/links/state-representative-vincent" [1]
+2017-01-02 07:41:47 URL:http://www.saugus-ma.gov/treasurer-collector [46971] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/14" [1]
+2017-01-02 07:41:48 URL:http://www.saugus-ma.gov/print/14 [11886] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/14" [1]
+2017-01-02 07:41:50 URL:http://www.saugus-ma.gov/user/243/contact [35866] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/243/contact" [1]
+2017-01-02 07:41:51 URL:http://www.saugus-ma.gov/treasurer-collector/news/need-invoice-copies-taxes [37345] -> "../data/townSites2/Saugus/www.saugus-ma.gov/treasurer-collector/news/need-invoice-copies-taxes" [1]
+2017-01-02 07:41:53 URL:http://www.saugus-ma.gov/user/72/contact [35765] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/72/contact" [1]
+2017-01-02 07:41:54 URL:http://www.saugus-ma.gov/user/73/contact [35783] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/73/contact" [1]
+2017-01-02 07:41:55 URL: http://www.saugus-ma.gov/node/14/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:41:56 URL:http://www.saugus-ma.gov/treasurer-collector/pages/forms [37191] -> "../data/townSites2/Saugus/www.saugus-ma.gov/treasurer-collector/pages/forms" [1]
+2017-01-02 07:41:58 URL:http://www.saugus-ma.gov/node/14/faq [38581] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/14/faq" [1]
+2017-01-02 07:41:59 URL:http://www.saugus-ma.gov/treasurer-collector/faq/how-can-i-pay-my-real-estate-personal-property-excise-and-watersewer-tax [36775] -> "../data/townSites2/Saugus/www.saugus-ma.gov/treasurer-collector/faq/how-can-i-pay-my-real-estate-personal-property-excise-and-watersewer-tax" [1]
+2017-01-02 07:42:00 URL:http://www.saugus-ma.gov/treasurer-collector/faq/what-real-estate-tax-personal-property-tax-water-sewer-billing-schedule [41001] -> "../data/townSites2/Saugus/www.saugus-ma.gov/treasurer-collector/faq/what-real-estate-tax-personal-property-tax-water-sewer-billing-schedule" [1]
+2017-01-02 07:42:01 URL:http://www.saugus-ma.gov/treasurer-collector/faq/i-bought-property-year-why-former-owner-still-appearing-tax-bill [36639] -> "../data/townSites2/Saugus/www.saugus-ma.gov/treasurer-collector/faq/i-bought-property-year-why-former-owner-still-appearing-tax-bill" [1]
+2017-01-02 07:42:02 URL:http://www.saugus-ma.gov/treasurer-collector/faq/what-types-special-assessments-can-be-added-my-tax-bill [36930] -> "../data/townSites2/Saugus/www.saugus-ma.gov/treasurer-collector/faq/what-types-special-assessments-can-be-added-my-tax-bill" [1]
+2017-01-02 07:42:04 URL:http://www.saugus-ma.gov/treasurer-collector/faq/when-does-interest-accrue-unpaid-bills-1 [36494] -> "../data/townSites2/Saugus/www.saugus-ma.gov/treasurer-collector/faq/when-does-interest-accrue-unpaid-bills-1" [1]
+2017-01-02 07:42:05 URL:http://www.saugus-ma.gov/node/14/news [34058] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/14/news" [1]
+2017-01-02 07:42:06 URL:http://www.saugus-ma.gov/treasurer-collector/news/abandoned-property-list-2016 [39897] -> "../data/townSites2/Saugus/www.saugus-ma.gov/treasurer-collector/news/abandoned-property-list-2016" [1]
+2017-01-02 07:42:07 URL:http://www.saugus-ma.gov/treasurer-collector/news/water-usage-faqs-your-new-utility-invoice-higher-normal [38075] -> "../data/townSites2/Saugus/www.saugus-ma.gov/treasurer-collector/news/water-usage-faqs-your-new-utility-invoice-higher-normal" [1]
+2017-01-02 07:42:08 URL:http://www.saugus-ma.gov/treasurer-collector/news/water-sewer-demand-invoices-will-mail-11212016 [37214] -> "../data/townSites2/Saugus/www.saugus-ma.gov/treasurer-collector/news/water-sewer-demand-invoices-will-mail-11212016" [1]
+2017-01-02 07:42:09 URL:http://www.saugus-ma.gov/water-department [42743] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/39" [1]
+2017-01-02 07:42:10 URL:http://www.saugus-ma.gov/print/39 [9663] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/39" [1]
+2017-01-02 07:42:12 URL:http://www.saugus-ma.gov/user/45/contact [35773] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/45/contact" [1]
+2017-01-02 07:42:14 URL:http://www.saugus-ma.gov/user/44/contact [35787] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/44/contact" [1]
+2017-01-02 07:42:15 URL: http://www.saugus-ma.gov/node/39/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:42:17 URL:https://unipaygold.unibank.com/transactioninfo.aspx?TID=6625 [30169/30169] -> "../data/townSites2/Saugus/www.saugus-ma.gov/water-department/links/bill-pay" [1]
+2017-01-02 07:42:18 URL:http://www.saugus-ma.gov/water-department/pages/forms-fees [37872] -> "../data/townSites2/Saugus/www.saugus-ma.gov/water-department/pages/forms-fees" [1]
+2017-01-02 07:42:19 URL:http://www.mwra.com/comsupport/waterconservationmain.htm [28081/28081] -> "../data/townSites2/Saugus/www.saugus-ma.gov/water-department/links/water-conservation-kits" [1]
+2017-01-02 07:42:21 URL:http://www.saugus-ma.gov/water-department/pages/water-quality-reports [36667] -> "../data/townSites2/Saugus/www.saugus-ma.gov/water-department/pages/water-quality-reports" [1]
+2017-01-02 07:42:22 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/water_sewer_rate_chart_revised_07012016_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:42:23 URL:http://www.saugus-ma.gov/node/39/news [33367] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/39/news" [1]
+2017-01-02 07:42:24 URL:http://www.saugus-ma.gov/water-department/news/water-usage-faqs-your-water-bill-higher-normal [38266] -> "../data/townSites2/Saugus/www.saugus-ma.gov/water-department/news/water-usage-faqs-your-water-bill-higher-normal" [1]
+2017-01-02 07:42:25 URL:http://www.saugus-ma.gov/water-department/news/new-water-sewer-invoices-mailing-1052016 [37422] -> "../data/townSites2/Saugus/www.saugus-ma.gov/water-department/news/new-water-sewer-invoices-mailing-1052016" [1]
+2017-01-02 07:42:27 URL:http://www.saugus-ma.gov/youth-recreation [55513] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/40" [1]
+2017-01-02 07:42:28 URL:http://www.saugus-ma.gov/print/40 [9412] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/40" [1]
+2017-01-02 07:42:29 URL:http://www.saugus-ma.gov/people/crystal-cakounes [37662] -> "../data/townSites2/Saugus/www.saugus-ma.gov/people/crystal-cakounes" [1]
+2017-01-02 07:42:29 URL: http://www.saugus-ma.gov/node/40/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:42:31 URL:https://www.facebook.com/saugusyouthandrecreation [130800] -> "../data/townSites2/Saugus/www.saugus-ma.gov/youth-recreation/links/youth-recreation-facebook-page" [1]
+2017-01-02 07:42:33 URL:http://www.saugusyouthandrec.org/ [16820/16820] -> "../data/townSites2/Saugus/www.saugus-ma.gov/youth-recreation/links/youth-recreation-website" [1]
+2017-01-02 07:42:34 URL:http://www.saugus-ma.gov/node/40/events/month [52083] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/40/events/month" [1]
+2017-01-02 07:42:36 URL:http://www.saugus-ma.gov/node/40/events/month/2017-01 [52140] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/40/events/month/2017-01" [1]
+2017-01-02 07:42:37 URL:http://www.saugus-ma.gov/node/40/agenda [31865] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/40/agenda" [1]
+2017-01-02 07:42:39 URL:http://www.saugus-ma.gov/youth-recreation/agenda/saugus-youth-commission [36831] -> "../data/townSites2/Saugus/www.saugus-ma.gov/youth-recreation/agenda/saugus-youth-commission" [1]
+2017-01-02 07:42:40 URL:http://www.saugus-ma.gov/county-boards [37076] -> "../data/townSites2/Saugus/www.saugus-ma.gov/county-boards" [1]
+2017-01-02 07:42:41 URL:http://www.saugus-ma.gov/affordable-housing-trust [66719] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/41" [1]
+2017-01-02 07:42:43 URL:http://www.saugus-ma.gov/print/41 [22267] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/41" [1]
+2017-01-02 07:42:43 URL: http://www.saugus-ma.gov/node/41/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:42:45 URL:http://www.saugus-ma.gov/affordable-housing-trust/pages/history [35688] -> "../data/townSites2/Saugus/www.saugus-ma.gov/affordable-housing-trust/pages/history" [1]
+2017-01-02 07:42:46 URL:http://www.mass.gov/hed/housing/ [57181] -> "../data/townSites2/Saugus/www.saugus-ma.gov/affordable-housing-trust/links/housing-and-economic-development" [1]
+2017-01-02 07:42:47 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/saugus_accessory_dwelling_bylaw_draft.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:42:48 URL:http://www.saugus-ma.gov/node/41/events/month [52257] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/41/events/month" [1]
+2017-01-02 07:42:49 URL:http://www.saugus-ma.gov/node/41/events/month/2017-01 [52314] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/41/events/month/2017-01" [1]
+2017-01-02 07:42:51 URL:http://www.saugus-ma.gov/node/41/agenda [32031] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/41/agenda" [1]
+2017-01-02 07:42:52 URL:http://www.saugus-ma.gov/affordable-housing-trust/agenda/saugus-affordable-housing-trust-meeting-8-29-2016 [35674] -> "../data/townSites2/Saugus/www.saugus-ma.gov/affordable-housing-trust/agenda/saugus-affordable-housing-trust-meeting-8-29-2016" [1]
+2017-01-02 07:42:53 URL:http://www.saugus-ma.gov/alternative-energy-committee [42385] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/42" [1]
+2017-01-02 07:42:54 URL:http://www.saugus-ma.gov/print/42 [11352] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/42" [1]
+2017-01-02 07:42:55 URL: http://www.saugus-ma.gov/node/42/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:42:56 URL:http://www.saugus-ma.gov/ballard-school-council [48511] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/4083" [1]
+2017-01-02 07:42:57 URL:http://www.saugus-ma.gov/print/4083 [6104] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/4083" [1]
+2017-01-02 07:42:57 URL: http://www.saugus-ma.gov/node/4083/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:42:59 URL:http://www.saugus-ma.gov/node/4083/events/month [51360] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/4083/events/month" [1]
+2017-01-02 07:43:00 URL:http://www.saugus-ma.gov/node/4083/events/month/2017-01 [51417] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/4083/events/month/2017-01" [1]
+2017-01-02 07:43:01 URL:http://www.saugus-ma.gov/node/4083/agenda [31114] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/4083/agenda" [1]
+2017-01-02 07:43:02 URL:http://www.saugus-ma.gov/ballard-school-council/agenda/ballard-school-council-0 [34526] -> "../data/townSites2/Saugus/www.saugus-ma.gov/ballard-school-council/agenda/ballard-school-council-0" [1]
+2017-01-02 07:43:04 URL:http://www.saugus-ma.gov/ballard-school-council/agenda/ballard-school-council [34549] -> "../data/townSites2/Saugus/www.saugus-ma.gov/ballard-school-council/agenda/ballard-school-council" [1]
+2017-01-02 07:43:05 URL:http://www.saugus-ma.gov/belmonte-middle-school-building-council [37254] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/5903" [1]
+2017-01-02 07:43:06 URL:http://www.saugus-ma.gov/print/5903 [6240] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/5903" [1]
+2017-01-02 07:43:06 URL: http://www.saugus-ma.gov/node/5903/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:43:07 URL:http://www.saugus-ma.gov/board-appeals [66247] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/43" [1]
+2017-01-02 07:43:09 URL:http://www.saugus-ma.gov/print/43 [18753] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/43" [1]
+2017-01-02 07:43:10 URL:http://www.saugus-ma.gov/user/37/contact [35775] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/37/contact" [1]
+2017-01-02 07:43:12 URL:http://www.saugus-ma.gov/user/39/contact [35793] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/39/contact" [1]
+2017-01-02 07:43:12 URL: http://www.saugus-ma.gov/node/43/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:43:13 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/2015_zoning_board_of_appeals_member_list.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:43:15 URL:http://www.saugus-ma.gov/node/43/events/month [51901] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/43/events/month" [1]
+2017-01-02 07:43:16 URL:http://www.saugus-ma.gov/node/43/events/month/2017-01 [51958] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/43/events/month/2017-01" [1]
+2017-01-02 07:43:17 URL:http://www.saugus-ma.gov/node/43/agenda [31691] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/43/agenda" [1]
+2017-01-02 07:43:18 URL:http://www.saugus-ma.gov/board-appeals/agenda/zoning-board-appeals-12-27-16 [36903] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-appeals/agenda/zoning-board-appeals-12-27-16" [1]
+2017-01-02 07:43:19 URL:http://www.saugus-ma.gov/board-appeals/agenda/town-saugus-zoning-board-appeals [36907] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-appeals/agenda/town-saugus-zoning-board-appeals" [1]
+2017-01-02 07:43:21 URL:http://www.saugus-ma.gov/board-appeals/agenda/zoning-board-appeals-0 [36539] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-appeals/agenda/zoning-board-appeals-0" [1]
+2017-01-02 07:43:22 URL:http://www.saugus-ma.gov/board-appeals/agenda/zoning-board-appeals-1 [36831] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-appeals/agenda/zoning-board-appeals-1" [1]
+2017-01-02 07:43:23 URL:http://www.saugus-ma.gov/board-appeals/agenda/zoning-board-appeals-meeting-9-22-16 [36891] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-appeals/agenda/zoning-board-appeals-meeting-9-22-16" [1]
+2017-01-02 07:43:24 URL:http://www.saugus-ma.gov/board-assessors [55373] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/44" [1]
+2017-01-02 07:43:25 URL:http://www.saugus-ma.gov/print/44 [10537] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/44" [1]
+2017-01-02 07:43:26 URL: http://www.saugus-ma.gov/node/44/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:43:27 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/fy_2012_annual_report_-_board_of_assessors.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:43:28 URL:http://www.saugus-ma.gov/node/44/events/month [51892] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/44/events/month" [1]
+2017-01-02 07:43:29 URL:http://www.saugus-ma.gov/node/44/events/month/2017-01 [51949] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/44/events/month/2017-01" [1]
+2017-01-02 07:43:30 URL:http://www.saugus-ma.gov/node/44/agenda [31678] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/44/agenda" [1]
+2017-01-02 07:43:32 URL:http://www.saugus-ma.gov/board-assessors/agenda/board-assersors [35069] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-assessors/agenda/board-assersors" [1]
+2017-01-02 07:43:33 URL:http://www.saugus-ma.gov/board-assessors/agenda/board-assessors-1 [35919] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-assessors/agenda/board-assessors-1" [1]
+2017-01-02 07:43:34 URL:http://www.saugus-ma.gov/board-assessors/agenda/board-assessors-meeting-12-7-16 [35929] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-assessors/agenda/board-assessors-meeting-12-7-16" [1]
+2017-01-02 07:43:35 URL:http://www.saugus-ma.gov/board-assessors/agenda/board-assessors-3 [35073] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-assessors/agenda/board-assessors-3" [1]
+2017-01-02 07:43:37 URL:http://www.saugus-ma.gov/board-assessors/agenda/board-assessors-4 [35615] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-assessors/agenda/board-assessors-4" [1]
+2017-01-02 07:43:38 URL:http://www.saugus-ma.gov/board-registrars [56203] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/45" [1]
+2017-01-02 07:43:39 URL:http://www.saugus-ma.gov/print/45 [12130] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/45" [1]
+2017-01-02 07:43:39 URL: http://www.saugus-ma.gov/node/45/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:43:41 URL:http://www.saugus-ma.gov/node/45/events/month [51298] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/45/events/month" [1]
+2017-01-02 07:43:42 URL:http://www.saugus-ma.gov/node/45/events/month/2017-01 [51355] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/45/events/month/2017-01" [1]
+2017-01-02 07:43:43 URL:http://www.saugus-ma.gov/node/45/agenda [31082] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/45/agenda" [1]
+2017-01-02 07:43:44 URL:http://www.saugus-ma.gov/board-registrars/agenda/board-registrars-meeting [34532] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-registrars/agenda/board-registrars-meeting" [1]
+2017-01-02 07:43:46 URL:http://www.saugus-ma.gov/board-registrars/agenda/board-regisrars-meeting [34509] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-registrars/agenda/board-regisrars-meeting" [1]
+2017-01-02 07:43:47 URL:http://www.saugus-ma.gov/board-registrars/agenda/test-deck-sept-8-2016-election [34532] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-registrars/agenda/test-deck-sept-8-2016-election" [1]
+2017-01-02 07:43:48 URL:http://www.saugus-ma.gov/board-registrars/agenda/board-registrars-meeting-8-19-2016 [34552] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-registrars/agenda/board-registrars-meeting-8-19-2016" [1]
+2017-01-02 07:43:49 URL:http://www.saugus-ma.gov/board-selectmen [68868] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/46" [1]
+2017-01-02 07:43:51 URL:http://www.saugus-ma.gov/print/46 [15315] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/46" [1]
+2017-01-02 07:43:52 URL:http://www.saugus-ma.gov/user/104/contact [35846] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/104/contact" [1]
+2017-01-02 07:43:54 URL:http://www.saugus-ma.gov/user/64/contact [35763] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/64/contact" [1]
+2017-01-02 07:43:56 URL:http://www.saugus-ma.gov/user/66/contact [35781] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/66/contact" [1]
+2017-01-02 07:43:58 URL:http://www.saugus-ma.gov/user/67/contact [35773] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/67/contact" [1]
+2017-01-02 07:43:59 URL:http://www.saugus-ma.gov/user/69/contact [35775] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/69/contact" [1]
+2017-01-02 07:44:01 URL:http://www.saugus-ma.gov/user/70/contact [35787] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/70/contact" [1]
+2017-01-02 07:44:02 URL:http://www.saugus-ma.gov/user/68/contact [35787] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/68/contact" [1]
+2017-01-02 07:44:04 URL: http://www.saugus-ma.gov/node/46/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:44:05 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/comcast_contract.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:44:06 URL:http://www.saugus-ma.gov/board-selectmen/pages/forms-applications [37002] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-selectmen/pages/forms-applications" [1]
+2017-01-02 07:44:07 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/general_bylaws.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:44:09 URL:http://www.saugus-ma.gov/node/46/news [35337] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/46/news" [1]
+2017-01-02 07:44:10 URL:http://www.saugus-ma.gov/board-selectmen/news/cultural-council-0 [36608] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-selectmen/news/cultural-council-0" [1]
+2017-01-02 07:44:11 URL:http://www.saugus-ma.gov/board-selectmen/news/selectmen-meeting-schedule-2017 [36645] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-selectmen/news/selectmen-meeting-schedule-2017" [1]
+2017-01-02 07:44:13 URL:http://www.saugus-ma.gov/board-selectmen/news/cultural-council [36546] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-selectmen/news/cultural-council" [1]
+2017-01-02 07:44:14 URL:http://www.saugus-ma.gov/board-selectmen/news/cemetery-commission [36563] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-selectmen/news/cemetery-commission" [1]
+2017-01-02 07:44:15 URL:http://www.saugus-ma.gov/board-selectmen/news/affordable-housing-trust-board-trustees [36671] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-selectmen/news/affordable-housing-trust-board-trustees" [1]
+2017-01-02 07:44:17 URL:http://www.saugus-ma.gov/node/46/events/month [61533] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/46/events/month" [1]
+2017-01-02 07:44:18 URL:http://www.saugus-ma.gov/node/46/events/day/2017-01-04 [35591] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/46/events/day/2017-01-04" [1]
+2017-01-02 07:44:19 URL:http://www.saugus-ma.gov/node/46/events/day/2017-01-18 [35594] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/46/events/day/2017-01-18" [1]
+2017-01-02 07:44:21 URL:http://www.saugus-ma.gov/node/46/events/month/2017-01 [61586] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/46/events/month/2017-01" [1]
+2017-01-02 07:44:22 URL:http://www.saugus-ma.gov/node/46/agenda [32040] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/46/agenda" [1]
+2017-01-02 07:44:23 URL:http://www.saugus-ma.gov/board-selectmen/agenda/board-selectmen-1 [37117] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-selectmen/agenda/board-selectmen-1" [1]
+2017-01-02 07:44:25 URL:http://www.saugus-ma.gov/board-selectmen/agenda/board-selectmen-meeting-12-7-2016 [37224] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-selectmen/agenda/board-selectmen-meeting-12-7-2016" [1]
+2017-01-02 07:44:26 URL:http://www.saugus-ma.gov/board-selectmen/agenda/board-selectmen-0 [37154] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-selectmen/agenda/board-selectmen-0" [1]
+2017-01-02 07:44:27 URL:http://www.saugus-ma.gov/board-selectmen/agenda/saugus-board-selectmen-1 [36886] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-selectmen/agenda/saugus-board-selectmen-1" [1]
+2017-01-02 07:44:29 URL:http://www.saugus-ma.gov/board-selectmen/agenda/board-selectmen-meeting-11-9-2016 [37202] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-selectmen/agenda/board-selectmen-meeting-11-9-2016" [1]
+2017-01-02 07:44:30 URL:http://www.saugus-ma.gov/node/46/minutes [32048] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/46/minutes" [1]
+2017-01-02 07:44:31 URL: http://www.saugus-ma.gov/sites/saugusma/files/minutes/11-09-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:44:32 URL: http://www.saugus-ma.gov/sites/saugusma/files/minutes/10-19-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:44:33 URL: http://www.saugus-ma.gov/sites/saugusma/files/minutes/10-05-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:44:34 URL: http://www.saugus-ma.gov/sites/saugusma/files/minutes/09-21-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:44:35 URL: http://www.saugus-ma.gov/sites/saugusma/files/minutes/09-07-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:44:36 URL:http://www.saugus-ma.gov/boats-waterways-commission [43460] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/47" [1]
+2017-01-02 07:44:37 URL:http://www.saugus-ma.gov/print/47 [12429] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/47" [1]
+2017-01-02 07:44:38 URL: http://www.saugus-ma.gov/node/47/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:44:39 URL:http://www.saugus-ma.gov/building-committee [39833] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/48" [1]
+2017-01-02 07:44:40 URL:http://www.saugus-ma.gov/print/48 [8111] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/48" [1]
+2017-01-02 07:44:40 URL: http://www.saugus-ma.gov/node/48/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:44:41 URL:http://www.saugus-ma.gov/cemetery-commission [54656] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/50" [1]
+2017-01-02 07:44:43 URL:http://www.saugus-ma.gov/print/50 [12988] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/50" [1]
+2017-01-02 07:44:43 URL: http://www.saugus-ma.gov/node/50/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:44:45 URL:http://www.saugus-ma.gov/node/50/news [31396] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/50/news" [1]
+2017-01-02 07:44:46 URL:http://www.saugus-ma.gov/cemetery-commission/news/cemetery-commission-positions [33886] -> "../data/townSites2/Saugus/www.saugus-ma.gov/cemetery-commission/news/cemetery-commission-positions" [1]
+2017-01-02 07:44:47 URL:http://www.saugus-ma.gov/node/50/events/month [51301] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/50/events/month" [1]
+2017-01-02 07:44:49 URL:http://www.saugus-ma.gov/node/50/events/month/2017-01 [51358] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/50/events/month/2017-01" [1]
+2017-01-02 07:44:50 URL:http://www.saugus-ma.gov/node/50/agenda [31085] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/50/agenda" [1]
+2017-01-02 07:44:51 URL:http://www.saugus-ma.gov/cemetery-commission/agenda/cemetery-commission-meeting [34540] -> "../data/townSites2/Saugus/www.saugus-ma.gov/cemetery-commission/agenda/cemetery-commission-meeting" [1]
+2017-01-02 07:44:52 URL:http://www.saugus-ma.gov/cemetery-commission/agenda/cemetery-commission [34517] -> "../data/townSites2/Saugus/www.saugus-ma.gov/cemetery-commission/agenda/cemetery-commission" [1]
+2017-01-02 07:44:54 URL:http://www.saugus-ma.gov/cemetery-commission/agenda/cemetery-commission-meeting-8-22-2016 [34565] -> "../data/townSites2/Saugus/www.saugus-ma.gov/cemetery-commission/agenda/cemetery-commission-meeting-8-22-2016" [1]
+2017-01-02 07:44:55 URL:http://www.saugus-ma.gov/commission-disability [43229] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/51" [1]
+2017-01-02 07:44:56 URL:http://www.saugus-ma.gov/print/51 [10977] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/51" [1]
+2017-01-02 07:44:57 URL:http://www.saugus-ma.gov/user/38/contact [35773] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/38/contact" [1]
+2017-01-02 07:44:58 URL: http://www.saugus-ma.gov/node/51/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:45:00 URL:http://www.saugus-ma.gov/commission-disability/pages/helpful-links [35773] -> "../data/townSites2/Saugus/www.saugus-ma.gov/commission-disability/pages/helpful-links" [1]
+2017-01-02 07:45:01 URL:http://www.saugus-ma.gov/conservation-commission [64067] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/52" [1]
+2017-01-02 07:45:02 URL:http://www.saugus-ma.gov/print/52 [15554] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/52" [1]
+2017-01-02 07:45:04 URL:http://www.saugus-ma.gov/user/40/contact [35789] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/40/contact" [1]
+2017-01-02 07:45:06 URL:http://www.saugus-ma.gov/user/41/contact [35805] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/41/contact" [1]
+2017-01-02 07:45:07 URL: http://www.saugus-ma.gov/node/52/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:45:08 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/saugus_bylaw_-pdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:45:09 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/wetland_fees.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:45:11 URL:http://www.saugus-ma.gov/node/52/events/month [52054] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/52/events/month" [1]
+2017-01-02 07:45:13 URL:http://www.saugus-ma.gov/node/52/events/month/2017-01 [52111] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/52/events/month/2017-01" [1]
+2017-01-02 07:45:14 URL:http://www.saugus-ma.gov/node/52/agenda [31830] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/52/agenda" [1]
+2017-01-02 07:45:16 URL:http://www.saugus-ma.gov/conservation-commission/agenda/conservation-commission-3 [36840] -> "../data/townSites2/Saugus/www.saugus-ma.gov/conservation-commission/agenda/conservation-commission-3" [1]
+2017-01-02 07:45:17 URL:http://www.saugus-ma.gov/conservation-commission/agenda/conservation-commission-2 [36886] -> "../data/townSites2/Saugus/www.saugus-ma.gov/conservation-commission/agenda/conservation-commission-2" [1]
+2017-01-02 07:45:19 URL:http://www.saugus-ma.gov/conservation-commission/agenda/conservation-commission-meeting-10-26-2016 [36967] -> "../data/townSites2/Saugus/www.saugus-ma.gov/conservation-commission/agenda/conservation-commission-meeting-10-26-2016" [1]
+2017-01-02 07:45:20 URL:http://www.saugus-ma.gov/conservation-commission/agenda/conservation-commission-mtg-10-12-2016 [36944] -> "../data/townSites2/Saugus/www.saugus-ma.gov/conservation-commission/agenda/conservation-commission-mtg-10-12-2016" [1]
+2017-01-02 07:45:22 URL:http://www.saugus-ma.gov/conservation-commission/agenda/conservation-commission-1 [36868] -> "../data/townSites2/Saugus/www.saugus-ma.gov/conservation-commission/agenda/conservation-commission-1" [1]
+2017-01-02 07:45:23 URL:http://www.saugus-ma.gov/council-aging [65078] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/53" [1]
+2017-01-02 07:45:25 URL:http://www.saugus-ma.gov/print/53 [18295] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/53" [1]
+2017-01-02 07:45:26 URL: http://www.saugus-ma.gov/node/53/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:45:27 URL:http://www.saugus-ma.gov/node/53/events/month [55740] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/53/events/month" [1]
+2017-01-02 07:45:29 URL:http://www.saugus-ma.gov/node/53/events/day/2017-01-09 [34593] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/53/events/day/2017-01-09" [1]
+2017-01-02 07:45:30 URL:http://www.saugus-ma.gov/node/53/events/month/2017-01 [55797] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/53/events/month/2017-01" [1]
+2017-01-02 07:45:31 URL:http://www.saugus-ma.gov/node/53/agenda [31133] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/53/agenda" [1]
+2017-01-02 07:45:33 URL:http://www.saugus-ma.gov/council-aging/agenda/council-aging-0 [36187] -> "../data/townSites2/Saugus/www.saugus-ma.gov/council-aging/agenda/council-aging-0" [1]
+2017-01-02 07:45:34 URL:http://www.saugus-ma.gov/council-aging/agenda/council-aging [36185] -> "../data/townSites2/Saugus/www.saugus-ma.gov/council-aging/agenda/council-aging" [1]
+2017-01-02 07:45:35 URL:http://www.saugus-ma.gov/council-aging/agenda/council-aging-meeting-11-14-2016 [36274] -> "../data/townSites2/Saugus/www.saugus-ma.gov/council-aging/agenda/council-aging-meeting-11-14-2016" [1]
+2017-01-02 07:45:37 URL:http://www.saugus-ma.gov/council-aging/agenda/council-aging-mtg-10-17-2016 [36252] -> "../data/townSites2/Saugus/www.saugus-ma.gov/council-aging/agenda/council-aging-mtg-10-17-2016" [1]
+2017-01-02 07:45:38 URL:http://www.saugus-ma.gov/council-aging/agenda/council-aging-meeting [36208] -> "../data/townSites2/Saugus/www.saugus-ma.gov/council-aging/agenda/council-aging-meeting" [1]
+2017-01-02 07:45:39 URL:http://www.saugus-ma.gov/cultural-council [58488] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/54" [1]
+2017-01-02 07:45:40 URL:http://www.saugus-ma.gov/print/54 [14911] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/54" [1]
+2017-01-02 07:45:41 URL: http://www.saugus-ma.gov/node/54/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:45:42 URL:http://www.saugus-ma.gov/node/54/events/month [55837] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/54/events/month" [1]
+2017-01-02 07:45:43 URL:http://www.saugus-ma.gov/node/54/events/day/2017-01-04 [34609] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/54/events/day/2017-01-04" [1]
+2017-01-02 07:45:45 URL:http://www.saugus-ma.gov/node/54/events/month/2017-01 [55894] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/54/events/month/2017-01" [1]
+2017-01-02 07:45:46 URL:http://www.saugus-ma.gov/node/54/agenda [31136] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/54/agenda" [1]
+2017-01-02 07:45:47 URL:http://www.saugus-ma.gov/cultural-council/agenda/saugus-cultural-council [34520] -> "../data/townSites2/Saugus/www.saugus-ma.gov/cultural-council/agenda/saugus-cultural-council" [1]
+2017-01-02 07:45:49 URL:http://www.saugus-ma.gov/cultural-council/agenda/cultural-council-meeting [34513] -> "../data/townSites2/Saugus/www.saugus-ma.gov/cultural-council/agenda/cultural-council-meeting" [1]
+2017-01-02 07:45:50 URL:http://www.saugus-ma.gov/cultural-council/agenda/massachusetts-cultural-council [34544] -> "../data/townSites2/Saugus/www.saugus-ma.gov/cultural-council/agenda/massachusetts-cultural-council" [1]
+2017-01-02 07:45:51 URL:http://www.saugus-ma.gov/finance-committee [63020] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/55" [1]
+2017-01-02 07:45:52 URL:http://www.saugus-ma.gov/print/55 [17331] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/55" [1]
+2017-01-02 07:45:53 URL: http://www.saugus-ma.gov/node/55/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:45:55 URL:http://www.saugus-ma.gov/finance-committee/pages/atm-documents [35433] -> "../data/townSites2/Saugus/www.saugus-ma.gov/finance-committee/pages/atm-documents" [1]
+2017-01-02 07:45:55 URL:http://www.saugus-ma.gov/finance-committee/pages/budget-reports [35449] -> "../data/townSites2/Saugus/www.saugus-ma.gov/finance-committee/pages/budget-reports" [1]
+2017-01-02 07:45:57 URL:http://www.saugus-ma.gov/finance-committee/pages/meeting-minutes [34342] -> "../data/townSites2/Saugus/www.saugus-ma.gov/finance-committee/pages/meeting-minutes" [1]
+2017-01-02 07:45:58 URL:http://www.saugus-ma.gov/finance-committee/pages/stm-documents [35566] -> "../data/townSites2/Saugus/www.saugus-ma.gov/finance-committee/pages/stm-documents" [1]
+2017-01-02 07:46:00 URL:http://www.saugus-ma.gov/node/55/events/month [57025] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/55/events/month" [1]
+2017-01-02 07:46:01 URL:http://www.saugus-ma.gov/node/55/events/day/2017-01-04 [35587] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/55/events/day/2017-01-04" [1]
+2017-01-02 07:46:03 URL:http://www.saugus-ma.gov/node/55/events/month/2017-01 [57082] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/55/events/month/2017-01" [1]
+2017-01-02 07:46:04 URL:http://www.saugus-ma.gov/node/55/agenda [32090] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/55/agenda" [1]
+2017-01-02 07:46:05 URL:http://www.saugus-ma.gov/finance-committee/agenda/saugus-school-committee-finance-sub-committee [35684] -> "../data/townSites2/Saugus/www.saugus-ma.gov/finance-committee/agenda/saugus-school-committee-finance-sub-committee" [1]
+2017-01-02 07:46:07 URL:http://www.saugus-ma.gov/finance-committee/agenda/finance-committee-meeting [35528] -> "../data/townSites2/Saugus/www.saugus-ma.gov/finance-committee/agenda/finance-committee-meeting" [1]
+2017-01-02 07:46:08 URL:http://www.saugus-ma.gov/finance-committee/agenda/finance-committee-meeting-9-14-2016 [35565] -> "../data/townSites2/Saugus/www.saugus-ma.gov/finance-committee/agenda/finance-committee-meeting-9-14-2016" [1]
+2017-01-02 07:46:09 URL:http://www.saugus-ma.gov/high-school-project-building-committee [55631] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/1111" [1]
+2017-01-02 07:46:10 URL:http://www.saugus-ma.gov/print/1111 [8159] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/1111" [1]
+2017-01-02 07:46:11 URL: http://www.saugus-ma.gov/node/1111/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:46:12 URL:http://www.saugus-ma.gov/town-managers-office/pages/msba-saugus-high-school-project [38116] -> "../data/townSites2/Saugus/www.saugus-ma.gov/high-school-project-building-committee/links/msba-saugus-high-school-project" [1]
+2017-01-02 07:46:13 URL:http://www.saugus-ma.gov/node/1111/events/month [52115] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/1111/events/month" [1]
+2017-01-02 07:46:15 URL:http://www.saugus-ma.gov/node/1111/events/month/2017-01 [52172] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/1111/events/month/2017-01" [1]
+2017-01-02 07:46:16 URL:http://www.saugus-ma.gov/node/1111/agenda [31837] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/1111/agenda" [1]
+2017-01-02 07:46:17 URL:http://www.saugus-ma.gov/high-school-project-building-committee/agenda/saugus-high-school-project-building-committee-meeting [37034] -> "../data/townSites2/Saugus/www.saugus-ma.gov/high-school-project-building-committee/agenda/saugus-high-school-project-building-committee-meeting" [1]
+2017-01-02 07:46:19 URL:http://www.saugus-ma.gov/high-school-project-building-committee/agenda/saugus-high-school-project-building-committee-2 [36990] -> "../data/townSites2/Saugus/www.saugus-ma.gov/high-school-project-building-committee/agenda/saugus-high-school-project-building-committee-2" [1]
+2017-01-02 07:46:20 URL:http://www.saugus-ma.gov/high-school-project-building-committee/agenda/high-school-project-building-committee-meeting-11-7 [36970] -> "../data/townSites2/Saugus/www.saugus-ma.gov/high-school-project-building-committee/agenda/high-school-project-building-committee-meeting-11-7" [1]
+2017-01-02 07:46:21 URL:http://www.saugus-ma.gov/high-school-project-building-committee/agenda/high-school-project-building-commitee [36938] -> "../data/townSites2/Saugus/www.saugus-ma.gov/high-school-project-building-committee/agenda/high-school-project-building-commitee" [1]
+2017-01-02 07:46:22 URL:http://www.saugus-ma.gov/high-school-project-building-committee/agenda/high-school-project-building-committee-meeting-9-12 [37022] -> "../data/townSites2/Saugus/www.saugus-ma.gov/high-school-project-building-committee/agenda/high-school-project-building-committee-meeting-9-12" [1]
+2017-01-02 07:46:23 URL:http://www.saugus-ma.gov/historical-commission [62718] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/56" [1]
+2017-01-02 07:46:24 URL:http://www.saugus-ma.gov/print/56 [15636] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/56" [1]
+2017-01-02 07:46:25 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/cultural_resources_inventory.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:46:26 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/demolition_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:46:27 URL: http://www.saugus-ma.gov/node/56/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:46:28 URL:http://www.saugus-ma.gov/node/56/events/month [56042] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/56/events/month" [1]
+2017-01-02 07:46:30 URL:http://www.saugus-ma.gov/node/56/events/day/2017-01-09 [34654] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/56/events/day/2017-01-09" [1]
+2017-01-02 07:46:31 URL:http://www.saugus-ma.gov/node/56/events/month/2017-01 [56099] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/56/events/month/2017-01" [1]
+2017-01-02 07:46:32 URL:http://www.saugus-ma.gov/node/56/agenda [31161] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/56/agenda" [1]
+2017-01-02 07:46:33 URL:http://www.saugus-ma.gov/historical-commission/agenda/historical-commission-meeting-1-9-17 [34607] -> "../data/townSites2/Saugus/www.saugus-ma.gov/historical-commission/agenda/historical-commission-meeting-1-9-17" [1]
+2017-01-02 07:46:35 URL:http://www.saugus-ma.gov/historical-commission/agenda/historical-commission-1 [34508] -> "../data/townSites2/Saugus/www.saugus-ma.gov/historical-commission/agenda/historical-commission-1" [1]
+2017-01-02 07:46:36 URL:http://www.saugus-ma.gov/historical-commission/agenda/historical-commission-0 [34544] -> "../data/townSites2/Saugus/www.saugus-ma.gov/historical-commission/agenda/historical-commission-0" [1]
+2017-01-02 07:46:37 URL:http://www.saugus-ma.gov/historical-commission/agenda/historical-commission-mtg-10-17-16 [34583] -> "../data/townSites2/Saugus/www.saugus-ma.gov/historical-commission/agenda/historical-commission-mtg-10-17-16" [1]
+2017-01-02 07:46:39 URL:http://www.saugus-ma.gov/historical-commission/agenda/historical-commission [34529] -> "../data/townSites2/Saugus/www.saugus-ma.gov/historical-commission/agenda/historical-commission" [1]
+2017-01-02 07:46:40 URL:http://www.saugus-ma.gov/library-board-trustees [51656] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/58" [1]
+2017-01-02 07:46:41 URL:http://www.saugus-ma.gov/print/58 [7430] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/58" [1]
+2017-01-02 07:46:41 URL: http://www.saugus-ma.gov/node/58/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:46:43 URL:http://www.saugus-ma.gov/node/58/events/month [51340] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/58/events/month" [1]
+2017-01-02 07:46:44 URL:http://www.saugus-ma.gov/node/58/events/month/2017-01 [51397] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/58/events/month/2017-01" [1]
+2017-01-02 07:46:45 URL:http://www.saugus-ma.gov/node/58/agenda [31112] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/58/agenda" [1]
+2017-01-02 07:46:46 URL:http://www.saugus-ma.gov/library-board-trustees/agenda/saugus-public-library-board-trustee [36329] -> "../data/townSites2/Saugus/www.saugus-ma.gov/library-board-trustees/agenda/saugus-public-library-board-trustee" [1]
+2017-01-02 07:46:48 URL:http://www.saugus-ma.gov/library-board-trustees/agenda/saugus-public-library-board-trustees-0 [36335] -> "../data/townSites2/Saugus/www.saugus-ma.gov/library-board-trustees/agenda/saugus-public-library-board-trustees-0" [1]
+2017-01-02 07:46:49 URL:http://www.saugus-ma.gov/library-board-trustees/agenda/libary-board-trustees [36298] -> "../data/townSites2/Saugus/www.saugus-ma.gov/library-board-trustees/agenda/libary-board-trustees" [1]
+2017-01-02 07:46:51 URL:http://www.saugus-ma.gov/library-board-trustees/agenda/saugus-public-library-board-trustees [36365] -> "../data/townSites2/Saugus/www.saugus-ma.gov/library-board-trustees/agenda/saugus-public-library-board-trustees" [1]
+2017-01-02 07:46:51 URL:http://www.saugus-ma.gov/lynnhurst-school-site-council [48597] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/6063" [1]
+2017-01-02 07:46:52 URL:http://www.saugus-ma.gov/print/6063 [6164] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/6063" [1]
+2017-01-02 07:46:53 URL: http://www.saugus-ma.gov/node/6063/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:46:54 URL:http://www.saugus-ma.gov/node/6063/events/month [51414] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/6063/events/month" [1]
+2017-01-02 07:46:55 URL:http://www.saugus-ma.gov/node/6063/events/month/2017-01 [51471] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/6063/events/month/2017-01" [1]
+2017-01-02 07:46:57 URL:http://www.saugus-ma.gov/node/6063/agenda [31153] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/6063/agenda" [1]
+2017-01-02 07:46:58 URL:http://www.saugus-ma.gov/lynnhurst-school-site-council/agenda/lynnhurst-school-council-meeting [34637] -> "../data/townSites2/Saugus/www.saugus-ma.gov/lynnhurst-school-site-council/agenda/lynnhurst-school-council-meeting" [1]
+2017-01-02 07:46:59 URL:http://www.saugus-ma.gov/lynnhurst-school-site-council/agenda/lynnhurst-school-ssc [34621] -> "../data/townSites2/Saugus/www.saugus-ma.gov/lynnhurst-school-site-council/agenda/lynnhurst-school-ssc" [1]
+2017-01-02 07:47:00 URL:http://www.saugus-ma.gov/planning-board [64801] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/59" [1]
+2017-01-02 07:47:02 URL:http://www.saugus-ma.gov/print/59 [17227] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/59" [1]
+2017-01-02 07:47:03 URL:http://www.saugus-ma.gov/user/33/contact [35765] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/33/contact" [1]
+2017-01-02 07:47:04 URL: http://www.saugus-ma.gov/node/59/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:47:05 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/subdivision_rules_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:47:06 URL:http://www.saugus-ma.gov/node/59/events/month [51888] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/59/events/month" [1]
+2017-01-02 07:47:08 URL:http://www.saugus-ma.gov/node/59/events/month/2017-01 [51945] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/59/events/month/2017-01" [1]
+2017-01-02 07:47:09 URL:http://www.saugus-ma.gov/node/59/agenda [31682] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/59/agenda" [1]
+2017-01-02 07:47:10 URL:http://www.saugus-ma.gov/planning-board/agenda/planning-board-4 [36659] -> "../data/townSites2/Saugus/www.saugus-ma.gov/planning-board/agenda/planning-board-4" [1]
+2017-01-02 07:47:11 URL:http://www.saugus-ma.gov/planning-board/agenda/planning-board-3 [36657] -> "../data/townSites2/Saugus/www.saugus-ma.gov/planning-board/agenda/planning-board-3" [1]
+2017-01-02 07:47:13 URL:http://www.saugus-ma.gov/planning-board/agenda/planning-board-2 [36691] -> "../data/townSites2/Saugus/www.saugus-ma.gov/planning-board/agenda/planning-board-2" [1]
+2017-01-02 07:47:14 URL:http://www.saugus-ma.gov/planning-board/agenda/planning-board-1 [36375] -> "../data/townSites2/Saugus/www.saugus-ma.gov/planning-board/agenda/planning-board-1" [1]
+2017-01-02 07:47:15 URL:http://www.saugus-ma.gov/planning-board/agenda/planning-board-0 [36655] -> "../data/townSites2/Saugus/www.saugus-ma.gov/planning-board/agenda/planning-board-0" [1]
+2017-01-02 07:47:16 URL:http://www.saugus-ma.gov/retirement-board [62165] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/60" [1]
+2017-01-02 07:47:17 URL:http://www.saugus-ma.gov/print/60 [13618] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/60" [1]
+2017-01-02 07:47:19 URL:http://www.saugus-ma.gov/user/75/contact [35783] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/75/contact" [1]
+2017-01-02 07:47:21 URL:http://www.saugus-ma.gov/user/76/contact [35799] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/76/contact" [1]
+2017-01-02 07:47:22 URL: http://www.saugus-ma.gov/node/60/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:47:23 URL:http://www.saugus-ma.gov/retirement-board/pages/active-member-forms [37040] -> "../data/townSites2/Saugus/www.saugus-ma.gov/retirement-board/pages/active-member-forms" [1]
+2017-01-02 07:47:24 URL:http://www.saugus-ma.gov/retirement-board/pages/election-results [36981] -> "../data/townSites2/Saugus/www.saugus-ma.gov/retirement-board/pages/election-results" [1]
+2017-01-02 07:47:26 URL:http://www.saugus-ma.gov/retirement-board/pages/helpful-links [36871] -> "../data/townSites2/Saugus/www.saugus-ma.gov/retirement-board/pages/helpful-links" [1]
+2017-01-02 07:47:27 URL:http://www.saugus-ma.gov/retirement-board/pages/retired-member-forms [36993] -> "../data/townSites2/Saugus/www.saugus-ma.gov/retirement-board/pages/retired-member-forms" [1]
+2017-01-02 07:47:28 URL:http://www.mass.gov/perac/forms-pubs/retirement-guides/ [50356] -> "../data/townSites2/Saugus/www.saugus-ma.gov/retirement-board/links/retirement-guides" [1]
+2017-01-02 07:47:29 URL:http://www.saugus-ma.gov/retirement-board/pages/social-security [37141] -> "../data/townSites2/Saugus/www.saugus-ma.gov/retirement-board/pages/social-security" [1]
+2017-01-02 07:47:31 URL:http://www.saugus-ma.gov/node/60/news [32516] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/60/news" [1]
+2017-01-02 07:47:32 URL:http://www.saugus-ma.gov/retirement-board/news/election [36072] -> "../data/townSites2/Saugus/www.saugus-ma.gov/retirement-board/news/election" [1]
+2017-01-02 07:47:34 URL:http://www.saugus-ma.gov/node/60/events/month [52500] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/60/events/month" [1]
+2017-01-02 07:47:35 URL:http://www.saugus-ma.gov/node/60/events/month/2017-01 [52557] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/60/events/month/2017-01" [1]
+2017-01-02 07:47:36 URL:http://www.saugus-ma.gov/node/60/agenda [32290] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/60/agenda" [1]
+2017-01-02 07:47:38 URL:http://www.saugus-ma.gov/retirement-board/agenda/retirement-board [36948] -> "../data/townSites2/Saugus/www.saugus-ma.gov/retirement-board/agenda/retirement-board" [1]
+2017-01-02 07:47:39 URL:http://www.saugus-ma.gov/retirement-board/agenda/saugus-retirement-board-0 [37324] -> "../data/townSites2/Saugus/www.saugus-ma.gov/retirement-board/agenda/saugus-retirement-board-0" [1]
+2017-01-02 07:47:40 URL:http://www.saugus-ma.gov/retirement-board/agenda/retirement-board-meeting-10-26-2016 [37368] -> "../data/townSites2/Saugus/www.saugus-ma.gov/retirement-board/agenda/retirement-board-meeting-10-26-2016" [1]
+2017-01-02 07:47:41 URL:http://www.saugus-ma.gov/retirement-board/agenda/retirement-board-mtg-9-27-2016 [37333] -> "../data/townSites2/Saugus/www.saugus-ma.gov/retirement-board/agenda/retirement-board-mtg-9-27-2016" [1]
+2017-01-02 07:47:43 URL:http://www.saugus-ma.gov/retirement-board/agenda/saugus-retirement-board-meeting-8-31-2016 [37409] -> "../data/townSites2/Saugus/www.saugus-ma.gov/retirement-board/agenda/saugus-retirement-board-meeting-8-31-2016" [1]
+2017-01-02 07:47:44 URL:http://www.saugus-ma.gov/saugus-cable-television-board-directors [48734] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/5263" [1]
+2017-01-02 07:47:45 URL:http://www.saugus-ma.gov/print/5263 [6252] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/5263" [1]
+2017-01-02 07:47:45 URL: http://www.saugus-ma.gov/node/5263/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:47:47 URL:http://www.saugus-ma.gov/node/5263/events/month [51495] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/5263/events/month" [1]
+2017-01-02 07:47:48 URL:http://www.saugus-ma.gov/node/5263/events/month/2017-01 [51552] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/5263/events/month/2017-01" [1]
+2017-01-02 07:47:49 URL:http://www.saugus-ma.gov/node/5263/agenda [31209] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/5263/agenda" [1]
+2017-01-02 07:47:50 URL:http://www.saugus-ma.gov/saugus-cable-television-board-directors/agenda/saugus-tv-board-directors [34699] -> "../data/townSites2/Saugus/www.saugus-ma.gov/saugus-cable-television-board-directors/agenda/saugus-tv-board-directors" [1]
+2017-01-02 07:47:52 URL:http://www.saugus-ma.gov/saugus-cable-television-board-directors/agenda/saugus-cable-television-board-directors [34760] -> "../data/townSites2/Saugus/www.saugus-ma.gov/saugus-cable-television-board-directors/agenda/saugus-cable-television-board-directors" [1]
+2017-01-02 07:47:53 URL:http://www.saugus-ma.gov/saugus-high-school-council-committee [49269] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/4323" [1]
+2017-01-02 07:47:54 URL:http://www.saugus-ma.gov/print/4323 [6216] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/4323" [1]
+2017-01-02 07:47:54 URL: http://www.saugus-ma.gov/node/4323/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:47:55 URL:http://www.saugus-ma.gov/node/4323/events/month [51458] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/4323/events/month" [1]
+2017-01-02 07:47:57 URL:http://www.saugus-ma.gov/node/4323/events/month/2017-01 [51515] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/4323/events/month/2017-01" [1]
+2017-01-02 07:47:58 URL:http://www.saugus-ma.gov/node/4323/agenda [31184] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/4323/agenda" [1]
+2017-01-02 07:47:59 URL:http://www.saugus-ma.gov/saugus-high-school-council-committee/agenda/high-school-council-meeting [34662] -> "../data/townSites2/Saugus/www.saugus-ma.gov/saugus-high-school-council-committee/agenda/high-school-council-meeting" [1]
+2017-01-02 07:48:01 URL:http://www.saugus-ma.gov/saugus-high-school-council-committee/agenda/saugus-high-school-council-meeting-0 [34713] -> "../data/townSites2/Saugus/www.saugus-ma.gov/saugus-high-school-council-committee/agenda/saugus-high-school-council-meeting-0" [1]
+2017-01-02 07:48:02 URL:http://www.saugus-ma.gov/saugus-high-school-council-committee/agenda/saugus-high-school-council-meeting [34326] -> "../data/townSites2/Saugus/www.saugus-ma.gov/saugus-high-school-council-committee/agenda/saugus-high-school-council-meeting" [1]
+2017-01-02 07:48:03 URL:http://www.saugus-ma.gov/school-building-assessment-committee [45693] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/61" [1]
+2017-01-02 07:48:04 URL:http://www.saugus-ma.gov/print/61 [14124] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/61" [1]
+2017-01-02 07:48:05 URL: http://www.saugus-ma.gov/node/61/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:48:06 URL:http://www.saugus-ma.gov/school-committee [61239] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/62" [1]
+2017-01-02 07:48:07 URL:http://www.saugus-ma.gov/print/62 [12836] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/62" [1]
+2017-01-02 07:48:09 URL:http://www.saugus-ma.gov/user/119/contact [35808] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/119/contact" [1]
+2017-01-02 07:48:10 URL:http://www.saugus-ma.gov/user/121/contact [35804] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/121/contact" [1]
+2017-01-02 07:48:12 URL:http://www.saugus-ma.gov/user/120/contact [35806] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/120/contact" [1]
+2017-01-02 07:48:14 URL:http://www.saugus-ma.gov/user/123/contact [35804] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/123/contact" [1]
+2017-01-02 07:48:15 URL:http://www.saugus-ma.gov/user/122/contact [35788] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/122/contact" [1]
+2017-01-02 07:48:16 URL: http://www.saugus-ma.gov/node/62/feed 200 OK
+unlink: No such file or directory
+http://www.saugus.mec.edu/District/School-Committee.htm:
+Remote file does not exist -- broken link!!!
+2017-01-02 07:48:18 URL:http://www.saugus-ma.gov/node/62/events/month [56649] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/62/events/month" [1]
+2017-01-02 07:48:20 URL:http://www.saugus-ma.gov/node/62/events/day/2017-01-04 [35223] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/62/events/day/2017-01-04" [1]
+2017-01-02 07:48:21 URL:http://www.saugus-ma.gov/node/62/events/month/2017-01 [56710] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/62/events/month/2017-01" [1]
+2017-01-02 07:48:22 URL:http://www.saugus-ma.gov/node/62/agenda [31728] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/62/agenda" [1]
+2017-01-02 07:48:23 URL:http://www.saugus-ma.gov/school-committee/agenda/saugus-school-committee-finance-sub-committee [36789] -> "../data/townSites2/Saugus/www.saugus-ma.gov/school-committee/agenda/saugus-school-committee-finance-sub-committee" [1]
+2017-01-02 07:48:25 URL:http://www.saugus-ma.gov/school-committee/agenda/school-committee-meeting-12-15-16 [36683] -> "../data/townSites2/Saugus/www.saugus-ma.gov/school-committee/agenda/school-committee-meeting-12-15-16" [1]
+2017-01-02 07:48:26 URL:http://www.saugus-ma.gov/school-committee/agenda/athletic-sub-committee-school-committee-meeting [36765] -> "../data/townSites2/Saugus/www.saugus-ma.gov/school-committee/agenda/athletic-sub-committee-school-committee-meeting" [1]
+2017-01-02 07:48:27 URL:http://www.saugus-ma.gov/school-committee/agenda/school-committee-meeting-4 [36650] -> "../data/townSites2/Saugus/www.saugus-ma.gov/school-committee/agenda/school-committee-meeting-4" [1]
+2017-01-02 07:48:29 URL:http://www.saugus-ma.gov/school-committee/agenda/school-committee-meeting-11-17-16 [36647] -> "../data/townSites2/Saugus/www.saugus-ma.gov/school-committee/agenda/school-committee-meeting-11-17-16" [1]
+2017-01-02 07:48:30 URL:http://www.saugus-ma.gov/town-managers-economic-development-committee [39676] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/65" [1]
+2017-01-02 07:48:31 URL:http://www.saugus-ma.gov/print/65 [8044] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/65" [1]
+2017-01-02 07:48:31 URL: http://www.saugus-ma.gov/node/65/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:48:32 URL:http://www.saugus-ma.gov/tree-committee [58333] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/63" [1]
+2017-01-02 07:48:34 URL:http://www.saugus-ma.gov/print/63 [11783] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/63" [1]
+2017-01-02 07:48:36 URL:http://www.saugus-ma.gov/user/23/contact [35757] -> "../data/townSites2/Saugus/www.saugus-ma.gov/user/23/contact" [1]
+2017-01-02 07:48:36 URL: http://www.saugus-ma.gov/node/63/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:48:38 URL:http://www.saugus-ma.gov/tree-committee/pages/helpful-links [35169] -> "../data/townSites2/Saugus/www.saugus-ma.gov/tree-committee/pages/helpful-links" [1]
+2017-01-02 07:48:39 URL:http://www.saugus-ma.gov/node/63/events/month [51849] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/63/events/month" [1]
+2017-01-02 07:48:41 URL:http://www.saugus-ma.gov/node/63/events/month/2017-01 [51906] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/63/events/month/2017-01" [1]
+2017-01-02 07:48:42 URL:http://www.saugus-ma.gov/node/63/agenda [31643] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/63/agenda" [1]
+2017-01-02 07:48:43 URL:http://www.saugus-ma.gov/tree-committee/agenda/tree-committee-meeting-12-19-16 [35173] -> "../data/townSites2/Saugus/www.saugus-ma.gov/tree-committee/agenda/tree-committee-meeting-12-19-16" [1]
+2017-01-02 07:48:44 URL:http://www.saugus-ma.gov/tree-committee/agenda/saugus-tree-committee-0 [35090] -> "../data/townSites2/Saugus/www.saugus-ma.gov/tree-committee/agenda/saugus-tree-committee-0" [1]
+2017-01-02 07:48:46 URL:http://www.saugus-ma.gov/tree-committee/agenda/tree-committee-meeting [35135] -> "../data/townSites2/Saugus/www.saugus-ma.gov/tree-committee/agenda/tree-committee-meeting" [1]
+2017-01-02 07:48:47 URL:http://www.saugus-ma.gov/tree-committee/agenda/tree-committee-meeting-9-21-16 [35175] -> "../data/townSites2/Saugus/www.saugus-ma.gov/tree-committee/agenda/tree-committee-meeting-9-21-16" [1]
+2017-01-02 07:48:48 URL:http://www.saugus-ma.gov/tree-committee/agenda/tree-committee-tree-hearings [35147] -> "../data/townSites2/Saugus/www.saugus-ma.gov/tree-committee/agenda/tree-committee-tree-hearings" [1]
+2017-01-02 07:48:49 URL:http://www.saugus-ma.gov/youth-recreation-commission [58817] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/64" [1]
+2017-01-02 07:48:50 URL:http://www.saugus-ma.gov/print/64 [13789] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/64" [1]
+2017-01-02 07:48:51 URL: http://www.saugus-ma.gov/node/64/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:48:52 URL:http://www.saugus-ma.gov/node/64/events/month [51387] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/64/events/month" [1]
+2017-01-02 07:48:54 URL:http://www.saugus-ma.gov/node/64/events/month/2017-01 [51444] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/64/events/month/2017-01" [1]
+2017-01-02 07:48:55 URL:http://www.saugus-ma.gov/node/64/agenda [31147] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/64/agenda" [1]
+2017-01-02 07:48:56 URL:http://www.saugus-ma.gov/youth-recreation-commission/agenda/saugus-youth-commision [36276] -> "../data/townSites2/Saugus/www.saugus-ma.gov/youth-recreation-commission/agenda/saugus-youth-commision" [1]
+2017-01-02 07:48:57 URL:http://www.saugus-ma.gov/youth-recreation-commission/agenda/youth-commssion-mtg-9-21-2016 [36340] -> "../data/townSites2/Saugus/www.saugus-ma.gov/youth-recreation-commission/agenda/youth-commssion-mtg-9-21-2016" [1]
+2017-01-02 07:48:59 URL:http://www.saugus-ma.gov/youth-recreation-commission/agenda/saugus-youth-commission [36319] -> "../data/townSites2/Saugus/www.saugus-ma.gov/youth-recreation-commission/agenda/saugus-youth-commission" [1]
+2017-01-02 07:49:00 URL:http://www.saugus-ma.gov/home/pages/find-it-fast [36394] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/2423" [1]
+2017-01-02 07:49:01 URL:http://www.saugus-ma.gov/print/2423 [9102] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/2423" [1]
+2017-01-02 07:49:02 URL:http://www.saugus-ma.gov/senior-center/pages/transportation [37386] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/253" [1]
+2017-01-02 07:49:03 URL:http://www.saugus-ma.gov/print/253 [6871] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/253" [1]
+2017-01-02 07:49:04 URL:http://www.saugus-ma.gov/senior-center/pages/calender [37508] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/248" [1]
+2017-01-02 07:49:05 URL:http://www.saugus-ma.gov/print/248 [7097] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/248" [1]
+2017-01-02 07:49:06 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/june_2016_calendar.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:07 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/september_calendar_2016_2.doc 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:08 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/february_2015_calendar.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:09 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/may_2014_calendar.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:10 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/june_2014_calendar.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:11 URL:http://www.saugus-ma.gov/board-selectmen/pages/annual-reports [36734] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/430" [1]
+2017-01-02 07:49:12 URL:http://www.saugus-ma.gov/print/430 [6696] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/430" [1]
+2017-01-02 07:49:13 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/fy15_annual_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:14 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/fy14_annual_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:15 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/fy13_annual_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:16 URL:http://www.saugus-ma.gov/inspectional-services/pages/building-forms-information [38867] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/813" [1]
+2017-01-02 07:49:17 URL:http://www.saugus-ma.gov/print/813 [8493] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/813" [1]
+2017-01-02 07:49:18 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/building_occupancy_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:19 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/certificate_of_inspection_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:20 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/construction_control.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:21 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/new_dumpster_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:22 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/trailer_container_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:23 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/board_of_appeals_application_for_public_hearing.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:24 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/swimming_pool_application_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:25 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/application_to_build_or_to_alter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:26 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/vermiculite_insulation_advisory_brochure.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:27 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/zba_app_for_pub_hrg.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:28 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/bldgfees.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:29 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/new_construction_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:30 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/building_occupany_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:31 URL:http://www.saugus-ma.gov/human-resources/pages/town-employment [39057] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/4783" [1]
+2017-01-02 07:49:31 URL:http://www.saugus-ma.gov/print/4783 [8848] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/4783" [1]
+2017-01-02 07:49:32 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/standard_employment_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:33 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/operator_dpw_ft.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:34 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/sanitarian-grease_management_inspector.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:35 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/asst_director_of_public_works_posting_v2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:36 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/hr_assistant_posting.doc 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:37 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/chief_admin_aide.doc 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:38 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/job_posting_-_congregate_site_prep_cook.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:39 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/election_coordinator_ft.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:40 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/custodian_job_posting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:41 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/custodianpt.doc 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:42 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/police_-_civilian_dispatcher_2015_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:43 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/facilities_engineer_posting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:44 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/job_posting_-_van_driver_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:45 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/job_posting_-_receptionist_senior_ctr.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:46 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/summer_program_application_pt.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:49:48 URL:http://www.saugus-ma.gov/where/a [36298] -> "../data/townSites2/Saugus/www.saugus-ma.gov/where/a" [1]
+2017-01-02 07:49:49 URL:http://www.saugus-ma.gov/where/b [37753] -> "../data/townSites2/Saugus/www.saugus-ma.gov/where/b" [1]
+2017-01-02 07:49:50 URL:http://www.saugus-ma.gov/where/c [37542] -> "../data/townSites2/Saugus/www.saugus-ma.gov/where/c" [1]
+2017-01-02 07:49:51 URL:http://www.saugus-ma.gov/where/d [34776] -> "../data/townSites2/Saugus/www.saugus-ma.gov/where/d" [1]
+2017-01-02 07:49:52 URL:http://www.saugus-ma.gov/where/e [36055] -> "../data/townSites2/Saugus/www.saugus-ma.gov/where/e" [1]
+2017-01-02 07:49:54 URL:http://www.saugus-ma.gov/where/f [36273] -> "../data/townSites2/Saugus/www.saugus-ma.gov/where/f" [1]
+2017-01-02 07:49:55 URL:http://www.saugus-ma.gov/where/g [35277] -> "../data/townSites2/Saugus/www.saugus-ma.gov/where/g" [1]
+2017-01-02 07:49:56 URL:http://www.saugus-ma.gov/where/h [36290] -> "../data/townSites2/Saugus/www.saugus-ma.gov/where/h" [1]
+2017-01-02 07:49:58 URL:http://www.saugus-ma.gov/where/i [35030] -> "../data/townSites2/Saugus/www.saugus-ma.gov/where/i" [1]
+2017-01-02 07:49:59 URL:http://www.saugus-ma.gov/where/j [34759] -> "../data/townSites2/Saugus/www.saugus-ma.gov/where/j" [1]
+2017-01-02 07:50:00 URL:http://www.saugus-ma.gov/where/l [35503] -> "../data/townSites2/Saugus/www.saugus-ma.gov/where/l" [1]
+2017-01-02 07:50:02 URL:http://www.saugus-ma.gov/where/m [36784] -> "../data/townSites2/Saugus/www.saugus-ma.gov/where/m" [1]
+2017-01-02 07:50:03 URL:http://www.saugus-ma.gov/where/o [35018] -> "../data/townSites2/Saugus/www.saugus-ma.gov/where/o" [1]
+2017-01-02 07:50:05 URL:http://www.saugus-ma.gov/where/p [36822] -> "../data/townSites2/Saugus/www.saugus-ma.gov/where/p" [1]
+2017-01-02 07:50:06 URL:http://www.saugus-ma.gov/where/r [36571] -> "../data/townSites2/Saugus/www.saugus-ma.gov/where/r" [1]
+2017-01-02 07:50:08 URL:http://www.saugus-ma.gov/where/s [39709] -> "../data/townSites2/Saugus/www.saugus-ma.gov/where/s" [1]
+2017-01-02 07:50:09 URL:http://www.saugus-ma.gov/where/t [37217] -> "../data/townSites2/Saugus/www.saugus-ma.gov/where/t" [1]
+2017-01-02 07:50:11 URL:http://www.saugus-ma.gov/where/u [34783] -> "../data/townSites2/Saugus/www.saugus-ma.gov/where/u" [1]
+2017-01-02 07:50:12 URL:http://www.saugus-ma.gov/where/v [35225] -> "../data/townSites2/Saugus/www.saugus-ma.gov/where/v" [1]
+2017-01-02 07:50:13 URL:http://www.saugus-ma.gov/where/w [35756] -> "../data/townSites2/Saugus/www.saugus-ma.gov/where/w" [1]
+2017-01-02 07:50:14 URL:http://www.saugus-ma.gov/where/y [35054] -> "../data/townSites2/Saugus/www.saugus-ma.gov/where/y" [1]
+2017-01-02 07:50:16 URL:http://www.saugus-ma.gov/where/z [34781] -> "../data/townSites2/Saugus/www.saugus-ma.gov/where/z" [1]
+2017-01-02 07:50:17 URL:http://www.saugus-ma.gov/accounting [45742] -> "../data/townSites2/Saugus/www.saugus-ma.gov/accounting/links/accounting-department" [1]
+2017-01-02 07:50:18 URL:http://www.saugus-ma.gov/affordable-housing-trust [66719] -> "../data/townSites2/Saugus/www.saugus-ma.gov/affordable-housing-trust/links/affordable-housing-trust" [1]
+2017-01-02 07:50:20 URL:http://www.saugus-ma.gov/alternative-energy-committee [42385] -> "../data/townSites2/Saugus/www.saugus-ma.gov/alternative-energy-committee/links/alternative-energy-committee" [1]
+2017-01-02 07:50:21 URL:http://www.saugus-ma.gov/assessors-office/pages/forms [37571] -> "../data/townSites2/Saugus/www.saugus-ma.gov/assessors-office/links/assessing-forms" [1]
+2017-01-02 07:50:22 URL:http://www.saugus-ma.gov/assessors-office [58774] -> "../data/townSites2/Saugus/www.saugus-ma.gov/assessors-office/links/assessors-office" [1]
+2017-01-02 07:50:24 URL:http://www.consigli-townofsaugusbelmonte.com/ [12236] -> "../data/townSites2/Saugus/www.saugus-ma.gov/school-committee/links/belmonte-school-project" [1]
+2017-01-02 07:50:25 URL:http://www.saugus-ma.gov/board-appeals [66247] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-appeals/links/board-appeals" [1]
+2017-01-02 07:50:26 URL:http://www.saugus-ma.gov/board-health [62280] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-health/links/board-health" [1]
+2017-01-02 07:50:27 URL:http://www.saugus-ma.gov/board-registrars [56203] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-registrars/links/board-registrars" [1]
+2017-01-02 07:50:28 URL:http://www.saugus-ma.gov/board-selectmen [68868] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-selectmen/links/board-selectmen" [1]
+2017-01-02 07:50:29 URL:http://www.saugus-ma.gov/town-clerk/pages/boat-ramp-passes [38629] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/pages/boat-ramp-passes" [1]
+2017-01-02 07:50:31 URL:http://www.saugus-ma.gov/boats-waterways-commission [43460] -> "../data/townSites2/Saugus/www.saugus-ma.gov/boats-waterways-commission/links/boats-waterways-commission-0" [1]
+2017-01-02 07:50:32 URL:http://www.saugus-ma.gov/accounting/pages/quarterly-budget-reports [37611] -> "../data/townSites2/Saugus/www.saugus-ma.gov/accounting/links/quarterly-budget-reports" [1]
+2017-01-02 07:50:34 URL:http://www.saugus-ma.gov/building-committee [39833] -> "../data/townSites2/Saugus/www.saugus-ma.gov/building-committee/links/building-committee" [1]
+2017-01-02 07:50:35 URL:http://www.saugus-ma.gov/inspectional-services/pages/building-forms-information [38867] -> "../data/townSites2/Saugus/www.saugus-ma.gov/inspectional-services/links/building-forms-information" [1]
+2017-01-02 07:50:36 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/business_certificate_worksheet.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:50:38 URL:http://www.saugus-ma.gov/town-clerk/pages/business-certificates [39744] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/links/business-certificates" [1]
+2017-01-02 07:50:39 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/town_by-laws.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:50:41 URL:http://www.saugustv.org/ [30083/30083] -> "../data/townSites2/Saugus/www.saugus-ma.gov/cable-television-commission/links/cable-television-commission" [1]
+2017-01-02 07:50:43 URL:http://www.saugus-ma.gov/town-clerk/pages/campaign-finance-reports [38991] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/links/campaign-finance-reports" [1]
+2017-01-02 07:50:44 URL:http://www.saugus-ma.gov/cemetery-commission [54656] -> "../data/townSites2/Saugus/www.saugus-ma.gov/cemetery-commission/links/cemetery-commission" [1]
+2017-01-02 07:50:45 URL:http://www.saugus-ma.gov/cemetery-department [46260] -> "../data/townSites2/Saugus/www.saugus-ma.gov/cemetery-department/links/cemetery-management" [1]
+2017-01-02 07:50:46 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/change_of_address_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:50:47 URL:http://www.saugus-ma.gov/commission-disability [43229] -> "../data/townSites2/Saugus/www.saugus-ma.gov/commission-disability/links/commission-disability" [1]
+2017-01-02 07:50:49 URL:http://www.mass.gov/portal/ [66165] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/links/commonwealth-massachusetts" [1]
+2017-01-02 07:50:50 URL:http://www.saugus-ma.gov/conservation-commission [64067] -> "../data/townSites2/Saugus/www.saugus-ma.gov/conservation-commission/links/conservation-commission" [1]
+2017-01-02 07:50:52 URL:http://www.saugus-ma.gov/council-aging [65078] -> "../data/townSites2/Saugus/www.saugus-ma.gov/council-aging/links/council-aging" [1]
+2017-01-02 07:50:53 URL:http://www.saugus-ma.gov/cultural-council [58488] -> "../data/townSites2/Saugus/www.saugus-ma.gov/cultural-council/links/cultural-council" [1]
+2017-01-02 07:50:54 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/dog_license_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:50:56 URL:http://www.saugus-ma.gov/planning-and-development [54958] -> "../data/townSites2/Saugus/www.saugus-ma.gov/economic-development/links/economic-development" [1]
+2017-01-02 07:50:58 URL:http://www.saugus-ma.gov/town-clerk/pages/election-and-registration [44060] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/pages/election-and-registration" [1]
+2017-01-02 07:50:59 URL:http://www.saugus-ma.gov/emergency-management [41141] -> "../data/townSites2/Saugus/www.saugus-ma.gov/emergency-management/links/emergency-management" [1]
+2017-01-02 07:51:01 URL:http://www.saugus-ma.gov/finance-committee [63020] -> "../data/townSites2/Saugus/www.saugus-ma.gov/finance-committee/links/finance-committee" [1]
+2017-01-02 07:51:02 URL:http://www.saugus-ma.gov/fire-department [57792] -> "../data/townSites2/Saugus/www.saugus-ma.gov/fire-department/links/fire-department" [1]
+2017-01-02 07:51:03 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/general_license_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:51:04 URL:http://www.saugus-ma.gov/human-resources/pages/gic-information [37034] -> "../data/townSites2/Saugus/www.saugus-ma.gov/human-resources/pages/gic-information" [1]
+2017-01-02 07:51:05 URL:http://www.saugus-ma.gov/historical-commission [62718] -> "../data/townSites2/Saugus/www.saugus-ma.gov/historical-commission/links/historical-commission" [1]
+2017-01-02 07:51:07 URL:http://www.saugus-ma.gov/housing-authority [63024] -> "../data/townSites2/Saugus/www.saugus-ma.gov/housing-authority/links/housing-authority" [1]
+2017-01-02 07:51:08 URL:http://www.saugus-ma.gov/human-resources [43653] -> "../data/townSites2/Saugus/www.saugus-ma.gov/human-resources/links/human-resources" [1]
+2017-01-02 07:51:09 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/hunting_fishing_licenses.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:51:10 URL:http://www.saugus-ma.gov/inspectional-services [46851] -> "../data/townSites2/Saugus/www.saugus-ma.gov/inspectional-services/links/inspectional-services" [1]
+2017-01-02 07:51:12 URL:https://www.irs.gov/ [88160/88160] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/links/internal-revenue-services" [1]
+2017-01-02 07:51:13 URL:http://www.saugus-ma.gov/human-resources/pages/town-employment [39057] -> "../data/townSites2/Saugus/www.saugus-ma.gov/human-resources/links/job-postings" [1]
+2017-01-02 07:51:17 URL:http://www.sauguspubliclibrary.org/ [93211] -> "../data/townSites2/Saugus/www.saugus-ma.gov/library/links/library" [1]
+2017-01-02 07:51:19 URL:http://www.saugus-ma.gov/library-board-trustees [51656] -> "../data/townSites2/Saugus/www.saugus-ma.gov/library-board-trustees/links/library-board-trustees" [1]
+2017-01-02 07:51:20 URL:http://www.saugus-ma.gov/boards [50511] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/links/list-boards-committees" [1]
+2017-01-02 07:51:21 URL:http://www.mhoa.com/ [34654/34654] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-health/links/ma-health-officers" [1]
+2017-01-02 07:51:23 URL:http://www.mass.gov/eopss/agencies/dps/ [102750] -> "../data/townSites2/Saugus/www.saugus-ma.gov/building-committee/links/ma-state-building-code" [1]
+2017-01-02 07:51:24 URL:http://www.mass.gov/eohhs/feature-story/marathon-recovery-resources.html [39335] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/links/marathon-recovery-resources" [1]
+2017-01-02 07:51:26 URL:http://www.saugus-ma.gov/town-clerk/pages/marriage-licenses [40003] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/pages/marriage-licenses" [1]
+2017-01-02 07:51:27 URL:http://www.saugus-ma.gov/minutes-and-agendas [38497] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/links/meeting-minutes-agendas" [1]
+2017-01-02 07:51:28 URL:http://www.saugus-ma.gov/mis-department [43119] -> "../data/townSites2/Saugus/www.saugus-ma.gov/mis-department/links/mis-department" [1]
+2017-01-02 07:51:30 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/mooring_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:51:31 URL:http://www.mass.gov/eea/agencies/agr/ [174029] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-health/links/mosquito-control" [1]
+2017-01-02 07:51:34 URL:https://unipaygold.unibank.com/default.aspx [101065/101065] -> "../data/townSites2/Saugus/www.saugus-ma.gov/treasurer-collector/links/online-payments" [1]
+2017-01-02 07:51:36 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/organization_chart.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:51:37 URL:http://www.saugus-ma.gov/planning-board [64801] -> "../data/townSites2/Saugus/www.saugus-ma.gov/planning-board/links/planning-board" [1]
+2017-01-02 07:51:38 URL:http://www.sauguspd.com/ [32129/32129] -> "../data/townSites2/Saugus/www.saugus-ma.gov/police-department/links/police-department" [1]
+2017-01-02 07:51:39 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/polling_locations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:51:40 URL:http://www.saugus-ma.gov/public-works [44983] -> "../data/townSites2/Saugus/www.saugus-ma.gov/public-works/links/public-works" [1]
+2017-01-02 07:51:42 URL:http://www.saugus-ma.gov/purchasing-department [42544] -> "../data/townSites2/Saugus/www.saugus-ma.gov/purchasing-department/links/purchasing-department" [1]
+2017-01-02 07:51:43 URL:http://www.saugus-ma.gov/town-clerk/pages/raffle-and-bazaar-permits [39122] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/pages/raffle-and-bazaar-permits" [1]
+2017-01-02 07:51:45 URL:http://www.saugusyouthandrec.org/ [16820/16820] -> "../data/townSites2/Saugus/www.saugus-ma.gov/youth-recreation-commission/links/recreation" [1]
+2017-01-02 07:51:46 URL:http://www.mass.gov/eohhs/gov/departments/dph/programs/environmental-health/comm-sanitation/camps-recreational.html [47894] -> "../data/townSites2/Saugus/www.saugus-ma.gov/youth-recreation-commission/links/recreational-camp-regulations" [1]
+2017-01-02 07:51:49 URL:http://www.massrmv.com/ [93250/93250] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/links/registry-motor-vehicles" [1]
+2017-01-02 07:51:50 URL:http://www.saugus-ma.gov/retirement-board [62165] -> "../data/townSites2/Saugus/www.saugus-ma.gov/retirement-board/links/retirement-board" [1]
+2017-01-02 07:51:52 URL:http://www.sauguschamber.com/ [2691] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/links/saugus-chamber-commerce" [1]
+2017-01-02 07:51:54 URL:http://www.saugustv.org/ [30083/30083] -> "../data/townSites2/Saugus/www.saugus-ma.gov/cable-television-commission/links/saugus-community-television" [1]
+2017-01-02 07:51:55 URL:http://www.saugus.k12.ma.us/ [11243/11243] -> "../data/townSites2/Saugus/www.saugus-ma.gov/school-committee/links/saugus-public-schools" [1]
+2017-01-02 07:51:57 URL:http://www.saugusriver.org/ [10091/10091] -> "../data/townSites2/Saugus/www.saugus-ma.gov/conservation-commission/links/saugus-river-watershed-council" [1]
+2017-01-02 07:51:58 URL:http://www.saugus-ma.gov/school-building-assessment-committee [45693] -> "../data/townSites2/Saugus/www.saugus-ma.gov/school-building-assessment-committee/links/school-building-assessment-committee" [1]
+2017-01-02 07:52:00 URL:http://www.saugus-ma.gov/school-committee [61239] -> "../data/townSites2/Saugus/www.saugus-ma.gov/school-committee/links/school-committee" [1]
+2017-01-02 07:52:01 URL:http://www.saugus-ma.gov/senior-center [44376] -> "../data/townSites2/Saugus/www.saugus-ma.gov/senior-center/links/senior-center" [1]
+2017-01-02 07:52:03 URL:https://www.ssa.gov/ [35590] -> "../data/townSites2/Saugus/www.saugus-ma.gov/retirement-board/links/social-security-online" [1]
+2017-01-02 07:52:04 URL:http://www.saugus-ma.gov/solid-waste-recycling-department [44597] -> "../data/townSites2/Saugus/www.saugus-ma.gov/solid-waste-recycling-department/links/solid-waste-recycling-department" [1]
+20 redirections exceeded.
+2017-01-02 07:52:13 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/application_for_special_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:52:15 URL:http://www.mass.gov/eopss/agencies/dfs/welcome-from-the-state-fire-marshal.html [85878] -> "../data/townSites2/Saugus/www.saugus-ma.gov/fire-department/links/state-fire-marshal" [1]
+https://malegislature.gov/People:
+Remote file does not exist -- broken link!!!
+2017-01-02 07:52:20 URL:https://malegislature.gov/People/Profile/DHW1 [82606/82606] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-managers-office/links/state-rep-wong" [1]
+2017-01-02 07:52:24 URL:https://malegislature.gov/People/Profile/SND0 [125068/125068] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-managers-office/links/state-senator-didomenico" [1]
+2017-01-02 07:52:29 URL:https://malegislature.gov/People/Profile/tmm0 [115387/115387] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-managers-office/links/state-senator-mcgee-0" [1]
+2017-01-02 07:52:32 URL:http://www.saugus-ma.gov/subscribe [37999/37999] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/links/subscribe-news" [1]
+2017-01-02 07:52:33 URL:http://www.mass.gov/eohhs/gov/departments/dph/programs/environmental-health/comm-sanitation/pools.html [34323] -> "../data/townSites2/Saugus/www.saugus-ma.gov/board-health/links/swimming-pool-regulations" [1]
+2017-01-02 07:52:34 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/copy_of_saugus_tax_rates.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:52:35 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/tobacco_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:52:36 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/town_by-laws.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:52:38 URL:http://www.saugus-ma.gov/town-clerk [67721] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/links/town-clerk" [1]
+2017-01-02 07:52:39 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/town_hall_auditorium_rental_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:52:41 URL:http://www.saugus-ma.gov/town-managers-office [46439] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-managers-office/links/town-manager" [1]
+2017-01-02 07:52:42 URL:http://www.saugus-ma.gov/treasurer-collector [46971] -> "../data/townSites2/Saugus/www.saugus-ma.gov/treasurer-collector/links/treasurer-collector" [1]
+2017-01-02 07:52:44 URL:https://twitter.com/townofsaugus [305609/305609] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/links/twitter-town-saugus" [1]
+2017-01-02 07:52:46 URL:http://www.mwsveteranservices.org/saugus.html [46790] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/links/veterans-services" [1]
+2017-01-02 07:52:48 URL:http://www.saugus-ma.gov/town-clerk/pages/vital-records [40068] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/pages/vital-records" [1]
+2017-01-02 07:52:49 URL:http://www.saugus-ma.gov/town-clerk/pages/election-and-registration [44060] -> "../data/townSites2/Saugus/www.saugus-ma.gov/town-clerk/links/voter-registration" [1]
+2017-01-02 07:52:51 URL:http://www.mwra.com/comsupport/waterconservationmain.htm [28081/28081] -> "../data/townSites2/Saugus/www.saugus-ma.gov/conservation-commission/links/water-conservation-kits" [1]
+2017-01-02 07:52:52 URL:http://www.saugus-ma.gov/water-department [42743] -> "../data/townSites2/Saugus/www.saugus-ma.gov/water-department/links/water-departments" [1]
+2017-01-02 07:52:54 URL:http://www.saugus-ma.gov/youth-recreation [55513] -> "../data/townSites2/Saugus/www.saugus-ma.gov/youth-recreation/links/youth-recreation" [1]
+2017-01-02 07:52:55 URL:http://www.saugus-ma.gov/youth-recreation-commission [58817] -> "../data/townSites2/Saugus/www.saugus-ma.gov/youth-recreation-commission/links/youth-recreation-commission" [1]
+2017-01-02 07:52:56 URL:http://www.saugus-ma.gov/home/urgent-alerts/trash-and-recycling-one-day-delay [33922] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/8563" [1]
+2017-01-02 07:52:58 URL:http://www.saugus-ma.gov/print/8563 [6464] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/8563" [1]
+2017-01-02 07:52:59 URL:http://www.saugus-ma.gov/home/news/town-saugus-announces-trash-recycling-collection-running-one-day-holiday-delay [34779] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/8703" [1]
+2017-01-02 07:53:00 URL:http://www.saugus-ma.gov/print/8703 [7661] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/8703" [1]
+2017-01-02 07:53:01 URL:http://www.saugus-ma.gov/home/news/saugus-town-manager-scott-c-crabtree-announces-cliftondale-market-analysis-findings [36048] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/8503" [1]
+2017-01-02 07:53:02 URL:http://www.saugus-ma.gov/print/8503 [8994] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/8503" [1]
+2017-01-02 07:53:03 URL:http://www.saugus-ma.gov/home/news/saugus-town-manager-scott-c-crabtree-announces-housing-production-plan-public-meeting [35538] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/8493" [1]
+2017-01-02 07:53:05 URL:http://www.saugus-ma.gov/print/8493 [8473] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/8493" [1]
+2017-01-02 07:53:05 URL: http://www.saugus-ma.gov/node/1/news/feed 200 OK
+unlink: No such file or directory
+2017-01-02 07:53:07 URL:http://www.saugus-ma.gov/home/news/town-manager-scott-c-crabtree-announces-annual-tree-lighting-ceremony-and-festivities [36211] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/news/town-manager-scott-c-crabtree-announces-annual-tree-lighting-ceremony-and-festivities" [1]
+2017-01-02 07:53:08 URL:http://www.saugus-ma.gov/home/news/town-saugus-announces-flu-vaccine-now-available-residents [34907] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/news/town-saugus-announces-flu-vaccine-now-available-residents" [1]
+2017-01-02 07:53:10 URL:http://www.saugus-ma.gov/home/news/one-day-recycling-delay-friday-nov-11 [33776] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/news/one-day-recycling-delay-friday-nov-11" [1]
+2017-01-02 07:53:11 URL:http://www.saugus-ma.gov/home/news/town-saugus-announces-curbside-leaf-collection-dates [35543] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/news/town-saugus-announces-curbside-leaf-collection-dates" [1]
+2017-01-02 07:53:13 URL:http://www.saugus-ma.gov/home/news/saugus-police-department-receives-three-year-accreditation [37211] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/news/saugus-police-department-receives-three-year-accreditation" [1]
+2017-01-02 07:53:14 URL:http://www.saugus-ma.gov/home/news/saugus-town-manager-scott-c-crabtree-announces-appointment-stephen-cole-planning-and [36682] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/news/saugus-town-manager-scott-c-crabtree-announces-appointment-stephen-cole-planning-and" [1]
+2017-01-02 07:53:16 URL:http://www.saugus-ma.gov/home/news/town-wide-street-sweeping-begin-saugus-sept-26 [35205] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/news/town-wide-street-sweeping-begin-saugus-sept-26" [1]
+2017-01-02 07:53:17 URL:http://www.saugus-ma.gov/home/news/town-manager-scott-c-crabtree-announces-creation-planning-and-development-department [37326] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/news/town-manager-scott-c-crabtree-announces-creation-planning-and-development-department" [1]
+2017-01-02 07:53:19 URL:http://www.saugus-ma.gov/home/news/residents-invited-dispose-household-hazardous-waste%C2%A0-oct-1 [37206] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/news/residents-invited-dispose-household-hazardous-wasteÂ -oct-1" [1]
+http://www.saugus-ma.gov/home/news/residents-invited-dispose-household-hazardous-waste%25C2%25A0-oct-1:
+Remote file does not exist -- broken link!!!
+2017-01-02 07:53:21 URL:http://www.saugus-ma.gov/home/news/town-saugus-compostdrop-recycle-site-temporarily-close-labor-day-weekend [34978] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/news/town-saugus-compostdrop-recycle-site-temporarily-close-labor-day-weekend" [1]
+2017-01-02 07:53:23 URL:http://www.saugus-ma.gov/home/news/town-saugus-takes-precautions-prevent-mosquito-borne-illness [38271] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/news/town-saugus-takes-precautions-prevent-mosquito-borne-illness" [1]
+2017-01-02 07:53:24 URL:http://www.saugus-ma.gov/home/news/town-saugus-makes-history-highest-ever-bond-rating-sp-aastable [40494] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/news/town-saugus-makes-history-highest-ever-bond-rating-sp-aastable" [1]
+2017-01-02 07:53:26 URL:http://www.saugus-ma.gov/home/news/town-saugus-undergoes-beautification-start-summer [34914] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/news/town-saugus-undergoes-beautification-start-summer" [1]
+2017-01-02 07:53:27 URL:http://www.saugus-ma.gov/home/news/town-saugus-announces-new-items-accepted-compostdrop-recycle-site [35737] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/news/town-saugus-announces-new-items-accepted-compostdrop-recycle-site" [1]
+2017-01-02 07:53:29 URL:http://www.saugus-ma.gov/home/news/town-saugus-compostdrop-recycle-site-temporarily-close-fourth-july-holiday-weekend [34837] -> "../data/townSites2/Saugus/www.saugus-ma.gov/home/news/town-saugus-compostdrop-recycle-site-temporarily-close-fourth-july-holiday-weekend" [1]
+2017-01-02 07:53:31 URL:http://www.saugus-ma.gov/calendar [108682] -> "../data/townSites2/Saugus/www.saugus-ma.gov/calendar.1" [1]
+2017-01-02 07:53:33 URL:http://www.saugus-ma.gov/calendar/day [39468] -> "../data/townSites2/Saugus/www.saugus-ma.gov/calendar/day.1" [1]
+2017-01-02 07:53:35 URL:http://www.saugus-ma.gov/calendar/week [42954] -> "../data/townSites2/Saugus/www.saugus-ma.gov/calendar/week" [1]
+2017-01-02 07:53:37 URL:http://www.saugus-ma.gov/calendar/year [147934] -> "../data/townSites2/Saugus/www.saugus-ma.gov/calendar/year" [1]
+2017-01-02 07:53:39 URL:http://www.saugus-ma.gov/calendar/upcoming [59717] -> "../data/townSites2/Saugus/www.saugus-ma.gov/calendar/upcoming" [1]
+2017-01-02 07:53:40 URL:http://www.saugus-ma.gov/calendar/day/2017-01-01 [38226] -> "../data/townSites2/Saugus/www.saugus-ma.gov/calendar/day/2017-01-01" [1]
+2017-01-02 07:53:41 URL:http://www.saugus-ma.gov/town-clerk/events/8553 [38082] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/8553" [1]
+2017-01-02 07:53:43 URL:http://www.saugus-ma.gov/print/8553 [6581] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/8553" [1]
+2017-01-02 07:53:44 URL:http://www.saugus-ma.gov/board-health/events/1633 [37814] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/1633" [1]
+2017-01-02 07:53:45 URL:http://www.saugus-ma.gov/print/1633 [7204] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/1633" [1]
+2017-01-02 07:53:46 URL:http://www.saugus-ma.gov/board-health/events/7813 [37870] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/7813" [1]
+2017-01-02 07:53:47 URL:http://www.saugus-ma.gov/print/7813 [7316] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/7813" [1]
+2017-01-02 07:53:48 URL:http://www.saugus-ma.gov/town-clerk/events/8473 [41938] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/8473" [1]
+2017-01-02 07:53:49 URL:http://www.saugus-ma.gov/print/8473 [10635] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/8473" [1]
+2017-01-02 07:53:49 URL: http://www.saugus-ma.gov/sites/saugusma/files/agendas/2017_01_03_meeting_notice_and_agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:53:51 URL:http://www.saugus-ma.gov/calendar/day/2017-01-05 [38228] -> "../data/townSites2/Saugus/www.saugus-ma.gov/calendar/day/2017-01-05" [1]
+2017-01-02 07:53:52 URL:http://www.saugus-ma.gov/school-committee/events/8743 [42012] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/8743" [1]
+2017-01-02 07:53:53 URL:http://www.saugus-ma.gov/print/8743 [12837] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/8743" [1]
+2017-01-02 07:53:54 URL: http://www.saugus-ma.gov/sites/saugusma/files/agendas/saugus_school_committee_finance_sub-committee_jan_4_2017_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:53:54 URL: http://www.saugus-ma.gov/sites/saugusma/files/agendas/saugus_school_committee_finance_sub-committee_jan_4_2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:53:55 URL:http://www.saugus-ma.gov/finance-committee/events/8763 [35648] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/8763" [1]
+2017-01-02 07:53:56 URL:http://www.saugus-ma.gov/print/8763 [7425] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/8763" [1]
+2017-01-02 07:53:57 URL:http://www.saugus-ma.gov/housing-authority/events/8783 [36472] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/8783" [1]
+2017-01-02 07:53:59 URL:http://www.saugus-ma.gov/print/8783 [7411] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/8783" [1]
+2017-01-02 07:54:00 URL:http://www.saugus-ma.gov/cultural-council/events/8803 [37294] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/8803" [1]
+2017-01-02 07:54:01 URL:http://www.saugus-ma.gov/print/8803 [10164] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/8803" [1]
+2017-01-02 07:54:01 URL: http://www.saugus-ma.gov/sites/saugusma/files/agendas/saugus_cultural_council_january_4_2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:02 URL:http://www.saugus-ma.gov/board-selectmen/events/8053 [37691] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/8053" [1]
+2017-01-02 07:54:03 URL:http://www.saugus-ma.gov/print/8053 [8076] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/8053" [1]
+2017-01-02 07:54:03 URL: http://www.saugus-ma.gov/sites/saugusma/files/events/board_of_selectmen_january_4_2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:05 URL:http://www.saugus-ma.gov/calendar/day/2017-01-08 [38226] -> "../data/townSites2/Saugus/www.saugus-ma.gov/calendar/day/2017-01-08" [1]
+2017-01-02 07:54:07 URL:http://www.saugus-ma.gov/calendar/day/2017-01-10 [38228] -> "../data/townSites2/Saugus/www.saugus-ma.gov/calendar/day/2017-01-10" [1]
+2017-01-02 07:54:08 URL:http://www.saugus-ma.gov/council-aging/events/8273 [38974] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/8273" [1]
+2017-01-02 07:54:09 URL:http://www.saugus-ma.gov/print/8273 [10099] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/8273" [1]
+2017-01-02 07:54:09 URL: http://www.saugus-ma.gov/sites/saugusma/files/agendas/saugus_council_on_aging_january_9.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:10 URL:http://www.saugus-ma.gov/historical-commission/events/8163 [37440] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/8163" [1]
+2017-01-02 07:54:11 URL:http://www.saugus-ma.gov/print/8163 [10331] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/8163" [1]
+2017-01-02 07:54:11 URL: http://www.saugus-ma.gov/sites/saugusma/files/agendas/historical_commission_agenda_1-9-17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:13 URL:http://www.saugus-ma.gov/calendar/day/2017-01-17 [38228] -> "../data/townSites2/Saugus/www.saugus-ma.gov/calendar/day/2017-01-17" [1]
+2017-01-02 07:54:14 URL:http://www.saugus-ma.gov/calendar/day/2017-01-19 [38229] -> "../data/townSites2/Saugus/www.saugus-ma.gov/calendar/day/2017-01-19" [1]
+2017-01-02 07:54:15 URL:http://www.saugus-ma.gov/board-selectmen/events/8063 [37262] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/8063" [1]
+2017-01-02 07:54:16 URL:http://www.saugus-ma.gov/print/8063 [7336] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/8063" [1]
+2017-01-02 07:54:17 URL: http://www.saugus-ma.gov/calendar/feed/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:19 URL:http://www.saugus-ma.gov/calendar/month/2016-12 [207569] -> "../data/townSites2/Saugus/www.saugus-ma.gov/calendar/month/2016-12" [1]
+2017-01-02 07:54:21 URL:http://www.saugus-ma.gov/calendar/month/2017-02 [67703] -> "../data/townSites2/Saugus/www.saugus-ma.gov/calendar/month/2017-02" [1]
+2017-01-02 07:54:22 URL:http://www.saugus-ma.gov/treasurer-collector/pages/bill-pay [39832] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/15" [1]
+2017-01-02 07:54:23 URL:http://www.saugus-ma.gov/print/15 [9722] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/15" [1]
+2017-01-02 07:54:24 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/w9_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:25 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/ma_withholding_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:26 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/federal_withholding_w4_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:27 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/direct_deposit_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:28 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/change_of_address_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:29 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/motor_vehicle_excise_abatement_application_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:30 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/change_of_address_form_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:31 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/food_plan_review_application_checklist.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:32 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/food_plan_review_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:33 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/food_plan_review_remodeling_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:34 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/food_permit_application_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:35 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/food_permit_application_checklist.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:36 URL:http://www.saugus-ma.gov/node/21/files [38399] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/21/files" [1]
+2017-01-02 07:54:37 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/comcast_senior_citizen_discount_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:38 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/application_for_street_banner.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:39 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/work_request_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:40 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/smoke_detector_inspection.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:41 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/business_contact_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:42 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/blasting_damage_compliant_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:43 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/w-4_form_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:44 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/policy_acknowledgement_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:45 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/mandatory_part-time_obra_enrollment_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:46 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/employment_eligibility_i-9_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:47 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/emergency_contact_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:49 URL:http://www.saugus-ma.gov/node/26/files [36527] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/26/files" [1]
+2017-01-02 07:54:50 URL:http://www.saugus-ma.gov/node/27/files [35774] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/27/files" [1]
+2017-01-02 07:54:51 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/w-4p_federal_witholding_tax_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:52 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/direct_deposit_form_-_retired_member.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:53 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/beneficiary_selection_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:54 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/business_certificate_worksheet_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:55 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/voter_registration.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:56 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/updated_posting_template.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:58 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/open_meeting_law_guide_-_august_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:54:59 URL:http://www.saugus-ma.gov/node/36/files [35620] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/36/files" [1]
+2017-01-02 07:55:00 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/american_ambulance_contract.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:55:01 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/request_for_refund_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:55:03 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/request_for_municipal_lien_certificate_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:55:04 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/abandoned_property_claim_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:55:05 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/massachusetts_application_for_review_abatement_of_water_sewer_charges.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:55:07 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/water_discount_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:55:08 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/water_sewer_change_of_name_address_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:55:09 URL: http://www.saugus-ma.gov/sites/saugusma/files/uploads/policy_for_second_water_meter_purchase_and_installation.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:55:11 URL:http://www.saugus-ma.gov/node/39/files [33864] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/39/files" [1]
+2017-01-02 07:55:14 URL:http://www.saugus-ma.gov/home/webforms/send-us-comments [42475/42475] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/2" [1]
+2017-01-02 07:55:16 URL:http://www.saugus-ma.gov/print/2 [15796/15796] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/2" [1]
+2017-01-02 07:55:17 URL:http://www.saugus-ma.gov/home/pages/website-disclaimer [35291] -> "../data/townSites2/Saugus/www.saugus-ma.gov/node/708" [1]
+2017-01-02 07:55:18 URL:http://www.saugus-ma.gov/print/708 [7805] -> "../data/townSites2/Saugus/www.saugus-ma.gov/print/708" [1]
+Found 4 broken links.
+
+http://www.saugus.mec.edu/District/School-Committee.htm
+https://malegislature.gov/People
+http://www.saugus-ma.gov/home/news/residents-invited-dispose-household-hazardous-waste%25C2%25A0-oct-1
+http://www.mass.gov/eopss/agencies/dfs/dfs2/osfm/pubed/fs-topics/fire-safety-topics-and-flyers.html
+
+FINISHED --2017-01-02 07:55:18--
+Total wall clock time: 22m 51s
+Downloaded: 842 files, 33M in 52s (646 KB/s)

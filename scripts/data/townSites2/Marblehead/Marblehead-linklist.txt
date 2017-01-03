@@ -1,0 +1,95 @@
+2017-01-02 02:31:40 URL:http://www.marblehead.org/ [53883/53883] -> "../data/townSites2/Marblehead/www.marblehead.org/index.html" [1]
+2017-01-02 02:31:40 URL: http://www.marblehead.org/images/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:42 URL:http://www.marblehead.org/index.aspx [53893/53893] -> "../data/townSites2/Marblehead/www.marblehead.org/index.asp" [1]
+2017-01-02 02:31:46 URL:http://www.marblehead.org/CivicAlerts.aspx [51085/51085] -> "../data/townSites2/Marblehead/www.marblehead.org/CivicAlerts.asp" [1]
+2017-01-02 02:31:49 URL:http://www.marblehead.org/CurrentEvents.aspx [85769/85769] -> "../data/townSites2/Marblehead/www.marblehead.org/CurrentEvents.asp" [1]
+2017-01-02 02:31:51 URL:http://www.marblehead.org/Directory.aspx [66590/66590] -> "../data/townSites2/Marblehead/www.marblehead.org/Directory.asp" [1]
+2017-01-02 02:31:52 URL:http://www.marblehead.org/EmailPage [42167/42167] -> "../data/townSites2/Marblehead/www.marblehead.org/emailpage.asp" [1]
+2017-01-02 02:31:56 URL:http://www.marblehead.org/faq.aspx [177351/177351] -> "../data/townSites2/Marblehead/www.marblehead.org/faq.asp" [1]
+2017-01-02 02:31:57 URL:http://www.marblehead.org/BusinessDirectoryII.aspx [54935/54935] -> "../data/townSites2/Marblehead/www.marblehead.org/BusinessDirectoryII.asp" [1]
+2017-01-02 02:32:00 URL:http://www.marblehead.org/list.aspx [67358/67358] -> "../data/townSites2/Marblehead/www.marblehead.org/list.aspx" [1]
+2017-01-02 02:32:02 URL:https://public.coderedweb.com/cne/en-US/FF7A74D708C0 [93907/93907] -> "../data/townSites2/Marblehead/www.marblehead.org/codered" [1]
+2017-01-02 02:32:07 URL:https://ecnetwork.com/codered-mobile-alert-app/ [26804] -> "../data/townSites2/Marblehead/www.marblehead.org/coderedmobile" [1]
+http://www.marblehead.org/DocumentCenter/View/12461:
+Remote file does not exist -- broken link!!!
+http://www.marblehead.org/DocumentCenter/View/198:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:32:09 URL:http://www.marblehead.org/RSS.aspx [45507/45507] -> "../data/townSites2/Marblehead/www.marblehead.org/RSS.aspx" [1]
+2017-01-02 02:32:12 URL:http://www.marblehead.org/CurrentEvents.aspx [85769/85769] -> "../data/townSites2/Marblehead/www.marblehead.org/CurrentEvents.aspx" [1]
+2017-01-02 02:32:13 URL:http://www.marblehead.org/Accessibility.aspx [37504/37504] -> "../data/townSites2/Marblehead/www.marblehead.org/Accessibility.asp" [1]
+2017-01-02 02:32:14 URL:http://www.marblehead.org/copyright.aspx [34321/34321] -> "../data/townSites2/Marblehead/www.marblehead.org/copyright.aspx" [1]
+2017-01-02 02:32:15 URL:http://www.marblehead.org/rss.aspx [45507/45507] -> "../data/townSites2/Marblehead/www.marblehead.org/rss.aspx" [1]
+http://www.marblehead.org/DocumentCenter/View/12365:
+Remote file does not exist -- broken link!!!
+http://www.marblehead.org/DocumentCenter/View/12797:
+Remote file does not exist -- broken link!!!
+http://www.marblehead.org/DocumentCenter/View/12622:
+Remote file does not exist -- broken link!!!
+http://www.marblehead.org/DocumentCenter/View/8153:
+Remote file does not exist -- broken link!!!
+http://www.marblehead.org/DocumentCenter/View/7081:
+Remote file does not exist -- broken link!!!
+http://www.marblehead.org/DocumentCenter/View/12623:
+Remote file does not exist -- broken link!!!
+http://www.marblehead.org/DocumentCenter/View/9074:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:32:19 URL:http://www.marblehead.org/DocumentCenter/Index/255 [58436/58436] -> "../data/townSites2/Marblehead/www.marblehead.org/DocumentCenter/Index/255" [1]
+2017-01-02 02:32:19 URL: http://www.marblehead.org/Common/modules/NotifyMe/NotifyMeAjax.asmx/js 200 OK
+unlink: No such file or directory
+2017-01-02 02:32:21 URL:http://www.marblehead.org/List.aspx [67358/67358] -> "../data/townSites2/Marblehead/www.marblehead.org/List.aspx" [1]
+2017-01-02 02:32:21 URL: http://www.marblehead.org/support/pages.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:32:21 URL: http://www.marblehead.org/support/newsflash.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:32:22 URL: http://www.marblehead.org/support/calendars.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:32:22 URL: http://www.marblehead.org/support/calendars14.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:32:22 URL: http://www.marblehead.org/support/calendars16.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:32:23 URL: http://www.marblehead.org/support/calendars19.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:32:23 URL: http://www.marblehead.org/support/calendars21.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:32:23 URL: http://www.marblehead.org/support/calendars22.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:32:23 URL: http://www.marblehead.org/support/calendars23.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:32:24 URL: http://www.marblehead.org/support/calendars24.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:32:24 URL: http://www.marblehead.org/support/calendars25.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:32:24 URL: http://www.marblehead.org/support/calendars26.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:32:25 URL: http://www.marblehead.org/support/calendars31.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:32:25 URL: http://www.marblehead.org/support/calendars28.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:32:25 URL: http://www.marblehead.org/support/newsflash11.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:32:26 URL: http://www.marblehead.org/support/newsflash20.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:32:26 URL: http://www.marblehead.org/support/newsflash1.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:32:26 URL: http://www.marblehead.org/support/newsflash7.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:32:27 URL: http://www.marblehead.org/support/newsflash9.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:32:28 URL:http://www.marblehead.org/iCalendar.aspx [38620/38620] -> "../data/townSites2/Marblehead/www.marblehead.org/iCalendar.aspx" [1]
+2017-01-02 02:32:29 URL:http://www.marblehead.org/Directory.aspx [66590/66590] -> "../data/townSites2/Marblehead/www.marblehead.org/contactus" [1]
+Found 9 broken links.
+
+http://www.marblehead.org/DocumentCenter/View/12622
+http://www.marblehead.org/DocumentCenter/View/12623
+http://www.marblehead.org/DocumentCenter/View/8153
+http://www.marblehead.org/DocumentCenter/View/198
+http://www.marblehead.org/DocumentCenter/View/12461
+http://www.marblehead.org/DocumentCenter/View/7081
+http://www.marblehead.org/DocumentCenter/View/9074
+http://www.marblehead.org/DocumentCenter/View/12365
+http://www.marblehead.org/DocumentCenter/View/12797
+
+FINISHED --2017-01-02 02:32:29--
+Total wall clock time: 51s
+Downloaded: 20 files, 1.2M in 1.6s (770 KB/s)

@@ -1,0 +1,44 @@
+2017-01-02 07:32:18 URL:http://www.sandwichmass.org/ [30750/30750] -> "../data/townSites2/Sandwich/www.sandwichmass.org/index.html" [1]
+2017-01-02 07:32:18 URL: http://www.sandwichmass.org/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 07:32:19 URL:http://www.sandwichmass.org/Default.asp [30750/30750] -> "../data/townSites2/Sandwich/www.sandwichmass.org/Default.asp" [1]
+2017-01-02 07:32:20 URL:http://www.sandwichmass.org/dog_license.asp [25178/25178] -> "../data/townSites2/Sandwich/www.sandwichmass.org/dog_license.asp" [1]
+2017-01-02 07:32:20 URL: http://www.sandwichmass.org/PublicDocuments/Sandwich%202010%20Town%20Report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:32:20 URL: http://www.sandwichmass.org/PublicDocuments/2012%20Annual%20Town%20Report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:32:21 URL:http://www.sandwichmass.org/Employment/Default.asp [6094/6094] -> "../data/townSites2/Sandwich/www.sandwichmass.org/Employment/Default.asp" [1]
+2017-01-02 07:32:22 URL:http://www.sandwichmass.org/Contact.asp [15869/15869] -> "../data/townSites2/Sandwich/www.sandwichmass.org/Contact.asp" [1]
+2017-01-02 07:32:22 URL: http://www.sandwichmass.org/PublicDocuments/Pages%20from%20CH14012BouFalmSandRevThresholds5-8-14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:32:23 URL:http://www.sandwichmass.org/calendar2/month.asp [22877/22877] -> "../data/townSites2/Sandwich/www.sandwichmass.org/calendar2/month.asp" [1]
+2017-01-02 07:32:24 URL:http://www.sandwichmass.org/TalentBank.asp [21543/21543] -> "../data/townSites2/Sandwich/www.sandwichmass.org/TalentBank.asp" [1]
+2017-01-02 07:32:24 URL: http://www.sandwichmass.org/PublicDocuments/Town%20of%20Sandwich%20By-Laws.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:32:24 URL: http://www.sandwichmass.org/PublicDocuments/Long%20Range%20Plan%20-%20May%202016%20Update.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:32:25 URL: http://www.sandwichmass.org/PublicDocuments/Final%20Zoning%20Bylaw%20-%20Nov%202015%20FINAL.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:32:25 URL: http://www.sandwichmass.org/PublicDocuments/Town%20Charter%202014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:32:25 URL: http://www.sandwichmass.org/PublicDocuments/Process%20Map%20PowerPoint%2011-21-11.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:32:26 URL: http://www.sandwichmass.org/PublicDocuments/2017-01-04%20Sandwich%20School%20Committee%20Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:32:26 URL: http://www.sandwichmass.org/PublicDocuments/Sandwich%20Ticket%20Booth%20Auction%20Notice.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:32:26 URL: http://www.sandwichmass.org/PublicDocuments/2017-01-04%20Conservation%20Commission%20Revised%20Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:32:27 URL: http://www.sandwichmass.org/PublicDocuments/2017-01-04%20Conservation%20Commission%20Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:32:27 URL: http://www.sandwichmass.org/PublicDocuments/2017-01-03%20Planning%20Board%20Agenda.pdf 200 OK
+unlink: No such file or directory
+http://www.sandwichmass.org/Defaultocc.asp:
+Remote file does not exist -- broken link!!!
+Found 1 broken link.
+
+http://www.sandwichmass.org/Defaultocc.asp
+
+FINISHED --2017-01-02 07:32:27--
+Total wall clock time: 11s
+Downloaded: 7 files, 149K in 0.3s (520 KB/s)

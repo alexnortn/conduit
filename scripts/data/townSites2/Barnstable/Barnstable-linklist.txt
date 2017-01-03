@@ -1,0 +1,7 @@
+Read error (Operation timed out) in headers.
+2017-01-02 02:03:40 URL:http://www.townofbarnstable.us/index.asp?h=t [70651/70651] -> "../data/townSites2/Barnstable/www.townofbarnstable.us/index.html" [1]
+Found no broken links.
+
+FINISHED --2017-01-02 02:03:40--
+Total wall clock time: 15m 2s
+Downloaded: 1 files, 69K in 0.1s (555 KB/s)

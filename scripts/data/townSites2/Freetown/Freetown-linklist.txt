@@ -1,0 +1,1422 @@
+2017-01-01 23:49:00 URL:http://www.freetownma.gov/ [72979] -> "../data/townSites2/Freetown/www.freetownma.gov/index.html" [1]
+2017-01-01 23:49:01 URL: http://www.freetownma.gov/town-calendar/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-01 23:49:03 URL:http://www.freetownma.gov/about-our-town [38652] -> "../data/townSites2/Freetown/www.freetownma.gov/about-our-town" [1]
+2017-01-01 23:49:05 URL:http://www.freetownma.gov/departments [51039] -> "../data/townSites2/Freetown/www.freetownma.gov/departments" [1]
+2017-01-01 23:49:09 URL:http://www.freetownma.gov/accountant [46979] -> "../data/townSites2/Freetown/www.freetownma.gov/accountant" [1]
+2017-01-01 23:49:11 URL: http://www.mass.gov/dor/docs/dls/mdmstuf/technical-assistance/jobs/accountant.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:49:13 URL:http://www.mass.gov/dor/local-officials/ [41639] -> "../data/townSites2/Freetown/www.freetownma.gov/accountant/links/dor-local-officials-website" [1]
+2017-01-01 23:49:16 URL: https://www.irs.gov/pub/irs-pdf/fw9.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:49:18 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/rev_all_funds_06302015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:49:20 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/balance_sheet_06302015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:49:22 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/exp_all_fund_06302015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:49:25 URL:http://www.freetownma.gov/animal-control-officer [56735] -> "../data/townSites2/Freetown/www.freetownma.gov/animal-control-officer" [1]
+2017-01-01 23:49:28 URL:http://www.freetownma.gov/animal-control-officer/pages/lost-dogs [39718] -> "../data/townSites2/Freetown/www.freetownma.gov/animal-control-officer/pages/lost-dogs" [1]
+2017-01-01 23:49:30 URL:http://www.freetownma.gov/animal-control-officer/pages/pet-adoptions [39250] -> "../data/townSites2/Freetown/www.freetownma.gov/animal-control-officer/pages/pet-adoptions" [1]
+2017-01-01 23:49:33 URL:http://www.freetownma.gov/animal-control-officer/slideshows/temp [40981] -> "../data/townSites2/Freetown/www.freetownma.gov/animal-control-officer/slideshows/temp" [1]
+2017-01-01 23:49:36 URL:http://www.freetownma.gov/building-department [47447] -> "../data/townSites2/Freetown/www.freetownma.gov/building-department" [1]
+2017-01-01 23:49:38 URL:http://www.freetownma.gov/building-department/pages/building-permits [40997] -> "../data/townSites2/Freetown/www.freetownma.gov/building-department/pages/building-permits" [1]
+2017-01-01 23:49:41 URL:http://www.freetownma.gov/building-department/pages/fees [48597] -> "../data/townSites2/Freetown/www.freetownma.gov/building-department/pages/fees" [1]
+2017-01-01 23:49:43 URL:http://www.freetownma.gov/building-department/pages/forms-1 [41131] -> "../data/townSites2/Freetown/www.freetownma.gov/building-department/pages/forms-1" [1]
+2017-01-01 23:49:45 URL:http://www.freetownma.gov/building-department/pages/gis-maps [40729] -> "../data/townSites2/Freetown/www.freetownma.gov/building-department/pages/gis-maps" [1]
+2017-01-01 23:49:47 URL:http://www.freetownma.gov/building-department/pages/hiring-a-contractor [42245] -> "../data/townSites2/Freetown/www.freetownma.gov/building-department/pages/hiring-a-contractor" [1]
+2017-01-01 23:49:49 URL:http://www.freetownma.gov/building-department/pages/inspector-of-electrical-wiring [43510] -> "../data/townSites2/Freetown/www.freetownma.gov/building-department/pages/inspector-of-electrical-wiring" [1]
+2017-01-01 23:49:52 URL:http://www.freetownma.gov/building-department/pages/inspector-of-gas-piping [42723] -> "../data/townSites2/Freetown/www.freetownma.gov/building-department/pages/inspector-of-gas-piping" [1]
+2017-01-01 23:49:54 URL:http://www.freetownma.gov/building-department/pages/inspector-of-plumbing [42122] -> "../data/townSites2/Freetown/www.freetownma.gov/building-department/pages/inspector-of-plumbing" [1]
+2017-01-01 23:49:56 URL:http://www.freetownma.gov/building-department/pages/pond-levels-2014 [40808] -> "../data/townSites2/Freetown/www.freetownma.gov/building-department/pages/pond-levels-2014" [1]
+2017-01-01 23:49:59 URL:http://www.freetownma.gov/building-department/pages/residential-building-app [41763] -> "../data/townSites2/Freetown/www.freetownma.gov/building-department/pages/residential-building-app" [1]
+2017-01-01 23:50:01 URL:http://www.freetownma.gov/building-department/pages/trenches [41105] -> "../data/townSites2/Freetown/www.freetownma.gov/building-department/pages/trenches" [1]
+2017-01-01 23:50:03 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/zoning_determination.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:50:07 URL:http://www.freetownma.gov/council-on-aging-0 [71864] -> "../data/townSites2/Freetown/www.freetownma.gov/council-on-aging-0" [1]
+2017-01-01 23:50:10 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/2015-free-fun-fridays-printable-schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:50:12 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/checklist_for_emerg_prep.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:50:14 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/da_newsletter_article_3_15_revised_pdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:50:16 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/june_2015_calendar_pdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:50:19 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/july_2014_insert_options_counseling.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:50:21 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/june_2015_newsletter_pdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:50:23 URL:http://www.freetownma.gov/council-on-aging/pages/what-is-the-council-on-aging [44420] -> "../data/townSites2/Freetown/www.freetownma.gov/council-on-aging/pages/what-is-the-council-on-aging" [1]
+2017-01-01 23:50:27 URL:http://www.freetownma.gov/curbside-trash-recycling [42794] -> "../data/townSites2/Freetown/www.freetownma.gov/curbside-trash-recycling" [1]
+2017-01-01 23:50:29 URL:http://www.freetownma.gov/curbside-trash-recycling/pages/2016-curbside-trashrecycling-calendar-with-holidays [40357] -> "../data/townSites2/Freetown/www.freetownma.gov/curbside-trash-recycling/pages/2016-curbside-trashrecycling-calendar-with-holidays" [1]
+2017-01-01 23:50:34 URL:http://www.freetownma.gov/elections [74073] -> "../data/townSites2/Freetown/www.freetownma.gov/elections" [1]
+2017-01-01 23:50:36 URL:http://www.freetownma.gov/elections/pages/absentee-ballot-applications [40147] -> "../data/townSites2/Freetown/www.freetownma.gov/elections/pages/absentee-ballot-applications" [1]
+2017-01-01 23:50:38 URL:http://www.freetownma.gov/elections/pages/election-ballots [42040] -> "../data/townSites2/Freetown/www.freetownma.gov/elections/pages/election-ballots" [1]
+2017-01-01 23:50:41 URL:http://www.freetownma.gov/elections/pages/election-results [40499] -> "../data/townSites2/Freetown/www.freetownma.gov/elections/pages/election-results" [1]
+2017-01-01 23:50:44 URL:https://www.sec.state.ma.us/ovr/ [66026/66026] -> "../data/townSites2/Freetown/www.freetownma.gov/elections/links/ma-register-to-vote-online" [1]
+2017-01-01 23:50:47 URL:https://www.sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx [83947/83947] -> "../data/townSites2/Freetown/www.freetownma.gov/elections/links/secretary-of-state-check-voter-status-etc" [1]
+2017-01-01 23:50:50 URL:http://www.sec.state.ma.us/ele/eleifv/howreg.htm [68525/68525] -> "../data/townSites2/Freetown/www.freetownma.gov/elections/links/voter-registration-form-mail-in" [1]
+2017-01-01 23:50:54 URL:http://www.freetownma.gov/emergency-management [41956] -> "../data/townSites2/Freetown/www.freetownma.gov/emergency-management" [1]
+2017-01-01 23:50:56 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/2014_apc_water_levels_navd88_1.xlsx 200 OK
+unlink: No such file or directory
+https://www.fema.gov/2016-atlantic-hurricane-season:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:51:02 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/assawompset_pond_level_2013.xlsx 200 OK
+unlink: No such file or directory
+2017-01-01 23:51:06 URL:https://www.fema.gov/ [34633] -> "../data/townSites2/Freetown/www.freetownma.gov/emergency-management/links/fema" [1]
+2017-01-01 23:51:08 URL:http://www.mass.gov/eopss/agencies/mema/ [113050] -> "../data/townSites2/Freetown/www.freetownma.gov/emergency-management/links/ma-massachusetts-emergency-mgmt-agency" [1]
+2017-01-01 23:51:11 URL:http://www.nhc.noaa.gov/ [44378] -> "../data/townSites2/Freetown/www.freetownma.gov/emergency-management/links/national-hurricane-center" [1]
+http://www.mass.gov/eopss/agencies/mema/ready-massachusetts/:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:51:14 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/winter_safety_series_before_the_storm_2013.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:51:18 URL:http://www.freetownma.gov/fire-department [48974] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department" [1]
+2017-01-01 23:51:21 URL:http://www.freetownma.gov/fire-department/pages/burn-permits-open-burning [46374] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/pages/burn-permits-open-burning" [1]
+2017-01-01 23:51:23 URL:http://www.freetownma.gov/fire-department/pages/find-us-on-social-media [44626] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/pages/find-us-on-social-media" [1]
+2017-01-01 23:51:25 URL:http://www.freetownma.gov/fire-department/pages/helpful-links [44072] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/pages/helpful-links" [1]
+2017-01-01 23:51:28 URL:http://www.ma-municipalities.com/ [276/276] -> "../data/townSites2/Freetown/www.freetownma.gov/home/links/massachusetts-municipal-guide" [1]
+2017-01-01 23:51:31 URL:http://www.freetownma.gov/fire-department/pages/members [44126] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/pages/members" [1]
+2017-01-01 23:51:33 URL:http://www.freetownma.gov/fire-department/pages/memorial-page [43043] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/pages/memorial-page" [1]
+2017-01-01 23:51:35 URL:http://www.freetownma.gov/fire-department/pages/memorial-plaques [43010] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/pages/memorial-plaques" [1]
+2017-01-01 23:51:37 URL:http://www.freetownma.gov/fire-department/pages/chief-allan-whitcomb [43308] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/pages/chief-allan-whitcomb" [1]
+2017-01-01 23:51:39 URL:http://www.freetownma.gov/fire-department/pages/chief-adelino-souza [43608] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/pages/chief-adelino-souza" [1]
+2017-01-01 23:51:41 URL:http://www.freetownma.gov/fire-department/pages/firefighter-perley-wotton [44100] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/pages/firefighter-perley-wotton" [1]
+2017-01-01 23:51:43 URL:http://www.freetownma.gov/fire-department/pages/our-history [43257] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/pages/our-history" [1]
+2017-01-01 23:51:46 URL:http://www.freetownma.gov/fire-department/pages/safety-tips [45298] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/pages/safety-tips" [1]
+2017-01-01 23:51:48 URL:http://www.freetownma.gov/fire-department/pages/stations-apparatus [42753] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/pages/stations-apparatus" [1]
+2017-01-01 23:51:52 URL:http://www.freetownma.gov/highway-department [48707] -> "../data/townSites2/Freetown/www.freetownma.gov/highway-department" [1]
+2017-01-01 23:51:55 URL:http://www.freetownma.gov/freetown-police-department [44440] -> "../data/townSites2/Freetown/www.freetownma.gov/freetown-police-department" [1]
+2017-01-01 23:51:59 URL:http://www.freetownma.gov/public-libraries [48820] -> "../data/townSites2/Freetown/www.freetownma.gov/public-libraries" [1]
+2017-01-01 23:52:02 URL:http://www.freetownma.gov/public-libraries/pages/guilford-library-history [40059] -> "../data/townSites2/Freetown/www.freetownma.gov/public-libraries/pages/guilford-library-history" [1]
+2017-01-01 23:52:04 URL:http://www.freetownma.gov/public-libraries/pages/sails-library-network [39411] -> "../data/townSites2/Freetown/www.freetownma.gov/public-libraries/pages/sails-library-network" [1]
+2017-01-01 23:52:07 URL:http://www.freetownma.gov/town-administrator [44422] -> "../data/townSites2/Freetown/www.freetownma.gov/town-administrator" [1]
+2017-01-01 23:52:11 URL:http://www.freetownma.gov/town-clerk [57763] -> "../data/townSites2/Freetown/www.freetownma.gov/town-clerk" [1]
+2017-01-01 23:52:13 URL:http://www.freetownma.gov/town-clerk/pages/birth-certificates [40409] -> "../data/townSites2/Freetown/www.freetownma.gov/town-clerk/pages/birth-certificates" [1]
+2017-01-01 23:52:16 URL:http://www.freetownma.gov/town-clerk/pages/bylaws-and-rules-regulations [41896] -> "../data/townSites2/Freetown/www.freetownma.gov/town-clerk/pages/bylaws-and-rules-regulations" [1]
+2017-01-01 23:52:18 URL:http://www.freetownma.gov/town-clerk/pages/death-certificates [40345] -> "../data/townSites2/Freetown/www.freetownma.gov/town-clerk/pages/death-certificates" [1]
+2017-01-01 23:52:20 URL:http://www.freetownma.gov/town-clerk/pages/dog-licenses [41283] -> "../data/townSites2/Freetown/www.freetownma.gov/town-clerk/pages/dog-licenses" [1]
+2017-01-01 23:52:23 URL:http://www.freetownma.gov/town-clerk/pages/fees [75009] -> "../data/townSites2/Freetown/www.freetownma.gov/town-clerk/pages/fees" [1]
+2017-01-01 23:52:25 URL:http://www.freetownma.gov/town-clerk/pages/marriage-licenses [45102] -> "../data/townSites2/Freetown/www.freetownma.gov/town-clerk/pages/marriage-licenses" [1]
+2017-01-01 23:52:28 URL:http://www.freetownma.gov/town-moderator [42795] -> "../data/townSites2/Freetown/www.freetownma.gov/town-moderator" [1]
+2017-01-01 23:52:32 URL:http://www.freetownma.gov/transfer-station [44372] -> "../data/townSites2/Freetown/www.freetownma.gov/transfer-station" [1]
+2017-01-01 23:52:36 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/curbside_recycling_program_pickup_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:52:38 URL:http://www.freetownma.gov/transfer-station/pages/fees [48779] -> "../data/townSites2/Freetown/www.freetownma.gov/transfer-station/pages/fees" [1]
+2017-01-01 23:52:42 URL:http://www.freetownma.gov/treasurer-collector-of-taxes [50143] -> "../data/townSites2/Freetown/www.freetownma.gov/treasurer-collector-of-taxes" [1]
+2017-01-01 23:52:45 URL:http://www.freetownma.gov/treasurer-collector-of-taxes/blog/fy2015-tax-taking-advertisement [40554] -> "../data/townSites2/Freetown/www.freetownma.gov/treasurer-collector-of-taxes/blog/fy2015-tax-taking-advertisement" [1]
+2017-01-01 23:52:48 URL:http://www.freetownma.gov/tree-warden [42626] -> "../data/townSites2/Freetown/www.freetownma.gov/tree-warden" [1]
+2017-01-01 23:52:52 URL:http://www.freetownma.gov/veterans-agent [54792] -> "../data/townSites2/Freetown/www.freetownma.gov/veterans-agent" [1]
+2017-01-01 23:52:55 URL:http://www.va.gov/ [47093/47093] -> "../data/townSites2/Freetown/www.freetownma.gov/veterans-agent/links/federal-benefits" [1]
+2017-01-01 23:52:57 URL:https://www.inmyarea.com/military [108363] -> "../data/townSites2/Freetown/www.freetownma.gov/veterans-agent/links/military-families-save-time-and-money" [1]
+2017-01-01 23:53:00 URL:http://www.mass.gov/veterans/ [98975] -> "../data/townSites2/Freetown/www.freetownma.gov/veterans-agent/links/state-veteran-benefits" [1]
+2017-01-01 23:53:03 URL:http://www.freetownmemorialpark.org/ [6613/6613] -> "../data/townSites2/Freetown/www.freetownma.gov/veterans-agent/links/town-veteran-memorials" [1]
+2017-01-01 23:53:06 URL:http://www.freetownma.gov/veterans-agent/pages/tyler-trahan-memorial-roundabout-dedication [39618] -> "../data/townSites2/Freetown/www.freetownma.gov/veterans-agent/pages/tyler-trahan-memorial-roundabout-dedication" [1]
+2017-01-01 23:53:08 URL:http://www.freetownma.gov/boards [56734] -> "../data/townSites2/Freetown/www.freetownma.gov/boards" [1]
+2017-01-01 23:53:12 URL:http://www.freetownma.gov/board-of-assessors [52622] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-assessors" [1]
+2017-01-01 23:53:15 URL:https://www.axisgis.com/FreetownMA/ [24693/24693] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-assessors/links/assessors-maps" [1]
+2017-01-01 23:53:18 URL:http://assessedvalues2.com/index.aspx?jurcode=102 [5831/5831] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-assessors/links/assessors-online-database" [1]
+2017-01-01 23:53:21 URL:http://www.freetownma.gov/board-of-assessors/pages/forms [39532] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-assessors/pages/forms" [1]
+2017-01-01 23:53:25 URL:http://www.freetownma.gov/board-of-health [50315] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-health" [1]
+2017-01-01 23:53:28 URL:http://www.freetownma.gov/board-of-health/pages/communicable-diseases [40856] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-health/pages/communicable-diseases" [1]
+2017-01-01 23:53:32 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/boh_fees.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:53:35 URL:http://www.freetownma.gov/board-of-health/pages/forms [41173] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-health/pages/forms" [1]
+2017-01-01 23:53:38 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/freetown_july_1_2016_calendar.doc 200 OK
+unlink: No such file or directory
+2017-01-01 23:53:40 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/household_hazardous_waste_drop-off_day.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:53:43 URL:http://www.mass.gov/eohhs/gov/departments/dph/ [51312] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-health/links/ma-dept-of-public-health" [1]
+2017-01-01 23:53:45 URL:http://www.mass.gov/eohhs/gov/departments/dph/programs/id/epidemiology/providers/mosquitoes-and-ticks.html [37081] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-health/links/mosquito-tick-prevention-0" [1]
+2017-01-01 23:53:49 URL:http://bristolcountymosquitocontrol.com/ [24265/24265] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-health/links/mosquito-facts-spraying" [1]
+2017-01-01 23:53:51 URL:http://www.freetownma.gov/board-of-health/pages/outdoor-hydronic-heaters [40891] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-health/pages/outdoor-hydronic-heaters" [1]
+2017-01-01 23:53:53 URL:http://www.mass.gov/eea/agencies/massdep/water/grants/title-5-septic-systems.html [167025] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-health/links/septic-system-financial-assistance-info" [1]
+2017-01-01 23:53:56 URL:http://www.freetownma.gov/board-of-health/pages/wells-and-wellwater [44156] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-health/pages/wells-and-wellwater" [1]
+2017-01-01 23:54:01 URL:http://www.freetownma.gov/board-of-registrars [61462] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-registrars" [1]
+2017-01-01 23:54:05 URL:http://www.freetownma.gov/board-of-selectmen [65884] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-selectmen" [1]
+2017-01-01 23:54:09 URL:https://vimeo.com/99562701 [67215/67215] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-selectmen/links/bos-meeting-stm-atm-6162014" [1]
+2017-01-01 23:54:12 URL:http://www.freetownma.gov/town-selectmen/pages/board-of-selectmen-meetings [46297] -> "../data/townSites2/Freetown/www.freetownma.gov/town-selectmen/pages/board-of-selectmen-meetings" [1]
+2017-01-01 23:54:16 URL:https://www.youtube.com/channel/UChaTeXQXW6kIfM8fvz-Wgwg [239125] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-selectmen/links/board-of-selectmen-videos" [1]
+2017-01-01 23:54:19 URL:http://www.freetownma.gov/town-selectmen/pages/fees [46200] -> "../data/townSites2/Freetown/www.freetownma.gov/town-selectmen/pages/fees" [1]
+2017-01-01 23:54:21 URL:http://www.freetownma.gov/town-selectmen/pages/forms-regulations [40646] -> "../data/townSites2/Freetown/www.freetownma.gov/town-selectmen/pages/forms-regulations" [1]
+2017-01-01 23:54:24 URL:http://www.freetownma.gov/board-of-selectmen/pages/open-meeting-law-complaints-2 [40320] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-selectmen/pages/open-meeting-law-complaints-2" [1]
+2017-01-01 23:54:30 URL:http://www.freetownma.gov/town-administrator [44422] -> "../data/townSites2/Freetown/www.freetownma.gov/town-selectmen/links/town-administrator" [1]
+2017-01-01 23:54:34 URL:http://www.freetownma.gov/building-committee [53569] -> "../data/townSites2/Freetown/www.freetownma.gov/building-committee" [1]
+2017-01-01 23:54:38 URL:http://www.freetownma.gov/cemetery-commission [55054] -> "../data/townSites2/Freetown/www.freetownma.gov/cemetery-commission" [1]
+2017-01-01 23:54:40 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/prices_effective_1-5-15a.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:54:42 URL:http://www.freetownma.gov/cemetery-commission/pages/forms-regulations-0 [40344] -> "../data/townSites2/Freetown/www.freetownma.gov/cemetery-commission/pages/forms-regulations-0" [1]
+2017-01-01 23:54:44 URL:http://www.freetownma.gov/cemetery-commission/pages/genealogy [43521] -> "../data/townSites2/Freetown/www.freetownma.gov/cemetery-commission/pages/genealogy" [1]
+2017-01-01 23:54:46 URL:http://www.freetownma.gov/cemetery-commission/pages/the-muster-ground [40516] -> "../data/townSites2/Freetown/www.freetownma.gov/cemetery-commission/pages/the-muster-ground" [1]
+2017-01-01 23:54:50 URL:http://www.freetownma.gov/conservation-commission [53915] -> "../data/townSites2/Freetown/www.freetownma.gov/conservation-commission" [1]
+2017-01-01 23:54:51 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/concom_frmnoticeintentinst.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:54:54 URL:http://www.freetownma.gov/conservation-commission/pages/conservation-permits [41237] -> "../data/townSites2/Freetown/www.freetownma.gov/conservation-commission/pages/conservation-permits" [1]
+2017-01-01 23:54:56 URL:http://www.freetownma.gov/conservation-commission/pages/forms-regulations [40225] -> "../data/townSites2/Freetown/www.freetownma.gov/conservation-commission/pages/forms-regulations" [1]
+2017-01-01 23:54:59 URL:http://www.freetownma.gov/conservation-commission/pages/stormwater-and-you [42423] -> "../data/townSites2/Freetown/www.freetownma.gov/conservation-commission/pages/stormwater-and-you" [1]
+http://www.horsleywitten.com/tauntonwatershed/TauntonRiver-WS-pubs.html?refreshed:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:55:03 URL:http://www.freetownma.gov/conservation-commission/pages/wetlands [45022] -> "../data/townSites2/Freetown/www.freetownma.gov/conservation-commission/pages/wetlands" [1]
+2017-01-01 23:55:07 URL:http://www.freetownma.gov/council-on-aging-board [54789] -> "../data/townSites2/Freetown/www.freetownma.gov/council-on-aging-board" [1]
+2017-01-01 23:55:10 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/2015-free-fun-fridays-printable-schedule_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:55:12 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/da_newsletter_article_3_15_revised_pdf_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:55:14 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/june_2015_calendar_pdf_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:55:17 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/july_2014_insert_options_counseling_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:55:19 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/pics_august_2013_cookout.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:55:21 URL:http://www.freetownma.gov/council-on-aging/pages/services [41955] -> "../data/townSites2/Freetown/www.freetownma.gov/council-on-aging/pages/services" [1]
+2017-01-01 23:55:23 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/june_2015_newsletter_pdf_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:55:25 URL:http://www.freetownma.gov/council-on-aging/pages/weekly-activities [40628] -> "../data/townSites2/Freetown/www.freetownma.gov/council-on-aging/pages/weekly-activities" [1]
+2017-01-01 23:55:29 URL:http://www.freetownma.gov/cultural-council [59190] -> "../data/townSites2/Freetown/www.freetownma.gov/cultural-council" [1]
+2017-01-01 23:55:33 URL:http://www.freetownma.gov/finance-committee [54205] -> "../data/townSites2/Freetown/www.freetownma.gov/finance-committee" [1]
+2017-01-01 23:55:36 URL:http://www.freetownma.gov/finance-committee/pages/budgets [39426] -> "../data/townSites2/Freetown/www.freetownma.gov/finance-committee/pages/budgets" [1]
+2017-01-01 23:55:37 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/fin_atfc_chapter4.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:55:40 URL:http://www.freetownma.gov/finance-committee/pages/financial-information-and-annual-reports [39863] -> "../data/townSites2/Freetown/www.freetownma.gov/finance-committee/pages/financial-information-and-annual-reports" [1]
+2017-01-01 23:55:42 URL:http://www.freetownma.gov/finance-committee/pages/forms [39418] -> "../data/townSites2/Freetown/www.freetownma.gov/finance-committee/pages/forms" [1]
+2017-01-01 23:55:45 URL:http://www.freetownma.gov/historical-commission [54950] -> "../data/townSites2/Freetown/www.freetownma.gov/historical-commission" [1]
+2017-01-01 23:55:49 URL:http://www.freetownma.gov/housing-authority [42504] -> "../data/townSites2/Freetown/www.freetownma.gov/housing-authority" [1]
+2017-01-01 23:55:53 URL:http://www.freetownma.gov/other-committees-and-boards [43737] -> "../data/townSites2/Freetown/www.freetownma.gov/other-committees-and-boards" [1]
+2017-01-01 23:55:56 URL:http://www.freetownma.gov/parade-fireworks-committee [54167] -> "../data/townSites2/Freetown/www.freetownma.gov/parade-fireworks-committee" [1]
+2017-01-01 23:56:00 URL:http://www.freetownma.gov/personnel-board [41636] -> "../data/townSites2/Freetown/www.freetownma.gov/personnel-board" [1]
+2017-01-01 23:56:04 URL:http://www.freetownma.gov/planning-board [55477] -> "../data/townSites2/Freetown/www.freetownma.gov/planning-board" [1]
+2017-01-01 23:56:07 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/abutter_information_sheet_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:56:11 URL:http://www.freetownma.gov/town-clerk/pages/bylaws-and-rules-regulations [41896] -> "../data/townSites2/Freetown/www.freetownma.gov/planning-board/links/bylaws" [1]
+2017-01-01 23:56:14 URL:http://www.freetownma.gov/planning-board/pages/fees [40806] -> "../data/townSites2/Freetown/www.freetownma.gov/planning-board/pages/fees" [1]
+2017-01-01 23:56:16 URL:http://www.freetownma.gov/planning-board/pages/forms-applications [40804] -> "../data/townSites2/Freetown/www.freetownma.gov/planning-board/pages/forms-applications" [1]
+2017-01-01 23:56:20 URL:https://www.axisgis.com/FreetownMA/ [24693/24693] -> "../data/townSites2/Freetown/www.freetownma.gov/planning-board/links/gis-maps" [1]
+2017-01-01 23:56:22 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/special_permit_application_2014_1.docx 200 OK
+unlink: No such file or directory
+2017-01-01 23:56:26 URL:http://www.freetownma.gov/scholarship-committee [52560] -> "../data/townSites2/Freetown/www.freetownma.gov/scholarship-committee" [1]
+2017-01-01 23:56:28 URL:http://www.freetownma.gov/scholarship-committee/pages/donations [39314] -> "../data/townSites2/Freetown/www.freetownma.gov/scholarship-committee/pages/donations" [1]
+2017-01-01 23:56:32 URL:http://www.freetownma.gov/school-councils [42321] -> "../data/townSites2/Freetown/www.freetownma.gov/school-councils" [1]
+2017-01-01 23:56:35 URL:http://www.freetownma.gov/school-committees-other-0 [42174] -> "../data/townSites2/Freetown/www.freetownma.gov/school-committees-other-0" [1]
+2017-01-01 23:56:39 URL:http://www.freetownma.gov/school-committee-regional-dist [47412] -> "../data/townSites2/Freetown/www.freetownma.gov/school-committee-regional-dist" [1]
+2017-01-01 23:56:42 URL:http://www.freetownma.gov/soil-conservation-board [51383] -> "../data/townSites2/Freetown/www.freetownma.gov/soil-conservation-board" [1]
+2017-01-01 23:56:46 URL:http://www.freetownma.gov/tax-relief-committee [39640] -> "../data/townSites2/Freetown/www.freetownma.gov/tax-relief-committee" [1]
+2017-01-01 23:56:49 URL:http://www.freetownma.gov/water-sewer-commission [52654] -> "../data/townSites2/Freetown/www.freetownma.gov/water-sewer-commission" [1]
+2017-01-01 23:56:51 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/water_2007qualityreport.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:56:53 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/water_2008qualityreport.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:56:55 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/water.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:56:56 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/qual_20160728105128.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:56:59 URL:http://www.freetownma.gov/water-commission/pages/fees-collected-by-the-water-commission [47225] -> "../data/townSites2/Freetown/www.freetownma.gov/water-commission/pages/fees-collected-by-the-water-commission" [1]
+2017-01-01 23:57:02 URL:http://www.freetownma.gov/zoning-board-of-appeals [52118] -> "../data/townSites2/Freetown/www.freetownma.gov/zoning-board-of-appeals" [1]
+2017-01-01 23:57:04 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/zba_factsheet.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:57:07 URL:http://www.freetownma.gov/zoning-board-of-appeals/pages/zba-fees [39600] -> "../data/townSites2/Freetown/www.freetownma.gov/zoning-board-of-appeals/pages/zba-fees" [1]
+2017-01-01 23:57:08 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/zba_20160804115848.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:57:11 URL:http://www.freetownma.gov/home/webforms/contact-us [45679] -> "../data/townSites2/Freetown/www.freetownma.gov/home/webforms/contact-us" [1]
+2017-01-01 23:57:13 URL:http://www.freetownma.gov/contacts-directory [77752] -> "../data/townSites2/Freetown/www.freetownma.gov/contacts-directory" [1]
+2017-01-01 23:57:16 URL:http://www.freetownma.gov/where [45698] -> "../data/townSites2/Freetown/www.freetownma.gov/where" [1]
+2017-01-01 23:57:21 URL:http://www.freetownma.gov/files [46183] -> "../data/townSites2/Freetown/www.freetownma.gov/files" [1]
+2017-01-01 23:57:26 URL:http://www.freetownma.gov/faqs [43934] -> "../data/townSites2/Freetown/www.freetownma.gov/faqs" [1]
+2017-01-01 23:57:29 URL:http://www.freetownma.gov/print/111 [21406] -> "../data/townSites2/Freetown/www.freetownma.gov/print/111" [1]
+2017-01-01 23:57:32 URL:http://www.freetownma.gov/printmail/111 [37339] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/111" [1]
+http://www.freetownma.gov/sites/freetownma/files/u74/elec4_20151113113329.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:57:33 URL: http://www.freetownma.gov/sites/freetownma/files/u201/eversourcenoticefromjack.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:57:34 URL: http://www.freetownma.gov/sites/freetownma/files/u61/eversourse_notice_to_residents.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:57:34 URL: http://www.freetownma.gov/sites/freetownma/files/u61/ma_opt_out_structure_for_municipal_aggregation_online.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:57:35 URL: http://www.freetownma.gov/sites/freetownma/files/u74/elec.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:57:38 URL:http://www.freetownma.gov/home/pages/online-payments [42787] -> "../data/townSites2/Freetown/www.freetownma.gov/home/pages/online-payments" [1]
+2017-01-01 23:57:41 URL:http://www.freetownma.gov/minutes-and-agendas [37575] -> "../data/townSites2/Freetown/www.freetownma.gov/minutes-and-agendas" [1]
+2017-01-01 23:57:44 URL:http://www.freetownma.gov/home/pages/board-vacancies [36924] -> "../data/townSites2/Freetown/www.freetownma.gov/home/pages/board-vacancies" [1]
+2017-01-01 23:57:47 URL:http://www.freetownma.gov/home/pages/vacancies [37291] -> "../data/townSites2/Freetown/www.freetownma.gov/home/pages/employment" [1]
+2017-01-01 23:57:49 URL:http://www.freetownma.gov/home/pages/public-records [39226] -> "../data/townSites2/Freetown/www.freetownma.gov/home/pages/public-records" [1]
+2017-01-01 23:57:51 URL:http://www.freetownma.gov/subscribe [54087] -> "../data/townSites2/Freetown/www.freetownma.gov/subscribe" [1]
+2017-01-01 23:57:53 URL:http://www.freetownma.gov/home/pages/town-hall-hours [37107] -> "../data/townSites2/Freetown/www.freetownma.gov/home/pages/town-hall-hours" [1]
+2017-01-01 23:57:56 URL:http://www.freetownma.gov/home/pages/elected-officials [45061] -> "../data/townSites2/Freetown/www.freetownma.gov/home/pages/elected-officials" [1]
+2017-01-01 23:57:58 URL:http://www.freetownma.gov/home/pages/state-and-federal-government [36866] -> "../data/townSites2/Freetown/www.freetownma.gov/home/pages/state-and-federal-government" [1]
+2017-01-01 23:58:00 URL:http://www.freetownma.gov/home/pages/community-links [37264] -> "../data/townSites2/Freetown/www.freetownma.gov/home/pages/community-links" [1]
+2017-01-01 23:58:02 URL:http://www.freetownma.gov/home/news/jeff-brum-fund-raiser [37120] -> "../data/townSites2/Freetown/www.freetownma.gov/home/news/jeff-brum-fund-raiser" [1]
+2017-01-01 23:58:04 URL:http://www.freetownma.gov/home/news/stormwater-pollution-prevention [38126] -> "../data/townSites2/Freetown/www.freetownma.gov/home/news/stormwater-pollution-prevention" [1]
+2017-01-01 23:58:07 URL:http://www.freetownma.gov/home/news/fema-flood-insurance-information [39885] -> "../data/townSites2/Freetown/www.freetownma.gov/home/news/fema-flood-insurance-information" [1]
+2017-01-01 23:58:09 URL:http://www.freetownma.gov/home/news/fy15-preliminary-values-public-disclosure [37115] -> "../data/townSites2/Freetown/www.freetownma.gov/home/news/fy15-preliminary-values-public-disclosure" [1]
+2017-01-01 23:58:11 URL:http://www.freetownma.gov/town-calendar/2017-01 [49833] -> "../data/townSites2/Freetown/www.freetownma.gov/town-calendar/2017-01" [1]
+2017-01-01 23:58:13 URL:http://www.freetownma.gov/user/login [36193] -> "../data/townSites2/Freetown/www.freetownma.gov/user/login" [1]
+2017-01-01 23:58:16 URL:http://www.freetownma.gov/website-disclaimer-and-privacy-policy [38600] -> "../data/townSites2/Freetown/www.freetownma.gov/node/468" [1]
+2017-01-01 23:58:18 URL:http://www.freetownma.gov/print/400 [4746] -> "../data/townSites2/Freetown/www.freetownma.gov/print/400" [1]
+2017-01-01 23:58:20 URL:http://www.freetownma.gov/printmail/400 [37359] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/400" [1]
+2017-01-01 23:58:22 URL: http://www.freetownma.gov/node/2140/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:58:24 URL:http://www.freetownma.gov/print/2140 [8442] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2140" [1]
+2017-01-01 23:58:26 URL:http://www.freetownma.gov/printmail/2140 [37357] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2140" [1]
+2017-01-01 23:58:28 URL:http://www.freetownma.gov/users/kfales/contact [38498] -> "../data/townSites2/Freetown/www.freetownma.gov/users/kfales/contact" [1]
+2017-01-01 23:58:30 URL:http://www.freetownma.gov/users/psousa/contact [38492] -> "../data/townSites2/Freetown/www.freetownma.gov/users/psousa/contact" [1]
+2017-01-01 23:58:33 URL:http://www.freetownma.gov/accountant/news/fiscal-year-2015-reports [44525] -> "../data/townSites2/Freetown/www.freetownma.gov/accountant/news/fiscal-year-2015-reports" [1]
+2017-01-01 23:58:35 URL:http://www.freetownma.gov/accountant/news/fiscal-year-2014-reports [40837] -> "../data/townSites2/Freetown/www.freetownma.gov/accountant/news/fiscal-year-2014-reports" [1]
+2017-01-01 23:58:37 URL:http://www.freetownma.gov/accountant/news/fiscal-year-2013-reports [40399] -> "../data/townSites2/Freetown/www.freetownma.gov/accountant/news/fiscal-year-2013-reports" [1]
+2017-01-01 23:58:39 URL:http://www.freetownma.gov/accountant/news/fiscal-year-2012-reports [40353] -> "../data/townSites2/Freetown/www.freetownma.gov/accountant/news/fiscal-year-2012-reports" [1]
+2017-01-01 23:58:41 URL:http://www.freetownma.gov/accountant/news/fiscal-year-2011-reports [40353] -> "../data/townSites2/Freetown/www.freetownma.gov/accountant/news/fiscal-year-2011-reports" [1]
+2017-01-01 23:58:44 URL:http://www.freetownma.gov/node/2140/news [40690] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2140/news" [1]
+2017-01-01 23:58:45 URL: http://www.freetownma.gov/node/1994/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:58:47 URL: http://www.freetownma.gov/node/1994/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-01 23:58:49 URL:http://www.freetownma.gov/animal-control-officer/urgent-alerts/assonet-bay-shore-area-residents-canine-distemper [39726] -> "../data/townSites2/Freetown/www.freetownma.gov/animal-control-officer/urgent-alerts/assonet-bay-shore-area-residents-canine-distemper" [1]
+2017-01-01 23:58:51 URL:http://www.freetownma.gov/print/1994 [7034] -> "../data/townSites2/Freetown/www.freetownma.gov/print/1994" [1]
+2017-01-01 23:58:53 URL:http://www.freetownma.gov/printmail/1994 [37381] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/1994" [1]
+2017-01-01 23:58:55 URL:http://www.freetownma.gov/users/lpodielsky/contact [38536] -> "../data/townSites2/Freetown/www.freetownma.gov/users/lpodielsky/contact" [1]
+2017-01-01 23:58:58 URL:http://www.freetownma.gov/animal-control-officer/news/dog-license-did-you-forget-something [39707] -> "../data/townSites2/Freetown/www.freetownma.gov/animal-control-officer/news/dog-license-did-you-forget-something" [1]
+2017-01-01 23:59:00 URL:http://www.freetownma.gov/node/1994/events/2017-01 [46956] -> "../data/townSites2/Freetown/www.freetownma.gov/node/1994/events/2017-01" [1]
+2017-01-01 23:59:02 URL:http://www.freetownma.gov/print/2073 [3481] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2073" [1]
+2017-01-01 23:59:04 URL:http://www.freetownma.gov/printmail/2073 [37384] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2073" [1]
+2017-01-01 23:59:06 URL:http://www.freetownma.gov/print/2072 [3009] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2072" [1]
+2017-01-01 23:59:08 URL:http://www.freetownma.gov/printmail/2072 [37392] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2072" [1]
+2017-01-01 23:59:10 URL:http://www.freetownma.gov/print/2291 [5114] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2291" [1]
+2017-01-01 23:59:12 URL:http://www.freetownma.gov/printmail/2291 [37379] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2291" [1]
+2017-01-01 23:59:14 URL: http://www.freetownma.gov/node/1996/feed 200 OK
+unlink: No such file or directory
+2017-01-01 23:59:17 URL:http://www.freetownma.gov/print/1996 [8329] -> "../data/townSites2/Freetown/www.freetownma.gov/print/1996" [1]
+2017-01-01 23:59:19 URL:http://www.freetownma.gov/printmail/1996 [37375] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/1996" [1]
+2017-01-01 23:59:21 URL:http://www.freetownma.gov/users/sbarbato/contact [38514] -> "../data/townSites2/Freetown/www.freetownma.gov/users/sbarbato/contact" [1]
+2017-01-01 23:59:24 URL:http://www.freetownma.gov/building-department/news/how-do-i-get-stormwater-permit-coverage-for-my-construction-site [41137] -> "../data/townSites2/Freetown/www.freetownma.gov/building-department/news/how-do-i-get-stormwater-permit-coverage-for-my-construction-site" [1]
+2017-01-01 23:59:26 URL:http://www.freetownma.gov/building-department/news/report-illegal-dumping [40753] -> "../data/townSites2/Freetown/www.freetownma.gov/building-department/news/report-illegal-dumping" [1]
+2017-01-01 23:59:29 URL:http://www.freetownma.gov/building-department/news/stormwater-best-management-practices [40857] -> "../data/townSites2/Freetown/www.freetownma.gov/building-department/news/stormwater-best-management-practices" [1]
+2017-01-01 23:59:31 URL:http://www.freetownma.gov/building-department/news/test [40509] -> "../data/townSites2/Freetown/www.freetownma.gov/building-department/news/test" [1]
+2017-01-01 23:59:33 URL:http://www.freetownma.gov/print/2078 [3377] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2078" [1]
+2017-01-01 23:59:35 URL:http://www.freetownma.gov/printmail/2078 [37395] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2078" [1]
+2017-01-01 23:59:37 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/steps_to_obtaining_a_building_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:59:39 URL:http://www.freetownma.gov/print/2085 [10989] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2085" [1]
+2017-01-01 23:59:42 URL:http://www.freetownma.gov/printmail/2085 [37371] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2085" [1]
+2017-01-01 23:59:44 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/buildingfees.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:59:46 URL:http://www.freetownma.gov/print/9491 [3753] -> "../data/townSites2/Freetown/www.freetownma.gov/print/9491" [1]
+2017-01-01 23:59:48 URL:http://www.freetownma.gov/printmail/9491 [37375] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/9491" [1]
+2017-01-01 23:59:49 URL: http://www.freetownma.gov/sites/freetownma/files/u83/commercial_building_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:59:49 URL: http://www.freetownma.gov/sites/freetownma/files/u147/residential_building_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:59:50 URL: http://www.freetownma.gov/sites/freetownma/files/u83/gas_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:59:50 URL: http://www.freetownma.gov/sites/freetownma/files/u83/trench_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:59:51 URL: http://www.freetownma.gov/sites/freetownma/files/u83/sheet_metal.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:59:51 URL: http://www.freetownma.gov/sites/freetownma/files/u83/electrical.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:59:52 URL: http://www.freetownma.gov/sites/freetownma/files/u83/home_occupation.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:59:52 URL: http://www.freetownma.gov/sites/freetownma/files/u83/zoning_determination.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:59:54 URL:http://www.freetownma.gov/print/2077 [3094] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2077" [1]
+2017-01-01 23:59:56 URL:http://www.freetownma.gov/printmail/2077 [37381] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2077" [1]
+2017-01-01 23:59:59 URL:http://www.freetownma.gov/print/2082 [4597] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2082" [1]
+2017-01-02 00:00:01 URL:http://www.freetownma.gov/printmail/2082 [37401] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2082" [1]
+2017-01-02 00:00:03 URL:http://www.freetownma.gov/print/2542 [5876] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2542" [1]
+2017-01-02 00:00:05 URL:http://www.freetownma.gov/printmail/2542 [37423] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2542" [1]
+2017-01-02 00:00:07 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/electrical_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:00:09 URL:http://www.freetownma.gov/print/2539 [5096] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2539" [1]
+2017-01-02 00:00:11 URL:http://www.freetownma.gov/printmail/2539 [37409] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2539" [1]
+2017-01-02 00:00:13 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/application_for_gas_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:00:15 URL:http://www.freetownma.gov/print/2540 [4523] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2540" [1]
+2017-01-02 00:00:17 URL:http://www.freetownma.gov/printmail/2540 [37406] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2540" [1]
+2017-01-02 00:00:19 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/application_for_plumbing_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:00:21 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/freetown_dept_fees.asp_.xls 200 OK
+unlink: No such file or directory
+2017-01-02 00:00:23 URL:http://www.freetownma.gov/print/4706 [3223] -> "../data/townSites2/Freetown/www.freetownma.gov/print/4706" [1]
+2017-01-02 00:00:26 URL:http://www.freetownma.gov/printmail/4706 [37395] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/4706" [1]
+2017-01-02 00:00:27 URL: http://www.freetownma.gov/sites/freetownma/files/assawompset_pond_levels_20142.xls 200 OK
+unlink: No such file or directory
+2017-01-02 00:00:29 URL:http://www.freetownma.gov/print/2087 [4335] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2087" [1]
+2017-01-02 00:00:32 URL:http://www.freetownma.gov/printmail/2087 [37411] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2087" [1]
+2017-01-02 00:00:34 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/application_for_home_occupation.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:00:36 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/application_for_change_of_use.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:00:38 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/building_workmanscomp.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:00:40 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/trench_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:00:41 URL:http://www.freetownma.gov/print/2084 [3493] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2084" [1]
+2017-01-02 00:00:44 URL:http://www.freetownma.gov/printmail/2084 [37379] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2084" [1]
+2017-01-02 00:00:46 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/building_trenches.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:00:48 URL: http://www.freetownma.gov/node/2293/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:00:50 URL:http://www.freetownma.gov/print/2293 [7792] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2293" [1]
+2017-01-02 00:00:53 URL:http://www.freetownma.gov/printmail/2293 [37371] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2293" [1]
+2017-01-02 00:00:55 URL:http://www.freetownma.gov/council-on-aging/news/the-senior-profile-newsletter [40792] -> "../data/townSites2/Freetown/www.freetownma.gov/council-on-aging/news/the-senior-profile-newsletter" [1]
+2017-01-02 00:00:57 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/0303m_coa.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:00:59 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/0203m_coa.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:01:01 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/0106m_coa.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:01:03 URL:http://www.freetownma.gov/print/2303 [7334] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2303" [1]
+2017-01-02 00:01:05 URL:http://www.freetownma.gov/printmail/2303 [37417] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2303" [1]
+2017-01-02 00:01:06 URL: http://www.freetownma.gov/node/2300/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:01:09 URL:http://www.freetownma.gov/print/2300 [5918] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2300" [1]
+2017-01-02 00:01:11 URL:http://www.freetownma.gov/printmail/2300 [37391] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2300" [1]
+2017-01-02 00:01:13 URL:http://www.freetownma.gov/users/kbernardo/contact [38526] -> "../data/townSites2/Freetown/www.freetownma.gov/users/kbernardo/contact" [1]
+2017-01-02 00:01:15 URL:http://www.freetownma.gov/users/ndimond/contact [38506] -> "../data/townSites2/Freetown/www.freetownma.gov/users/ndimond/contact" [1]
+2017-01-02 00:01:17 URL:http://www.freetownma.gov/curbside-trash-recycling/news/curbside-trash-pick-up-and-recycling [40305] -> "../data/townSites2/Freetown/www.freetownma.gov/curbside-trash-recycling/news/curbside-trash-pick-up-and-recycling" [1]
+2017-01-02 00:01:19 URL:http://www.freetownma.gov/curbside-trash-recycling/news/recycling-rigid-plastics-at-the-transfer-station [40441] -> "../data/townSites2/Freetown/www.freetownma.gov/curbside-trash-recycling/news/recycling-rigid-plastics-at-the-transfer-station" [1]
+2017-01-02 00:01:21 URL:http://www.freetownma.gov/curbside-trash-recycling/news/starting-july-1-2016-trashrecylcing-collection-update [40473] -> "../data/townSites2/Freetown/www.freetownma.gov/curbside-trash-recycling/news/starting-july-1-2016-trashrecylcing-collection-update" [1]
+2017-01-02 00:01:23 URL:http://www.freetownma.gov/print/9856 [3522] -> "../data/townSites2/Freetown/www.freetownma.gov/print/9856" [1]
+2017-01-02 00:01:25 URL:http://www.freetownma.gov/printmail/9856 [37471] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/9856" [1]
+2017-01-02 00:01:26 URL: http://www.freetownma.gov/sites/freetownma/files/trash_20160708093021.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:01:28 URL: http://www.freetownma.gov/node/2000/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:01:29 URL: http://www.freetownma.gov/node/2000/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:01:32 URL:http://www.freetownma.gov/print/2000 [24593] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2000" [1]
+2017-01-02 00:01:34 URL:http://www.freetownma.gov/printmail/2000 [37355] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2000" [1]
+2017-01-02 00:01:37 URL:http://www.freetownma.gov/elections/news/ma-new-early-voting-state-election [40064] -> "../data/townSites2/Freetown/www.freetownma.gov/elections/news/ma-new-early-voting-state-election" [1]
+2017-01-02 00:01:40 URL:http://www.freetownma.gov/node/2000/events/2017-01 [46889] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2000/events/2017-01" [1]
+2017-01-02 00:01:41 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/504cf_20160407134738.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:01:43 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/motta2_20160407134849.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:01:45 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/328cf_20160407134757.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:01:47 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/misc_camp_fin_20160209113152.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:01:49 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/k_des_20160209113246.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:01:51 URL:http://www.freetownma.gov/node/2000/minutes [101833] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2000/minutes" [1]
+2017-01-02 00:01:53 URL:http://www.freetownma.gov/print/2035 [3459] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2035" [1]
+2017-01-02 00:01:56 URL:http://www.freetownma.gov/printmail/2035 [37409] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2035" [1]
+2017-01-02 00:01:56 URL: http://www.freetownma.gov/sites/freetownma/files/absentee_ballot2_20160219104635.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:01:56 URL: http://www.freetownma.gov/sites/freetownma/files/family_absentee2_20160219104719.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:01:58 URL:http://www.freetownma.gov/print/4666 [5424] -> "../data/townSites2/Freetown/www.freetownma.gov/print/4666" [1]
+2017-01-02 00:02:01 URL:http://www.freetownma.gov/printmail/4666 [37385] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/4666" [1]
+2017-01-02 00:02:01 URL: http://www.freetownma.gov/sites/freetownma/files/prec1_ballot_20160922112751.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:02:02 URL: http://www.freetownma.gov/sites/freetownma/files/prec_23_ballot_20160922112824.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:02:03 URL: http://www.freetownma.gov/sites/freetownma/files/dem_ballot_20160718150235.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:02:03 URL: http://www.freetownma.gov/sites/freetownma/files/rep_ballot_20160718150257.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:02:03 URL: http://www.freetownma.gov/sites/freetownma/files/green_rainbow_ballot_20160718150325.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:02:04 URL: http://www.freetownma.gov/sites/freetownma/files/united_indep_ballot_20160718150359.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:02:05 URL: http://www.freetownma.gov/sites/freetownma/files/ballot_20160406122757.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:02:05 URL: http://www.freetownma.gov/sites/freetownma/files/d_ballot_20160113123618.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:02:06 URL: http://www.freetownma.gov/sites/freetownma/files/r_ballot_20160113123647.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:02:06 URL: http://www.freetownma.gov/sites/freetownma/files/gr_ballot_20160113123711.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:02:07 URL: http://www.freetownma.gov/sites/freetownma/files/un_ind_ballot_20160113123819.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:02:07 URL: http://www.freetownma.gov/sites/freetownma/files/ballot_june_22.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:02:08 URL: http://www.freetownma.gov/sites/freetownma/files/2015_sample_ballot.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:02:10 URL:http://www.freetownma.gov/print/8056 [4108] -> "../data/townSites2/Freetown/www.freetownma.gov/print/8056" [1]
+2017-01-02 00:02:12 URL:http://www.freetownma.gov/printmail/8056 [37385] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/8056" [1]
+2017-01-02 00:02:12 URL: http://www.freetownma.gov/sites/freetownma/files/u74/results_2016_20160406120808.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:02:13 URL: http://www.freetownma.gov/sites/freetownma/files/u74/elec_off_20160304132931.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:02:13 URL: http://www.freetownma.gov/sites/freetownma/files/u74/prime_off_20160912123816.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:02:14 URL: http://www.freetownma.gov/sites/freetownma/files/u74/new_20161114142750.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:02:14 URL: http://www.freetownma.gov/sites/freetownma/files/u74/15_annusl_20161114115919.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:02:14 URL: http://www.freetownma.gov/sites/freetownma/files/u74/15_june_20161114120114.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:02:15 URL: http://www.freetownma.gov/sites/freetownma/files/u74/14_annual_20161114120456.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:02:15 URL: http://www.freetownma.gov/sites/freetownma/files/u74/14_prim_20161114120735.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:02:15 URL: http://www.freetownma.gov/sites/freetownma/files/u74/24_state_20161114120900.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:02:17 URL: http://www.freetownma.gov/node/2022/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:02:20 URL:http://www.freetownma.gov/print/2022 [3894] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2022" [1]
+2017-01-02 00:02:22 URL:http://www.freetownma.gov/printmail/2022 [37377] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2022" [1]
+2017-01-02 00:02:23 URL: http://www.freetownma.gov/node/2002/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:02:26 URL:http://www.freetownma.gov/print/2002 [6808] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2002" [1]
+2017-01-02 00:02:29 URL:http://www.freetownma.gov/printmail/2002 [37368] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2002" [1]
+2017-01-02 00:02:32 URL:http://www.freetownma.gov/fire-department/faq/what-are-the-rules-for-outdoor-burning [43018] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/faq/what-are-the-rules-for-outdoor-burning" [1]
+2017-01-02 00:02:35 URL:http://www.freetownma.gov/fire-department/faq/do-personnel-on-the-ambulance-fight-fires-also [42786] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/faq/do-personnel-on-the-ambulance-fight-fires-also" [1]
+2017-01-02 00:02:37 URL:http://www.freetownma.gov/fire-department/faq/how-much-does-an-ambulance-transport-to-the-er-cost-i-think-i-need-emergency-car [43415] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/faq/how-much-does-an-ambulance-transport-to-the-er-cost-i-think-i-need-emergency-car" [1]
+2017-01-02 00:02:39 URL:http://www.freetownma.gov/fire-department/faq/does-the-fire-department-run-the-town%E2%80%99s-ambulance-service [42896] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/faq/does-the-fire-department-run-the-townâ%80%99s-ambulance-service" [1]
+2017-01-02 00:02:42 URL:http://www.freetownma.gov/fire-department/faq/is-there-always-someone-at-the-firehouse [43230] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/faq/is-there-always-someone-at-the-firehouse" [1]
+2017-01-02 00:02:44 URL:http://www.freetownma.gov/node/2002/faq [39708] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2002/faq" [1]
+2017-01-02 00:02:46 URL:http://www.freetownma.gov/fire-department/news/freetown-firefighters-assoc-fund-raiser [42690] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/news/freetown-firefighters-assoc-fund-raiser" [1]
+2017-01-02 00:02:48 URL:http://www.freetownma.gov/fire-department/news/annual-santa-ride-121413 [43400] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/news/annual-santa-ride-121413" [1]
+2017-01-02 00:02:50 URL:http://www.freetownma.gov/print/7876 [6882] -> "../data/townSites2/Freetown/www.freetownma.gov/print/7876" [1]
+2017-01-02 00:02:52 URL:http://www.freetownma.gov/printmail/7876 [37415] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/7876" [1]
+2017-01-02 00:02:54 URL:http://www.freetownma.gov/fire-department/webforms/activate-your-burn-permit-for-today-only [47475] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/webforms/activate-your-burn-permit-for-today-only" [1]
+2017-01-02 00:02:57 URL:http://www.freetownma.gov/fire-department/pages/open-burning-is-prohibited-at-this-time [42712] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/pages/open-burning-is-prohibited-at-this-time" [1]
+2017-01-02 00:02:58 URL:http://www.freetownma.gov/print/2381 [5010] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2381" [1]
+2017-01-02 00:03:01 URL:http://www.freetownma.gov/printmail/2381 [37405] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2381" [1]
+2017-01-02 00:03:03 URL:http://www.freetownma.gov/print/2463 [4536] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2463" [1]
+2017-01-02 00:03:05 URL:http://www.freetownma.gov/printmail/2463 [37385] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2463" [1]
+2017-01-02 00:03:07 URL:http://www.freetownma.gov/print/2402 [4584] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2402" [1]
+2017-01-02 00:03:09 URL:http://www.freetownma.gov/printmail/2402 [37373] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2402" [1]
+2017-01-02 00:03:12 URL:http://www.freetownma.gov/print/2458 [3607] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2458" [1]
+2017-01-02 00:03:13 URL:http://www.freetownma.gov/printmail/2458 [37385] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2458" [1]
+2017-01-02 00:03:15 URL:http://www.freetownma.gov/print/2459 [3445] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2459" [1]
+2017-01-02 00:03:18 URL:http://www.freetownma.gov/printmail/2459 [37391] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2459" [1]
+2017-01-02 00:03:20 URL:http://www.freetownma.gov/print/2460 [3674] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2460" [1]
+2017-01-02 00:03:22 URL:http://www.freetownma.gov/printmail/2460 [37399] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2460" [1]
+2017-01-02 00:03:24 URL:http://www.freetownma.gov/print/2461 [4013] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2461" [1]
+2017-01-02 00:03:27 URL:http://www.freetownma.gov/printmail/2461 [37397] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2461" [1]
+2017-01-02 00:03:29 URL:http://www.freetownma.gov/print/2462 [4419] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2462" [1]
+2017-01-02 00:03:31 URL:http://www.freetownma.gov/printmail/2462 [37409] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2462" [1]
+2017-01-02 00:03:33 URL:http://www.freetownma.gov/print/2382 [4033] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2382" [1]
+2017-01-02 00:03:35 URL:http://www.freetownma.gov/printmail/2382 [37381] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2382" [1]
+2017-01-02 00:03:39 URL:http://www.freetownma.gov/fire-department/pages/1880s-1950 [47913] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/pages/1880s-19500" [1]
+2017-01-02 00:03:41 URL:http://www.freetownma.gov/fire-department/pages/1950-1980 [49710] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/pages/1950-1980" [1]
+2017-01-02 00:03:44 URL:http://www.freetownma.gov/fire-department/pages/1980-1990 [46010] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/pages/1980-1990" [1]
+2017-01-02 00:03:46 URL:http://www.freetownma.gov/fire-department/pages/1990-2000 [46825] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/pages/1990-2000" [1]
+2017-01-02 00:03:49 URL:http://www.freetownma.gov/fire-department/pages/2000-present [47783] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/pages/2000-present" [1]
+2017-01-02 00:03:52 URL:http://www.freetownma.gov/print/2426 [5910] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2426" [1]
+2017-01-02 00:03:54 URL:http://www.freetownma.gov/printmail/2426 [37381] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2426" [1]
+2017-01-02 00:03:56 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/winter_fire_safety.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:03:58 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/halloween_safety.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:00 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/smoke_detect_fire_factors.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:02 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/emergency_notification_system.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:03 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/home_escape_plans_indd.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:05 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/fire_safety_tips.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:07 URL:http://www.freetownma.gov/print/2395 [3289] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2395" [1]
+2017-01-02 00:04:09 URL:http://www.freetownma.gov/printmail/2395 [37397] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2395" [1]
+2017-01-02 00:04:11 URL:http://www.freetownma.gov/fire-department/pages/station-1 [44846] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/pages/station-1" [1]
+2017-01-02 00:04:13 URL:http://www.freetownma.gov/fire-department/pages/station-2 [48477] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/pages/station-2" [1]
+2017-01-02 00:04:16 URL:http://www.freetownma.gov/fire-department/pages/station-3 [46862] -> "../data/townSites2/Freetown/www.freetownma.gov/fire-department/pages/station-3" [1]
+2017-01-02 00:04:17 URL: http://www.freetownma.gov/node/2024/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:19 URL:http://www.freetownma.gov/highway-department/urgent-alerts/town-road-alerts [38930] -> "../data/townSites2/Freetown/www.freetownma.gov/highway-department/urgent-alerts/town-road-alerts" [1]
+2017-01-02 00:04:22 URL:http://www.freetownma.gov/print/2024 [10660] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2024" [1]
+2017-01-02 00:04:24 URL:http://www.freetownma.gov/printmail/2024 [37373] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2024" [1]
+http://www.freetownma.gov/user/%252Fcontact:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:04:27 URL: http://www.freetownma.gov/node/2007/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:30 URL:http://www.freetownma.gov/print/2007 [6890] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2007" [1]
+2017-01-02 00:04:32 URL:http://www.freetownma.gov/printmail/2007 [37389] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2007" [1]
+2017-01-02 00:04:34 URL: http://www.freetownma.gov/node/2008/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:37 URL:http://www.freetownma.gov/print/2008 [7360] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2008" [1]
+2017-01-02 00:04:39 URL:http://www.freetownma.gov/printmail/2008 [37369] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2008" [1]
+2017-01-02 00:04:41 URL:http://www.freetownma.gov/print/2110 [3871] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2110" [1]
+2017-01-02 00:04:43 URL:http://www.freetownma.gov/printmail/2110 [37408] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2110" [1]
+2017-01-02 00:04:45 URL:http://www.freetownma.gov/print/2109 [3226] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2109" [1]
+2017-01-02 00:04:48 URL:http://www.freetownma.gov/printmail/2109 [37402] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2109" [1]
+2017-01-02 00:04:49 URL: http://www.freetownma.gov/node/2013/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:52 URL:http://www.freetownma.gov/print/2013 [7501] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2013" [1]
+2017-01-02 00:04:54 URL:http://www.freetownma.gov/printmail/2013 [37373] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2013" [1]
+2017-01-02 00:04:56 URL:http://www.freetownma.gov/users/jhealey/contact [38502] -> "../data/townSites2/Freetown/www.freetownma.gov/users/jhealey/contact" [1]
+2017-01-02 00:04:58 URL: http://www.freetownma.gov/node/2014/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:59 URL: http://www.freetownma.gov/node/2014/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:02 URL:http://www.freetownma.gov/print/2014 [8789] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2014" [1]
+2017-01-02 00:05:04 URL:http://www.freetownma.gov/printmail/2014 [37357] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2014" [1]
+2017-01-02 00:05:06 URL:http://www.freetownma.gov/town-clerk/faq/where-are-public-meeting-notices-posted [40402] -> "../data/townSites2/Freetown/www.freetownma.gov/town-clerk/faq/where-are-public-meeting-notices-posted" [1]
+2017-01-02 00:05:09 URL:http://www.freetownma.gov/town-clerk/faq/how-can-i-obtain-a-passport [40670] -> "../data/townSites2/Freetown/www.freetownma.gov/town-clerk/faq/how-can-i-obtain-a-passport" [1]
+2017-01-02 00:05:11 URL:http://www.freetownma.gov/town-clerk/news/ag-by-law-approval-from-atm-662016 [40160] -> "../data/townSites2/Freetown/www.freetownma.gov/town-clerk/news/ag-by-law-approval-from-atm-662016" [1]
+2017-01-02 00:05:13 URL:http://www.freetownma.gov/town-clerk/news/freetown-map [39961] -> "../data/townSites2/Freetown/www.freetownma.gov/town-clerk/news/freetown-map" [1]
+2017-01-02 00:05:16 URL:http://www.freetownma.gov/town-clerk/news/2016residents-information-guide [40148] -> "../data/townSites2/Freetown/www.freetownma.gov/town-clerk/news/2016residents-information-guide" [1]
+2017-01-02 00:05:18 URL:http://www.freetownma.gov/town-clerk/news/2016-dog-license-renewal-form [40104] -> "../data/townSites2/Freetown/www.freetownma.gov/town-clerk/news/2016-dog-license-renewal-form" [1]
+2017-01-02 00:05:20 URL:http://www.freetownma.gov/node/2014/events/2017-01 [46894] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2014/events/2017-01" [1]
+2017-01-02 00:05:22 URL:http://www.freetownma.gov/print/2037 [3627] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2037" [1]
+2017-01-02 00:05:25 URL:http://www.freetownma.gov/printmail/2037 [37390] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2037" [1]
+2017-01-02 00:05:27 URL:http://www.freetownma.gov/print/2030 [5410] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2030" [1]
+2017-01-02 00:05:29 URL:http://www.freetownma.gov/printmail/2030 [37416] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2030" [1]
+2017-01-02 00:05:29 URL: http://www.freetownma.gov/sites/freetownma/files/u74/by-laws_atm_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:30 URL: http://www.freetownma.gov/sites/freetownma/files/u74/gen_20151223123425.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:30 URL: http://www.freetownma.gov/sites/freetownma/files/u74/zoning_map_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:32 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/rules_and_regulations_of_planning_board_subdivision.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:34 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/special_permits_regulations_-_planning_board.pdf 200 OK
+unlink: No such file or directory
+http://www.freetownma.gov/sites/freetownma/files/u74/pmud.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:05:37 URL: http://www.freetownma.gov/sites/freetownma/files/u74/plan2_20160831135340.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:37 URL: http://www.freetownma.gov/sites/freetownma/files/u74/con_20160714075911.pdf 200 OK
+unlink: No such file or directory
+http://www.freetownma.gov/sites/freetownma/files/u74/use_con_20160714080258.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:05:39 URL: http://www.freetownma.gov/sites/freetownma/files/u74/rec_20160714081921.pdf 200 OK
+unlink: No such file or directory
+http://www.freetownma.gov/sites/freetownma/files/u74/stick_20160714082141.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:05:41 URL: http://www.freetownma.gov/sites/freetownma/files/u74/zba_20160804115848.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:43 URL:http://www.freetownma.gov/print/11091 [3621] -> "../data/townSites2/Freetown/www.freetownma.gov/print/11091" [1]
+2017-01-02 00:05:45 URL:http://www.freetownma.gov/printmail/11091 [37396] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/11091" [1]
+2017-01-02 00:05:47 URL:http://www.freetownma.gov/print/2038 [4507] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2038" [1]
+2017-01-02 00:05:49 URL:http://www.freetownma.gov/printmail/2038 [37378] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2038" [1]
+2017-01-02 00:05:51 URL:http://www.freetownma.gov/print/2029 [38241] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2029" [1]
+2017-01-02 00:05:53 URL:http://www.freetownma.gov/printmail/2029 [37362] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2029" [1]
+2017-01-02 00:05:55 URL:http://www.freetownma.gov/print/2039 [8321] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2039" [1]
+2017-01-02 00:05:57 URL:http://www.freetownma.gov/printmail/2039 [37388] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2039" [1]
+2017-01-02 00:05:59 URL: http://www.freetownma.gov/node/2015/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:06:01 URL:http://www.freetownma.gov/print/2015 [7411] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2015" [1]
+2017-01-02 00:06:03 URL:http://www.freetownma.gov/printmail/2015 [37365] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2015" [1]
+2017-01-02 00:06:06 URL:http://www.freetownma.gov/town-moderator/news/test [38587] -> "../data/townSites2/Freetown/www.freetownma.gov/town-moderator/news/test" [1]
+2017-01-02 00:06:08 URL: http://www.freetownma.gov/node/2017/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:06:11 URL:http://www.freetownma.gov/print/2017 [7750] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2017" [1]
+2017-01-02 00:06:13 URL:http://www.freetownma.gov/printmail/2017 [37370] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2017" [1]
+2017-01-02 00:06:15 URL:http://www.freetownma.gov/transfer-station/news/announcement [39461] -> "../data/townSites2/Freetown/www.freetownma.gov/transfer-station/news/announcement" [1]
+2017-01-02 00:06:18 URL:http://www.freetownma.gov/print/2069 [12399] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2069" [1]
+2017-01-02 00:06:20 URL:http://www.freetownma.gov/printmail/2069 [37368] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2069" [1]
+2017-01-02 00:06:22 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/transferfees.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:06:24 URL: http://www.freetownma.gov/node/2018/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:06:26 URL:http://www.freetownma.gov/print/2018 [9923] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2018" [1]
+2017-01-02 00:06:28 URL:http://www.freetownma.gov/printmail/2018 [37399] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2018" [1]
+2017-01-02 00:06:30 URL:http://www.freetownma.gov/treasurer-collector-of-taxes/faq/what-is-the-tax-rate-in-freetown [39334] -> "../data/townSites2/Freetown/www.freetownma.gov/treasurer-collector-of-taxes/faq/what-is-the-tax-rate-in-freetown" [1]
+2017-01-02 00:06:34 URL:http://www.freetownma.gov/treasurer-collector-of-taxes/faq/why-does-my-tax-payment-go-to-boston [40101] -> "../data/townSites2/Freetown/www.freetownma.gov/treasurer-collector-of-taxes/faq/why-does-my-tax-payment-go-to-boston" [1]
+2017-01-02 00:06:36 URL:http://www.freetownma.gov/treasurer-collector-of-taxes/faq/can-i-make-partial-payments-on-my-taxes [39597] -> "../data/townSites2/Freetown/www.freetownma.gov/treasurer-collector-of-taxes/faq/can-i-make-partial-payments-on-my-taxes" [1]
+2017-01-02 00:06:38 URL:http://www.freetownma.gov/treasurer-collector-of-taxes/faq/town-hall-is-closed-how-can-i-make-my-payment [39718] -> "../data/townSites2/Freetown/www.freetownma.gov/treasurer-collector-of-taxes/faq/town-hall-is-closed-how-can-i-make-my-payment" [1]
+2017-01-02 00:06:40 URL:http://www.freetownma.gov/treasurer-collector-of-taxes/faq/when-are-my-property-taxes-due [39335] -> "../data/townSites2/Freetown/www.freetownma.gov/treasurer-collector-of-taxes/faq/when-are-my-property-taxes-due" [1]
+2017-01-02 00:06:42 URL:http://www.freetownma.gov/treasurer-collector-of-taxes/news/real-estate-bill-due-august-1st [39429] -> "../data/townSites2/Freetown/www.freetownma.gov/treasurer-collector-of-taxes/news/real-estate-bill-due-august-1st" [1]
+2017-01-02 00:06:45 URL:http://www.freetownma.gov/treasurer-collector-of-taxes/news/you-can-now-pay-your-excise-tax-and-water-bill-online [39647] -> "../data/townSites2/Freetown/www.freetownma.gov/treasurer-collector-of-taxes/news/you-can-now-pay-your-excise-tax-and-water-bill-online" [1]
+2017-01-02 00:06:48 URL:http://www.freetownma.gov/treasurer-collector-of-taxes/news/helpfull-tips-for-paying-your-bills [49732] -> "../data/townSites2/Freetown/www.freetownma.gov/treasurer-collector-of-taxes/news/helpfull-tips-for-paying-your-bills" [1]
+2017-01-02 00:06:50 URL:http://www.freetownma.gov/blog/166 [35856] -> "../data/townSites2/Freetown/www.freetownma.gov/blog/166" [1]
+2017-01-02 00:06:52 URL:http://www.freetownma.gov/print/14961 [3486] -> "../data/townSites2/Freetown/www.freetownma.gov/print/14961" [1]
+2017-01-02 00:06:54 URL:http://www.freetownma.gov/printmail/14961 [37439] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/14961" [1]
+2017-01-02 00:06:55 URL: http://www.freetownma.gov/sites/freetownma/files/freetown_-_tax_taking_-_fy2015.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:06:57 URL:http://www.freetownma.gov/blog [35813] -> "../data/townSites2/Freetown/www.freetownma.gov/blog.1" [1]
+2017-01-02 00:06:58 URL: http://www.freetownma.gov/node/2127/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:07:01 URL:http://www.freetownma.gov/print/2127 [7250] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2127" [1]
+2017-01-02 00:07:03 URL:http://www.freetownma.gov/printmail/2127 [37359] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2127" [1]
+2017-01-02 00:07:04 URL:http://www.freetownma.gov/tree-warden/news/test [38661] -> "../data/townSites2/Freetown/www.freetownma.gov/tree-warden/news/test" [1]
+2017-01-02 00:07:06 URL: http://www.freetownma.gov/node/2019/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:07:07 URL: http://www.freetownma.gov/node/2019/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:07:09 URL:http://www.freetownma.gov/print/2019 [7582] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2019" [1]
+2017-01-02 00:07:12 URL:http://www.freetownma.gov/printmail/2019 [37365] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2019" [1]
+2017-01-02 00:07:14 URL:http://www.freetownma.gov/users/veterans-agent/contact [38578] -> "../data/townSites2/Freetown/www.freetownma.gov/users/veterans-agent/contact" [1]
+2017-01-02 00:07:17 URL:http://www.freetownma.gov/veterans-agent/news/ma-housing-operation-welcome-home [39905] -> "../data/townSites2/Freetown/www.freetownma.gov/veterans-agent/news/ma-housing-operation-welcome-home" [1]
+2017-01-02 00:07:19 URL:http://www.freetownma.gov/veterans-agent/news/great-news-the-usps-is-hiring-do-you-know-someone-who-is-looking-for-a-job [40422] -> "../data/townSites2/Freetown/www.freetownma.gov/veterans-agent/news/great-news-the-usps-is-hiring-do-you-know-someone-who-is-looking-for-a-job" [1]
+2017-01-02 00:07:21 URL:http://www.freetownma.gov/veterans-agent/news/hiring-our-heroes-trucking-track [39896] -> "../data/townSites2/Freetown/www.freetownma.gov/veterans-agent/news/hiring-our-heroes-trucking-track" [1]
+2017-01-02 00:07:23 URL:http://www.freetownma.gov/node/2019/events/2017-01 [46914] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2019/events/2017-01" [1]
+2017-01-02 00:07:25 URL:http://www.freetownma.gov/print/3596 [3136] -> "../data/townSites2/Freetown/www.freetownma.gov/print/3596" [1]
+2017-01-02 00:07:27 URL:http://www.freetownma.gov/printmail/3596 [37444] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/3596" [1]
+2017-01-02 00:07:31 URL:http://www.freetownma.gov/library-trustees [49319] -> "../data/townSites2/Freetown/www.freetownma.gov/library-trustees" [1]
+2017-01-02 00:07:34 URL: http://www.freetownma.gov/node/1992/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:07:37 URL:http://www.freetownma.gov/print/1992 [8907] -> "../data/townSites2/Freetown/www.freetownma.gov/print/1992" [1]
+2017-01-02 00:07:39 URL:http://www.freetownma.gov/printmail/1992 [37373] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/1992" [1]
+2017-01-02 00:07:41 URL:http://www.freetownma.gov/board-of-assessors/news/important-notice-regarding-the-cyclical-inspection-program-currently-being-c [41571] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-assessors/news/important-notice-regarding-the-cyclical-inspection-program-currently-being-c" [1]
+2017-01-02 00:07:43 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/boa__1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:07:45 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/boa_cxld_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:07:48 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/boa2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:07:49 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/board_of_assessors_._11.28.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:07:52 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/boa_cxld_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:07:56 URL:http://www.freetownma.gov/node/1992/agenda [127298] -> "../data/townSites2/Freetown/www.freetownma.gov/node/1992/agenda" [1]
+2017-01-02 00:07:58 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_ass_0804_20160818120818.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:08:01 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_ass_0718_20160818120758.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:08:03 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_ass_0627_20160818120735.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:08:05 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_ass_0620_20160818120713.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:08:07 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/boa_0613_20160824105215.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:08:11 URL:http://www.freetownma.gov/node/1992/minutes [70834] -> "../data/townSites2/Freetown/www.freetownma.gov/node/1992/minutes" [1]
+2017-01-02 00:08:13 URL:http://www.freetownma.gov/print/2139 [3162] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2139" [1]
+2017-01-02 00:08:16 URL:http://www.freetownma.gov/printmail/2139 [37372] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2139" [1]
+2017-01-02 00:08:18 URL: http://www.freetownma.gov/node/1993/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:08:21 URL:http://www.freetownma.gov/print/1993 [10779] -> "../data/townSites2/Freetown/www.freetownma.gov/print/1993" [1]
+2017-01-02 00:08:24 URL:http://www.freetownma.gov/printmail/1993 [37367] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/1993" [1]
+2017-01-02 00:08:26 URL:http://www.freetownma.gov/users/ldesmarais/contact [38536] -> "../data/townSites2/Freetown/www.freetownma.gov/users/ldesmarais/contact" [1]
+2017-01-02 00:08:29 URL:http://www.freetownma.gov/board-of-health/news/holiday-health-and-safety-tips [41167] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-health/news/holiday-health-and-safety-tips" [1]
+2017-01-02 00:08:31 URL:http://www.freetownma.gov/board-of-health/news/storm-fact-sheet [40663] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-health/news/storm-fact-sheet" [1]
+2017-01-02 00:08:34 URL:http://www.freetownma.gov/board-of-health/news/public-health-fact-sheet-re-head-lice [40809] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-health/news/public-health-fact-sheet-re-head-lice" [1]
+2017-01-02 00:08:37 URL:http://www.freetownma.gov/board-of-health/news/sixth-human-case-of-west-nile-virus-in-massachusetts-0 [40986] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-health/news/sixth-human-case-of-west-nile-virus-in-massachusetts-0" [1]
+2017-01-02 00:08:39 URL:http://www.freetownma.gov/board-of-health/news/sixth-human-case-of-west-nile-virus-in-massachusetts [40976] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-health/news/sixth-human-case-of-west-nile-virus-in-massachusetts" [1]
+2017-01-02 00:08:42 URL:http://www.freetownma.gov/node/1993/news [44302] -> "../data/townSites2/Freetown/www.freetownma.gov/node/1993/news" [1]
+2017-01-02 00:08:45 URL:http://www.freetownma.gov/print/2067 [3289] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2067" [1]
+2017-01-02 00:08:47 URL:http://www.freetownma.gov/printmail/2067 [37401] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2067" [1]
+2017-01-02 00:08:50 URL:http://www.freetownma.gov/print/2521 [3797] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2521" [1]
+2017-01-02 00:08:52 URL:http://www.freetownma.gov/printmail/2521 [37369] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2521" [1]
+2017-01-02 00:08:54 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/app_for_a_pump_and_transport_lic.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:08:56 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/app_for_boh_variance.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:08:58 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/app_for_well_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:01 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/boh_app_for_a_lic_or_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:03 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/perctest_request_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:05 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/trenchpermit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:05 URL: http://www.freetownma.gov/sites/freetownma/files/u147/installers_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:07 URL:http://www.freetownma.gov/print/2065 [3371] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2065" [1]
+2017-01-02 00:09:10 URL:http://www.freetownma.gov/printmail/2065 [37407] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2065" [1]
+2017-01-02 00:09:12 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/ohhregfl.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:13 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/ohhregfs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:16 URL:http://www.freetownma.gov/print/2061 [6591] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2061" [1]
+2017-01-02 00:09:18 URL:http://www.freetownma.gov/printmail/2061 [37397] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2061" [1]
+2017-01-02 00:09:21 URL: http://www.freetownma.gov/node/1995/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:22 URL: http://www.freetownma.gov/node/1995/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:25 URL:http://www.freetownma.gov/print/1995 [9222] -> "../data/townSites2/Freetown/www.freetownma.gov/print/1995" [1]
+2017-01-02 00:09:27 URL:http://www.freetownma.gov/printmail/1995 [37375] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/1995" [1]
+2017-01-02 00:09:30 URL:http://www.freetownma.gov/board-of-registrars/news/test [39300] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-registrars/news/test" [1]
+2017-01-02 00:09:32 URL:http://www.freetownma.gov/node/1995/events/2017-01 [46939] -> "../data/townSites2/Freetown/www.freetownma.gov/node/1995/events/2017-01" [1]
+2017-01-02 00:09:34 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/bor_cxld_600_20161110154655.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:36 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/bor_cxld_430_20161110154632.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:39 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/b_o_r_20160923113225.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:41 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/reg_20160907142644.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:43 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/board_of_reg_20160801121844.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:46 URL:http://www.freetownma.gov/node/1995/agenda [65362] -> "../data/townSites2/Freetown/www.freetownma.gov/node/1995/agenda" [1]
+2017-01-02 00:09:48 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/bor_20160824105740.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:50 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/527_20160714112607.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:51 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/517_20160714112626.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:53 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/reg_315_20160317122929.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:56 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/reg210_20160317123652.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:09:58 URL:http://www.freetownma.gov/node/1995/minutes [66119] -> "../data/townSites2/Freetown/www.freetownma.gov/node/1995/minutes" [1]
+2017-01-02 00:10:00 URL: http://www.freetownma.gov/node/2016/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:01 URL: http://www.freetownma.gov/node/2016/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:04 URL:http://www.freetownma.gov/print/2016 [10856] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2016" [1]
+2017-01-02 00:10:06 URL:http://www.freetownma.gov/printmail/2016 [37373] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2016" [1]
+2017-01-02 00:10:08 URL:http://www.freetownma.gov/users/aligolz/contact [38534] -> "../data/townSites2/Freetown/www.freetownma.gov/users/aligolz/contact" [1]
+2017-01-02 00:10:10 URL:http://www.freetownma.gov/users/tmcintosh/contact [38524] -> "../data/townSites2/Freetown/www.freetownma.gov/users/tmcintosh/contact" [1]
+2017-01-02 00:10:12 URL:http://www.freetownma.gov/board-of-selectmen/news/snow-plow-drivers-needed [41101] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-selectmen/news/snow-plow-drivers-needed" [1]
+2017-01-02 00:10:14 URL:http://www.freetownma.gov/board-of-selectmen/news/an-update-on-job-opportunities-at-the-amazon-distribution-center [40661] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-selectmen/news/an-update-on-job-opportunities-at-the-amazon-distribution-center" [1]
+2017-01-02 00:10:16 URL:http://www.freetownma.gov/board-of-selectmen/news/town-meeting-warrants [40734] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-selectmen/news/town-meeting-warrants" [1]
+2017-01-02 00:10:19 URL:http://www.freetownma.gov/board-of-selectmen/news/special-town-meeting-notice [40409] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-selectmen/news/special-town-meeting-notice" [1]
+2017-01-02 00:10:21 URL:http://www.freetownma.gov/board-of-selectmen/news/parking-ticket-payments [40374] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-selectmen/news/parking-ticket-payments" [1]
+2017-01-02 00:10:23 URL:http://www.freetownma.gov/node/2016/events/2017-01 [46934] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2016/events/2017-01" [1]
+2017-01-02 00:10:25 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/board_of_selectmen.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:27 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/bos_12.8.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:29 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/bos_12.7.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:31 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/bos_pub_notic_20161115112604.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:33 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/bos_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:38 URL:http://www.freetownma.gov/node/2016/agenda [260168] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2016/agenda" [1]
+2017-01-02 00:10:40 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_bos_0914_20160920091611.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:42 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_bos_0907_20160920091736.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:44 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_bos_0822_20160920091824.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:45 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_bos_0804_20160920091905.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:47 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_bos_0729_20160920092003.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:10:51 URL:http://www.freetownma.gov/node/2016/minutes [163239] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2016/minutes" [1]
+2017-01-02 00:10:53 URL:http://www.freetownma.gov/print/3066 [9238] -> "../data/townSites2/Freetown/www.freetownma.gov/print/3066" [1]
+2017-01-02 00:10:55 URL:http://www.freetownma.gov/printmail/3066 [37412] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/3066" [1]
+2017-01-02 00:10:57 URL:http://www.freetownma.gov/print/2215 [9165] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2215" [1]
+2017-01-02 00:11:00 URL:http://www.freetownma.gov/printmail/2215 [37367] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2215" [1]
+2017-01-02 00:11:02 URL:http://www.freetownma.gov/print/2214 [3728] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2214" [1]
+2017-01-02 00:11:04 URL:http://www.freetownma.gov/printmail/2214 [37398] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2214" [1]
+2017-01-02 00:11:04 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/sel_adultentertainmentregs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:05 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/sel_liquorregs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:05 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/freetown_street_and_sidewalk_opening_rules_and_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:06 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/sel_app_auction.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:06 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/freetown_street_and_sidewalk_opening_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:08 URL:http://www.freetownma.gov/print/4521 [3490] -> "../data/townSites2/Freetown/www.freetownma.gov/print/4521" [1]
+2017-01-02 00:11:10 URL:http://www.freetownma.gov/printmail/4521 [37418] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/4521" [1]
+2017-01-02 00:11:10 URL: http://www.freetownma.gov/sites/freetownma/files/open_mtg_decision_12-16-13_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:12 URL: http://www.freetownma.gov/node/15681/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:15 URL:http://www.freetownma.gov/print/15681 [12133] -> "../data/townSites2/Freetown/www.freetownma.gov/print/15681" [1]
+2017-01-02 00:11:17 URL:http://www.freetownma.gov/printmail/15681 [37379] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/15681" [1]
+2017-01-02 00:11:20 URL:http://www.freetownma.gov/building-committee/news/test [38331] -> "../data/townSites2/Freetown/www.freetownma.gov/building-committee/news/test" [1]
+2017-01-02 00:11:22 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/building_committee.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:24 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/bldg__0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:26 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/bldg_com_0928_20160926100642.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:28 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/bld_20160823103923.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:30 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/bldg_com_819.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:32 URL:http://www.freetownma.gov/node/15681/agenda [44046] -> "../data/townSites2/Freetown/www.freetownma.gov/node/15681/agenda" [1]
+2017-01-02 00:11:34 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/bldg_com_min_0713_20160825114448.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:36 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/615_bldg_20160714140700.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:38 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/511_bldg_20160714140630.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:39 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/minutes_20160620095614.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:42 URL: http://www.freetownma.gov/node/1997/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:11:45 URL:http://www.freetownma.gov/print/1997 [10165] -> "../data/townSites2/Freetown/www.freetownma.gov/print/1997" [1]
+2017-01-02 00:11:47 URL:http://www.freetownma.gov/printmail/1997 [37375] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/1997" [1]
+2017-01-02 00:11:49 URL:http://www.freetownma.gov/users/kdesmarais/contact [38542] -> "../data/townSites2/Freetown/www.freetownma.gov/users/kdesmarais/contact" [1]
+2017-01-02 00:11:51 URL:http://www.freetownma.gov/cemetery-commission/faq/how-can-i-purchase-a-cemetery-lot [40188] -> "../data/townSites2/Freetown/www.freetownma.gov/cemetery-commission/faq/how-can-i-purchase-a-cemetery-lot" [1]
+2017-01-02 00:11:53 URL:http://www.freetownma.gov/cemetery-commission/faq/what-is-perpetual-care [40525] -> "../data/townSites2/Freetown/www.freetownma.gov/cemetery-commission/faq/what-is-perpetual-care" [1]
+2017-01-02 00:11:56 URL:http://www.freetownma.gov/cemetery-commission/news/test [39490] -> "../data/townSites2/Freetown/www.freetownma.gov/cemetery-commission/news/test" [1]
+2017-01-02 00:11:58 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/cemet_20161101115506.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:12:00 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/cem_20160928164746.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:12:02 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/ceme_0912_20160907114102.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:12:04 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/ceme_com_0705_20160630143511.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:12:06 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/cem_20160614082548.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:12:09 URL:http://www.freetownma.gov/node/1997/agenda [65078] -> "../data/townSites2/Freetown/www.freetownma.gov/node/1997/agenda" [1]
+2017-01-02 00:12:10 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_cem_com_0705_20160914132413.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:12:12 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_cem_060616_20160914132541.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:12:14 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/cemetery_0405_20160608091141.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:12:16 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/cemetery_20160408081631.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:12:18 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_cemetery_com_022316_20160729094915.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:12:21 URL:http://www.freetownma.gov/node/1997/minutes [163065] -> "../data/townSites2/Freetown/www.freetownma.gov/node/1997/minutes" [1]
+2017-01-02 00:12:23 URL:http://www.freetownma.gov/print/2160 [3848] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2160" [1]
+2017-01-02 00:12:25 URL:http://www.freetownma.gov/printmail/2160 [37405] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2160" [1]
+2017-01-02 00:12:28 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/cem_gd_license_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:12:30 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/cem_burial_rights_order.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:12:32 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/cem_rules.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:12:34 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/vets_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:12:37 URL:http://www.freetownma.gov/user/login?destination=node%2F2159 [36289] -> "../data/townSites2/Freetown/www.freetownma.gov/cemetery-commission/files/faq-assonet-burying-ground-veterans-section" [1]
+2017-01-02 00:12:40 URL:http://www.freetownma.gov/print/3671 [6506] -> "../data/townSites2/Freetown/www.freetownma.gov/print/3671" [1]
+2017-01-02 00:12:42 URL:http://www.freetownma.gov/printmail/3671 [37381] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/3671" [1]
+2017-01-02 00:12:45 URL:http://www.freetownma.gov/print/2152 [3894] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2152" [1]
+2017-01-02 00:12:47 URL:http://www.freetownma.gov/printmail/2152 [37398] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2152" [1]
+2017-01-02 00:12:49 URL: http://www.freetownma.gov/node/1998/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:12:52 URL:http://www.freetownma.gov/print/1998 [9658] -> "../data/townSites2/Freetown/www.freetownma.gov/print/1998" [1]
+2017-01-02 00:12:54 URL:http://www.freetownma.gov/printmail/1998 [37384] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/1998" [1]
+2017-01-02 00:12:56 URL:http://www.freetownma.gov/conservation-commission/news/test [39838] -> "../data/townSites2/Freetown/www.freetownma.gov/conservation-commission/news/test" [1]
+2017-01-02 00:12:59 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/conservation_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:13:00 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/concom.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:13:02 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/conservation_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:13:05 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/conservation.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:13:07 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/conservation_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:13:11 URL:http://www.freetownma.gov/node/1998/agenda [173182] -> "../data/townSites2/Freetown/www.freetownma.gov/node/1998/agenda" [1]
+2017-01-02 00:13:13 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/minconcom_0815_20160920113722.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:13:14 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_concom_071116_20160816083332.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:13:16 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/con_20160714140920.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:13:18 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_concom_0516_20160614122535.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:13:20 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/concom_0504_20160608091218.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:13:23 URL:http://www.freetownma.gov/node/1998/minutes [82840] -> "../data/townSites2/Freetown/www.freetownma.gov/node/1998/minutes" [1]
+2017-01-02 00:13:25 URL:http://www.freetownma.gov/print/2117 [4280] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2117" [1]
+2017-01-02 00:13:27 URL:http://www.freetownma.gov/printmail/2117 [37407] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2117" [1]
+2017-01-02 00:13:29 URL:http://www.freetownma.gov/print/2126 [3254] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2126" [1]
+2017-01-02 00:13:31 URL:http://www.freetownma.gov/printmail/2126 [37407] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2126" [1]
+2017-01-02 00:13:33 URL:http://www.freetownma.gov/print/9676 [5528] -> "../data/townSites2/Freetown/www.freetownma.gov/print/9676" [1]
+2017-01-02 00:13:36 URL:http://www.freetownma.gov/printmail/9676 [37403] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/9676" [1]
+2017-01-02 00:13:36 URL: http://www.freetownma.gov/sites/freetownma/files/u61/after_the_storm_-_a_citizens_guide_to_understanding_stormwater.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:13:36 URL: http://www.freetownma.gov/sites/freetownma/files/u61/healthy_household_habits_for_clean_water.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:13:38 URL:http://www.freetownma.gov/print/2118 [8078] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2118" [1]
+2017-01-02 00:13:41 URL:http://www.freetownma.gov/printmail/2118 [37384] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2118" [1]
+2017-01-02 00:13:43 URL: http://www.freetownma.gov/node/1999/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:13:47 URL:http://www.freetownma.gov/print/1999 [9295] -> "../data/townSites2/Freetown/www.freetownma.gov/print/1999" [1]
+2017-01-02 00:13:49 URL:http://www.freetownma.gov/printmail/1999 [37381] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/1999" [1]
+2017-01-02 00:13:52 URL:http://www.freetownma.gov/council-on-aging-board/news/test [40142] -> "../data/townSites2/Freetown/www.freetownma.gov/council-on-aging-board/news/test" [1]
+2017-01-02 00:13:54 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/coa_20161108121053.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:13:58 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/coa_20161108121053.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:01 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/coa_0915_20160912102715.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:03 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/coa_20160815105720.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:06 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/coa_0804_20160802103111.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:09 URL:http://www.freetownma.gov/node/1999/agenda [74372] -> "../data/townSites2/Freetown/www.freetownma.gov/node/1999/agenda" [1]
+2017-01-02 00:14:11 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_coa_071416_20160810114324.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:13 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_coa_061616_20160810114245.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:16 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_coa_052016_20160810114200.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:18 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/coa_0411_20160608091327.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:20 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/031416_20160413115959.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:24 URL:http://www.freetownma.gov/node/1999/minutes [77743] -> "../data/townSites2/Freetown/www.freetownma.gov/node/1999/minutes" [1]
+2017-01-02 00:14:26 URL:http://www.freetownma.gov/print/2100 [4717] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2100" [1]
+2017-01-02 00:14:29 URL:http://www.freetownma.gov/printmail/2100 [37376] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2100" [1]
+2017-01-02 00:14:31 URL:http://www.freetownma.gov/print/2101 [3381] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2101" [1]
+2017-01-02 00:14:34 URL:http://www.freetownma.gov/printmail/2101 [37394] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2101" [1]
+2017-01-02 00:14:37 URL: http://www.freetownma.gov/node/2676/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:39 URL: http://www.freetownma.gov/node/2676/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:14:42 URL:http://www.freetownma.gov/print/2676 [7594] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2676" [1]
+2017-01-02 00:14:45 URL:http://www.freetownma.gov/printmail/2676 [37369] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2676" [1]
+2017-01-02 00:14:49 URL:http://www.freetownma.gov/cultural-council/news/paper-grant-applications [38422] -> "../data/townSites2/Freetown/www.freetownma.gov/cultural-council/news/paper-grant-applications" [1]
+2017-01-02 00:14:53 URL:http://www.freetownma.gov/cultural-council/news/2016-survey [38368] -> "../data/townSites2/Freetown/www.freetownma.gov/cultural-council/news/2016-survey" [1]
+2017-01-02 00:14:59 URL:http://www.freetownma.gov/cultural-council/news/2016-application-information [38482] -> "../data/townSites2/Freetown/www.freetownma.gov/cultural-council/news/2016-application-information" [1]
+2017-01-02 00:15:01 URL:http://www.freetownma.gov/cultural-council/news/online-grant-application-link [38525] -> "../data/townSites2/Freetown/www.freetownma.gov/cultural-council/news/online-grant-application-link" [1]
+2017-01-02 00:15:04 URL:http://www.freetownma.gov/cultural-council/news/board-vacancy [38351] -> "../data/townSites2/Freetown/www.freetownma.gov/cultural-council/news/board-vacancy" [1]
+2017-01-02 00:15:08 URL:http://www.freetownma.gov/node/2676/events/2017-01 [46924] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2676/events/2017-01" [1]
+2017-01-02 00:15:10 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/cultural.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:15 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/cult_20161031141542.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:17 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/cult_1102_20161013123605.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:27 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/cult_1019_20161013123539.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:31 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/cult_0804_20160802084054.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:39 URL:http://www.freetownma.gov/node/2676/agenda [45559] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2676/agenda" [1]
+2017-01-02 00:15:45 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_cult_cncl_011316_20160810114114.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:47 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/1029cultm.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:49 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/1126_cultural.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:51 URL: http://www.freetownma.gov/node/2001/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:15:54 URL:http://www.freetownma.gov/print/2001 [9593] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2001" [1]
+2017-01-02 00:15:57 URL:http://www.freetownma.gov/printmail/2001 [37371] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2001" [1]
+2017-01-02 00:16:00 URL:http://www.freetownma.gov/finance-committee/faq/what-are-the-reserve-request-procedures-for-all-departments [40798] -> "../data/townSites2/Freetown/www.freetownma.gov/finance-committee/faq/what-are-the-reserve-request-procedures-for-all-departments" [1]
+2017-01-02 00:16:03 URL:http://www.freetownma.gov/finance-committee/faq/how-does-freetowns-health-insurance-co-pay-compare-to-other-municipalities [43263] -> "../data/townSites2/Freetown/www.freetownma.gov/finance-committee/faq/how-does-freetowns-health-insurance-co-pay-compare-to-other-municipalities" [1]
+2017-01-02 00:16:06 URL:http://www.freetownma.gov/finance-committee/news/test [39381] -> "../data/townSites2/Freetown/www.freetownma.gov/finance-committee/news/test" [1]
+2017-01-02 00:16:08 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/fin_20161104102114.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:10 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/20161031140722.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:12 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/fin_com_cxld_20161012084557.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:14 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/fin_com_1018_20161012084534.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:16 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/fincom_amend_20161014093312.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:18 URL:http://www.freetownma.gov/node/2001/agenda [93821] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2001/agenda" [1]
+2017-01-02 00:16:20 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/fincom_0518_20160608090753.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:22 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_fin_com_0504_20160902081248.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:24 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/fincom_0425_20160608090716.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:26 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/fincom_0419_20160608090551.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:27 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_fin_com_0413_20160902081353.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:30 URL:http://www.freetownma.gov/node/2001/minutes [59268] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2001/minutes" [1]
+2017-01-02 00:16:31 URL:http://www.freetownma.gov/print/2255 [2907] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2255" [1]
+2017-01-02 00:16:33 URL:http://www.freetownma.gov/printmail/2255 [37375] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2255" [1]
+2017-01-02 00:16:35 URL:http://www.freetownma.gov/print/2252 [3386] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2252" [1]
+2017-01-02 00:16:37 URL:http://www.freetownma.gov/printmail/2252 [37441] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2252" [1]
+2017-01-02 00:16:39 URL:http://www.freetownma.gov/finance-committee/pages/annual-town-reports [43624] -> "../data/townSites2/Freetown/www.freetownma.gov/finance-committee/pages/annual-town-reports" [1]
+2017-01-02 00:16:41 URL:http://www.freetownma.gov/finance-committee/pages/annual-school-reports [40438] -> "../data/townSites2/Freetown/www.freetownma.gov/finance-committee/pages/annual-school-reports" [1]
+2017-01-02 00:16:43 URL:http://www.freetownma.gov/finance-committee/pages/financial-management-review [39554] -> "../data/townSites2/Freetown/www.freetownma.gov/finance-committee/pages/financial-management-review" [1]
+2017-01-02 00:16:45 URL:http://www.freetownma.gov/print/2251 [2926] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2251" [1]
+2017-01-02 00:16:46 URL:http://www.freetownma.gov/printmail/2251 [37371] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2251" [1]
+2017-01-02 00:16:49 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/finance_transferrequest.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:51 URL: http://www.freetownma.gov/node/2004/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:54 URL:http://www.freetownma.gov/print/2004 [10287] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2004" [1]
+2017-01-02 00:16:56 URL:http://www.freetownma.gov/printmail/2004 [37379] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2004" [1]
+2017-01-02 00:16:58 URL:http://www.freetownma.gov/historical-commission/faq/where-can-i-order-an-historic-district-brass-plaque-for-my-home [39407] -> "../data/townSites2/Freetown/www.freetownma.gov/historical-commission/faq/where-can-i-order-an-historic-district-brass-plaque-for-my-home" [1]
+2017-01-02 00:17:00 URL:http://www.freetownma.gov/historical-commission/faq/what-is-the-purpose-of-having-a-demolition-delay-bylaw [41896] -> "../data/townSites2/Freetown/www.freetownma.gov/historical-commission/faq/what-is-the-purpose-of-having-a-demolition-delay-bylaw" [1]
+2017-01-02 00:17:02 URL:http://www.freetownma.gov/historical-commission/faq/what-is-the-difference-between-the-historical-commission-and-historical-so [39920] -> "../data/townSites2/Freetown/www.freetownma.gov/historical-commission/faq/what-is-the-difference-between-the-historical-commission-and-historical-so" [1]
+2017-01-02 00:17:04 URL:http://www.freetownma.gov/historical-commission/news/test [38567] -> "../data/townSites2/Freetown/www.freetownma.gov/historical-commission/news/test" [1]
+2017-01-02 00:17:05 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/hist_com_11.09_20161107101038.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:07 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/historical_20161011091804.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:09 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/hist_com_20160809104020.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:10 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/historical_20160621141423.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:12 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/hist_20160531142254.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:14 URL:http://www.freetownma.gov/node/2004/agenda [65113] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2004/agenda" [1]
+2017-01-02 00:17:16 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_freetown_historical.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:18 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/fhc_20160812082431.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:19 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_frtwn_hist_0218_20160425091914.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:21 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_fhc_0910_20151119092233.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:23 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_hist_comm_20150921093934.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:25 URL:http://www.freetownma.gov/node/2004/minutes [49238] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2004/minutes" [1]
+2017-01-02 00:17:26 URL: http://www.freetownma.gov/node/2651/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:29 URL:http://www.freetownma.gov/print/2651 [6037] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2651" [1]
+2017-01-02 00:17:30 URL:http://www.freetownma.gov/printmail/2651 [37371] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2651" [1]
+2017-01-02 00:17:33 URL:http://www.freetownma.gov/housing-authority/news/test [38183] -> "../data/townSites2/Freetown/www.freetownma.gov/housing-authority/news/test" [1]
+2017-01-02 00:17:34 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/0422house.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:36 URL: http://www.freetownma.gov/node/2921/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:39 URL:http://www.freetownma.gov/print/2921 [3289] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2921" [1]
+2017-01-02 00:17:41 URL:http://www.freetownma.gov/printmail/2921 [37391] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2921" [1]
+2017-01-02 00:17:43 URL:http://www.freetownma.gov/other-boards/news/test [37580] -> "../data/townSites2/Freetown/www.freetownma.gov/other-boards/news/test" [1]
+2017-01-02 00:17:45 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/wib_3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:47 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/mass_gaming_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:48 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/ma_gaming.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:50 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/mbta.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:51 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/wib_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:55 URL:http://www.freetownma.gov/node/2921/agenda [268296] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2921/agenda" [1]
+2017-01-02 00:17:56 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_health_ins_advisory.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:17:58 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/health_20160322110910.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:00 URL: http://www.freetownma.gov/node/2003/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:03 URL:http://www.freetownma.gov/print/2003 [9755] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2003" [1]
+2017-01-02 00:18:05 URL:http://www.freetownma.gov/printmail/2003 [37395] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2003" [1]
+2017-01-02 00:18:07 URL:http://www.freetownma.gov/parade-fireworks-committee/faq/how-can-i-run-a-booth-at-the-independence-day-fireworks [39680] -> "../data/townSites2/Freetown/www.freetownma.gov/parade-fireworks-committee/faq/how-can-i-run-a-booth-at-the-independence-day-fireworks" [1]
+2017-01-02 00:18:10 URL:http://www.freetownma.gov/parade-fireworks-committee/faq/how-can-i-be-part-of-the-4th-of-july-parade-0 [39164] -> "../data/townSites2/Freetown/www.freetownma.gov/parade-fireworks-committee/faq/how-can-i-be-part-of-the-4th-of-july-parade-0" [1]
+2017-01-02 00:18:12 URL:http://www.freetownma.gov/parade-fireworks-committee/news/test [38708] -> "../data/townSites2/Freetown/www.freetownma.gov/parade-fireworks-committee/news/test" [1]
+2017-01-02 00:18:13 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/p_f_cxld.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:15 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/pf_20160912131826.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:16 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/pf_20160613095109.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:18 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/pf_20160517101827.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:20 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/pf_20160407111908.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:22 URL:http://www.freetownma.gov/node/2003/agenda [66717] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2003/agenda" [1]
+2017-01-02 00:18:24 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_pf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:26 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_pf_0601_20160729095340.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:27 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/parade_0504_20160608090900.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:29 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_pf_406_20160428090917.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:30 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/parade_fire_20160408081537.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:32 URL:http://www.freetownma.gov/node/2003/minutes [55164] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2003/minutes" [1]
+2017-01-02 00:18:33 URL: http://www.freetownma.gov/node/2005/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:36 URL:http://www.freetownma.gov/print/2005 [6265] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2005" [1]
+2017-01-02 00:18:38 URL:http://www.freetownma.gov/printmail/2005 [37367] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2005" [1]
+2017-01-02 00:18:40 URL:http://www.freetownma.gov/personnel-board/news/test [38165] -> "../data/townSites2/Freetown/www.freetownma.gov/personnel-board/news/test" [1]
+2017-01-02 00:18:42 URL: http://www.freetownma.gov/node/2006/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:45 URL:http://www.freetownma.gov/print/2006 [11707] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2006" [1]
+2017-01-02 00:18:47 URL:http://www.freetownma.gov/printmail/2006 [37365] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2006" [1]
+2017-01-02 00:18:49 URL:http://www.freetownma.gov/users/lmoreau/contact [38504] -> "../data/townSites2/Freetown/www.freetownma.gov/users/lmoreau/contact" [1]
+2017-01-02 00:18:51 URL:http://www.freetownma.gov/planning-board/news/changes-to-fema-flood-insurance-rate-maps [40348] -> "../data/townSites2/Freetown/www.freetownma.gov/planning-board/news/changes-to-fema-flood-insurance-rate-maps" [1]
+2017-01-02 00:18:52 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/planning.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:54 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/planning_12.06.16_public_hearing.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:55 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/planning_12.06.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:57 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/planning_board.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:59 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/plann_20161110143231.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:01 URL:http://www.freetownma.gov/node/2006/agenda [158848] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2006/agenda" [1]
+2017-01-02 00:19:03 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_plan_071216_20160817142549.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:04 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_plan_060716_20160817145121.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:06 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_plan_051716_20160817142622.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:08 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_plan_0315_20160614122404.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:09 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_plan_0216_20160614122321.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:12 URL:http://www.freetownma.gov/node/2006/minutes [113506] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2006/minutes" [1]
+2017-01-02 00:19:14 URL:http://www.freetownma.gov/print/2044 [4011] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2044" [1]
+2017-01-02 00:19:15 URL:http://www.freetownma.gov/printmail/2044 [37366] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2044" [1]
+2017-01-02 00:19:17 URL:http://www.freetownma.gov/print/2047 [4201] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2047" [1]
+2017-01-02 00:19:19 URL:http://www.freetownma.gov/printmail/2047 [37400] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2047" [1]
+2017-01-02 00:19:19 URL: http://www.freetownma.gov/sites/freetownma/files/u75/form_a_with_checklist_0.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:21 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/form_b_application.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:22 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/form_c.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:24 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/form_d.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:25 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/form_e_abutters_list.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:26 URL: http://www.freetownma.gov/sites/freetownma/files/u75/special_permit_application_2014.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:26 URL: http://www.freetownma.gov/sites/freetownma/files/u75/sp_signs_application_2014.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:28 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/site_plan_review_application-word_0.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:30 URL: http://www.freetownma.gov/node/2010/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:32 URL:http://www.freetownma.gov/print/2010 [9811] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2010" [1]
+2017-01-02 00:19:34 URL:http://www.freetownma.gov/printmail/2010 [37379] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2010" [1]
+2017-01-02 00:19:36 URL:http://www.freetownma.gov/scholarship-committee/news/test [39016] -> "../data/townSites2/Freetown/www.freetownma.gov/scholarship-committee/news/test" [1]
+2017-01-02 00:19:38 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/scholar_20160912092507.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:39 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/scholarship_20160407111848.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:41 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/scholarship_20160309111435.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:42 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/scholar_0106_625_20151223125522.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:44 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/schol_20151009092053.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:46 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_scholarship_050416_20160729094816.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:48 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/scholarship_20160408081459.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:49 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/scholarship_jan_6_20160408081609.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:51 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/schol_20151109085710.pdf 200 OK
+unlink: No such file or directory
+http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/minutes_scholarship_comm_051513.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:19:55 URL:http://www.freetownma.gov/node/2010/minutes [42034] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2010/minutes" [1]
+2017-01-02 00:19:57 URL:http://www.freetownma.gov/print/2133 [3184] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2133" [1]
+2017-01-02 00:19:59 URL:http://www.freetownma.gov/printmail/2133 [37383] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2133" [1]
+2017-01-02 00:20:01 URL: http://www.freetownma.gov/node/2911/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:03 URL:http://www.freetownma.gov/print/2911 [3193] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2911" [1]
+2017-01-02 00:20:05 URL:http://www.freetownma.gov/printmail/2911 [37367] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2911" [1]
+2017-01-02 00:20:07 URL:http://www.freetownma.gov/school-councils/news/southeastern-ma-bioreserve-this-land-is-your-land [38247] -> "../data/townSites2/Freetown/www.freetownma.gov/school-councils/news/southeastern-ma-bioreserve-this-land-is-your-land" [1]
+2017-01-02 00:20:10 URL:http://www.freetownma.gov/school-councils/news/test [37561] -> "../data/townSites2/Freetown/www.freetownma.gov/school-councils/news/test" [1]
+2017-01-02 00:20:12 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/appon_school_council.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:14 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/sepac_meeting_not.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:16 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/appon_sch_cncl_11_20161114092453.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:18 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/free_lake_middle_school_council_._11.17.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:20 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/appon_sch_cncl_cxl_20161114092424.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:23 URL:http://www.freetownma.gov/node/2911/agenda [130752] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2911/agenda" [1]
+2017-01-02 00:20:25 URL: http://www.freetownma.gov/node/2986/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:27 URL:http://www.freetownma.gov/print/2986 [3268] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2986" [1]
+2017-01-02 00:20:29 URL:http://www.freetownma.gov/printmail/2986 [37386] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2986" [1]
+2017-01-02 00:20:31 URL:http://www.freetownma.gov/school-committees-other/news/test [37637] -> "../data/townSites2/Freetown/www.freetownma.gov/school-committees-other/news/test" [1]
+2017-01-02 00:20:33 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/flrsd.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:35 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/20161028082617.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:38 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/goals_com_20161003093313.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:40 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/sch_com_fon_com_0927_20160922081727.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:42 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/policy_sub_20160520094738.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:45 URL:http://www.freetownma.gov/node/2986/agenda [73677] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2986/agenda" [1]
+2017-01-02 00:20:47 URL: http://www.freetownma.gov/node/2591/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:49 URL:http://www.freetownma.gov/print/2591 [8279] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2591" [1]
+2017-01-02 00:20:51 URL:http://www.freetownma.gov/printmail/2591 [37399] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2591" [1]
+2017-01-02 00:20:54 URL:http://www.freetownma.gov/school-committee-regional-dist/news/test [38072] -> "../data/townSites2/Freetown/www.freetownma.gov/school-committee-regional-dist/news/test" [1]
+2017-01-02 00:20:55 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/school_committee.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:57 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/reg_sch_com_20161110093922.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:58 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/20161028082555.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:00 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/reg_sch_com_20161007081740.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:02 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/reg_sch_com_20161007081740_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:05 URL:http://www.freetownma.gov/node/2591/agenda [138550] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2591/agenda" [1]
+2017-01-02 00:21:07 URL: http://www.freetownma.gov/node/2023/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:09 URL:http://www.freetownma.gov/print/2023 [9218] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2023" [1]
+2017-01-02 00:21:11 URL:http://www.freetownma.gov/printmail/2023 [37383] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2023" [1]
+2017-01-02 00:21:14 URL:http://www.freetownma.gov/soil-conservation-board/news/test [38583] -> "../data/townSites2/Freetown/www.freetownma.gov/soil-conservation-board/news/test" [1]
+2017-01-02 00:21:16 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/soil_board_._11.28.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:17 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/soil_0919_20160915101019.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:19 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/soil_0907_20160902090522.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:21 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/20151211094938.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:23 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/soil_board.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:26 URL:http://www.freetownma.gov/node/2023/agenda [47973] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2023/agenda" [1]
+2017-01-02 00:21:28 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/0519m_soil.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:29 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/1028m_soil.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:31 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/0617m_soil.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:34 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/0521m_soil.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:35 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/0422soil.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:38 URL:http://www.freetownma.gov/node/2023/minutes [48475] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2023/minutes" [1]
+2017-01-02 00:21:39 URL: http://www.freetownma.gov/node/2011/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:42 URL:http://www.freetownma.gov/print/2011 [3233] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2011" [1]
+2017-01-02 00:21:44 URL:http://www.freetownma.gov/printmail/2011 [37377] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2011" [1]
+2017-01-02 00:21:46 URL: http://www.freetownma.gov/node/2020/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:49 URL:http://www.freetownma.gov/print/2020 [8308] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2020" [1]
+2017-01-02 00:21:51 URL:http://www.freetownma.gov/printmail/2020 [37387] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2020" [1]
+2017-01-02 00:21:53 URL:http://www.freetownma.gov/users/schandler/contact [38528] -> "../data/townSites2/Freetown/www.freetownma.gov/users/schandler/contact" [1]
+2017-01-02 00:21:56 URL:http://www.freetownma.gov/water-sewer-commission/news/cold-weather-tips-for-freetown-water-customers [40099] -> "../data/townSites2/Freetown/www.freetownma.gov/water-sewer-commission/news/cold-weather-tips-for-freetown-water-customers" [1]
+2017-01-02 00:21:58 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/water_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:00 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/water_meeting_notice.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:02 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/water_amended.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:04 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/water_20161107134521.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:07 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/water_amend_20161108115735.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:11 URL:http://www.freetownma.gov/node/2020/agenda [114166] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2020/agenda" [1]
+2017-01-02 00:22:12 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_water_0826_20160927080239.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:14 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_water_0812_20160927080301.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:16 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_071516_20160817103033.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:18 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_water_070116_20160729093739.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:20 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_water_0617_20160729093830.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:23 URL:http://www.freetownma.gov/node/2020/minutes [70819] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2020/minutes" [1]
+2017-01-02 00:22:25 URL:http://www.freetownma.gov/print/2219 [10647] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2219" [1]
+2017-01-02 00:22:27 URL:http://www.freetownma.gov/printmail/2219 [37436] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2219" [1]
+2017-01-02 00:22:29 URL: http://www.freetownma.gov/node/2021/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:32 URL:http://www.freetownma.gov/print/2021 [8678] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2021" [1]
+2017-01-02 00:22:34 URL:http://www.freetownma.gov/printmail/2021 [37383] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2021" [1]
+2017-01-02 00:22:37 URL:http://www.freetownma.gov/zoning-board-of-appeals/news/test [39221] -> "../data/townSites2/Freetown/www.freetownma.gov/zoning-board-of-appeals/news/test" [1]
+2017-01-02 00:22:39 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/public_hearing_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:40 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/public_hearing_case_567_amended.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:42 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/zba_20160929072443.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:44 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/zba_pub_hear_20160906124714.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:46 URL: http://www.freetownma.gov/sites/freetownma/files/agenda/agenda-file/zba_0928_20160921102221.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:49 URL:http://www.freetownma.gov/node/2021/agenda [109021] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2021/agenda" [1]
+2017-01-02 00:22:51 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_zba_083116_20160929072530.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:53 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_zba_0804_20160906122341.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:55 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_zba_0803_20160906122427.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:57 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_zba_0727_20160902081029.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:59 URL: http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/min_zba_0706_20160902080936.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:01 URL:http://www.freetownma.gov/node/2021/minutes [69159] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2021/minutes" [1]
+2017-01-02 00:23:03 URL:http://www.freetownma.gov/print/2190 [3270] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2190" [1]
+2017-01-02 00:23:05 URL:http://www.freetownma.gov/printmail/2190 [37383] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2190" [1]
+2017-01-02 00:23:07 URL:http://www.freetownma.gov/ [72977] -> "../data/townSites2/Freetown/www.freetownma.gov/home.1" [1]
+2017-01-02 00:23:09 URL:http://www.freetownma.gov/print/1980 [11855] -> "../data/townSites2/Freetown/www.freetownma.gov/print/1980" [1]
+2017-01-02 00:23:11 URL:http://www.freetownma.gov/printmail/1980 [37371] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/1980" [1]
+2017-01-02 00:23:13 URL:http://www.freetownma.gov/where/2 [37811] -> "../data/townSites2/Freetown/www.freetownma.gov/where/2" [1]
+2017-01-02 00:23:15 URL:http://www.freetownma.gov/where/a [37172] -> "../data/townSites2/Freetown/www.freetownma.gov/where/a" [1]
+2017-01-02 00:23:17 URL:http://www.freetownma.gov/where/b [38262] -> "../data/townSites2/Freetown/www.freetownma.gov/where/b" [1]
+2017-01-02 00:23:19 URL:http://www.freetownma.gov/where/c [37997] -> "../data/townSites2/Freetown/www.freetownma.gov/where/c" [1]
+2017-01-02 00:23:21 URL:http://www.freetownma.gov/where/e [37220] -> "../data/townSites2/Freetown/www.freetownma.gov/where/e" [1]
+2017-01-02 00:23:24 URL:http://www.freetownma.gov/where/f [36906] -> "../data/townSites2/Freetown/www.freetownma.gov/where/f" [1]
+2017-01-02 00:23:27 URL:http://www.freetownma.gov/where/l [36911] -> "../data/townSites2/Freetown/www.freetownma.gov/where/l" [1]
+2017-01-02 00:23:28 URL:http://www.freetownma.gov/where/m [37460] -> "../data/townSites2/Freetown/www.freetownma.gov/where/m" [1]
+2017-01-02 00:23:30 URL:http://www.freetownma.gov/where/p [37157] -> "../data/townSites2/Freetown/www.freetownma.gov/where/p" [1]
+2017-01-02 00:23:32 URL:http://www.freetownma.gov/where/s [36964] -> "../data/townSites2/Freetown/www.freetownma.gov/where/s" [1]
+2017-01-02 00:23:34 URL:http://www.freetownma.gov/where/v [37162] -> "../data/townSites2/Freetown/www.freetownma.gov/where/v" [1]
+2017-01-02 00:23:37 URL:http://www.freetownma.gov/where/w [36924] -> "../data/townSites2/Freetown/www.freetownma.gov/where/w" [1]
+2017-01-02 00:23:38 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/2014_atm_warrant_-_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:40 URL:http://www.freetownma.gov/home/pages/2014-annual-town-meeting-warrant [37016] -> "../data/townSites2/Freetown/www.freetownma.gov/home/pages/2014-annual-town-meeting-warrant" [1]
+2017-01-02 00:23:43 URL:http://www.freetownma.gov/home/pages/2014-special-town-meeting-warrant [37020] -> "../data/townSites2/Freetown/www.freetownma.gov/home/pages/2014-special-town-meeting-warrant" [1]
+2017-01-02 00:23:45 URL:http://www.freetownma.gov/home/pages/another-wdigf [36620] -> "../data/townSites2/Freetown/www.freetownma.gov/home/pages/another-wdigf" [1]
+2017-01-02 00:23:47 URL:http://www.freetownma.gov/home/pages/example-ffd-in-where [36676] -> "../data/townSites2/Freetown/www.freetownma.gov/home/pages/example-ffd-in-where" [1]
+2017-01-02 00:23:50 URL:http://www.freetownma.gov/board-of-health/pages/flu-season [40828] -> "../data/townSites2/Freetown/www.freetownma.gov/board-of-health/pages/flu-season" [1]
+2017-01-02 00:23:51 URL:http://www.freetownma.gov/home/pages/vacancies [37291] -> "../data/townSites2/Freetown/www.freetownma.gov/home/pages/vacancies" [1]
+2017-01-02 00:23:54 URL:http://www.freetownma.gov/node/1996/files [38901] -> "../data/townSites2/Freetown/www.freetownma.gov/node/1996/files" [1]
+2017-01-02 00:23:57 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/absentee_ballot_application_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:59 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/absentee_ballot_application_family_member.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:00 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/finance_transferrequest.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:02 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/addressmarker2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:04 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/form_a_with_checklist_0.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:06 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/special_permit_application_2.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:08 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/sp_signs_application.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:11 URL:http://www.freetownma.gov/node/2006/files [38750] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2006/files" [1]
+2017-01-02 00:24:12 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/zoning_map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:15 URL: http://www.freetownma.gov/sites/freetownma/files/file/file/generalzoning_bylaws_june_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:17 URL:http://www.freetownma.gov/departments [51039] -> "../data/townSites2/Freetown/www.freetownma.gov/og" [1]
+2017-01-02 00:24:19 URL:http://www.freetownma.gov/print/2926 [8830] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2926" [1]
+2017-01-02 00:24:21 URL:http://www.freetownma.gov/printmail/2926 [37378] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2926" [1]
+2017-01-02 00:24:25 URL:http://www.freetownma.gov/node/2981/agenda [36314] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2981/agenda" [1]
+2017-01-02 00:24:27 URL:http://www.freetownma.gov/node/2651/agenda [36187] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2651/agenda" [1]
+2017-01-02 00:24:30 URL:http://www.freetownma.gov/node/2551/agenda [111390] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2551/agenda" [1]
+2017-01-02 00:24:34 URL:http://www.freetownma.gov/node/2010/agenda [40464] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2010/agenda" [1]
+2017-01-02 00:24:36 URL:http://www.freetownma.gov/node/15681/minutes [39081] -> "../data/townSites2/Freetown/www.freetownma.gov/node/15681/minutes" [1]
+2017-01-02 00:24:38 URL:http://www.freetownma.gov/node/2676/minutes [38705] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2676/minutes" [1]
+2017-01-02 00:24:41 URL:http://www.freetownma.gov/node/2551/minutes [79211] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2551/minutes" [1]
+2017-01-02 00:24:43 URL:http://www.freetownma.gov/node/2921/minutes [37342] -> "../data/townSites2/Freetown/www.freetownma.gov/node/2921/minutes" [1]
+2017-01-02 00:24:45 URL:http://www.freetownma.gov/print/3076 [3131] -> "../data/townSites2/Freetown/www.freetownma.gov/print/3076" [1]
+2017-01-02 00:24:47 URL:http://www.freetownma.gov/printmail/3076 [37378] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/3076" [1]
+2017-01-02 00:24:48 URL: http://www.freetownma.gov/sites/freetownma/files/u61/library_planning_vacancy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:48 URL: http://www.freetownma.gov/sites/freetownma/files/u61/member_vacancy-cultural_council.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:50 URL:http://www.freetownma.gov/print/17931 [5471] -> "../data/townSites2/Freetown/www.freetownma.gov/print/17931" [1]
+2017-01-02 00:24:52 URL:http://www.freetownma.gov/printmail/17931 [37382] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/17931" [1]
+2017-01-02 00:24:52 URL: http://www.freetownma.gov/sites/freetownma/files/u74/1._public_record_request_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:55 URL:http://www.freetownma.gov/print/3506 [3264] -> "../data/townSites2/Freetown/www.freetownma.gov/print/3506" [1]
+2017-01-02 00:24:58 URL:http://www.freetownma.gov/printmail/3506 [37378] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/3506" [1]
+2017-01-02 00:25:00 URL:http://www.freetownma.gov/print/2936 [11048] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2936" [1]
+2017-01-02 00:25:02 URL:http://www.freetownma.gov/printmail/2936 [37382] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2936" [1]
+2017-01-02 00:25:04 URL:http://www.freetownma.gov/print/2941 [3010] -> "../data/townSites2/Freetown/www.freetownma.gov/print/2941" [1]
+2017-01-02 00:25:07 URL:http://www.freetownma.gov/printmail/2941 [37404] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/2941" [1]
+2017-01-02 00:25:09 URL:http://www.freetownma.gov/print/3126 [3521] -> "../data/townSites2/Freetown/www.freetownma.gov/print/3126" [1]
+2017-01-02 00:25:12 URL:http://www.freetownma.gov/printmail/3126 [37378] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/3126" [1]
+2017-01-02 00:25:15 URL:http://www.freetownma.gov/node/111/news [38065] -> "../data/townSites2/Freetown/www.freetownma.gov/node/111/news" [1]
+2017-01-02 00:25:17 URL:http://www.freetownma.gov/print/17221 [3323] -> "../data/townSites2/Freetown/www.freetownma.gov/print/17221" [1]
+2017-01-02 00:25:19 URL:http://www.freetownma.gov/printmail/17221 [37395] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/17221" [1]
+2017-01-02 00:25:20 URL: http://www.freetownma.gov/sites/freetownma/files/brum2_20161003085852.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:22 URL:http://www.freetownma.gov/print/9156 [4371] -> "../data/townSites2/Freetown/www.freetownma.gov/print/9156" [1]
+2017-01-02 00:25:24 URL:http://www.freetownma.gov/printmail/9156 [37409] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/9156" [1]
+2017-01-02 00:25:26 URL:http://www.freetownma.gov/print/6761 [6079] -> "../data/townSites2/Freetown/www.freetownma.gov/print/6761" [1]
+2017-01-02 00:25:28 URL:http://www.freetownma.gov/printmail/6761 [37411] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/6761" [1]
+2017-01-02 00:25:30 URL:http://www.freetownma.gov/print/7461 [3325] -> "../data/townSites2/Freetown/www.freetownma.gov/print/7461" [1]
+2017-01-02 00:25:33 URL:http://www.freetownma.gov/printmail/7461 [37429] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/7461" [1]
+2017-01-02 00:25:33 URL: http://www.freetownma.gov/sites/freetownma/files/u61/legal_noticefy15recertification_2.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:34 URL: http://www.freetownma.gov/node/2017-01/town-events/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:38 URL:http://www.freetownma.gov/town-calendar/2017 [136061] -> "../data/townSites2/Freetown/www.freetownma.gov/town-calendar/2017" [1]
+2017-01-02 00:25:41 URL:http://www.freetownma.gov/town-calendar/2017-W01 [43191] -> "../data/townSites2/Freetown/www.freetownma.gov/town-calendar/2017-W01" [1]
+2017-01-02 00:25:45 URL:http://www.freetownma.gov/town-calendar/2017-01-01 [41550] -> "../data/townSites2/Freetown/www.freetownma.gov/town-calendar/2017-01-01" [1]
+2017-01-02 00:25:47 URL:http://www.freetownma.gov/events [35106] -> "../data/townSites2/Freetown/www.freetownma.gov/events" [1]
+2017-01-02 00:25:50 URL:http://www.freetownma.gov/town-calendar [49831] -> "../data/townSites2/Freetown/www.freetownma.gov/town-calendar.1" [1]
+2017-01-02 00:25:52 URL:http://www.freetownma.gov/town-calendar/2016-12 [50358] -> "../data/townSites2/Freetown/www.freetownma.gov/town-calendar/2016-12" [1]
+2017-01-02 00:25:55 URL:http://www.freetownma.gov/town-calendar/2017-02 [49691] -> "../data/townSites2/Freetown/www.freetownma.gov/town-calendar/2017-02" [1]
+2017-01-02 00:25:58 URL:http://www.freetownma.gov/town-calendar/2017-W1 [43181] -> "../data/townSites2/Freetown/www.freetownma.gov/town-calendar/2017-W1" [1]
+2017-01-02 00:26:00 URL:http://www.freetownma.gov/town-calendar/2017-W2 [43185] -> "../data/townSites2/Freetown/www.freetownma.gov/town-calendar/2017-W2" [1]
+2017-01-02 00:26:03 URL:http://www.freetownma.gov/town-calendar/2017-W3 [43188] -> "../data/townSites2/Freetown/www.freetownma.gov/town-calendar/2017-W3" [1]
+2017-01-02 00:26:05 URL:http://www.freetownma.gov/town-calendar/2017-W4 [43188] -> "../data/townSites2/Freetown/www.freetownma.gov/town-calendar/2017-W4" [1]
+2017-01-02 00:26:08 URL:http://www.freetownma.gov/town-calendar/2017-W5 [43184] -> "../data/townSites2/Freetown/www.freetownma.gov/town-calendar/2017-W5" [1]
+2017-01-02 00:26:12 URL:http://www.freetownma.gov/user [36778] -> "../data/townSites2/Freetown/www.freetownma.gov/user.1" [1]
+2017-01-02 00:26:14 URL:http://www.freetownma.gov/user/password [36330] -> "../data/townSites2/Freetown/www.freetownma.gov/user/password" [1]
+2017-01-02 00:26:18 URL:http://www.freetownma.gov/user/login?destination=help%2Fvth_adv_help_inject%2FNew-Website-Guidelines [36449] -> "../data/townSites2/Freetown/www.freetownma.gov/help/vth_adv_help_inject/New-Website-Guidelines" [1]
+2017-01-02 00:26:20 URL:http://www.freetownma.gov/print/468 [4774] -> "../data/townSites2/Freetown/www.freetownma.gov/print/468" [1]
+2017-01-02 00:26:23 URL:http://www.freetownma.gov/printmail/468 [37405] -> "../data/townSites2/Freetown/www.freetownma.gov/printmail/468" [1]
+Found 9 broken links.
+
+http://www.freetownma.gov/sites/freetownma/files/u74/pmud.pdf
+http://www.freetownma.gov/sites/freetownma/files/minutes/minutes-file/minutes_scholarship_comm_051513.pdf
+http://www.freetownma.gov/sites/freetownma/files/u74/elec4_20151113113329.pdf
+http://www.horsleywitten.com/tauntonwatershed/TauntonRiver-WS-pubs.html?refreshed
+http://www.freetownma.gov/user/%252Fcontact
+https://www.fema.gov/2016-atlantic-hurricane-season
+http://www.freetownma.gov/sites/freetownma/files/u74/use_con_20160714080258.pdf
+http://www.mass.gov/eopss/agencies/mema/ready-massachusetts/
+http://www.freetownma.gov/sites/freetownma/files/u74/stick_20160714082141.pdf
+
+FINISHED --2017-01-02 00:26:23--
+Total wall clock time: 37m 24s
+Downloaded: 619 files, 23M in 2m 32s (153 KB/s)

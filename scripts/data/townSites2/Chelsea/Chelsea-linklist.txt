@@ -1,0 +1,1308 @@
+2017-01-02 00:16:16 URL:http://www.chelseama.gov/ [76407] -> "../data/townSites2/Chelsea/www.chelseama.gov/index.html" [1]
+2017-01-02 00:16:17 URL: http://www.chelseama.gov/sites/chelseama/themes/vts/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:18 URL:http://www.chelseama.gov/explore-chelsea [45026] -> "../data/townSites2/Chelsea/www.chelseama.gov/explore-chelsea" [1]
+2017-01-02 00:16:20 URL:http://www.chelseama.gov/city-council [69566] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-council" [1]
+2017-01-02 00:16:22 URL:http://www.chelseama.gov/departments [56970] -> "../data/townSites2/Chelsea/www.chelseama.gov/departments" [1]
+2017-01-02 00:16:24 URL:http://www.chelseama.gov/assessor [47831] -> "../data/townSites2/Chelsea/www.chelseama.gov/assessor" [1]
+2017-01-02 00:16:26 URL:http://www.chelseama.gov/chelsea-community-schools [59027] -> "../data/townSites2/Chelsea/www.chelseama.gov/chelsea-community-schools" [1]
+2017-01-02 00:16:28 URL:http://www.chelseama.gov/city-clerk [60193] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-clerk" [1]
+2017-01-02 00:16:30 URL:http://www.chelseama.gov/city-manager [49964] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-manager" [1]
+2017-01-02 00:16:31 URL:http://www.chelseama.gov/elder-services [58500] -> "../data/townSites2/Chelsea/www.chelseama.gov/elder-services" [1]
+2017-01-02 00:16:33 URL:http://www.chelseama.gov/emergency-management [53872] -> "../data/townSites2/Chelsea/www.chelseama.gov/emergency-management" [1]
+2017-01-02 00:16:35 URL:http://www.chelseama.gov/finance [44963] -> "../data/townSites2/Chelsea/www.chelseama.gov/finance" [1]
+2017-01-02 00:16:37 URL:http://www.chelseama.gov/fire-department [45709] -> "../data/townSites2/Chelsea/www.chelseama.gov/fire-department" [1]
+2017-01-02 00:16:38 URL:http://www.chelseama.gov/health-human-services [63045] -> "../data/townSites2/Chelsea/www.chelseama.gov/health-human-services" [1]
+2017-01-02 00:16:40 URL:http://www.chelseama.gov/human-resources [46841] -> "../data/townSites2/Chelsea/www.chelseama.gov/human-resources" [1]
+2017-01-02 00:16:42 URL:http://www.chelseama.gov/information-technology [45349] -> "../data/townSites2/Chelsea/www.chelseama.gov/information-technology" [1]
+2017-01-02 00:16:44 URL:http://www.chelseama.gov/inspectional-services [50969] -> "../data/townSites2/Chelsea/www.chelseama.gov/inspectional-services" [1]
+2017-01-02 00:16:46 URL:http://www.chelseama.gov/law [60468] -> "../data/townSites2/Chelsea/www.chelseama.gov/law" [1]
+2017-01-02 00:16:47 URL:http://www.chelseama.gov/licensing [57190] -> "../data/townSites2/Chelsea/www.chelseama.gov/licensing" [1]
+2017-01-02 00:16:49 URL:http://www.chelseama.gov/planning-development [52247] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-development" [1]
+2017-01-02 00:16:51 URL:http://chelseapolice.com/ [58933/58933] -> "../data/townSites2/Chelsea/www.chelseama.gov/police-department" [1]
+2017-01-02 00:16:54 URL:http://www.chelseama.gov/public-library [71299] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library" [1]
+2017-01-02 00:16:56 URL:http://www.chelseama.gov/public-safety [45045] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-safety" [1]
+2017-01-02 00:16:58 URL:https://www.chelseaschools.com/cps/ [50027] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-schools" [1]
+2017-01-02 00:17:00 URL:http://www.chelseama.gov/public-works [71298] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-works" [1]
+2017-01-02 00:17:02 URL:http://www.chelseama.gov/purchasing [43038] -> "../data/townSites2/Chelsea/www.chelseama.gov/purchasing" [1]
+2017-01-02 00:17:04 URL:http://www.chelseama.gov/chelsea-retirement-system [60035] -> "../data/townSites2/Chelsea/www.chelseama.gov/chelsea-retirement-system" [1]
+2017-01-02 00:17:05 URL:http://www.chelseama.gov/treasurer-collector [51741] -> "../data/townSites2/Chelsea/www.chelseama.gov/treasurer-collector" [1]
+2017-01-02 00:17:07 URL:http://www.chelseama.gov/veterans-services [47540] -> "../data/townSites2/Chelsea/www.chelseama.gov/veterans-services" [1]
+2017-01-02 00:17:09 URL:http://www.chelseama.gov/affordable-housing-trust-fund-board [55959] -> "../data/townSites2/Chelsea/www.chelseama.gov/affordable-housing-trust-fund-board" [1]
+2017-01-02 00:17:11 URL:http://www.chelseama.gov/board-assessors [43541] -> "../data/townSites2/Chelsea/www.chelseama.gov/board-assessors" [1]
+2017-01-02 00:17:13 URL:http://www.chelseama.gov/board-health [59556] -> "../data/townSites2/Chelsea/www.chelseama.gov/board-health" [1]
+2017-01-02 00:17:15 URL:http://www.chelseama.gov/board-library-trustees [50929] -> "../data/townSites2/Chelsea/www.chelseama.gov/board-library-trustees" [1]
+2017-01-02 00:17:16 URL:http://www.chelseama.gov/board-registrars [43430] -> "../data/townSites2/Chelsea/www.chelseama.gov/board-registrars" [1]
+2017-01-02 00:17:18 URL:http://www.chelseama.gov/cable-television-advisory-board [41473] -> "../data/townSites2/Chelsea/www.chelseama.gov/cable-television-advisory-board" [1]
+2017-01-02 00:17:20 URL:http://www.chelseama.gov/community-schools-advisory-board [56687] -> "../data/townSites2/Chelsea/www.chelseama.gov/community-schools-advisory-board" [1]
+2017-01-02 00:17:21 URL:http://www.chelseama.gov/conservation-commission [59848] -> "../data/townSites2/Chelsea/www.chelseama.gov/conservation-commission" [1]
+2017-01-02 00:17:23 URL:http://www.chelseama.gov/council-elder-affairs [46001] -> "../data/townSites2/Chelsea/www.chelseama.gov/council-elder-affairs" [1]
+2017-01-02 00:17:26 URL:http://www.chelseama.gov/cultural-council [61776] -> "../data/townSites2/Chelsea/www.chelseama.gov/cultural-council" [1]
+2017-01-02 00:17:28 URL:http://www.chelseama.gov/economic-development-board [56887] -> "../data/townSites2/Chelsea/www.chelseama.gov/economic-development-board" [1]
+2017-01-02 00:17:29 URL:http://www.chelseama.gov/historical-commission [41296] -> "../data/townSites2/Chelsea/www.chelseama.gov/historical-commission" [1]
+2017-01-02 00:17:31 URL:http://www.chelseama.gov/housing-authority-board-commissioners [45877] -> "../data/townSites2/Chelsea/www.chelseama.gov/housing-authority-board-commissioners" [1]
+2017-01-02 00:17:33 URL:http://www.chelseama.gov/human-rights-commission [41723] -> "../data/townSites2/Chelsea/www.chelseama.gov/human-rights-commission" [1]
+2017-01-02 00:17:35 URL:http://www.chelseama.gov/licensing-commission [61922] -> "../data/townSites2/Chelsea/www.chelseama.gov/licensing-commission" [1]
+2017-01-02 00:17:37 URL:http://www.chelseama.gov/planning-board [65756] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-board" [1]
+2017-01-02 00:17:39 URL:http://www.chelseama.gov/traffic-parking-commission [59249] -> "../data/townSites2/Chelsea/www.chelseama.gov/traffic-parking-commission" [1]
+2017-01-02 00:17:40 URL:http://www.chelseama.gov/tree-board [39660] -> "../data/townSites2/Chelsea/www.chelseama.gov/tree-board" [1]
+2017-01-02 00:17:42 URL:http://www.chelseama.gov/youth-commission [44451] -> "../data/townSites2/Chelsea/www.chelseama.gov/youth-commission" [1]
+2017-01-02 00:17:44 URL:http://www.chelseama.gov/zoning-board-appeals [62070] -> "../data/townSites2/Chelsea/www.chelseama.gov/zoning-board-appeals" [1]
+2017-01-02 00:17:45 URL:http://www.chelseama.gov/boards [51384] -> "../data/townSites2/Chelsea/www.chelseama.gov/boards" [1]
+2017-01-02 00:17:48 URL:http://www.chelseama.gov/home/webforms/chelsea-volunteer-application [45575/45575] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/webforms/chelsea-volunteer-application" [1]
+2017-01-02 00:17:49 URL:http://www.chelseama.gov/minutes-and-agendas [39203] -> "../data/townSites2/Chelsea/www.chelseama.gov/minutes-and-agendas" [1]
+2017-01-02 00:17:51 URL:http://www.chelseama.gov/faqs [65859] -> "../data/townSites2/Chelsea/www.chelseama.gov/faqs" [1]
+2017-01-02 00:17:52 URL:http://www.chelseama.gov/home/pages/find-it-fast [39770] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/pages/find-it-fast" [1]
+2017-01-02 00:17:54 URL:http://www.chelseama.gov/human-resources/pages/city-chelsea-job-vacancies [43084] -> "../data/townSites2/Chelsea/www.chelseama.gov/human-resources/pages/city-chelsea-job-vacancies" [1]
+2017-01-02 00:17:56 URL:http://www.chelseama.gov/city-clerk/pages/online-services [41562] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-clerk-parking-clerk/pages/online-services" [1]
+2017-01-02 00:17:57 URL:http://www.chelseama.gov/calendar-by-event-type/20 [58259] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/20" [1]
+2017-01-02 00:17:58 URL:http://www.chelseama.gov/calendar-by-event-type/16 [81533] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/16" [1]
+2017-01-02 00:18:00 URL:http://www.chelseama.gov/subscribe [43409/43409] -> "../data/townSites2/Chelsea/www.chelseama.gov/subscribe" [1]
+2017-01-02 00:18:02 URL:http://www.chelseama.gov/information-technology/pages/geographic-information-system-gis [40087] -> "../data/townSites2/Chelsea/www.chelseama.gov/information-technology/pages/geographic-information-system-gis" [1]
+2017-01-02 00:18:04 URL:http://www.chelseama.gov/webforms/contact-us [44353/44353] -> "../data/townSites2/Chelsea/www.chelseama.gov/webforms/contact-us" [1]
+2017-01-02 00:18:06 URL:http://www.chelseama.gov/city-clerk/pages/elections-voting-campaign-finance [42617] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-clerk-parking-clerk/pages/elections-voting-campaign-finance" [1]
+2017-01-02 00:18:07 URL:http://www.chelseama.gov/home/pages/community-resources [35650] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/pages/community-resources" [1]
+2017-01-02 00:18:09 URL:http://www.chelseama.gov/home/pages/post-office [35995] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/pages/post-office" [1]
+2017-01-02 00:18:10 URL:http://www.chelseama.gov/rubbish-recycling-yard-waste [55368] -> "../data/townSites2/Chelsea/www.chelseama.gov/rubbish-recycling-yard-waste" [1]
+2017-01-02 00:18:12 URL:http://www.chelseama.gov/city-clerk-parking-clerk/faq/how-does-street-sweeping-work [40827] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-clerk-parking-clerk/faq/how-does-street-sweeping-work" [1]
+2017-01-02 00:18:13 URL:http://www.chelseama.gov/home/pages/vietnam-veterans-memorial-pool [36233] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/pages/vietnam-veterans-memorial-pool" [1]
+2017-01-02 00:18:15 URL:http://www.chelseama.gov/home/pages/state-representatives [36299] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/pages/state-representatives" [1]
+2017-01-02 00:18:16 URL:http://www.chelseama.gov/home/pages/state-senator [35766] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/pages/state-senator" [1]
+2017-01-02 00:18:18 URL:http://www.chelseama.gov/home/pages/us-representatives [35582] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/pages/us-representatives" [1]
+2017-01-02 00:18:19 URL:http://www.chelseama.gov/home/pages/us-senators [35565] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/pages/us-senators" [1]
+2017-01-02 00:18:20 URL:http://www.chelseama.gov/home/pages/civic-groups [35558] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/pages/civic-groups" [1]
+2017-01-02 00:18:22 URL:http://www.chelseama.gov/youth-commission/pages/community-organizations [47729] -> "../data/townSites2/Chelsea/www.chelseama.gov/youth-commission/pages/community-organizations" [1]
+2017-01-02 00:18:24 URL:http://www.chelseama.gov/home/webforms/submit-upcoming-community-event [48653/48653] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/webforms/submit-upcoming-community-event" [1]
+2017-01-02 00:18:25 URL:http://www.chelseama.gov/youth-commission/pages/chelsea-youth-leagues [42446] -> "../data/townSites2/Chelsea/www.chelseama.gov/youth-commission/pages/chelsea-youth-leagues" [1]
+2017-01-02 00:18:26 URL:http://www.chelseama.gov/home/pages/businesses [36554] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/pages/businesses" [1]
+2017-01-02 00:18:28 URL:http://www.chelseama.gov/home/pages/arts-chelsea [38711] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/pages/arts-chelsea" [1]
+2017-01-02 00:18:30 URL:http://www.chelseama.gov/home/pages/chelsea-film [37170] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/pages/chelsea-film" [1]
+2017-01-02 00:18:31 URL:http://www.chelseama.gov/parks-playgrounds [45462] -> "../data/townSites2/Chelsea/www.chelseama.gov/parks-playgrounds" [1]
+2017-01-02 00:18:33 URL:http://www.chelseama.gov/home/pages/genealogy [42181] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/pages/genealogy" [1]
+2017-01-02 00:18:35 URL:http://www.chelseama.gov/bulletins/bulletins/economic-development [38903] -> "../data/townSites2/Chelsea/www.chelseama.gov/bulletins/bulletins/economic-development" [1]
+2017-01-02 00:18:37 URL:http://www.chelseama.gov/home/pages/report-issue [40995] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/pages/report-issue" [1]
+2017-01-02 00:18:38 URL:http://www.chelseama.gov/city-manager/pages/documents-reports [40971] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-manager/pages/financial-documents-reports" [1]
+2017-01-02 00:18:39 URL:http://www.chelseama.gov/city-clerk/pages/online-services [41562] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-clerk/pages/online-services" [1]
+2017-01-02 00:18:41 URL:http://www.chelseama.gov/home/urgent-alerts/city-hall-holiday-hours [36411] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/urgent-alerts/city-hall-holiday-hours" [1]
+2017-01-02 00:18:41 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/residents_brochure_spanish.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:41 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/residents_brochure_english.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:18:42 URL:http://www.chelseama.gov/home/news/11th-annual-chelsea-reads-saturday-november-5th-11-am-2-pm [36863] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/news/11th-annual-chelsea-reads-saturday-november-5th-11-am-2-pm" [1]
+2017-01-02 00:18:44 URL:http://www.chelseama.gov/home/news/road-closures-paving-tuesday-october-4th-wednesday-october-5th-date-change-due-weather [37432] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/news/road-closures-paving-tuesday-october-4th-wednesday-october-5th-date-change-due-weather" [1]
+2017-01-02 00:18:44 URL:http://www.chelseama.gov/home/news/new-washington-avenue-bridge-opens-september-14 [40176] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/news/new-washington-avenue-bridge-opens-september-14" [1]
+2017-01-02 00:18:46 URL:http://www.chelseama.gov/node/1/news [46573] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/1/news" [1]
+2017-01-02 00:18:48 URL:http://www.chelseama.gov/calendar-by-event-type/20%2B17%2B19 [139449] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/20+17+19" [1]
+2017-01-02 00:18:49 URL:http://www.chelseama.gov/home/events/17343 [36184] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/events/17343" [1]
+2017-01-02 00:18:51 URL:http://www.chelseama.gov/calendar-by-event-type/16/day/2017-01-03 [41192] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/16/day/2017-01-03" [1]
+2017-01-02 00:18:52 URL:http://www.chelseama.gov/home/events/24273 [39402] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/events/24273" [1]
+2017-01-02 00:18:53 URL:http://www.chelseama.gov/city-council/events/24293 [42631] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-council/events/24293" [1]
+2017-01-02 00:18:55 URL:http://www.chelseama.gov/calendar-by-event-type/16/day/2017-01-10 [41248] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/16/day/2017-01-10" [1]
+2017-01-02 00:18:56 URL:http://www.chelseama.gov/zoning-board-appeals/events/24213 [42005] -> "../data/townSites2/Chelsea/www.chelseama.gov/zoning-board-appeals/events/24213" [1]
+2017-01-02 00:18:58 URL:http://www.chelseama.gov/zoning-board-appeals/events/24233 [42063] -> "../data/townSites2/Chelsea/www.chelseama.gov/zoning-board-appeals/events/24233" [1]
+2017-01-02 00:18:59 URL:http://www.chelseama.gov/calendar-by-event-type/16/day/2017-01-24 [41236] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/16/day/2017-01-24" [1]
+2017-01-02 00:19:00 URL:http://www.chelseama.gov/planning-board/events/23503 [39060] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-board/events/23503" [1]
+2017-01-02 00:19:02 URL:http://www.chelseama.gov/planning-board/events/24253 [42078] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-board/events/24253" [1]
+2017-01-02 00:19:03 URL:http://www.chelseama.gov/home/pages/building-hours [36897] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/pages/building-hours" [1]
+2017-01-02 00:19:06 URL:http://www.chelseama.gov/files [55854] -> "../data/townSites2/Chelsea/www.chelseama.gov/files" [1]
+2017-01-02 00:19:07 URL:http://www.chelseama.gov/home/pages/mbta-info [37156] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/pages/mbta-info" [1]
+2017-01-02 00:19:08 URL:http://www.chelseama.gov/home/pages/road-construction [39534] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/pages/road-construction" [1]
+2017-01-02 00:19:10 URL:http://www.chelseama.gov/home/pages/chelsea-channel-15 [37399] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/pages/chelsea-channel-15" [1]
+2017-01-02 00:19:11 URL:http://www.chelseama.gov/home/pages/website-disclaimer [38559] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/pages/website-disclaimer" [1]
+2017-01-02 00:19:12 URL:http://www.chelseama.gov/explore-chelsea [45026] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/31" [1]
+2017-01-02 00:19:13 URL:http://www.chelseama.gov/print/31 [10257] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/31" [1]
+2017-01-02 00:19:14 URL: http://www.chelseama.gov/node/31/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:15 URL:http://www.chelseama.gov/news [47952] -> "../data/townSites2/Chelsea/www.chelseama.gov/news" [1]
+2017-01-02 00:19:16 URL:http://www.chelseama.gov/home/news/city-council-water-sewer-trash-rates-fy-17 [36281] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/news/city-council-water-sewer-trash-rates-fy-17" [1]
+2017-01-02 00:19:18 URL:http://www.chelseama.gov/home/news/new-mbta-fares-go-effect-712016 [37372] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/news/new-mbta-fares-go-effect-712016" [1]
+2017-01-02 00:19:19 URL:http://www.chelseama.gov/news/1 [47966] -> "../data/townSites2/Chelsea/www.chelseama.gov/news/1" [1]
+2017-01-02 00:19:20 URL:http://www.chelseama.gov/city-council [69566] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/36" [1]
+2017-01-02 00:19:21 URL:http://www.chelseama.gov/print/36 [9684] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/36" [1]
+2017-01-02 00:19:23 URL:http://www.chelseama.gov/calendar/month [160700] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar/month" [1]
+2017-01-02 00:19:25 URL:http://www.chelseama.gov/node/36/minutes [34137] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/36/minutes" [1]
+2017-01-02 00:19:26 URL:http://www.chelseama.gov/people/ledia-koco [39996] -> "../data/townSites2/Chelsea/www.chelseama.gov/people/ledia-koco" [1]
+2017-01-02 00:19:28 URL:http://www.chelseama.gov/people/paul-casino [39853] -> "../data/townSites2/Chelsea/www.chelseama.gov/people/paul-casino" [1]
+2017-01-02 00:19:29 URL:http://www.chelseama.gov/people/leo-robinson [40201] -> "../data/townSites2/Chelsea/www.chelseama.gov/people/leo-robinson" [1]
+2017-01-02 00:19:30 URL:http://www.chelseama.gov/people/roy-avellaneda [40201] -> "../data/townSites2/Chelsea/www.chelseama.gov/people/roy-avellaneda" [1]
+2017-01-02 00:19:32 URL:http://www.chelseama.gov/people/damali-vidot [40189] -> "../data/townSites2/Chelsea/www.chelseama.gov/people/damali-vidot" [1]
+2017-01-02 00:19:33 URL:http://www.chelseama.gov/people/paul-r-murphy [40077] -> "../data/townSites2/Chelsea/www.chelseama.gov/people/paul-r-murphy" [1]
+2017-01-02 00:19:35 URL:http://www.chelseama.gov/people/luis-tejada [40323] -> "../data/townSites2/Chelsea/www.chelseama.gov/people/luis-tejada" [1]
+2017-01-02 00:19:36 URL:http://www.chelseama.gov/people/matthew-r-frank [40357] -> "../data/townSites2/Chelsea/www.chelseama.gov/people/matthew-r-frank" [1]
+2017-01-02 00:19:37 URL:http://www.chelseama.gov/people/enio-lopez [40319] -> "../data/townSites2/Chelsea/www.chelseama.gov/people/enio-lopez" [1]
+2017-01-02 00:19:39 URL:http://www.chelseama.gov/people/judith-garcia [40344] -> "../data/townSites2/Chelsea/www.chelseama.gov/people/judith-garcia" [1]
+2017-01-02 00:19:40 URL:http://www.chelseama.gov/people/giovanni-recupero [40376] -> "../data/townSites2/Chelsea/www.chelseama.gov/people/giovanni-recupero" [1]
+2017-01-02 00:19:41 URL:http://www.chelseama.gov/people/yamir-rodriguez [40347] -> "../data/townSites2/Chelsea/www.chelseama.gov/people/yamir-rodriguez" [1]
+2017-01-02 00:19:43 URL:http://www.chelseama.gov/people/dan-cortell [40349] -> "../data/townSites2/Chelsea/www.chelseama.gov/people/dan-cortell" [1]
+2017-01-02 00:19:45 URL: http://www.chelseama.gov/node/36/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:19:46 URL:http://www.chelseama.gov/city-council/pages/press [38681] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-council/pages/press" [1]
+2017-01-02 00:19:47 URL:http://www.chelseama.gov/city-council/pages/voting-district-maps [39214] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-council/pages/voting-district-maps" [1]
+2017-01-02 00:19:49 URL:http://www.chelseama.gov/node/36/faq [37029] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/36/faq" [1]
+2017-01-02 00:19:50 URL:http://www.chelseama.gov/city-council/faq/how-can-i-find-out-how-my-city-councilor-voted-issue [38381] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-council/faq/how-can-i-find-out-how-my-city-councilor-voted-issue" [1]
+2017-01-02 00:19:51 URL:http://www.chelseama.gov/city-council/faq/how-long-city-councilors-term [38450] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-council/faq/how-long-city-councilors-term" [1]
+2017-01-02 00:19:53 URL:http://www.chelseama.gov/city-council/faq/how-do-i-find-out-who-my-city-councilor [38411] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-council/faq/how-do-i-find-out-who-my-city-councilor" [1]
+2017-01-02 00:19:54 URL:http://www.chelseama.gov/city-council/faq/how-do-i-contact-my-city-councilor [38532] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-council/faq/how-do-i-contact-my-city-councilor" [1]
+2017-01-02 00:19:56 URL:http://www.chelseama.gov/city-council/faq/are-there-any-special-arrangements-necessary-if-i-want-speak-city-council-meeting [38777] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-council/faq/are-there-any-special-arrangements-necessary-if-i-want-speak-city-council-meeting" [1]
+2017-01-02 00:19:57 URL:http://www.chelseama.gov/node/36/news [37675] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/36/news" [1]
+2017-01-02 00:19:58 URL:http://www.chelseama.gov/city-council/news/new-isd-fee-schedule-effective-january-1-2017 [39171] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-council/news/new-isd-fee-schedule-effective-january-1-2017" [1]
+2017-01-02 00:19:59 URL:http://www.chelseama.gov/city-council/news/continued-public-hearing-zoning-amendments-11-21-16 [39275] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-council/news/continued-public-hearing-zoning-amendments-11-21-16" [1]
+2017-01-02 00:20:01 URL:http://www.chelseama.gov/city-council/news/sub-committee-conference-monday-november-14-2016-regarding-zoning-amendments [39374] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-council/news/sub-committee-conference-monday-november-14-2016-regarding-zoning-amendments" [1]
+2017-01-02 00:20:02 URL:http://www.chelseama.gov/city-council/news/zoning-ordinance-amendments-public-hearing-sept-26-2016 [39252] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-council/news/zoning-ordinance-amendments-public-hearing-sept-26-2016" [1]
+2017-01-02 00:20:04 URL:http://www.chelseama.gov/city-council/news/spanish-interpreter-council-meetings [38726] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-council/news/spanish-interpreter-council-meetings" [1]
+2017-01-02 00:20:06 URL:http://www.chelseama.gov/node/36/events/month [58358] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/36/events/month" [1]
+2017-01-02 00:20:07 URL:http://www.chelseama.gov/node/36/events/day/2017-01-03 [37394] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/36/events/day/2017-01-03" [1]
+2017-01-02 00:20:09 URL:http://www.chelseama.gov/node/36/events/month/2017-01 [58419] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/36/events/month/2017-01" [1]
+2017-01-02 00:20:10 URL:http://www.chelseama.gov/node/36/agenda [34194] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/36/agenda" [1]
+2017-01-02 00:20:13 URL:http://www.chelseama.gov/city-council/agenda/special-organizational-meeting-agenda [39344] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-council/agenda/special-organizational-meeting-agenda" [1]
+2017-01-02 00:20:15 URL:http://www.chelseama.gov/city-council/agenda/sub-committee-conference-122016 [39595] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-council/agenda/sub-committee-conference-122016" [1]
+2017-01-02 00:20:16 URL:http://www.chelseama.gov/city-council/agenda/city-council-meeting-agenda-10 [39198] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-council/agenda/city-council-meeting-agenda-10" [1]
+2017-01-02 00:20:19 URL:http://www.chelseama.gov/city-council/agenda/sub-committee-conference-121916 [39579] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-council/agenda/sub-committee-conference-121916" [1]
+2017-01-02 00:20:21 URL:http://www.chelseama.gov/city-council/agenda/city-council-meeting-agenda-12-05-16 [39225] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-council/agenda/city-council-meeting-agenda-12-05-16" [1]
+2017-01-02 00:20:23 URL:http://www.chelseama.gov/city-council/minutes/city-council-minutes-112116 [39528] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-council/minutes/city-council-minutes-112116" [1]
+2017-01-02 00:20:25 URL:http://www.chelseama.gov/city-council/minutes/city-council-minutes-110716 [39043] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-council/minutes/city-council-minutes-110716" [1]
+2017-01-02 00:20:26 URL: http://www.chelseama.gov/sites/chelseama/files/minutes/minutes_10-17-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:27 URL: http://www.chelseama.gov/sites/chelseama/files/minutes/minutes_10-3-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:28 URL: http://www.chelseama.gov/sites/chelseama/files/minutes/minutes_109262016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:30 URL:http://www.chelseama.gov/city-auditor [46353] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-auditor" [1]
+2017-01-02 00:20:32 URL:http://www.chelseama.gov/water-sewer-services [48560] -> "../data/townSites2/Chelsea/www.chelseama.gov/water-sewer-services" [1]
+2017-01-02 00:20:33 URL:http://www.chelseama.gov/assessor [47831] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/4016" [1]
+2017-01-02 00:20:34 URL:http://www.chelseama.gov/print/4016 [9165] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/4016" [1]
+2017-01-02 00:20:36 URL:http://www.chelseama.gov/user/401/contact [38135] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/401/contact" [1]
+2017-01-02 00:20:37 URL: http://www.chelseama.gov/node/4016/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:20:39 URL:http://www.chelseama.gov/assessor/pages/assessing-documents [39516] -> "../data/townSites2/Chelsea/www.chelseama.gov/assessor/pages/assessing-documents" [1]
+2017-01-02 00:20:41 URL:http://www.chelseama.gov/board-assessors [43541] -> "../data/townSites2/Chelsea/www.chelseama.gov/assessor/links/board-assessors" [1]
+2017-01-02 00:20:43 URL:http://www.chelseama.gov/assessor/pages/excise-information [38883] -> "../data/townSites2/Chelsea/www.chelseama.gov/assessor/pages/excise-information" [1]
+2017-01-02 00:20:44 URL:http://gis.vgsi.com/chelseama/Search.aspx [16439/16439] -> "../data/townSites2/Chelsea/www.chelseama.gov/assessor/links/property-values-online" [1]
+2017-01-02 00:20:46 URL:http://www.chelseama.gov/node/4016/faq [36572] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/4016/faq" [1]
+2017-01-02 00:20:47 URL:http://www.chelseama.gov/assessor/faq/i-received-excise-bill-and-i-no-longer-have-car [38946] -> "../data/townSites2/Chelsea/www.chelseama.gov/assessor/faq/i-received-excise-bill-and-i-no-longer-have-car" [1]
+2017-01-02 00:20:48 URL:http://www.chelseama.gov/assessor/faq/what-statutory-exemption [38872] -> "../data/townSites2/Chelsea/www.chelseama.gov/assessor/faq/what-statutory-exemption" [1]
+2017-01-02 00:20:50 URL:http://www.chelseama.gov/assessor/faq/when-and-how-do-i-qualify-residential-exemption [39376] -> "../data/townSites2/Chelsea/www.chelseama.gov/assessor/faq/when-and-how-do-i-qualify-residential-exemption" [1]
+2017-01-02 00:20:51 URL:http://www.chelseama.gov/assessor/faq/when-do-i-apply-statutory-exemption [38959] -> "../data/townSites2/Chelsea/www.chelseama.gov/assessor/faq/when-do-i-apply-statutory-exemption" [1]
+2017-01-02 00:20:52 URL:http://www.chelseama.gov/assessor/faq/can-i-look-property-values-online [38904] -> "../data/townSites2/Chelsea/www.chelseama.gov/assessor/faq/can-i-look-property-values-online" [1]
+2017-01-02 00:20:54 URL:http://www.chelseama.gov/chelsea-community-schools [59027] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/2541" [1]
+2017-01-02 00:20:55 URL:http://www.chelseama.gov/print/2541 [9281] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/2541" [1]
+2017-01-02 00:20:57 URL:http://www.chelseama.gov/user/476/contact [38262] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/476/contact" [1]
+2017-01-02 00:20:59 URL:http://www.chelseama.gov/user/296/contact [38129] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/296/contact" [1]
+2017-01-02 00:21:00 URL: http://www.chelseama.gov/node/2541/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:01 URL:http://www.chelseama.gov/chelsea-community-schools/pages/course-information [42315] -> "../data/townSites2/Chelsea/www.chelseama.gov/chelsea-community-schools/pages/course-information" [1]
+2017-01-02 00:21:03 URL:http://www.chelseama.gov/chelsea-community-schools/pages/use-our-facilities [41842] -> "../data/townSites2/Chelsea/www.chelseama.gov/chelsea-community-schools/pages/use-our-facilities" [1]
+2017-01-02 00:21:04 URL:http://www.chelseama.gov/chelsea-community-schools/pages/get-involved [41813] -> "../data/townSites2/Chelsea/www.chelseama.gov/chelsea-community-schools/pages/get-involved" [1]
+2017-01-02 00:21:06 URL:http://www.chelseama.gov/chelsea-community-schools/pages/directions [40405] -> "../data/townSites2/Chelsea/www.chelseama.gov/chelsea-community-schools/pages/directions" [1]
+2017-01-02 00:21:07 URL:http://www.chelseama.gov/chelsea-community-schools/pages/partnerships [42628] -> "../data/townSites2/Chelsea/www.chelseama.gov/chelsea-community-schools/pages/partnerships" [1]
+2017-01-02 00:21:08 URL:http://www.chelseama.gov/community-schools-advisory-board [56687] -> "../data/townSites2/Chelsea/www.chelseama.gov/chelsea-community-schools/links/ccs-advisory-board" [1]
+2017-01-02 00:21:09 URL:http://www.chelseama.gov/chelsea-community-schools/pages/contact-us [40174] -> "../data/townSites2/Chelsea/www.chelseama.gov/chelsea-community-schools/pages/contact-us" [1]
+2017-01-02 00:21:11 URL:http://www.chelseama.gov/node/2541/faq [36487] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/2541/faq" [1]
+2017-01-02 00:21:12 URL:http://www.chelseama.gov/chelsea-community-schools/faq/how-does-chelsea-community-schools-benefit-chelsea [40029] -> "../data/townSites2/Chelsea/www.chelseama.gov/chelsea-community-schools/faq/how-does-chelsea-community-schools-benefit-chelsea" [1]
+2017-01-02 00:21:14 URL:http://www.chelseama.gov/chelsea-community-schools/faq/what-chelsea-community-schools [39855] -> "../data/townSites2/Chelsea/www.chelseama.gov/chelsea-community-schools/faq/what-chelsea-community-schools" [1]
+2017-01-02 00:21:16 URL:http://www.chelseama.gov/chelsea-community-schools/faq/what-does-chelsea-community-schools-offer [40201] -> "../data/townSites2/Chelsea/www.chelseama.gov/chelsea-community-schools/faq/what-does-chelsea-community-schools-offer" [1]
+2017-01-02 00:21:17 URL:http://www.chelseama.gov/chelsea-community-schools/faq/chelsea-community-schools-another-name-chelsea-public-schools [39372] -> "../data/townSites2/Chelsea/www.chelseama.gov/chelsea-community-schools/faq/chelsea-community-schools-another-name-chelsea-public-schools" [1]
+2017-01-02 00:21:19 URL:http://www.chelseama.gov/chelsea-community-schools/faq/when-ccs-course-registration [39540] -> "../data/townSites2/Chelsea/www.chelseama.gov/chelsea-community-schools/faq/when-ccs-course-registration" [1]
+2017-01-02 00:21:20 URL:http://www.chelseama.gov/node/2541/events/month [55069] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/2541/events/month" [1]
+2017-01-02 00:21:22 URL:http://www.chelseama.gov/node/2541/events/month/2017-01 [55126] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/2541/events/month/2017-01" [1]
+2017-01-02 00:21:24 URL:http://www.chelseama.gov/city-clerk [60193] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/61" [1]
+2017-01-02 00:21:24 URL:http://www.chelseama.gov/print/61 [8711] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/61" [1]
+2017-01-02 00:21:26 URL:http://www.chelseama.gov/user/51/contact [38092] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/51/contact" [1]
+2017-01-02 00:21:28 URL:http://www.chelseama.gov/user/56/contact [38122] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/56/contact" [1]
+2017-01-02 00:21:29 URL:http://www.chelseama.gov/user/61/contact [38080] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/61/contact" [1]
+2017-01-02 00:21:31 URL:http://www.chelseama.gov/user/66/contact [38118] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/66/contact" [1]
+2017-01-02 00:21:32 URL: http://www.chelseama.gov/node/61/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:34 URL:http://www.chelseama.gov/city-clerk-parking-clerk/pages/dog-licenses [41312] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-clerk-parking-clerk/pages/dog-licenses" [1]
+2017-01-02 00:21:35 URL:http://www.chelseama.gov/city-clerk/pages/elections-voting-campaign-finance [42617] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-clerk/pages/elections-voting-campaign-finance" [1]
+2017-01-02 00:21:37 URL:http://www.chelseama.gov/city-clerk-parking-clerk/pages/license-permit-applications [40599] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-clerk-parking-clerk/pages/license-permit-applications" [1]
+2017-01-02 00:21:39 URL:http://www.chelseama.gov/node/211/minutes [34232] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-clerk-parking-clerk/links/licensing-minutes" [1]
+2017-01-02 00:21:41 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/licensing_commission_rules_and_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:44 URL:http://www.sec.state.ma.us/ele/eleidx.htm [71233/71233] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-clerk-parking-clerk/links/ma-voting-information" [1]
+2017-01-02 00:21:46 URL:http://www.chelseama.gov/city-clerk-parking-clerk/pages/parking-traffic-forms [40979] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-clerk-parking-clerk/pages/parking-traffic-forms" [1]
+2017-01-02 00:21:47 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/passports.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:52 URL:https://www2.parkingticketpayment.com/chelsea/ [11274/11274] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-clerk-parking-clerk/links/pay-parking-tickets" [1]
+https://bostonparking.spplus.com//onstreet/chelsea/meter-repair.htm:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:21:58 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/winter_season_operations_manuel.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:21:59 URL:http://www.chelseama.gov/city-clerk-parking-clerk/pages/vitals-birth-death-marriage [40522] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-clerk-parking-clerk/pages/vitals-birth-death-marriage" [1]
+2017-01-02 00:22:01 URL:http://www.chelseama.gov/node/61/faq [38717] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/61/faq" [1]
+2017-01-02 00:22:03 URL:http://www.chelseama.gov/city-clerk-parking-clerk/faq/where-do-i-go-information-regarding-moving-violation [40433] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-clerk-parking-clerk/faq/where-do-i-go-information-regarding-moving-violation" [1]
+2017-01-02 00:22:04 URL:http://www.chelseama.gov/city-clerk-parking-clerk/faq/where-do-i-go-fast-lane-pass-and-chelsea-resident-discount [40640] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-clerk-parking-clerk/faq/where-do-i-go-fast-lane-pass-and-chelsea-resident-discount" [1]
+2017-01-02 00:22:06 URL:http://www.chelseama.gov/city-clerk-parking-clerk/faq/if-i-would-appeal-my-parking-ticket-decision-parking-clerk-what-should [40404] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-clerk-parking-clerk/faq/if-i-would-appeal-my-parking-ticket-decision-parking-clerk-what-should" [1]
+2017-01-02 00:22:08 URL:http://www.chelseama.gov/city-clerk-parking-clerk/faq/how-do-i-appeal-chelsea-parking-ticket [40587] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-clerk-parking-clerk/faq/how-do-i-appeal-chelsea-parking-ticket" [1]
+2017-01-02 00:22:10 URL:http://www.chelseama.gov/node/61/events/month [55868] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/61/events/month" [1]
+2017-01-02 00:22:12 URL:http://www.chelseama.gov/node/61/events/month/2017-01 [55925] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/61/events/month/2017-01" [1]
+2017-01-02 00:22:13 URL:http://www.chelseama.gov/city-manager [49964] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/46" [1]
+2017-01-02 00:22:14 URL:http://www.chelseama.gov/print/46 [10158] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/46" [1]
+2017-01-02 00:22:16 URL:http://www.chelseama.gov/user/176/contact [38133] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/176/contact" [1]
+2017-01-02 00:22:17 URL:http://www.chelseama.gov/user/181/contact [38109] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/181/contact" [1]
+2017-01-02 00:22:19 URL:http://www.chelseama.gov/user/186/contact [38099] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/186/contact" [1]
+2017-01-02 00:22:22 URL:http://www.chelseama.gov/user/518/contact [38107] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/518/contact" [1]
+2017-01-02 00:22:23 URL:http://www.chelseama.gov/people/axelle-bagot [39517] -> "../data/townSites2/Chelsea/www.chelseama.gov/people/axelle-bagot" [1]
+2017-01-02 00:22:25 URL: http://www.chelseama.gov/node/46/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:26 URL:http://www.chelseama.gov/city-manager/pages/documents-reports [40971] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-manager/pages/documents-reports" [1]
+2017-01-02 00:22:28 URL:http://www.chelseama.gov/city-manager/pages/city-managers-documents [41283] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-manager/pages/city-managers-documents" [1]
+mailto:recordsofficer@chelseama.gov: Unsupported scheme 'mailto'.
+2017-01-02 00:22:31 URL:http://www.chelseama.gov/node/46/faq [37221] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/46/faq" [1]
+2017-01-02 00:22:33 URL:http://www.chelseama.gov/city-manager/faq/what-difference-between-city-manager-and-mayor [38891] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-manager/faq/what-difference-between-city-manager-and-mayor" [1]
+2017-01-02 00:22:35 URL:http://www.chelseama.gov/city-manager/faq/why-doesn%E2%80%99t-city-have-mayor [39329] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-manager/faq/why-doesnâ%80%99t-city-have-mayor" [1]
+2017-01-02 00:22:37 URL:http://www.chelseama.gov/city-manager/faq/what-relationship-between-city-manager-and-city-council [39101] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-manager/faq/what-relationship-between-city-manager-and-city-council" [1]
+2017-01-02 00:22:39 URL:http://www.chelseama.gov/city-manager/faq/what-term-office-city-manager [38705] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-manager/faq/what-term-office-city-manager" [1]
+2017-01-02 00:22:40 URL:http://www.chelseama.gov/city-manager/faq/how-do-residents-influence-hiring-city-manager-and-process-city-manager-governing [39589] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-manager/faq/how-do-residents-influence-hiring-city-manager-and-process-city-manager-governing" [1]
+2017-01-02 00:22:42 URL:http://www.chelseama.gov/node/46/news [35100] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/46/news" [1]
+2017-01-02 00:22:44 URL:http://www.chelseama.gov/city-manager/news/state-city-report-released [39286] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-manager/news/state-city-report-released" [1]
+2017-01-02 00:22:46 URL:http://www.chelseama.gov/elder-services [58500] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/2531" [1]
+2017-01-02 00:22:47 URL:http://www.chelseama.gov/print/2531 [8507] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/2531" [1]
+2017-01-02 00:22:49 URL:http://www.chelseama.gov/user/301/contact [38109] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/301/contact" [1]
+2017-01-02 00:22:50 URL: http://www.chelseama.gov/node/2531/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:22:53 URL:http://www.gettingfoodstamps.org/ [13286/13286] -> "../data/townSites2/Chelsea/www.chelseama.gov/elder-services/links/food-stamp-eligibility" [1]
+2017-01-02 00:22:56 URL:http://www.chelseama.gov/elder-services/pages/senior-tax-work-program [40114] -> "../data/townSites2/Chelsea/www.chelseama.gov/elder-services/pages/senior-tax-work-program" [1]
+2017-01-02 00:22:57 URL:http://www.chelseama.gov/node/2531/events/month [54364] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/2531/events/month" [1]
+2017-01-02 00:22:59 URL:http://www.chelseama.gov/node/2531/events/month/2017-01 [54421] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/2531/events/month/2017-01" [1]
+2017-01-02 00:23:00 URL:http://www.chelseama.gov/node/2531/agenda [34134] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/2531/agenda" [1]
+2017-01-02 00:23:02 URL:http://www.chelseama.gov/elder-services/agenda/council-elder-affairs-meeting-3 [39287] -> "../data/townSites2/Chelsea/www.chelseama.gov/elder-services/agenda/council-elder-affairs-meeting-3" [1]
+2017-01-02 00:23:04 URL:http://www.chelseama.gov/elder-services/agenda/council-elder-affairs-meeting-2 [39261] -> "../data/townSites2/Chelsea/www.chelseama.gov/elder-services/agenda/council-elder-affairs-meeting-2" [1]
+2017-01-02 00:23:05 URL:http://www.chelseama.gov/elder-services/agenda/council-elder-affairs-meeting-1 [39263] -> "../data/townSites2/Chelsea/www.chelseama.gov/elder-services/agenda/council-elder-affairs-meeting-1" [1]
+2017-01-02 00:23:07 URL:http://www.chelseama.gov/elder-services/agenda/council-elder-affairs-meeting-0 [39255] -> "../data/townSites2/Chelsea/www.chelseama.gov/elder-services/agenda/council-elder-affairs-meeting-0" [1]
+2017-01-02 00:23:09 URL:http://www.chelseama.gov/elder-services/agenda/council-elder-affairs-meeting [39272] -> "../data/townSites2/Chelsea/www.chelseama.gov/elder-services/agenda/council-elder-affairs-meeting" [1]
+2017-01-02 00:23:10 URL:http://www.chelseama.gov/emergency-management [53872] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/2901" [1]
+2017-01-02 00:23:11 URL:http://www.chelseama.gov/print/2901 [10063] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/2901" [1]
+2017-01-02 00:23:13 URL:http://www.chelseama.gov/user/316/contact [38107] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/316/contact" [1]
+2017-01-02 00:23:15 URL:http://www.chelseama.gov/user/526/contact [38119] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/526/contact" [1]
+2017-01-02 00:23:17 URL: http://www.chelseama.gov/node/2901/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:19 URL:http://www.chelseama.gov/emergency-management/webforms/business-contact-update [55930/55930] -> "../data/townSites2/Chelsea/www.chelseama.gov/emergency-management/webforms/business-contact-update" [1]
+2017-01-02 00:23:24 URL:http://www.ceas.com/our_programs/ma/ [102824] -> "../data/townSites2/Chelsea/www.chelseama.gov/emergency-management/links/ceas-card-sign" [1]
+2017-01-02 00:23:27 URL:http://www.chelseama.gov/emergency-management/webforms/public-safety-alpha-pagingalert-sign [53635/53635] -> "../data/townSites2/Chelsea/www.chelseama.gov/emergency-management/webforms/public-safety-alpha-pagingalert-sign" [1]
+2017-01-02 00:23:29 URL:https://smart911.com/smart911/registration/registrationLanding.action [44439] -> "../data/townSites2/Chelsea/www.chelseama.gov/emergency-management/links/smart-9-1-1-sign" [1]
+2017-01-02 00:23:31 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/disability-info-and-form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:32 URL:http://www.chelseama.gov/emergency-management/pages/9-1-1-dispatchers [45174] -> "../data/townSites2/Chelsea/www.chelseama.gov/emergency-management/pages/9-1-1-dispatchers" [1]
+2017-01-02 00:23:36 URL:http://weather.weatherbug.com/weather-forecast/now/chelsea-ma-02150 [153605] -> "../data/townSites2/Chelsea/www.chelseama.gov/emergency-management/links/9-1-1-weather-bug-station" [1]
+2017-01-02 00:23:42 URL:https://www.boston.gov/departments/emergency-management [49035] -> "../data/townSites2/Chelsea/www.chelseama.gov/emergency-management/links/boston-emergency-management" [1]
+2017-01-02 00:23:44 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/chelsearuncards.3.9.11.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:46 URL:http://www.chelseama.gov/emergency-management/pages/chelsea-traffic-advisories [43191] -> "../data/townSites2/Chelsea/www.chelseama.gov/emergency-management/pages/chelsea-traffic-advisories" [1]
+2017-01-02 00:23:49 URL:http://www.chelseama.gov/emergency-management/webforms/eopss-comu-credential-request [50103/50103] -> "../data/townSites2/Chelsea/www.chelseama.gov/emergency-management/webforms/eopss-comu-credential-request" [1]
+2017-01-02 00:23:50 URL:http://www.chelseama.gov/emergency-management/pages/emergency-contacts-resources [44585] -> "../data/townSites2/Chelsea/www.chelseama.gov/emergency-management/pages/emergency-contacts-resources" [1]
+2017-01-02 00:23:52 URL:https://www.fema.gov/ [34633] -> "../data/townSites2/Chelsea/www.chelseama.gov/emergency-management/links/federal-emergency-management-agency-fema" [1]
+2017-01-02 00:23:57 URL:https://www.mylocalclinic.com/fcss/ [9312/9312] -> "../data/townSites2/Chelsea/www.chelseama.gov/emergency-management/links/flu-clinic-locations" [1]
+2017-01-02 00:23:59 URL:http://www.broadcastify.com/listen/feed/15454 [12112] -> "../data/townSites2/Chelsea/www.chelseama.gov/emergency-management/links/listen-chelsea-fire" [1]
+2017-01-02 00:24:01 URL:http://www.chelseama.gov/emergency-management/pages/mema-fire-safety-notices [42628] -> "../data/townSites2/Chelsea/www.chelseama.gov/emergency-management/pages/mema-fire-safety-notices" [1]
+2017-01-02 00:24:03 URL:http://www.mass.gov/eopss/agencies/state-911/e911/trng-and-progs/public-education.html [88689] -> "../data/townSites2/Chelsea/www.chelseama.gov/emergency-management/links/massachusetts-9-1-1-public-education" [1]
+2017-01-02 00:24:06 URL:http://www.mass.gov/eopss/agencies/mema/ [113050] -> "../data/townSites2/Chelsea/www.chelseama.gov/emergency-management/links/massachusetts-emergency-management-agency-mema" [1]
+2017-01-02 00:24:08 URL:http://www.chelseama.gov/emergency-management/slideshows/oem-pictures [45575] -> "../data/townSites2/Chelsea/www.chelseama.gov/emergency-management/slideshows/oem-pictures" [1]
+2017-01-02 00:24:11 URL:http://www.chelseama.gov/cable-television-advisory-board [41473] -> "../data/townSites2/Chelsea/www.chelseama.gov/emergency-management/links/watch-channel-15" [1]
+2017-01-02 00:24:13 URL:http://www.chelseama.gov/node/2901/faq [39858] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/2901/faq" [1]
+2017-01-02 00:24:15 URL:http://www.chelseama.gov/emergency-management/faq/why-does-it-go-essex-regional-wireless-center-when-i%E2%80%99m-calling-chelsea [43564] -> "../data/townSites2/Chelsea/www.chelseama.gov/emergency-management/faq/why-does-it-go-essex-regional-wireless-center-when-iâ%80%99m-calling-chelsea" [1]
+2017-01-02 00:24:17 URL:http://www.chelseama.gov/emergency-management/faq/what-building-eo-cc [42795] -> "../data/townSites2/Chelsea/www.chelseama.gov/emergency-management/faq/what-building-eo-cc" [1]
+2017-01-02 00:24:20 URL:http://www.chelseama.gov/emergency-management/faq/are-you-part-police-or-fire-department [42686] -> "../data/townSites2/Chelsea/www.chelseama.gov/emergency-management/faq/are-you-part-police-or-fire-department" [1]
+2017-01-02 00:24:22 URL:http://www.chelseama.gov/emergency-management/faq/how-many-people-work-emergency-management [42670] -> "../data/townSites2/Chelsea/www.chelseama.gov/emergency-management/faq/how-many-people-work-emergency-management" [1]
+2017-01-02 00:24:24 URL:http://www.chelseama.gov/emergency-management/faq/what-emergency-management [42755] -> "../data/townSites2/Chelsea/www.chelseama.gov/emergency-management/faq/what-emergency-management" [1]
+2017-01-02 00:24:26 URL:http://www.chelseama.gov/finance [44963] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/81" [1]
+2017-01-02 00:24:28 URL:http://www.chelseama.gov/print/81 [7723] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/81" [1]
+2017-01-02 00:24:30 URL:http://www.chelseama.gov/user/396/contact [38079] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/396/contact" [1]
+2017-01-02 00:24:30 URL: http://www.chelseama.gov/node/81/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:33 URL:http://www.chelseama.gov/city-auditor/pages/financial-documents-reports [40548] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-auditor/pages/financial-documents-reports" [1]
+2017-01-02 00:24:38 URL:https://www.commbuys.com/bso/ [70536] -> "../data/townSites2/Chelsea/www.chelseama.gov/procurement/links/commbuys-state-contracts" [1]
+2017-01-02 00:24:40 URL:http://www.chelseama.gov/purchasing/pages/current-bids-solicitations [41536] -> "../data/townSites2/Chelsea/www.chelseama.gov/purchasing/pages/current-bids-solicitations" [1]
+2017-01-02 00:24:42 URL:http://www.chelseama.gov/purchasing/pages/purchasing-policies-procedures-guidelines [38978] -> "../data/townSites2/Chelsea/www.chelseama.gov/purchasing/pages/purchasing-policies-procedures-guidelines" [1]
+2017-01-02 00:24:44 URL:http://www.chelseama.gov/treasurer-collector/pages/downloadable-forms [39464] -> "../data/townSites2/Chelsea/www.chelseama.gov/treasurer-collector/pages/downloadable-forms" [1]
+2017-01-02 00:24:45 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/mlc_fees.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:46 URL:http://www.chelseama.gov/treasurer-collector/pages/treasurers-notices [38821] -> "../data/townSites2/Chelsea/www.chelseama.gov/treasurer-collector/pages/treasurers-notices" [1]
+2017-01-02 00:24:48 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/watersewerratesnew.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:50 URL:http://www.chelseama.gov/fire-department [45709] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/2906" [1]
+2017-01-02 00:24:51 URL:http://www.chelseama.gov/print/2906 [8878] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/2906" [1]
+2017-01-02 00:24:54 URL:http://www.chelseama.gov/user/733/contact [38127] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/733/contact" [1]
+2017-01-02 00:24:55 URL: http://www.chelseama.gov/node/2906/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:24:57 URL:http://www.chelseama.gov/fire-department/pages/fire-investigation-unit [40036] -> "../data/townSites2/Chelsea/www.chelseama.gov/fire-department/pages/fire-investigation-unit" [1]
+2017-01-02 00:24:59 URL:http://www.chelseama.gov/fire-department/pages/fire-prevention-division [41032] -> "../data/townSites2/Chelsea/www.chelseama.gov/fire-department/pages/fire-prevention-division" [1]
+2017-01-02 00:25:00 URL:http://www.mass.gov/anf/employment-equal-access-disability/civil-serv-info/ [142916] -> "../data/townSites2/Chelsea/www.chelseama.gov/fire-department/links/firefighter-exam" [1]
+2017-01-02 00:25:02 URL:http://www.chelseama.gov/fire-department/pages/incident-photos [41106] -> "../data/townSites2/Chelsea/www.chelseama.gov/fire-department/pages/incident-photos" [1]
+2017-01-02 00:25:03 URL:http://www.chelseama.gov/fire-department/pages/news-and-information-archive [40012] -> "../data/townSites2/Chelsea/www.chelseama.gov/fire-department/pages/news-and-information-archive" [1]
+2017-01-02 00:25:05 URL:http://www.chelseama.gov/fire-department/pages/special-operations-unit [40355] -> "../data/townSites2/Chelsea/www.chelseama.gov/fire-department/pages/special-operations-unit" [1]
+2017-01-02 00:25:08 URL:http://www.chelseama.gov/fire-department/pages/training-and-safety-unit [40891] -> "../data/townSites2/Chelsea/www.chelseama.gov/fire-department/pages/training-and-safety-unit" [1]
+2017-01-02 00:25:10 URL:http://www.chelseama.gov/node/2906/news [36050] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/2906/news" [1]
+2017-01-02 00:25:12 URL:http://www.chelseama.gov/fire-department/news/fire-safety-tips [41495] -> "../data/townSites2/Chelsea/www.chelseama.gov/fire-department/news/fire-safety-tips" [1]
+2017-01-02 00:25:14 URL:http://www.chelseama.gov/fire-department/news/written-firefighter-examination-saturday-april-16-2016 [40039] -> "../data/townSites2/Chelsea/www.chelseama.gov/fire-department/news/written-firefighter-examination-saturday-april-16-2016" [1]
+2017-01-02 00:25:16 URL:http://www.chelseama.gov/health-human-services [63045] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/86" [1]
+2017-01-02 00:25:17 URL:http://www.chelseama.gov/print/86 [10176] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/86" [1]
+2017-01-02 00:25:19 URL:http://www.chelseama.gov/user/271/contact [38105] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/271/contact" [1]
+2017-01-02 00:25:22 URL:http://www.chelseama.gov/user/276/contact [38101] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/276/contact" [1]
+2017-01-02 00:25:24 URL:http://www.chelseama.gov/user/281/contact [38109] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/281/contact" [1]
+2017-01-02 00:25:26 URL:http://www.chelseama.gov/user/291/contact [38131] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/291/contact" [1]
+2017-01-02 00:25:27 URL: http://www.chelseama.gov/node/86/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:25:28 URL:http://www.chelseama.gov/board-health [59556] -> "../data/townSites2/Chelsea/www.chelseama.gov/health-human-services/links/board-health" [1]
+2017-01-02 00:25:31 URL:http://www.chelseama.gov/public-library [71299] -> "../data/townSites2/Chelsea/www.chelseama.gov/health-human-services/links/public-library" [1]
+2017-01-02 00:25:32 URL:http://www.chelseama.gov/health-human-services/pages/quality-life-survey [41516] -> "../data/townSites2/Chelsea/www.chelseama.gov/health-human-services/pages/quality-life-survey" [1]
+2017-01-02 00:25:34 URL:http://www.chelseama.gov/health-human-services/pages/resources-summer [47046] -> "../data/townSites2/Chelsea/www.chelseama.gov/health-human-services/pages/resources-summer" [1]
+2017-01-02 00:25:35 URL:http://www.chelseama.gov/health-human-services/pages/useful-information-links [43038] -> "../data/townSites2/Chelsea/www.chelseama.gov/health-human-services/pages/useful-information-links" [1]
+2017-01-02 00:25:37 URL:http://www.gettingfoodstamps.org/ [13286/13286] -> "../data/townSites2/Chelsea/www.chelseama.gov/veterans-services/links/food-stamp-eligibility" [1]
+2017-01-02 00:25:39 URL:http://www.chelseama.gov/weed-seed-program [41091] -> "../data/townSites2/Chelsea/www.chelseama.gov/weed-seed-program" [1]
+2017-01-02 00:25:41 URL:http://www.chelseama.gov/node/86/events/month [56695] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/86/events/month" [1]
+2017-01-02 00:25:42 URL:http://www.chelseama.gov/node/86/events/month/2017-01 [56752] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/86/events/month/2017-01" [1]
+2017-01-02 00:25:45 URL:http://www.chelseama.gov/node/86/agenda [36467] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/86/agenda" [1]
+2017-01-02 00:25:46 URL:http://www.chelseama.gov/health-human-services/agenda/board-health-meeting-5 [41622] -> "../data/townSites2/Chelsea/www.chelseama.gov/health-human-services/agenda/board-health-meeting-5" [1]
+2017-01-02 00:25:48 URL:http://www.chelseama.gov/health-human-services/agenda/board-health-meeting-3 [41625] -> "../data/townSites2/Chelsea/www.chelseama.gov/health-human-services/agenda/board-health-meeting-3" [1]
+2017-01-02 00:25:50 URL:http://www.chelseama.gov/health-human-services/agenda/board-health-meeting-4 [41626] -> "../data/townSites2/Chelsea/www.chelseama.gov/health-human-services/agenda/board-health-meeting-4" [1]
+2017-01-02 00:25:51 URL:http://www.chelseama.gov/health-human-services/agenda/board-health-meeting-2 [41618] -> "../data/townSites2/Chelsea/www.chelseama.gov/health-human-services/agenda/board-health-meeting-2" [1]
+2017-01-02 00:25:53 URL:http://www.chelseama.gov/health-human-services/agenda/board-health-meeting-0 [41080] -> "../data/townSites2/Chelsea/www.chelseama.gov/health-human-services/agenda/board-health-meeting-0" [1]
+2017-01-02 00:25:55 URL:http://www.chelseama.gov/human-resources [46841] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/91" [1]
+2017-01-02 00:25:56 URL:http://www.chelseama.gov/print/91 [7724] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/91" [1]
+2017-01-02 00:25:58 URL:http://www.chelseama.gov/user/703/contact [38093] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/703/contact" [1]
+2017-01-02 00:26:00 URL:http://www.chelseama.gov/user/196/contact [38117] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/196/contact" [1]
+2017-01-02 00:26:02 URL:http://www.chelseama.gov/user/191/contact [38111] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/191/contact" [1]
+2017-01-02 00:26:03 URL: http://www.chelseama.gov/node/91/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:04 URL:http://www.chelseama.gov/human-resources/pages/benefits-rates [40635] -> "../data/townSites2/Chelsea/www.chelseama.gov/human-resources/pages/benefits-rates" [1]
+2017-01-02 00:26:05 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/chelma_walking_club_map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:07 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/city_telephone_numbers_by_department.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:08 URL:http://www.chelseama.gov/human-resources/pages/external-links [40081] -> "../data/townSites2/Chelsea/www.chelseama.gov/human-resources/pages/external-links" [1]
+2017-01-02 00:26:13 URL:https://www.harvardpilgrim.org/portal/page?_pageid=213%2C243705&_dad=portal&_schema=PORTAL [36782/36782] -> "../data/townSites2/Chelsea/www.chelseama.gov/human-resources/links/hphconnect-harvard-pilgrim" [1]
+2017-01-02 00:26:14 URL:http://www.chelseama.gov/human-resources/pages/human-resource-forms [41735] -> "../data/townSites2/Chelsea/www.chelseama.gov/human-resources/pages/human-resource-forms" [1]
+2017-01-02 00:26:16 URL:http://www.chelseama.gov/human-resources/pages/information-city-employees [40261] -> "../data/townSites2/Chelsea/www.chelseama.gov/human-resources/pages/information-city-employees" [1]
+2017-01-02 00:26:17 URL:http://www.chelseama.gov/human-resources/pages/job-application [40492] -> "../data/townSites2/Chelsea/www.chelseama.gov/human-resources/pages/job-application" [1]
+2017-01-02 00:26:19 URL:http://www.chelseama.gov/human-resources/pages/city-chelsea-job-vacancies [43084] -> "../data/townSites2/Chelsea/www.chelseama.gov/human-resources/links/job-openings" [1]
+2017-01-02 00:26:20 URL:http://www.mass.gov/anf/employment-equal-access-disability/civil-serv-info/ [142916] -> "../data/townSites2/Chelsea/www.chelseama.gov/human-resources/links/police-and-firefighter-exam" [1]
+2017-01-02 00:26:22 URL:http://www.chelseama.gov/elder-services/pages/senior-tax-work-program [40114] -> "../data/townSites2/Chelsea/www.chelseama.gov/human-resources/links/senior-tax-work-program" [1]
+2017-01-02 00:26:23 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/sobharvard.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:24 URL:http://www.chelseama.gov/node/91/faq [37942] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/91/faq" [1]
+2017-01-02 00:26:26 URL:http://www.chelseama.gov/human-resources/faq/what-does-human-resources-department-do [40511] -> "../data/townSites2/Chelsea/www.chelseama.gov/human-resources/faq/what-does-human-resources-department-do" [1]
+2017-01-02 00:26:27 URL:http://www.chelseama.gov/human-resources/faq/how-do-i-apply-city-job [40176] -> "../data/townSites2/Chelsea/www.chelseama.gov/human-resources/faq/how-do-i-apply-city-job" [1]
+2017-01-02 00:26:28 URL:http://www.chelseama.gov/human-resources/faq/where-does-my-application-go-once-i-fill-one-out [39909] -> "../data/townSites2/Chelsea/www.chelseama.gov/human-resources/faq/where-does-my-application-go-once-i-fill-one-out" [1]
+2017-01-02 00:26:30 URL:http://www.chelseama.gov/human-resources/faq/do-i-have-submit-cover-letter-and-resume [40053] -> "../data/townSites2/Chelsea/www.chelseama.gov/human-resources/faq/do-i-have-submit-cover-letter-and-resume" [1]
+2017-01-02 00:26:31 URL:http://www.chelseama.gov/human-resources/faq/do-i-have-fill-out-new-application-each-job-i-am-interested [39851] -> "../data/townSites2/Chelsea/www.chelseama.gov/human-resources/faq/do-i-have-fill-out-new-application-each-job-i-am-interested" [1]
+2017-01-02 00:26:32 URL:http://www.chelseama.gov/information-technology [45349] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/96" [1]
+2017-01-02 00:26:33 URL:http://www.chelseama.gov/print/96 [9482] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/96" [1]
+2017-01-02 00:26:35 URL:http://www.chelseama.gov/user/471/contact [38119] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/471/contact" [1]
+2017-01-02 00:26:37 URL:http://www.chelseama.gov/user/86/contact [38094] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/86/contact" [1]
+2017-01-02 00:26:37 URL: http://www.chelseama.gov/node/96/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:26:40 URL:https://www.mapsonline.net/chelseama/forms/standalone.html.php?id=234065362 [31010] -> "../data/townSites2/Chelsea/www.chelseama.gov/information-technology/links/information-technology-questionsconcerns" [1]
+2017-01-02 00:26:42 URL:http://www.chelseama.gov/inspectional-services [50969] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/101" [1]
+2017-01-02 00:26:43 URL:http://www.chelseama.gov/print/101 [9090] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/101" [1]
+2017-01-02 00:26:44 URL:http://www.chelseama.gov/user/91/contact [38100] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/91/contact" [1]
+2017-01-02 00:26:46 URL:http://www.chelseama.gov/user/96/contact [38108] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/96/contact" [1]
+2017-01-02 00:26:48 URL:http://www.chelseama.gov/user/101/contact [38101] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/101/contact" [1]
+2017-01-02 00:26:50 URL:http://www.chelseama.gov/user/106/contact [38095] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/106/contact" [1]
+2017-01-02 00:26:52 URL:http://www.chelseama.gov/user/111/contact [38123] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/111/contact" [1]
+2017-01-02 00:26:54 URL:http://www.chelseama.gov/user/116/contact [38121] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/116/contact" [1]
+2017-01-02 00:26:56 URL:http://www.chelseama.gov/user/121/contact [38103] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/121/contact" [1]
+2017-01-02 00:26:58 URL:http://www.chelseama.gov/user/126/contact [38121] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/126/contact" [1]
+2017-01-02 00:27:00 URL:http://www.chelseama.gov/user/131/contact [38121] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/131/contact" [1]
+2017-01-02 00:27:02 URL:http://www.chelseama.gov/user/136/contact [38093] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/136/contact" [1]
+2017-01-02 00:27:04 URL:http://www.chelseama.gov/user/141/contact [38109] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/141/contact" [1]
+2017-01-02 00:27:06 URL:http://www.chelseama.gov/user/146/contact [38103] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/146/contact" [1]
+2017-01-02 00:27:08 URL:http://www.chelseama.gov/user/151/contact [38125] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/151/contact" [1]
+2017-01-02 00:27:08 URL: http://www.chelseama.gov/node/101/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:10 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/dumpster_permit_app.2016.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:11 URL:http://www.chelseama.gov/inspectional-services/pages/housing-code-ordinance [44533] -> "../data/townSites2/Chelsea/www.chelseama.gov/inspectional-services/pages/housing-code-ordinance" [1]
+2017-01-02 00:27:13 URL:http://u17850833.onlinehome-server.com/csp/chelsealive/DocumentLink.PublicLogin.cls [108648] -> "../data/townSites2/Chelsea/www.chelseama.gov/inspectional-services/links/isd-online-permitting" [1]
+2017-01-02 00:27:14 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/schedule_of_fees.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:15 URL:http://www.chelseama.gov/node/101/faq [37889] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/101/faq" [1]
+2017-01-02 00:27:17 URL:http://www.chelseama.gov/inspectional-services/faq/can-i-access-download-or-complete-isd-applications-and-forms-online [39062] -> "../data/townSites2/Chelsea/www.chelseama.gov/inspectional-services/faq/can-i-access-download-or-complete-isd-applications-and-forms-online" [1]
+2017-01-02 00:27:19 URL:http://www.chelseama.gov/inspectional-services/faq/what-kinds-issues-isd-responsible [39093] -> "../data/townSites2/Chelsea/www.chelseama.gov/inspectional-services/faq/what-kinds-issues-isd-responsible" [1]
+2017-01-02 00:27:21 URL:http://www.chelseama.gov/inspectional-services/faq/when-building-permit-required-example-do-i-need-permit-shed [39115] -> "../data/townSites2/Chelsea/www.chelseama.gov/inspectional-services/faq/when-building-permit-required-example-do-i-need-permit-shed" [1]
+2017-01-02 00:27:22 URL:http://www.chelseama.gov/inspectional-services/faq/can-i-do-my-own-electrical-or-plumbing-work-my-home-or-business [38845] -> "../data/townSites2/Chelsea/www.chelseama.gov/inspectional-services/faq/can-i-do-my-own-electrical-or-plumbing-work-my-home-or-business" [1]
+2017-01-02 00:27:24 URL:http://www.chelseama.gov/inspectional-services/faq/are-zoning-ordinances-city-chelsea-available-online [39137] -> "../data/townSites2/Chelsea/www.chelseama.gov/inspectional-services/faq/are-zoning-ordinances-city-chelsea-available-online" [1]
+2017-01-02 00:27:25 URL:http://www.chelseama.gov/node/101/news [36498] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/101/news" [1]
+2017-01-02 00:27:26 URL:http://www.chelseama.gov/inspectional-services/news/important-information-property-owners-and-tenantsinformaci%C3%B3n-importante [39214] -> "../data/townSites2/Chelsea/www.chelseama.gov/inspectional-services/news/important-information-property-owners-and-tenantsinformaciÃ³n-importante" [1]
+2017-01-02 00:27:28 URL:http://www.chelseama.gov/inspectional-services/news/illegal-apartments-brochurefolleto-sobre%C2%A0apartamentos-ilegales [39026] -> "../data/townSites2/Chelsea/www.chelseama.gov/inspectional-services/news/illegal-apartments-brochurefolleto-sobreÂ apartamentos-ilegales" [1]
+2017-01-02 00:27:29 URL:http://www.chelseama.gov/inspectional-services/news/5-year-certificate-habitability-initiativecertificado-de-habitabilidad [39145] -> "../data/townSites2/Chelsea/www.chelseama.gov/inspectional-services/news/5-year-certificate-habitability-initiativecertificado-de-habitabilidad" [1]
+2017-01-02 00:27:31 URL:http://www.chelseama.gov/law [60468] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/106" [1]
+2017-01-02 00:27:32 URL:http://www.chelseama.gov/print/106 [8815] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/106" [1]
+2017-01-02 00:27:34 URL:http://www.chelseama.gov/user/201/contact [38117] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/201/contact" [1]
+2017-01-02 00:27:36 URL:http://www.chelseama.gov/user/206/contact [38121] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/206/contact" [1]
+2017-01-02 00:27:38 URL:http://www.chelseama.gov/user/211/contact [38101] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/211/contact" [1]
+2017-01-02 00:27:40 URL:http://www.chelseama.gov/user/1373/contact [38156] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/1373/contact" [1]
+2017-01-02 00:27:40 URL: http://www.chelseama.gov/node/106/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:43 URL:https://www.municode.com/library/ma/chelsea/codes/code_of_ordinances [3320/3320] -> "../data/townSites2/Chelsea/www.chelseama.gov/law/links/codes-ordinances" [1]
+2017-01-02 00:27:44 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/conflict_of_interest_law.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:27:45 URL:http://www.chelseama.gov/node/106/faq [36698] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/106/faq" [1]
+2017-01-02 00:27:47 URL:http://www.chelseama.gov/law/faq/how-can-i-get-copies-city-ordinances-and-charter [39049] -> "../data/townSites2/Chelsea/www.chelseama.gov/law/faq/how-can-i-get-copies-city-ordinances-and-charter" [1]
+2017-01-02 00:27:48 URL:http://www.chelseama.gov/law/faq/how-do-i-file-trash-violation-appeal [38539] -> "../data/townSites2/Chelsea/www.chelseama.gov/law/faq/how-do-i-file-trash-violation-appeal" [1]
+2017-01-02 00:27:49 URL:http://www.chelseama.gov/law/faq/how-do-i-file-claim-against-city [38665] -> "../data/townSites2/Chelsea/www.chelseama.gov/law/faq/how-do-i-file-claim-against-city" [1]
+2017-01-02 00:27:51 URL:http://www.chelseama.gov/law/faq/what-number-chelsea-district-court [38181] -> "../data/townSites2/Chelsea/www.chelseama.gov/law/faq/what-number-chelsea-district-court" [1]
+2017-01-02 00:27:52 URL:http://www.chelseama.gov/law/faq/i-need-legal-advice-regarding-matter-involving-my-landlord [38521] -> "../data/townSites2/Chelsea/www.chelseama.gov/law/faq/i-need-legal-advice-regarding-matter-involving-my-landlord" [1]
+2017-01-02 00:27:54 URL:http://www.chelseama.gov/node/106/events/month [54257] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/106/events/month" [1]
+2017-01-02 00:27:55 URL:http://www.chelseama.gov/node/106/events/month/2017-01 [54314] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/106/events/month/2017-01" [1]
+2017-01-02 00:27:56 URL:http://www.chelseama.gov/node/106/agenda [34061] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/106/agenda" [1]
+2017-01-02 00:27:58 URL:http://www.chelseama.gov/law/agenda/cable-advisory-board-public-hearing [39221] -> "../data/townSites2/Chelsea/www.chelseama.gov/law/agenda/cable-advisory-board-public-hearing" [1]
+2017-01-02 00:27:59 URL:http://www.chelseama.gov/licensing [57190] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/111" [1]
+2017-01-02 00:28:00 URL:http://www.chelseama.gov/print/111 [8680] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/111" [1]
+2017-01-02 00:28:01 URL: http://www.chelseama.gov/node/111/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:03 URL:http://www.chelseama.gov/city-clerk-parking-clerk/pages/license-permit-applications [40599] -> "../data/townSites2/Chelsea/www.chelseama.gov/licensing/links/forms-applications" [1]
+2017-01-02 00:28:04 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/licensing_commission_rules_and_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:06 URL:http://www.chelseama.gov/node/211/minutes [34232] -> "../data/townSites2/Chelsea/www.chelseama.gov/licensing/links/licensing-minutes" [1]
+2017-01-02 00:28:08 URL:http://www.chelseama.gov/node/111/events/month [54450] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/111/events/month" [1]
+2017-01-02 00:28:10 URL:http://www.chelseama.gov/node/111/events/month/2017-01 [54507] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/111/events/month/2017-01" [1]
+2017-01-02 00:28:11 URL:http://www.chelseama.gov/node/111/agenda [34242] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/111/agenda" [1]
+2017-01-02 00:28:12 URL:http://www.chelseama.gov/licensing/agenda/licensing-commission-meeting-3 [39397] -> "../data/townSites2/Chelsea/www.chelseama.gov/licensing/agenda/licensing-commission-meeting-3" [1]
+2017-01-02 00:28:14 URL:http://www.chelseama.gov/licensing/agenda/licensing-commission-meeting-2 [39385] -> "../data/townSites2/Chelsea/www.chelseama.gov/licensing/agenda/licensing-commission-meeting-2" [1]
+2017-01-02 00:28:15 URL:http://www.chelseama.gov/licensing/agenda/licensing-commission-public-hearing [39419] -> "../data/townSites2/Chelsea/www.chelseama.gov/licensing/agenda/licensing-commission-public-hearing" [1]
+2017-01-02 00:28:16 URL:http://www.chelseama.gov/licensing/agenda/licensing-commission-meeting [39373] -> "../data/townSites2/Chelsea/www.chelseama.gov/licensing/agenda/licensing-commission-meeting" [1]
+2017-01-02 00:28:18 URL:http://www.chelseama.gov/licensing/agenda/licensing-commission-meeting-1 [39394] -> "../data/townSites2/Chelsea/www.chelseama.gov/licensing/agenda/licensing-commission-meeting-1" [1]
+2017-01-02 00:28:20 URL:http://www.chelseama.gov/planning-development [52247] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/116" [1]
+2017-01-02 00:28:21 URL:http://www.chelseama.gov/print/116 [8739] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/116" [1]
+2017-01-02 00:28:23 URL:http://www.chelseama.gov/user/366/contact [38127] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/366/contact" [1]
+2017-01-02 00:28:25 URL:http://www.chelseama.gov/user/371/contact [38141] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/371/contact" [1]
+2017-01-02 00:28:26 URL:http://www.chelseama.gov/user/376/contact [38103] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/376/contact" [1]
+2017-01-02 00:28:28 URL:http://www.chelseama.gov/user/381/contact [38101] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/381/contact" [1]
+2017-01-02 00:28:30 URL:http://www.chelseama.gov/user/522/contact [38101] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/522/contact" [1]
+2017-01-02 00:28:32 URL:http://www.chelseama.gov/user/386/contact [38101] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/386/contact" [1]
+2017-01-02 00:28:34 URL:http://www.chelseama.gov/user/391/contact [38139] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/391/contact" [1]
+2017-01-02 00:28:35 URL: http://www.chelseama.gov/node/116/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:28:37 URL:http://www.chelseama.gov/conservation-commission [59848] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-development/links/conservation-commission" [1]
+2017-01-02 00:28:39 URL:http://www.chelseama.gov/planning-development/pages/dpa-boundary-review-information [41337] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-development/pages/dpa-boundary-review-information" [1]
+2017-01-02 00:28:40 URL:http://www.chelseama.gov/economic-development-board [56887] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-development/links/economic-development-board" [1]
+2017-01-02 00:28:42 URL:http://www.chelseama.gov/planning-development/pages/fema-flood-insurance-information [41653] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-development/pages/fema-flood-insurance-information" [1]
+2017-01-02 00:28:43 URL:http://www.chelseama.gov/planning-development/pages/geographic-information-system-gis [42045] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-development/pages/geographic-information-system-gis" [1]
+2017-01-02 00:28:45 URL:http://www.chelseama.gov/planning-development/pages/housing-rehabilitation-program [45244] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-development/pages/housing-rehabilitation-program" [1]
+2017-01-02 00:28:46 URL:http://www.chelseama.gov/planning-development/pages/petition-forms [41646] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-development/pages/petition-forms" [1]
+2017-01-02 00:28:48 URL:http://www.chelseama.gov/planning-board [65756] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-development/links/planning-board" [1]
+2017-01-02 00:28:49 URL:http://www.chelseama.gov/planning-development/pages/planning-studies-and-reports [43440] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-development/pages/planning-studies-and-reports" [1]
+2017-01-02 00:28:50 URL:http://www.chelseama.gov/planning-development/pages/proposed-zoning-amendments [41687] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-development/pages/proposed-zoning-amendments" [1]
+2017-01-02 00:28:52 URL:http://www.chelseama.gov/planning-development/pages/related-planning-websites [44464] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-development/pages/related-planning-websites" [1]
+2017-01-02 00:28:54 URL:http://www.chelseama.gov/planning-development/pages/silver-line-gateway-project-information [42424] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-development/pages/silver-line-gateway-project-information" [1]
+2017-01-02 00:28:55 URL:http://www.chelseama.gov/planning-development/pages/waterfront-community-visioning [41546] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-development/pages/waterfront-community-visioning" [1]
+2017-01-02 00:28:57 URL:http://www.chelseama.gov/zoning-board-appeals [62070] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-development/links/zoning-board-appeals" [1]
+2017-01-02 00:28:58 URL:http://www.chelseama.gov/planning-development/pages/zoning-ordinances-maps [42190] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-development/pages/zoning-ordinances-maps" [1]
+2017-01-02 00:29:00 URL:http://www.chelseama.gov/node/116/faq [39208] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/116/faq" [1]
+2017-01-02 00:29:01 URL:http://www.chelseama.gov/planning-development/faq/can-i-get-something-notarized-how-much-does-it-cost [41100] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-development/faq/can-i-get-something-notarized-how-much-does-it-cost" [1]
+2017-01-02 00:29:02 URL:http://www.chelseama.gov/planning-development/faq/can-you-help-me-because-i-am-being-foreclosed [40769] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-development/faq/can-you-help-me-because-i-am-being-foreclosed" [1]
+2017-01-02 00:29:04 URL:http://www.chelseama.gov/planning-development/faq/can-you-help-me-because-i-am-having-trouble-my-landlord [40937] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-development/faq/can-you-help-me-because-i-am-having-trouble-my-landlord" [1]
+2017-01-02 00:29:06 URL:http://www.chelseama.gov/planning-development/faq/can-you-help-me-because-i-can%E2%80%99t-afford-my-rent [40896] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-development/faq/can-you-help-me-because-i-canâ%80%99t-afford-my-rent" [1]
+2017-01-02 00:29:07 URL:http://www.chelseama.gov/planning-development/faq/can-i-get-list-city-owned-land-or-property-sale [40754] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-development/faq/can-i-get-list-city-owned-land-or-property-sale" [1]
+2017-01-02 00:29:09 URL:http://www.chelseama.gov/node/116/news [39023] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/116/news" [1]
+2017-01-02 00:29:10 URL:http://www.chelseama.gov/planning-development/news/91416-%E2%80%93-citizenship-classes-funded-community-development-block-grant [40880] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-development/news/91416-â%80%93-citizenship-classes-funded-community-development-block-grant" [1]
+2017-01-02 00:29:12 URL:http://www.chelseama.gov/planning-development/news/113016-600-pm-williams-school-community-development-block-grant-cdbg [46417] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-development/news/113016-600-pm-williams-school-community-development-block-grant-cdbg" [1]
+2017-01-02 00:29:13 URL:http://www.chelseama.gov/planning-development/news/623-highland-park-basketball-court-renovation-project-community-meeting [42982] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-development/news/623-highland-park-basketball-court-renovation-project-community-meeting" [1]
+2017-01-02 00:29:14 URL:http://www.chelseama.gov/planning-development/news/615-final-czm-coastal-community-resiliency-public-presentation [41645] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-development/news/615-final-czm-coastal-community-resiliency-public-presentation" [1]
+2017-01-02 00:29:16 URL:http://www.chelseama.gov/public-library [71299] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/121" [1]
+2017-01-02 00:29:18 URL:http://www.chelseama.gov/public-library/urgent-alerts/please-see-our-2016-holiday-hours-under-news-and-announcements [41015] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/urgent-alerts/please-see-our-2016-holiday-hours-under-news-and-announcements" [1]
+2017-01-02 00:29:19 URL:http://www.chelseama.gov/print/121 [9328] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/121" [1]
+2017-01-02 00:29:21 URL:http://www.chelseama.gov/user/531/contact [38211] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/531/contact" [1]
+2017-01-02 00:29:22 URL:http://www.chelseama.gov/user/421/contact [38077] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/421/contact" [1]
+2017-01-02 00:29:24 URL:http://www.chelseama.gov/user/311/contact [38135] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/311/contact" [1]
+2017-01-02 00:29:26 URL: http://www.chelseama.gov/node/121/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:28 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/archives.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:29 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/friendsletter2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:32 URL:https://chelseapl.bibliocommons.com/?location=67 [134275] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/links/catalog" [1]
+https://www.digitalcommonwealth.org/institutions/commonwealth:707958010:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:29:37 URL:https://archive.org/details/chelseapubliclibrary [108437] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/links/chelsea-history-archivesorg" [1]
+2017-01-02 00:29:40 URL:http://www.chelseama.gov/childrens-department [60655] -> "../data/townSites2/Chelsea/www.chelseama.gov/childrens-department" [1]
+2017-01-02 00:29:41 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/winter_baby_lapsit_2017_registration_and_flyer_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:48 URL:http://www.bpl.org/kids/ [31225] -> "../data/townSites2/Chelsea/www.chelseama.gov/childrens-department/links/boston-public-librarykids" [1]
+2017-01-02 00:29:49 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/childrens_dept_policies.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:50 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/lego_club_flyer_fy2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:51 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/winter_read_sing_play_2017_registration_and_flyer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:52 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/fall_program_flyer_2016_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:53 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/computer_and_internet_use_guidelinesfinal.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:29:55 URL:http://www.chelseama.gov/public-library/pages/directions-library [44688] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/pages/directions-library" [1]
+2017-01-02 00:29:56 URL:http://www.chelseama.gov/public-library/pages/fees-fines [43467] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/pages/fees-fines" [1]
+2017-01-02 00:29:58 URL:http://www.chelseama.gov/public-library/pages/hall-science [42267] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/pages/hall-science" [1]
+2017-01-02 00:29:59 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/longrangeplan2015final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:00 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/meetingspaceapplication.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:30:01 URL:http://www.chelseama.gov/public-library/pages/museum-pass-information [45751] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/pages/museum-pass-information" [1]
+2017-01-02 00:30:06 URL:https://chelseapl.bibliocommons.com/explore/recent_arrivals [118968] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/links/new-titles" [1]
+2017-01-02 00:30:08 URL:http://www.chelseama.gov/public-library/pages/policies [41675] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/pages/policies" [1]
+2017-01-02 00:30:12 URL:http://www.eventkeeper.com/mars/tkflex.cfm?curOrg=CHELSEA&curapp=passes&CFID=94784099&CFTOKEN=aae2a42ced7f54a4-A8880FFC-D4AE-528A-535016F413C49C60&jsessionid=8430c2eafa31b8f69a745053594e2362131f [105814] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/links/reserve-museum-passes-online" [1]
+2017-01-02 00:30:13 URL:http://www.chelseama.gov/public-library/pages/teen-department [42304] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/pages/teen-department" [1]
+2017-01-02 00:30:15 URL:http://www.chelseama.gov/node/121/faq [40202] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/121/faq" [1]
+2017-01-02 00:30:16 URL:http://www.chelseama.gov/public-library/faq/can-i-get-library-card-what-do-i-need-do-so [41544] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/faq/can-i-get-library-card-what-do-i-need-do-so" [1]
+2017-01-02 00:30:18 URL:http://www.chelseama.gov/public-library/faq/can-i-use-my-boston-public-library-card-chelsea [41441] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/faq/can-i-use-my-boston-public-library-card-chelsea" [1]
+2017-01-02 00:30:20 URL:http://www.chelseama.gov/public-library/faq/anyone-staff-bilingual [41138] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/faq/anyone-staff-bilingual" [1]
+2017-01-02 00:30:21 URL:http://www.chelseama.gov/public-library/faq/do-you-have-museum-passes [42010] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/faq/do-you-have-museum-passes" [1]
+2017-01-02 00:30:23 URL:http://www.chelseama.gov/public-library/faq/why-do-i-have-have-my-library-card-me [41569] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/faq/why-do-i-have-have-my-library-card-me" [1]
+2017-01-02 00:30:24 URL:http://www.chelseama.gov/node/121/news [37776] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/121/news" [1]
+2017-01-02 00:30:26 URL:http://www.chelseama.gov/public-library/news/holiday-hours [41027] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/news/holiday-hours" [1]
+2017-01-02 00:30:28 URL:http://www.chelseama.gov/public-library/news/movies-mind [41180] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/news/movies-mind" [1]
+2017-01-02 00:30:29 URL:http://www.chelseama.gov/public-library/news/winter-hours [41395] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/news/winter-hours" [1]
+2017-01-02 00:30:31 URL:http://www.chelseama.gov/node/121/events/month [99891] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/121/events/month" [1]
+2017-01-02 00:30:33 URL:http://www.chelseama.gov/node/121/events/day/2017-01-04 [40400] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/121/events/day/2017-01-04" [1]
+2017-01-02 00:30:35 URL:http://www.chelseama.gov/public-library/events/21024 [41385] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/events/21024" [1]
+2017-01-02 00:30:36 URL:http://www.chelseama.gov/node/121/events/day/2017-01-05 [40397] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/121/events/day/2017-01-05" [1]
+2017-01-02 00:30:38 URL:http://www.chelseama.gov/public-library/events/18273 [41679] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/events/18273" [1]
+2017-01-02 00:30:39 URL:http://www.chelseama.gov/node/121/events/day/2017-01-10 [40398] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/121/events/day/2017-01-10" [1]
+2017-01-02 00:30:41 URL:http://www.chelseama.gov/public-library/events/22723 [41632] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/events/22723" [1]
+2017-01-02 00:30:43 URL:http://www.chelseama.gov/node/121/events/day/2017-01-11 [40395] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/121/events/day/2017-01-11" [1]
+2017-01-02 00:30:44 URL:http://www.chelseama.gov/public-library/events/22923 [41623] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/events/22923" [1]
+2017-01-02 00:30:45 URL:http://www.chelseama.gov/node/121/events/day/2017-01-17 [40398] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/121/events/day/2017-01-17" [1]
+2017-01-02 00:30:47 URL:http://www.chelseama.gov/public-library/events/22643 [41632] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/events/22643" [1]
+2017-01-02 00:30:49 URL:http://www.chelseama.gov/node/121/events/day/2017-01-18 [40395] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/121/events/day/2017-01-18" [1]
+2017-01-02 00:30:52 URL:http://www.chelseama.gov/public-library/events/22853 [41623] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/events/22853" [1]
+2017-01-02 00:30:53 URL:http://www.chelseama.gov/node/121/events/day/2017-01-24 [40398] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/121/events/day/2017-01-24" [1]
+2017-01-02 00:30:55 URL:http://www.chelseama.gov/public-library/events/22653 [41632] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/events/22653" [1]
+2017-01-02 00:30:57 URL:http://www.chelseama.gov/node/121/events/day/2017-01-25 [40395] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/121/events/day/2017-01-25" [1]
+2017-01-02 00:31:00 URL:http://www.chelseama.gov/public-library/events/22863 [41623] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/events/22863" [1]
+2017-01-02 00:31:01 URL:http://www.chelseama.gov/node/121/events/day/2017-01-31 [40398] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/121/events/day/2017-01-31" [1]
+2017-01-02 00:31:03 URL:http://www.chelseama.gov/public-library/events/22663 [41632] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/events/22663" [1]
+2017-01-02 00:31:06 URL:http://www.chelseama.gov/node/121/events/month/2017-01 [99940] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/121/events/month/2017-01" [1]
+2017-01-02 00:31:08 URL:http://www.chelseama.gov/node/121/agenda [36856] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/121/agenda" [1]
+2017-01-02 00:31:09 URL:http://www.chelseama.gov/public-library/agenda/public-library-board-trustees-meeting-2 [42161] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/agenda/public-library-board-trustees-meeting-2" [1]
+2017-01-02 00:31:12 URL:http://www.chelseama.gov/public-library/agenda/chelsea-public-library-board-trustees-meeting [42161] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/agenda/chelsea-public-library-board-trustees-meeting" [1]
+2017-01-02 00:31:14 URL:http://www.chelseama.gov/public-library/agenda/public-library-board-trustees-meeting-1 [42134] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/agenda/public-library-board-trustees-meeting-1" [1]
+2017-01-02 00:31:16 URL:http://www.chelseama.gov/public-library/agenda/public-library-board-trustees-meeting-0 [42121] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/agenda/public-library-board-trustees-meeting-0" [1]
+2017-01-02 00:31:17 URL:http://www.chelseama.gov/public-library/agenda/public-library-board-trustees [42078] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-library/agenda/public-library-board-trustees" [1]
+2017-01-02 00:31:19 URL:http://www.chelseama.gov/public-safety [45045] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/131" [1]
+2017-01-02 00:31:20 URL:http://www.chelseama.gov/print/131 [6728] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/131" [1]
+2017-01-02 00:31:21 URL: http://www.chelseama.gov/node/131/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:22 URL:http://www.chelseama.gov/public-works [71298] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/71" [1]
+2017-01-02 00:31:23 URL:http://www.chelseama.gov/print/71 [10379] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/71" [1]
+2017-01-02 00:31:25 URL:http://www.chelseama.gov/user/336/contact [38115] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/336/contact" [1]
+2017-01-02 00:31:27 URL:http://www.chelseama.gov/user/326/contact [38115] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/326/contact" [1]
+2017-01-02 00:31:29 URL:http://www.chelseama.gov/user/331/contact [38105] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/331/contact" [1]
+2017-01-02 00:31:31 URL:http://www.chelseama.gov/user/341/contact [38115] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/341/contact" [1]
+2017-01-02 00:31:33 URL:http://www.chelseama.gov/user/346/contact [38117] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/346/contact" [1]
+2017-01-02 00:31:34 URL: http://www.chelseama.gov/node/71/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:36 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/2016_street_sweeping_info_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:37 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/2016_street_sweeping_calendar.pdf 200 OK
+unlink: No such file or directory
+http://www.apwa.net/AsiCommon/Controls/Shared/FormsAuthentication/Login.aspx?ReturnUrl=%2fAsiCommon%2fControls%2fShared%2fFormsAuthentication%2fLogin.aspx%3fReturnUrl%3d%252fAsiCommon%252fControls%252fShared%252fFormsAuthentication%252fLogin.aspx%253fReturnUrl%253d%25252fAsiCommon%25252fControls%25252fShared%25252fFormsAuthentication%25252fLogin.aspx%25253fReturnUrl%25253d%2525252fAsiCommon%2525252fControls%2525252fShared%2525252fFormsAuthentication%2525252fLogin.aspx%2525253fReturnUrl%2525253d%252525252fAsiCommon%252525252fControls%252525252fShared%252525252fFormsAuthentication%252525252fLogin.aspx%252525253fReturnUrl%252525253d%25252525252fAsiCommon%25252525252fControls%25252525252fShared%25252525252fFormsAuthentication%25252525252fLogin.aspx%25252525253fReturnUrl%25252525253d%2525252525252fAsiCommon%2525252525252fControls%2525252525252fShared%2525252525252fFormsAuthentication%2525252525252fLogin.aspx%2525252525253fReturnUrl%2525252525253d%252525252525252fAsiCommon%252525252525252fControls%252525252525252fShared%252525252525252fFormsAuthentication%252525252525252fLogin.aspx%252525252525253fReturnUrl%252525252525253d%25252525252525252fAsiCommon%25252525252525252fControls%25252525252525252fShared%25252525252525252fFormsAuthentication%25252525252525252fLogin.aspx%25252525252525253fReturnUrl%25252525252525253d%2525252525252525252fAsiCommon%2525252525252525252fControls%2525252525252525252fShared%2525252525252525252fFormsAuthentication%2525252525252525252fLogin.aspx%2525252525252525253fReturnUrl%2525252525252525253d%252525252525252525252fAsiCommon%252525252525252525252fControls%252525252525252525252fShared%252525252525252525252fFormsAuthentication%252525252525252525252fLogin.aspx%252525252525252525253fReturnUrl%252525252525252525253d%25252525252525252525252fAsiCommon%25252525252525252525252fControls%25252525252525252525252fShared%25252525252525252525252fFormsAuthentication%25252525252525252525252fLogin.aspx%25252525252525252525253fReturnUrl%25252525252525252525253d%2525252525252525252525252fAsiCommon%2525252525252525252525252fControls%2525252525252525252525252fShared%2525252525252525252525252fFormsAuthentication%2525252525252525252525252fLogin.aspx%2525252525252525252525253fReturnUrl%2525252525252525252525253d%252525252525252525252525252f:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:32:58 URL:http://www.chelseama.gov/capital-improvement-projects [44416] -> "../data/townSites2/Chelsea/www.chelseama.gov/capital-improvement-projects" [1]
+2017-01-02 00:32:59 URL:http://www.chelseama.gov/capital-improvement-projects/pages/cip-project-photos [39147] -> "../data/townSites2/Chelsea/www.chelseama.gov/capital-improvement-projects/pages/cip-project-photos" [1]
+2017-01-02 00:33:00 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/roadworkssummary-9-1-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:01 URL:http://www.chelseama.gov/parks-playgrounds/pages/art-history [41195] -> "../data/townSites2/Chelsea/www.chelseama.gov/parks-playgrounds/pages/art-history" [1]
+2017-01-02 00:33:03 URL:http://www.chelseama.gov/parks-playgrounds/pages/chelsea-parks-z [42404] -> "../data/townSites2/Chelsea/www.chelseama.gov/parks-playgrounds/pages/chelsea-parks-z" [1]
+2017-01-02 00:33:05 URL:http://www.chelseama.gov/parks-playgrounds/pages/community-gardens [40442] -> "../data/townSites2/Chelsea/www.chelseama.gov/parks-playgrounds/pages/community-gardens" [1]
+2017-01-02 00:33:06 URL:http://www.chelseama.gov/parks-playgrounds/pages/john-quietman-ruiz-park [39918] -> "../data/townSites2/Chelsea/www.chelseama.gov/parks-playgrounds/pages/john-quietman-ruiz-park" [1]
+2017-01-02 00:33:08 URL:http://www.chelseama.gov/parks-playgrounds/pages/nature-wildlife [40395] -> "../data/townSites2/Chelsea/www.chelseama.gov/parks-playgrounds/pages/nature-wildlife" [1]
+2017-01-02 00:33:09 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/parks_and_open_space.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:10 URL:http://www.chelseama.gov/parks-playgrounds/pages/playgrounds [41984] -> "../data/townSites2/Chelsea/www.chelseama.gov/parks-playgrounds/pages/playgrounds" [1]
+2017-01-02 00:33:11 URL:http://www.chelseama.gov/parks-playgrounds/pages/relax-readlunch-picnic [41369] -> "../data/townSites2/Chelsea/www.chelseama.gov/parks-playgrounds/pages/relax-readlunch-picnic" [1]
+2017-01-02 00:33:13 URL:http://www.chelseama.gov/parks-playgrounds/pages/sports [40406] -> "../data/townSites2/Chelsea/www.chelseama.gov/parks-playgrounds/pages/sports" [1]
+2017-01-02 00:33:14 URL:http://www.chelseama.gov/parks-playgrounds/pages/walking-jogging [40490] -> "../data/townSites2/Chelsea/www.chelseama.gov/parks-playgrounds/pages/walking-jogging" [1]
+2017-01-02 00:33:15 URL:http://www.chelseama.gov/public-works/pages/community-water-supply-update-august-17-2016 [47086] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-works/pages/community-water-supply-update-august-17-2016" [1]
+2017-01-02 00:33:17 URL:http://www.chelseama.gov/public-works/pages/excavation-safety-and-regulations [48853] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-works/pages/excavation-safety-and-regulations" [1]
+2017-01-02 00:33:18 URL:http://www.chelseama.gov/public-works/pages/forms-applications [47104] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-works/pages/forms-applications" [1]
+2017-01-02 00:33:20 URL:http://www.chelseama.gov/keep-chelsea-beautiful-board-directors [41776] -> "../data/townSites2/Chelsea/www.chelseama.gov/keep-chelsea-beautiful-board-directors" [1]
+2017-01-02 00:33:21 URL:http://www.chelseama.gov/rubbish-recycling-yard-waste [55368] -> "../data/townSites2/Chelsea/www.chelseama.gov/keep-chelsea-beautiful-board-directors/links/city-chelsea-recycling-program" [1]
+2017-01-02 00:33:24 URL:https://www.kab.org/?pagename=graffiti_resources [56201] -> "../data/townSites2/Chelsea/www.chelseama.gov/keep-chelsea-beautiful-board-directors/links/graffiti-tag-team" [1]
+2017-01-02 00:33:26 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/new_trash_regulations_for_chelsea-english_and_span04.23.13_0.ppt 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:28 URL:http://www.chelseama.gov/public-works/slideshows/public-works-action-photos [51579] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-works/slideshows/public-works-action-photos" [1]
+2017-01-02 00:33:29 URL:http://www.chelseama.gov/rubbish-recycling-yard-waste/pages/compost-your-yard-waste [45818] -> "../data/townSites2/Chelsea/www.chelseama.gov/rubbish-recycling-yard-waste/pages/compost-your-yard-waste" [1]
+2017-01-02 00:33:32 URL:http://earth911.com/ [201889] -> "../data/townSites2/Chelsea/www.chelseama.gov/rubbish-recycling-yard-waste/links/earth911com" [1]
+2017-01-02 00:33:33 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/fy17_trash_fees.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:34 URL:http://www.chelseama.gov/rubbish-recycling-yard-waste/pages/holiday-collection-schedule [41256] -> "../data/townSites2/Chelsea/www.chelseama.gov/rubbish-recycling-yard-waste/pages/holiday-collection-schedule" [1]
+2017-01-02 00:33:36 URL:http://www.chelseama.gov/keep-chelsea-beautiful-board-directors [41776] -> "../data/townSites2/Chelsea/www.chelseama.gov/rubbish-recycling-yard-waste/links/keep-chelsea-beautiful" [1]
+2017-01-02 00:33:37 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/recycle_flyer_-_english.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:38 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/recycler_flyer_-_spanish.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:39 URL:http://www.chelseama.gov/rubbish-recycling-yard-waste/pages/recycling-instructions [49015] -> "../data/townSites2/Chelsea/www.chelseama.gov/rubbish-recycling-yard-waste/pages/recycling-instructions" [1]
+2017-01-02 00:33:40 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/trashroutedays.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:42 URL:http://www.chelseama.gov/public-works/pages/trash-regulations [47552] -> "../data/townSites2/Chelsea/www.chelseama.gov/rubbish-recycling-yard-waste/links/trash-regulations" [1]
+2017-01-02 00:33:44 URL:http://www.chelseama.gov/snow-operations [44254] -> "../data/townSites2/Chelsea/www.chelseama.gov/snow-operations" [1]
+2017-01-02 00:33:45 URL:http://www.chelseama.gov/snow-operations/pages/resident%E2%80%99s-guide-snow-operations [41755] -> "../data/townSites2/Chelsea/www.chelseama.gov/snow-operations/pages/residentâ%80%99s-guide-snow-operations" [1]
+2017-01-02 00:33:46 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/sand_barrel_locations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:47 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/snow_plowing_on-call_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:49 URL:http://www.chelseama.gov/snow-operations/pages/snow-contractor-rate-schedule [40382] -> "../data/townSites2/Chelsea/www.chelseama.gov/snow-operations/pages/snow-contractor-rate-schedule" [1]
+2017-01-02 00:33:50 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/winter_season_operations_manuel.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:51 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/snow_ordinances.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:51 URL:http://www.chelseama.gov/public-works/pages/trash-regulations [47552] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-works/pages/trash-regulations" [1]
+2017-01-02 00:33:53 URL:http://www.chelseama.gov/water-sewer-services/pages/chelsea-annual-cso-reports [41542] -> "../data/townSites2/Chelsea/www.chelseama.gov/water-sewer-services/pages/chelsea-annual-cso-reports" [1]
+2017-01-02 00:33:53 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/combined_sewer_overflow._city_of_chelsea.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:55 URL:http://www.chelseama.gov/water-sewer-services/pages/community-water-supply-update-august-17-2016 [40900] -> "../data/townSites2/Chelsea/www.chelseama.gov/water-sewer-services/pages/community-water-supply-update-august-17-2016" [1]
+2017-01-02 00:33:56 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/cross-connection_control_and_backflow_prevention.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:57 URL:http://www.chelseama.gov/water-sewer-services/pages/do-i-have-water-leak [40637] -> "../data/townSites2/Chelsea/www.chelseama.gov/water-sewer-services/pages/do-i-have-water-leak" [1]
+2017-01-02 00:33:58 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/fy17_water_and_sewer_rates.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:00 URL:http://www.mass.gov/eea/agencies/massdep/water/wastewater/flooding-and-sewage-back-ups-home-care-guide.html [175390] -> "../data/townSites2/Chelsea/www.chelseama.gov/water-sewer-services/links/flooding-and-sewage-back-ups-home-care-guide-dep" [1]
+2017-01-02 00:34:01 URL:http://www.chelseama.gov/water-sewer-services/pages/second-water-meter [39875] -> "../data/townSites2/Chelsea/www.chelseama.gov/water-sewer-services/pages/second-water-meter" [1]
+2017-01-02 00:34:03 URL:http://www.chelseama.gov/water-sewer-services/pages/stormwater-management [46466] -> "../data/townSites2/Chelsea/www.chelseama.gov/water-sewer-services/pages/stormwater-management" [1]
+2017-01-02 00:34:04 URL:http://www.chelseama.gov/node/71/faq [47906] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/71/faq" [1]
+2017-01-02 00:34:06 URL:http://www.chelseama.gov/public-works/faq/when-yard-waste-collected [46381] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-works/faq/when-yard-waste-collected" [1]
+2017-01-02 00:34:07 URL:http://www.chelseama.gov/public-works/faq/what-are-hours-operation-department-public-works [46486] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-works/faq/what-are-hours-operation-department-public-works" [1]
+2017-01-02 00:34:09 URL:http://www.chelseama.gov/public-works/faq/what-do-i-do-if-my-trash-or-recycling-not-collected-my-scheduled-trash-day [46212] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-works/faq/what-do-i-do-if-my-trash-or-recycling-not-collected-my-scheduled-trash-day" [1]
+2017-01-02 00:34:10 URL:http://www.chelseama.gov/public-works/faq/where-i-can-get-recycle-bin [46070] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-works/faq/where-i-can-get-recycle-bin" [1]
+2017-01-02 00:34:11 URL:http://www.chelseama.gov/public-works/faq/how-do-i-dispose-unwanted-furniture-appliances-or-bulk-trash-items [46562] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-works/faq/how-do-i-dispose-unwanted-furniture-appliances-or-bulk-trash-items" [1]
+2017-01-02 00:34:13 URL:http://www.chelseama.gov/node/71/events/month [61922] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/71/events/month" [1]
+2017-01-02 00:34:15 URL:http://www.chelseama.gov/node/71/events/month/2017-01 [61979] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/71/events/month/2017-01" [1]
+2017-01-02 00:34:16 URL:http://www.chelseama.gov/node/71/agenda [41720] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/71/agenda" [1]
+2017-01-02 00:34:18 URL:http://www.chelseama.gov/public-works/agenda/department-public-works-public-hearing-5 [47093] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-works/agenda/department-public-works-public-hearing-5" [1]
+2017-01-02 00:34:19 URL:http://www.chelseama.gov/public-works/agenda/department-public-works-public-hearing-6 [47067] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-works/agenda/department-public-works-public-hearing-6" [1]
+2017-01-02 00:34:21 URL:http://www.chelseama.gov/public-works/agenda/department-public-works-public-hearing-4 [47121] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-works/agenda/department-public-works-public-hearing-4" [1]
+2017-01-02 00:34:22 URL:http://www.chelseama.gov/public-works/agenda/department-public-works-publc-hearing [47106] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-works/agenda/department-public-works-publc-hearing" [1]
+2017-01-02 00:34:24 URL:http://www.chelseama.gov/public-works/agenda/department-public-works-meeting [47060] -> "../data/townSites2/Chelsea/www.chelseama.gov/public-works/agenda/department-public-works-meeting" [1]
+2017-01-02 00:34:25 URL:http://www.chelseama.gov/purchasing [43038] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/4021" [1]
+2017-01-02 00:34:26 URL:http://www.chelseama.gov/print/4021 [8159] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/4021" [1]
+2017-01-02 00:34:28 URL:http://www.chelseama.gov/user/406/contact [38085] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/406/contact" [1]
+2017-01-02 00:34:30 URL:http://www.chelseama.gov/user/411/contact [38097] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/411/contact" [1]
+2017-01-02 00:34:35 URL: http://www.chelseama.gov/node/4021/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:36 URL:http://www.chelseama.gov/node/4021/news [34593] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/4021/news" [1]
+2017-01-02 00:34:38 URL:http://www.chelseama.gov/purchasing/news/purchasing-news [38419] -> "../data/townSites2/Chelsea/www.chelseama.gov/purchasing/news/purchasing-news" [1]
+2017-01-02 00:34:39 URL:http://www.chelseama.gov/chelsea-retirement-system [60035] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/141" [1]
+2017-01-02 00:34:40 URL:http://www.chelseama.gov/print/141 [7990] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/141" [1]
+2017-01-02 00:34:41 URL:http://www.chelseama.gov/retirement/bulletins/chelsea-retirement-system [39526] -> "../data/townSites2/Chelsea/www.chelseama.gov/retirement/bulletins/chelsea-retirement-system" [1]
+2017-01-02 00:34:43 URL:http://www.chelseama.gov/user/166/contact [38121] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/166/contact" [1]
+2017-01-02 00:34:44 URL: http://www.chelseama.gov/node/141/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:45 URL:http://www.chelseama.gov/chelsea-retirement-system/pages/change-beneficiary-form-active-members [40087] -> "../data/townSites2/Chelsea/www.chelseama.gov/chelsea-retirement-system/pages/change-beneficiary-form-active-members" [1]
+2017-01-02 00:34:46 URL:http://www.mass.gov/perac/forms-pubs/disability-forms-gen.html [50291] -> "../data/townSites2/Chelsea/www.chelseama.gov/chelsea-retirement-system/links/disability-retirement-forms-information" [1]
+2017-01-02 00:34:47 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/frequently_asked_questions_for_the_retirement_department.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:48 URL:http://www.mass.gov/treasury/retirement/ [61600] -> "../data/townSites2/Chelsea/www.chelseama.gov/retirement/links/ma-retirement-information-site" [1]
+2017-01-02 00:34:50 URL:http://www.mass.gov/perac/ [58050] -> "../data/townSites2/Chelsea/www.chelseama.gov/chelsea-retirement-system/links/public-employee-retirement-administration-commission" [1]
+2017-01-02 00:34:51 URL:http://www.chelseama.gov/chelsea-retirement-system/pages/retirement-option-selection-form [40044] -> "../data/townSites2/Chelsea/www.chelseama.gov/chelsea-retirement-system/pages/retirement-option-selection-form" [1]
+2017-01-02 00:34:52 URL:https://www.ssa.gov/planners/retire/stateandlocal.html [17997] -> "../data/townSites2/Chelsea/www.chelseama.gov/chelsea-retirement-system/links/social-security-information" [1]
+2017-01-02 00:34:54 URL:http://www.chelseama.gov/chelsea-retirement-system/pages/superannuationregular-retirement-application [40110] -> "../data/townSites2/Chelsea/www.chelseama.gov/chelsea-retirement-system/pages/superannuationregular-retirement-application" [1]
+2017-01-02 00:34:55 URL:http://www.chelseama.gov/chelsea-retirement-system/pages/withdrawalrefund-application [40077] -> "../data/townSites2/Chelsea/www.chelseama.gov/chelsea-retirement-system/pages/withdrawalrefund-application" [1]
+2017-01-02 00:34:56 URL:http://www.chelseama.gov/node/141/faq [35474] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/141/faq" [1]
+2017-01-02 00:34:57 URL:http://www.chelseama.gov/retirement/faq/faqs [39834] -> "../data/townSites2/Chelsea/www.chelseama.gov/retirement/faq/faqs" [1]
+2017-01-02 00:34:59 URL:http://www.chelseama.gov/node/141/news [36039] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/141/news" [1]
+2017-01-02 00:35:00 URL:http://www.chelseama.gov/chelsea-retirement-system/news/notice-election-dated-november-17-2016 [40119] -> "../data/townSites2/Chelsea/www.chelseama.gov/chelsea-retirement-system/news/notice-election-dated-november-17-2016" [1]
+2017-01-02 00:35:01 URL:http://www.chelseama.gov/retirement/news/letter-chelsea-retirement-system-member-july-1st-2013 [40038] -> "../data/townSites2/Chelsea/www.chelseama.gov/retirement/news/letter-chelsea-retirement-system-member-july-1st-2013" [1]
+2017-01-02 00:35:03 URL:http://www.chelseama.gov/node/141/events/month [55660] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/141/events/month" [1]
+2017-01-02 00:35:05 URL:http://www.chelseama.gov/node/141/events/month/2017-01 [55717] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/141/events/month/2017-01" [1]
+2017-01-02 00:35:06 URL:http://www.chelseama.gov/node/141/agenda [35420] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/141/agenda" [1]
+2017-01-02 00:35:08 URL:http://www.chelseama.gov/chelsea-retirement-system/agenda/dec-22-2016-retirement-board-meeting [40666] -> "../data/townSites2/Chelsea/www.chelseama.gov/chelsea-retirement-system/agenda/dec-22-2016-retirement-board-meeting" [1]
+2017-01-02 00:35:09 URL:http://www.chelseama.gov/chelsea-retirement-system/agenda/chelsea-retirement-board-meeting-1 [40630] -> "../data/townSites2/Chelsea/www.chelseama.gov/chelsea-retirement-system/agenda/chelsea-retirement-board-meeting-1" [1]
+2017-01-02 00:35:10 URL:http://www.chelseama.gov/chelsea-retirement-system/agenda/chelsea-retirement-board-meeting-0 [40628] -> "../data/townSites2/Chelsea/www.chelseama.gov/chelsea-retirement-system/agenda/chelsea-retirement-board-meeting-0" [1]
+2017-01-02 00:35:12 URL:http://www.chelseama.gov/chelsea-retirement-system/agenda/retirement-board-election-ballot-count [40294] -> "../data/townSites2/Chelsea/www.chelseama.gov/chelsea-retirement-system/agenda/retirement-board-election-ballot-count" [1]
+2017-01-02 00:35:14 URL:http://www.chelseama.gov/chelsea-retirement-system/agenda/retirement-board-meeting-0 [40592] -> "../data/townSites2/Chelsea/www.chelseama.gov/chelsea-retirement-system/agenda/retirement-board-meeting-0" [1]
+2017-01-02 00:35:15 URL:http://www.chelseama.gov/treasurer-collector [51741] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/4026" [1]
+2017-01-02 00:35:16 URL:http://www.chelseama.gov/print/4026 [9447] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/4026" [1]
+2017-01-02 00:35:18 URL:http://www.chelseama.gov/user/416/contact [38119] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/416/contact" [1]
+2017-01-02 00:35:18 URL: http://www.chelseama.gov/node/4026/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:20 URL:http://www.chelseama.gov/node/4026/faq [36994] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/4026/faq" [1]
+2017-01-02 00:35:21 URL:http://www.chelseama.gov/treasurer-collector/faq/how-do-i-appeal-parking-ticket [38875] -> "../data/townSites2/Chelsea/www.chelseama.gov/treasurer-collector/faq/how-do-i-appeal-parking-ticket" [1]
+2017-01-02 00:35:22 URL:http://www.chelseama.gov/treasurer-collector/faq/my-tax-bill-too-high-how-do-i-appeal-my-tax-bill [39007] -> "../data/townSites2/Chelsea/www.chelseama.gov/treasurer-collector/faq/my-tax-bill-too-high-how-do-i-appeal-my-tax-bill" [1]
+2017-01-02 00:35:24 URL:http://www.chelseama.gov/treasurer-collector/faq/how-do-i-get-homeowner%E2%80%99s-residential-exemption-my-real-estate-tax-bill [39016] -> "../data/townSites2/Chelsea/www.chelseama.gov/treasurer-collector/faq/how-do-i-get-homeownerâ%80%99s-residential-exemption-my-real-estate-tax-bill" [1]
+2017-01-02 00:35:25 URL:http://www.chelseama.gov/treasurer-collector/faq/how-do-i-get-resident-trash-exemption-my-monthly-water-bill [39070] -> "../data/townSites2/Chelsea/www.chelseama.gov/treasurer-collector/faq/how-do-i-get-resident-trash-exemption-my-monthly-water-bill" [1]
+2017-01-02 00:35:26 URL:http://www.chelseama.gov/treasurer-collector/faq/my-unit-vacant-how-can-i-request-exemption-monthly-trash-fee [38945] -> "../data/townSites2/Chelsea/www.chelseama.gov/treasurer-collector/faq/my-unit-vacant-how-can-i-request-exemption-monthly-trash-fee" [1]
+2017-01-02 00:35:28 URL:http://www.chelseama.gov/veterans-services [47540] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/2536" [1]
+2017-01-02 00:35:29 URL:http://www.chelseama.gov/print/2536 [8442] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/2536" [1]
+2017-01-02 00:35:30 URL:http://www.chelseama.gov/user/306/contact [38093] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/306/contact" [1]
+2017-01-02 00:35:31 URL: http://www.chelseama.gov/node/2536/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:32 URL:http://www.chelseama.gov/node/2536/faq [37025] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/2536/faq" [1]
+2017-01-02 00:35:33 URL:http://www.chelseama.gov/veterans-services/faq/what-does-department-veterans-services-do [38295] -> "../data/townSites2/Chelsea/www.chelseama.gov/veterans-services/faq/what-does-department-veterans-services-do" [1]
+2017-01-02 00:35:35 URL:http://www.chelseama.gov/veterans-services/faq/are-you-v [38465] -> "../data/townSites2/Chelsea/www.chelseama.gov/veterans-services/faq/are-you-v" [1]
+2017-01-02 00:35:36 URL:http://www.chelseama.gov/veterans-services/faq/i-am-veteran-can-you-help-me-determine-what-assistance-i-might-be-eligible [38637] -> "../data/townSites2/Chelsea/www.chelseama.gov/veterans-services/faq/i-am-veteran-can-you-help-me-determine-what-assistance-i-might-be-eligible" [1]
+2017-01-02 00:35:37 URL:http://www.chelseama.gov/veterans-services/faq/do-i-qualify-my-spouse-deceased [38230] -> "../data/townSites2/Chelsea/www.chelseama.gov/veterans-services/faq/do-i-qualify-my-spouse-deceased" [1]
+2017-01-02 00:35:38 URL:http://www.chelseama.gov/veterans-services/faq/i-need-copy-my-discharge-so-i-can-apply-public-housing-can-you-help-me [38410] -> "../data/townSites2/Chelsea/www.chelseama.gov/veterans-services/faq/i-need-copy-my-discharge-so-i-can-apply-public-housing-can-you-help-me" [1]
+2017-01-02 00:35:40 URL:http://www.chelseama.gov/affordable-housing-trust-fund-board [55959] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/6046" [1]
+2017-01-02 00:35:40 URL:http://www.chelseama.gov/print/6046 [7802] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/6046" [1]
+2017-01-02 00:35:41 URL: http://www.chelseama.gov/node/6046/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:42 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/mass_housing_partnership.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:43 URL:http://www.chelseama.gov/node/6046/blog [34382] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/6046/blog" [1]
+2017-01-02 00:35:44 URL:http://www.chelseama.gov/affordable-housing-trust-fund-board/blog/municipal-affordable-housing-trust-mgl-chapter-44-section [37600] -> "../data/townSites2/Chelsea/www.chelseama.gov/affordable-housing-trust-fund-board/blog/municipal-affordable-housing-trust-mgl-chapter-44-section" [1]
+2017-01-02 00:35:46 URL:http://www.chelseama.gov/node/6046/events/month [54463] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/6046/events/month" [1]
+2017-01-02 00:35:47 URL:http://www.chelseama.gov/node/6046/events/month/2017-01 [54520] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/6046/events/month/2017-01" [1]
+2017-01-02 00:35:49 URL:http://www.chelseama.gov/node/6046/agenda [34191] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/6046/agenda" [1]
+2017-01-02 00:35:50 URL:http://www.chelseama.gov/affordable-housing-trust-fund-board/agenda/affordable-housing-trust-fund-board-meeting-091316 [36971] -> "../data/townSites2/Chelsea/www.chelseama.gov/affordable-housing-trust-fund-board/agenda/affordable-housing-trust-fund-board-meeting-091316" [1]
+2017-01-02 00:35:51 URL:http://www.chelseama.gov/affordable-housing-trust-fund-board/agenda/affordable-housing-trust-fund-board-meeting-0 [37465] -> "../data/townSites2/Chelsea/www.chelseama.gov/affordable-housing-trust-fund-board/agenda/affordable-housing-trust-fund-board-meeting-0" [1]
+2017-01-02 00:35:52 URL:http://www.chelseama.gov/affordable-housing-trust-fund-board/agenda/affordable-housing-trust-fund-board-meeting [37783] -> "../data/townSites2/Chelsea/www.chelseama.gov/affordable-housing-trust-fund-board/agenda/affordable-housing-trust-fund-board-meeting" [1]
+2017-01-02 00:35:53 URL:http://www.chelseama.gov/board-assessors [43541] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/146" [1]
+2017-01-02 00:35:54 URL:http://www.chelseama.gov/print/146 [7660] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/146" [1]
+2017-01-02 00:35:55 URL: http://www.chelseama.gov/node/146/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:56 URL:http://www.chelseama.gov/board-health [59556] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/151" [1]
+2017-01-02 00:35:57 URL:http://www.chelseama.gov/print/151 [8464] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/151" [1]
+2017-01-02 00:35:57 URL: http://www.chelseama.gov/node/151/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:35:59 URL:http://www.chelseama.gov/node/151/events/month [53607] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/151/events/month" [1]
+2017-01-02 00:36:00 URL:http://www.chelseama.gov/node/151/events/month/2017-01 [53664] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/151/events/month/2017-01" [1]
+2017-01-02 00:36:02 URL:http://www.chelseama.gov/node/151/agenda [33387] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/151/agenda" [1]
+2017-01-02 00:36:03 URL:http://www.chelseama.gov/board-health/agenda/board-health-meeting-0 [37962] -> "../data/townSites2/Chelsea/www.chelseama.gov/board-health/agenda/board-health-meeting-0" [1]
+2017-01-02 00:36:04 URL:http://www.chelseama.gov/board-health/agenda/board-health-public-hearing [37978] -> "../data/townSites2/Chelsea/www.chelseama.gov/board-health/agenda/board-health-public-hearing" [1]
+2017-01-02 00:36:06 URL:http://www.chelseama.gov/board-health/agenda/board-health-meeting [37970] -> "../data/townSites2/Chelsea/www.chelseama.gov/board-health/agenda/board-health-meeting" [1]
+2017-01-02 00:36:07 URL:http://www.chelseama.gov/node/151/minutes [33463] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/151/minutes" [1]
+2017-01-02 00:36:08 URL: http://www.chelseama.gov/sites/chelseama/files/minutes/september_2016_minutes_approved.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:09 URL: http://www.chelseama.gov/sites/chelseama/files/minutes/may_2016_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:10 URL: http://www.chelseama.gov/sites/chelseama/files/minutes/february_2016_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:11 URL: http://www.chelseama.gov/sites/chelseama/files/minutes/december_2015_minutes_approved.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:11 URL: http://www.chelseama.gov/sites/chelseama/files/minutes/november_2015_minutes_approved.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:12 URL:http://www.chelseama.gov/board-library-trustees [50929] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/156" [1]
+2017-01-02 00:36:13 URL:http://www.chelseama.gov/print/156 [9192] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/156" [1]
+2017-01-02 00:36:14 URL: http://www.chelseama.gov/node/156/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:15 URL:http://www.chelseama.gov/node/156/minutes [33445] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/156/minutes" [1]
+2017-01-02 00:36:16 URL: http://www.chelseama.gov/sites/chelseama/files/minutes/trustee_minutesfinal_10_28_16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:17 URL: http://www.chelseama.gov/sites/chelseama/files/minutes/2016_9-27-.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:18 URL: http://www.chelseama.gov/sites/chelseama/files/minutes/2016_6-14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:19 URL: http://www.chelseama.gov/sites/chelseama/files/minutes/2016_5-19_minutesapproved.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:20 URL: http://www.chelseama.gov/sites/chelseama/files/minutes/2016_4-14_minutes_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:20 URL:http://www.chelseama.gov/board-registrars [43430] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/161" [1]
+2017-01-02 00:36:21 URL:http://www.chelseama.gov/print/161 [7477] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/161" [1]
+2017-01-02 00:36:22 URL: http://www.chelseama.gov/node/161/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:24 URL:http://www.chelseama.gov/city-clerk-parking-clerk/pages/absentee-ballots [40375] -> "../data/townSites2/Chelsea/www.chelseama.gov/board-registrars/links/absentee-ballots" [1]
+2017-01-02 00:36:25 URL:http://www.chelseama.gov/city-clerk/pages/elections-voting-campaign-finance [42617] -> "../data/townSites2/Chelsea/www.chelseama.gov/board-registrars/links/elections-voting-campaign-finance" [1]
+2017-01-02 00:36:26 URL:http://www.sec.state.ma.us/ele/eleidx.htm [71233/71233] -> "../data/townSites2/Chelsea/www.chelseama.gov/board-registrars/links/state-elections-division-secretary-commonwealths-office" [1]
+2017-01-02 00:36:27 URL:http://www.chelseama.gov/cable-television-advisory-board [41473] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/166" [1]
+2017-01-02 00:36:28 URL:http://www.chelseama.gov/print/166 [7903] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/166" [1]
+2017-01-02 00:36:29 URL: http://www.chelseama.gov/node/166/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:30 URL:http://www.chelseama.gov/community-schools-advisory-board [56687] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/171" [1]
+2017-01-02 00:36:31 URL:http://www.chelseama.gov/print/171 [9173] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/171" [1]
+2017-01-02 00:36:32 URL: http://www.chelseama.gov/node/171/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:33 URL:http://www.chelseama.gov/chelsea-community-schools [59027] -> "../data/townSites2/Chelsea/www.chelseama.gov/community-schools-advisory-board/links/chelsea-community-schools" [1]
+2017-01-02 00:36:34 URL:http://www.chelseama.gov/node/171/events/month [54354] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/171/events/month" [1]
+2017-01-02 00:36:36 URL:http://www.chelseama.gov/node/171/events/month/2017-01 [54411] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/171/events/month/2017-01" [1]
+2017-01-02 00:36:37 URL:http://www.chelseama.gov/node/171/agenda [34100] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/171/agenda" [1]
+2017-01-02 00:36:38 URL:http://www.chelseama.gov/community-schools-advisory-board/agenda/chelsea-community-schools-advisory-board [39368] -> "../data/townSites2/Chelsea/www.chelseama.gov/community-schools-advisory-board/agenda/chelsea-community-schools-advisory-board" [1]
+2017-01-02 00:36:39 URL:http://www.chelseama.gov/conservation-commission [59848] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/176" [1]
+2017-01-02 00:36:40 URL:http://www.chelseama.gov/print/176 [8260] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/176" [1]
+2017-01-02 00:36:41 URL: http://www.chelseama.gov/node/176/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:42 URL:http://www.chelseama.gov/planning-development [52247] -> "../data/townSites2/Chelsea/www.chelseama.gov/conservation-commission/links/department-planning-and-development" [1]
+2017-01-02 00:36:44 URL:http://www.chelseama.gov/calendar-by-event-type/16/month [81604] -> "../data/townSites2/Chelsea/www.chelseama.gov/conservation-commission/links/public-meetings-calendar" [1]
+2017-01-02 00:36:45 URL:http://www.chelseama.gov/node/176/events/month [54452] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/176/events/month" [1]
+2017-01-02 00:36:47 URL:http://www.chelseama.gov/node/176/events/month/2017-01 [54509] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/176/events/month/2017-01" [1]
+2017-01-02 00:36:48 URL:http://www.chelseama.gov/node/176/agenda [34216] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/176/agenda" [1]
+2017-01-02 00:36:49 URL:http://www.chelseama.gov/conservation-commission/agenda/dec-22-2016-conservation-commission-meeting [39458] -> "../data/townSites2/Chelsea/www.chelseama.gov/conservation-commission/agenda/dec-22-2016-conservation-commission-meeting" [1]
+2017-01-02 00:36:51 URL:http://www.chelseama.gov/conservation-commission/agenda/chelsea-conservation-commission-public-hearing-fairfield-residential [39628] -> "../data/townSites2/Chelsea/www.chelseama.gov/conservation-commission/agenda/chelsea-conservation-commission-public-hearing-fairfield-residential" [1]
+2017-01-02 00:36:52 URL:http://www.chelseama.gov/conservation-commission/agenda/chelsea-conservation-commission-public-hearing-16-mystic-street-llc [39576] -> "../data/townSites2/Chelsea/www.chelseama.gov/conservation-commission/agenda/chelsea-conservation-commission-public-hearing-16-mystic-street-llc" [1]
+2017-01-02 00:36:54 URL:http://www.chelseama.gov/conservation-commission/agenda/conservation-commission-meeting-0 [39384] -> "../data/townSites2/Chelsea/www.chelseama.gov/conservation-commission/agenda/conservation-commission-meeting-0" [1]
+2017-01-02 00:36:55 URL:http://www.chelseama.gov/conservation-commission/agenda/chelsea-conservation-commission-public-hearing [39527] -> "../data/townSites2/Chelsea/www.chelseama.gov/conservation-commission/agenda/chelsea-conservation-commission-public-hearing" [1]
+2017-01-02 00:36:56 URL:http://www.chelseama.gov/council-elder-affairs [46001] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/181" [1]
+2017-01-02 00:36:57 URL:http://www.chelseama.gov/print/181 [8669] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/181" [1]
+2017-01-02 00:36:58 URL: http://www.chelseama.gov/node/181/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:36:59 URL:http://www.chelseama.gov/cultural-council [61776] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/186" [1]
+2017-01-02 00:36:59 URL:http://www.chelseama.gov/print/186 [10068] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/186" [1]
+2017-01-02 00:37:00 URL: http://www.chelseama.gov/node/186/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:37:01 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/cccfy17_packet_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:37:02 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/lccapp.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:37:03 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/lcc_reimburse_form_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:37:04 URL:http://www.chelseama.gov/node/186/events/month [54482] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/186/events/month" [1]
+2017-01-02 00:37:06 URL:http://www.chelseama.gov/node/186/events/month/2017-01 [54539] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/186/events/month/2017-01" [1]
+2017-01-02 00:37:07 URL:http://www.chelseama.gov/node/186/agenda [34260] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/186/agenda" [1]
+2017-01-02 00:37:08 URL:http://www.chelseama.gov/cultural-council/agenda/chelsea-cultural-council-meeting [39435] -> "../data/townSites2/Chelsea/www.chelseama.gov/cultural-council/agenda/chelsea-cultural-council-meeting" [1]
+2017-01-02 00:37:09 URL:http://www.chelseama.gov/cultural-council/agenda/cultural-council-meeting-2 [39403] -> "../data/townSites2/Chelsea/www.chelseama.gov/cultural-council/agenda/cultural-council-meeting-2" [1]
+2017-01-02 00:37:11 URL:http://www.chelseama.gov/cultural-council/agenda/cultural-council-meeting-1 [39398] -> "../data/townSites2/Chelsea/www.chelseama.gov/cultural-council/agenda/cultural-council-meeting-1" [1]
+2017-01-02 00:37:12 URL:http://www.chelseama.gov/cultural-council/agenda/cultural-council-meeting-0 [39391] -> "../data/townSites2/Chelsea/www.chelseama.gov/cultural-council/agenda/cultural-council-meeting-0" [1]
+2017-01-02 00:37:13 URL:http://www.chelseama.gov/cultural-council/agenda/cultural-council-meeting [39383] -> "../data/townSites2/Chelsea/www.chelseama.gov/cultural-council/agenda/cultural-council-meeting" [1]
+2017-01-02 00:37:14 URL:http://www.chelseama.gov/economic-development-board [56887] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/191" [1]
+2017-01-02 00:37:15 URL:http://www.chelseama.gov/print/191 [7780] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/191" [1]
+2017-01-02 00:37:16 URL: http://www.chelseama.gov/node/191/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:37:17 URL:http://www.chelseama.gov/node/191/events/month [53687] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/191/events/month" [1]
+2017-01-02 00:37:18 URL:http://www.chelseama.gov/node/191/events/month/2017-01 [53744] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/191/events/month/2017-01" [1]
+2017-01-02 00:37:20 URL:http://www.chelseama.gov/node/191/agenda [33445] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/191/agenda" [1]
+2017-01-02 00:37:21 URL:http://www.chelseama.gov/economic-development-board/agenda/dec-13-2016-economic-development-board-meeting [38894] -> "../data/townSites2/Chelsea/www.chelseama.gov/economic-development-board/agenda/dec-13-2016-economic-development-board-meeting" [1]
+2017-01-02 00:37:23 URL:http://www.chelseama.gov/economic-development-board/agenda/economic-development-board-meeting [38810] -> "../data/townSites2/Chelsea/www.chelseama.gov/economic-development-board/agenda/economic-development-board-meeting" [1]
+2017-01-02 00:37:24 URL:http://www.chelseama.gov/historical-commission [41296] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/196" [1]
+2017-01-02 00:37:25 URL:http://www.chelseama.gov/print/196 [7700] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/196" [1]
+2017-01-02 00:37:25 URL: http://www.chelseama.gov/node/196/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:37:27 URL:http://www.chelseama.gov/housing-authority-board-commissioners [45877] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/201" [1]
+2017-01-02 00:37:27 URL:http://www.chelseama.gov/print/201 [8237] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/201" [1]
+2017-01-02 00:37:29 URL:http://www.chelseama.gov/user/481/contact [38238] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/481/contact" [1]
+2017-01-02 00:37:31 URL:http://www.chelseama.gov/user/426/contact [38093] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/426/contact" [1]
+2017-01-02 00:37:33 URL:http://www.chelseama.gov/user/431/contact [38101] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/431/contact" [1]
+2017-01-02 00:37:34 URL: http://www.chelseama.gov/node/201/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:37:36 URL:http://www.chelseama.gov/housing-authority-board-commissioners/pages/annual-reports-cha [38928] -> "../data/townSites2/Chelsea/www.chelseama.gov/housing-authority-board-commissioners/pages/annual-reports-cha" [1]
+2017-01-02 00:37:38 URL:http://www.chelseaha.com/ [22191] -> "../data/townSites2/Chelsea/www.chelseama.gov/housing-authority-board-commissioners/links/chelsea-housing-authority-website" [1]
+2017-01-02 00:37:39 URL:http://www.chelseama.gov/housing-authority-board-commissioners/pages/housing-audits [39426] -> "../data/townSites2/Chelsea/www.chelseama.gov/housing-authority-board-commissioners/pages/housing-audits" [1]
+2017-01-02 00:37:40 URL:http://www.chelseama.gov/human-rights-commission [41723] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/206" [1]
+2017-01-02 00:37:41 URL:http://www.chelseama.gov/print/206 [8047] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/206" [1]
+2017-01-02 00:37:42 URL: http://www.chelseama.gov/node/206/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:37:43 URL:http://www.chelseama.gov/licensing-commission [61922] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/211" [1]
+2017-01-02 00:37:44 URL:http://www.chelseama.gov/print/211 [8266] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/211" [1]
+2017-01-02 00:37:45 URL: http://www.chelseama.gov/node/211/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:37:46 URL:http://www.chelseama.gov/licensing-commission/pages/licensing-commission-applications [41311] -> "../data/townSites2/Chelsea/www.chelseama.gov/licensing-commission/pages/licensing-commission-applications" [1]
+2017-01-02 00:37:47 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/licensing_commission_rules_and_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:37:49 URL:http://www.chelseama.gov/node/211/events/month [54454] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/211/events/month" [1]
+2017-01-02 00:37:50 URL:http://www.chelseama.gov/node/211/events/month/2017-01 [54511] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/211/events/month/2017-01" [1]
+2017-01-02 00:37:51 URL:http://www.chelseama.gov/node/211/agenda [34224] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/211/agenda" [1]
+2017-01-02 00:37:53 URL:http://www.chelseama.gov/licensing-commission/agenda/licensing-commission-meeting-4 [39389] -> "../data/townSites2/Chelsea/www.chelseama.gov/licensing-commission/agenda/licensing-commission-meeting-4" [1]
+2017-01-02 00:37:54 URL:http://www.chelseama.gov/licensing-commission/agenda/licensing-commission-meeting-3 [39391] -> "../data/townSites2/Chelsea/www.chelseama.gov/licensing-commission/agenda/licensing-commission-meeting-3" [1]
+2017-01-02 00:37:55 URL:http://www.chelseama.gov/licensing-commission/agenda/licensing-commission-meeting-2 [39397] -> "../data/townSites2/Chelsea/www.chelseama.gov/licensing-commission/agenda/licensing-commission-meeting-2" [1]
+2017-01-02 00:37:57 URL:http://www.chelseama.gov/licensing-commission/agenda/licensing-commission-meeting-1 [39394] -> "../data/townSites2/Chelsea/www.chelseama.gov/licensing-commission/agenda/licensing-commission-meeting-1" [1]
+2017-01-02 00:37:58 URL:http://www.chelseama.gov/licensing-commission/agenda/licensing-commission-meeting-0 [39384] -> "../data/townSites2/Chelsea/www.chelseama.gov/licensing-commission/agenda/licensing-commission-meeting-0" [1]
+2017-01-02 00:37:59 URL:http://www.chelseama.gov/node/211/minutes [34232] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/211/minutes" [1]
+2017-01-02 00:38:00 URL: http://www.chelseama.gov/sites/chelseama/files/minutes/12.15.2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:01 URL: http://www.chelseama.gov/sites/chelseama/files/minutes/10_27_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:02 URL: http://www.chelseama.gov/sites/chelseama/files/minutes/09_29_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:03 URL: http://www.chelseama.gov/sites/chelseama/files/minutes/07_15_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:04 URL: http://www.chelseama.gov/sites/chelseama/files/minutes/06_16_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:05 URL:http://www.chelseama.gov/planning-board [65756] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/216" [1]
+2017-01-02 00:38:06 URL:http://www.chelseama.gov/print/216 [9473] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/216" [1]
+2017-01-02 00:38:07 URL: http://www.chelseama.gov/node/216/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:09 URL:http://www.chelseama.gov/planning-development/pages/petition-forms [41646] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-board/links/petition-forms" [1]
+2017-01-02 00:38:10 URL:http://www.chelseama.gov/node/216/events/month [61893] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/216/events/month" [1]
+2017-01-02 00:38:11 URL:http://www.chelseama.gov/node/216/events/day/2017-01-24 [37683] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/216/events/day/2017-01-24" [1]
+2017-01-02 00:38:13 URL:http://www.chelseama.gov/node/216/events/month/2017-01 [61946] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/216/events/month/2017-01" [1]
+2017-01-02 00:38:14 URL:http://www.chelseama.gov/node/216/agenda [34037] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/216/agenda" [1]
+2017-01-02 00:38:15 URL:http://www.chelseama.gov/planning-board/agenda/planning-board-meeting-9 [38790] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-board/agenda/planning-board-meeting-9" [1]
+2017-01-02 00:38:17 URL:http://www.chelseama.gov/planning-board/agenda/planning-board-meeting-8 [38790] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-board/agenda/planning-board-meeting-8" [1]
+2017-01-02 00:38:18 URL:http://www.chelseama.gov/planning-board/agenda/planning-board-meeting-7 [38790] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-board/agenda/planning-board-meeting-7" [1]
+2017-01-02 00:38:20 URL:http://www.chelseama.gov/planning-board/agenda/planning-board-meeting-6 [38791] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-board/agenda/planning-board-meeting-6" [1]
+2017-01-02 00:38:22 URL:http://www.chelseama.gov/planning-board/agenda/planning-board-meeting-5 [38787] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-board/agenda/planning-board-meeting-5" [1]
+2017-01-02 00:38:23 URL:http://www.chelseama.gov/node/216/minutes [33978] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/216/minutes" [1]
+2017-01-02 00:38:23 URL: http://www.chelseama.gov/sites/chelseama/files/minutes/pb_minutes_8-16-16subcom.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:25 URL: http://www.chelseama.gov/sites/chelseama/files/minutes/pb_minutes_7-26-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:26 URL: http://www.chelseama.gov/sites/chelseama/files/minutes/pb_minutes_6-28-16_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:27 URL: http://www.chelseama.gov/sites/chelseama/files/minutes/pb_minutes_5-24-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:28 URL: http://www.chelseama.gov/sites/chelseama/files/minutes/pb_minutes_4-26-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:29 URL:http://www.chelseama.gov/traffic-parking-commission [59249] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/221" [1]
+2017-01-02 00:38:30 URL:http://www.chelseama.gov/print/221 [8739] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/221" [1]
+2017-01-02 00:38:31 URL: http://www.chelseama.gov/node/221/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:33 URL:http://www.chelseama.gov/city-clerk-parking-clerk/pages/parking-traffic-forms [40979] -> "../data/townSites2/Chelsea/www.chelseama.gov/traffic-parking-commission/links/parking-traffic-forms" [1]
+2017-01-02 00:38:34 URL:http://www.chelseama.gov/node/221/events/month [54330] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/221/events/month" [1]
+2017-01-02 00:38:36 URL:http://www.chelseama.gov/node/221/events/month/2017-01 [54387] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/221/events/month/2017-01" [1]
+2017-01-02 00:38:38 URL:http://www.chelseama.gov/node/221/agenda [34080] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/221/agenda" [1]
+2017-01-02 00:38:39 URL:http://www.chelseama.gov/traffic-parking-commission/agenda/dec-13-2016-traffic-and-parking-commission-meeting [39352] -> "../data/townSites2/Chelsea/www.chelseama.gov/traffic-parking-commission/agenda/dec-13-2016-traffic-and-parking-commission-meeting" [1]
+2017-01-02 00:38:41 URL:http://www.chelseama.gov/traffic-parking-commission/agenda/traffic-and-parking-commission-meeting-4 [39294] -> "../data/townSites2/Chelsea/www.chelseama.gov/traffic-parking-commission/agenda/traffic-and-parking-commission-meeting-4" [1]
+2017-01-02 00:38:42 URL:http://www.chelseama.gov/traffic-parking-commission/agenda/traffic-and-parking-commission-meeting-3 [39301] -> "../data/townSites2/Chelsea/www.chelseama.gov/traffic-parking-commission/agenda/traffic-and-parking-commission-meeting-3" [1]
+2017-01-02 00:38:45 URL:http://www.chelseama.gov/traffic-parking-commission/agenda/traffic-and-parking-commission-meeting-2 [39357] -> "../data/townSites2/Chelsea/www.chelseama.gov/traffic-parking-commission/agenda/traffic-and-parking-commission-meeting-2" [1]
+2017-01-02 00:38:48 URL:http://www.chelseama.gov/traffic-parking-commission/agenda/traffic-and-parking-commission-meeting-1 [39289] -> "../data/townSites2/Chelsea/www.chelseama.gov/traffic-parking-commission/agenda/traffic-and-parking-commission-meeting-1" [1]
+2017-01-02 00:38:51 URL:http://www.chelseama.gov/tree-board [39660] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/6051" [1]
+2017-01-02 00:38:52 URL:http://www.chelseama.gov/print/6051 [6323] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/6051" [1]
+2017-01-02 00:38:52 URL: http://www.chelseama.gov/node/6051/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:54 URL:http://www.chelseama.gov/youth-commission [44451] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/226" [1]
+2017-01-02 00:38:55 URL:http://www.chelseama.gov/print/226 [8481] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/226" [1]
+2017-01-02 00:38:57 URL:http://www.chelseama.gov/user/496/contact [38113] -> "../data/townSites2/Chelsea/www.chelseama.gov/user/496/contact" [1]
+2017-01-02 00:38:57 URL: http://www.chelseama.gov/node/226/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:38:59 URL:http://www.chelseama.gov/chelsea-community-schools [59027] -> "../data/townSites2/Chelsea/www.chelseama.gov/youth-commission/links/chelsea-community-schools" [1]
+http://www.mass.gov/informedma/massresults/transition2015/about-the-governors-office/community-affairs/:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:39:01 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/admin_code.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:02 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/youth_commission_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:03 URL:http://www.chelseama.gov/zoning-board-appeals [62070] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/231" [1]
+2017-01-02 00:39:04 URL:http://www.chelseama.gov/print/231 [9525] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/231" [1]
+2017-01-02 00:39:05 URL: http://www.chelseama.gov/node/231/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:06 URL:http://www.chelseama.gov/planning-development/pages/petition-forms [41646] -> "../data/townSites2/Chelsea/www.chelseama.gov/zoning-board-appeals/links/petition-forms" [1]
+2017-01-02 00:39:08 URL:http://www.chelseama.gov/node/231/events/month [62051] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/231/events/month" [1]
+2017-01-02 00:39:10 URL:http://www.chelseama.gov/node/231/events/day/2017-01-10 [37752] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/231/events/day/2017-01-10" [1]
+2017-01-02 00:39:13 URL:http://www.chelseama.gov/node/231/events/month/2017-01 [62104] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/231/events/month/2017-01" [1]
+2017-01-02 00:39:15 URL:http://www.chelseama.gov/node/231/agenda [34085] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/231/agenda" [1]
+2017-01-02 00:39:16 URL:http://www.chelseama.gov/zoning-board-appeals/agenda/zoning-board-appeals-case-no-2016-50 [39224] -> "../data/townSites2/Chelsea/www.chelseama.gov/zoning-board-appeals/agenda/zoning-board-appeals-case-no-2016-50" [1]
+2017-01-02 00:39:18 URL:http://www.chelseama.gov/zoning-board-appeals/agenda/zoning-board-appeals-hearing-case-no-2016-51 [39264] -> "../data/townSites2/Chelsea/www.chelseama.gov/zoning-board-appeals/agenda/zoning-board-appeals-hearing-case-no-2016-51" [1]
+2017-01-02 00:39:20 URL:http://www.chelseama.gov/zoning-board-appeals/agenda/zoning-board-appeals-case-no-2016-49 [39226] -> "../data/townSites2/Chelsea/www.chelseama.gov/zoning-board-appeals/agenda/zoning-board-appeals-case-no-2016-49" [1]
+2017-01-02 00:39:21 URL:http://www.chelseama.gov/zoning-board-appeals/agenda/zoning-board-appeals-hearing-2016-46 [39223] -> "../data/townSites2/Chelsea/www.chelseama.gov/zoning-board-appeals/agenda/zoning-board-appeals-hearing-2016-46" [1]
+2017-01-02 00:39:22 URL:http://www.chelseama.gov/zoning-board-appeals/agenda/dec-13-2016-zoning-board-appeals [39249] -> "../data/townSites2/Chelsea/www.chelseama.gov/zoning-board-appeals/agenda/dec-13-2016-zoning-board-appeals" [1]
+2017-01-02 00:39:25 URL:http://www.chelseama.gov/home/webforms/chelsea-volunteer-application [45575/45575] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/6186" [1]
+2017-01-02 00:39:27 URL:http://www.chelseama.gov/print/6186 [16028/16028] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/6186" [1]
+2017-01-02 00:39:29 URL:http://www.chelseama.gov/police-department/faq/what-best-way-submit-crime-tip-chelsea-police-department [38554] -> "../data/townSites2/Chelsea/www.chelseama.gov/police-department/faq/what-best-way-submit-crime-tip-chelsea-police-department" [1]
+2017-01-02 00:39:31 URL:http://www.chelseama.gov/police-department/faq/how-do-i-get-copy-police-report-what-cost [38790] -> "../data/townSites2/Chelsea/www.chelseama.gov/police-department/faq/how-do-i-get-copy-police-report-what-cost" [1]
+2017-01-02 00:39:34 URL:http://www.chelseama.gov/police-department/faq/how-do-i-get-my-car-out-impound [38640] -> "../data/townSites2/Chelsea/www.chelseama.gov/police-department/faq/how-do-i-get-my-car-out-impound" [1]
+2017-01-02 00:39:36 URL:http://www.chelseama.gov/police-department/faq/how-can-i-become-chelsea-police-officer [39513] -> "../data/townSites2/Chelsea/www.chelseama.gov/police-department/faq/how-can-i-become-chelsea-police-officer" [1]
+2017-01-02 00:39:37 URL:http://www.chelseama.gov/police-department/faq/when-next-police-exam [38079] -> "../data/townSites2/Chelsea/www.chelseama.gov/police-department/faq/when-next-police-exam" [1]
+2017-01-02 00:39:39 URL:http://www.chelseama.gov/node/2721/faq [36273] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/2721/faq" [1]
+2017-01-02 00:39:40 URL:http://www.chelseama.gov/schools/faq/how-do-i-find-out-who-my-representative-school-committee [38326] -> "../data/townSites2/Chelsea/www.chelseama.gov/schools/faq/how-do-i-find-out-who-my-representative-school-committee" [1]
+2017-01-02 00:39:42 URL:http://www.chelseama.gov/schools/faq/how-do-i-contact-my-school-committee-representative [38099] -> "../data/townSites2/Chelsea/www.chelseama.gov/schools/faq/how-do-i-contact-my-school-committee-representative" [1]
+2017-01-02 00:39:43 URL:http://www.chelseama.gov/schools/faq/how-do-i-contact-my-child%E2%80%99s-school-principal [38234] -> "../data/townSites2/Chelsea/www.chelseama.gov/schools/faq/how-do-i-contact-my-childâ%80%99s-school-principal" [1]
+2017-01-02 00:39:45 URL:http://www.chelseama.gov/schools/faq/if-i-have-issue-my-child%E2%80%99s-school-and-i-don%E2%80%99t-feel-it-being-addressed-who-can-i-call [38180] -> "../data/townSites2/Chelsea/www.chelseama.gov/schools/faq/if-i-have-issue-my-childâ%80%99s-school-and-i-donâ%80%99t-feel-it-being-addressed-who-can-i-call" [1]
+2017-01-02 00:39:46 URL:http://www.chelseama.gov/schools/faq/where-do-i-go-register-my-child-school [38158] -> "../data/townSites2/Chelsea/www.chelseama.gov/schools/faq/where-do-i-go-register-my-child-school" [1]
+2017-01-02 00:39:47 URL:http://www.chelseama.gov/node/136/faq [37047] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/136/faq" [1]
+2017-01-02 00:39:49 URL:http://www.chelseama.gov/home/pages/find-it-fast [39770] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/6021" [1]
+2017-01-02 00:39:50 URL:http://www.chelseama.gov/print/6021 [9957] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/6021" [1]
+2017-01-02 00:39:51 URL:http://www.chelseama.gov/human-resources/pages/city-chelsea-job-vacancies [43084] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/1836" [1]
+2017-01-02 00:39:52 URL:http://www.chelseama.gov/print/1836 [9274] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/1836" [1]
+2017-01-02 00:39:54 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/e911_communications_-_ft_pt_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:54 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/job_posting_library_custodian_aug_2016_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:55 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/assistant_parking_clerk_12_16_ext_posting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:57 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/program_assistant_16_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:58 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/dpw_director_posting_10_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:39:59 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/planner_and_land_job_posting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:00 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/senior_housing_development_project_manager_external_posting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:01 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/senior_housing_development_project_manager_jd_08_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:03 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/parkreccommunications.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:04 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/recreation_arts_manager_job_description_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:05 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/parksrecrecreationartsmanager.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:06 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/downtowncoordinator_posting_w_jd_08_2016_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:07 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/relatives_disclosure.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:09 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/chelsea_employee_application_may_20_2013_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:10 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/eeo_aa_reporting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:11 URL: http://www.chelseama.gov/calendar-by-event-type/feed/20/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:13 URL:http://www.chelseama.gov/calendar-by-event-type/20/month [58326] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/20/month" [1]
+2017-01-02 00:40:15 URL:http://www.chelseama.gov/calendar-by-event-type/20/week [40283] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/20/week" [1]
+2017-01-02 00:40:17 URL:http://www.chelseama.gov/calendar-by-event-type/20/day [40272] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/20/day" [1]
+2017-01-02 00:40:19 URL:http://www.chelseama.gov/calendar-by-event-type/20/year [141400] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/20/year" [1]
+2017-01-02 00:40:22 URL:http://www.chelseama.gov/calendar-by-event-type/20/month/2016-12 [69356] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/20/month/2016-12" [1]
+2017-01-02 00:40:23 URL:http://www.chelseama.gov/calendar-by-event-type/20/month/2017-02 [58515] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/20/month/2017-02" [1]
+2017-01-02 00:40:24 URL: http://www.chelseama.gov/calendar-by-event-type/feed/16/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:25 URL:http://www.chelseama.gov/calendar-by-event-type/16/month [81604] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/16/month" [1]
+2017-01-02 00:40:27 URL:http://www.chelseama.gov/calendar-by-event-type/16/week [41144] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/16/week" [1]
+2017-01-02 00:40:28 URL:http://www.chelseama.gov/calendar-by-event-type/16/day [40370] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/16/day.1" [1]
+2017-01-02 00:40:31 URL:http://www.chelseama.gov/calendar-by-event-type/16/year [147991] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/16/year" [1]
+2017-01-02 00:40:34 URL:http://www.chelseama.gov/calendar-by-event-type/16/month/2016-12 [210201] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/16/month/2016-12" [1]
+2017-01-02 00:40:36 URL:http://www.chelseama.gov/calendar-by-event-type/16/month/2017-02 [62375] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/16/month/2017-02" [1]
+2017-01-02 00:40:37 URL:http://www.chelseama.gov/information-technology/pages/geographic-information-system-gis [40087] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/6191" [1]
+2017-01-02 00:40:38 URL:http://www.chelseama.gov/print/6191 [7767] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/6191" [1]
+2017-01-02 00:40:39 URL:http://www.chelseama.gov/information-technology/pages/information-technology-gis-data [39856] -> "../data/townSites2/Chelsea/www.chelseama.gov/information-technology/pages/information-technology-gis-data" [1]
+2017-01-02 00:40:42 URL:http://www.chelseama.gov/webforms/contact-us [44353/44353] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/2" [1]
+2017-01-02 00:40:43 URL:http://www.chelseama.gov/print/2 [15129/15129] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/2" [1]
+2017-01-02 00:40:44 URL:http://www.chelseama.gov/home/pages/community-resources [35650] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/6474" [1]
+2017-01-02 00:40:45 URL:http://www.chelseama.gov/print/6474 [5879] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/6474" [1]
+2017-01-02 00:40:47 URL:http://www.chelseama.gov/home/pages/post-office [35995] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/6475" [1]
+2017-01-02 00:40:48 URL:http://www.chelseama.gov/print/6475 [6028] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/6475" [1]
+2017-01-02 00:40:49 URL:http://www.chelseama.gov/rubbish-recycling-yard-waste [55368] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/3296" [1]
+2017-01-02 00:40:51 URL:http://www.chelseama.gov/print/3296 [16471] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/3296" [1]
+2017-01-02 00:40:52 URL:http://www.chelseama.gov/rubbish-recycling-yard-waste/pages/information-about-massachusetts-waste-ban-regulations [43578] -> "../data/townSites2/Chelsea/www.chelseama.gov/rubbish-recycling-yard-waste/pages/information-about-massachusetts-waste-ban-regulations" [1]
+2017-01-02 00:40:53 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/wasteban.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:54 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/2016_hhw_in_english.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:55 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/2016_hhw_in_spanish.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:57 URL:http://www.chelseama.gov/rubbish-recycling-yard-waste/pages/composting-bins [43599] -> "../data/townSites2/Chelsea/www.chelseama.gov/rubbish-recycling-yard-waste/pages/composting-bins" [1]
+2017-01-02 00:40:58 URL: http://www.chelseama.gov/node/3296/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:40:59 URL:http://www.chelseama.gov/city-clerk-parking-clerk/faq/how-does-street-sweeping-work [40827] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/5241" [1]
+2017-01-02 00:41:00 URL:http://www.chelseama.gov/print/5241 [6807] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/5241" [1]
+2017-01-02 00:41:01 URL:http://www.chelseama.gov/home/pages/vietnam-veterans-memorial-pool [36233] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/6473" [1]
+2017-01-02 00:41:02 URL:http://www.chelseama.gov/print/6473 [6455] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/6473" [1]
+2017-01-02 00:41:03 URL:http://www.chelseama.gov/home/pages/state-representatives [36299] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/6476" [1]
+2017-01-02 00:41:04 URL:http://www.chelseama.gov/print/6476 [6463] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/6476" [1]
+2017-01-02 00:41:05 URL:http://www.chelseama.gov/home/pages/state-senator [35766] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/6477" [1]
+2017-01-02 00:41:06 URL:http://www.chelseama.gov/print/6477 [5942] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/6477" [1]
+2017-01-02 00:41:07 URL:http://www.chelseama.gov/home/pages/us-representatives [35582] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/6478" [1]
+2017-01-02 00:41:08 URL:http://www.chelseama.gov/print/6478 [5831] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/6478" [1]
+2017-01-02 00:41:10 URL:http://www.chelseama.gov/home/pages/us-senators [35565] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/6479" [1]
+2017-01-02 00:41:10 URL:http://www.chelseama.gov/print/6479 [5786] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/6479" [1]
+2017-01-02 00:41:12 URL:http://www.chelseama.gov/home/pages/civic-groups [35558] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/7163" [1]
+2017-01-02 00:41:12 URL:http://www.chelseama.gov/print/7163 [5783] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/7163" [1]
+2017-01-02 00:41:14 URL:http://www.chelseama.gov/youth-commission/pages/community-organizations [47729] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/5161" [1]
+2017-01-02 00:41:14 URL:http://www.chelseama.gov/print/5161 [14778] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/5161" [1]
+2017-01-02 00:41:17 URL:http://www.chelseama.gov/home/webforms/submit-upcoming-community-event [48653/48653] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/6266" [1]
+2017-01-02 00:41:19 URL:http://www.chelseama.gov/print/6266 [19336/19336] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/6266" [1]
+2017-01-02 00:41:20 URL:http://www.chelseama.gov/youth-commission/pages/chelsea-youth-leagues [42446] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/5166" [1]
+2017-01-02 00:41:21 URL:http://www.chelseama.gov/print/5166 [9409] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/5166" [1]
+2017-01-02 00:41:22 URL:http://www.chelseama.gov/home/pages/businesses [36554] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/6480" [1]
+2017-01-02 00:41:23 URL:http://www.chelseama.gov/print/6480 [6604] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/6480" [1]
+http://www.chelseama.gov/chelseama/files/uploads/business_certificate.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:41:25 URL:http://www.chelseama.gov/home/pages/arts-chelsea [38711] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/6481" [1]
+2017-01-02 00:41:27 URL:http://www.chelseama.gov/print/6481 [8752] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/6481" [1]
+2017-01-02 00:41:28 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/1867_recording.jpg 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:29 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/atclogobarblack_0.jpg 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:31 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/charc_logo.jpg 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:32 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/awlogo.jpg 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:33 URL:http://www.chelseama.gov/home/pages/chelsea-film [37170] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/6482" [1]
+2017-01-02 00:41:34 URL:http://www.chelseama.gov/print/6482 [7304] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/6482" [1]
+2017-01-02 00:41:36 URL:http://www.chelseama.gov/parks-playgrounds [45462] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/3191" [1]
+2017-01-02 00:41:37 URL:http://www.chelseama.gov/print/3191 [7384] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/3191" [1]
+2017-01-02 00:41:39 URL: http://www.chelseama.gov/node/3191/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:41 URL:http://www.chelseama.gov/home/pages/genealogy [42181] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/6483" [1]
+2017-01-02 00:41:42 URL:http://www.chelseama.gov/print/6483 [12276] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/6483" [1]
+2017-01-02 00:41:42 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/request_for_birth.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:44 URL:http://www.chelseama.gov/city-clerk-parking-clerk/pages/birth-certificate-information [41638] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-clerk-parking-clerk/pages/birth-certificate-information" [1]
+2017-01-02 00:41:44 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/request_for_marriage.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:46 URL:http://www.chelseama.gov/city-clerk-parking-clerk/pages/marriage-certificate-information [41117] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-clerk-parking-clerk/pages/marriage-certificate-information" [1]
+2017-01-02 00:41:46 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/request_for_death.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:41:48 URL:http://www.chelseama.gov/city-clerk-parking-clerk/pages/death-certificate-information [41360] -> "../data/townSites2/Chelsea/www.chelseama.gov/city-clerk-parking-clerk/pages/death-certificate-information" [1]
+2017-01-02 00:41:50 URL:http://www.chelseama.gov/bulletins/bulletins/economic-development [38903] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/14" [1]
+2017-01-02 00:41:51 URL:http://www.chelseama.gov/print/14 [9113] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/14" [1]
+2017-01-02 00:41:53 URL:http://www.chelseama.gov/node/13 [42866] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/13" [1]
+2017-01-02 00:41:54 URL:http://www.chelseama.gov/home/pages/report-issue [40995] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/41" [1]
+2017-01-02 00:41:55 URL:http://www.chelseama.gov/print/41 [11143] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/41" [1]
+2017-01-02 00:41:57 URL:http://www.chelseama.gov/city-clerk/pages/online-services [41562] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/66" [1]
+2017-01-02 00:41:58 URL:http://www.chelseama.gov/print/66 [7663] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/66" [1]
+2017-01-02 00:41:59 URL:http://www.chelseama.gov/home/urgent-alerts/city-hall-holiday-hours [36411] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/19463" [1]
+2017-01-02 00:42:00 URL:http://www.chelseama.gov/print/19463 [6266] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/19463" [1]
+2017-01-02 00:42:01 URL:http://www.chelseama.gov/home/news/11th-annual-chelsea-reads-saturday-november-5th-11-am-2-pm [36863] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/21063" [1]
+2017-01-02 00:42:02 URL:http://www.chelseama.gov/print/21063 [7340] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/21063" [1]
+2017-01-02 00:42:04 URL:http://www.chelseama.gov/home/news/road-closures-paving-tuesday-october-4th-wednesday-october-5th-date-change-due-weather [37432] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/19473" [1]
+2017-01-02 00:42:05 URL:http://www.chelseama.gov/print/19473 [7812] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/19473" [1]
+2017-01-02 00:42:06 URL:http://www.chelseama.gov/home/news/new-washington-avenue-bridge-opens-september-14 [40176] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/17993" [1]
+2017-01-02 00:42:07 URL:http://www.chelseama.gov/print/17993 [10427] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/17993" [1]
+2017-01-02 00:42:08 URL: http://www.chelseama.gov/node/1/news/feed 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:09 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/citycouncilwatersewertrashratesfy17_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:11 URL:http://www.chelseama.gov/home/news/chelsea-council-becomes-first-city-council-ma-take-action-private-sector-wage-theft [39065] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/news/chelsea-council-becomes-first-city-council-ma-take-action-private-sector-wage-theft" [1]
+2017-01-02 00:42:13 URL:http://www.chelseama.gov/home/news/mystic-river-overlook-park-community-meeting [36734] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/news/mystic-river-overlook-park-community-meeting" [1]
+2017-01-02 00:42:14 URL:http://www.chelseama.gov/home/news/comcast-cable-public-hearing-may-23rd [36226] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/news/comcast-cable-public-hearing-may-23rd" [1]
+2017-01-02 00:42:15 URL:http://www.chelseama.gov/home/news/city-chelsea-awarded-certificate-achievement-excellence-financial-reporting-18th [37625] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/news/city-chelsea-awarded-certificate-achievement-excellence-financial-reporting-18th" [1]
+2017-01-02 00:42:17 URL:http://www.chelseama.gov/home/news/chelseas-cable-television-survey [37463] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/news/chelseas-cable-television-survey" [1]
+2017-01-02 00:42:18 URL:http://www.chelseama.gov/home/news/plan-de-inversiones-de-capital-horarios-de-reuniones-p%C3%BAblicas [37206] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/news/plan-de-inversiones-de-capital-horarios-de-reuniones-pÃºblicas" [1]
+http://www.chelseama.gov/home/news/plan-de-inversiones-de-capital-horarios-de-reuniones-p%25C3%25BAblicas:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:42:20 URL:http://www.chelseama.gov/home/news/massdot-capital-investment-plan-meeting [36935] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/news/massdot-capital-investment-plan-meeting" [1]
+2017-01-02 00:42:21 URL:http://www.chelseama.gov/home/news/additional-services-added-electronic-payment-kiosk-starting-april-1st [36710] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/news/additional-services-added-electronic-payment-kiosk-starting-april-1st" [1]
+2017-01-02 00:42:23 URL:http://www.chelseama.gov/home/news/new-electronic-payment-kiosk-city-hall-lobby [37187] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/news/new-electronic-payment-kiosk-city-hall-lobby" [1]
+2017-01-02 00:42:25 URL:http://www.chelseama.gov/home/news/cpd-conduct-active-shooter-awareness-training [37486] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/news/cpd-conduct-active-shooter-awareness-training" [1]
+2017-01-02 00:42:25 URL: http://www.chelseama.gov/calendar-by-event-type/feed/20%2B17%2B19/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 00:42:28 URL:http://www.chelseama.gov/calendar-by-event-type/20%2B17%2B19/month [139507] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/20+17+19/month" [1]
+2017-01-02 00:42:30 URL:http://www.chelseama.gov/calendar-by-event-type/20%2B17%2B19/week [41992] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/20+17+19/week" [1]
+2017-01-02 00:42:31 URL:http://www.chelseama.gov/calendar-by-event-type/20%2B17%2B19/day [40224] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/20+17+19/day" [1]
+2017-01-02 00:42:33 URL:http://www.chelseama.gov/calendar-by-event-type/20%2B17%2B19/year [168966] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/20+17+19/year" [1]
+2017-01-02 00:42:36 URL:http://www.chelseama.gov/calendar-by-event-type/20%2B17%2B19/month/2016-12 [161729] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/20+17+19/month/2016-12" [1]
+2017-01-02 00:42:38 URL:http://www.chelseama.gov/calendar-by-event-type/20%2B17%2B19/month/2017-02 [148955] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/20+17+19/month/2017-02" [1]
+2017-01-02 00:42:39 URL:http://www.chelseama.gov/calendar-by-event-type/20%2B17%2B19/day/2017-01-04 [40928] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/20+17+19/day/2017-01-04" [1]
+2017-01-02 00:42:41 URL:http://www.chelseama.gov/calendar-by-event-type/20%2B17%2B19/day/2017-01-05 [41459] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/20+17+19/day/2017-01-05" [1]
+2017-01-02 00:42:43 URL:http://www.chelseama.gov/childrens-department/events/18353 [38667] -> "../data/townSites2/Chelsea/www.chelseama.gov/childrens-department/events/18353" [1]
+2017-01-02 00:42:44 URL:http://www.chelseama.gov/calendar-by-event-type/20%2B17%2B19/day/2017-01-10 [41461] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/20+17+19/day/2017-01-10" [1]
+2017-01-02 00:42:45 URL:http://www.chelseama.gov/childrens-department/events/22843 [38620] -> "../data/townSites2/Chelsea/www.chelseama.gov/childrens-department/events/22843" [1]
+2017-01-02 00:42:46 URL:http://www.chelseama.gov/calendar-by-event-type/20%2B17%2B19/day/2017-01-11 [41453] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/20+17+19/day/2017-01-11" [1]
+2017-01-02 00:42:48 URL:http://www.chelseama.gov/childrens-department/events/23003 [38611] -> "../data/townSites2/Chelsea/www.chelseama.gov/childrens-department/events/23003" [1]
+2017-01-02 00:42:49 URL:http://www.chelseama.gov/calendar-by-event-type/20%2B17%2B19/day/2017-01-17 [41461] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/20+17+19/day/2017-01-17" [1]
+2017-01-02 00:42:51 URL:http://www.chelseama.gov/childrens-department/events/22773 [38620] -> "../data/townSites2/Chelsea/www.chelseama.gov/childrens-department/events/22773" [1]
+2017-01-02 00:42:52 URL:http://www.chelseama.gov/calendar-by-event-type/20%2B17%2B19/day/2017-01-18 [41453] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/20+17+19/day/2017-01-18" [1]
+2017-01-02 00:42:54 URL:http://www.chelseama.gov/childrens-department/events/22933 [38611] -> "../data/townSites2/Chelsea/www.chelseama.gov/childrens-department/events/22933" [1]
+2017-01-02 00:42:55 URL:http://www.chelseama.gov/calendar-by-event-type/20%2B17%2B19/day/2017-01-24 [41461] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/20+17+19/day/2017-01-24" [1]
+2017-01-02 00:42:57 URL:http://www.chelseama.gov/childrens-department/events/22783 [38620] -> "../data/townSites2/Chelsea/www.chelseama.gov/childrens-department/events/22783" [1]
+2017-01-02 00:42:59 URL:http://www.chelseama.gov/calendar-by-event-type/20%2B17%2B19/day/2017-01-25 [41453] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/20+17+19/day/2017-01-25" [1]
+2017-01-02 00:43:01 URL:http://www.chelseama.gov/childrens-department/events/22943 [38611] -> "../data/townSites2/Chelsea/www.chelseama.gov/childrens-department/events/22943" [1]
+2017-01-02 00:43:03 URL:http://www.chelseama.gov/calendar-by-event-type/20%2B17%2B19/day/2017-01-31 [41461] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/20+17+19/day/2017-01-31" [1]
+2017-01-02 00:43:05 URL:http://www.chelseama.gov/childrens-department/events/22793 [38620] -> "../data/townSites2/Chelsea/www.chelseama.gov/childrens-department/events/22793" [1]
+2017-01-02 00:43:06 URL:http://www.chelseama.gov/home/events/17343 [36184] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/17343" [1]
+2017-01-02 00:43:07 URL:http://www.chelseama.gov/print/17343 [6403] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/17343" [1]
+2017-01-02 00:43:09 URL:http://www.chelseama.gov/calendar-by-event-type/16/day/2017-01-02 [40454] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/16/day/2017-01-02" [1]
+2017-01-02 00:43:10 URL:http://www.chelseama.gov/calendar-by-event-type/16/day/2017-01-04 [40457] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/16/day/2017-01-04" [1]
+2017-01-02 00:43:11 URL:http://www.chelseama.gov/home/events/24273 [39402] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/24273" [1]
+2017-01-02 00:43:12 URL:http://www.chelseama.gov/print/24273 [9813] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/24273" [1]
+2017-01-02 00:43:14 URL:http://www.chelseama.gov/home/agenda/historic-commission-meeting [36689] -> "../data/townSites2/Chelsea/www.chelseama.gov/home/agenda/historic-commission-meeting" [1]
+2017-01-02 00:43:14 URL: http://www.chelseama.gov/sites/chelseama/files/agendas/jan_3_2017_mtg.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:15 URL:http://www.chelseama.gov/city-council/events/24293 [42631] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/24293" [1]
+2017-01-02 00:43:16 URL:http://www.chelseama.gov/print/24293 [10659] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/24293" [1]
+2017-01-02 00:43:18 URL:http://www.chelseama.gov/users/lkoco [35054] -> "../data/townSites2/Chelsea/www.chelseama.gov/users/lkoco" [1]
+2017-01-02 00:43:18 URL: http://www.chelseama.gov/sites/chelseama/files/agendas/special_organizational_meeting_tuesday_jan._3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:20 URL:http://www.chelseama.gov/calendar-by-event-type/16/day/2017-01-09 [40454] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/16/day/2017-01-09" [1]
+2017-01-02 00:43:21 URL:http://www.chelseama.gov/calendar-by-event-type/16/day/2017-01-11 [40458] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/16/day/2017-01-11" [1]
+2017-01-02 00:43:22 URL:http://www.chelseama.gov/zoning-board-appeals/events/24213 [42005] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/24213" [1]
+2017-01-02 00:43:23 URL:http://www.chelseama.gov/print/24213 [10070] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/24213" [1]
+2017-01-02 00:43:24 URL: http://www.chelseama.gov/sites/chelseama/files/agendas/jan_10_2017_hearing_2016-50.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:25 URL:http://www.chelseama.gov/zoning-board-appeals/events/24233 [42063] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/24233" [1]
+2017-01-02 00:43:26 URL:http://www.chelseama.gov/print/24233 [10144] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/24233" [1]
+2017-01-02 00:43:27 URL: http://www.chelseama.gov/sites/chelseama/files/agendas/jan_10_2017_hearing_2016-51.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:28 URL:http://www.chelseama.gov/calendar-by-event-type/16/day/2017-01-23 [40455] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/16/day/2017-01-23" [1]
+2017-01-02 00:43:29 URL:http://www.chelseama.gov/calendar-by-event-type/16/day/2017-01-25 [40458] -> "../data/townSites2/Chelsea/www.chelseama.gov/calendar-by-event-type/16/day/2017-01-25" [1]
+2017-01-02 00:43:30 URL:http://www.chelseama.gov/planning-board/events/23503 [39060] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/23503" [1]
+2017-01-02 00:43:31 URL:http://www.chelseama.gov/print/23503 [6980] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/23503" [1]
+2017-01-02 00:43:33 URL:http://www.chelseama.gov/planning-board/events/24253 [42078] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/24253" [1]
+2017-01-02 00:43:34 URL:http://www.chelseama.gov/print/24253 [10213] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/24253" [1]
+2017-01-02 00:43:35 URL:http://www.chelseama.gov/planning-board/agenda/jan-24-2017-public-hearing-proposed-amendment-zoning-ordinance [39325] -> "../data/townSites2/Chelsea/www.chelseama.gov/planning-board/agenda/jan-24-2017-public-hearing-proposed-amendment-zoning-ordinance" [1]
+2017-01-02 00:43:35 URL: http://www.chelseama.gov/sites/chelseama/files/agendas/jan_24_2017_prop_amend_to_zoning_ord.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:37 URL:http://www.chelseama.gov/home/pages/building-hours [36897] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/56" [1]
+2017-01-02 00:43:38 URL:http://www.chelseama.gov/print/56 [6926] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/56" [1]
+2017-01-02 00:43:39 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/fy18_ie-38dblank_form_1.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:40 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/fy18_fol_statetax2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:41 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/fy17_abatement_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:42 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/res_x_packet_2.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:43 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/address_change_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:45 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/facappspan2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:46 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/facappeng2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:47 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/class_reg_span.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:48 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/class_reg_eng.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:49 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/spanish_absentee_ballot_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:50 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/spanish_absentee_ballot_application_family.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:51 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/absentee_ballot_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:53 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/absentee_ballot_application_family.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:54 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/new_sticker_vp_appl.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:55 URL:http://www.chelseama.gov/node/61/files [39077] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/61/files" [1]
+2017-01-02 00:43:56 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/senior_tax-work_off_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:57 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/chelsea911databaseupdate.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:58 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/city_of_chelsea_-_permit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:43:59 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/dms_enrollment_form_and_plan_overview.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:01 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/delta_dental_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:02 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/detla_dental_plan_information.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:03 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/m-4.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:04 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/ppo_harvard_pilgrim_enrollment_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:05 URL:http://www.chelseama.gov/node/91/files [40094] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/91/files" [1]
+2017-01-02 00:44:06 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/data_aquisition_forms.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:07 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/itns2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:08 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/itnf2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:10 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/liquor_license_procedures_and_guidelines_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:11 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/rooming_house_appl_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:12 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/amusement.entertainment_appl_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:13 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/common_victualer_appl_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:14 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/yard_sale_appl.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:16 URL:http://www.chelseama.gov/node/211/files [39501] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/211/files" [1]
+2017-01-02 00:44:17 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/anr_-_form_a_-_approval_not_required.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:18 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/chelsea_sp_applicationrev2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:19 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/chelsea_variance_applicationrev2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:20 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/chelsea_design_review_applicationrev2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:21 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/chelsea_appeal_applicationrev2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:22 URL:http://www.chelseama.gov/node/116/files [38046] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/116/files" [1]
+2017-01-02 00:44:23 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/street_opening_permits_aplication.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:25 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/guide_to_excavating_contractors_registration.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:26 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/trench_excavation_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:27 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/news_rack_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:28 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/hydrant_meter_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:29 URL:http://www.chelseama.gov/node/71/files [43173] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/71/files" [1]
+2017-01-02 00:44:31 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/water_discount_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:32 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/change_of_address_one_sided_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:33 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/water_conservation_fixture-literature_request.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:34 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/request_for_city_trash_services.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:35 URL:http://www.chelseama.gov/node/4026/files [36166] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/4026/files" [1]
+2017-01-02 00:44:37 URL: http://www.chelseama.gov/sites/chelseama/files/uploads/sprinkler_meter_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:44:38 URL:http://www.chelseama.gov/home/pages/mbta-info [37156] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/6394" [1]
+2017-01-02 00:44:39 URL:http://www.chelseama.gov/print/6394 [7127] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/6394" [1]
+2017-01-02 00:44:40 URL:http://www.chelseama.gov/home/pages/road-construction [39534] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/6467" [1]
+2017-01-02 00:44:41 URL:http://www.chelseama.gov/print/6467 [9493] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/6467" [1]
+2017-01-02 00:44:42 URL:http://www.chelseama.gov/home/pages/chelsea-channel-15 [37399] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/6036" [1]
+2017-01-02 00:44:43 URL:http://www.chelseama.gov/print/6036 [7582] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/6036" [1]
+2017-01-02 00:44:45 URL:http://www.chelseama.gov/home/pages/website-disclaimer [38559] -> "../data/townSites2/Chelsea/www.chelseama.gov/node/6091" [1]
+2017-01-02 00:44:46 URL:http://www.chelseama.gov/print/6091 [8640] -> "../data/townSites2/Chelsea/www.chelseama.gov/print/6091" [1]
+Found 6 broken links.
+
+https://www.digitalcommonwealth.org/institutions/commonwealth:707958010
+http://www.apwa.net/AsiCommon/Controls/Shared/FormsAuthentication/Login.aspx?ReturnUrl=%2fAsiCommon%2fControls%2fShared%2fFormsAuthentication%2fLogin.aspx%3fReturnUrl%3d%252fAsiCommon%252fControls%252fShared%252fFormsAuthentication%252fLogin.aspx%253fReturnUrl%253d%25252fAsiCommon%25252fControls%25252fShared%25252fFormsAuthentication%25252fLogin.aspx%25253fReturnUrl%25253d%2525252fAsiCommon%2525252fControls%2525252fShared%2525252fFormsAuthentication%2525252fLogin.aspx%2525253fReturnUrl%2525253d%252525252fAsiCommon%252525252fControls%252525252fShared%252525252fFormsAuthentication%252525252fLogin.aspx%252525253fReturnUrl%252525253d%25252525252fAsiCommon%25252525252fControls%25252525252fShared%25252525252fFormsAuthentication%25252525252fLogin.aspx%25252525253fReturnUrl%25252525253d%2525252525252fAsiCommon%2525252525252fControls%2525252525252fShared%2525252525252fFormsAuthentication%2525252525252fLogin.aspx%2525252525253fReturnUrl%2525252525253d%252525252525252fAsiCommon%252525252525252fControls%252525252525252fShared%252525252525252fFormsAuthentication%252525252525252fLogin.aspx%252525252525253fReturnUrl%252525252525253d%25252525252525252fAsiCommon%25252525252525252fControls%25252525252525252fShared%25252525252525252fFormsAuthentication%25252525252525252fLogin.aspx%25252525252525253fReturnUrl%25252525252525253d%2525252525252525252fAsiCommon%2525252525252525252fControls%2525252525252525252fShared%2525252525252525252fFormsAuthentication%2525252525252525252fLogin.aspx%2525252525252525253fReturnUrl%2525252525252525253d%252525252525252525252fAsiCommon%252525252525252525252fControls%252525252525252525252fShared%252525252525252525252fFormsAuthentication%252525252525252525252fLogin.aspx%252525252525252525253fReturnUrl%252525252525252525253d%25252525252525252525252fAsiCommon%25252525252525252525252fControls%25252525252525252525252fShared%25252525252525252525252fFormsAuthentication%25252525252525252525252fLogin.aspx%25252525252525252525253fReturnUrl%25252525252525252525253d%2525252525252525252525252fAsiCommon%2525252525252525252525252fControls%2525252525252525252525252fShared%2525252525252525252525252fFormsAuthentication%2525252525252525252525252fLogin.aspx%2525252525252525252525253fReturnUrl%2525252525252525252525253d%252525252525252525252525252f
+http://www.chelseama.gov/chelseama/files/uploads/business_certificate.pdf
+https://bostonparking.spplus.com//onstreet/chelsea/meter-repair.htm
+http://www.mass.gov/informedma/massresults/transition2015/about-the-governors-office/community-affairs/
+http://www.chelseama.gov/home/news/plan-de-inversiones-de-capital-horarios-de-reuniones-p%25C3%25BAblicas
+
+FINISHED --2017-01-02 00:44:46--
+Total wall clock time: 28m 30s
+Downloaded: 883 files, 36M in 2m 17s (265 KB/s)

@@ -1,0 +1,656 @@
+2017-01-02 08:24:40 URL:http://www.wakefield.ma.us/ [37380] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/index.html" [1]
+2017-01-02 08:24:40 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/townlogo.ico 200 OK
+unlink: No such file or directory
+2017-01-02 08:24:41 URL: http://www.wakefield.ma.us/town-calendar/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 08:24:42 URL:http://www.wakefield.ma.us/about-wakefield [16731] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/about-wakefield" [1]
+2017-01-02 08:24:44 URL:http://www.wakefield.ma.us/wakefield-101-new-resident-open-house [18827] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/wakefield-101-new-resident-open-house" [1]
+2017-01-02 08:24:46 URL:http://www.wakefield.ma.us/wakefield-101-new-resident-open-house/webforms/registration-wakefield-101-new-resident-open-house [23180] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/wakefield-101-new-resident-open-house/webforms/registration-wakefield-101-new-resident-open-house" [1]
+2017-01-02 08:24:47 URL:http://www.wakefield.ma.us/home/pages/social-media-dashboard [18455] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/pages/social-media" [1]
+2017-01-02 08:24:54 URL:http://www.wakefield.ma.us/files [40782] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/files" [1]
+2017-01-02 08:24:59 URL:http://www.wakefield.ma.us/faqs [33625] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/faqs" [1]
+2017-01-02 08:25:00 URL:http://www.wakefield.ma.us/where [27880] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/where" [1]
+2017-01-02 08:25:01 URL:http://www.wakefield.ma.us/home/pages/visitor-center [11476] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/pages/visitor-center" [1]
+2017-01-02 08:25:02 URL:http://www.wakefield.ma.us/home/webforms/contact-us-0 [12724] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/webforms/contact-us-0" [1]
+2017-01-02 08:25:03 URL:http://www.wakefield.ma.us/print/111 [9419] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/print/111" [1]
+2017-01-02 08:25:04 URL:http://www.wakefield.ma.us/printmail/111 [10736] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/printmail/111" [1]
+2017-01-02 08:25:04 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/2016-wakefield-downtown_market_assessment_report_january_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:25:05 URL:http://www.wakefield.ma.us/home/pages/see-click-fix-report-a-problem-to-the-town [17739] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/pages/see-click-fix-report-a-problem-to-the-town" [1]
+2017-01-02 08:25:06 URL:http://www.wakefield.ma.us/home/pages/community-calendar [11172] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/pages/community-calendar" [1]
+2017-01-02 08:25:07 URL:http://www.wakefield.ma.us/departments [31632] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/departments" [1]
+2017-01-02 08:25:09 URL:http://www.wakefield.ma.us/public-works [45023] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/public-works" [1]
+2017-01-02 08:25:12 URL:http://www.wakefield.ma.us/town-clerk [30389] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-clerk" [1]
+2017-01-02 08:25:15 URL:http://www.wakefield.ma.us/inspectional-services-zoning [18427] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/building-department" [1]
+2017-01-02 08:25:18 URL:http://www.wakefield.ma.us/assessors [17901] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/assessors" [1]
+2017-01-02 08:25:19 URL:http://www.wakefield.ma.us/boards [29773] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/boards" [1]
+2017-01-02 08:25:22 URL:http://www.wakefield.ma.us/town-administrator [23566] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-administrator" [1]
+2017-01-02 08:25:25 URL:http://www.wakefield.ma.us/board-of-selectmen [25719] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/board-of-selectmen" [1]
+2017-01-02 08:25:27 URL:http://www.wakefield.ma.us/recreation-department [19903] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/recreation-department" [1]
+2017-01-02 08:25:30 URL:http://www.wakefield.ma.us/schools [18195] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/schools" [1]
+2017-01-02 08:25:31 URL:http://www.wakefield.ma.us/home/news/council-of-aging-board-vacancy [11720] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/news/council-of-aging-board-vacancy" [1]
+2017-01-02 08:25:32 URL:http://www.wakefield.ma.us/home/news/survey-albion-arts-corridor-strategy [13977] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/news/survey-albion-arts-corridor-strategy" [1]
+2017-01-02 08:25:33 URL:http://www.wakefield.ma.us/home/news/extreme-cold-wind-alert-december-14-17th [47784] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/news/extreme-cold-wind-alert-december-14-17th" [1]
+2017-01-02 08:25:34 URL:http://www.wakefield.ma.us/home/news/holiday-a-cappella-with-she-major-ace-center-dec-23rd [14429] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/news/holiday-a-cappella-with-she-major-ace-center-dec-23rd" [1]
+2017-01-02 08:25:35 URL:http://www.wakefield.ma.us/home/news/whrc-seeking-nominations-for-service-award [13088] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/news/whrc-seeking-nominations-for-service-award" [1]
+2017-01-02 08:25:36 URL:http://www.wakefield.ma.us/news/111 [27808] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/news/111" [1]
+2017-01-02 08:25:38 URL:http://www.wakefield.ma.us/town-calendar/2017-01 [27564] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-calendar/2017-01" [1]
+2017-01-02 08:25:39 URL:http://www.wakefield.ma.us/town-calendar/2017-01-04 [19255] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-calendar/2017-01-04" [1]
+2017-01-02 08:25:40 URL:http://www.wakefield.ma.us/town-calendar/2017-01-05 [17541] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-calendar/2017-01-05" [1]
+2017-01-02 08:25:41 URL:http://www.wakefield.ma.us/town-calendar/2017-01-09 [17540] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-calendar/2017-01-09" [1]
+2017-01-02 08:25:43 URL:http://www.wakefield.ma.us/home/events/22651 [10825] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/events/22651" [1]
+2017-01-02 08:25:44 URL:http://www.wakefield.ma.us/home/events/22671 [10846] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/events/22671" [1]
+2017-01-02 08:25:45 URL:http://www.wakefield.ma.us/home/events/22681 [10888] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/events/22681" [1]
+2017-01-02 08:25:46 URL:http://www.wakefield.ma.us/home/events/22661 [10850] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/events/22661" [1]
+2017-01-02 08:25:47 URL:http://www.wakefield.ma.us/home/events/22691 [10846] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/events/22691" [1]
+2017-01-02 08:25:48 URL:http://www.wakefield.ma.us/town-events-by-event-type/1291 [12314] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-events-by-event-type/1291" [1]
+2017-01-02 08:25:49 URL:http://www.wakefield.ma.us/user/login [10225] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/user/login" [1]
+2017-01-02 08:25:50 URL:http://www.wakefield.ma.us/website-disclaimer-and-privacy-policy [10199] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/node/468" [1]
+2017-01-02 08:25:51 URL:http://www.wakefield.ma.us/print/400 [9555] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/print/400" [1]
+2017-01-02 08:25:52 URL:http://www.wakefield.ma.us/printmail/400 [10758] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/printmail/400" [1]
+2017-01-02 08:25:53 URL: http://www.wakefield.ma.us/node/14321/feed 200 OK
+unlink: No such file or directory
+2017-01-02 08:25:54 URL:http://www.wakefield.ma.us/print/14321 [4979] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/print/14321" [1]
+2017-01-02 08:25:55 URL:http://www.wakefield.ma.us/printmail/14321 [10816] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/printmail/14321" [1]
+2017-01-02 08:25:56 URL:http://www.wakefield.ma.us/wakefield-101-new-resident-open-house/webforms/registration-wakefield-101-new-resident-open-house [23180] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/wakefield-101-new-resident-orientation/webforms/registration-wakefield-101-new-resident-orientation" [1]
+2017-01-02 08:25:58 URL:http://www.wakefield.ma.us/wakefield-101-new-resident-open-house [18827] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/wakefield-101-new-resident-orientation.1" [1]
+2017-01-02 08:25:59 URL:http://www.wakefield.ma.us/print/16761 [13232] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/print/16761" [1]
+2017-01-02 08:26:00 URL:http://www.wakefield.ma.us/printmail/16761 [10891] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/printmail/16761" [1]
+2017-01-02 08:26:01 URL:http://www.wakefield.ma.us/ [37380] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home.1" [1]
+2017-01-02 08:26:02 URL:http://www.wakefield.ma.us/print/2171 [9441] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/print/2171" [1]
+2017-01-02 08:26:03 URL:http://www.wakefield.ma.us/printmail/2171 [10789] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/printmail/2171" [1]
+2017-01-02 08:26:04 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/website_exemption_guide.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:05 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/state_forms_-_ie_commercial_and_industrial.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:05 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/state_forms_-_ie_mixed_use_property.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:06 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/state_forms_-_ie_apartment_use_property.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:07 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/insurance.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:08 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/gasfitting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:09 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/plumbing_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:10 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/electrical.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:11 URL:http://www.wakefield.ma.us/conservation-commission/files/abutter-notification-form [16179] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/conservation-commission/files/abutter-notification-form" [1]
+2017-01-02 08:26:12 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/the_economic_benefits_of_land_conservation.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:13 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/conservation-_an_investment_that_pays.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:14 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/affidavit_of_service_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:15 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/boit_fund.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:15 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/equipment_notice_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:16 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/health_services.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:17 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/applicationvolunteer_revised.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:18 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/transportation_service_and_guidelines.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:19 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/healthcompchart.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:20 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/statuschange.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:21 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/ultracard1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:22 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/hraoptout.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:22 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/oopattest.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:23 URL:http://www.wakefield.ma.us/node/5001/files [16332] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/node/5001/files" [1]
+2017-01-02 08:26:24 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/tobacco_reg_sales_2015_final.doc 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:25 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/private_well_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:26 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/well_drillers.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:27 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/underground_storage_tanks.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:28 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/title_5_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:29 URL:http://www.wakefield.ma.us/node/4406/files [15527] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/node/4406/files" [1]
+http://www.wakefieldpd.org/Pages/WakefieldPD_Forms/sor:
+Remote file does not exist -- broken link!!!
+http://www.mass.gov/eopss/docs/msp/divisions/standards-and-training/certification-unit/change-of-address.pdf:
+Remote file does not exist -- broken link!!!
+http://www.wakefieldpd.org/Pages/WakefieldPD_Forms/Police/0133453D-000F8513.0/gunapplication02252008.pdf:
+Remote file does not exist -- broken link!!!
+http://www.wakefieldpd.org/Pages/WakefieldPD_Forms/S012DEF41?Close=-1:
+Remote file does not exist -- broken link!!!
+http://www.wakefieldpd.org/Pages/WakefieldPD_Forms/dmv:
+Remote file does not exist -- broken link!!!
+2017-01-02 08:26:35 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/wdpwnewsletter_fall2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:36 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/recy_oct_14-dec_15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:36 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/drain_layers.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:37 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/summer_newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:38 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/donation-charity.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:39 URL:http://www.wakefield.ma.us/node/3816/files [22801] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/node/3816/files" [1]
+2017-01-02 08:26:40 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/retiree_rights.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:41 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/survivor.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:42 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/retirementguideafter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:43 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/2014w4p.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:44 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/change_address.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:45 URL:http://www.wakefield.ma.us/node/3476/files [10050] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/node/3476/files" [1]
+2017-01-02 08:26:46 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/kandr_office_locations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:47 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/request_for_municipal_lien_certificate.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:47 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/supplementalpropertytaxassessments.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:48 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/credit_card_fee_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:49 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/water_and_sewer_payments.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:50 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/events_packet.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:51 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/class_ii_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:52 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/class_i_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:53 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/taxi.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:53 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/app_common_victualler_entertainment.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:54 URL:http://www.wakefield.ma.us/node/5306/files [12179] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/node/5306/files" [1]
+2017-01-02 08:26:55 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/absentee_ballot_app._by_a_family_member.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:56 URL:http://www.wakefield.ma.us/town-clerk/files/2016-dog-license-application [19692] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-clerk/files/2016-dog-license-application" [1]
+2017-01-02 08:26:56 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/campaign_finance_report_-_ken_duval.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:58 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/finalprecinctmapcolorv2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:59 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/precinct_changes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:27:00 URL:http://www.wakefield.ma.us/node/4896/files [10750] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/node/4896/files" [1]
+2017-01-02 08:27:01 URL:http://www.wakefield.ma.us/town-planner/pages/2005-2010-open-space-plan [15051] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-planner/links/open-space-plan" [1]
+2017-01-02 08:27:03 URL:http://www.wakefield.ma.us/town-planner/pages/2003-housing-plan [16750] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-planner/links/housing-master-plan" [1]
+2017-01-02 08:27:05 URL:http://www.wakefield.ma.us/town-planner/pages/2004-econ-development-plan [16615] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-planner/links/economic-development-master-plan" [1]
+2017-01-02 08:27:06 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/rail_trail_study.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:27:07 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/rail_trail_map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:27:08 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/pot_perceptions.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:27:09 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/dfc_pr.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:27:10 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/paraphernalia.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:27:11 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/yrbs_gms.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:27:12 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/final_wakefield_alcohol_regs_11-13-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:27:12 URL:http://www.wakefield.ma.us/node/4731/files [10489] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/node/4731/files" [1]
+2017-01-02 08:27:13 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/paver.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:27:14 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/wwiidonerpaver12x12.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:27:15 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/wwiidonerpaver6x12.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:27:16 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/citizens.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:27:17 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/72_wakefield_citizens.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:27:18 URL:http://www.wakefield.ma.us/node/5336/files [10069] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/node/5336/files" [1]
+2017-01-02 08:27:19 URL:http://www.wakefield.ma.us/cemetery-division/faq/how-do-i-find-information-about-family-plots-lot-location-or-genealogy [19988] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/cemetery-division/faq/how-do-i-find-information-about-family-plots-lot-location-or-genealogy" [1]
+2017-01-02 08:27:20 URL:http://www.wakefield.ma.us/cemetery-division/faq/when-are-public-cemeteries-open [19607] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/cemetery-division/faq/when-are-public-cemeteries-open" [1]
+2017-01-02 08:27:21 URL:http://www.wakefield.ma.us/cemetery-division/faq/is-there-a-limit-to-the-number-of-graves-that-a-resident-can-purchase [19930] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/cemetery-division/faq/is-there-a-limit-to-the-number-of-graves-that-a-resident-can-purchase" [1]
+2017-01-02 08:27:22 URL:http://www.wakefield.ma.us/cemetery-division/faq/can-i-reserve-grave-sites-at-forest-glade-cemetery [19797] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/cemetery-division/faq/can-i-reserve-grave-sites-at-forest-glade-cemetery" [1]
+2017-01-02 08:27:23 URL:http://www.wakefield.ma.us/cemetery-division/faq/who-should-i-call-about-burial-at-forest-glade-cemetery [19875] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/cemetery-division/faq/who-should-i-call-about-burial-at-forest-glade-cemetery" [1]
+2017-01-02 08:27:24 URL:http://www.wakefield.ma.us/node/6801/faq [20499] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/node/6801/faq" [1]
+2017-01-02 08:27:25 URL:http://www.wakefield.ma.us/commission-on-disability-issues/faq/who-can-i-contact-to-receive-delivered-meals-or-other-human-serv [18375] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/commission-on-disability-issues/faq/who-can-i-contact-to-receive-delivered-meals-or-other-human-serv" [1]
+2017-01-02 08:27:26 URL:http://www.wakefield.ma.us/commission-on-disability-issues/faq/where-can-i-receive-help-or-information-about-alzheimers-disease [19309] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/commission-on-disability-issues/faq/where-can-i-receive-help-or-information-about-alzheimers-disease" [1]
+2017-01-02 08:27:27 URL:http://www.wakefield.ma.us/commission-on-disability-issues/faq/where-can-i-get-handicapped-equipment [18627] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/commission-on-disability-issues/faq/where-can-i-get-handicapped-equipment" [1]
+2017-01-02 08:27:28 URL:http://www.wakefield.ma.us/commission-on-disability-issues/faq/who-delivers-groceries-to-residents-of-wakefield [18243] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/commission-on-disability-issues/faq/who-delivers-groceries-to-residents-of-wakefield" [1]
+2017-01-02 08:27:29 URL:http://www.wakefield.ma.us/commission-on-disability-issues/faq/who-provides-hearing-impaired-telephone-service-in-massachusetts [19064] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/commission-on-disability-issues/faq/who-provides-hearing-impaired-telephone-service-in-massachusetts" [1]
+2017-01-02 08:27:30 URL:http://www.wakefield.ma.us/node/10636/faq [15091] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/node/10636/faq" [1]
+2017-01-02 08:27:31 URL:http://www.wakefield.ma.us/engineering-division/faq/who-should-i-call-if-i-notice-an-oily-or-dirty-discharge-from-a-storm-water [20110] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/engineering-division/faq/who-should-i-call-if-i-notice-an-oily-or-dirty-discharge-from-a-storm-water" [1]
+2017-01-02 08:27:33 URL:http://www.wakefield.ma.us/engineering-division/faq/who-should-i-call-if-i-see-someone-dumping-into-a-catch-basin [20027] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/engineering-division/faq/who-should-i-call-if-i-see-someone-dumping-into-a-catch-basin" [1]
+2017-01-02 08:27:34 URL:http://www.wakefield.ma.us/engineering-division/faq/does-the-town-pave-private-ways [19772] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/engineering-division/faq/does-the-town-pave-private-ways" [1]
+2017-01-02 08:27:35 URL:http://www.wakefield.ma.us/engineering-division/faq/does-the-dpw-have-flood-insurance-maps-developed-for-wakefield [19978] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/engineering-division/faq/does-the-dpw-have-flood-insurance-maps-developed-for-wakefield" [1]
+2017-01-02 08:27:36 URL:http://www.wakefield.ma.us/engineering-division/faq/where-can-i-find-information-about-street-layouts-town-easements-contours-a [20083] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/engineering-division/faq/where-can-i-find-information-about-street-layouts-town-easements-contours-a" [1]
+2017-01-02 08:27:37 URL:http://www.wakefield.ma.us/node/6781/faq [22295] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/node/6781/faq" [1]
+2017-01-02 08:27:38 URL:http://www.wakefield.ma.us/forestry-division/faq/i-have-an-empty-town-tree-well-in-front-of-my-house-will-the-dpw-plant-a-tree- [20166] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/forestry-division/faq/i-have-an-empty-town-tree-well-in-front-of-my-house-will-the-dpw-plant-a-tree-" [1]
+2017-01-02 08:27:39 URL:http://www.wakefield.ma.us/forestry-division/faq/tree-roots-are-pushing-up-the-sidewalk-in-front-of-my-house-what-can-i-do [20094] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/forestry-division/faq/tree-roots-are-pushing-up-the-sidewalk-in-front-of-my-house-what-can-i-do" [1]
+2017-01-02 08:27:40 URL:http://www.wakefield.ma.us/forestry-division/faq/i-think-the-tree-in-front-of-my-house-is-hazardous-can-the-dpw-remove-it [20206] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/forestry-division/faq/i-think-the-tree-in-front-of-my-house-is-hazardous-can-the-dpw-remove-it" [1]
+2017-01-02 08:27:41 URL:http://www.wakefield.ma.us/forestry-division/faq/will-the-dpw-remove-a-tree-on-my-property [19687] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/forestry-division/faq/will-the-dpw-remove-a-tree-on-my-property" [1]
+2017-01-02 08:27:42 URL:http://www.wakefield.ma.us/forestry-division/faq/what-should-i-do-if-a-public-shade-tree-falls [19822] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/forestry-division/faq/what-should-i-do-if-a-public-shade-tree-falls" [1]
+2017-01-02 08:27:44 URL:http://www.wakefield.ma.us/node/6811/faq [20641] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/node/6811/faq" [1]
+2017-01-02 08:27:45 URL:http://www.wakefield.ma.us/highway-division/faq/when-are-streets-swept [19624] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/highway-division/faq/when-are-streets-swept" [1]
+2017-01-02 08:27:46 URL:http://www.wakefield.ma.us/highway-division/faq/i%E2%80%99ve-noticed-an-oilydirty-discharge-coming-from-a-stormwater-outfall-what-shoul [20128] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/highway-division/faq/iâ%80%99ve-noticed-an-oilydirty-discharge-coming-from-a-stormwater-outfall-what-shoul" [1]
+2017-01-02 08:27:47 URL:http://www.wakefield.ma.us/highway-division/faq/i%E2%80%99ve-seen-someone-dumping-into-a-catch-basin-what-should-i-do [20008] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/highway-division/faq/iâ%80%99ve-seen-someone-dumping-into-a-catch-basin-what-should-i-do" [1]
+2017-01-02 08:27:48 URL:http://www.wakefield.ma.us/highway-division/faq/how-can-i-maintain-the-catch-basin-cover-near-my-house [19899] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/highway-division/faq/how-can-i-maintain-the-catch-basin-cover-near-my-house" [1]
+2017-01-02 08:27:49 URL:http://www.wakefield.ma.us/highway-division/faq/does-the-town-pave-private-ways [19729] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/highway-division/faq/does-the-town-pave-private-ways" [1]
+2017-01-02 08:27:50 URL:http://www.wakefield.ma.us/node/6786/faq [21282] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/node/6786/faq" [1]
+2017-01-02 08:27:51 URL:http://www.wakefield.ma.us/park-division/faq/who-controls-the-lighting-at-the-artificial-fields [19826] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/park-division/faq/who-controls-the-lighting-at-the-artificial-fields" [1]
+2017-01-02 08:27:52 URL:http://www.wakefield.ma.us/park-division/faq/are-the-bathroom-facilities-at-landrigan-field-available-for-use [19922] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/park-division/faq/are-the-bathroom-facilities-at-landrigan-field-available-for-use" [1]
+2017-01-02 08:27:53 URL:http://www.wakefield.ma.us/park-division/faq/can-i-use-the-concession-stand-at-landrigan-field [19775] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/park-division/faq/can-i-use-the-concession-stand-at-landrigan-field" [1]
+2017-01-02 08:27:54 URL:http://www.wakefield.ma.us/park-division/faq/where-can-i-find-rules-for-use-of-artificial-fields-or-tennis-courts [19878] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/park-division/faq/where-can-i-find-rules-for-use-of-artificial-fields-or-tennis-courts" [1]
+2017-01-02 08:27:55 URL:http://www.wakefield.ma.us/park-division/faq/how-do-i-reserve-a-common-ground-area-for-a-special-event [19833] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/park-division/faq/how-do-i-reserve-a-common-ground-area-for-a-special-event" [1]
+2017-01-02 08:27:56 URL:http://www.wakefield.ma.us/node/6816/faq [20613] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/node/6816/faq" [1]
+2017-01-02 08:27:57 URL:http://www.wakefield.ma.us/parking-clerk/faq/is-there-a-winter-parking-ban-in-wakefield [12727] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/parking-clerk/faq/is-there-a-winter-parking-ban-in-wakefield" [1]
+2017-01-02 08:27:58 URL:http://www.wakefield.ma.us/parking-clerk/faq/how-do-i-appeal-a-parking-ticket [12642] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/parking-clerk/faq/how-do-i-appeal-a-parking-ticket" [1]
+2017-01-02 08:27:59 URL:http://www.wakefield.ma.us/parking-clerk/faq/how-can-i-pay-my-parking-ticket [12599] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/parking-clerk/faq/how-can-i-pay-my-parking-ticket" [1]
+2017-01-02 08:28:00 URL:http://www.wakefield.ma.us/parking-clerk/faq/i-am-unable-to-renew-my-license-registration [12667] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/parking-clerk/faq/i-am-unable-to-renew-my-license-registration" [1]
+2017-01-02 08:28:02 URL:http://www.wakefield.ma.us/parking-clerk/faq/what-happens-if-i-do-not-pay-a-parking-ticket [12624] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/parking-clerk/faq/what-happens-if-i-do-not-pay-a-parking-ticket" [1]
+2017-01-02 08:28:03 URL:http://www.wakefield.ma.us/node/3916/faq [10667] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/node/3916/faq" [1]
+2017-01-02 08:28:04 URL:http://www.wakefield.ma.us/refuse-recycling-yard-waste/faq/where-can-i-find-more-information-about-wakefield-refuse-recycling-h [21984] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/refuse-recycling-yard-waste/faq/where-can-i-find-more-information-about-wakefield-refuse-recycling-h" [1]
+2017-01-02 08:28:05 URL:http://www.wakefield.ma.us/refuse-recycling-yard-waste/faq/why-wasn%E2%80%99t-my-trash-or-recycling-picked-up [22322] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/refuse-recycling-yard-waste/faq/why-wasnâ%80%99t-my-trash-or-recycling-picked-up" [1]
+2017-01-02 08:28:06 URL:http://www.wakefield.ma.us/refuse-recycling-yard-waste/faq/when-is-hazardous-waste-day [21573] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/refuse-recycling-yard-waste/faq/when-is-hazardous-waste-day" [1]
+2017-01-02 08:28:07 URL:http://www.wakefield.ma.us/sewer-division/faq/there-are-tree-roots-in-my-sewer-service-line-what-should-i-do [21955] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/sewer-division/faq/there-are-tree-roots-in-my-sewer-service-line-what-should-i-do" [1]
+2017-01-02 08:28:08 URL:http://www.wakefield.ma.us/sewer-division/faq/there-is-a-strong-sewer-odor-in-my-area-what-is-causing-this-and-what-should-i-do [22490] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/sewer-division/faq/there-is-a-strong-sewer-odor-in-my-area-what-is-causing-this-and-what-should-i-do" [1]
+2017-01-02 08:28:09 URL:http://www.wakefield.ma.us/sewer-division/faq/who-should-i-call-if-i-sewage-is-backing-up-into-my-home [22035] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/sewer-division/faq/who-should-i-call-if-i-sewage-is-backing-up-into-my-home" [1]
+2017-01-02 08:28:10 URL:http://www.wakefield.ma.us/sewer-division/faq/as-a-homeowner-what-portion-of-the-sewer-service-is-my-responsibility [22048] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/sewer-division/faq/as-a-homeowner-what-portion-of-the-sewer-service-is-my-responsibility" [1]
+2017-01-02 08:28:11 URL:http://www.wakefield.ma.us/sewer-division/faq/the-sewer-pipe-from-the-street-to-my-house-needs-to-be-repaired-who-should-i-cont [22115] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/sewer-division/faq/the-sewer-pipe-from-the-street-to-my-house-needs-to-be-repaired-who-should-i-cont" [1]
+2017-01-02 08:28:12 URL:http://www.wakefield.ma.us/snow-ice-removal/faq/what-should-i-do-if-my-lawn-or-fence-is-damaged-during-a-storm [20445] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/snow-ice-removal/faq/what-should-i-do-if-my-lawn-or-fence-is-damaged-during-a-storm" [1]
+2017-01-02 08:28:13 URL:http://www.wakefield.ma.us/snow-ice-removal/faq/what-should-i-do-if-a-plow-damages-my-mailbox-or-front-lawn [20473] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/snow-ice-removal/faq/what-should-i-do-if-a-plow-damages-my-mailbox-or-front-lawn" [1]
+2017-01-02 08:28:14 URL:http://www.wakefield.ma.us/snow-ice-removal/faq/can-i-get-sand-and-salt [20056] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/snow-ice-removal/faq/can-i-get-sand-and-salt" [1]
+2017-01-02 08:28:16 URL:http://www.wakefield.ma.us/snow-ice-removal/faq/if-my-car-is-towed-where-can-i-recover-it [20351] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/snow-ice-removal/faq/if-my-car-is-towed-where-can-i-recover-it" [1]
+2017-01-02 08:28:17 URL:http://www.wakefield.ma.us/snow-ice-removal/faq/will-trash-and-recyclables-be-collected-during-a-snowstorm [20533] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/snow-ice-removal/faq/will-trash-and-recyclables-be-collected-during-a-snowstorm" [1]
+2017-01-02 08:28:18 URL:http://www.wakefield.ma.us/node/8491/faq [21819] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/node/8491/faq" [1]
+2017-01-02 08:28:19 URL:http://www.wakefield.ma.us/stormwater/faq/is-this-program-npdes-funded-by-the-state-or-federal-government [20737] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/stormwater/faq/is-this-program-npdes-funded-by-the-state-or-federal-government" [1]
+2017-01-02 08:28:20 URL:http://www.wakefield.ma.us/stormwater/faq/what-is-the-national-pollutant-discharge-elimination-system-npdes [20894] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/stormwater/faq/what-is-the-national-pollutant-discharge-elimination-system-npdes" [1]
+2017-01-02 08:28:21 URL:http://www.wakefield.ma.us/stormwater/faq/where-does-storm-water-go-after-it-enters-a-storm-drain [20741] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/stormwater/faq/where-does-storm-water-go-after-it-enters-a-storm-drain" [1]
+2017-01-02 08:28:22 URL:http://www.wakefield.ma.us/stormwater/faq/what-happens-to-pollutants-that-enter-storm-drains-and-inlets [20721] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/stormwater/faq/what-happens-to-pollutants-that-enter-storm-drains-and-inlets" [1]
+2017-01-02 08:28:24 URL:http://www.wakefield.ma.us/stormwater/faq/why-is-storm-water-management-important [20893] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/stormwater/faq/why-is-storm-water-management-important" [1]
+2017-01-02 08:28:25 URL:http://www.wakefield.ma.us/node/8551/faq [19619] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/node/8551/faq" [1]
+2017-01-02 08:28:26 URL:http://www.wakefield.ma.us/tax-collector/faq/i-received-a-personal-property-tax-bill-but-no-longer-own-a-business-in-wakefield- [14774] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/tax-collector/faq/i-received-a-personal-property-tax-bill-but-no-longer-own-a-business-in-wakefield-" [1]
+2017-01-02 08:28:27 URL:http://www.wakefield.ma.us/tax-collector/faq/what-is-the-refund-policy [16073] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/tax-collector/faq/what-is-the-refund-policy" [1]
+2017-01-02 08:28:28 URL:http://www.wakefield.ma.us/tax-collector/faq/what-if-my-check-is-returned [14231] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/tax-collector/faq/what-if-my-check-is-returned" [1]
+2017-01-02 08:28:28 URL:http://www.wakefield.ma.us/tax-collector/faq/someone-else-paid-my-real-estate-taxes-what-should-i-do [14958] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/tax-collector/faq/someone-else-paid-my-real-estate-taxes-what-should-i-do" [1]
+2017-01-02 08:28:30 URL:http://www.wakefield.ma.us/tax-collector/faq/what-if-my-payment-was-not-credited-to-my-account [15556] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/tax-collector/faq/what-if-my-payment-was-not-credited-to-my-account" [1]
+2017-01-02 08:28:31 URL:http://www.wakefield.ma.us/node/3776/faq [15981] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/node/3776/faq" [1]
+2017-01-02 08:28:32 URL:http://www.wakefield.ma.us/water-division/faq/does-wakefield-water-contain-lead [21164] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/water-division/faq/does-wakefield-water-contain-lead" [1]
+2017-01-02 08:28:33 URL:http://www.wakefield.ma.us/water-division/faq/how-can-i-get-more-information-about-lead-in-my-drinking-water [20740] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/water-division/faq/how-can-i-get-more-information-about-lead-in-my-drinking-water" [1]
+2017-01-02 08:28:34 URL:http://www.wakefield.ma.us/water-division/faq/does-the-town-test-drinking-water [20247] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/water-division/faq/does-the-town-test-drinking-water" [1]
+2017-01-02 08:28:35 URL:http://www.wakefield.ma.us/water-division/faq/how-do-you-measure-water-usage [20099] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/water-division/faq/how-do-you-measure-water-usage" [1]
+2017-01-02 08:28:36 URL:http://www.wakefield.ma.us/water-division/faq/how-often-will-i-receive-a-bill-for-water-and-sewer-service [20432] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/water-division/faq/how-often-will-i-receive-a-bill-for-water-and-sewer-service" [1]
+2017-01-02 08:28:37 URL:http://www.wakefield.ma.us/node/6826/faq [22268] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/node/6826/faq" [1]
+2017-01-02 08:28:38 URL:http://www.wakefield.ma.us/where/2 [11047] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/where/2" [1]
+2017-01-02 08:28:39 URL:http://www.wakefield.ma.us/where/a [12282] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/where/a" [1]
+2017-01-02 08:28:40 URL:http://www.wakefield.ma.us/where/b [11512] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/where/b" [1]
+2017-01-02 08:28:41 URL:http://www.wakefield.ma.us/where/c [11295] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/where/c" [1]
+2017-01-02 08:28:41 URL:http://www.wakefield.ma.us/where/d [11878] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/where/d" [1]
+2017-01-02 08:28:42 URL:http://www.wakefield.ma.us/where/e [12089] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/where/e" [1]
+2017-01-02 08:28:44 URL:http://www.wakefield.ma.us/where/f [11277] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/where/f" [1]
+2017-01-02 08:28:44 URL:http://www.wakefield.ma.us/where/h [12111] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/where/h" [1]
+2017-01-02 08:28:45 URL:http://www.wakefield.ma.us/where/i [11336] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/where/i" [1]
+2017-01-02 08:28:46 URL:http://www.wakefield.ma.us/where/l [11008] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/where/l" [1]
+2017-01-02 08:28:47 URL:http://www.wakefield.ma.us/where/m [11317] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/where/m" [1]
+2017-01-02 08:28:48 URL:http://www.wakefield.ma.us/where/o [11033] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/where/o" [1]
+2017-01-02 08:28:49 URL:http://www.wakefield.ma.us/where/p [11046] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/where/p" [1]
+2017-01-02 08:28:50 URL:http://www.wakefield.ma.us/where/r [11762] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/where/r" [1]
+2017-01-02 08:28:51 URL:http://www.wakefield.ma.us/where/s [12908] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/where/s" [1]
+2017-01-02 08:28:52 URL:http://www.wakefield.ma.us/where/t [12210] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/where/t" [1]
+2017-01-02 08:28:53 URL:http://www.wakefield.ma.us/where/v [11880] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/where/v" [1]
+2017-01-02 08:28:54 URL:http://www.wakefield.ma.us/where/w [11042] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/where/w" [1]
+2017-01-02 08:28:55 URL:http://www.wakefield.ma.us/where/y [11044] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/where/y" [1]
+2017-01-02 08:28:56 URL:http://www.wakefield.ma.us/assessors/pages/4-general-real-estate-abatement-info [18114] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/assessors/pages/4-general-real-estate-abatement-info" [1]
+2017-01-02 08:28:59 URL:http://www.wakefield.ma.us/accounting [18699] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/accounting/links/accounting" [1]
+2017-01-02 08:29:02 URL:http://www.wakefield.ma.us/town-administrator [23566] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-administrator/links/administrator" [1]
+2017-01-02 08:29:05 URL:http://www.wakefield.ma.us/animal-inspector [17720] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/animal-inspector/links/animal-inspector" [1]
+2017-01-02 08:29:06 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/who_do_i_call_regarding_raccoons.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:29:09 URL:http://www.wakefield.ma.us/assessors [17901] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/assessors/links/assessors" [1]
+2017-01-02 08:29:12 URL:http://www.wakefield.ma.us/board-of-health [17591] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/board-of-health/links/board-of-health" [1]
+2017-01-02 08:29:15 URL:http://www.wakefield.ma.us/board-of-selectmen [25719] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/board-of-selectmen/links/board-of-selectmen" [1]
+2017-01-02 08:29:17 URL:http://www.ecode360.com/WA1512 [44244] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/links/town-bylaws" [1]
+2017-01-02 08:29:18 URL:http://www.wakefield.ma.us/public-works/pages/contact-directory [23700] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/public-works/pages/contact-directory" [1]
+2017-01-02 08:29:22 URL:http://www.wakefield.ma.us/council-on-aging-senior-center [155752] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/council-on-aging-senior-center/links/council-on-aging" [1]
+http://www.mass.gov/perac_renamed_20141027_donotdeleteuntillaunch/disunit/CMEguide.htm:
+Remote file does not exist -- broken link!!!
+2017-01-02 08:29:25 URL:http://www.wakefield.ma.us/refuse-recycling-yard-waste/pages/disposal-of-unusual-items [22821] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/refuse-recycling-yard-waste/pages/disposal-of-unusual-items" [1]
+http://www.wakefieldpd.org/Pages/WakefieldPD_Programs/domesticabuse:
+Remote file does not exist -- broken link!!!
+2017-01-02 08:29:26 URL:http://www.wakefield.ma.us/home/files/downtown-wakefield-market-assessment-report-january-2016 [11051] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/files/downtown-wakefield-market-assessment-report-january-2016" [1]
+2017-01-02 08:29:27 URL:http://www.wakefield.ma.us/town-planner/pages/2004-econ-development-plan [16615] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-planner/pages/2004-econ-development-plan" [1]
+2017-01-02 08:29:30 URL:http://www.wakefield.ma.us/emergency-management [16463] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/emergency-management/links/emergency-management" [1]
+2017-01-02 08:29:31 URL:http://www.wakefield.ma.us/health-department/pages/emergency-preparedness [17071] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/health-department/pages/emergency-preparedness" [1]
+2017-01-02 08:29:32 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/emplappl_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:29:35 URL:http://www.wakefield.ma.us/user/login?destination=node%2F3806 [10321] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/fire-department/links/fire-department" [1]
+2017-01-02 08:29:36 URL:http://wakefieldfire.org/fireprev.html [5444/5444] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/fire-department/links/fire-prevention" [1]
+2017-01-02 08:29:37 URL:http://www.wakefield.ma.us/refuse-recycling-yard-waste/pages/holidays-and-trash-schedule [22000] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/refuse-recycling-yard-waste/pages/holidays-and-trash-schedule" [1]
+2017-01-02 08:29:38 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/haz_waste_sept.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:29:39 URL:http://www.wakefield.ma.us/health-department/pages/housing-inspections [19186] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/health-department/pages/housing-inspections" [1]
+2017-01-02 08:29:40 URL:http://www.wakefield.ma.us/town-planner/pages/2003-housing-plan [16750] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-planner/pages/2003-housing-plan" [1]
+2017-01-02 08:29:41 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/how_to_open_a_business.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:29:42 URL:http://www.wakefield.ma.us/public-works/webforms/information-request [23840] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/public-works/webforms/information-request" [1]
+2017-01-02 08:29:45 URL:http://www.wakefield.ma.us/beebe-library [17326] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/beebe-library/links/library" [1]
+2017-01-02 08:29:46 URL:http://www.wakefield.ma.us/health-department/pages/medication-sharps-disposal [18048] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/health-department/pages/medication-sharps-disposal" [1]
+2017-01-02 08:29:47 URL:http://www.wakefield.ma.us/health-department/pages/mosquitoes-ticks [21392] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/health-department/pages/mosquitoes-ticks" [1]
+2017-01-02 08:29:48 URL:http://www.wakefield.ma.us/town-planner/pages/2005-2010-open-space-plan [15051] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-planner/pages/2005-2010-open-space-plan" [1]
+2017-01-02 08:29:49 URL:http://www.wakefield.ma.us/assessors/files/7-property-taxes-valuation [17896] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/assessors/files/7-property-taxes-valuation" [1]
+2017-01-02 08:29:53 URL:http://www.wakefield.ma.us/recreation-department [19903] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/recreation/links/recreation" [1]
+2017-01-02 08:29:54 URL:http://www.wakefield.ma.us/public-works/pages/refuse-recycling [22180] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/public-works/pages/refuse-recycling" [1]
+2017-01-02 08:29:58 URL:http://www.wakefield.ma.us/retirement [26954] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/retirement-board/links/retirement" [1]
+2017-01-02 08:30:01 URL:http://www.wakefield.ma.us/schools [18195] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/schools/links/schools" [1]
+http://www.wakefieldpd.org/Pages/WakefieldPD_Programs/senior:
+Remote file does not exist -- broken link!!!
+2017-01-02 08:30:03 URL:http://www.wakefield.ma.us/council-on-aging-senior-center/pages/transporation [148646] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/council-on-aging-senior-center/pages/transporation" [1]
+2017-01-02 08:30:04 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/snow_ice_brochure_2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:30:06 URL:http://www.wakefield.ma.us/public-works/pages/street-opening-permits [21383] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/public-works/pages/street-opening-permits" [1]
+2017-01-02 08:30:09 URL:http://www.wakefield.ma.us/tax-collector [21541] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/tax-collector/links/tax-collector" [1]
+2017-01-02 08:30:12 URL:http://www.wakefield.ma.us/town-clerk [30389] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-clerk/links/town-clerk" [1]
+2017-01-02 08:30:13 URL:http://www.wakefield.ma.us/town-counsel/pages/town-code [14049] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-counsel/pages/town-code" [1]
+2017-01-02 08:30:14 URL:http://www.ecode360.com/WA1512 [44244] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/building-inspector/links/town-ecode" [1]
+2017-01-02 08:30:15 URL:http://www.wakefield.ma.us/home/pages/town-goverment [10390] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/pages/town-goverment" [1]
+2017-01-02 08:30:18 URL:http://www.wakefield.ma.us/town-treasurer [17324] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-treasurer/links/treasurer" [1]
+2017-01-02 08:30:21 URL:http://www.wakefield.ma.us/veterans-services [13708] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/veterans-services/links/veterans-services" [1]
+2017-01-02 08:30:23 URL:http://www.waavonline.org/ [33158] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/health-department/links/violence-wakefield-alliance-against" [1]
+2017-01-02 08:30:24 URL:http://www.wakefield.ma.us/town-clerk/pages/voting-enrollment-info-2016 [18084] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-clerk/pages/voting-enrollment-info-2016" [1]
+2017-01-02 08:30:26 URL:http://www.wakefield.ma.us/refuse-recycling-yard-waste/pages/yard-waste-permits [22058] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/refuse-recycling-yard-waste/pages/yard-waste-permits" [1]
+2017-01-02 08:30:27 URL:http://www.wakefield.ma.us/print/5296 [4263] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/print/5296" [1]
+2017-01-02 08:30:28 URL:http://www.wakefield.ma.us/printmail/5296 [10773] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/printmail/5296" [1]
+2017-01-02 08:30:29 URL:http://www.wakefield.ma.us/home/pages/wakefield-things-to-do-guide [16854] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/pages/wakefield-things-to-do-guide" [1]
+2017-01-02 08:30:29 URL:http://www.wakefield.ma.us/home/pages/wakefield-restaurants [24101] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/pages/wakefield-restaurants" [1]
+2017-01-02 08:30:31 URL:http://www.wakefield.ma.us/print/2161 [5637] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/print/2161" [1]
+2017-01-02 08:30:32 URL:http://www.wakefield.ma.us/printmail/2161 [10770] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/printmail/2161" [1]
+2017-01-02 08:30:33 URL:http://www.wakefield.ma.us/departments [31632] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/og" [1]
+2017-01-02 08:30:34 URL:http://www.wakefield.ma.us/print/20881 [10215] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/print/20881" [1]
+2017-01-02 08:30:35 URL:http://www.wakefield.ma.us/printmail/20881 [10837] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/printmail/20881" [1]
+2017-01-02 08:30:36 URL:http://www.wakefield.ma.us/print/15211 [4065] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/print/15211" [1]
+2017-01-02 08:30:37 URL:http://www.wakefield.ma.us/printmail/15211 [10788] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/printmail/15211" [1]
+2017-01-02 08:30:37 URL:http://www.wakefield.ma.us/accounting [18699] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/accounting.1" [1]
+2017-01-02 08:30:40 URL:http://www.wakefield.ma.us/americal-civic-center [20764] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/americal-civic-center-0" [1]
+2017-01-02 08:30:41 URL:http://www.wakefield.ma.us/animal-inspector [17720] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/animal-inspector.1" [1]
+2017-01-02 08:30:41 URL:http://www.wakefield.ma.us/beebe-library [17326] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/beebe-library.1" [1]
+2017-01-02 08:30:44 URL:http://www.wakefield.ma.us/board-of-appeals [22010] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/board-of-appeals" [1]
+2017-01-02 08:30:45 URL:http://www.wakefield.ma.us/council-on-aging-senior-center [155752] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/council-on-aging-senior-center.1" [1]
+2017-01-02 08:30:45 URL:http://www.wakefield.ma.us/emergency-management [16463] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/emergency-management.1" [1]
+2017-01-02 08:30:48 URL:http://www.wakefield.ma.us/employee-benefits [18504] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/employee-benefits" [1]
+2017-01-02 08:30:51 URL:http://www.wakefield.ma.us/health-department [44446] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/health-department.1" [1]
+2017-01-02 08:30:54 URL:http://www.wakefield.ma.us/information-technology [15300] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/information-technology" [1]
+2017-01-02 08:30:56 URL:http://www.wakefield.ma.us/inspectional-services-zoning [18427] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/inspectional-services-zoning" [1]
+2017-01-02 08:30:59 URL:http://www.wakefield.ma.us/municipal-gas-light-department-mgld [18455] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/municipal-gas-light-department-mgld" [1]
+2017-01-02 08:31:01 URL:http://www.wakefield.ma.us/parking-clerk [20261] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/parking-clerk.1" [1]
+2017-01-02 08:31:02 URL:http://www.wakefield.ma.us/retirement [26954] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/retirement" [1]
+2017-01-02 08:31:02 URL:http://www.wakefield.ma.us/tax-collector [21541] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/tax-collector.1" [1]
+2017-01-02 08:31:05 URL:http://www.wakefield.ma.us/town-counsel [17550] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-counsel.1" [1]
+2017-01-02 08:31:08 URL:http://www.wakefield.ma.us/town-planner [19059] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-planner.1" [1]
+2017-01-02 08:31:08 URL:http://www.wakefield.ma.us/town-treasurer [17324] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-treasurer.1" [1]
+2017-01-02 08:31:09 URL:http://www.wakefield.ma.us/veterans-services [13708] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/veterans-services.1" [1]
+2017-01-02 08:31:12 URL:http://www.wakefield.ma.us/wake-up-wakefield-unified-prevention-substance-abuse [16821] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/wake-up-wakefield-unified-prevention-substance-abuse" [1]
+2017-01-02 08:31:14 URL:http://www.wakefield.ma.us/world-war-ii-memorial [17424] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/world-war-ii-memorial" [1]
+2017-01-02 08:31:15 URL: http://www.wakefield.ma.us/node/3816/feed 200 OK
+unlink: No such file or directory
+2017-01-02 08:31:16 URL: http://www.wakefield.ma.us/node/3816/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 08:31:18 URL:http://www.wakefield.ma.us/divisions [23829] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/divisions" [1]
+2017-01-02 08:31:20 URL:http://www.wakefield.ma.us/building-division [22080] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/building-division" [1]
+2017-01-02 08:31:23 URL:http://www.wakefield.ma.us/cemetery-division [24547] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/cemetery-division.1" [1]
+2017-01-02 08:31:26 URL:http://www.wakefield.ma.us/engineering-division [22453] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/engineering-division.1" [1]
+2017-01-02 08:31:28 URL:http://www.wakefield.ma.us/fleet-division [20297] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/fleet-division" [1]
+2017-01-02 08:31:30 URL:http://www.wakefield.ma.us/forestry-division [22589] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/forestry-division.1" [1]
+2017-01-02 08:31:33 URL:http://www.wakefield.ma.us/highway-division [23999] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/highway-division.1" [1]
+2017-01-02 08:31:36 URL:http://www.wakefield.ma.us/park-division [37951] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/park-division.1" [1]
+2017-01-02 08:31:38 URL:http://www.wakefield.ma.us/sewer-division [30749] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/sewer-division.1" [1]
+2017-01-02 08:31:41 URL:http://www.wakefield.ma.us/water-division [30981] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/water-division.1" [1]
+2017-01-02 08:31:44 URL:http://www.wakefield.ma.us/refuse-recycling-yard-waste [39710] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/refuse-recycling-yard-waste.1" [1]
+2017-01-02 08:31:46 URL:http://www.wakefield.ma.us/snow-ice-removal [28720] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/snow-ice-removal.1" [1]
+2017-01-02 08:31:49 URL:http://www.wakefield.ma.us/stormwater [26311] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/stormwater.1" [1]
+2017-01-02 08:31:51 URL:http://www.wakefield.ma.us/print/3816 [14425] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/print/3816" [1]
+2017-01-02 08:31:52 URL:http://www.wakefield.ma.us/printmail/3816 [10758] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/printmail/3816" [1]
+2017-01-02 08:31:52 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/droughtnotice-081116.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:31:52 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/npww-wakefieldproclamation-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:31:54 URL:http://www.wakefield.ma.us/public-works/pages/permits-fees [23696] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/public-works/pages/permits-fees" [1]
+2017-01-02 08:31:55 URL:http://www.wakefield.ma.us/subscribe [14889] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/subscribe" [1]
+2017-01-02 08:31:56 URL:http://www.wakefield.ma.us/building-division/pages/forms-applications [22592] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/building-division/pages/forms-applications" [1]
+2017-01-02 08:31:57 URL:http://www.wakefield.ma.us/public-works/pages/friends-of-lake-quannapowitt [20835] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/public-works/pages/friends-of-lake-quannapowitt" [1]
+2017-01-02 08:31:58 URL:http://www.wakefield.ma.us/public-works/pages/gallery-of-photos [23951] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/public-works/pages/gallery-of-photos" [1]
+2017-01-02 08:31:59 URL:http://www.wakefield.ma.us/public-works/pages/map-library [23919] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/public-works/pages/map-library" [1]
+2017-01-02 08:32:00 URL:http://www.wakefield.ma.us/public-works/news/refuse-recycling-collection-for-the-week-of-january-2nd-delayed-one-day [23249] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/public-works/news/refuse-recycling-collection-for-the-week-of-january-2nd-delayed-one-day" [1]
+2017-01-02 08:32:02 URL:http://www.wakefield.ma.us/public-works/news/christmas-tree-pickup-2016 [21385] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/public-works/news/christmas-tree-pickup-2016" [1]
+2017-01-02 08:32:03 URL:http://www.wakefield.ma.us/public-works/news/roadway-improvements-2017 [22300] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/public-works/news/roadway-improvements-2017" [1]
+2017-01-02 08:32:04 URL:http://www.wakefield.ma.us/public-works/news/roadway-improvements-november-2016 [22743] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/public-works/news/roadway-improvements-november-2016" [1]
+2017-01-02 08:32:05 URL:http://www.wakefield.ma.us/public-works/news/water-main-replacement-avon-street-yale-avenue [23416] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/public-works/news/water-main-replacement-avon-street-yale-avenue" [1]
+2017-01-02 08:32:06 URL:http://www.wakefield.ma.us/node/3816/news [32246] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/node/3816/news" [1]
+2017-01-02 08:32:07 URL:http://www.wakefield.ma.us/node/3816/events/2017-01 [29549] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/node/3816/events/2017-01" [1]
+2017-01-02 08:32:08 URL: http://www.wakefield.ma.us/node/4896/feed 200 OK
+unlink: No such file or directory
+2017-01-02 08:32:08 URL: http://www.wakefield.ma.us/node/4896/events/ical/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 08:32:10 URL:http://www.wakefield.ma.us/print/4896 [6469] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/print/4896" [1]
+2017-01-02 08:32:11 URL:http://www.wakefield.ma.us/printmail/4896 [10754] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/printmail/4896" [1]
+2017-01-02 08:32:12 URL:http://www.wakefield.ma.us/users/bsheeran/contact [11911] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/users/bsheeran/contact" [1]
+2017-01-02 08:32:13 URL:http://www.wakefield.ma.us/users/rmorgan/contact [11897] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/users/rmorgan/contact" [1]
+2017-01-02 08:32:14 URL:http://www.wakefield.ma.us/people/denise-oates [11730] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/people/denise-oates" [1]
+2017-01-02 08:32:15 URL:http://www.wakefield.ma.us/town-clerk/pages/2016-annual-street-listing [14413] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-clerk/pages/2016-annual-street-listing" [1]
+2017-01-02 08:32:16 URL:http://www.wakefield.ma.us/town-clerk/pages/applications-forms-fees-licenses-certificates [24873] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-clerk/pages/applications-forms-fees-licenses-certificates" [1]
+2017-01-02 08:32:19 URL:http://www.wakefield.ma.us/board-of-selectmen [25719] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-clerk/links/board-of-selectman" [1]
+2017-01-02 08:32:20 URL:http://www.wakefield.ma.us/town-clerk/pages/dba-information [22362] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-clerk/pages/dba-information" [1]
+2017-01-02 08:32:21 URL:http://www.wakefield.ma.us/town-clerk/pages/state-federal-officials [23074] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-clerk/pages/state-federal-officials" [1]
+2017-01-02 08:32:24 URL:http://www.wakefield.ma.us/town-administrator [23566] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-clerk/links/town-administrator" [1]
+2017-01-02 08:32:25 URL:http://www.wakefield.ma.us/town-clerk/pages/town-clerks-report-tv [14426] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-clerk/pages/town-clerks-report-tv" [1]
+2017-01-02 08:32:26 URL:http://www.wakefield.ma.us/town-clerk/pages/town-government [14916] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-clerk/pages/town-government" [1]
+2017-01-02 08:32:27 URL:http://www.wakefield.ma.us/town-clerk/pages/voting-elections [16110] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-clerk/pages/voting-elections" [1]
+2017-01-02 08:32:30 URL:http://www.wakefield.ma.us/wakefield-101-new-resident-open-house [18827] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-clerk/links/wakefield-101-new-resident-open-house" [1]
+2017-01-02 08:32:32 URL:http://www.wakefield.ma.us/node/4896/events/2017-01 [20301] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/node/4896/events/2017-01" [1]
+2017-01-02 08:32:33 URL: http://www.wakefield.ma.us/node/3726/feed 200 OK
+unlink: No such file or directory
+2017-01-02 08:32:34 URL:http://www.wakefield.ma.us/print/3726 [6497] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/print/3726" [1]
+2017-01-02 08:32:35 URL:http://www.wakefield.ma.us/printmail/3726 [10752] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/printmail/3726" [1]
+2017-01-02 08:32:36 URL:http://www.wakefield.ma.us/home/news/assessing-news-and-notes [15155] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/news/assessing-news-and-notes" [1]
+2017-01-02 08:32:37 URL:http://www.wakefield.ma.us/users/vsantaniello/contact [11965] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/users/vsantaniello/contact" [1]
+2017-01-02 08:32:38 URL:http://www.wakefield.ma.us/assessors/files/1-street-listing-of-fy2017-values [14733] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/assessors/files/1-street-listing-of-fy2017-values" [1]
+2017-01-02 08:32:39 URL:http://www.wakefield.ma.us/assessors/pages/2-fy-2017-classification-presentation [14190] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/assessors/pages/2-fy-2017-classification-presentation" [1]
+2017-01-02 08:32:40 URL:http://www.wakefield.ma.us/assessors/pages/3-online-assessment-data [13977] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/assessors/pages/3-online-assessment-data" [1]
+2017-01-02 08:32:41 URL:http://www.wakefield.ma.us/assessors/pages/5-wakefield-maps-online [13783] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/assessors/pages/5-wakefield-maps-online" [1]
+2017-01-02 08:32:42 URL:http://www.wakefield.ma.us/assessors/files/6-income-expense-data-collection-forms [14822] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/assessors/files/6-income-expense-data-collection-forms" [1]
+2017-01-02 08:32:43 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/abutters_list_request_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:32:44 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/mv_excise_information.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:32:46 URL:http://www.wakefield.ma.us/advisory-board-of-public-works [16301] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/advisory-board-of-public-works" [1]
+2017-01-02 08:32:49 URL:http://www.wakefield.ma.us/albion-cultural-exchange-committee [17274] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/albion-cultural-exchange-committee" [1]
+2017-01-02 08:32:51 URL:http://www.wakefield.ma.us/board-of-assessors [16170] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/board-of-assessors" [1]
+2017-01-02 08:32:54 URL:http://www.wakefield.ma.us/board-of-health [17591] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/board-of-health.1" [1]
+2017-01-02 08:32:57 URL:http://www.wakefield.ma.us/board-of-library-trustees [18849] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/board-of-library-trustees" [1]
+2017-01-02 08:32:59 URL:http://www.wakefield.ma.us/board-of-registrars [15554] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/board-of-registrars" [1]
+2017-01-02 08:33:02 URL:http://www.wakefield.ma.us/capital-planning-committee [17588] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/capital-planning-committee" [1]
+2017-01-02 08:33:05 URL:http://www.wakefield.ma.us/catv-advisory-committee [14380] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/catv-advisory-committee" [1]
+2017-01-02 08:33:08 URL:http://www.wakefield.ma.us/charter-review-committee [18291] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/charter-review-committee" [1]
+2017-01-02 08:33:11 URL:http://www.wakefield.ma.us/commission-on-disability-issues-0 [40309] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/commission-on-disability-issues-0" [1]
+2017-01-02 08:33:13 URL:http://www.wakefield.ma.us/conservation-commission [22699] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/conservation-commission.1" [1]
+2017-01-02 08:33:16 URL:http://www.wakefield.ma.us/constables [15056] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/constables" [1]
+2017-01-02 08:33:18 URL:http://www.wakefield.ma.us/council-on-aging-board [16995] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/council-on-aging-board" [1]
+2017-01-02 08:33:21 URL:http://www.wakefield.ma.us/cultural-council-committee [16868] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/cultural-council-committee" [1]
+2017-01-02 08:33:24 URL:http://www.wakefield.ma.us/energy-conservation-committee [17843] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/energy-conservation-committee" [1]
+2017-01-02 08:33:27 URL:http://www.wakefield.ma.us/events-planning-committee [18437] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/events-planning-committee" [1]
+2017-01-02 08:33:29 URL:http://www.wakefield.ma.us/fence-viewers-committee [16015] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/fence-viewers-committee" [1]
+2017-01-02 08:33:32 URL:http://www.wakefield.ma.us/finance-committee [19365] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/finance-committee" [1]
+2017-01-02 08:33:35 URL:http://www.wakefield.ma.us/galvin-ms-building-advisory-committee [13691] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/galvin-ms-building-advisory-committee" [1]
+2017-01-02 08:33:37 URL:http://www.wakefield.ma.us/historical-commission [17641] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/historical-commission" [1]
+2017-01-02 08:33:39 URL:http://www.wakefield.ma.us/housing-authority [16916] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/housing-authority" [1]
+2017-01-02 08:33:42 URL:http://www.wakefield.ma.us/human-rights-commission [27937] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/human-rights-commission" [1]
+2017-01-02 08:33:45 URL:http://www.wakefield.ma.us/municipal-gas-light-commission [17108] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/municipal-gas-light-commission" [1]
+2017-01-02 08:33:47 URL:http://www.wakefield.ma.us/ne-metro-regional-vocational-school-district-rep [15731] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/ne-metro-regional-vocational-school-district-rep" [1]
+2017-01-02 08:33:50 URL:http://www.wakefield.ma.us/permanent-building-committee [16762] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/permanent-building-committee" [1]
+2017-01-02 08:33:53 URL:http://www.wakefield.ma.us/planning-board [17165] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/planning-board" [1]
+2017-01-02 08:33:55 URL:http://www.wakefield.ma.us/rail-to-trail-committee [14968] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/rail-to-trail-committee" [1]
+2017-01-02 08:33:58 URL:http://www.wakefield.ma.us/recreation-commission [19876] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/recreation-commission" [1]
+2017-01-02 08:34:00 URL:http://www.wakefield.ma.us/school-committee [18077] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/school-committee" [1]
+2017-01-02 08:34:03 URL:http://www.wakefield.ma.us/sweetser-lecture-advisory-committee [20333] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/sweetser-lecture-advisory-committee" [1]
+2017-01-02 08:34:06 URL:http://www.wakefield.ma.us/veterans-advisory-board [16835] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/veterans-advisory-board" [1]
+2017-01-02 08:34:09 URL:http://www.wakefield.ma.us/world-war-ii-memorial-committee [21519] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/world-war-ii-memorial-committee" [1]
+2017-01-02 08:34:10 URL: http://www.wakefield.ma.us/node/5306/feed 200 OK
+unlink: No such file or directory
+2017-01-02 08:34:11 URL:http://www.wakefield.ma.us/print/5306 [9140] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/print/5306" [1]
+2017-01-02 08:34:12 URL:http://www.wakefield.ma.us/printmail/5306 [10770] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/printmail/5306" [1]
+2017-01-02 08:34:13 URL:http://www.wakefield.ma.us/town-administrator/webforms/ask-the-town-administrator [17528] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-administrator/webforms/ask-the-town-administrator" [1]
+2017-01-02 08:34:15 URL:http://www.wakefield.ma.us/users/smaio/contact [11885] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/users/smaio/contact" [1]
+2017-01-02 08:34:16 URL:http://www.wakefield.ma.us/users/sdalton/contact [11901] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/users/sdalton/contact" [1]
+2017-01-02 08:34:17 URL:http://www.wakefield.ma.us/town-administrator/files/2016-downtown-wakefield-market-assessment-report [15594] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-administrator/files/2016-downtown-wakefield-market-assessment-report" [1]
+2017-01-02 08:34:18 URL:http://www.wakefield.ma.us/town-administrator/pages/about-the-town-administrator [16261] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-administrator/pages/about-the-town-administrator" [1]
+2017-01-02 08:34:18 URL:http://www.wakefield.ma.us/town-administrator/pages/alcoholic-beverages [14666] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-administrator/pages/alcoholic-beverages" [1]
+2017-01-02 08:34:19 URL:http://www.wakefield.ma.us/town-administrator/webforms/annual-resident-survey [23656] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-administrator/webforms/annual-resident-survey" [1]
+2017-01-02 08:34:20 URL:http://www.wakefield.ma.us/town-administrator/pages/applications [16213] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-administrator/pages/applications" [1]
+2017-01-02 08:34:24 URL:http://www.wakefield.ma.us/board-of-selectmen [25719] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-administrator/links/board-of-selectman" [1]
+2017-01-02 08:34:25 URL:http://www.wakefield.ma.us/town-administrator/pages/project-updates-hurd-school-re-use [14940] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-administrator/pages/project-updates-hurd-school-re-use" [1]
+2017-01-02 08:34:26 URL:http://www.wakefield.ma.us/town-administrator/pages/town-administrators-report-tv [14850] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-administrator/pages/town-administrators-report-tv" [1]
+2017-01-02 08:34:29 URL:http://www.wakefield.ma.us/town-clerk [30389] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-administrator/links/town-clerk" [1]
+2017-01-02 08:34:32 URL:http://www.wakefield.ma.us/town-planner [19059] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-administrator/links/town-planner" [1]
+2017-01-02 08:34:35 URL:http://www.wakefield.ma.us/wakefield-101-new-resident-open-house [18827] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-administrator/links/wakefield-101-new-resident-open-house" [1]
+2017-01-02 08:34:37 URL: http://www.wakefield.ma.us/node/2421/feed 200 OK
+unlink: No such file or directory
+2017-01-02 08:34:38 URL:http://www.wakefield.ma.us/print/2421 [8502] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/print/2421" [1]
+2017-01-02 08:34:39 URL:http://www.wakefield.ma.us/printmail/2421 [10770] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/printmail/2421" [1]
+2017-01-02 08:34:40 URL:http://www.wakefield.ma.us/users/bfalvey/contact [11905] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/users/bfalvey/contact" [1]
+2017-01-02 08:34:41 URL:http://www.wakefield.ma.us/users/asantos/contact [11895] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/users/asantos/contact" [1]
+2017-01-02 08:34:42 URL:http://www.wakefield.ma.us/users/pmay/contact [11869] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/users/pmay/contact" [1]
+2017-01-02 08:34:43 URL:http://www.wakefield.ma.us/users/tlongo/contact [11891] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/users/tlongo/contact" [1]
+2017-01-02 08:34:44 URL:http://www.wakefield.ma.us/people/paul-r-dinocco [16035] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/people/paul-r-dinocco" [1]
+2017-01-02 08:34:45 URL:http://www.wakefield.ma.us/users/pglynn/contact [11897] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/users/pglynn/contact" [1]
+2017-01-02 08:34:46 URL:http://www.wakefield.ma.us/users/phull/contact [11885] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/users/phull/contact" [1]
+2017-01-02 08:34:47 URL:http://www.wakefield.ma.us/board-of-selectmen/files/2016-downtown-wakefield-market-assessment-report [14895] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/board-of-selectmen/files/2016-downtown-wakefield-market-assessment-report" [1]
+2017-01-02 08:34:48 URL:http://www.wakefield.ma.us/board-of-selectmen/pages/archive-bos-meeting-minutes [14453] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/board-of-selectmen/pages/archive-bos-meeting-minutes" [1]
+2017-01-02 08:34:51 URL:http://www.wakefield.ma.us/town-administrator [23566] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/board-of-selectmen/links/town-administrator" [1]
+2017-01-02 08:34:52 URL:http://www.wakefield.ma.us/town-clerk [30389] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/board-of-selectmen/links/town-clerk" [1]
+2017-01-02 08:34:53 URL:http://www.wakefield.ma.us/board-of-selectmen/minutes/meeting-15 [14550] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/board-of-selectmen/minutes/meeting-15" [1]
+2017-01-02 08:34:54 URL:http://www.wakefield.ma.us/board-of-selectmen/minutes/meeting-14 [14556] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/board-of-selectmen/minutes/meeting-14" [1]
+2017-01-02 08:34:55 URL:http://www.wakefield.ma.us/board-of-selectmen/minutes/meeting-13 [14556] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/board-of-selectmen/minutes/meeting-13" [1]
+2017-01-02 08:34:56 URL:http://www.wakefield.ma.us/board-of-selectmen/minutes/meeting-12 [14544] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/board-of-selectmen/minutes/meeting-12" [1]
+2017-01-02 08:34:57 URL:http://www.wakefield.ma.us/board-of-selectmen/minutes/meeting-11 [14541] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/board-of-selectmen/minutes/meeting-11" [1]
+2017-01-02 08:34:58 URL:http://www.wakefield.ma.us/node/2421/minutes [27979] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/node/2421/minutes" [1]
+2017-01-02 08:34:58 URL: http://www.wakefield.ma.us/node/3886/feed 200 OK
+unlink: No such file or directory
+2017-01-02 08:35:00 URL:http://www.wakefield.ma.us/print/3886 [6177] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/print/3886" [1]
+2017-01-02 08:35:01 URL:http://www.wakefield.ma.us/printmail/3886 [10776] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/printmail/3886" [1]
+2017-01-02 08:35:04 URL:http://www.wakefield.ma.us/recreation-department [19903] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/recreation.1" [1]
+2017-01-02 08:35:05 URL:http://wakerec.com/info/activities/default.aspx [24836/24836] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/recreation-department/links/2016-fall-programs" [1]
+2017-01-02 08:35:06 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/file/file/wakefieldrecreation_springsummerprogram2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:35:07 URL:http://www.wakefield.ma.us/recreation-department/pages/birthday-parties [13346] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/recreation-department/pages/birthday-parties" [1]
+2017-01-02 08:35:08 URL:http://www.wakefield.ma.us/recreation-department/pages/recreation-facilities-list [17189] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/recreation-department/pages/recreation-facilities-list" [1]
+2017-01-02 08:35:09 URL:http://www.wakefield.ma.us/recreation-department/pages/super-soccer-stars [13362] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/recreation-department/pages/super-soccer-stars" [1]
+2017-01-02 08:35:10 URL:http://www.wakefield.ma.us/recreation-department/pages/wakefield-sports-contacts [18587] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/recreation-department/pages/wakefield-sports-contacts" [1]
+2017-01-02 08:35:10 URL: http://www.wakefield.ma.us/node/4311/feed 200 OK
+unlink: No such file or directory
+2017-01-02 08:35:12 URL:http://www.wakefield.ma.us/print/4311 [6190] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/print/4311" [1]
+2017-01-02 08:35:13 URL:http://www.wakefield.ma.us/printmail/4311 [10748] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/printmail/4311" [1]
+2017-01-02 08:35:13 URL:http://www.wakefield.ma.us/users/ksmith/contact [11895] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/users/ksmith/contact" [1]
+2017-01-02 08:35:14 URL:http://www.wakefield.ma.us/users/kfitzpatrick/contact [11963] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/users/kfitzpatrick/contact" [1]
+2017-01-02 08:35:15 URL:http://www.wakefield.ma.us/node/111/news [27165] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/node/111/news" [1]
+2017-01-02 08:35:16 URL:http://www.wakefield.ma.us/print/22421 [4654] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/print/22421" [1]
+2017-01-02 08:35:17 URL:http://www.wakefield.ma.us/printmail/22421 [10810] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/printmail/22421" [1]
+2017-01-02 08:35:18 URL:http://www.wakefield.ma.us/print/22066 [6991] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/print/22066" [1]
+2017-01-02 08:35:19 URL:http://www.wakefield.ma.us/printmail/22066 [10824] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/printmail/22066" [1]
+2017-01-02 08:35:21 URL:http://www.wakefield.ma.us/print/22506 [36660] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/print/22506" [1]
+2017-01-02 08:35:22 URL:http://www.wakefield.ma.us/printmail/22506 [10838] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/printmail/22506" [1]
+2017-01-02 08:35:23 URL:http://www.wakefield.ma.us/print/22531 [7229] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/print/22531" [1]
+2017-01-02 08:35:23 URL:http://www.wakefield.ma.us/printmail/22531 [10870] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/printmail/22531" [1]
+2017-01-02 08:35:24 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/u291/shem.jpeg 200 OK
+unlink: No such file or directory
+2017-01-02 08:35:25 URL:http://www.wakefield.ma.us/print/21986 [5997] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/print/21986" [1]
+2017-01-02 08:35:26 URL:http://www.wakefield.ma.us/printmail/21986 [10834] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/printmail/21986" [1]
+2017-01-02 08:35:27 URL: http://www.wakefield.ma.us/node/111/news/feed 200 OK
+unlink: No such file or directory
+http://www.wakefield.ma.us/news:
+Remote file does not exist -- broken link!!!
+2017-01-02 08:35:32 URL:http://www.wakefield.ma.us/home/news/video-recap-2016-downtown-wakefield-market-analysis-business-district-assessment [12418] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/news/video-recap-2016-downtown-wakefield-market-analysis-business-district-assessment" [1]
+2017-01-02 08:35:33 URL:http://www.wakefield.ma.us/home/news/temporary-shutdown-water-break-chestnut-murray-12-5-2016 [13832] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/news/temporary-shutdown-water-break-chestnut-murray-12-5-2016" [1]
+2017-01-02 08:35:34 URL:http://www.wakefield.ma.us/home/news/water-break-at-albion-street-north-ave [10609] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/news/water-break-at-albion-street-north-ave" [1]
+2017-01-02 08:35:35 URL:http://www.wakefield.ma.us/home/news/holiday-stroll-saturday-december-3 [11336] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/news/holiday-stroll-saturday-december-3" [1]
+2017-01-02 08:35:36 URL:http://www.wakefield.ma.us/home/news/rfp-for-legal-services [10375] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/news/rfp-for-legal-services" [1]
+2017-01-02 08:35:37 URL:http://www.wakefield.ma.us/home/news/albion-arts-corridor-kick-off-meeting-november-17-7pm [13921] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/news/albion-arts-corridor-kick-off-meeting-november-17-7pm" [1]
+2017-01-02 08:35:38 URL:http://www.wakefield.ma.us/home/news/veterans-day-friday-november-11-2016-at-11-am-galvin-middle-school [16227] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/news/veterans-day-friday-november-11-2016-at-11-am-galvin-middle-school" [1]
+2017-01-02 08:35:39 URL:http://www.wakefield.ma.us/home/news/october-2016-report-of-the-police-department [10586] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/news/october-2016-report-of-the-police-department" [1]
+2017-01-02 08:35:40 URL:http://www.wakefield.ma.us/home/news/unofficial-election-results-november-8th-election [11312] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/news/unofficial-election-results-november-8th-election" [1]
+2017-01-02 08:35:41 URL:http://www.wakefield.ma.us/home/news/regular-town-meeting-warrant-november-7-2016 [21204] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/news/regular-town-meeting-warrant-november-7-2016" [1]
+2017-01-02 08:35:42 URL:http://www.wakefield.ma.us/home/news/november-8th-election-ballot-samples [11959] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/news/november-8th-election-ballot-samples" [1]
+2017-01-02 08:35:43 URL:http://www.wakefield.ma.us/home/news/community-meeting-nov-1st-downtown-market-report-review-followed-by-q-a-session [12263] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/news/community-meeting-nov-1st-downtown-market-report-review-followed-by-q-a-session" [1]
+2017-01-02 08:35:44 URL:http://www.wakefield.ma.us/home/news/fright-night-twilight-graveyard-tour-haunted-happenings-family-weekend [14352] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/news/fright-night-twilight-graveyard-tour-haunted-happenings-family-weekend" [1]
+2017-01-02 08:35:45 URL:http://www.wakefield.ma.us/home/news/state-election-warrant-november-8-2016 [24836] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/news/state-election-warrant-november-8-2016" [1]
+2017-01-02 08:35:46 URL:http://www.wakefield.ma.us/home/news/fy-2016-report-of-appropriated-funds-expenditures-balances [11210] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/home/news/fy-2016-report-of-appropriated-funds-expenditures-balances" [1]
+2017-01-02 08:35:46 URL: http://www.wakefield.ma.us/node/2017-01/town-events/feed 200 OK
+unlink: No such file or directory
+2017-01-02 08:35:48 URL:http://www.wakefield.ma.us/town-calendar/2017 [111383] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-calendar/2017" [1]
+2017-01-02 08:35:49 URL:http://www.wakefield.ma.us/town-calendar/2017-W01 [24744] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-calendar/2017-W01" [1]
+2017-01-02 08:35:50 URL:http://www.wakefield.ma.us/town-calendar/2017-01-01 [16673] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-calendar/2017-01-01" [1]
+2017-01-02 08:35:51 URL:http://www.wakefield.ma.us/events [12650] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/events" [1]
+2017-01-02 08:35:52 URL:http://www.wakefield.ma.us/town-calendar [27564] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-calendar.1" [1]
+2017-01-02 08:35:53 URL:http://www.wakefield.ma.us/town-calendar/2016-12 [44708] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-calendar/2016-12" [1]
+2017-01-02 08:35:54 URL:http://www.wakefield.ma.us/town-calendar/2017-02 [24819] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-calendar/2017-02" [1]
+2017-01-02 08:35:55 URL:http://www.wakefield.ma.us/town-calendar/2017-W1 [24734] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-calendar/2017-W1" [1]
+2017-01-02 08:35:56 URL:http://www.wakefield.ma.us/town-calendar/2017-W2 [20314] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-calendar/2017-W2" [1]
+2017-01-02 08:35:57 URL:http://www.wakefield.ma.us/town-calendar/2017-W3 [18311] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-calendar/2017-W3" [1]
+2017-01-02 08:35:58 URL:http://www.wakefield.ma.us/town-calendar/2017-W4 [18311] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-calendar/2017-W4" [1]
+2017-01-02 08:36:00 URL:http://www.wakefield.ma.us/town-calendar/2017-W5 [18307] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-calendar/2017-W5" [1]
+2017-01-02 08:36:00 URL: http://www.wakefield.ma.us/town-calendar/ical/2017-01-04 200 OK
+unlink: No such file or directory
+2017-01-02 08:36:01 URL: http://www.wakefield.ma.us/node/2017-01-04/town-events/feed 200 OK
+unlink: No such file or directory
+2017-01-02 08:36:02 URL:http://www.wakefield.ma.us/town-calendar/2017-01-03 [16674] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-calendar/2017-01-03" [1]
+2017-01-02 08:36:02 URL: http://www.wakefield.ma.us/town-calendar/ical/2017-01-05 200 OK
+unlink: No such file or directory
+2017-01-02 08:36:03 URL: http://www.wakefield.ma.us/node/2017-01-05/town-events/feed 200 OK
+unlink: No such file or directory
+2017-01-02 08:36:04 URL:http://www.wakefield.ma.us/town-calendar/2017-01-06 [16673] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-calendar/2017-01-06" [1]
+2017-01-02 08:36:04 URL: http://www.wakefield.ma.us/town-calendar/ical/2017-01-09 200 OK
+unlink: No such file or directory
+2017-01-02 08:36:05 URL: http://www.wakefield.ma.us/node/2017-01-09/town-events/feed 200 OK
+unlink: No such file or directory
+2017-01-02 08:36:06 URL:http://www.wakefield.ma.us/town-calendar/2017-W02 [20324] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-calendar/2017-W02" [1]
+2017-01-02 08:36:07 URL:http://www.wakefield.ma.us/town-calendar/2017-01-08 [16673] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-calendar/2017-01-08" [1]
+2017-01-02 08:36:08 URL:http://www.wakefield.ma.us/town-calendar/2017-01-10 [16675] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-calendar/2017-01-10" [1]
+2017-01-02 08:36:09 URL:http://www.wakefield.ma.us/node/111/events [22920] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/node/111/events" [1]
+2017-01-02 08:36:10 URL:http://www.wakefield.ma.us/print/22651 [3906] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/print/22651" [1]
+2017-01-02 08:36:11 URL:http://www.wakefield.ma.us/printmail/22651 [10771] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/printmail/22651" [1]
+2017-01-02 08:36:11 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/u316/sch._council_1_4_17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:36:13 URL:http://www.wakefield.ma.us/print/22671 [3928] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/print/22671" [1]
+2017-01-02 08:36:14 URL:http://www.wakefield.ma.us/printmail/22671 [10781] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/printmail/22671" [1]
+2017-01-02 08:36:14 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/u316/epc_1_4_17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:36:15 URL:http://www.wakefield.ma.us/print/22681 [3992] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/print/22681" [1]
+2017-01-02 08:36:16 URL:http://www.wakefield.ma.us/printmail/22681 [10791] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/printmail/22681" [1]
+2017-01-02 08:36:16 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/u316/al._cult._exch._1_4_17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:36:17 URL:http://www.wakefield.ma.us/print/22661 [3938] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/print/22661" [1]
+2017-01-02 08:36:18 URL:http://www.wakefield.ma.us/printmail/22661 [10780] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/printmail/22661" [1]
+2017-01-02 08:36:18 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/u316/cons._comm_1_5_17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:36:19 URL:http://www.wakefield.ma.us/print/22691 [3928] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/print/22691" [1]
+2017-01-02 08:36:20 URL:http://www.wakefield.ma.us/printmail/22691 [10781] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/printmail/22691" [1]
+2017-01-02 08:36:20 URL: http://www.wakefield.ma.us/sites/wakefieldma/files/u316/cdi_1_9_17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:36:22 URL:http://www.wakefield.ma.us/town-events-past-by-event-type/1291 [24476] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/town-events-past-by-event-type/1291" [1]
+2017-01-02 08:36:23 URL:http://www.wakefield.ma.us/user [10175] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/user.1" [1]
+2017-01-02 08:36:23 URL:http://www.wakefield.ma.us/user/password [9726] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/user/password" [1]
+2017-01-02 08:36:24 URL:http://www.wakefield.ma.us/user/login?destination=help%2Fvth_adv_help_inject%2FNew-Website-Guidelines [10481] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/help/vth_adv_help_inject/New-Website-Guidelines" [1]
+2017-01-02 08:36:25 URL:http://www.wakefield.ma.us/print/468 [3173] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/print/468" [1]
+2017-01-02 08:36:26 URL:http://www.wakefield.ma.us/printmail/468 [10802] -> "../data/townSites2/Wakefield/www.wakefield.ma.us/printmail/468" [1]
+Found 9 broken links.
+
+http://www.wakefieldpd.org/Pages/WakefieldPD_Forms/dmv
+http://www.wakefieldpd.org/Pages/WakefieldPD_Forms/sor
+http://www.wakefieldpd.org/Pages/WakefieldPD_Forms/S012DEF41?Close=-1
+http://www.wakefieldpd.org/Pages/WakefieldPD_Programs/domesticabuse
+http://www.mass.gov/eopss/docs/msp/divisions/standards-and-training/certification-unit/change-of-address.pdf
+http://www.wakefield.ma.us/news
+http://www.wakefieldpd.org/Pages/WakefieldPD_Forms/Police/0133453D-000F8513.0/gunapplication02252008.pdf
+http://www.mass.gov/perac_renamed_20141027_donotdeleteuntillaunch/disunit/CMEguide.htm
+http://www.wakefieldpd.org/Pages/WakefieldPD_Programs/senior
+
+FINISHED --2017-01-02 08:36:26--
+Total wall clock time: 11m 47s
+Downloaded: 425 files, 7.6M in 10s (761 KB/s)

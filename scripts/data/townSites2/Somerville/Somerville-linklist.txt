@@ -1,0 +1,544 @@
+2017-01-01 23:19:25 URL:http://www.somervillema.gov/ [61402/61402] -> "../data/townSites2/Somerville/www.somervillema.gov/index.html" [1]
+2017-01-01 23:19:25 URL: http://www.somervillema.gov/sites/default/files/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-01 23:19:27 URL:http://www.somervillema.gov/content/home [61538/61538] -> "../data/townSites2/Somerville/www.somervillema.gov/content/home" [1]
+2017-01-01 23:19:29 URL:http://www.somervillema.gov/node/2 [61526] -> "../data/townSites2/Somerville/www.somervillema.gov/node/2" [1]
+2017-01-01 23:19:32 URL:http://www.somervillema.gov/video [62244] -> "../data/townSites2/Somerville/www.somervillema.gov/video" [1]
+2017-01-01 23:19:33 URL:http://www.somervillema.gov/departments/constituent-services [56244] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/constituent-services" [1]
+2017-01-01 23:19:34 URL:http://www.somervillema.gov/parking [52848/52848] -> "../data/townSites2/Somerville/www.somervillema.gov/parking" [1]
+2017-01-01 23:19:35 URL:http://go.somervillema.gov/wizard/ [9067/9067] -> "../data/townSites2/Somerville/www.somervillema.gov/wizard" [1]
+2017-01-01 23:19:37 URL:http://www.somervillema.gov/page/register-vote [41436/41436] -> "../data/townSites2/Somerville/www.somervillema.gov/page/register-vote" [1]
+2017-01-01 23:19:38 URL:http://www.somervillema.gov/page/alerts [41944/41944] -> "../data/townSites2/Somerville/www.somervillema.gov/page/alerts" [1]
+2017-01-01 23:19:39 URL:http://www.somervillema.gov/bizguide [58978/58978] -> "../data/townSites2/Somerville/www.somervillema.gov/bizguide" [1]
+2017-01-01 23:19:40 URL:http://www.somervillema.gov/citizenserve [40472/40472] -> "../data/townSites2/Somerville/www.somervillema.gov/citizenserve" [1]
+2017-01-01 23:19:43 URL:http://www.somervillema.gov/isd [56140/56140] -> "../data/townSites2/Somerville/www.somervillema.gov/isd" [1]
+2017-01-01 23:19:44 URL:http://www.somervillema.gov/departments/office-strategic-planning-and-community-development/planning-and-zoning [68981/68981] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/office-strategic-planning-and-community-development/planning-and-zoning" [1]
+2017-01-01 23:19:46 URL:http://www.somervillema.gov/sitefinder [47688] -> "../data/townSites2/Somerville/www.somervillema.gov/sitefinder" [1]
+2017-01-01 23:19:48 URL:http://www.somervillema.gov/services-by-topic [75448/75448] -> "../data/townSites2/Somerville/www.somervillema.gov/services-by-topic" [1]
+2017-01-01 23:19:49 URL:http://www.somervillema.gov/services-a-z [71805] -> "../data/townSites2/Somerville/www.somervillema.gov/services-a-z" [1]
+2017-01-01 23:19:50 URL:http://www.somervillema.gov/departments [53318/53318] -> "../data/townSites2/Somerville/www.somervillema.gov/departments.1" [1]
+2017-01-01 23:19:51 URL:http://www.somervillema.gov/mysomerville [38349/38349] -> "../data/townSites2/Somerville/www.somervillema.gov/mysomerville" [1]
+2017-01-01 23:19:52 URL:http://www.somervillema.gov/311 [60814/60814] -> "../data/townSites2/Somerville/www.somervillema.gov/311" [1]
+2017-01-01 23:19:53 URL:http://www.somervillema.gov/faq [40853/40853] -> "../data/townSites2/Somerville/www.somervillema.gov/faq" [1]
+2017-01-01 23:19:54 URL:http://www.somervillema.gov/government [39666/39666] -> "../data/townSites2/Somerville/www.somervillema.gov/government" [1]
+2017-01-01 23:19:55 URL:http://www.somervillema.gov/elections [65177/65177] -> "../data/townSites2/Somerville/www.somervillema.gov/elections" [1]
+2017-01-01 23:19:57 URL:http://www.somervillema.gov/mayor [65467/65467] -> "../data/townSites2/Somerville/www.somervillema.gov/mayor" [1]
+2017-01-01 23:19:59 URL:http://www.somervillema.gov/departments/board-of-aldermen [60455/60455] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/board-of-aldermen" [1]
+2017-01-01 23:20:00 URL:http://www.somervillema.gov/departments/school-committee [48859/48859] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/school-committee" [1]
+2017-01-01 23:20:01 URL:http://www.somervillema.gov/event-documents [77376/77376] -> "../data/townSites2/Somerville/www.somervillema.gov/event-documents" [1]
+2017-01-01 23:20:02 URL:http://www.somervillema.gov/payonline [45616/45616] -> "../data/townSites2/Somerville/www.somervillema.gov/payonline" [1]
+2017-01-01 23:20:03 URL:http://www.somervillema.gov/events [98366/98366] -> "../data/townSites2/Somerville/www.somervillema.gov/events" [1]
+http://www.somervillema.gov/social:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:20:05 URL:http://www.somervillema.gov/sweeping [40235/40235] -> "../data/townSites2/Somerville/www.somervillema.gov/sweeping" [1]
+2017-01-01 23:20:06 URL:http://www.somervillema.gov/departments/school-department [54747/54747] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/school-department" [1]
+2017-01-01 23:20:07 URL:http://www.somervillema.gov/snow [64187] -> "../data/townSites2/Somerville/www.somervillema.gov/snow" [1]
+2017-01-01 23:20:09 URL:http://www.somervillema.gov/detours [47353/47353] -> "../data/townSites2/Somerville/www.somervillema.gov/detours" [1]
+2017-01-01 23:20:10 URL:http://go.somervillema.gov/datafarm/ [14131/14131] -> "../data/townSites2/Somerville/www.somervillema.gov/datafarm" [1]
+2017-01-01 23:20:11 URL:http://www.somervillema.gov/payments [45614/45614] -> "../data/townSites2/Somerville/www.somervillema.gov/payments" [1]
+2017-01-01 23:20:12 URL:http://www.somervillema.gov/alerts [41937/41937] -> "../data/townSites2/Somerville/www.somervillema.gov/alerts" [1]
+2017-01-01 23:20:13 URL:http://www.somervillema.gov/departments/elections/register-to-vote [41526] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/elections/register-to-vote" [1]
+2017-01-01 23:20:16 URL:http://www.somervillema.gov/departments/communications/somerviva [58239] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/communications/somerviva" [1]
+2017-01-01 23:20:19 URL:http://www.somervillema.gov/airplanenoise [43723/43723] -> "../data/townSites2/Somerville/www.somervillema.gov/airplanenoise" [1]
+2017-01-01 23:20:20 URL:http://www.somervillema.gov/news/snow-emergency-parking-rule-changes-take-effect-even-side-only-season [42827/42827] -> "../data/townSites2/Somerville/www.somervillema.gov/news/snow-emergency-parking-rule-changes-take-effect-even-side-only-season" [1]
+2017-01-01 23:20:22 URL:http://www.somervillema.gov/news/city-pairs-youth-seniors-persons-disabilities-assistance-snow-shoveling [40382/40382] -> "../data/townSites2/Somerville/www.somervillema.gov/news/city-pairs-youth-seniors-persons-disabilities-assistance-snow-shoveling" [1]
+2017-01-01 23:20:23 URL:http://www.somervillema.gov/news/somerville-state-city-address-scheduled-jan-9-6-pm [38865] -> "../data/townSites2/Somerville/www.somervillema.gov/news/somerville-state-city-address-scheduled-jan-9-6-pm" [1]
+2017-01-01 23:20:25 URL:http://www.somervillema.gov/news/241st-grand-union-flag-raising-prospect-hill-january-1-2017 [40542/40542] -> "../data/townSites2/Somerville/www.somervillema.gov/news/241st-grand-union-flag-raising-prospect-hill-january-1-2017" [1]
+2017-01-01 23:20:26 URL:http://www.somervillema.gov/news/somerville-celebrate-arbor-day-city-hall-december-19 [38736/38736] -> "../data/townSites2/Somerville/www.somervillema.gov/news/somerville-celebrate-arbor-day-city-hall-december-19" [1]
+2017-01-01 23:20:27 URL:http://www.somervillema.gov/news [49124/49124] -> "../data/townSites2/Somerville/www.somervillema.gov/news.1" [1]
+2017-01-01 23:20:30 URL:http://www.somervillema.gov/departments/programs/teen-snow-shoveling-program [48893/48893] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/programs/teen-snow-shoveling-program" [1]
+2017-01-01 23:20:31 URL:http://www.somervillema.gov/departments/programs [46942/46942] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/programs.1" [1]
+2017-01-01 23:20:32 URL:http://www.somervillema.gov/events/holiday-independence-day [44086/44086] -> "../data/townSites2/Somerville/www.somervillema.gov/events/holiday-independence-day" [1]
+2017-01-01 23:20:33 URL:http://www.somervillema.gov/events/2017/01/01/241st-flag-raising [52359/52359] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2017/01/01/241st-flag-raising" [1]
+2017-01-01 23:20:35 URL:http://www.somervillema.gov/events/new-years-day [43798/43798] -> "../data/townSites2/Somerville/www.somervillema.gov/events/new-years-day" [1]
+2017-01-01 23:20:39 URL:http://www.somervillema.gov/file/home-gallery-peekaboopng [35587] -> "../data/townSites2/Somerville/www.somervillema.gov/file/home-gallery-peekaboopng" [1]
+2017-01-01 23:20:42 URL:http://www.somervillema.gov/file/home-gallery-aac-vidjpg [35687/35687] -> "../data/townSites2/Somerville/www.somervillema.gov/file/home-gallery-aac-vidjpg" [1]
+2017-01-01 23:20:44 URL:http://www.somervillema.gov/file/home-gallery-bike-path-sculpturejpg [35706] -> "../data/townSites2/Somerville/www.somervillema.gov/file/home-gallery-bike-path-sculpturejpg" [1]
+2017-01-01 23:20:47 URL:http://www.somervillema.gov/about [43092/43092] -> "../data/townSites2/Somerville/www.somervillema.gov/about" [1]
+2017-01-01 23:20:49 URL:http://www.somervillema.gov/jobs [38039/38039] -> "../data/townSites2/Somerville/www.somervillema.gov/jobs" [1]
+2017-01-01 23:20:51 URL:http://www.somervillema.gov/contact [58825/58825] -> "../data/townSites2/Somerville/www.somervillema.gov/contact" [1]
+2017-01-01 23:20:54 URL:http://www.somervillema.gov/accessibility [54275/54275] -> "../data/townSites2/Somerville/www.somervillema.gov/accessibility" [1]
+2017-01-01 23:20:56 URL:http://www.somervillema.gov/disclaimer [41895] -> "../data/townSites2/Somerville/www.somervillema.gov/disclaimer" [1]
+2017-01-01 23:20:59 URL:http://www.somervillema.gov/departments/communications [56677/56677] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/communications.1" [1]
+http://www.somervillema.gov/content/airplanenoise:
+Remote file does not exist -- broken link!!!
+http://www.somervillema.gov/node/airplanenoise:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:21:07 URL:http://www.somervillema.gov/node/50 [62249] -> "../data/townSites2/Somerville/www.somervillema.gov/node/50" [1]
+2017-01-01 23:21:09 URL:http://www.somervillema.gov/departments/departments/communications [56292] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/departments/communications" [1]
+2017-01-01 23:21:10 URL:http://www.somervillema.gov/staff-contact-directory [37572/37572] -> "../data/townSites2/Somerville/www.somervillema.gov/staff-contact-directory" [1]
+2017-01-01 23:21:12 URL:http://www.somervillema.gov/documents/50 [44929/44929] -> "../data/townSites2/Somerville/www.somervillema.gov/documents/50" [1]
+2017-01-01 23:21:15 URL:http://www.somervillema.gov/node/24576 [51883/51883] -> "../data/townSites2/Somerville/www.somervillema.gov/node/24576" [1]
+2017-01-01 23:21:17 URL:http://www.somervillema.gov/node/24577 [47205/47205] -> "../data/townSites2/Somerville/www.somervillema.gov/node/24577" [1]
+http://www.somervillema.gov/sites/default/files/Somerville%20City%20Cable%2013%3A22%20Schedule.ics:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:21:20 URL: http://www.somervillema.gov/sites/default/files/Somerville%20City%20Cable%20Edu%2015%20Schedule.ics 200 OK
+unlink: No such file or directory
+2017-01-01 23:21:23 URL:http://www.somervillema.gov/departments/communications/city-cable/rcn-channel-lineup [42835/42835] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/communications/city-cable/rcn-channel-lineup" [1]
+2017-01-01 23:21:24 URL: http://www.somervillema.gov/sites/default/files/somerville-comcast-cable-renewal-contract-review-copy.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:21:24 URL: http://www.somervillema.gov/sites/default/files/somerville-comcast-cable-renewal-contract-review-copy-exhibit-3.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:21:25 URL: http://www.somervillema.gov/sites/default/files/somerville-comcast-cable-renewal-contract-review-copy-exhibit-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:21:26 URL:http://www.somervillema.gov/departments/animal-control [58637/58637] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/animal-control" [1]
+2017-01-01 23:21:27 URL:http://www.somervillema.gov/departments/mayor/capital-projects-and-planning [52155/52155] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/mayor/capital-projects-and-planning" [1]
+2017-01-01 23:21:28 URL:http://www.somervillema.gov/departments/city-clerk [68273] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/city-clerk" [1]
+2017-01-01 23:21:33 URL:http://www.somervillema.gov/departments/city-clerk/archives [67835/67835] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/city-clerk/archives" [1]
+2017-01-01 23:21:38 URL:http://www.somervillema.gov/departments/communications/somerville-city-cable [62332] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/communications/somerville-city-cable" [1]
+2017-01-01 23:21:39 URL:http://www.somervillema.gov/departments/communications/social-media [57999/57999] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/communications/social-media" [1]
+2017-01-01 23:21:40 URL:http://www.somervillema.gov/departments/dpw/buildings-and-grounds [52069/52069] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/dpw/buildings-and-grounds" [1]
+2017-01-01 23:21:41 URL:http://www.somervillema.gov/departments/dpw/electrical-lights-and-lines [50417/50417] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/dpw/electrical-lights-and-lines" [1]
+2017-01-01 23:21:43 URL:http://www.somervillema.gov/departments/dpw/engineering [54273] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/dpw/engineering" [1]
+2017-01-01 23:21:44 URL:http://www.somervillema.gov/departments/dpw/sanitation [55260/55260] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/dpw/sanitation" [1]
+2017-01-01 23:21:45 URL:http://www.somervillema.gov/departments/dpw/water-and-sewer [61455/61455] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/dpw/water-and-sewer" [1]
+2017-01-01 23:21:46 URL:http://www.somervillema.gov/departments/elections [65202/65202] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/elections.1" [1]
+2017-01-01 23:21:47 URL:http://www.somervillema.gov/departments/finance [59325/59325] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/finance" [1]
+2017-01-01 23:21:50 URL:http://www.somervillema.gov/departments/finance/assessing [74899] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/finance/assessing" [1]
+2017-01-01 23:21:51 URL:http://www.somervillema.gov/departments/finance/auditing [54047/54047] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/finance/auditing" [1]
+2017-01-01 23:21:55 URL:http://www.somervillema.gov/departments/finance/purchasing [56491/56491] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/finance/purchasing" [1]
+2017-01-01 23:21:58 URL:http://www.somervillema.gov/departments/finance/treasurer-collector [68864/68864] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/finance/treasurer-collector" [1]
+2017-01-01 23:21:59 URL:http://www.somervillema.gov/departments/fire-department [60614/60614] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/fire-department" [1]
+2017-01-01 23:22:03 URL:http://www.somervillema.gov/departments/fire-department/somerville-auxiliary-fire-department [51634/51634] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/fire-department/somerville-auxiliary-fire-department" [1]
+2017-01-01 23:22:05 URL:http://www.somervillema.gov/departments/health-and-human-services/office-of-prevention [59917/59917] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/health-and-human-services/office-of-prevention" [1]
+2017-01-01 23:22:08 URL:http://www.somervillema.gov/departments/health-and-human-services/office-lgbtq-community-liaison [52985/52985] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/health-and-human-services/office-lgbtq-community-liaison" [1]
+2017-01-01 23:22:12 URL:http://www.somervillema.gov/departments/health-and-human-services/public-health-nursing [51004] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/health-and-human-services/public-health-nursing" [1]
+2017-01-01 23:22:14 URL:http://www.somervillema.gov/departments/health-and-human-services/shape-up-somerville [66427/66427] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/health-and-human-services/shape-up-somerville" [1]
+2017-01-01 23:22:17 URL:http://www.somervillema.gov/departments/it [48614/48614] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/it" [1]
+2017-01-01 23:22:18 URL:http://www.somervillema.gov/departments/isd/ [56168/56168] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/isd/index.html" [1]
+2017-01-01 23:22:20 URL:http://www.somervillema.gov/departments/isd/building-division [52379] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/isd/building-division" [1]
+2017-01-01 23:22:22 URL:http://www.somervillema.gov/departments/isd/health-division [56508/56508] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/isd/health-division" [1]
+2017-01-01 23:22:24 URL:http://www.somervillema.gov/departments/isd/weights-and-measures [49838/49838] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/isd/weights-and-measures" [1]
+2017-01-01 23:22:26 URL:http://www.somervillema.gov/departments/law-department [54960/54960] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/law-department" [1]
+2017-01-01 23:22:30 URL:http://www.somervillema.gov/departments/libraries [53273] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/libraries" [1]
+2017-01-01 23:22:33 URL:http://www.somervillema.gov/departments/mayor/arts-council [50847] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/mayor/arts-council" [1]
+2017-01-01 23:22:36 URL:http://www.somervillema.gov/departments/mayor/council-on-aging [87026/87026] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/mayor/council-on-aging" [1]
+2017-01-01 23:22:39 URL:http://www.somervillema.gov/departments/mayor/somerstat [61383] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/mayor/somerstat" [1]
+2017-01-01 23:22:42 URL:http://www.somervillema.gov/departments/mayor/ysag [46939] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/mayor/ysag" [1]
+http://www.somervillema.gov/departments/office-strategic-planning-and-community-development:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:22:50 URL:http://archive.somervillema.gov//historicpreservation [61228] -> "../data/townSites2/Somerville/www.somervillema.gov/historicpreservation" [1]
+2017-01-01 23:22:54 URL:http://www.somervillema.gov/departments/ospcd/housing [48023] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/ospcd/housing" [1]
+2017-01-01 23:22:55 URL:http://www.somervillema.gov/departments/ospcd/parks-and-open-space [46357/46357] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/ospcd/parks-and-open-space" [1]
+2017-01-01 23:22:57 URL:http://www.somervillema.gov/departments/office-strategic-planning-and-community-development/planning-and-zoning [69029/69029] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/ospcd/planning-and-zoning" [1]
+2017-01-01 23:22:58 URL:http://www.somervillema.gov/departments/ospcd/transportation-and-infrastructure [57767/57767] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/ospcd/transportation-and-infrastructure" [1]
+2017-01-01 23:23:00 URL:http://www.somervillema.gov/departments/office-of-sustainability-and-environment [64208/64208] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/office-of-sustainability-and-environment" [1]
+2017-01-01 23:23:01 URL:http://www.somervillema.gov/departments/personnel [58997/58997] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/personnel" [1]
+2017-01-01 23:23:02 URL:http://www.somervillema.gov/departments/personnel/benefits [64297/64297] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/personnel/benefits" [1]
+2017-01-01 23:23:07 URL:http://archive.somervillema.gov//employeewellness [19331] -> "../data/townSites2/Somerville/www.somervillema.gov/employeewellness" [1]
+2017-01-01 23:23:08 URL:http://www.somervillema.gov/departments/personnel/workers-compensation [50962/50962] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/personnel/workers-compensation" [1]
+2017-01-01 23:23:09 URL:http://www.somervillema.gov/departments/police [55711/55711] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/police" [1]
+2017-01-01 23:23:10 URL:http://www.somervillema.gov/departments/recreation-and-youth [48950/48950] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/recreation-and-youth" [1]
+2017-01-01 23:23:11 URL:http://www.somervillema.gov/departments/traffic-and-parking [52897/52897] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/traffic-and-parking" [1]
+2017-01-01 23:23:13 URL:http://www.somervillema.gov/departments/veterans-services [51214/51214] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/veterans-services" [1]
+2017-01-01 23:23:14 URL:http://www.somervillema.gov/departments/affordable-housing-trust-fund [56433/56433] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/affordable-housing-trust-fund" [1]
+2017-01-01 23:23:15 URL:http://www.somervillema.gov/departments/arts-council-board [50579/50579] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/arts-council-board" [1]
+2017-01-01 23:23:16 URL:http://www.somervillema.gov/departments/bicycle-committee [50304/50304] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/bicycle-committee" [1]
+2017-01-01 23:23:17 URL:http://www.somervillema.gov/departments/board-of-assessors [50383/50383] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/board-of-assessors" [1]
+2017-01-01 23:23:19 URL:http://www.somervillema.gov/departments/commission-persons-disabilities [59298/59298] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/commission-persons-disabilities" [1]
+2017-01-01 23:23:20 URL:http://www.somervillema.gov/departments/commission-on-energy-use-and-climate-change [48050/48050] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/commission-on-energy-use-and-climate-change" [1]
+2017-01-01 23:23:21 URL:http://www.somervillema.gov/departments/community-preservation-committee [54308/54308] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/community-preservation-committee" [1]
+2017-01-01 23:23:22 URL:http://www.somervillema.gov/departments/condominium-review-board [54110/54110] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/condominium-review-board" [1]
+2017-01-01 23:23:23 URL:http://www.somervillema.gov/departments/conservation-commission [63867/63867] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/conservation-commission" [1]
+2017-01-01 23:23:24 URL:http://www.somervillema.gov/departments/council-on-aging-board [50446/50446] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/council-on-aging-board" [1]
+2017-01-01 23:23:27 URL:http://www.somervillema.gov/departments/design-review-committee [80209] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/design-review-committee" [1]
+2017-01-01 23:23:28 URL:http://www.somervillema.gov/departments/election-commission [47190/47190] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/election-commission" [1]
+2017-01-01 23:23:31 URL:http://www.somervillema.gov/departments/ethics-commission [48754/48754] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/ethics-commission" [1]
+2017-01-01 23:23:32 URL:http://www.somervillema.gov/departments/fair-housing-commission [59273/59273] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/fair-housing-commission" [1]
+2017-01-01 23:23:33 URL:http://www.somervillema.gov/departments/office-somerville-commissions/human-rights-commission [47911/47911] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/office-somerville-commissions/human-rights-commission" [1]
+2017-01-01 23:23:35 URL:http://www.somervillema.gov/departments/licensing-commission [56616] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/licensing-commission" [1]
+2017-01-01 23:23:36 URL:http://www.somervillema.gov/departments/municipal-compensation-advisory-board [49338/49338] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/municipal-compensation-advisory-board" [1]
+2017-01-01 23:23:37 URL:http://www.somervillema.gov/departments/planning-board [57565/57565] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/planning-board" [1]
+2017-01-01 23:23:41 URL:http://www.somervillema.gov/departments/recreation-commission [52478] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/recreation-commission" [1]
+2017-01-01 23:23:42 URL:http://www.somervillema.gov/departments/retirement [56661/56661] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/retirement" [1]
+2017-01-01 23:23:44 URL:http://www.somervillema.gov/departments/somerpromise-advisory-board [47115/47115] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/somerpromise-advisory-board" [1]
+2017-01-01 23:23:46 URL:http://www.somervillema.gov/departments/departments/office-somerville-commissions/somerville-commission-for-women [56493] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/departments/office-somerville-commissions/somerville-commission-for-women" [1]
+2017-01-01 23:23:47 URL:http://www.somervillema.gov/departments/somerville-housing-authority [50013] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/somerville-housing-authority" [1]
+2017-01-01 23:23:48 URL:http://www.somervillema.gov/departments/somerville-redevelopment-authority [49878/49878] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/somerville-redevelopment-authority" [1]
+2017-01-01 23:23:49 URL:http://www.somervillema.gov/departments/traffic-commission [54877/54877] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/traffic-commission" [1]
+2017-01-01 23:23:52 URL:http://www.somervillema.gov/departments/veterans-commission-monuments-memorials-and-dedications [56412] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/veterans-commission-monuments-memorials-and-dedications" [1]
+2017-01-01 23:23:53 URL:http://www.somervillema.gov/departments/zoning-board-of-appeals [80725/80725] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/zoning-board-of-appeals" [1]
+2017-01-01 23:23:56 URL:http://www.somervillema.gov/node/153 [52851/52851] -> "../data/townSites2/Somerville/www.somervillema.gov/node/153" [1]
+2017-01-01 23:23:57 URL:http://www.somervillema.gov/faq/153 [36992] -> "../data/townSites2/Somerville/www.somervillema.gov/faq/153" [1]
+2017-01-01 23:23:58 URL:http://www.somervillema.gov/documents/153 [42995] -> "../data/townSites2/Somerville/www.somervillema.gov/documents/153" [1]
+2017-01-01 23:23:59 URL:http://www.somervillema.gov/jobs/153 [38008/38008] -> "../data/townSites2/Somerville/www.somervillema.gov/jobs/153" [1]
+2017-01-01 23:24:01 URL:http://www.somervillema.gov/node/24490 [41469/41469] -> "../data/townSites2/Somerville/www.somervillema.gov/node/24490" [1]
+http://www.somervillema.gov/sites/default/files/voter-reg-mail-in-english.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:24:01 URL: http://www.somervillema.gov/sites/default/files/legacy/documents/Voter-reg-mail-in-es.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:24:02 URL: http://www.somervillema.gov/sites/default/files/legacy/documents/Voter-reg-mail-in-ZH.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:24:02 URL: http://www.somervillema.gov/sites/default/files/legacy/documents/Absentee%20Ballot%20Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:24:02 URL: http://www.somervillema.gov/sites/default/files/absentee-ballot-family-members.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:24:04 URL:http://www.somervillema.gov/node/186 [41938] -> "../data/townSites2/Somerville/www.somervillema.gov/node/186" [1]
+http://www.somervillema.gov/page/&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHklEQVQ4EaVTO26DQBD1ohQWaS2lg9JybZ+AK7hNwx2oIoVf4UPQ0Lj1FdKktevIpel8AKNUkDcWMxpgSaIEaTVv3sx7uztiTdu2s/98DywOw3Dued4Who/M2aIx5lZV1aEsy0+qiwHELyi+Ytl0PQ69SxAxkWIA4RMRTdNsKE59juMcuZd6xIAFeZ6fGCdJ8kY4y7KAuTRNGd7jyEBXsdOPE3a0QGPsniOnnYMO67LgSQN9T41F2QGrQRRFCwyzoIF2qyBuKKbcOgPXdVeY9rMWgNsjf9ccYesJhk3f5dYT1HX9gR0LLQR30TnjkUEcx2uIuS4RnI+aj6sJR0AM8AaumPaM/rRehyWhXqbFAA9kh3/8/NvHxAYGAsZ/il8IalkCLBfNVAAAAABJRU5ErkJggg==&quot;:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:24:08 URL:http://www.somervillema.gov/node/40849 [58983] -> "../data/townSites2/Somerville/www.somervillema.gov/node/40849" [1]
+2017-01-01 23:24:12 URL:http://www.somervillema.gov/departments/health-and-human-services [58528/58528] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/health-and-human-services.1" [1]
+2017-01-01 23:24:14 URL:http://www.somervillema.gov/departments/board-of-health [55659] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/board-of-health" [1]
+2017-01-01 23:24:15 URL: http://www.somervillema.gov/sites/default/files/licensing-commission-rules-and-regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:24:18 URL:http://www.somervillema.gov/node/40586 [40469/40469] -> "../data/townSites2/Somerville/www.somervillema.gov/node/40586" [1]
+2017-01-01 23:24:21 URL:http://www.somervillema.gov/departments/isd [56101] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/isd.1" [1]
+http://www.somervillema.gov/departments/traffic-and-parking/parksomerville:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:24:27 URL:http://www.somervillema.gov/node/59 [56197] -> "../data/townSites2/Somerville/www.somervillema.gov/node/59" [1]
+2017-01-01 23:24:30 URL:http://www.somervillema.gov/documents/59 [43475] -> "../data/townSites2/Somerville/www.somervillema.gov/documents/59" [1]
+2017-01-01 23:24:33 URL:http://www.somervillema.gov/jobs/59 [38001] -> "../data/townSites2/Somerville/www.somervillema.gov/jobs/59" [1]
+2017-01-01 23:24:36 URL:http://www.somervillema.gov/node/133 [68878] -> "../data/townSites2/Somerville/www.somervillema.gov/node/133" [1]
+http://www.somervillema.gov/departments/historic-preservation-commission:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:24:39 URL:http://www.somervillema.gov/documents/133 [49751/49751] -> "../data/townSites2/Somerville/www.somervillema.gov/documents/133" [1]
+2017-01-01 23:24:39 URL: http://www.somervillema.gov/sites/default/files/inclusionary-housing-staff-report-draft-2-18-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:24:39 URL: http://www.somervillema.gov/sites/default/files/inclusionary-housing-preliminary-impacts-memo-2-20-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:24:40 URL: http://www.somervillema.gov/sites/default/files/inclusionary-housing-ordinance-submittal-10-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:24:40 URL: http://www.somervillema.gov/sites/default/files/northpoint-staff-report-9-17-20123.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:24:41 URL: http://www.somervillema.gov/sites/default/files/northpoint-ordinance-draft-9-17-2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:24:41 URL: http://www.somervillema.gov/sites/default/files/medical-marijuana-ordinance.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:24:41 URL: http://www.somervillema.gov/sites/default/files/medical-marijuana-map.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:24:42 URL: http://www.somervillema.gov/sites/default/files/pervious-surface-ordinance-staff-report-4-9-2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:24:42 URL: http://www.somervillema.gov/sites/default/files/pervious-surface-ordinance-staff-report-1-27-2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:24:43 URL: http://www.somervillema.gov/sites/default/files/pervious-surface-ordinance-draft-4-2-2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:24:44 URL: http://www.somervillema.gov/sites/default/files/pervious-surface-ordinance-draft-municipal-code-4-2-2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:24:45 URL: http://www.somervillema.gov/sites/default/files/pervious-surface-ordinance-q-and-a.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:24:46 URL: http://www.somervillema.gov/sites/default/files/urban-agriculture-staff-report-4-12-2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:24:47 URL: http://www.somervillema.gov/sites/default/files/urban-agriculture-draft-ordinance-8-16-2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:24:48 URL: http://www.somervillema.gov/sites/default/files/linkage-staff-report-9-21-2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:24:48 URL: http://www.somervillema.gov/sites/default/files/linkage-ordinance-draft-9-21-2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:24:49 URL: http://www.somervillema.gov/sites/default/files/linkage-staff-report-4-9-2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:24:50 URL: http://www.somervillema.gov/sites/default/files/linkage-ordinance-draft-4-11-2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:24:51 URL: http://www.somervillema.gov/sites/default/files/map-changes-ccd-staff-report-8-21-2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:24:51 URL: http://www.somervillema.gov/sites/default/files/map-changes-ccd-ordinance-draft-3-21-2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:24:53 URL:http://www.somervillema.gov/node/40824 [47709] -> "../data/townSites2/Somerville/www.somervillema.gov/node/40824" [1]
+2017-01-01 23:24:55 URL:http://www.somervillema.gov/departments/departments/office-strategic-planning-and-community-development/ospcd-economic-development-1 [56524/56524] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/departments/office-strategic-planning-and-community-development/ospcd-economic-development-1" [1]
+2017-01-01 23:24:58 URL:http://www.somervillema.gov/departments/office-somerville-commissions/multicultural-affairs-commission [63906/63906] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/office-somerville-commissions/multicultural-affairs-commission" [1]
+2017-01-01 23:25:00 URL:http://www.somervillema.gov/somerviva [58183/58183] -> "../data/townSites2/Somerville/www.somervillema.gov/somerviva" [1]
+2017-01-01 23:25:03 URL:http://www.somervillema.gov/retirement [56588/56588] -> "../data/townSites2/Somerville/www.somervillema.gov/retirement" [1]
+2017-01-01 23:25:04 URL:http://www.somervillema.gov/departments/programs/rodent-control-and-public-education [58279/58279] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/programs/rodent-control-and-public-education" [1]
+2017-01-01 23:25:05 URL:http://www.somervillema.gov/departments/programs/six-city-tobacco-initiative [49796/49796] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/programs/six-city-tobacco-initiative" [1]
+2017-01-01 23:25:11 URL:http://www.somervillema.gov/departments/health-and-human-services/tuberculosis-testing [43729] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/health-and-human-services/tuberculosis-testing" [1]
+2017-01-01 23:25:13 URL:http://www.somervillema.gov/urbanag [42369/42369] -> "../data/townSites2/Somerville/www.somervillema.gov/urbanag" [1]
+2017-01-01 23:25:16 URL:http://www.somervillema.gov/departments/programs/somerville-trauma-response-network-strn [48421/48421] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/programs/somerville-trauma-response-network-strn" [1]
+2017-01-01 23:25:17 URL:http://www.somervillema.gov/departments/programs/wrap-anti-theft-program [54415/54415] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/programs/wrap-anti-theft-program" [1]
+2017-01-01 23:25:20 URL:http://www.somervillema.gov/police [55686/55686] -> "../data/townSites2/Somerville/www.somervillema.gov/police" [1]
+2017-01-01 23:25:25 URL:http://www.somervillema.gov/fire [60567] -> "../data/townSites2/Somerville/www.somervillema.gov/fire" [1]
+2017-01-01 23:25:31 URL:http://www.somervillema.gov/departments/mayor/somerpromise [56001] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/mayor/somerpromise" [1]
+2017-01-01 23:25:33 URL:http://www.somervillema.gov/assessing [74969/74969] -> "../data/townSites2/Somerville/www.somervillema.gov/assessing" [1]
+2017-01-01 23:25:37 URL:http://www.somervillema.gov/departments/dpw/water-and-sewer/final-water-bill [43435/43435] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/dpw/water-and-sewer/final-water-bill" [1]
+2017-01-01 23:25:43 URL:http://www.somervillema.gov/departments/ospcd/historic-preservation [63823/63823] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/ospcd/historic-preservation" [1]
+2017-01-01 23:25:52 URL:http://www.somervillema.gov/departments/programs/lead-abatement-program [58871] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/programs/lead-abatement-program" [1]
+2017-01-01 23:25:56 URL:http://www.somervillema.gov/departments/finance/assessing/abatements-and-appeals [44173/44173] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/finance/assessing/abatements-and-appeals" [1]
+2017-01-01 23:25:59 URL:http://www.somervillema.gov/bids [41787/41787] -> "../data/townSites2/Somerville/www.somervillema.gov/bids" [1]
+2017-01-01 23:26:00 URL:http://www.somervillema.gov/departments/animal-control/tips [44224/44224] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/animal-control/tips" [1]
+2017-01-01 23:26:02 URL:http://www.somervillema.gov/somerstat [61345] -> "../data/townSites2/Somerville/www.somervillema.gov/somerstat" [1]
+2017-01-01 23:26:06 URL:http://www.somervillema.gov/departments/programs/community-garden-program [49866] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/programs/community-garden-program" [1]
+2017-01-01 23:26:08 URL:http://www.somervillema.gov/departments/community-preservation-committee/community-preservation-act-surcharge-information [44645/44645] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/community-preservation-committee/community-preservation-act-surcharge-information" [1]
+2017-01-01 23:26:10 URL:http://www.somervillema.gov/departments/finance/assessing/statutory-exemptions [48397/48397] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/finance/assessing/statutory-exemptions" [1]
+2017-01-01 23:26:12 URL:http://www.somervillema.gov/cedarstreet [43783/43783] -> "../data/townSites2/Somerville/www.somervillema.gov/cedarstreet" [1]
+2017-01-01 23:26:14 URL:http://www.somervillema.gov/beaconstreet [57810] -> "../data/townSites2/Somerville/www.somervillema.gov/beaconstreet" [1]
+2017-01-01 23:26:17 URL:http://www.somervillema.gov/construction [47359/47359] -> "../data/townSites2/Somerville/www.somervillema.gov/construction" [1]
+2017-01-01 23:26:19 URL:http://www.somervillema.gov/departments/dpw/programs/electronic-waste-recycling-program [45661/45661] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/dpw/programs/electronic-waste-recycling-program" [1]
+2017-01-01 23:26:21 URL:http://www.somervillema.gov/recollect [38552/38552] -> "../data/townSites2/Somerville/www.somervillema.gov/recollect" [1]
+2017-01-01 23:26:22 URL:http://www.somervillema.gov/snow/off-street-parking [40726/40726] -> "../data/townSites2/Somerville/www.somervillema.gov/snow/off-street-parking" [1]
+2017-01-01 23:26:24 URL:http://www.somervillema.gov/services-a-z/a [39129/39129] -> "../data/townSites2/Somerville/www.somervillema.gov/services-a-z/a" [1]
+2017-01-01 23:26:25 URL:http://www.somervillema.gov/services-a-z/b [39063] -> "../data/townSites2/Somerville/www.somervillema.gov/services-a-z/b" [1]
+2017-01-01 23:26:27 URL:http://www.somervillema.gov/services-a-z/c [40752/40752] -> "../data/townSites2/Somerville/www.somervillema.gov/services-a-z/c" [1]
+2017-01-01 23:26:28 URL:http://www.somervillema.gov/services-a-z/d [38682] -> "../data/townSites2/Somerville/www.somervillema.gov/services-a-z/d" [1]
+2017-01-01 23:26:30 URL:http://www.somervillema.gov/services-a-z/e [39759] -> "../data/townSites2/Somerville/www.somervillema.gov/services-a-z/e" [1]
+2017-01-01 23:26:31 URL:http://www.somervillema.gov/services-a-z/f [39389] -> "../data/townSites2/Somerville/www.somervillema.gov/services-a-z/f" [1]
+2017-01-01 23:26:32 URL:http://www.somervillema.gov/services-a-z/g [36903/36903] -> "../data/townSites2/Somerville/www.somervillema.gov/services-a-z/g" [1]
+2017-01-01 23:26:34 URL:http://www.somervillema.gov/services-a-z/h [37955] -> "../data/townSites2/Somerville/www.somervillema.gov/services-a-z/h" [1]
+2017-01-01 23:26:36 URL:http://www.somervillema.gov/services-a-z/i [37585] -> "../data/townSites2/Somerville/www.somervillema.gov/services-a-z/i" [1]
+2017-01-01 23:26:37 URL:http://www.somervillema.gov/services-a-z/j [36903/36903] -> "../data/townSites2/Somerville/www.somervillema.gov/services-a-z/j" [1]
+2017-01-01 23:26:39 URL:http://www.somervillema.gov/services-a-z/k [37369] -> "../data/townSites2/Somerville/www.somervillema.gov/services-a-z/k" [1]
+2017-01-01 23:26:43 URL:http://www.somervillema.gov/services-a-z/l [38410] -> "../data/townSites2/Somerville/www.somervillema.gov/services-a-z/l" [1]
+2017-01-01 23:26:47 URL:http://www.somervillema.gov/services-a-z/m [37864] -> "../data/townSites2/Somerville/www.somervillema.gov/services-a-z/m" [1]
+2017-01-01 23:26:51 URL:http://www.somervillema.gov/services-a-z/n [36952] -> "../data/townSites2/Somerville/www.somervillema.gov/services-a-z/n" [1]
+2017-01-01 23:26:52 URL:http://www.somervillema.gov/services-a-z/o [37566/37566] -> "../data/townSites2/Somerville/www.somervillema.gov/services-a-z/o" [1]
+2017-01-01 23:26:54 URL:http://www.somervillema.gov/services-a-z/p [40954/40954] -> "../data/townSites2/Somerville/www.somervillema.gov/services-a-z/p" [1]
+2017-01-01 23:26:56 URL:http://www.somervillema.gov/services-a-z/q [36952] -> "../data/townSites2/Somerville/www.somervillema.gov/services-a-z/q" [1]
+2017-01-01 23:26:59 URL:http://www.somervillema.gov/services-a-z/r [38162] -> "../data/townSites2/Somerville/www.somervillema.gov/services-a-z/r" [1]
+2017-01-01 23:27:01 URL:http://www.somervillema.gov/services-a-z/s [41112] -> "../data/townSites2/Somerville/www.somervillema.gov/services-a-z/s" [1]
+2017-01-01 23:27:03 URL:http://www.somervillema.gov/services-a-z/t [39292/39292] -> "../data/townSites2/Somerville/www.somervillema.gov/services-a-z/t" [1]
+2017-01-01 23:27:05 URL:http://www.somervillema.gov/services-a-z/u [37397] -> "../data/townSites2/Somerville/www.somervillema.gov/services-a-z/u" [1]
+2017-01-01 23:27:08 URL:http://www.somervillema.gov/services-a-z/v [38202] -> "../data/townSites2/Somerville/www.somervillema.gov/services-a-z/v" [1]
+2017-01-01 23:27:13 URL:http://www.somervillema.gov/services-a-z/w [38373/38373] -> "../data/townSites2/Somerville/www.somervillema.gov/services-a-z/w" [1]
+2017-01-01 23:27:15 URL:http://www.somervillema.gov/services-a-z/x [36952/36952] -> "../data/townSites2/Somerville/www.somervillema.gov/services-a-z/x" [1]
+2017-01-01 23:27:17 URL:http://www.somervillema.gov/services-a-z/y [37407/37407] -> "../data/townSites2/Somerville/www.somervillema.gov/services-a-z/y" [1]
+2017-01-01 23:27:20 URL:http://www.somervillema.gov/departments/office-somerville-commissions/somerville-commission-for-women [60283] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/office-somerville-commissions/somerville-commission-for-women" [1]
+2017-01-01 23:27:31 URL:http://www.somervillema.gov/node/42 [38256] -> "../data/townSites2/Somerville/www.somervillema.gov/node/42" [1]
+2017-01-01 23:27:36 URL:http://www.somervillema.gov/node/41342 [60877/60877] -> "../data/townSites2/Somerville/www.somervillema.gov/node/41342" [1]
+2017-01-01 23:27:39 URL:http://www.somervillema.gov/departments/departments/communications/constituent-services [56400] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/departments/communications/constituent-services" [1]
+2017-01-01 23:27:57 URL:http://www.somervillema.gov/faq/vendor-bidding-process [39668/39668] -> "../data/townSites2/Somerville/www.somervillema.gov/faq/vendor-bidding-process" [1]
+2017-01-01 23:28:01 URL:http://www.somervillema.gov/faq/vendor-registration-and-contacts [39032] -> "../data/townSites2/Somerville/www.somervillema.gov/faq/vendor-registration-and-contacts" [1]
+2017-01-01 23:28:05 URL:http://www.somervillema.gov/faq/vendor-invoices [37579/37579] -> "../data/townSites2/Somerville/www.somervillema.gov/faq/vendor-invoices" [1]
+2017-01-01 23:28:09 URL:http://www.somervillema.gov/faq/contacting-city [37659/37659] -> "../data/townSites2/Somerville/www.somervillema.gov/faq/contacting-city" [1]
+2017-01-01 23:28:11 URL:http://www.somervillema.gov/faq/city-alerts-notifications-and-reminders [38332/38332] -> "../data/townSites2/Somerville/www.somervillema.gov/faq/city-alerts-notifications-and-reminders" [1]
+2017-01-01 23:28:13 URL:http://www.somervillema.gov/faq/parking-tickets-appeals-and-payments [40211] -> "../data/townSites2/Somerville/www.somervillema.gov/faq/parking-tickets-appeals-and-payments" [1]
+2017-01-01 23:28:15 URL:http://www.somervillema.gov/faq/trash-recycling-and-yard-waste-pickup [38602/38602] -> "../data/townSites2/Somerville/www.somervillema.gov/faq/trash-recycling-and-yard-waste-pickup" [1]
+2017-01-01 23:28:17 URL:http://www.somervillema.gov/node/6 [39659/39659] -> "../data/townSites2/Somerville/www.somervillema.gov/node/6" [1]
+2017-01-01 23:28:28 URL:http://www.somervillema.gov/departments/ [53370/53370] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/index.html" [1]
+2017-01-01 23:28:36 URL:http://www.somervillema.gov/node/51 [65222] -> "../data/townSites2/Somerville/www.somervillema.gov/node/51" [1]
+2017-01-01 23:28:38 URL:http://www.somervillema.gov/campaign-finance-reports [47413] -> "../data/townSites2/Somerville/www.somervillema.gov/campaign-finance-reports" [1]
+2017-01-01 23:28:51 URL:http://www.somervillema.gov/documents/51 [44428/44428] -> "../data/townSites2/Somerville/www.somervillema.gov/documents/51" [1]
+2017-01-01 23:28:55 URL:http://www.somervillema.gov/jobs/51 [38001] -> "../data/townSites2/Somerville/www.somervillema.gov/jobs/51" [1]
+2017-01-01 23:28:56 URL: http://www.somervillema.gov/sites/default/files/ward-and-precinct-map.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:28:57 URL: http://www.somervillema.gov/sites/default/files/blank-census-form.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:29:04 URL:http://archive.somervillema.gov//node/52106 [16208] -> "../data/townSites2/Somerville/www.somervillema.gov/node/52106" [1]
+http://www.somervillema.gov/sites/default/files/election-calendar.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:29:17 URL:http://archive.somervillema.gov//node/1013324 [17147] -> "../data/townSites2/Somerville/www.somervillema.gov/node/1013324" [1]
+2017-01-01 23:29:22 URL:http://www.somervillema.gov/departments/elections/pp [56248] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/elections/pp" [1]
+2017-01-01 23:29:30 URL:http://www.somervillema.gov/departments/elections/ec [56248/56248] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/elections/ec" [1]
+2017-01-01 23:29:38 URL:http://www.somervillema.gov/departments/elections/campaign-finance-reports [56266/56266] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/elections/campaign-finance-reports" [1]
+2017-01-01 23:30:23 URL:http://www.somervillema.gov/news/new-ada-compliant-equipment-elections-department-2 [49549] -> "../data/townSites2/Somerville/www.somervillema.gov/news/new-ada-compliant-equipment-elections-department-2" [1]
+2017-01-01 23:30:24 URL: http://www.somervillema.gov/sites/default/files/absentee-ballot-application.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:30:26 URL: http://www.somervillema.gov/sites/default/files/poll-worker-application.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:30:39 URL:http://www.somervillema.gov/node/81 [65472] -> "../data/townSites2/Somerville/www.somervillema.gov/node/81" [1]
+2017-01-01 23:30:59 URL:http://www.somervillema.gov/documents/81 [41861] -> "../data/townSites2/Somerville/www.somervillema.gov/documents/81" [1]
+2017-01-01 23:31:05 URL:http://www.somervillema.gov/node/77 [60459] -> "../data/townSites2/Somerville/www.somervillema.gov/node/77" [1]
+2017-01-01 23:31:07 URL:http://www.somervillema.gov/departments/board-aldermen [56226/56226] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/board-aldermen" [1]
+2017-01-01 23:31:11 URL:http://www.somervillema.gov/departments/boardofaldermen@somervillema.gov [56230/56230] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/boardofaldermen@somervillema.gov" [1]
+2017-01-01 23:31:13 URL:http://www.somervillema.gov/departments/board-of-aldermen/at-large-3 [42959/42959] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/board-of-aldermen/at-large-3" [1]
+2017-01-01 23:31:17 URL:http://www.somervillema.gov/departments/board-of-aldermen/at-large-1 [42973] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/board-of-aldermen/at-large-1" [1]
+2017-01-01 23:31:24 URL:http://www.somervillema.gov/departments/board-of-aldermen/at-large-2 [43047/43047] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/board-of-aldermen/at-large-2" [1]
+2017-01-01 23:31:27 URL:http://www.somervillema.gov/departments/board-of-aldermen/at-large-4 [42944] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/board-of-aldermen/at-large-4" [1]
+2017-01-01 23:31:32 URL:http://www.somervillema.gov/departments/board-of-aldermen/ward-1 [43071/43071] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/board-of-aldermen/ward-1" [1]
+2017-01-01 23:31:35 URL:http://www.somervillema.gov/departments/board-of-aldermen/ward-2 [43042/43042] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/board-of-aldermen/ward-2" [1]
+2017-01-01 23:31:37 URL:http://www.somervillema.gov/departments/board-of-aldermen/ward-3 [42676] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/board-of-aldermen/ward-3" [1]
+2017-01-01 23:31:42 URL:http://www.somervillema.gov/departments/board-of-aldermen/ward-4 [42914/42914] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/board-of-aldermen/ward-4" [1]
+2017-01-01 23:31:46 URL:http://www.somervillema.gov/departments/board-of-aldermen/ward-5 [43009/43009] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/board-of-aldermen/ward-5" [1]
+2017-01-01 23:31:50 URL:http://www.somervillema.gov/departments/board-of-aldermen/ward-6 [42886] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/board-of-aldermen/ward-6" [1]
+2017-01-01 23:31:55 URL:http://www.somervillema.gov/departments/board-of-aldermen/ward-7 [42694] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/board-of-aldermen/ward-7" [1]
+2017-01-01 23:32:00 URL:http://www.somervillema.gov/node/139 [48867] -> "../data/townSites2/Somerville/www.somervillema.gov/node/139" [1]
+2017-01-01 23:32:04 URL:http://www.somervillema.gov/events/2017/01/31/community-preservation-committee [51581/51581] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2017/01/31/community-preservation-committee" [1]
+2017-01-01 23:32:05 URL: http://www.somervillema.gov/sites/default/files/CPC%20agenda%2001.31.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:32:10 URL:http://www.somervillema.gov/events/2017/01/11/community-preservation-committee [50712] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2017/01/11/community-preservation-committee" [1]
+2017-01-01 23:32:11 URL: http://www.somervillema.gov/sites/default/files/CPC%20agenda%2001.11.16_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:32:15 URL:http://www.somervillema.gov/events/2017/01/09/licensing-commission-meeting [51888] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2017/01/09/licensing-commission-meeting" [1]
+2017-01-01 23:32:16 URL: http://www.somervillema.gov/sites/default/files/01-09-17%20-%20Licensing%20Commission%20Meeting%20-%2012-30-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:32:20 URL:http://www.somervillema.gov/events/2017/01/06/community-preservation-committee [51615/51615] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2017/01/06/community-preservation-committee" [1]
+2017-01-01 23:32:21 URL: http://www.somervillema.gov/sites/default/files/CPA%20Logo%20sub-committee%20agenda%2001.06.17.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:32:23 URL:http://www.somervillema.gov/events/2017/01/05/public-hearing-planning-board [51732/51732] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2017/01/05/public-hearing-planning-board" [1]
+2017-01-01 23:32:23 URL: http://www.somervillema.gov/sites/default/files/1-5-17%20Herald%20revised.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:32:25 URL:http://www.somervillema.gov/events/2017/01/04/zoning-board-appeals [51421/51421] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2017/01/04/zoning-board-appeals" [1]
+2017-01-01 23:32:26 URL: http://www.somervillema.gov/sites/default/files/1-4-17%20AM.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:32:28 URL:http://www.somervillema.gov/events/2017/01/04/somerville-housing-authority-meeting [51520] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2017/01/04/somerville-housing-authority-meeting" [1]
+2017-01-01 23:32:28 URL: http://www.somervillema.gov/sites/default/files/SHA012017.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:32:30 URL:http://www.somervillema.gov/events/2016/12/22/powderhouse-studios-innovation-plan-committee-meeting [51799/51799] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2016/12/22/powderhouse-studios-innovation-plan-committee-meeting" [1]
+2017-01-01 23:32:31 URL: http://www.somervillema.gov/sites/default/files/Agendafor22December2016MeetingofPowderhouseStudiosInnovationPlanCommittee.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:32:32 URL:http://www.somervillema.gov/events/2016/12/22/fair-housing-commission-meeting [51706] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2016/12/22/fair-housing-commission-meeting" [1]
+2017-01-01 23:32:33 URL: http://www.somervillema.gov/sites/default/files/December%20%202016%20Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:32:35 URL:http://www.somervillema.gov/events/2016/12/21/somerville-retirement-board-meeting [52109/52109] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2016/12/21/somerville-retirement-board-meeting" [1]
+2017-01-01 23:32:35 URL: http://www.somervillema.gov/sites/default/files/12-21-2016%20Posting%20SRB%20Board%20Meeting.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:32:37 URL:http://www.somervillema.gov/events/2016/12/20/somerville-commission-women-meeting [52346/52346] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2016/12/20/somerville-commission-women-meeting" [1]
+2017-01-01 23:32:38 URL: http://www.somervillema.gov/sites/default/files/SCW%20Agenda%2012-20-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:32:39 URL:http://www.somervillema.gov/events/2016/12/20/historic-preservation-commission-meeting [51106/51106] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2016/12/20/historic-preservation-commission-meeting" [1]
+2017-01-01 23:32:40 URL: http://www.somervillema.gov/sites/default/files/2016.12.20%20Agenda%20%28Revised%29%20%281%29.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:32:42 URL:http://www.somervillema.gov/events/2016/12/20/bicycle-committee-meeting [51647/51647] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2016/12/20/bicycle-committee-meeting" [1]
+2017-01-01 23:32:43 URL: http://www.somervillema.gov/sites/default/files/SBC_Agenda_Dec_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:32:44 URL:http://www.somervillema.gov/events/2016/12/20/somerville-high-school-building-commission [53075] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2016/12/20/somerville-high-school-building-commission" [1]
+2017-01-01 23:32:45 URL: http://www.somervillema.gov/sites/default/files/2016.12.20%20Somerville%20HS%20SBC%20Meeting%20Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:32:47 URL:http://www.somervillema.gov/events/2016/12/19/condominium-review-board-meeting [54036/54036] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2016/12/19/condominium-review-board-meeting" [1]
+2017-01-01 23:32:48 URL: http://www.somervillema.gov/sites/default/files/December%20Noticev2_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:32:49 URL:http://www.somervillema.gov/events/2016/12/15/historic-preservation-commission [52081] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2016/12/15/historic-preservation-commission" [1]
+2017-01-01 23:32:49 URL: http://www.somervillema.gov/sites/default/files/HPC_12-15-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:32:51 URL:http://www.somervillema.gov/events/2016/12/15/somerville-historic-preservation-commission-public-hearing [51086/51086] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2016/12/15/somerville-historic-preservation-commission-public-hearing" [1]
+2017-01-01 23:32:51 URL: http://www.somervillema.gov/sites/default/files/Harvard%20Hill%20LHD%20Public%20Hearing%20Notice%20-%20for%2012-15-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:32:53 URL:http://www.somervillema.gov/events/2016/12/15/traffic-commission-meeting [51510/51510] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2016/12/15/traffic-commission-meeting" [1]
+2017-01-01 23:32:53 URL: http://www.somervillema.gov/sites/default/files/Dec%2016%20TC%20agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:32:53 URL: http://www.somervillema.gov/sites/default/files/Dec%2016%20TC%20Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:32:55 URL:http://www.somervillema.gov/events/2016/12/14/shs-improvement-council [52764/52764] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2016/12/14/shs-improvement-council" [1]
+2017-01-01 23:32:56 URL: http://www.somervillema.gov/sites/default/files/SIC%20agenda%2012-14-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:32:57 URL:http://www.somervillema.gov/events/2016/12/14/board-library-trustees-meeting [51509/51509] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2016/12/14/board-library-trustees-meeting" [1]
+2017-01-01 23:32:57 URL: http://www.somervillema.gov/sites/default/files/Agenda12_14_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:32:59 URL:http://www.somervillema.gov/events/2016/12/14/somerville-housing-authority-meeting [50627] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2016/12/14/somerville-housing-authority-meeting" [1]
+2017-01-01 23:33:00 URL: http://www.somervillema.gov/sites/default/files/12%202016%20Public%20Hearing.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:33:02 URL:http://www.somervillema.gov/events/2016/12/14/municipal-compensation-advisory-board-meeting [51944] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2016/12/14/municipal-compensation-advisory-board-meeting" [1]
+2017-01-01 23:33:03 URL: http://www.somervillema.gov/sites/default/files/Public%20Meeting%20Notice%20_%20Muni%20Adv%20Bd%2020161214.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:33:05 URL:http://www.somervillema.gov/events/2016/12/13/community-preservation-committee-meeting [51736/51736] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2016/12/13/community-preservation-committee-meeting" [1]
+2017-01-01 23:33:05 URL: http://www.somervillema.gov/sites/default/files/CPC_agenda_12.13.16_DRAFT.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:33:07 URL:http://www.somervillema.gov/events/2016/12/12/union-square-civic-advisory-committee-meeting [50863/50863] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2016/12/12/union-square-civic-advisory-committee-meeting" [1]
+2017-01-01 23:33:07 URL: http://www.somervillema.gov/sites/default/files/Usq%20CAC%20Agenda%20December12_.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:33:08 URL: http://www.somervillema.gov/sites/default/files/2016.12.12%20Somerville%20HS%20SBC%20Meeting%20Agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:33:08 URL: http://www.somervillema.gov/sites/default/files/planning_board12-8-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:33:10 URL:http://www.somervillema.gov/events/2016/12/08/somerville-redevelopment-authority-meeting [51797] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2016/12/08/somerville-redevelopment-authority-meeting" [1]
+2017-01-01 23:33:10 URL: http://www.somervillema.gov/sites/default/files/SRA%20Meeting%20Notice%20%26%20Agenda%2012.08.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:33:12 URL:http://www.somervillema.gov/events/2016/12/07/somerville-commission-energy-use-and-climate-change-meeting [52015/52015] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2016/12/07/somerville-commission-energy-use-and-climate-change-meeting" [1]
+2017-01-01 23:33:13 URL: http://www.somervillema.gov/sites/default/files/Public%20Notice%20for%20Meeting%2012072016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:33:15 URL:http://www.somervillema.gov/node/168 [45664] -> "../data/townSites2/Somerville/www.somervillema.gov/node/168" [1]
+2017-01-01 23:33:17 URL:http://www.somervillema.gov/departments/departments/finance/treasurercollector [56366] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/departments/finance/treasurercollector" [1]
+2017-01-01 23:33:20 URL:http://www.somervillema.gov/departments/finance/assessing/ [75014] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/finance/assessing/index.html" [1]
+2017-01-01 23:33:21 URL:http://www.somervillema.gov/content/submit-event [50068/50068] -> "../data/townSites2/Somerville/www.somervillema.gov/content/submit-event" [1]
+2017-01-01 23:33:22 URL:http://www.somervillema.gov/events/2017/01/08/trip-atlantic-city-new-jersey [48845/48845] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2017/01/08/trip-atlantic-city-new-jersey" [1]
+2017-01-01 23:33:24 URL:http://www.somervillema.gov/events/2017/01/09/somerville-state-city-address [52680] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2017/01/09/somerville-state-city-address" [1]
+2017-01-01 23:33:26 URL:http://www.somervillema.gov/events/2017/01/24/conservation-commission [52847] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2017/01/24/conservation-commission" [1]
+2017-01-01 23:33:29 URL:http://www.somervillema.gov/events/2017/01/27/painting-linda [52701/52701] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2017/01/27/painting-linda" [1]
+2017-01-01 23:33:30 URL:http://www.somervillema.gov/events/2017/02/03/painting-linda [52701/52701] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2017/02/03/painting-linda" [1]
+2017-01-01 23:33:32 URL:http://www.somervillema.gov/events/2017/02/10/painting-linda [52665] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2017/02/10/painting-linda" [1]
+2017-01-01 23:33:34 URL:http://www.somervillema.gov/events/2017/02/13/planning-department-meeting [53514/53514] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2017/02/13/planning-department-meeting" [1]
+2017-01-01 23:33:36 URL:http://www.somervillema.gov/events/2017/02/28/conservation-commission [52848/52848] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2017/02/28/conservation-commission" [1]
+2017-01-01 23:33:38 URL:http://www.somervillema.gov/events/2017/03/02/planning-department-meeting [53512] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2017/03/02/planning-department-meeting" [1]
+2017-01-01 23:33:41 URL:http://www.somervillema.gov/events/2017/03/21/planning-department-meeting [53512/53512] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2017/03/21/planning-department-meeting" [1]
+2017-01-01 23:33:43 URL:http://www.somervillema.gov/events/2017/03/28/conservation-commission [52796/52796] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2017/03/28/conservation-commission" [1]
+2017-01-01 23:33:44 URL:http://www.somervillema.gov/events/2017/04/04/planning-department-meeting [53462/53462] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2017/04/04/planning-department-meeting" [1]
+2017-01-01 23:33:46 URL:http://www.somervillema.gov/events/2017/04/18/diabetes-shoe-clinic [53007/53007] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2017/04/18/diabetes-shoe-clinic" [1]
+2017-01-01 23:33:48 URL:http://www.somervillema.gov/events/2017/04/24/wedding-anniversary-luncheon [52593/52593] -> "../data/townSites2/Somerville/www.somervillema.gov/events/2017/04/24/wedding-anniversary-luncheon" [1]
+2017-01-01 23:33:50 URL:http://www.somervillema.gov/node/40884 [40240] -> "../data/townSites2/Somerville/www.somervillema.gov/node/40884" [1]
+2017-01-01 23:33:53 URL:http://www.somervillema.gov/departments/departments/dpw/highway [56269/56269] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/departments/dpw/highway" [1]
+2017-01-01 23:33:55 URL:http://www.somervillema.gov/node/140 [54753] -> "../data/townSites2/Somerville/www.somervillema.gov/node/140" [1]
+2017-01-01 23:33:56 URL:http://www.somervillema.gov/snowparking [64201/64201] -> "../data/townSites2/Somerville/www.somervillema.gov/snowparking" [1]
+2017-01-01 23:33:58 URL:http://www.somervillema.gov/node/24516 [64200] -> "../data/townSites2/Somerville/www.somervillema.gov/node/24516" [1]
+2017-01-01 23:34:00 URL:http://www.somervillema.gov/nieve [40831] -> "../data/townSites2/Somerville/www.somervillema.gov/nieve" [1]
+2017-01-01 23:34:02 URL:http://www.somervillema.gov/neve [43528] -> "../data/townSites2/Somerville/www.somervillema.gov/neve" [1]
+2017-01-01 23:34:03 URL:http://www.somervillema.gov/nej [38620] -> "../data/townSites2/Somerville/www.somervillema.gov/nej" [1]
+2017-01-01 23:34:04 URL:http://www.somervillema.gov/snow/snow-emergency-parking-exceptions [42869/42869] -> "../data/townSites2/Somerville/www.somervillema.gov/snow/snow-emergency-parking-exceptions" [1]
+2017-01-01 23:34:06 URL:http://www.somervillema.gov/node/24493 [47356] -> "../data/townSites2/Somerville/www.somervillema.gov/node/24493" [1]
+2017-01-01 23:34:12 URL:http://archive.somervillema.gov//&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHklEQVQ4EaVTO26DQBD1ohQWaS2lg9JybZ+AK7hNwx2oIoVf4UPQ0Lj1FdKktevIpel8AKNUkDcWMxpgSaIEaTVv3sx7uztiTdu2s/98DywOw3Dued4Who/M2aIx5lZV1aEsy0+qiwHELyi+Ytl0PQ69SxAxkWIA4RMRTdNsKE59juMcuZd6xIAFeZ6fGCdJ8kY4y7KAuTRNGd7jyEBXsdOPE3a0QGPsniOnnYMO67LgSQN9T41F2QGrQRRFCwyzoIF2qyBuKKbcOgPXdVeY9rMWgNsjf9ccYesJhk3f5dYT1HX9gR0LLQR30TnjkUEcx2uIuS4RnI+aj6sJR0AM8AaumPaM/rRehyWhXqbFAA9kh3/8/NvHxAYGAsZ/il8IalkCLBfNVAAAAABJRU5ErkJggg==&quot; [42754] -> "../data/townSites2/Somerville/www.somervillema.gov/&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHklEQVQ4EaVTO26DQBD1ohQWaS2lg9JybZ+AK7hNwx2oIoVf4UPQ0Lj1FdKktevIpel8AKNUkDcWMxpgSaIEaTVv3sx7uztiTdu2s/98DywOw3Dued4Who/M2aIx5lZV1aEsy0+qiwHELyi+Ytl0PQ69SxAxkWIA4RMRTdNsKE59juMcuZd6xIAFeZ6fGCdJ8kY4y7KAuTRNGd7jyEBXsdOPE3a0QGPsniOnnYMO67LgSQN9T41F2QGrQRRFCwyzoIF2qyBuKKbcOgPXdVeY9rMWgNsjf9ccYesJhk3f5dYT1HX9gR0LLQR30TnjkUEcx2uIuS4RnI+aj6sJR0AM8AaumPaM/rRehyWhXqbFAA9kh3/8/NvHxAYGAsZ/il8IalkCLBfNVAAAAABJRU5ErkJggg==&quot;" [1]
+2017-01-01 23:34:16 URL:http://www.somervillema.gov/node/71 [58180/58180] -> "../data/townSites2/Somerville/www.somervillema.gov/node/71" [1]
+2017-01-01 23:34:19 URL:http://www.somervillema.gov/departments/somerviva/bem-vindo [47582] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/somerviva/bem-vindo" [1]
+2017-01-01 23:34:20 URL:http://www.somervillema.gov/departments/somerviva/bienvenidos [47557/47557] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/somerviva/bienvenidos" [1]
+2017-01-01 23:34:22 URL:http://www.somervillema.gov/node/40787 [43718/43718] -> "../data/townSites2/Somerville/www.somervillema.gov/node/40787" [1]
+2017-01-01 23:34:25 URL:http://www.somervillema.gov/node/41286 [42699] -> "../data/townSites2/Somerville/www.somervillema.gov/node/41286" [1]
+2017-01-01 23:34:27 URL:http://www.somervillema.gov/node/41488 [40250/40250] -> "../data/townSites2/Somerville/www.somervillema.gov/node/41488" [1]
+2017-01-01 23:34:29 URL:http://www.somervillema.gov/node/41487 [38775/38775] -> "../data/townSites2/Somerville/www.somervillema.gov/node/41487" [1]
+2017-01-01 23:34:30 URL:http://www.somervillema.gov/node/41470 [40434/40434] -> "../data/townSites2/Somerville/www.somervillema.gov/node/41470" [1]
+2017-01-01 23:34:32 URL:http://www.somervillema.gov/node/41393 [38642/38642] -> "../data/townSites2/Somerville/www.somervillema.gov/node/41393" [1]
+2017-01-01 23:34:33 URL: http://www.somervillema.gov/news.xml 200 OK
+unlink: No such file or directory
+2017-01-01 23:34:34 URL:http://www.somervillema.gov/news/historic-somerville-merchandise-sale-holiday-season [39076/39076] -> "../data/townSites2/Somerville/www.somervillema.gov/news/historic-somerville-merchandise-sale-holiday-season" [1]
+2017-01-01 23:34:36 URL:http://www.somervillema.gov/news/somerville%E2%80%99s-%E2%80%9Cequity-inclusion-conversation-series%E2%80%9D-continues-1214 [39723] -> "../data/townSites2/Somerville/www.somervillema.gov/news/somervilleâ%80%99s-â%80%9Cequity-inclusion-conversation-seriesâ%80%9D-continues-1214" [1]
+2017-01-01 23:34:37 URL:http://www.somervillema.gov/news/somerville-seeking-residents-advise-capital-improvement-projects [40713] -> "../data/townSites2/Somerville/www.somervillema.gov/news/somerville-seeking-residents-advise-capital-improvement-projects" [1]
+2017-01-01 23:34:40 URL:http://www.somervillema.gov/news/applicants-sought-commission-energy-use-and-climate-change [39678] -> "../data/townSites2/Somerville/www.somervillema.gov/news/applicants-sought-commission-energy-use-and-climate-change" [1]
+2017-01-01 23:34:41 URL:http://www.somervillema.gov/news/community-path-paving-coming-spring [37761/37761] -> "../data/townSites2/Somerville/www.somervillema.gov/news/community-path-paving-coming-spring" [1]
+2017-01-01 23:34:43 URL:http://www.somervillema.gov/news/upcoming-green-line-extension-community-meetings [38193] -> "../data/townSites2/Somerville/www.somervillema.gov/news/upcoming-green-line-extension-community-meetings" [1]
+2017-01-01 23:34:44 URL:http://www.somervillema.gov/news/somerville-redevelopment-authority-seeking-new-member [39458/39458] -> "../data/townSites2/Somerville/www.somervillema.gov/news/somerville-redevelopment-authority-seeking-new-member" [1]
+2017-01-01 23:34:46 URL:http://www.somervillema.gov/news/annual-holiday-celebrations-somerville-december [40201] -> "../data/townSites2/Somerville/www.somervillema.gov/news/annual-holiday-celebrations-somerville-december" [1]
+2017-01-01 23:34:47 URL:http://www.somervillema.gov/news/solidarity-and-sanctuary-cities-open-letter-mayor-curtatone [43085/43085] -> "../data/townSites2/Somerville/www.somervillema.gov/news/solidarity-and-sanctuary-cities-open-letter-mayor-curtatone" [1]
+2017-01-01 23:34:48 URL:http://www.somervillema.gov/news/west-branch-library-renovation-community-meeting [38358/38358] -> "../data/townSites2/Somerville/www.somervillema.gov/news/west-branch-library-renovation-community-meeting" [1]
+2017-01-01 23:34:50 URL:http://www.somervillema.gov/news/cable-television-renewal-license-transfer-hearing [38050/38050] -> "../data/townSites2/Somerville/www.somervillema.gov/news/cable-television-renewal-license-transfer-hearing" [1]
+2017-01-01 23:34:51 URL:http://www.somervillema.gov/news/lower-speed-limit-goes-effect-november-7-somerville [41966/41966] -> "../data/townSites2/Somerville/www.somervillema.gov/news/lower-speed-limit-goes-effect-november-7-somerville" [1]
+2017-01-01 23:34:52 URL:http://www.somervillema.gov/news/nominate-properties-annual-preservation-awards-nov-18 [39394/39394] -> "../data/townSites2/Somerville/www.somervillema.gov/news/nominate-properties-annual-preservation-awards-nov-18" [1]
+2017-01-01 23:34:54 URL:http://www.somervillema.gov/news/join-historic-preservation-commission-tours-milk-row-cemetery-prospect-hill-tower [39973/39973] -> "../data/townSites2/Somerville/www.somervillema.gov/news/join-historic-preservation-commission-tours-milk-row-cemetery-prospect-hill-tower" [1]
+2017-01-01 23:34:56 URL:http://www.somervillema.gov/news/health-departments-free-flu-vaccines-offered-annual-clinics [52260] -> "../data/townSites2/Somerville/www.somervillema.gov/news/health-departments-free-flu-vaccines-offered-annual-clinics" [1]
+2017-01-01 23:34:57 URL:http://www.somervillema.gov/news/somerville-allow-permit-applications-four-medical-marijuana-dispensaries [41461/41461] -> "../data/townSites2/Somerville/www.somervillema.gov/news/somerville-allow-permit-applications-four-medical-marijuana-dispensaries" [1]
+2017-01-01 23:35:00 URL:http://www.somervillema.gov/node/41257 [48816] -> "../data/townSites2/Somerville/www.somervillema.gov/node/41257" [1]
+2017-01-01 23:35:01 URL: http://www.somervillema.gov/sites/default/files/cori-request-form.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:35:04 URL:http://www.somervillema.gov/departments/programs/community-preservation-act [42583] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/programs/community-preservation-act" [1]
+2017-01-01 23:35:05 URL:http://www.somervillema.gov/departments/ospcd-economic-development/programs/community-development-block-grant [48323/48323] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/ospcd-economic-development/programs/community-development-block-grant" [1]
+2017-01-01 23:35:08 URL:http://www.somervillema.gov/departments/programs/somerville-cares-about-prevention-scap [51544/51544] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/programs/somerville-cares-about-prevention-scap" [1]
+2017-01-01 23:35:10 URL:http://www.somervillema.gov/departments/programs/new-residents [42082] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/programs/new-residents" [1]
+2017-01-01 23:35:13 URL:http://www.somervillema.gov/node/15486 [44093] -> "../data/townSites2/Somerville/www.somervillema.gov/node/15486" [1]
+2017-01-01 23:35:15 URL:http://www.somervillema.gov/node/41457 [52262/52262] -> "../data/townSites2/Somerville/www.somervillema.gov/node/41457" [1]
+2017-01-01 23:35:21 URL:http://archive.somervillema.gov//events/241st-flag-raising [38288] -> "../data/townSites2/Somerville/www.somervillema.gov/events/241st-flag-raising" [1]
+2017-01-01 23:35:22 URL: http://www.somervillema.gov/sites/default/files/FINAL%20flyerFlagRaising2017lightphotos%20%282%29.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:35:24 URL:http://www.somervillema.gov/node/15512 [43778/43778] -> "../data/townSites2/Somerville/www.somervillema.gov/node/15512" [1]
+2017-01-01 23:35:29 URL:http://archive.somervillema.gov//events/new-year [38178] -> "../data/townSites2/Somerville/www.somervillema.gov/events/new-year" [1]
+2017-01-01 23:35:32 URL:http://www.somervillema.gov/file/88 [35543] -> "../data/townSites2/Somerville/www.somervillema.gov/file/88" [1]
+2017-01-01 23:35:33 URL:http://www.somervillema.gov/file/93 [35641/35641] -> "../data/townSites2/Somerville/www.somervillema.gov/file/93" [1]
+2017-01-01 23:35:35 URL:http://www.somervillema.gov/file/89 [35640/35640] -> "../data/townSites2/Somerville/www.somervillema.gov/file/89" [1]
+2017-01-01 23:35:37 URL:http://www.somervillema.gov/node/40630 [43103] -> "../data/townSites2/Somerville/www.somervillema.gov/node/40630" [1]
+2017-01-01 23:35:37 URL: http://www.somervillema.gov/job-postings.xml 200 OK
+unlink: No such file or directory
+http://www.somervillema.gov/sites/default/files/documents/employment-application-03-12.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:35:40 URL:http://www.somervillema.gov/node/23 [58826] -> "../data/townSites2/Somerville/www.somervillema.gov/node/23" [1]
+2017-01-01 23:35:44 URL:http://www.somervillema.gov/node/195 [54266/54266] -> "../data/townSites2/Somerville/www.somervillema.gov/node/195" [1]
+2017-01-01 23:35:46 URL:http://www.somervillema.gov/departments/departments/health-and-human-services [56277/56277] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/departments/health-and-human-services" [1]
+2017-01-01 23:35:48 URL:http://www.somervillema.gov/documents/195 [48002] -> "../data/townSites2/Somerville/www.somervillema.gov/documents/195" [1]
+2017-01-01 23:35:49 URL: http://www.somervillema.gov/sites/default/files/ada-act-1990.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:35:49 URL: http://www.somervillema.gov/sites/default/files/ada-public-notice.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:35:50 URL: http://www.somervillema.gov/sites/default/files/somerville-aps-study.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 23:35:52 URL:http://www.somervillema.gov/node/24581 [41896/41896] -> "../data/townSites2/Somerville/www.somervillema.gov/node/24581" [1]
+2017-01-01 23:35:55 URL:http://www.somervillema.gov/node/85 [56639] -> "../data/townSites2/Somerville/www.somervillema.gov/node/85" [1]
+2017-01-01 23:35:59 URL:http://www.somervillema.gov/departments/communications/constituent-services [51836/51836] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/communications/constituent-services" [1]
+2017-01-01 23:36:03 URL:http://www.somervillema.gov/departments/communications-and-community-engagement/somerviva-portugu%C3%AAs [52465] -> "../data/townSites2/Somerville/www.somervillema.gov/departments/communications-and-community-engagement/somerviva-portuguÃªs" [1]
+2017-01-01 23:36:05 URL:http://www.somervillema.gov/faq/85 [37847/37847] -> "../data/townSites2/Somerville/www.somervillema.gov/faq/85" [1]
+2017-01-01 23:36:08 URL:http://www.somervillema.gov/documents/85 [44081/44081] -> "../data/townSites2/Somerville/www.somervillema.gov/documents/85" [1]
+2017-01-01 23:36:10 URL:http://www.somervillema.gov/jobs/85 [38001] -> "../data/townSites2/Somerville/www.somervillema.gov/jobs/85" [1]
+2017-01-01 23:36:14 URL:http://www.somervillema.gov/node/90/ [51758] -> "../data/townSites2/Somerville/www.somervillema.gov/node/90/index.html" [1]
+http://www.somervillema.gov/node/210/:
+Remote file does not exist -- broken link!!!
+2017-01-01 23:36:17 URL:http://www.somervillema.gov/node/50/ [62204/62204] -> "../data/townSites2/Somerville/www.somervillema.gov/node/50/index.html" [1]
+2017-01-01 23:36:23 URL:http://archive.somervillema.gov//bienvenidos [22554] -> "../data/townSites2/Somerville/www.somervillema.gov/bienvenidos" [1]
+2017-01-01 23:36:29 URL:http://archive.somervillema.gov//bemvindo [23150] -> "../data/townSites2/Somerville/www.somervillema.gov/bemvindo" [1]
+2017-01-01 23:36:34 URL:http://archive.somervillema.gov//akeyi [19763] -> "../data/townSites2/Somerville/www.somervillema.gov/akeyi" [1]
+Found 12 broken links.
+
+http://www.somervillema.gov/sites/default/files/Somerville%20City%20Cable%2013%3A22%20Schedule.ics
+http://www.somervillema.gov/sites/default/files/election-calendar.pdf
+http://www.somervillema.gov/sites/default/files/voter-reg-mail-in-english.pdf
+http://www.somervillema.gov/page/&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHklEQVQ4EaVTO26DQBD1ohQWaS2lg9JybZ+AK7hNwx2oIoVf4UPQ0Lj1FdKktevIpel8AKNUkDcWMxpgSaIEaTVv3sx7uztiTdu2s/98DywOw3Dued4Who/M2aIx5lZV1aEsy0+qiwHELyi+Ytl0PQ69SxAxkWIA4RMRTdNsKE59juMcuZd6xIAFeZ6fGCdJ8kY4y7KAuTRNGd7jyEBXsdOPE3a0QGPsniOnnYMO67LgSQN9T41F2QGrQRRFCwyzoIF2qyBuKKbcOgPXdVeY9rMWgNsjf9ccYesJhk3f5dYT1HX9gR0LLQR30TnjkUEcx2uIuS4RnI+aj6sJR0AM8AaumPaM/rRehyWhXqbFAA9kh3/8/NvHxAYGAsZ/il8IalkCLBfNVAAAAABJRU5ErkJggg==&quot;
+http://www.somervillema.gov/node/airplanenoise
+http://www.somervillema.gov/social
+http://www.somervillema.gov/node/210/
+http://www.somervillema.gov/sites/default/files/documents/employment-application-03-12.pdf
+http://www.somervillema.gov/departments/office-strategic-planning-and-community-development
+http://www.somervillema.gov/content/airplanenoise
+http://www.somervillema.gov/departments/traffic-and-parking/parksomerville
+http://www.somervillema.gov/departments/historic-preservation-commission
+
+FINISHED --2017-01-01 23:36:34--
+Total wall clock time: 17m 10s
+Downloaded: 362 files, 17M in 4m 39s (62.4 KB/s)

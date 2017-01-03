@@ -1,0 +1,414 @@
+2017-01-02 00:03:18 URL:http://www.ci.ashby.ma.us/ [9221/9221] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/index.html" [1]
+2017-01-02 00:03:19 URL:http://www.ci.ashby.ma.us/index.html [9221/9221] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/index.html" [1]
+2017-01-02 00:03:19 URL:http://www.ci.ashby.ma.us/departments.html [12290/12290] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/departments.html" [1]
+2017-01-02 00:03:20 URL:http://www.ci.ashby.ma.us/services.html [9679/9679] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/services.html" [1]
+2017-01-02 00:03:21 URL:http://www.ci.ashby.ma.us/document%20link.htm [17670/17670] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/document link.htm" [1]
+2017-01-02 00:03:22 URL:http://www.ci.ashby.ma.us/community/index.htm [7934/7934] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/community/index.htm" [1]
+2017-01-02 00:03:23 URL:http://www.ci.ashby.ma.us/joblink.htm [10350/10350] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/joblink.htm" [1]
+2017-01-02 00:03:24 URL:http://www.ci.ashby.ma.us/towndocs.html [8600/8600] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/towndocs.html" [1]
+2017-01-02 00:03:25 URL:http://www.ci.ashby.ma.us/links.htm [6101/6101] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/links.htm" [1]
+2017-01-02 00:03:25 URL:http://www.ci.ashby.ma.us/calendar.html [4546/4546] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/calendar.html" [1]
+2017-01-02 00:03:27 URL:http://www.ci.ashby.ma.us/ARCTS/arcts.html [7439/7439] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/ARCTS/arcts.html" [1]
+2017-01-02 00:03:27 URL:http://www.ci.ashby.ma.us/minutes.html [5620/5620] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/minutes.html" [1]
+2017-01-02 00:03:28 URL:http://www.ci.ashby.ma.us/collector/online_payments.htm [6804/6804] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/collector/online_payments.htm" [1]
+2017-01-02 00:03:29 URL:http://www.ci.ashby.ma.us/clerk/dog_license.htm [5467/5467] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/clerk/dog_license.htm" [1]
+2017-01-02 00:03:30 URL:http://www.ci.ashby.ma.us/assessors/assessors.html [9687/9687] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/assessors/assessors.html" [1]
+2017-01-02 00:03:31 URL:http://www.ci.ashby.ma.us/Selectmen/bos-video.html [14710/14710] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/Selectmen/bos-video.html" [1]
+2017-01-02 00:03:31 URL:http://www.ci.ashby.ma.us/ethics-instruct.html [4064/4064] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/ethics-instruct.html" [1]
+2017-01-02 00:03:33 URL:http://www.ci.ashby.ma.us/newsfeed.html [6499/6499] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/newsfeed.html" [1]
+2017-01-02 00:03:34 URL: http://www.ci.ashby.ma.us/document/police/Full-Time%20Dispatch%20Position%20161222.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:03:34 URL: http://www.ci.ashby.ma.us/document/energy/aggregatio-Public%20Notice-01.2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:03:35 URL: http://www.ci.ashby.ma.us/ARCTS/Fee-Schedule-161224.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:03:36 URL:http://www.ci.ashby.ma.us/document/official/job_advert/Hwy-Truck-DriverLaborer-161121.html [5634/5634] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/document/official/job_advert/Hwy-Truck-DriverLaborer-161121.html" [1]
+2017-01-02 00:03:37 URL: http://www.ci.ashby.ma.us/coa/documents_coa/Ashby%20Senior%20Scoop%20Dec%20%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:03:37 URL:http://www.ci.ashby.ma.us/generic_page3.html [4146/4146] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/generic_page3.html" [1]
+2017-01-02 00:03:37 URL: http://www.ci.ashby.ma.us/document/assessor/AshbyAssessmentBrochure2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:03:38 URL:http://www.ci.ashby.ma.us/Selectmen/com-choice-electric/index-com-choice.html [8740/8740] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/Selectmen/com-choice-electric/index-com-choice.html" [1]
+2017-01-02 00:03:39 URL: http://www.ci.ashby.ma.us/document/assessor/AshbyAssessmentBrochure2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:03:39 URL: http://www.ci.ashby.ma.us/coa/documents_coa/Meals%20on%20Wheels%20flyer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:03:40 URL:http://www.ci.ashby.ma.us/coa/coa_index.html [6368/6368] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/coa/coa_index.html" [1]
+2017-01-02 00:03:41 URL:http://www.ci.ashby.ma.us/generic_page2.html [3715/3715] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/generic_page2.html" [1]
+2017-01-02 00:03:42 URL:http://www.ci.ashby.ma.us/tools.html [2122/2122] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/tools.html" [1]
+2017-01-02 00:03:43 URL:http://www.ci.ashby.ma.us/document/legal_disclaimer.html [11163/11163] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/document/legal_disclaimer.html" [1]
+2017-01-02 00:03:44 URL:http://www.ci.ashby.ma.us/agriculture/agcom.htm [6337/6337] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/agriculture/agcom.htm" [1]
+2017-01-02 00:03:45 URL:http://www.ci.ashby.ma.us/committee_other/blood_hill/blood_hill_mange.html [6407/6407] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/committee_other/blood_hill/blood_hill_mange.html" [1]
+2017-01-02 00:03:45 URL:http://www.ci.ashby.ma.us/boardofhealth/BOHintro.html [6287/6287] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/boardofhealth/BOHintro.html" [1]
+2017-01-02 00:03:46 URL:http://www.ci.ashby.ma.us/Selectmen/Selectmen.htm [5342/5342] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/Selectmen/Selectmen.htm" [1]
+2017-01-02 00:03:47 URL:http://www.ci.ashby.ma.us/inspectors/inspection.htm [9682/9682] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/inspectors/inspection.htm" [1]
+2017-01-02 00:03:48 URL:http://www.ci.ashby.ma.us/conservation/conscommindex.htm [6727/6727] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/conservation/conscommindex.htm" [1]
+2017-01-02 00:03:49 URL:http://www.ci.ashby.ma.us/cultural/culturalindex.html [15161/15161] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/cultural/culturalindex.html" [1]
+2017-01-02 00:03:49 URL:http://www.ci.ashby.ma.us/committee_other/econ_dev/econ_dev_main.html [6864/6864] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/committee_other/econ_dev/econ_dev_main.html" [1]
+2017-01-02 00:03:51 URL:http://www.ci.ashby.ma.us/emer_manage/index_em.html [4776/4776] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/emer_manage/index_em.html" [1]
+2017-01-02 00:03:52 URL:http://www.ci.ashby.ma.us/committee_other/eec/energy_eff_com.html [9691/9691] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/committee_other/eec/energy_eff_com.html" [1]
+2017-01-02 00:03:53 URL:http://www.ci.ashby.ma.us/fincom/fincom.html [6408/6408] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/fincom/fincom.html" [1]
+2017-01-02 00:03:54 URL:http://www.ci.ashby.ma.us/highway/indexhighway.html [5459/5459] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/highway/indexhighway.html" [1]
+2017-01-02 00:03:54 URL:http://www.ci.ashby.ma.us/historical/indexhistoric.htm [9095/9095] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/historical/indexhistoric.htm" [1]
+2017-01-02 00:03:55 URL:http://www.ci.ashby.ma.us/nerc/nerc.htm [9557/9557] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/nerc/nerc.htm" [1]
+2017-01-02 00:03:56 URL:http://www.ci.ashby.ma.us/plan/planbd.html [8230/8230] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/plan/planbd.html" [1]
+2017-01-02 00:03:57 URL:http://www.ci.ashby.ma.us/clerk/clerk.html [7816/7816] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/clerk/clerk.html" [1]
+2017-01-02 00:03:58 URL:http://www.ci.ashby.ma.us/treasurer/index_treasurer.html [4823/4823] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/treasurer/index_treasurer.html" [1]
+2017-01-02 00:03:59 URL:http://www.ci.ashby.ma.us/ZBA/ZBA.htm [6344/6344] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/ZBA/ZBA.htm" [1]
+2017-01-02 00:04:00 URL:http://www.ci.ashby.ma.us/plan/anr.htm [13155/13155] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/plan/anr.htm" [1]
+2017-01-02 00:04:01 URL:http://www.ci.ashby.ma.us/plan/subdivpg.htm [6494/6494] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/plan/subdivpg.htm" [1]
+2017-01-02 00:04:02 URL: http://www.ci.ashby.ma.us/document/highway/driveway_regs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:03 URL:http://www.ci.ashby.ma.us/clerk/business.htm [10126/10126] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/clerk/business.htm" [1]
+2017-01-02 00:04:03 URL: http://www.ci.ashby.ma.us/document/TOWN%20BYLAWS%202014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:03 URL: http://www.ci.ashby.ma.us/document/Zoning%20Bylaw110507.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:04 URL:http://www.ci.ashby.ma.us/library/library.html [5841/5841] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/library/library.html" [1]
+2017-01-02 00:04:05 URL:http://www.ci.ashby.ma.us/boardofhealth/well_adult.html [5039/5039] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/boardofhealth/well_adult.html" [1]
+2017-01-02 00:04:06 URL:http://www.ci.ashby.ma.us/clerk/vital.htm [5789/5789] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/clerk/vital.htm" [1]
+2017-01-02 00:04:06 URL:http://www.ci.ashby.ma.us/clerk/dog.htm [5459/5459] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/clerk/dog.htm" [1]
+2017-01-02 00:04:07 URL:http://www.ci.ashby.ma.us/clerk/hunt.htm [4756/4756] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/clerk/hunt.htm" [1]
+2017-01-02 00:04:08 URL:http://www.ci.ashby.ma.us/openspace/CONTENTS.htm [8560/8560] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/openspace/CONTENTS.htm" [1]
+2017-01-02 00:04:09 URL:http://www.ci.ashby.ma.us/document/plans&reports/AshbyCDP.htm [1137/1137] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/document/plans&reports/AshbyCDP.htm" [1]
+2017-01-02 00:04:09 URL: http://www.ci.ashby.ma.us/document/plans&reports/Ashby%20Recon%20Final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:10 URL:http://www.ci.ashby.ma.us/document/plans&reports/Ashby%20Land%20USe%20Study%20Index.htm [807/807] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/document/plans&reports/Ashby Land USe Study Index.htm" [1]
+2017-01-02 00:04:11 URL:http://www.ci.ashby.ma.us/clerk/treport/reportindex.htm [5827/5827] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/clerk/treport/reportindex.htm" [1]
+2017-01-02 00:04:11 URL:http://www.ci.ashby.ma.us/assessors/senior_tax_workoff.html [6218/6218] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/assessors/senior_tax_workoff.html" [1]
+2017-01-02 00:04:13 URL:http://www.ci.ashby.ma.us/assessors/mv_abatement.html [7095/7095] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/assessors/mv_abatement.html" [1]
+2017-01-02 00:04:13 URL:http://www.ci.ashby.ma.us/assessors/property_records.html [4844/4844] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/assessors/property_records.html" [1]
+2017-01-02 00:04:14 URL:http://www.ci.ashby.ma.us/clerk/vote.htm [11194/11194] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/clerk/vote.htm" [1]
+2017-01-02 00:04:15 URL:http://www.ci.ashby.ma.us/clerk/town_meeting.html [12727/12727] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/clerk/town_meeting.html" [1]
+2017-01-02 00:04:16 URL:http://www.ci.ashby.ma.us/document/Clerk/town_meeting/video/town-meeting-video.html [4800/4800] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/document/Clerk/town_meeting/video/town-meeting-video.html" [1]
+2017-01-02 00:04:16 URL: http://www.ci.ashby.ma.us/document/Zoning%20Bylaw160507.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:16 URL: http://www.ci.ashby.ma.us/document/Zoning%20Bylaw160507.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:17 URL: http://www.ci.ashby.ma.us/document/TOWN%20BYLAWS%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:17 URL: http://www.ci.ashby.ma.us/document/TOWN%20BYLAWS%202016.docx 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:17 URL: http://www.ci.ashby.ma.us/document/official/expense%20report/Expense%20Report%20After%20W17-13%20&%20W17-13P%20122816.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:18 URL: http://www.ci.ashby.ma.us/document/official/expense%20report/Expense%20Report%20final-FY15-W54B.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:18 URL: http://www.ci.ashby.ma.us/document/official/expense%20report/Expense%20Report%20FY14%20after%20W54B.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:19 URL: http://www.ci.ashby.ma.us/document/official/expense%20report/Expense%20Report%20FY13%20After%20W53P%20&%20W54B.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:19 URL: http://www.ci.ashby.ma.us/document/official/expense%20report/Expense%20Report%202012%20After%20W56B-Final%20FY%2012-Encumbrances%20Not%20Included.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:20 URL: http://www.ci.ashby.ma.us/document/official/budgetFY12.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:20 URL: http://www.ci.ashby.ma.us/document/official/budget-FY13.xls 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:21 URL: http://www.ci.ashby.ma.us/document/official/Budfy12%20To%20Printer.xls 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:21 URL: http://www.ci.ashby.ma.us/document/selectmen/Budfy11%20(1)%20To%20Printer.pdf 200 OK
+unlink: No such file or directory
+http://www.ci.ashby.ma.us/document/selectmen/Budfy11%20(1)%20To%20Printer.xls:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:04:22 URL: http://www.ci.ashby.ma.us/document/fy09_budget.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:22 URL: http://www.ci.ashby.ma.us/document/fy09_budget.xls 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:22 URL: http://www.ci.ashby.ma.us/document/official/fy10_budget_atm_expense.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:23 URL: http://www.ci.ashby.ma.us/document/official/fy10_budget_atm_summary.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:23 URL: http://www.ci.ashby.ma.us/document/official/atm_fy10_budget.xls 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:24 URL: http://www.ci.ashby.ma.us/document/official/08%20audit%20FS%20-%20ASHBY%20-%20signed%20final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:24 URL: http://www.ci.ashby.ma.us/document/official/09%20audit%20FS%20-%20ASHBY%20-%20signed%20final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:25 URL: http://www.ci.ashby.ma.us/document/official/10%20audit%20FS%20-%20ASHBY%20-%20signed%20final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:25 URL: http://www.ci.ashby.ma.us/document/official/Ashby%20-%202010%20investment%20footnote%20clarification.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:26 URL: http://www.ci.ashby.ma.us/document/official/11%20audit%20FS%20-%20ASHBY%20-%20signed%20final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:26 URL: http://www.ci.ashby.ma.us/document/official/11%20audit%20ML%20-%20ASHBY%20-%20signed%20final%20(1).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:26 URL: http://www.ci.ashby.ma.us/document/official/12%20audit%20FS%20-%20Ashby%20-%20signed%20final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:27 URL: http://www.ci.ashby.ma.us/document/official/12%20audit%20ML%20-%20Ashby%20-%20signed%20final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:27 URL: http://www.ci.ashby.ma.us/document/official/13%20audit-FS%20-%20Ashby%20-%20signed%20final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:28 URL: http://www.ci.ashby.ma.us/document/official/13%20audit-ML%20-%20Ashby%20-%20signed%20final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:28 URL: http://www.ci.ashby.ma.us/document/official/13-audit-SAR%20-%20Ashby%20-%20signed%20final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:29 URL: http://www.ci.ashby.ma.us/document/official/14%20FS%20-%20Ashby%20-%20signed%20final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:29 URL: http://www.ci.ashby.ma.us/document/official/14%20ML%20-%20Ashby%20-%20signed%20final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:30 URL: http://www.ci.ashby.ma.us/document/official/15-audit-FS-Ashby%20-%20signed%20final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:30 URL: http://www.ci.ashby.ma.us/document/official/15-audit-Ashby-management-ltr.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:30 URL: http://www.ci.ashby.ma.us/document/official/Admin%20and%20Finance%20Policies.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:31 URL: http://www.ci.ashby.ma.us/document/highway/Contract-Hwy-labor-Final%20FY16%20-%20FY17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:31 URL: http://www.ci.ashby.ma.us/document/police/police-MOA%20Union%20Contract%20FY16%20-%20FY18%20.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:32 URL:http://www.ci.ashby.ma.us/assessors/maplink.html [7214/7214] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/assessors/maplink.html" [1]
+2017-01-02 00:04:33 URL: http://www.ci.ashby.ma.us/document/os_plan%202009/3-Zoning%20Map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:33 URL: http://www.ci.ashby.ma.us/document/planbd/Wind%20Energy%20Facility%20Zoning%20Overlay%20District%20Map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:34 URL: http://www.ci.ashby.ma.us/document/planbd/Zoning%20Map%20-%20AVCOD%20Town%20Center.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:35 URL: http://www.ci.ashby.ma.us/document/plans&reports/Ashby_TrailInventory_85x11L.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:35 URL: http://www.ci.ashby.ma.us/document/Ashby_NHESP_Layers.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:36 URL:http://www.ci.ashby.ma.us/emer_manage/floodmap.html [5419/5419] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/emer_manage/floodmap.html" [1]
+2017-01-02 00:04:36 URL: http://www.ci.ashby.ma.us/document/plans&reports/ashby_recon_map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:37 URL: http://www.ci.ashby.ma.us/document/plans&reports/Ashby%20Water%20Feasibilty%20Study%20Final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:37 URL: http://www.ci.ashby.ma.us/document/plans&reports/Ashby-CR3-energy-reduction-plan-131124awp.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:37 URL: http://www.ci.ashby.ma.us/document/energy/02-04-15%20%20Bales%20Energy%20Associates%20FINAL%20Ashby%20Town%20Hall%20Energy%20Study%202AP4TA.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:38 URL: http://www.ci.ashby.ma.us/document/energy/12-19-14%20Bales%20Energy%20Associates%20Final%20PoliceStation_AshbyReport%202JHAP%204TA.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:38 URL: http://www.ci.ashby.ma.us/document/energy/12-05-2014%20BEA%20Final%20HighwayDept%20Bldg%201%20Energy%20Study.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:38 URL: http://www.ci.ashby.ma.us/document/energy/12-19-2014%20BEA%20Final%20Ashby%20HighwayDept%20Bldg%202%20Energy%20Study%202JHAP%204TA.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:39 URL: http://www.ci.ashby.ma.us/document/energy/12-05-14%20%20BAles%20Energy%20Associates%20Final%20FireStation_Ashby%20Report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:39 URL: http://www.ci.ashby.ma.us/document/energy/12-05-14J%20Bales%20Energy%20Associates%20Final%20Ashby%20Library%20Energy%20Study2AP4TA.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:40 URL:http://www.ci.ashby.ma.us/emer_manage/pd_mitigation_plan.html [5468/5468] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/emer_manage/pd_mitigation_plan.html" [1]
+2017-01-02 00:04:40 URL:http://www.ci.ashby.ma.us/generic_page4.html [4701/4701] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/generic_page4.html" [1]
+2017-01-02 00:04:41 URL: http://www.ci.ashby.ma.us/document/os_plan%202009/os_plan_draft%2010-29-09.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:41 URL: http://www.ci.ashby.ma.us/document/os_plan%202009/os_plan_text_draft10-29-09.pdf 200 OK
+unlink: No such file or directory
+http://www.ci.ashby.ma.us/public_html/document/CDS%20FINAL%20Jan%207,%202016.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:04:42 URL: http://www.ci.ashby.ma.us/document/Ashby_Townsend_Reg_MAP.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:42 URL: http://www.ci.ashby.ma.us/document/Ashby%20Sewer%20Feasibilty%20Study.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:43 URL: http://www.ci.ashby.ma.us/document/plans&reports/Ashby%20Sustainable%20Economic%20Development%20Plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:43 URL:http://www.ci.ashby.ma.us/boardofhealth/landfill_closure_plans.html [5379/5379] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/boardofhealth/landfill_closure_plans.html" [1]
+2017-01-02 00:04:44 URL:http://www.ci.ashby.ma.us/committee_other/dispatch-regional-2012/dispatch-index.html [5022/5022] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/committee_other/dispatch-regional-2012/dispatch-index.html" [1]
+2017-01-02 00:04:45 URL: http://www.ci.ashby.ma.us/document/plans&reports/public_safety_study.mht 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:45 URL: http://www.ci.ashby.ma.us/document/selectmen/collins_reports/collins_report_1012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:45 URL: http://www.ci.ashby.ma.us/document/selectmen/collins_reports/Draft%20Ashby%20TA%20Report.09.09.10.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:46 URL: http://www.ci.ashby.ma.us/document/plans&reports/ADA-504%20Plan-2003%20.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:46 URL: http://www.ci.ashby.ma.us/document/building/Permitting%20Guide%20for%20printing%20May%202013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:47 URL: http://www.ci.ashby.ma.us/document/Cemetery%20rules%20and%20regulations%202007%20(ammended%20version).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:47 URL: http://www.ci.ashby.ma.us/document/boh/BOH%20Regs%209-05.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:47 URL: http://www.ci.ashby.ma.us/document/boh/large%20animal%20regs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:48 URL: http://www.ci.ashby.ma.us/document/boh/Final%20Ashby%20Horse%20Regs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:48 URL: http://www.ci.ashby.ma.us/document/boh/body%20art%20regs.pdf 200 OK
+unlink: No such file or directory
+http://www.ci.ashby.ma.us/document/boh/MSWRegs3-03.pdf:
+Remote file does not exist -- broken link!!!
+http://www.ci.ashby.ma.us/public_html/document/planbd/site_plan/siteplanregs2015.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:04:49 URL: http://www.ci.ashby.ma.us/document/zba/ZBA40B_Regs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:50 URL: http://www.ci.ashby.ma.us/document/highway/Ashby.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:50 URL: http://www.ci.ashby.ma.us/document/highway/FINAL%20REPORT.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:51 URL: http://www.ci.ashby.ma.us/document/highway/ROAD%20LIST.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:51 URL: http://www.ci.ashby.ma.us/document/Clerk/road_actions.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:52 URL:http://www.ci.ashby.ma.us/community/events.html [5110/5110] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/community/events.html" [1]
+2017-01-02 00:04:52 URL:http://www.ci.ashby.ma.us/community/videos/com-video.html [4640/4640] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/community/videos/com-video.html" [1]
+http://www.ci.ashby.ma.us/community/www.ashbyhistoricalsociety.com:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:04:53 URL:http://www.ci.ashby.ma.us/community/flagcomm.htm [2678/2678] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/community/flagcomm.htm" [1]
+2017-01-02 00:04:54 URL: http://www.ci.ashby.ma.us/document/official/Job%20App%20051412.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:54 URL: http://www.ci.ashby.ma.us/document/official/job_advert/Part-time%20Dispatch%20Position-Oct-2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:55 URL: http://www.ci.ashby.ma.us/document/Clerk/OPEN%20MEETING%20LAW%20info100609.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:55 URL:http://www.ci.ashby.ma.us/clerk/ethics.html [7536/7536] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/clerk/ethics.html" [1]
+http://www.ci.ashby.ma.us/document/official/expense%20report/expense%20report%202.html:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:04:56 URL: http://www.ci.ashby.ma.us/document/official/payables-form-2015.xls 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:56 URL: http://www.ci.ashby.ma.us/document/official/treasurer%20depart%20receipts.xls 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:57 URL: http://www.ci.ashby.ma.us/document/official/treasurer%20depart%20receipts.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:57 URL: http://www.ci.ashby.ma.us/document/official/Empl%20Travel%20Exp2012.xls 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:58 URL: http://www.ci.ashby.ma.us/document/official/Empl%20Travel%20Exp2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:58 URL: http://www.ci.ashby.ma.us/document/official/payroll_warrant_form.xls 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:59 URL: http://www.ci.ashby.ma.us/document/official/payroll_warrant_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:04:59 URL: http://www.ci.ashby.ma.us/document/official/time_sheet_blank.xls 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:00 URL: http://www.ci.ashby.ma.us/document/official/time_sheet_blank.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:00 URL: http://www.ci.ashby.ma.us/document/official/Employee%20Change%20of%20Status%20Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:00 URL: http://www.ci.ashby.ma.us/document/official/job_descript/Town%20Administrator.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:01 URL: http://www.ci.ashby.ma.us/document/official/job_descript/Administrative%20Assistant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:01 URL: http://www.ci.ashby.ma.us/document/official/job_descript/Collector.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:01 URL: http://www.ci.ashby.ma.us/document/official/job_descript/Assistant%20Collector.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:02 URL: http://www.ci.ashby.ma.us/document/official/job_descript/Town%20Clerk.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:03 URL: http://www.ci.ashby.ma.us/document/official/job_descript/Assistant%20Town%20Clerk.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:03 URL: http://www.ci.ashby.ma.us/document/official/job_descript/Treasurer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:04 URL: http://www.ci.ashby.ma.us/document/official/job_descript/Town%20Accountant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:04 URL: http://www.ci.ashby.ma.us/document/official/job_descript/Assessors%20Clerk.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:05 URL: http://www.ci.ashby.ma.us/document/official/job_descript/Chief%20of%20Police.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:05 URL: http://www.ci.ashby.ma.us/document/official/job_descript/Police%20Officer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:05 URL: http://www.ci.ashby.ma.us/document/official/job_descript/Police%20Matron.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:06 URL: http://www.ci.ashby.ma.us/document/official/job_descript/Reserve%20Police%20Officer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:06 URL: http://www.ci.ashby.ma.us/document/official/job_descript/Highway%20Superintendent.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:08 URL: http://www.ci.ashby.ma.us/document/official/job_descript/Highway%20Foreman.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:08 URL: http://www.ci.ashby.ma.us/document/official/job_descript/Equipment%20Operator.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:09 URL: http://www.ci.ashby.ma.us/document/official/job_descript/Mechanic.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:09 URL: http://www.ci.ashby.ma.us/document/official/job_descript/Truck%20Driver%20Laborer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:09 URL: http://www.ci.ashby.ma.us/document/official/job_descript/Land%20Use%20Job%20Descrip.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:10 URL:http://www.ci.ashby.ma.us/ARCTS/fee.html [8339/8339] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/ARCTS/fee.html" [1]
+http://www.ci.ashby.ma.us/ARCTS/Minutes/2015/ATA%20102115.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:05:11 URL:http://www.ci.ashby.ma.us/Selectmen/Minutes.htm [10122/10122] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/Selectmen/Minutes.htm" [1]
+2017-01-02 00:05:13 URL:http://www.ci.ashby.ma.us/Selectmen/minutes_09.html [11696/11696] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/Selectmen/minutes_09.html" [1]
+2017-01-02 00:05:14 URL:http://www.ci.ashby.ma.us/Selectmen/minutes_10.html [20278/20278] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/Selectmen/minutes_10.html" [1]
+2017-01-02 00:05:15 URL:http://www.ci.ashby.ma.us/Selectmen/minutes_11.html [21473/21473] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/Selectmen/minutes_11.html" [1]
+2017-01-02 00:05:16 URL:http://www.ci.ashby.ma.us/Selectmen/minutes_12.html [17206/17206] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/Selectmen/minutes_12.html" [1]
+2017-01-02 00:05:17 URL:http://www.ci.ashby.ma.us/Selectmen/minutes_13.html [19778/19778] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/Selectmen/minutes_13.html" [1]
+2017-01-02 00:05:18 URL:http://www.ci.ashby.ma.us/Selectmen/minutes_14.html [18460/18460] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/Selectmen/minutes_14.html" [1]
+2017-01-02 00:05:19 URL:http://www.ci.ashby.ma.us/Selectmen/minutes_15.html [15675/15675] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/Selectmen/minutes_15.html" [1]
+2017-01-02 00:05:20 URL:http://www.ci.ashby.ma.us/Selectmen/minutes_16.html [14970/14970] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/Selectmen/minutes_16.html" [1]
+2017-01-02 00:05:21 URL:http://www.ci.ashby.ma.us/assessors/indexminutes.htm [17539/17539] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/assessors/indexminutes.htm" [1]
+2017-01-02 00:05:23 URL:http://www.ci.ashby.ma.us/conservation/indexminutes_cc.html [46056/46056] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/conservation/indexminutes_cc.html" [1]
+2017-01-02 00:05:24 URL:http://www.ci.ashby.ma.us/coa/minutes_index.html [6856/6856] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/coa/minutes_index.html" [1]
+2017-01-02 00:05:25 URL:http://www.ci.ashby.ma.us/fincom/fc_minutes.html [53452/53452] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/fincom/fc_minutes.html" [1]
+2017-01-02 00:05:26 URL:http://www.ci.ashby.ma.us/library/lb_minutes.html [11595/11595] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/library/lb_minutes.html" [1]
+2017-01-02 00:05:26 URL:http://www.ci.ashby.ma.us/plan/minutes_index.html [21967/21967] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/plan/minutes_index.html" [1]
+2017-01-02 00:05:27 URL:http://www.ci.ashby.ma.us/collector/payment_instr.html [6325/6325] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/collector/payment_instr.html" [1]
+2017-01-02 00:05:28 URL: http://www.ci.ashby.ma.us/document/assessor/MVE%20Abatement_110623.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:28 URL: http://www.ci.ashby.ma.us/assessors/classificationcodebook.pdf 200 OK
+unlink: No such file or directory
+http://www.ci.ashby.ma.us/public_html/document/assessor/AshbyAssessmentBrochure2016.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:05:29 URL: http://www.ci.ashby.ma.us/document/assessor/real_pers_abatement.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:30 URL:http://www.ci.ashby.ma.us/Selectmen/bos-video-2015.html [13904/13904] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/Selectmen/bos-video-2015.html" [1]
+http://www.ci.ashby.ma.us/Selectmen/bos-video-2014.html:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:05:31 URL:http://www.ci.ashby.ma.us/Selectmen/bos-video-2013.html [12420/12420] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/Selectmen/bos-video-2013.html" [1]
+2017-01-02 00:05:31 URL: http://www.ci.ashby.ma.us/Selectmen/Minutes/2016/SM121416.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:32 URL: http://www.ci.ashby.ma.us/Selectmen/Minutes/2016/SM113016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:32 URL: http://www.ci.ashby.ma.us/Selectmen/Minutes/2016/SM111616.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:32 URL: http://www.ci.ashby.ma.us/Selectmen/Minutes/2016/SM110216.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:33 URL: http://www.ci.ashby.ma.us/Selectmen/Minutes/2016/SM101916.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:33 URL: http://www.ci.ashby.ma.us/Selectmen/Minutes/2016/SM100516.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:33 URL: http://www.ci.ashby.ma.us/Selectmen/Minutes/2016/SM092116.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:34 URL: http://www.ci.ashby.ma.us/Selectmen/Minutes/2016/SM090716.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:34 URL: http://www.ci.ashby.ma.us/Selectmen/Minutes/2016/SM082416.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:35 URL: http://www.ci.ashby.ma.us/Selectmen/Minutes/2016/SM081016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:35 URL: http://www.ci.ashby.ma.us/Selectmen/Minutes/2016/SM072716.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:35 URL: http://www.ci.ashby.ma.us/Selectmen/Minutes/2016/SM061516.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:36 URL: http://www.ci.ashby.ma.us/Selectmen/Minutes/2016/SM06012016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:36 URL: http://www.ci.ashby.ma.us/Selectmen/Minutes/2016/SM051816.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:36 URL: http://www.ci.ashby.ma.us/Selectmen/Minutes/2016/SM050416.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:37 URL: http://www.ci.ashby.ma.us/Selectmen/Minutes/2016/SM032316.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:37 URL: http://www.ci.ashby.ma.us/Selectmen/Minutes/2016/SM030916.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:37 URL: http://www.ci.ashby.ma.us/Selectmen/Minutes/2016/SM022416.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:38 URL: http://www.ci.ashby.ma.us/Selectmen/Minutes/2016/SM021016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:38 URL: http://www.ci.ashby.ma.us/Selectmen/Minutes/2016/SM012716.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:39 URL: http://www.ci.ashby.ma.us/Selectmen/Minutes/2016/SM011316.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:39 URL: http://www.ci.ashby.ma.us/document/official/job_advert/Job%20App%20051412.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:40 URL: http://www.ci.ashby.ma.us/document/official/job_advert/Job%20App%20051412.xls 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:40 URL: http://www.ci.ashby.ma.us/Selectmen/com-choice-electric/documents/Ashby%20-%20Aggregation%20Plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:41 URL: http://www.ci.ashby.ma.us/Selectmen/com-choice-electric/documents/Ashby-Hampshire-Power-%20ESA-EXECUTED-6-2-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:05:41 URL: http://www.ci.ashby.ma.us/Selectmen/com-choice-electric/documents/Ashby%20-%20Consumer%20Notification%20Letter%20HP%20FINAL.pdf 200 OK
+unlink: No such file or directory
+http://www.ci.ashby.ma.us/public_html/coa/documents_coa/Ashby%20Senior%20Scoop%20Dec%20%202016.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:05:43 URL:http://www.ci.ashby.ma.us/coa/volunteer091006.html [6092/6092] -> "../data/townSites2/Ashby/www.ci.ashby.ma.us/coa/volunteer091006.html" [1]
+http://www.ci.ashby.ma.us/Template/Clerk/Clerk.htm:
+Remote file does not exist -- broken link!!!
+Found 11 broken links.
+
+http://www.ci.ashby.ma.us/public_html/document/planbd/site_plan/siteplanregs2015.pdf
+http://www.ci.ashby.ma.us/ARCTS/Minutes/2015/ATA%20102115.pdf
+http://www.ci.ashby.ma.us/community/www.ashbyhistoricalsociety.com
+http://www.ci.ashby.ma.us/document/selectmen/Budfy11%20(1)%20To%20Printer.xls
+http://www.ci.ashby.ma.us/public_html/document/assessor/AshbyAssessmentBrochure2016.pdf
+http://www.ci.ashby.ma.us/public_html/document/CDS%20FINAL%20Jan%207,%202016.pdf
+http://www.ci.ashby.ma.us/document/official/expense%20report/expense%20report%202.html
+http://www.ci.ashby.ma.us/Selectmen/bos-video-2014.html
+http://www.ci.ashby.ma.us/public_html/coa/documents_coa/Ashby%20Senior%20Scoop%20Dec%20%202016.pdf
+http://www.ci.ashby.ma.us/document/boh/MSWRegs3-03.pdf
+http://www.ci.ashby.ma.us/Template/Clerk/Clerk.htm
+
+FINISHED --2017-01-02 00:05:43--
+Total wall clock time: 2m 26s
+Downloaded: 91 files, 840K in 5.1s (166 KB/s)

@@ -1,0 +1,397 @@
+2017-01-02 02:03:01 URL:http://www.middleborough.com/ [20909/20909] -> "../data/townSites2/Middleborough/www.middleborough.com/index.html" [1]
+2017-01-02 02:03:02 URL:http://www.middleborough.com/about.html [9437/9437] -> "../data/townSites2/Middleborough/www.middleborough.com/about.html" [1]
+2017-01-02 02:03:02 URL:http://www.middleborough.com/departments.html [20556/20556] -> "../data/townSites2/Middleborough/www.middleborough.com/departments.html" [1]
+2017-01-02 02:03:03 URL:http://www.middleborough.com/Calendar.aspx [45957/45957] -> "../data/townSites2/Middleborough/www.middleborough.com/Calendar.aspx" [1]
+2017-01-02 02:03:04 URL:http://www.middleborough.com/documents.html [18853/18853] -> "../data/townSites2/Middleborough/www.middleborough.com/documents.html" [1]
+2017-01-02 02:03:05 URL:http://www.middleborough.com/residents.html [10385/10385] -> "../data/townSites2/Middleborough/www.middleborough.com/residents.html" [1]
+2017-01-02 02:03:06 URL:http://www.middleborough.com/business.html [7285/7285] -> "../data/townSites2/Middleborough/www.middleborough.com/business.html" [1]
+2017-01-02 02:03:06 URL:http://www.middleborough.com/visitors.html [7127/7127] -> "../data/townSites2/Middleborough/www.middleborough.com/visitors.html" [1]
+2017-01-02 02:03:07 URL:http://www.middleborough.com/building-projects.html [7413/7413] -> "../data/townSites2/Middleborough/www.middleborough.com/building-projects.html" [1]
+2017-01-02 02:03:08 URL:http://www.middleborough.com/wheredoicall.html [17767/17767] -> "../data/townSites2/Middleborough/www.middleborough.com/wheredoicall.html" [1]
+2017-01-02 02:03:08 URL: http://www.middleborough.com/rubbishrecycling/documents/2017CurbsideRubbishCollection.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:08 URL:http://www.middleborough.com/townreports.html [8599/8599] -> "../data/townSites2/Middleborough/www.middleborough.com/townreports.html" [1]
+2017-01-02 02:03:09 URL: http://www.middleborough.com/documents/PermitProcedures-Final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:09 URL:http://www.middleborough.com/clerk/TownMeetingsandElections.htm [14078/14078] -> "../data/townSites2/Middleborough/www.middleborough.com/clerk/TownMeetingsandElections.htm" [1]
+2017-01-02 02:03:10 URL: http://www.middleborough.com/documents/BOSVoted7152013MiddleboroughPublicWiFiAgreement.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:10 URL:http://www.middleborough.com/clerk/elections.html [42360/42360] -> "../data/townSites2/Middleborough/www.middleborough.com/clerk/elections.html" [1]
+2017-01-02 02:03:11 URL:http://www.middleborough.com/Procurements.aspx [9452/9452] -> "../data/townSites2/Middleborough/www.middleborough.com/Procurements.aspx" [1]
+2017-01-02 02:03:11 URL: http://www.middleborough.com/planning/documents/MiddleboroughZoningBylaww.10.5.15TMrevs.USE.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:12 URL:http://www.middleborough.com/commonwealthconnect.html [9064/9064] -> "../data/townSites2/Middleborough/www.middleborough.com/commonwealthconnect.html" [1]
+2017-01-02 02:03:12 URL:http://www.middleborough.com/termsofuse.html [7446/7446] -> "../data/townSites2/Middleborough/www.middleborough.com/termsofuse.html" [1]
+2017-01-02 02:03:13 URL:http://www.middleborough.com/default.aspx [20909/20909] -> "../data/townSites2/Middleborough/www.middleborough.com/default.aspx" [1]
+2017-01-02 02:03:14 URL:http://www.middleborough.com/about_history.html [41428/41428] -> "../data/townSites2/Middleborough/www.middleborough.com/about_history.html" [1]
+2017-01-02 02:03:14 URL:http://www.middleborough.com/about_links.html [7354/7354] -> "../data/townSites2/Middleborough/www.middleborough.com/about_links.html" [1]
+2017-01-02 02:03:15 URL:http://www.middleborough.com/boards.html [7967/7967] -> "../data/townSites2/Middleborough/www.middleborough.com/boards.html" [1]
+2017-01-02 02:03:16 URL:http://www.middleborough.com/Employment-Contract-Agreements.html [8192/8192] -> "../data/townSites2/Middleborough/www.middleborough.com/Employment-Contract-Agreements.html" [1]
+2017-01-02 02:03:16 URL:http://www.middleborough.com/Careers.aspx [9784/9784] -> "../data/townSites2/Middleborough/www.middleborough.com/Careers.aspx" [1]
+2017-01-02 02:03:17 URL:http://www.middleborough.com/selectmen/index.html [16709/16709] -> "../data/townSites2/Middleborough/www.middleborough.com/selectmen/index.html" [1]
+2017-01-02 02:03:18 URL:http://www.middleborough.com/townmanager/index.html [9963/9963] -> "../data/townSites2/Middleborough/www.middleborough.com/townmanager/index.html" [1]
+2017-01-02 02:03:18 URL:http://www.middleborough.com/assessors/index.html [35595/35595] -> "../data/townSites2/Middleborough/www.middleborough.com/assessors/index.html" [1]
+2017-01-02 02:03:19 URL:http://www.middleborough.com/it/index.html [7528/7528] -> "../data/townSites2/Middleborough/www.middleborough.com/it/index.html" [1]
+2017-01-02 02:03:20 URL:http://www.middleborough.com/building/index.html [9429/9429] -> "../data/townSites2/Middleborough/www.middleborough.com/building/index.html" [1]
+2017-01-02 02:03:20 URL:http://www.middleborough.com/oecd/index.html [11550/11550] -> "../data/townSites2/Middleborough/www.middleborough.com/oecd/index.html" [1]
+2017-01-02 02:03:21 URL:http://www.middleborough.com/conservation/index.html [12119/12119] -> "../data/townSites2/Middleborough/www.middleborough.com/conservation/index.html" [1]
+2017-01-02 02:03:22 URL:http://www.middleborough.com/finance/index.html [9103/9103] -> "../data/townSites2/Middleborough/www.middleborough.com/finance/index.html" [1]
+2017-01-02 02:03:23 URL:http://www.middleborough.com/health/index.html [9002/9002] -> "../data/townSites2/Middleborough/www.middleborough.com/health/index.html" [1]
+2017-01-02 02:03:23 URL:http://www.middleborough.com/planning/index.html [9750/9750] -> "../data/townSites2/Middleborough/www.middleborough.com/planning/index.html" [1]
+2017-01-02 02:03:24 URL:http://www.middleborough.com/health/publichealthnurse.html [8826/8826] -> "../data/townSites2/Middleborough/www.middleborough.com/health/publichealthnurse.html" [1]
+2017-01-02 02:03:25 URL:http://www.middleborough.com/treasurer/index.html [9743/9743] -> "../data/townSites2/Middleborough/www.middleborough.com/treasurer/index.html" [1]
+2017-01-02 02:03:26 URL:http://www.middleborough.com/accountant/index.html [8147/8147] -> "../data/townSites2/Middleborough/www.middleborough.com/accountant/index.html" [1]
+2017-01-02 02:03:26 URL:http://www.middleborough.com/clerk/index.html [15870/15870] -> "../data/townSites2/Middleborough/www.middleborough.com/clerk/index.html" [1]
+2017-01-02 02:03:27 URL:http://www.middleborough.com/veterans/index.html [10013/10013] -> "../data/townSites2/Middleborough/www.middleborough.com/veterans/index.html" [1]
+2017-01-02 02:03:28 URL:http://www.middleborough.com/zba/index.html [8263/8263] -> "../data/townSites2/Middleborough/www.middleborough.com/zba/index.html" [1]
+2017-01-02 02:03:28 URL:http://www.middleborough.com/coa/index.html [16287/16287] -> "../data/townSites2/Middleborough/www.middleborough.com/coa/index.html" [1]
+2017-01-02 02:03:29 URL:http://www.middleborough.com/fire/index.html [9701/9701] -> "../data/townSites2/Middleborough/www.middleborough.com/fire/index.html" [1]
+2017-01-02 02:03:30 URL:http://www.middleborough.com/highway/index.html [9204/9204] -> "../data/townSites2/Middleborough/www.middleborough.com/highway/index.html" [1]
+2017-01-02 02:03:31 URL:http://www.middleborough.com/dpw/index.html [8508/8508] -> "../data/townSites2/Middleborough/www.middleborough.com/dpw/index.html" [1]
+2017-01-02 02:03:31 URL:http://www.middleborough.com/rubbishrecycling/index.html [12031/12031] -> "../data/townSites2/Middleborough/www.middleborough.com/rubbishrecycling/index.html" [1]
+2017-01-02 02:03:32 URL:http://www.middleborough.com/water/index.html [18365/18365] -> "../data/townSites2/Middleborough/www.middleborough.com/water/index.html" [1]
+2017-01-02 02:03:33 URL:http://www.middleborough.com/wastewater/index.html [11457/11457] -> "../data/townSites2/Middleborough/www.middleborough.com/wastewater/index.html" [1]
+2017-01-02 02:03:33 URL: http://www.middleborough.com/documents/TownCharterincludingAmendmentsApproved1-5-2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:33 URL: http://www.middleborough.com/documents/TownBylawsRevOct2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:33 URL: http://www.middleborough.com/documents/ZoningMap05-27-14.pdf 200 OK
+unlink: No such file or directory
+http://www.middleborough.com/instructions_for_zba_petitions.pdf:
+Remote file does not exist -- broken link!!!
+http://www.middleborough.com/zba_petition.pdf:
+Remote file does not exist -- broken link!!!
+http://www.middleborough.com/Zoning_Area_Requirements.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:03:35 URL: http://www.middleborough.com/assessors/documents/3abc%20Charitable%20Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:35 URL: http://www.middleborough.com/assessors/documents/FORM%20E%20-%20for%20Planning%20Board.doc 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:35 URL: http://www.middleborough.com/assessors/documents/REQUEST%20FOR%20ABUTTERS%20LIST%20FORM.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:36 URL: http://www.middleborough.com/assessors/documents/Boat%20Vessel%20changeform.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:36 URL: http://www.middleborough.com/assessors/documents/Chapter%2061%20Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:36 URL: http://www.middleborough.com/assessors/documents/CHAPTER%2061%20PENALTY%20TAX.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:37 URL: http://www.middleborough.com/assessors/documents/Chapter%2061A%20Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:37 URL: http://www.middleborough.com/assessors/documents/CHAPTER%2061A%20ROLL-BACK.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:37 URL: http://www.middleborough.com/assessors/documents/Chapter%2061B%20Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:38 URL: http://www.middleborough.com/assessors/documents/CHAPTER%2061B%20ROLL-BACK.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:38 URL: http://www.middleborough.com/assessors/documents/Clause%2018%20Financial%20Hardship.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:38 URL: http://www.middleborough.com/assessors/documents/Exemption%20Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:38 URL: http://www.middleborough.com/assessors/documents/F.A.E.-ME%20FORM.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:39 URL: http://www.middleborough.com/assessors/documents/Form%201B3%20Charitable.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:39 URL: http://www.middleborough.com/assessors/documents/FORM%20OF%20LIST%20FOR%20A%20BUSINESS.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:39 URL: http://www.middleborough.com/assessors/documents/Household%20Form%20of%20List%20(Cottages).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:40 URL: http://www.middleborough.com/assessors/documents/I%20&%20E%20Cranberry%20Bogs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:40 URL: http://www.middleborough.com/assessors/documents/I%20&%20E%20Expenses%20for%20All%20Uses.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:40 URL: http://www.middleborough.com/assessors/documents/I%20&%20E%20Income%20All%20Other%20Commercial.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:40 URL: http://www.middleborough.com/assessors/documents/I%20&%20E%20Income%20Apartments.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:41 URL: http://www.middleborough.com/assessors/documents/I%20&%20E%20Income%20Mixed%20Use%20.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:41 URL: http://www.middleborough.com/assessors/documents/MVE%20&%20Trailer%20Excise%20Exemption%20Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:41 URL: http://www.middleborough.com/planning/documents/FINALMiddleboroughAHP10.18.05.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:42 URL: http://www.middleborough.com/documents/FINALFINDALTERNATIVESREPORT21102.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:42 URL: http://www.middleborough.com/planning/documents/CommunityDevelopmentPlan2004.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:42 URL: http://www.middleborough.com/planning/documents/TownofMiddleboroughSubdivisionRulesandRegulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:42 URL: http://www.middleborough.com/planning/documents/AmendmentstoMiddleboroughSubdivisionRulesandRegulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:43 URL: http://www.middleborough.com/planning/documents/FormAApplicationforEndorsementofaPlanBelievedNottoRequireApproval.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:43 URL: http://www.middleborough.com/planning/documents/FormAChecklist.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:44 URL: http://www.middleborough.com/planning/documents/FilingFees2004.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:44 URL: http://www.middleborough.com/planning/documents/FormBApplicationforApprovalofaPreliminaryPlan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:44 URL: http://www.middleborough.com/planning/documents/ApplicationforHearingaSpecialPermit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:44 URL: http://www.middleborough.com/planning/documents/FormCApplicationforApprovalofaDefinitivePlan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:45 URL: http://www.middleborough.com/planning/documents/FormCChecklistforApplicationofDefinitivePlanorModification.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:45 URL: http://www.middleborough.com/planning/documents/RequestforExtensionofTimeForASpecialPermit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:45 URL: http://www.middleborough.com/planning/documents/FormPRequestforExtensionofTimeforaSubdivision.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:46 URL: http://www.middleborough.com/health/Application_Body_Art_Practitioner_Permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:46 URL: http://www.middleborough.com/health/Application_Body_Art_Apprentice_Permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:46 URL: http://www.middleborough.com/health/Application_catering_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:46 URL: http://www.middleborough.com/health/Application_cesspoolpumping_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:47 URL: http://www.middleborough.com/health/Application_collectransportrubbish_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:47 URL: http://www.middleborough.com/health/Application_disposalworks_installers_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:47 URL: http://www.middleborough.com/health/Application_food_establishment_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:48 URL: http://www.middleborough.com/health/Application_maintainstable_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:48 URL: http://www.middleborough.com/health/Application_operate_familytypecampground_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:48 URL: http://www.middleborough.com/health/Application_operate_hotel-motel_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:49 URL: http://www.middleborough.com/health/Application_operate_lodgingrooming_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:49 URL: http://www.middleborough.com/health/Application_operate_reccampchildren_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:49 URL: http://www.middleborough.com/health/Application_operate_trailercoachpark_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:50 URL: http://www.middleborough.com/health/Application_operateaswimmingpool_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:50 URL: http://www.middleborough.com/health/Perc_Application_Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:50 URL: http://www.middleborough.com/health/Residential_Pool_Permit_Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:51 URL: http://www.middleborough.com/health/Septic_Betterment_Packet.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:51 URL: http://www.middleborough.com/health/Application_tanningfacilities_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:51 URL: http://www.middleborough.com/health/taxpaid_statement.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:52 URL: http://www.middleborough.com/health/Application_tobaccosales_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:52 URL: http://www.middleborough.com/coa/coa_brochure_pdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:52 URL: http://www.middleborough.com/coa/day_program_brochure_pdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:53 URL: http://www.middleborough.com/coa/Volunteer_Opportunities.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:53 URL: http://www.middleborough.com/coa/senior_tax_work_off_program_brochure.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:53 URL: http://www.middleborough.com/coa/work_off_program_information.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:54 URL: http://www.middleborough.com/coa/coa_application_paperwork.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:54 URL: http://www.middleborough.com/coa/GUIDE_FOR_ACTIVITY_PLANNER.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:55 URL: http://www.middleborough.com/coa/TRIP_RELEASE_AGREEMENT.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:55 URL: http://www.middleborough.com/coa/work_off_application2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:55 URL: http://www.middleborough.com/clerk/documents/TOWNCLERKFEES.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:56 URL: http://www.middleborough.com/treasurer/request_for_municipal_lien_certificate.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:56 URL: http://www.middleborough.com/treasurer/documents/20100601113157279.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:56 URL: http://www.middleborough.com/treasurer/documents/Usingonlinepaymentservice.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:57 URL: http://www.middleborough.com/documents/GASB45OPEBReport.pdf 200 OK
+unlink: No such file or directory
+http://www.middleborough.com/requestforchangeofaddress.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:03:57 URL: http://www.middleborough.com/documents/SignRequestForm.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:58 URL: http://www.middleborough.com/documents/TownHallRentalApplication2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:58 URL: http://www.middleborough.com/documents/OliverLeaseRFP.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:58 URL: http://www.middleborough.com/documents/OliverEstateDetailsAppraisal1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:59 URL: http://www.middleborough.com/documents/OliverEstateDetailsAppraisal2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:59 URL: http://www.middleborough.com/documents/OliverEstateDetailsPALReport.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:03:59 URL: http://www.middleborough.com/documents/OliverHousePreservationRestriction.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:00 URL: http://www.middleborough.com/documents/SampleLeasefortheHistoricOliverHouse.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:00 URL:http://www.middleborough.com/clerk/faq.html [9491/9491] -> "../data/townSites2/Middleborough/www.middleborough.com/clerk/faq.html" [1]
+2017-01-02 02:04:01 URL: http://www.middleborough.com/townmanager/Middleborough_Town_Charter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:02 URL:http://www.middleborough.com/building/documents.html [10879/10879] -> "../data/townSites2/Middleborough/www.middleborough.com/building/documents.html" [1]
+2017-01-02 02:04:02 URL:http://www.middleborough.com/zba/documents.html [8066/8066] -> "../data/townSites2/Middleborough/www.middleborough.com/zba/documents.html" [1]
+2017-01-02 02:04:03 URL:http://www.middleborough.com/building-projects_police.html [7419/7419] -> "../data/townSites2/Middleborough/www.middleborough.com/building-projects_police.html" [1]
+2017-01-02 02:04:04 URL:http://www.middleborough.com/building-projects_school.html [13950/13950] -> "../data/townSites2/Middleborough/www.middleborough.com/building-projects_school.html" [1]
+2017-01-02 02:04:04 URL:http://www.middleborough.com/online-payment-center.html [7903/7903] -> "../data/townSites2/Middleborough/www.middleborough.com/online-payment-center.html" [1]
+2017-01-02 02:04:05 URL: http://www.middleborough.com/documents/MIDDLEBOROUGH2015TR-WEBCOPY.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:05 URL: http://www.middleborough.com/documents/MIDDLEBOROUGH2014TOWNREPORT.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:05 URL: http://www.middleborough.com/documents/MIDDLEBOROUGH2013TOWNREPORT.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:06 URL: http://www.middleborough.com/documents/MIDDLEBOROUGH2012TOWNREPORT-REVISED-9.16.13-WEBCOPY.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:06 URL: http://www.middleborough.com/documents/MIDDLEBOROUGH2011TOWNREPORTWEBCOPY2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:06 URL: http://www.middleborough.com/documents/MIDDLEBOROUGH2010TOWNREPORT-WEBCOPY.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:07 URL: http://www.middleborough.com/MIDDLEBOROUGH_2009_TOWN_REPORT_FINAL052510.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:07 URL: http://www.middleborough.com/annualtownreport_2008.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:07 URL: http://www.middleborough.com/MIDDLEBORO_annualtownreport_2007.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:08 URL: http://www.middleborough.com/clerk/documents/stm10-3-16warrantsigned.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:08 URL: http://www.middleborough.com/clerk/documents/4-25-16AnnualTownMeetingWarrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:08 URL: http://www.middleborough.com/clerk/documents/4-25-16SpecialTownMeetingWarrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:09 URL: http://www.middleborough.com/clerk/documents/ATMMinutesof04-27-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:09 URL: http://www.middleborough.com/clerk/documents/STMMinutesof4-27-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:09 URL: http://www.middleborough.com/clerk/documents/STMMinutesof10-05-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:10 URL: http://www.middleborough.com/clerk/documents/ATM4-27-15WarrantTrueAttested.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:10 URL: http://www.middleborough.com/clerk/documents/STMWARRANT4-27-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:10 URL: http://www.middleborough.com/clerk/documents/STMWarrant10-5-15-SIGNED.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:11 URL: http://www.middleborough.com/clerk/documents/ATMMinutesofMay272014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:11 URL: http://www.middleborough.com/clerk/documents/STMMinutesMay272014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:11 URL: http://www.middleborough.com/clerk/documents/STMMinutes10-6-2014-MEETING.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:12 URL: http://www.middleborough.com/clerk/documents/FINALAnnualTownMeetingWarrantwithAnnotatedMotions.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:12 URL: http://www.middleborough.com/clerk/documents/FINALSpecialTownMeetingWarrantwithAnnotatedMotions.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:12 URL: http://www.middleborough.com/clerk/documents/FINALSTMWarrantwithMotionsforPresentationatTownMeeting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:12 URL: http://www.middleborough.com/clerk/documents/ATMMinutesofApril222013pdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:13 URL: http://www.middleborough.com/clerk/documents/STMMinutesApril222013pdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:13 URL: http://www.middleborough.com/clerk/documents/STMMinutesOctober72013pdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:14 URL: http://www.middleborough.com/clerk/documents/AnnualTownMeetingWarrantApril2213pdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:14 URL: http://www.middleborough.com/clerk/documents/STMWarrantApril222013pdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:14 URL: http://www.middleborough.com/clerk/documents/STMWarrantOctober72013pdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:15 URL: http://www.middleborough.com/clerk/documents/ATMMinutesofJune112012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:15 URL: http://www.middleborough.com/clerk/documents/STMMinutes6-11-2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:16 URL: http://www.middleborough.com/clerk/documents/STMMinutes10-1-2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:16 URL: http://www.middleborough.com/clerk/documents/AnnualTownMeetingWarrant6-11-2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:17 URL: http://www.middleborough.com/clerk/documents/SpecialTownMeetingWarrant-6-11-12.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:18 URL: http://www.middleborough.com/clerk/documents/SignedWarrantforSTM10-1-2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:18 URL: http://www.middleborough.com/clerk/documents/ATMMinutesJune62011pdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:19 URL: http://www.middleborough.com/clerk/documents/STMMinutesJune62011pdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:20 URL: http://www.middleborough.com/clerk/documents/STMMinutes10-3-2011pdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:20 URL: http://www.middleborough.com/clerk/documents/ATMWarrantJune62011.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:20 URL: http://www.middleborough.com/clerk/documents/STMWarrantJune62011.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:21 URL: http://www.middleborough.com/clerk/documents/STMWarrantinPDFFormat.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:21 URL: http://www.middleborough.com/clerk/documents/ELECTEDOFFICIALS-APRIL2016-PUBLICVERSION.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:21 URL: http://www.middleborough.com/clerk/documents/OFFICIALELECTIONRESULTS11-8-16.xlsx 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:22 URL: http://www.middleborough.com/clerk/documents/4-2-16ATEOFFICIALRESULTS-FINAL.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:22 URL: http://www.middleborough.com/clerk/documents/OFFICIALRESULTS-3-1-2016PRESIDENTIALPRIMARY.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:22 URL: http://www.middleborough.com/clerk/documents/9-8-16STATEPRIMARYOFFICIALRESULTS.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:23 URL: http://www.middleborough.com/clerk/documents/TOWNCLERK4-4-15ATEOFFICIALRESULTS.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:23 URL: http://www.middleborough.com/clerk/documents/OFFICIALRESULTS-11-4-2014STATEELECTION.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:24 URL: http://www.middleborough.com/clerk/documents/9-9-14STATEPRIMARYFINALOFFICIALRESULTS.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:25 URL: http://www.middleborough.com/clerk/documents/STE6-14-14TOTALTALLYSHEETOFFICIALRESULTS.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:25 URL: http://www.middleborough.com/clerk/documents/AnnualTownElection04-05-14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:26 URL: http://www.middleborough.com/clerk/documents/JUNE252013SPECIALSTATEELECTION.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:26 URL: http://www.middleborough.com/clerk/documents/April302013AnnualTownElection.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:26 URL: http://www.middleborough.com/clerk/documents/April302013SpecialStatePrimary.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:27 URL: http://www.middleborough.com/clerk/documents/11-6-2012STATEELECTIONRESULTSOFFICIAL.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:27 URL: http://www.middleborough.com/clerk/documents/September62012StatePrimaryElection.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:28 URL: http://www.middleborough.com/clerk/documents/AnnualTownElection4-7-2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:29 URL: http://www.middleborough.com/clerk/documents/TOWNCLERKTOTALTALLYSHEETFORPUBLIC-FINAL.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:30 URL: http://www.middleborough.com/clerk/documents/ElectionResultsSeptember202011SpecialStateElection.xls 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:31 URL: http://www.middleborough.com/clerk/documents/ElectionResults-August232011SpecialStatePrimary.xls 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:31 URL: http://www.middleborough.com/clerk/documents/AnnualElection04-03-10.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:32 URL: http://www.middleborough.com/clerk/documents/January192010SpecialStateElection.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:32 URL: http://www.middleborough.com/documents/April42009Election.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:32 URL: http://www.middleborough.com/documents/Sept162008Primary.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:33 URL: http://www.middleborough.com/documents/April52008TownElection.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:34 URL: http://www.middleborough.com/clerk/documents/Feb52008PresPrimary.xls 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:34 URL: http://www.middleborough.com/documents/Sept292007RecallElection.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:35 URL: http://www.middleborough.com/clerk/June%202,%202007%20Override%20Election.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:35 URL: http://www.middleborough.com/clerk/documents/POSITIONSAVAILABLEFORATE4-1-2017INCLUDINGINCUMBENTS.doc 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:35 URL: http://www.middleborough.com/clerk/documents/A.T.E.DatestoRememberFOR4-1-17ELECTION.doc 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:37 URL:http://www.middleborough.com/clerk/MassElectionsandVoting-FindMyRegistrationStatus.htm [68695/68695] -> "../data/townSites2/Middleborough/www.middleborough.com/clerk/MassElectionsandVoting-FindMyRegistrationStatus.htm" [1]
+http://www.middleborough.com/clerk/VotingEquipment.mp4:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:04:37 URL: http://www.middleborough.com/clerk/documents/M102.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:38 URL: http://www.middleborough.com/clerk/documents/M102Instructions.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:38 URL: http://www.middleborough.com/clerk/documents/M101.pdf 200 OK
+unlink: No such file or directory
+http://www.middleborough.com/town_meeting.html:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:04:39 URL:http://www.middleborough.com/electedofficials.html [7506/7506] -> "../data/townSites2/Middleborough/www.middleborough.com/electedofficials.html" [1]
+Found 6 broken links.
+
+http://www.middleborough.com/town_meeting.html
+http://www.middleborough.com/instructions_for_zba_petitions.pdf
+http://www.middleborough.com/clerk/VotingEquipment.mp4
+http://www.middleborough.com/requestforchangeofaddress.pdf
+http://www.middleborough.com/Zoning_Area_Requirements.pdf
+http://www.middleborough.com/zba_petition.pdf
+
+FINISHED --2017-01-02 02:04:39--
+Total wall clock time: 1m 38s
+Downloaded: 53 files, 746K in 0.9s (843 KB/s)

@@ -1,0 +1,695 @@
+2017-01-02 00:27:12 URL:http://www.gillmass.org/ [13101] -> "../data/townSites2/Gill/www.gillmass.org/index.html" [1]
+2017-01-02 00:27:18 URL:http://www.gillmass.org/index.php [13101] -> "../data/townSites2/Gill/www.gillmass.org/index.php" [1]
+2017-01-02 00:27:25 URL:http://www.gillmass.org/events.php [21177] -> "../data/townSites2/Gill/www.gillmass.org/events.php" [1]
+2017-01-02 00:27:27 URL:http://www.gillmass.org/about.php [13470] -> "../data/townSites2/Gill/www.gillmass.org/about.php" [1]
+2017-01-02 00:27:28 URL:http://www.gillmass.org/attractions.php [19040] -> "../data/townSites2/Gill/www.gillmass.org/attractions.php" [1]
+2017-01-02 00:27:30 URL:http://www.gillmass.org/committees.php [10997] -> "../data/townSites2/Gill/www.gillmass.org/committees.php" [1]
+2017-01-02 00:27:36 URL:http://www.gillmass.org/documents.php [13969] -> "../data/townSites2/Gill/www.gillmass.org/documents.php" [1]
+2017-01-02 00:27:43 URL:http://www.gillmass.org/FAQ.php [18342] -> "../data/townSites2/Gill/www.gillmass.org/FAQ.php" [1]
+2017-01-02 00:27:49 URL:http://www.gillmass.org/forms.php [12197] -> "../data/townSites2/Gill/www.gillmass.org/forms.php" [1]
+2017-01-02 00:27:56 URL:http://www.gillmass.org/fog.php [15578] -> "../data/townSites2/Gill/www.gillmass.org/fog.php" [1]
+2017-01-02 00:28:02 URL:http://www.gillmass.org/jobs.php [11836] -> "../data/townSites2/Gill/www.gillmass.org/jobs.php" [1]
+2017-01-02 00:28:09 URL:http://www.gillmass.org/links.php [15711] -> "../data/townSites2/Gill/www.gillmass.org/links.php" [1]
+2017-01-02 00:28:12 URL:http://www.gillmass.org/newsletter.php [13367] -> "../data/townSites2/Gill/www.gillmass.org/newsletter.php" [1]
+2017-01-02 00:28:19 URL:http://www.gillmass.org/publicrecords.php [21071] -> "../data/townSites2/Gill/www.gillmass.org/publicrecords.php" [1]
+2017-01-02 00:28:26 URL:http://www.gillmass.org/rfps.php [16101] -> "../data/townSites2/Gill/www.gillmass.org/rfps.php" [1]
+2017-01-02 00:28:33 URL:http://www.gillmass.org/agcommission.php [18093] -> "../data/townSites2/Gill/www.gillmass.org/agcommission.php" [1]
+2017-01-02 00:28:40 URL:http://www.gillmass.org/assessors.php [14005] -> "../data/townSites2/Gill/www.gillmass.org/assessors.php" [1]
+2017-01-02 00:28:47 URL:http://www.gillmass.org/cable.php [10116] -> "../data/townSites2/Gill/www.gillmass.org/cable.php" [1]
+2017-01-02 00:28:53 URL:http://www.gillmass.org/cipc.php [10040] -> "../data/townSites2/Gill/www.gillmass.org/cipc.php" [1]
+2017-01-02 00:29:00 URL:http://www.gillmass.org/cemetery.php [9159] -> "../data/townSites2/Gill/www.gillmass.org/cemetery.php" [1]
+2017-01-02 00:29:02 URL:http://www.gillmass.org/conservation.php [9678] -> "../data/townSites2/Gill/www.gillmass.org/conservation.php" [1]
+2017-01-02 00:29:04 URL:http://www.gillmass.org/coa.php [9218] -> "../data/townSites2/Gill/www.gillmass.org/coa.php" [1]
+2017-01-02 00:29:11 URL:http://www.gillmass.org/cultural.php [14408] -> "../data/townSites2/Gill/www.gillmass.org/cultural.php" [1]
+2017-01-02 00:29:13 URL:http://www.gillmass.org/energy.php [35271] -> "../data/townSites2/Gill/www.gillmass.org/energy.php" [1]
+2017-01-02 00:29:14 URL:http://www.gillmass.org/finance.php [10230] -> "../data/townSites2/Gill/www.gillmass.org/finance.php" [1]
+2017-01-02 00:29:16 URL:http://www.gillmass.org/fire.php [9635] -> "../data/townSites2/Gill/www.gillmass.org/fire.php" [1]
+2017-01-02 00:29:22 URL:http://www.gillmass.org/health.php [18235] -> "../data/townSites2/Gill/www.gillmass.org/health.php" [1]
+2017-01-02 00:29:24 URL:http://www.gillmass.org/highway.php [10543] -> "../data/townSites2/Gill/www.gillmass.org/highway.php" [1]
+2017-01-02 00:29:27 URL:http://www.gillmass.org/historical.php [15937] -> "../data/townSites2/Gill/www.gillmass.org/historical.php" [1]
+2017-01-02 00:29:34 URL:http://www.gillmass.org/inspections.php [9879] -> "../data/townSites2/Gill/www.gillmass.org/inspections.php" [1]
+2017-01-02 00:29:40 URL:http://www.gillmass.org/library.php [9840] -> "../data/townSites2/Gill/www.gillmass.org/library.php" [1]
+2017-01-02 00:29:47 URL:http://www.gillmass.org/memorial.php [10819] -> "../data/townSites2/Gill/www.gillmass.org/memorial.php" [1]
+2017-01-02 00:29:54 URL:http://www.gillmass.org/moderator.php [9016] -> "../data/townSites2/Gill/www.gillmass.org/moderator.php" [1]
+2017-01-02 00:30:01 URL:http://www.gillmass.org/personnel.php [9745] -> "../data/townSites2/Gill/www.gillmass.org/personnel.php" [1]
+2017-01-02 00:30:03 URL:http://www.gillmass.org/planning.php [11723] -> "../data/townSites2/Gill/www.gillmass.org/planning.php" [1]
+2017-01-02 00:30:10 URL:http://www.gillmass.org/police.php [15674] -> "../data/townSites2/Gill/www.gillmass.org/police.php" [1]
+2017-01-02 00:30:14 URL:http://www.gillmass.org/recreation.php [11579] -> "../data/townSites2/Gill/www.gillmass.org/recreation.php" [1]
+2017-01-02 00:30:16 URL:http://www.gillmass.org/schools.php [8838] -> "../data/townSites2/Gill/www.gillmass.org/schools.php" [1]
+2017-01-02 00:30:22 URL:http://www.gillmass.org/selectboard.php [13935] -> "../data/townSites2/Gill/www.gillmass.org/selectboard.php" [1]
+2017-01-02 00:30:30 URL:http://www.gillmass.org/solidwaste.php [22664] -> "../data/townSites2/Gill/www.gillmass.org/solidwaste.php" [1]
+2017-01-02 00:30:37 URL:http://www.gillmass.org/treasurer.php [10013] -> "../data/townSites2/Gill/www.gillmass.org/treasurer.php" [1]
+2017-01-02 00:30:39 URL:http://www.gillmass.org/clerk.php [22797] -> "../data/townSites2/Gill/www.gillmass.org/clerk.php" [1]
+2017-01-02 00:30:47 URL:http://www.gillmass.org/vets.php [10790] -> "../data/townSites2/Gill/www.gillmass.org/vets.php" [1]
+2017-01-02 00:30:49 URL:http://www.gillmass.org/water.php [9033] -> "../data/townSites2/Gill/www.gillmass.org/water.php" [1]
+2017-01-02 00:30:56 URL:http://www.gillmass.org/zba.php [11491] -> "../data/townSites2/Gill/www.gillmass.org/zba.php" [1]
+2017-01-02 00:31:03 URL:http://www.gillmass.org/SelectboardAgendasAndMinutes2016.php [16483] -> "../data/townSites2/Gill/www.gillmass.org/SelectboardAgendasAndMinutes2016.php" [1]
+2017-01-02 00:31:05 URL:http://www.gillmass.org/government.php [11277] -> "../data/townSites2/Gill/www.gillmass.org/government.php" [1]
+2017-01-02 00:31:06 URL: http://www.gillmass.org/pdfs//Gill_FEMAReview_Draft_4-16-2014_compressed.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:06 URL: http://www.gillmass.org/pdfs/Interest%20in%20Appt%20to%20Town%20Cte.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:06 URL: http://www.gillmass.org/pdfs/Interest%20in%20Appt%20to%20Town%20Cte.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:07 URL: http://www.gillmass.org/pdfs/Annual%20Reports/AnnualReport2009.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:07 URL: http://www.gillmass.org/pdfs/Annual%20Reports/AnnualReport2008.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:07 URL: http://www.gillmass.org/pdfs/Annual%20Reports/2007%20Annual%20Town%20Report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:08 URL: http://www.gillmass.org/pdfs/Annual%20Reports/Annual%20report%202006.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:08 URL: http://www.gillmass.org/pdfs/Annual%20Reports/Annual%20Town%20Report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:08 URL: http://www.gillmass.org/pdfs/OpenSpace/Gill-OSRP-2011-FINAL.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:09 URL: http://www.gillmass.org/pdfs/OpenSpace/Gill-OSRP-2011-Section-12-Appendices-FINAL.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:09 URL: http://www.gillmass.org/pdfs/CEG/CEGReport.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:09 URL: http://www.gillmass.org/pdfs/CEG/CEGPowerPoint.pps 200 OK
+unlink: No such file or directory
+http://www.gillmass.org/pdfs/CEG/1992Report.pdf:
+Remote file does not exist -- broken link!!!
+http://www.gillmass.org/pdfs/CEG/TFHSProgramOfStudies.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:31:17 URL:http://www.gillmass.org/CEGAgendasAndMinutes2009.php [10216] -> "../data/townSites2/Gill/www.gillmass.org/CEGAgendasAndMinutes2009.php" [1]
+2017-01-02 00:31:23 URL:http://www.gillmass.org/CEGAgendasAndMinutes2008.php [9109] -> "../data/townSites2/Gill/www.gillmass.org/CEGAgendasAndMinutes2008.php" [1]
+2017-01-02 00:31:24 URL: http://www.gillmass.org/pdfs/GILL_CDP_2004.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:24 URL: http://www.gillmass.org/pdfs/TownPreliminaryEnergyAudit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:24 URL: http://www.gillmass.org/pdfs/GMRSDPreliminaryEnergyAudit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:24 URL: http://www.gillmass.org/pdfs/SingletonReport.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:25 URL: http://www.gillmass.org/pdfs/Ch61%20Classification.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:25 URL: http://www.gillmass.org/pdfs/Ch61A%20Classification.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:25 URL: http://www.gillmass.org/pdfs/Ch61B%20Classification.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:26 URL: http://www.gillmass.org/pdfs/zba/Gill-Bylaws-updated-050911.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:31:32 URL:http://www.gillmass.org/TownMeetingsandElections2012.php [10501] -> "../data/townSites2/Gill/www.gillmass.org/TownMeetingsandElections2012.php" [1]
+2017-01-02 00:31:39 URL:http://www.gillmass.org/TownMeetingsandElections2011.php [9718] -> "../data/townSites2/Gill/www.gillmass.org/TownMeetingsandElections2011.php" [1]
+2017-01-02 00:31:45 URL:http://www.gillmass.org/TownMeetingsandElections2010.php [9589] -> "../data/townSites2/Gill/www.gillmass.org/TownMeetingsandElections2010.php" [1]
+2017-01-02 00:31:52 URL:http://www.gillmass.org/TownMeetingsandElections2009.php [11159] -> "../data/townSites2/Gill/www.gillmass.org/TownMeetingsandElections2009.php" [1]
+2017-01-02 00:31:59 URL:http://www.gillmass.org/TownMeetingsandElections2008.php [10401] -> "../data/townSites2/Gill/www.gillmass.org/TownMeetingsandElections2008.php" [1]
+2017-01-02 00:32:06 URL:http://www.gillmass.org/TownMeetingsandElections2007.php [9066] -> "../data/townSites2/Gill/www.gillmass.org/TownMeetingsandElections2007.php" [1]
+2017-01-02 00:32:13 URL:http://www.gillmass.org/TownMeetingsandElections2006.php [8892] -> "../data/townSites2/Gill/www.gillmass.org/TownMeetingsandElections2006.php" [1]
+2017-01-02 00:32:14 URL: http://www.gillmass.org/pdfs/Gill%20Traffic%20Regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:14 URL: http://www.gillmass.org/pdfs/Rules%20governing%20use%20of%20town%20facilities.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:15 URL: http://www.gillmass.org/pdfs/Forms/Town-facilities-request-form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:15 URL: http://www.gillmass.org/pdfs/Forms/Town-facilities-request-form.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:15 URL: http://www.gillmass.org/pdfs/Signs%20on%20Town%20property%20policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:16 URL: http://www.gillmass.org/pdfs/App%20for%20sign%20on%20public%20property.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:16 URL: http://www.gillmass.org/pdfs/App%20for%20sign%20on%20public%20property.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:17 URL: http://www.gillmass.org/pdfs/ZBA/Gill-Zoning-Bylaws-050409.pdf 200 OK
+unlink: No such file or directory
+http://www.gillmass.org/pdfs/Hurricane%20Evacuation.pdf:
+Remote file does not exist -- broken link!!!
+http://www.gillmass.org/pdfs/Forms/FY2010-Gill-Abatement-Form-and-Info.pdf:
+Remote file does not exist -- broken link!!!
+http://www.gillmass.org/pdfs/Forms/App%20for%20sign%20on%20public%20property.pdf:
+Remote file does not exist -- broken link!!!
+http://www.gillmass.org/pdfs/Forms/App%20for%20sign%20on%20public%20property.doc:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:32:19 URL: http://www.gillmass.org/pdfs/Forms/Public-Gathering-Permit-Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:19 URL: http://www.gillmass.org/pdfs/Forms/Public-Gathering-Permit-Application.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:19 URL: http://www.gillmass.org/pdfs/Forms/Interest-in-Appt-to-Town-Cte.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:20 URL: http://www.gillmass.org/pdfs/Forms/Interest-in-Appt-to-Town-Cte.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:20 URL: http://www.gillmass.org/pdfs/Forms/TrenchPermitApplication.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:20 URL: http://www.gillmass.org/pdfs/Forms/TrenchPermitApplication.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:21 URL: http://www.gillmass.org/pdfs/2016-1031-Snow-Plow-Driver-Seasonal-PerDiem.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:21 URL: http://www.gillmass.org/pdfs/GillEmploymentApplication.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:22 URL: http://www.gillmass.org/pdfs/newsletter/GillNews-FALL-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:22 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsSUM-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:22 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsSPR-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:22 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsJan-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:23 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsJuly-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:23 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsApr-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:24 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsFeb-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:24 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsDec-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:24 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsOct-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:25 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsJuly-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:25 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsMay-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:25 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsMar-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:26 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsJan-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:26 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsOct-2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:27 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsJul-2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:27 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsApr-2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:27 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsFeb-2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:28 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsDec-2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:28 URL: http://www.gillmass.org/pdfs/newsletter/2012-10%20GillNews%20Oct-2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:29 URL: http://www.gillmass.org/pdfs/newsletter/GillNews%20JUN-2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:29 URL: http://www.gillmass.org/pdfs/newsletter/2012-04%20GillNews%20Apr-2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:29 URL: http://www.gillmass.org/pdfs/newsletter/2012-01%20GillNews%20Jan-2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:29 URL: http://www.gillmass.org/pdfs/newsletter/2011-12%20GillNews%20Dec-2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:30 URL: http://www.gillmass.org/pdfs/newsletter/GillNews%20Sep-2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:30 URL: http://www.gillmass.org/pdfs/newsletter/GillNews%20Jun-2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:31 URL: http://www.gillmass.org/pdfs/newsletter/GillNews%20Feb-2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:31 URL: http://www.gillmass.org/pdfs/newsletter/GillNews%20Dec-2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:32 URL: http://www.gillmass.org/pdfs/newsletter/GillNews%20Aug-2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:32 URL: http://www.gillmass.org/pdfs/newsletter/GillNews%20Jun-2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:32 URL: http://www.gillmass.org/pdfs/newsletter/GillNews%20Apr-2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:33 URL: http://www.gillmass.org/pdfs/newsletter/GillNews%20Feb-2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:33 URL: http://www.gillmass.org/pdfs/newsletter/GillNews%20Dec-2009.pdf 200 OK
+unlink: No such file or directory
+http://www.gillmass.org/pdfs/newsletter/GillNews%20Aug-2009.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:32:34 URL: http://www.gillmass.org/pdfs/newsletter/GillNews%20Jun-2009.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:34 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsApr09.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:35 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsFeb09.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:35 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsDec08.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:35 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsOct08.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:36 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsSep08.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:36 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsJun08.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:36 URL: http://www.gillmass.org/pdfs/newsletter/Apr08.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:37 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsFeb08.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:37 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsDEC07-Online.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:38 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsOct07Online.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:38 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsAug07Online1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:38 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsJun07Online1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:39 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsApr07Online.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:39 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsFeb07Online1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:40 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsDec06Online.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:40 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsOct06Online.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:40 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsAug06Online.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:41 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsJun06Online.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:41 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsApr06Online.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:41 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsFeb06Online.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:41 URL: http://www.gillmass.org/pdfs/newsletter/GillNewsDec05Online.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:42 URL: http://www.gillmass.org/pdfs/publicrecords/2016-1229_Gill_Public_Records_Compliance_Policy_DRAFT.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:42 URL: http://www.gillmass.org/pdfs/publicrecords/2016-1229_Gill_Public_Records_Form_fillable_DRAFT.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:42 URL: http://www.gillmass.org/pdfs/AgComm/2011-Gill%20Farm-Guide.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:43 URL: http://www.gillmass.org/pdfs/AgComm/RightToFarmBylaw.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:43 URL: http://www.gillmass.org/pdfs/Forms/FY2016-Gill-Abatement-Info.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:43 URL: http://www.gillmass.org/pdfs/Forms/FY2016-Gill-Abatement-Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:44 URL: http://www.gillmass.org/pdfs/statetax2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:44 URL: http://www.gillmass.org/pdfs/statetax2hf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:44 URL: http://www.gillmass.org/pdfs/Cartographics/Gindex.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:44 URL: http://www.gillmass.org/pdfs/Cartographics/Composite.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:45 URL: http://www.gillmass.org/pdfs/Cartographics/G101.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:45 URL: http://www.gillmass.org/pdfs/Cartographics/G102.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:45 URL: http://www.gillmass.org/pdfs/Cartographics/G103.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:45 URL: http://www.gillmass.org/pdfs/Cartographics/G201.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:46 URL: http://www.gillmass.org/pdfs/Cartographics/G202.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:46 URL: http://www.gillmass.org/pdfs/Cartographics/G203.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:46 URL: http://www.gillmass.org/pdfs/Cartographics/G204.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:47 URL: http://www.gillmass.org/pdfs/Cartographics/G205.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:47 URL: http://www.gillmass.org/pdfs/Cartographics/G206.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:47 URL: http://www.gillmass.org/pdfs/Cartographics/G207.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:48 URL: http://www.gillmass.org/pdfs/Cartographics/G208.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:48 URL: http://www.gillmass.org/pdfs/Cartographics/G209.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:48 URL: http://www.gillmass.org/pdfs/Cartographics/G210.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:49 URL: http://www.gillmass.org/pdfs/Cartographics/G211.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:49 URL: http://www.gillmass.org/pdfs/Cartographics/G212.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:49 URL: http://www.gillmass.org/pdfs/Cartographics/G213.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:50 URL: http://www.gillmass.org/pdfs/Cartographics/G214.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:50 URL: http://www.gillmass.org/pdfs/Cartographics/G215.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:51 URL: http://www.gillmass.org/pdfs/Cartographics/G216.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:51 URL: http://www.gillmass.org/pdfs/Cartographics/G217.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:52 URL: http://www.gillmass.org/pdfs/Cartographics/G218.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:52 URL: http://www.gillmass.org/pdfs/Cartographics/G219.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:52 URL: http://www.gillmass.org/pdfs/Cartographics/G220.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:53 URL: http://www.gillmass.org/pdfs/Cartographics/G221.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:54 URL: http://www.gillmass.org/pdfs/Cartographics/G222.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:54 URL: http://www.gillmass.org/pdfs/Cartographics/G223.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:55 URL: http://www.gillmass.org/pdfs/Cartographics/G224.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:55 URL: http://www.gillmass.org/pdfs/Cartographics/G225.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:55 URL: http://www.gillmass.org/pdfs/Cartographics/G226.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:56 URL: http://www.gillmass.org/pdfs/Cartographics/G227.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:56 URL: http://www.gillmass.org/pdfs/Cartographics/G228.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:56 URL: http://www.gillmass.org/pdfs/Cartographics/G229.PDF 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:56 URL: http://www.gillmass.org/pdfs/2016-0517_Gill_Cable_License_Final_SIGNED.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:57 URL: http://www.gillmass.org/pdfs/CIPC/2012CIPCreport.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:32:57 URL: http://www.gillmass.org/pdfs/CIPC/2011CIPCreport2011-0518.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:03 URL:http://www.gillmass.org/townforest.php [13356] -> "../data/townSites2/Gill/www.gillmass.org/townforest.php" [1]
+2017-01-02 00:33:04 URL: http://www.gillmass.org/pdfs/Energy/Gill-Challenge-to-Reduce-Energy-Use-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:04 URL: http://www.gillmass.org/pdfs/Energy/HOW-TO-FIND-$$-FOR-A-HOME-ENERGY-UPGRADE-2011.10.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:04 URL: http://www.gillmass.org/pdfs/Energy/GEC-Energy-Upgrade-Info-Feb2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:05 URL: http://www.gillmass.org/pdfs/Energy/Gill_Green_Communities_Action_Plan_2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:05 URL: http://www.gillmass.org/pdfs/Fire-Dept-Fee-Schedule-Jan-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:06 URL:http://www.gillmass.org/cgi-bin/cal/calendar.html [293/293] -> "../data/townSites2/Gill/www.gillmass.org/cgi-bin/cal/calendar.html" [1]
+2017-01-02 00:33:06 URL: http://www.gillmass.org/pdfs/BOH/2015-0526-Gill-BOH-Tobacco-Regulations-effective-2015-0901.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:06 URL: http://www.gillmass.org/pdfs/BOH/2013-0326-Gill-BOH-Restricting-Sales-of-Tobacco-Regulation.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:07 URL: http://www.gillmass.org/pdfs/BOH/2013-0326-Gill-BOH-Prohibit-Smoking-Workplace-Public-Places-Regulation.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:07 URL: http://www.gillmass.org/pdfs/BOH/2013_med_mgmt_flyer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:07 URL: http://www.gillmass.org/pdfs/BOH/CPHS-gill.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:08 URL: http://www.gillmass.org/pdfs/BOH/FluSymptoms.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:08 URL: http://www.gillmass.org/pdfs/BOH/Recommendations-for-Private-Wells-Inundated-by-Flooding.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:08 URL: http://www.gillmass.org/pdfs/BOH/Flooding-and-Sewage-Backups.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:09 URL: http://www.gillmass.org/pdfs/BOH/dwp-disinfection.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:09 URL: http://www.gillmass.org/pdfs/BOH/sampling-bact.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:09 URL: http://www.gillmass.org/pdfs/BOH/Certified-Laboratories-Available-Outside-Regular-Working-Hours.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:10 URL: http://www.gillmass.org/pdfs/BOH/rabies_scenarios-Living-with-Rabies-in-Your-Community.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:10 URL: http://www.gillmass.org/pdfs/BOH/DFW-Wildlife-Rabies.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:10 URL: http://www.gillmass.org/pdfs/BOH/living_with_suburban.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:10 URL: http://www.gillmass.org/pdfs/BOH/camp_exposure.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:11 URL: http://www.gillmass.org/pdfs/BOH/Management-of-dogs-and-cats-exposed-to-wildlife.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:11 URL: http://www.gillmass.org/pdfs/BOH/Rabies-protocol-definitions-11-5-08.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:11 URL: http://www.gillmass.org/pdfs/BOH/50-Rabies.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:12 URL: http://www.gillmass.org/pdfs/BOH/bats-and-rabies-alert-7_09.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:12 URL: http://www.gillmass.org/pdfs/BOH/2012-0828Gill-BOH-private-well-regs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:12 URL: http://www.gillmass.org/pdfs/BOH/2012-1015Gill-BOH-Septic-Regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:13 URL: http://www.gillmass.org/pdfs/BOH/2012-0710Gill-BOH-Septic-Policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:13 URL: http://www.gillmass.org/pdfs/BOH/2012-0724Gill-BOH-food-inspection-program-policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:13 URL: http://www.gillmass.org/pdfs/BOH/2012-0724Gill-BOH-employment-of-outside-consultants.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:13 URL: http://www.gillmass.org/pdfs/HwyFeeScheduleMar2009.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:14 URL: http://www.gillmass.org/pdfs/Curb-Cut-Permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:14 URL: http://www.gillmass.org/pdfs/Curb-Cut-Permit.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:14 URL: http://www.gillmass.org/pdfs/TrenchPermitApplication.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:14 URL: http://www.gillmass.org/pdfs/TrenchPermitApplication.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:15 URL: http://www.gillmass.org/pdfs/RiversideBook_flyer_BW_hr.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:15 URL: http://www.gillmass.org/pdfs/landowner_mtg_10272015_poster_3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:15 URL: http://www.gillmass.org/pdfs/2013-Robert-Herbert-Roswell-Field.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:16 URL: http://www.gillmass.org/Images/library2010-1.jpeg 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:16 URL: http://www.gillmass.org/pdfs/planningboard/Final-Gill-Solar-Bylaw-Town-Meeting-Version-12-13-11.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:16 URL: http://www.gillmass.org/pdfs/planningboard/GillSolarBylawMap08-24-11.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:17 URL: http://www.gillmass.org/pdfs/planningboard/Planning-Board-Report-on-Proposed-Solar-Overlay-Bylaw.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:18 URL:http://www.gillmass.org/PBAgendasAndMinutes.php [9620] -> "../data/townSites2/Gill/www.gillmass.org/PBAgendasAndMinutes.php" [1]
+2017-01-02 00:33:19 URL: http://www.gillmass.org/pdfs/ZBA/ANR%20Overview.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:19 URL: http://www.gillmass.org/pdfs/Forms/ANR%20Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:19 URL: http://www.gillmass.org/pdfs/Forms/ANR%20Application.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:19 URL: http://www.gillmass.org/pdfs/Forms/FormB_ApprovalPrelimPlan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:20 URL: http://www.gillmass.org/pdfs/Forms/FormB_ApprovalPrelimPlan.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:20 URL: http://www.gillmass.org/pdfs/Forms/FormC_ApprovalDefinitiveSubdivisionPlan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:20 URL: http://www.gillmass.org/pdfs/Forms/FormC_ApprovalDefinitiveSubdivisionPlan.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:21 URL: http://www.gillmass.org/pdfs/ZBA/SubdivisionRegulations-081309.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:21 URL: http://www.gillmass.org/pdfs/ZBA/Site%20Plan%20Overview.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:21 URL: http://www.gillmass.org/pdfs/ZBA/Site%20Plan%20Review%20application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:22 URL: http://www.gillmass.org/pdfs/ZBA/Site%20Plan%20Review%20application.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:22 URL: http://www.gillmass.org/pdfs/Selectboard/2016-1114-handout-discussion-of-RiversideSewerRates.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:22 URL: http://www.gillmass.org/pdfs/forms/Interest-in-Appt-to-Town-Cte.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:22 URL: http://www.gillmass.org/pdfs/forms/Interest-in-Appt-to-Town-Cte.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:23 URL: http://www.gillmass.org/pdfs/Selectboard/SBFeeSchedule020210.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:33:29 URL:http://www.gillmass.org/SelectboardAgendasAndMinutes2017.php [13957] -> "../data/townSites2/Gill/www.gillmass.org/SelectboardAgendasAndMinutes2017.php" [1]
+2017-01-02 00:33:36 URL:http://www.gillmass.org/SelectboardAgendasAndMinutes2015.php [14905] -> "../data/townSites2/Gill/www.gillmass.org/SelectboardAgendasAndMinutes2015.php" [1]
+2017-01-02 00:33:43 URL:http://www.gillmass.org/SelectboardAgendasAndMinutes2014.php [16817] -> "../data/townSites2/Gill/www.gillmass.org/SelectboardAgendasAndMinutes2014.php" [1]
+2017-01-02 00:33:49 URL:http://www.gillmass.org/SelectboardAgendasAndMinutes2013.php [17719] -> "../data/townSites2/Gill/www.gillmass.org/SelectboardAgendasAndMinutes2013.php" [1]
+2017-01-02 00:33:59 URL:http://www.gillmass.org/SelectboardAgendasAndMinutes2012.php [18665] -> "../data/townSites2/Gill/www.gillmass.org/SelectboardAgendasAndMinutes2012.php" [1]
+2017-01-02 00:34:05 URL:http://www.gillmass.org/SelectboardAgendasAndMinutes2011.php [15808] -> "../data/townSites2/Gill/www.gillmass.org/SelectboardAgendasAndMinutes2011.php" [1]
+2017-01-02 00:34:07 URL:http://www.gillmass.org/SelectboardAgendasAndMinutes2010.php [16797] -> "../data/townSites2/Gill/www.gillmass.org/SelectboardAgendasAndMinutes2010.php" [1]
+2017-01-02 00:34:13 URL:http://www.gillmass.org/SelectboardAgendasAndMinutes2009.php [16203] -> "../data/townSites2/Gill/www.gillmass.org/SelectboardAgendasAndMinutes2009.php" [1]
+2017-01-02 00:34:19 URL:http://www.gillmass.org/SelectboardAgendasAndMinutes2008.php [16050] -> "../data/townSites2/Gill/www.gillmass.org/SelectboardAgendasAndMinutes2008.php" [1]
+2017-01-02 00:34:20 URL: http://www.gillmass.org/pdfs/forms/SewerUseRegulations033108.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:20 URL: http://www.gillmass.org/pdfs/forms/SewerFeeSchedule042810.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:20 URL: http://www.gillmass.org/pdfs/Forms/2015-1201SewerAbatementRequestForm.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:21 URL: http://www.gillmass.org/pdfs/Forms/2015-1201SewerAbatementRequestForm.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:21 URL: http://www.gillmass.org/pdfs/GillMgmtLetter2009.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:21 URL: http://www.gillmass.org/pdfs/GillAudit2009.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:28 URL:http://www.gillmass.org/ZBAAgendasAndMinutes.php [9354] -> "../data/townSites2/Gill/www.gillmass.org/ZBAAgendasAndMinutes.php" [1]
+2017-01-02 00:34:28 URL: http://www.gillmass.org/pdfs/ZBA/2015-1019_Gill_Zoning_Bylaws.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:29 URL: http://www.gillmass.org/pdfs/ZBA/Gill-Zoning-Map-2015-11x17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:29 URL: http://www.gillmass.org/pdfs/ZBA/ZBAFeeSchedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:29 URL: http://www.gillmass.org/pdfs/ZBA/ANR%20Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:30 URL: http://www.gillmass.org/pdfs/ZBA/ANR%20Application.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:30 URL: http://www.gillmass.org/pdfs/ZBA/Special%20permit%20application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:30 URL: http://www.gillmass.org/pdfs/ZBA/Special%20permit%20application.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:31 URL: http://www.gillmass.org/pdfs/ZBA/Special%20Permit%20Overview.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:31 URL: http://www.gillmass.org/pdfs/Forms/ZBAAppealApplication.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:31 URL: http://www.gillmass.org/pdfs/Forms/ZBAAppealApplication.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:31 URL: http://www.gillmass.org/pdfs/Forms/ZBA-Variance-Application-101310.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:32 URL: http://www.gillmass.org/pdfs/Forms/ZBA-Variance-Application-101310.doc 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:32 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0111.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:32 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0125.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:33 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0111.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:33 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0125.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:34 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0204wFC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:34 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0208.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:34 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0222.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:34 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0204wFC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:35 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0208.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:35 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0222.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:35 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0302wFC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:36 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0307.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:36 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0314wFC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:36 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0321.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:37 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0321wFC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:37 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0328wFC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:37 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0302wFC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:37 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0307.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:37 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0314wFC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:38 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0321.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:38 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0321wFC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:38 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0328wFC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:38 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0404.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:39 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0404wFC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:39 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0419.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:39 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0419wFC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:39 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0426.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:40 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0427wFC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:40 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0404.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:40 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0404wFC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:41 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0419.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:41 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0419wFC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:41 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0426.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:42 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0426exec.pdf 200 OK
+unlink: No such file or directory
+http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0427wFC.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:34:42 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0502.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:42 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0504wFC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:43 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0505wFC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:43 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0517.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:43 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0531.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:44 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0502.pdf 200 OK
+unlink: No such file or directory
+http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0504wFC.pdf:
+Remote file does not exist -- broken link!!!
+http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0505wFC.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:34:45 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0517.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:45 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0531.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:45 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0613.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:45 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0613wFC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:46 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0627.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:46 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0613.pdf 200 OK
+unlink: No such file or directory
+http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0613wFC.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:34:47 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0627.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:47 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0711.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:47 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0725.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:48 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0711.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:48 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0725.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:48 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0801.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:48 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0808.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:49 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0815.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:49 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0818.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:49 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0822.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:50 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0829.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:50 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0808.pdf 200 OK
+unlink: No such file or directory
+http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0815.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:34:50 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0822.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:51 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0906.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:51 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-0919.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:51 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0906.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:51 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0919.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:52 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-1003.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:53 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-1017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:53 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-1027.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:53 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-1031.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:54 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-1003.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:54 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-1017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:54 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-1027.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:54 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-1031.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:55 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-1114.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:55 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-1128.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:56 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-1114.pdf 200 OK
+unlink: No such file or directory
+http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-1128.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:34:56 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-1212.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:34:56 URL: http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-1213.pdf 200 OK
+unlink: No such file or directory
+http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-1227.pdf:
+Remote file does not exist -- broken link!!!
+http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-1212.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 00:34:57 URL: http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-1213.pdf 200 OK
+unlink: No such file or directory
+http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-1227.pdf:
+Remote file does not exist -- broken link!!!
+Found 16 broken links.
+
+http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-1128.pdf
+http://www.gillmass.org/pdfs/Forms/App%20for%20sign%20on%20public%20property.doc
+http://www.gillmass.org/pdfs/Forms/App%20for%20sign%20on%20public%20property.pdf
+http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0815.pdf
+http://www.gillmass.org/pdfs/CEG/1992Report.pdf
+http://www.gillmass.org/pdfs/Forms/FY2010-Gill-Abatement-Form-and-Info.pdf
+http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0427wFC.pdf
+http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0505wFC.pdf
+http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0613wFC.pdf
+http://www.gillmass.org/pdfs/Hurricane%20Evacuation.pdf
+http://www.gillmass.org/pdfs/Selectboard/Agendas/2016/SBAgenda2016-1227.pdf
+http://www.gillmass.org/pdfs/CEG/TFHSProgramOfStudies.pdf
+http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-0504wFC.pdf
+http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-1227.pdf
+http://www.gillmass.org/pdfs/newsletter/GillNews%20Aug-2009.pdf
+http://www.gillmass.org/pdfs/Selectboard/Minutes/2016/SBMinutes2016-1212.pdf
+
+FINISHED --2017-01-02 00:34:58--
+Total wall clock time: 7m 53s
+Downloaded: 69 files, 896K in 4m 1s (3.72 KB/s)

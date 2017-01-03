@@ -1,0 +1,72 @@
+2017-01-02 08:26:15 URL:http://www.cityofwoburn.com/ [92603/92603] -> "../data/townSites2/Woburn/www.cityofwoburn.com/index.html" [1]
+2017-01-02 08:26:15 URL: http://www.cityofwoburn.com/images/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:18 URL:https://ma-woburn2.civicplus.com/MyAccount?dn=www.cityofwoburn.com&from=&url=&anchor=&validationMessage= [79275/79275] -> "../data/townSites2/Woburn/www.cityofwoburn.com/MyAccount/Profile/FRANCISCO-SANTOS-CAAMA209O-344" [1]
+2017-01-02 08:26:20 URL:https://ma-woburn2.civicplus.com/MyAccount?dn=www.cityofwoburn.com&from=&url=&anchor=&validationMessage= [79275/79275] -> "../data/townSites2/Woburn/www.cityofwoburn.com/MyAccount/Profile/Kirk-Longendyke-298" [1]
+2017-01-02 08:26:23 URL:https://ma-woburn2.civicplus.com/MyAccount?dn=www.cityofwoburn.com&from=&url=&anchor=&validationMessage= [79275/79275] -> "../data/townSites2/Woburn/www.cityofwoburn.com/MyAccount/Profile/gail-grant-293" [1]
+2017-01-02 08:26:25 URL:http://www.cityofwoburn.com/index.aspx?NID=1220 [75958/75958] -> "../data/townSites2/Woburn/www.cityofwoburn.com/facebook" [1]
+2017-01-02 08:26:27 URL:http://www.cityofwoburn.com/index.aspx?NID=1220 [75958/75958] -> "../data/townSites2/Woburn/www.cityofwoburn.com/twitter" [1]
+2017-01-02 08:26:29 URL:http://www.cityofwoburn.com/archive.aspx [98456/98456] -> "../data/townSites2/Woburn/www.cityofwoburn.com/archive.asp" [1]
+2017-01-02 08:26:32 URL:http://www.cityofwoburn.com/forms.aspx [78739/78739] -> "../data/townSites2/Woburn/www.cityofwoburn.com/forms.asp" [1]
+http://www.cityofwoburn.com/DocumentCenter/View/13096:
+Remote file does not exist -- broken link!!!
+2017-01-02 08:26:33 URL:http://www.cityofwoburn.com/DocumentCenter/Index/9 [94246/94246] -> "../data/townSites2/Woburn/www.cityofwoburn.com/DocumentCenter/Index/9" [1]
+2017-01-02 08:26:34 URL:http://www.cityofwoburn.com/Archive.aspx [98456/98456] -> "../data/townSites2/Woburn/www.cityofwoburn.com/Archive.aspx" [1]
+2017-01-02 08:26:36 URL:http://www.cityofwoburn.com/DocumentCenter [102946/102946] -> "../data/townSites2/Woburn/www.cityofwoburn.com/DocumentCenter.1" [1]
+2017-01-02 08:26:37 URL:http://www.cityofwoburn.com/Calendar.aspx [110339/110339] -> "../data/townSites2/Woburn/www.cityofwoburn.com/Calendar.aspx" [1]
+2017-01-02 08:26:39 URL:http://www.cityofwoburn.com/rss.aspx [82921/82921] -> "../data/townSites2/Woburn/www.cityofwoburn.com/rss.aspx" [1]
+2017-01-02 08:26:41 URL:http://www.cityofwoburn.com/EmailPage [78008/78008] -> "../data/townSites2/Woburn/www.cityofwoburn.com/emailpage.aspx" [1]
+2017-01-02 08:26:42 URL:http://www.cityofwoburn.com/alertcenter.aspx [75725/75725] -> "../data/townSites2/Woburn/www.cityofwoburn.com/alertcenter.aspx" [1]
+2017-01-02 08:26:44 URL:http://www.cityofwoburn.com/directory.aspx [103111/103111] -> "../data/townSites2/Woburn/www.cityofwoburn.com/directory.aspx" [1]
+2017-01-02 08:26:47 URL:http://www.cityofwoburn.com/sitemap.aspx [143717/143717] -> "../data/townSites2/Woburn/www.cityofwoburn.com/sitemap.aspx" [1]
+2017-01-02 08:26:49 URL:http://www.cityofwoburn.com/index.aspx [92613/92613] -> "../data/townSites2/Woburn/www.cityofwoburn.com/index.aspx" [1]
+2017-01-02 08:26:50 URL:http://www.cityofwoburn.com/DocumentCenter/ [102935/102935] -> "../data/townSites2/Woburn/www.cityofwoburn.com/Documentcenterii.asp" [1]
+2017-01-02 08:26:52 URL:http://www.cityofwoburn.com/DocumentCenter/9 [94240/94240] -> "../data/townSites2/Woburn/www.cityofwoburn.com/DocumentCenter/9" [1]
+2017-01-02 08:26:53 URL:http://www.cityofwoburn.com/iCalendar.aspx [74169/74169] -> "../data/townSites2/Woburn/www.cityofwoburn.com/iCalendar.aspx" [1]
+2017-01-02 08:26:55 URL:http://www.cityofwoburn.com/list.aspx [93227/93227] -> "../data/townSites2/Woburn/www.cityofwoburn.com/list.aspx" [1]
+http://www.cityofwoburn.com/calendar.aspx?nid=-404&badlink=%2fcurrentevents.aspx:
+Remote file does not exist -- broken link!!!
+2017-01-02 08:26:57 URL: http://www.cityofwoburn.com/support/pages.xml 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:57 URL: http://www.cityofwoburn.com/support/newsflash.xml 200 OK
+unlink: No such file or directory
+http://www.cityofwoburn.com/support/blog.xml:
+Remote file does not exist -- broken link!!!
+2017-01-02 08:26:58 URL: http://www.cityofwoburn.com/support/calendar.xml 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:58 URL: http://www.cityofwoburn.com/support/calendar19.xml 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:58 URL: http://www.cityofwoburn.com/support/calendar20.xml 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:59 URL: http://www.cityofwoburn.com/support/calendar22.xml 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:59 URL: http://www.cityofwoburn.com/support/calendar17.xml 200 OK
+unlink: No such file or directory
+2017-01-02 08:26:59 URL: http://www.cityofwoburn.com/support/calendar14.xml 200 OK
+unlink: No such file or directory
+2017-01-02 08:27:00 URL: http://www.cityofwoburn.com/support/calendar15.xml 200 OK
+unlink: No such file or directory
+2017-01-02 08:27:00 URL: http://www.cityofwoburn.com/support/calendar16.xml 200 OK
+unlink: No such file or directory
+2017-01-02 08:27:00 URL: http://www.cityofwoburn.com/support/calendar25.xml 200 OK
+unlink: No such file or directory
+2017-01-02 08:27:00 URL: http://www.cityofwoburn.com/support/newsflash5.xml 200 OK
+unlink: No such file or directory
+2017-01-02 08:27:01 URL: http://www.cityofwoburn.com/support/newsflash9.xml 200 OK
+unlink: No such file or directory
+2017-01-02 08:27:01 URL: http://www.cityofwoburn.com/support/newsflash1.xml 200 OK
+unlink: No such file or directory
+2017-01-02 08:27:01 URL: http://www.cityofwoburn.com/support/newsflash7.xml 200 OK
+unlink: No such file or directory
+2017-01-02 08:27:03 URL:http://www.cityofwoburn.com/AlertCenter.aspx [75725/75725] -> "../data/townSites2/Woburn/www.cityofwoburn.com/AlertCenter.aspx" [1]
+2017-01-02 08:27:04 URL:http://www.cityofwoburn.com/List.aspx [93227/93227] -> "../data/townSites2/Woburn/www.cityofwoburn.com/List.aspx" [1]
+2017-01-02 08:27:05 URL:http://www.cityofwoburn.com/Rss.aspx [82921/82921] -> "../data/townSites2/Woburn/www.cityofwoburn.com/Rss.aspx" [1]
+Found 3 broken links.
+
+http://www.cityofwoburn.com/DocumentCenter/View/13096
+http://www.cityofwoburn.com/support/blog.xml
+http://www.cityofwoburn.com/calendar.aspx?nid=-404&badlink=%2fcurrentevents.aspx
+
+FINISHED --2017-01-02 08:27:05--
+Total wall clock time: 52s
+Downloaded: 25 files, 2.2M in 2.6s (856 KB/s)

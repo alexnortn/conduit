@@ -1,0 +1,121 @@
+2017-01-02 01:56:23 URL:http://www.ludlow.ma.us/ [1529/1529] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/index.html" [1]
+2017-01-02 01:56:23 URL:http://www.ludlow.ma.us/home.htm [49496/49496] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/home.htm" [1]
+2017-01-02 01:56:24 URL: http://www.ludlow.ma.us/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 01:56:24 URL:http://www.ludlow.ma.us/html/merged/government.htm [22159/22159] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/merged/government.htm" [1]
+2017-01-02 01:56:25 URL:http://www.ludlow.ma.us/html/government/elected.htm [35245/35245] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/government/elected.htm" [1]
+2017-01-02 01:56:25 URL:http://www.ludlow.ma.us/html/government/precinct_members.htm [75138/75138] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/government/precinct_members.htm" [1]
+2017-01-02 01:56:26 URL:http://www.ludlow.ma.us/html/government/appointed.htm [115529/115529] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/government/appointed.htm" [1]
+2017-01-02 01:56:27 URL:http://www.ludlow.ma.us/html/government/openings.htm [23178/23178] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/government/openings.htm" [1]
+2017-01-02 01:56:27 URL:http://www.ludlow.ma.us/html/clerk/elections.htm [56009/56009] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/clerk/elections.htm" [1]
+2017-01-02 01:56:28 URL:http://www.ludlow.ma.us/html/government/calendar.htm [25319/25319] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/government/calendar.htm" [1]
+2017-01-02 01:56:28 URL:http://www.ludlow.ma.us/html/government/agendas.htm [19940/19940] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/government/agendas.htm" [1]
+2017-01-02 01:56:29 URL:http://www.ludlow.ma.us/html/government/minutes.htm [18815/18815] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/government/minutes.htm" [1]
+2017-01-02 01:56:29 URL:http://www.ludlow.ma.us/html/merged/bylaws.htm [21272/21272] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/merged/bylaws.htm" [1]
+2017-01-02 01:56:30 URL:http://www.ludlow.ma.us/html/clerk/financereports.htm [95406/95406] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/clerk/financereports.htm" [1]
+2017-01-02 01:56:31 URL:http://www.ludlow.ma.us/html/selectmen/town_meeting.htm [27774/27774] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/selectmen/town_meeting.htm" [1]
+2017-01-02 01:56:31 URL:http://www.ludlow.ma.us/html/government/contacts1.htm [49079/49079] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/government/contacts1.htm" [1]
+2017-01-02 01:56:32 URL:http://www.ludlow.ma.us/html/merged/departments.htm [42103/42103] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/merged/departments.htm" [1]
+2017-01-02 01:56:33 URL:http://www.ludlow.ma.us/html/accounting/index.htm [25077/25077] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/accounting/index.htm" [1]
+2017-01-02 01:56:33 URL:http://www.ludlow.ma.us/html/accounting/reports1.htm [26961/26961] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/accounting/reports1.htm" [1]
+2017-01-02 01:56:34 URL:http://www.ludlow.ma.us/html/assessor/index.htm [31539/31539] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/assessor/index.htm" [1]
+2017-01-02 01:56:35 URL:http://www.ludlow.ma.us/html/building/index.htm [28633/28633] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/building/index.htm" [1]
+2017-01-02 01:56:35 URL:http://www.ludlow.ma.us/html/building/permits.htm [36609/36609] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/building/permits.htm" [1]
+2017-01-02 01:56:36 URL:http://www.ludlow.ma.us/html/building/reports.htm [27172/27172] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/building/reports.htm" [1]
+2017-01-02 01:56:36 URL:http://www.ludlow.ma.us/html/building/more.htm [24441/24441] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/building/more.htm" [1]
+2017-01-02 01:56:37 URL:http://www.ludlow.ma.us/html/clerk/index.htm [35569/35569] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/clerk/index.htm" [1]
+2017-01-02 01:56:38 URL:http://www.ludlow.ma.us/html/clerk/bylaws.htm [24782/24782] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/clerk/bylaws.htm" [1]
+2017-01-02 01:56:38 URL:http://www.ludlow.ma.us/html/clerk/dogs.htm [25119/25119] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/clerk/dogs.htm" [1]
+2017-01-02 01:56:39 URL:http://www.ludlow.ma.us/html/clerk/fees.htm [27381/27381] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/clerk/fees.htm" [1]
+2017-01-02 01:56:40 URL:http://www.ludlow.ma.us/html/clerk/more.htm [23787/23787] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/clerk/more.htm" [1]
+2017-01-02 01:56:40 URL:http://www.ludlow.ma.us/html/collector/index.htm [25565/25565] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/collector/index.htm" [1]
+2017-01-02 01:56:41 URL:http://www.ludlow.ma.us/html/collector/online_payments.htm [23679/23679] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/collector/online_payments.htm" [1]
+2017-01-02 01:56:41 URL:http://www.ludlow.ma.us/html/collector/reports.htm [25502/25502] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/collector/reports.htm" [1]
+2017-01-02 01:56:42 URL:http://www.ludlow.ma.us/html/lctv/index.htm [22831/22831] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/lctv/index.htm" [1]
+2017-01-02 01:56:42 URL:http://www.ludlow.ma.us/html/conservation/index.htm [31436/31436] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/conservation/index.htm" [1]
+2017-01-02 01:56:43 URL:http://www.ludlow.ma.us/html/conservation/bylaws.htm [26231/26231] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/conservation/bylaws.htm" [1]
+2017-01-02 01:56:43 URL:http://www.ludlow.ma.us/html/conservation/more.htm [27645/27645] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/conservation/more.htm" [1]
+2017-01-02 01:56:44 URL:http://www.ludlow.ma.us/html/coa/index.htm [37347/37347] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/coa/index.htm" [1]
+2017-01-02 01:56:44 URL:http://www.ludlow.ma.us/html/fire/index.htm [25178/25178] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/fire/index.htm" [1]
+2017-01-02 01:56:45 URL:http://www.ludlow.ma.us/html/fire/prevention.htm [23752/23752] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/fire/prevention.htm" [1]
+2017-01-02 01:56:46 URL:http://www.ludlow.ma.us/html/fire/permits.htm [25260/25260] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/fire/permits.htm" [1]
+2017-01-02 01:56:46 URL:http://www.ludlow.ma.us/html/fire/blackboard.htm [45033/45033] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/fire/blackboard.htm" [1]
+2017-01-02 01:56:47 URL:http://www.ludlow.ma.us/html/fire/more.htm [23679/23679] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/fire/more.htm" [1]
+2017-01-02 01:56:48 URL:http://www.ludlow.ma.us/html/health/index.htm [39172/39172] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/health/index.htm" [1]
+2017-01-02 01:56:48 URL:http://www.ludlow.ma.us/html/health/recalls.htm [34953/34953] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/health/recalls.htm" [1]
+2017-01-02 01:56:49 URL:http://www.ludlow.ma.us/html/health/permits.htm [39196/39196] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/health/permits.htm" [1]
+2017-01-02 01:56:49 URL:http://www.ludlow.ma.us/html/health/nursing.htm [30460/30460] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/health/nursing.htm" [1]
+2017-01-02 01:56:50 URL:http://www.ludlow.ma.us/html/health/more.htm [33655/33655] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/health/more.htm" [1]
+2017-01-02 01:56:51 URL:http://www.ludlow.ma.us/html/hr/index.htm [25345/25345] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/hr/index.htm" [1]
+2017-01-02 01:56:51 URL:http://www.ludlow.ma.us/html/library/index.htm [22429/22429] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/library/index.htm" [1]
+2017-01-02 01:56:52 URL:http://www.ludlow.ma.us/html/planning/index.htm [29082/29082] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/planning/index.htm" [1]
+2017-01-02 01:56:52 URL:http://www.ludlow.ma.us/html/planning/permits.htm [34807/34807] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/planning/permits.htm" [1]
+2017-01-02 01:56:53 URL:http://www.ludlow.ma.us/html/planning/bylaws.htm [27918/27918] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/planning/bylaws.htm" [1]
+2017-01-02 01:56:54 URL:http://www.ludlow.ma.us/html/planning/growth.htm [28421/28421] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/planning/growth.htm" [1]
+2017-01-02 01:56:54 URL:http://www.ludlow.ma.us/html/planning/more.htm [27025/27025] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/planning/more.htm" [1]
+2017-01-02 01:56:55 URL:http://www.ludlow.ma.us/html/police/index.htm [20854/20854] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/police/index.htm" [1]
+2017-01-02 01:56:55 URL:http://www.ludlow.ma.us/html/dpw/index.htm [32495/32495] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/dpw/index.htm" [1]
+2017-01-02 01:56:56 URL:http://www.ludlow.ma.us/html/dpw/trash.htm [34922/34922] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/dpw/trash.htm" [1]
+2017-01-02 01:56:56 URL:http://www.ludlow.ma.us/html/dpw/events.htm [29299/29299] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/dpw/events.htm" [1]
+2017-01-02 01:56:57 URL:http://www.ludlow.ma.us/html/dpw/Permits.htm [31017/31017] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/dpw/Permits.htm" [1]
+2017-01-02 01:56:57 URL:http://www.ludlow.ma.us/html/dpw/reports.htm [28174/28174] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/dpw/reports.htm" [1]
+2017-01-02 01:56:58 URL:http://www.ludlow.ma.us/html/dpw/more.htm [30279/30279] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/dpw/more.htm" [1]
+2017-01-02 01:56:59 URL:http://www.ludlow.ma.us/html/recreation/index.htm [24211/24211] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/recreation/index.htm" [1]
+2017-01-02 01:56:59 URL:http://www.ludlow.ma.us/html/recreation/events.htm [25116/25116] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/recreation/events.htm" [1]
+2017-01-02 01:57:00 URL:http://www.ludlow.ma.us/html/schools/index.htm [20267/20267] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/schools/index.htm" [1]
+2017-01-02 01:57:01 URL:http://www.ludlow.ma.us/html/selectmen/index.htm [29802/29802] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/selectmen/index.htm" [1]
+2017-01-02 01:57:01 URL:http://www.ludlow.ma.us/html/selectmen/permits.htm [26766/26766] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/selectmen/permits.htm" [1]
+2017-01-02 01:57:02 URL:http://www.ludlow.ma.us/html/selectmen/meet.htm [35703/35703] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/selectmen/meet.htm" [1]
+2017-01-02 01:57:03 URL:http://www.ludlow.ma.us/html/selectmen/reports.htm [29339/29339] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/selectmen/reports.htm" [1]
+2017-01-02 01:57:03 URL:http://www.ludlow.ma.us/html/treasurer/index.htm [23026/23026] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/treasurer/index.htm" [1]
+2017-01-02 01:57:04 URL:http://www.ludlow.ma.us/html/veterans/index.htm [23894/23894] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/veterans/index.htm" [1]
+2017-01-02 01:57:04 URL:http://www.ludlow.ma.us/html/veterans/more.htm [22588/22588] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/veterans/more.htm" [1]
+2017-01-02 01:57:05 URL:http://www.ludlow.ma.us/html/westover/index.htm [28425/28425] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/westover/index.htm" [1]
+2017-01-02 01:57:05 URL:http://www.ludlow.ma.us/html/merged/residents.htm [21293/21293] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/merged/residents.htm" [1]
+2017-01-02 01:57:06 URL:http://www.ludlow.ma.us/html/merged/permits1.htm [19937/19937] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/merged/permits1.htm" [1]
+2017-01-02 01:57:07 URL:http://www.ludlow.ma.us/html/cultural/index.htm [24711/24711] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/cultural/index.htm" [1]
+2017-01-02 01:57:07 URL:http://www.ludlow.ma.us/html/gis/index.htm [24266/24266] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/gis/index.htm" [1]
+2017-01-02 01:57:08 URL:http://www.ludlow.ma.us/html/residents/history.htm [18856/18856] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/residents/history.htm" [1]
+2017-01-02 01:57:09 URL:http://www.ludlow.ma.us/html/residents/utilities.htm [20684/20684] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/residents/utilities.htm" [1]
+2017-01-02 01:57:09 URL:http://www.ludlow.ma.us/html/residents/news1.htm [21746/21746] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/residents/news1.htm" [1]
+2017-01-02 01:57:10 URL:http://www.ludlow.ma.us/html/residents/travel.htm [21537/21537] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/residents/travel.htm" [1]
+2017-01-02 01:57:11 URL:http://www.ludlow.ma.us/html/residents/cams.htm [18709/18709] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/residents/cams.htm" [1]
+2017-01-02 01:57:11 URL:http://www.ludlow.ma.us/html/merged/businesses.htm [19301/19301] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/merged/businesses.htm" [1]
+2017-01-02 01:57:12 URL:http://www.ludlow.ma.us/html/business/rfp.htm [18190/18190] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/business/rfp.htm" [1]
+2017-01-02 01:57:12 URL:http://www.ludlow.ma.us/html/merged/howdoi.htm [37707/37707] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/merged/howdoi.htm" [1]
+2017-01-02 01:57:13 URL:http://www.ludlow.ma.us/html/inside/index.htm [19878/19878] -> "../data/townSites2/Ludlow/www.ludlow.ma.us/html/inside/index.htm" [1]
+2017-01-02 01:57:13 URL: http://www.ludlow.ma.us/reports/government/postings/110916-pedestrian_safety_imp-bid.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:57:13 URL: http://www.ludlow.ma.us/reports/government/postings/122916-188fuller.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:57:14 URL: http://www.ludlow.ma.us/reports/government/postings/123016-abatement-details.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:57:14 URL: http://www.ludlow.ma.us/reports/government/postings/123016-abatement-application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:57:14 URL: http://www.ludlow.ma.us/reports/government/postings/011717-silviooconte-refuge.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:57:15 URL: http://www.ludlow.ma.us/reports/government/postings/0123617-toll_booths.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:57:15 URL: http://www.ludlow.ma.us/reports/government/postings/122716-custodian.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:57:15 URL: http://www.ludlow.ma.us/reports/government/postings/011217-safetyclerk.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:57:15 URL: http://www.ludlow.ma.us/reports/selectmen/reports/agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:57:16 URL: http://www.ludlow.ma.us/reports/coa/newsletters/january_newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:57:16 URL: http://www.ludlow.ma.us/reports/coa/newsletters/january_menu.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:57:16 URL: http://www.ludlow.ma.us/reports/coa/newsletters/january_activities.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:57:17 URL: http://www.ludlow.ma.us/reports/coa/newsletters/december-newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:57:17 URL: http://www.ludlow.ma.us/reports/coa/newsletters/december-lunch.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:57:18 URL: http://www.ludlow.ma.us/reports/coa/newsletters/december-activities.pdf 200 OK
+unlink: No such file or directory
+Found no broken links.
+
+FINISHED --2017-01-02 01:57:18--
+Total wall clock time: 55s
+Downloaded: 84 files, 2.4M in 1.0s (2.50 MB/s)

@@ -1,0 +1,33 @@
+2017-01-02 02:29:26 URL:http://www.dighton-ma.gov/ [1199] -> "../data/townSites2/Dighton/www.dighton-ma.gov/index.html" [1]
+2017-01-02 02:29:27 URL:http://www.dighton-ma.gov/Public_Documents/index [34621] -> "../data/townSites2/Dighton/www.dighton-ma.gov/Public_Documents/index" [1]
+2017-01-02 02:29:28 URL:http://www.dighton-ma.gov/Public_Documents/DightonMA_WebDocs/about [14052] -> "../data/townSites2/Dighton/www.dighton-ma.gov/Public_Documents/DightonMA_WebDocs/about" [1]
+http://www.dighton-ma.gov/Public_Documents/DightonMA_BComm/ELECTED_OFFICIALS7_04.pdf:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:29:29 URL:http://www.dighton-ma.gov/Public_Documents/DightonMA_WebDocs/deptindex [15983] -> "../data/townSites2/Dighton/www.dighton-ma.gov/Public_Documents/DightonMA_WebDocs/deptindex" [1]
+2017-01-02 02:29:30 URL:http://www.dighton-ma.gov/Public_Documents/DightonMA_BComm/index [20005] -> "../data/townSites2/Dighton/www.dighton-ma.gov/Public_Documents/DightonMA_BComm/index" [1]
+2017-01-02 02:29:31 URL:http://www.dighton-ma.gov/Public_Documents/DightonMA_Schools/schools [16961] -> "../data/townSites2/Dighton/www.dighton-ma.gov/Public_Documents/DightonMA_Schools/schools" [1]
+2017-01-02 02:29:32 URL:http://www.dighton-ma.gov/Public_Documents/DightonMA_WebDocs/ebill [14402] -> "../data/townSites2/Dighton/www.dighton-ma.gov/Public_Documents/DightonMA_WebDocs/ebill" [1]
+http://www.dighton-ma.gov/Public_Documents/DightonMA_WebDocs/links:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:29:33 URL: http://www.dighton-ma.gov/Icons/0 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:34 URL:http://www.dighton-ma.gov/Public_Documents/DightonMA_BBoard/ [22535] -> "../data/townSites2/Dighton/www.dighton-ma.gov/Public_Documents/DightonMA_BBoard/index.html" [1]
+2017-01-02 02:29:34 URL:http://www.dighton-ma.gov/Public_Documents/DightonMA_BBoard/05870492-000F8513 [11222] -> "../data/townSites2/Dighton/www.dighton-ma.gov/Public_Documents/DightonMA_BBoard/05870492-000F8513" [1]
+2017-01-02 02:29:35 URL: http://www.dighton-ma.gov/Public_Documents/DightonMA_BBoard/05844356-000F8513 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:36 URL:http://www.dighton-ma.gov/Public_Documents/DightonMA_BBoard/058313F1-000F8513 [13250] -> "../data/townSites2/Dighton/www.dighton-ma.gov/Public_Documents/DightonMA_BBoard/058313F1-000F8513" [1]
+2017-01-02 02:29:38 URL:http://www.dighton-ma.gov/Public_Documents/DightonMA_BBoard/0577AF35-000F8513 [11202] -> "../data/townSites2/Dighton/www.dighton-ma.gov/Public_Documents/DightonMA_BBoard/0577AF35-000F8513" [1]
+2017-01-02 02:29:39 URL:http://www.dighton-ma.gov/Public_Documents/DightonMA_BBoard/0577AF2F-000F8513 [11181] -> "../data/townSites2/Dighton/www.dighton-ma.gov/Public_Documents/DightonMA_BBoard/0577AF2F-000F8513" [1]
+2017-01-02 02:29:40 URL:http://www.dighton-ma.gov/Public_Documents/DightonMA_BBoard/05776710-000F8513 [11239] -> "../data/townSites2/Dighton/www.dighton-ma.gov/Public_Documents/DightonMA_BBoard/05776710-000F8513" [1]
+2017-01-02 02:29:41 URL:http://www.dighton-ma.gov/Public_Documents/DightonMA_BBoard/05775F8A-000F8513 [11216] -> "../data/townSites2/Dighton/www.dighton-ma.gov/Public_Documents/DightonMA_BBoard/05775F8A-000F8513" [1]
+2017-01-02 02:29:42 URL:http://www.dighton-ma.gov/Public_Documents/DightonMA_BBoard/0567C1BF-000F8513 [11167] -> "../data/townSites2/Dighton/www.dighton-ma.gov/Public_Documents/DightonMA_BBoard/0567C1BF-000F8513" [1]
+2017-01-02 02:29:43 URL:http://www.dighton-ma.gov/subscriber [18731] -> "../data/townSites2/Dighton/www.dighton-ma.gov/subscriber" [1]
+2017-01-02 02:29:44 URL:http://www.dighton-ma.gov/Public_Documents/DightonMA_WebDocs/comments [19487] -> "../data/townSites2/Dighton/www.dighton-ma.gov/Public_Documents/DightonMA_WebDocs/comments" [1]
+Found 2 broken links.
+
+http://www.dighton-ma.gov/Public_Documents/DightonMA_BComm/ELECTED_OFFICIALS7_04.pdf
+http://www.dighton-ma.gov/Public_Documents/DightonMA_WebDocs/links
+
+FINISHED --2017-01-02 02:29:44--
+Total wall clock time: 18s
+Downloaded: 17 files, 252K in 3.1s (81.9 KB/s)

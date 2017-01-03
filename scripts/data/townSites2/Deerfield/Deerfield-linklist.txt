@@ -1,0 +1,1401 @@
+2017-01-02 02:04:56 URL:http://www.deerfieldma.us/ [90068] -> "../data/townSites2/Deerfield/www.deerfieldma.us/index.html" [1]
+2017-01-02 02:04:56 URL: http://www.deerfieldma.us/sites/deerfieldma/themes/vts/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 02:04:58 URL:http://www.deerfieldma.us/about-deerfield [74657] -> "../data/townSites2/Deerfield/www.deerfieldma.us/about-deerfield" [1]
+2017-01-02 02:05:00 URL:http://massachusetts.hometownlocator.com/ma/franklin/deerfield.cfm [74120/74120] -> "../data/townSites2/Deerfield/www.deerfieldma.us/about-deerfield/links/demographics" [1]
+2017-01-02 02:05:01 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/history.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:05:04 URL:http://www.deerfieldma.us/departments [84999] -> "../data/townSites2/Deerfield/www.deerfieldma.us/departments" [1]
+2017-01-02 02:05:06 URL:http://www.deerfieldma.us/accountant [73266] -> "../data/townSites2/Deerfield/www.deerfieldma.us/accountant" [1]
+2017-01-02 02:05:09 URL:http://www.deerfieldma.us/home/administration [74587] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/administration" [1]
+2017-01-02 02:05:10 URL:http://www.mass.gov/portal/ [66165] -> "../data/townSites2/Deerfield/www.deerfieldma.us/administration/links/ma-state-website" [1]
+2017-01-02 02:05:14 URL:http://www.deerfieldma.us/administration/pages/permits-applications [70774/70774] -> "../data/townSites2/Deerfield/www.deerfieldma.us/administration/pages/permits-applications" [1]
+2017-01-02 02:05:19 URL:http://www.deerfieldma.us/selectboard [89022] -> "../data/townSites2/Deerfield/www.deerfieldma.us/administration/links/selectboard" [1]
+2017-01-02 02:05:21 URL:http://www.deerfieldma.us/property-assessors [80262] -> "../data/townSites2/Deerfield/www.deerfieldma.us/property-assessors" [1]
+2017-01-02 02:05:23 URL:http://www.mass.gov/anf/hearings-and-appeals/oversight-agencies/atb/ [130829] -> "../data/townSites2/Deerfield/www.deerfieldma.us/assessor/links/appellate-tax-board" [1]
+2017-01-02 02:05:25 URL:http://www.deerfieldma.us/assessor/pages/assessors-duties [78612] -> "../data/townSites2/Deerfield/www.deerfieldma.us/assessor/pages/assessors-duties" [1]
+2017-01-02 02:05:26 URL:https://www.axisgis.com/DeerfieldMA/ [24693/24693] -> "../data/townSites2/Deerfield/www.deerfieldma.us/assessor/links/assessors-maps-online" [1]
+2017-01-02 02:05:29 URL:http://www.deerfieldma.us/collector-treasurer [74086] -> "../data/townSites2/Deerfield/www.deerfieldma.us/assessor/links/collector-treasurer" [1]
+2017-01-02 02:05:31 URL:http://www.deerfieldma.us/assessor/pages/forms-documents [76531] -> "../data/townSites2/Deerfield/www.deerfieldma.us/assessor/pages/forms-documents" [1]
+2017-01-02 02:05:32 URL:http://www.deerfieldma.us/assessor/pages/helpful-terms [84639] -> "../data/townSites2/Deerfield/www.deerfieldma.us/assessor/pages/helpful-terms" [1]
+2017-01-02 02:05:34 URL:http://www.deerfieldma.us/assessor/pages/important-dates [73192] -> "../data/townSites2/Deerfield/www.deerfieldma.us/assessor/pages/important-dates" [1]
+2017-01-02 02:05:36 URL:http://deerfield.patriotproperties.com/default.asp [1135/1135] -> "../data/townSites2/Deerfield/www.deerfieldma.us/assessor/links/property-information-search" [1]
+2017-01-02 02:05:37 URL:http://www.masslandrecords.com/ [34916/34916] -> "../data/townSites2/Deerfield/www.deerfieldma.us/assessor/links/registry-deeds" [1]
+2017-01-02 02:05:39 URL:http://www.deerfieldma.us/assessor/pages/tax-calculator [94119] -> "../data/townSites2/Deerfield/www.deerfieldma.us/assessor/pages/tax-calculator" [1]
+2017-01-02 02:05:41 URL:http://www.deerfieldma.us/assessor/pages/town-deerfield-continues-real-estate-inspections [72485] -> "../data/townSites2/Deerfield/www.deerfieldma.us/assessor/pages/town-deerfield-continues-real-estate-inspections" [1]
+2017-01-02 02:05:43 URL:http://www.deerfieldma.us/cemetery-department [73815] -> "../data/townSites2/Deerfield/www.deerfieldma.us/cemetery-department" [1]
+2017-01-02 02:05:45 URL:http://www.deerfieldma.us/cemetery-department/pages/cemetery-list [70809] -> "../data/townSites2/Deerfield/www.deerfieldma.us/cemetery-department/pages/cemetery-list" [1]
+2017-01-02 02:05:47 URL:http://www.deerfieldma.us/cemetery-department/pages/fees [70572] -> "../data/townSites2/Deerfield/www.deerfieldma.us/cemetery-department/pages/fees" [1]
+2017-01-02 02:05:48 URL:http://www.deerfieldma.us/collector-treasurer [74086] -> "../data/townSites2/Deerfield/www.deerfieldma.us/collector-treasurer" [1]
+2017-01-02 02:05:49 URL:http://www.deerfieldma.us/property-assessors [80262] -> "../data/townSites2/Deerfield/www.deerfieldma.us/collector-treasurer/links/assessor-department" [1]
+2017-01-02 02:05:51 URL:http://www.deerfieldma.us/collector-treasurer/pages/motor-vehicle-excise-taxes [71548] -> "../data/townSites2/Deerfield/www.deerfieldma.us/collector-treasurer/pages/motor-vehicle-excise-taxes" [1]
+2017-01-02 02:05:54 URL:https://unipaygold.unibank.com/default.aspx [101065/101065] -> "../data/townSites2/Deerfield/www.deerfieldma.us/collector-treasurer/links/online-payments" [1]
+2017-01-02 02:05:55 URL:http://www.deerfieldma.us/collector-treasurer/pages/open-meeting-public-records-law [74179] -> "../data/townSites2/Deerfield/www.deerfieldma.us/collector-treasurer/pages/open-meeting-public-records-law" [1]
+2017-01-02 02:05:57 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/2016_tax_rates.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:05:58 URL:http://ecode360.com/DE0989?needHash=true [44194] -> "../data/townSites2/Deerfield/www.deerfieldma.us/collector-treasurer/links/town-bylaws" [1]
+2017-01-02 02:06:01 URL:http://www.deerfieldma.us/transfer-station [74787] -> "../data/townSites2/Deerfield/www.deerfieldma.us/collector-treasurer/links/transfer-station-recyclables" [1]
+2017-01-02 02:06:03 URL:http://www.deerfieldma.us/deerfield-area-fire-protection-district [74774] -> "../data/townSites2/Deerfield/www.deerfieldma.us/deerfield-area-fire-protection-district" [1]
+2017-01-02 02:06:04 URL:http://www.fcburnpermits.com/ [4202] -> "../data/townSites2/Deerfield/www.deerfieldma.us/deerfield-area-fire-protection-district/links/open-air-burning-permits" [1]
+2017-01-02 02:06:06 URL:http://www.deerfieldma.us/deerfield-fire-water-district [75108] -> "../data/townSites2/Deerfield/www.deerfieldma.us/deerfield-fire-water-district" [1]
+2017-01-02 02:06:09 URL:http://www.deerfieldma.us/emergency-medical-services [85882] -> "../data/townSites2/Deerfield/www.deerfieldma.us/emergency-medical-services" [1]
+2017-01-02 02:06:10 URL:http://www.deerfieldma.us/emergency-medical-services/pages/directors-reports [72633] -> "../data/townSites2/Deerfield/www.deerfieldma.us/emergency-medical-services/pages/directors-reports" [1]
+2017-01-02 02:06:11 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/scems_powerpoint.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:06:13 URL:http://www.deerfieldma.us/highway-department [72940] -> "../data/townSites2/Deerfield/www.deerfieldma.us/highway-department" [1]
+2017-01-02 02:06:14 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/driveway_permit_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:06:15 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/sewer_enterance_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:06:16 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/snow_removal_policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:06:18 URL:http://www.deerfieldma.us/inspection-services [77304] -> "../data/townSites2/Deerfield/www.deerfieldma.us/inspection-services" [1]
+2017-01-02 02:06:20 URL:http://www.deerfieldma.us/inspection-services/pages/fee-schedules [71894] -> "../data/townSites2/Deerfield/www.deerfieldma.us/inspection-services/pages/fee-schedules" [1]
+2017-01-02 02:06:21 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/home_improvement_contractor.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:06:21 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/homeowner_warning.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:06:23 URL:http://www.mass.gov/eopss/consumer-prot-and-bus-lic/license-type/csl/8th-edition-base-code.html [103433] -> "../data/townSites2/Deerfield/www.deerfieldma.us/inspection-services/links/mass-building-code" [1]
+2017-01-02 02:06:24 URL:http://www.deerfieldma.us/inspection-services/pages/permit-applications [73284] -> "../data/townSites2/Deerfield/www.deerfieldma.us/inspection-services/pages/permit-applications" [1]
+2017-01-02 02:06:25 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/checkoff.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:06:26 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/workers_comp.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:06:29 URL:http://www.deerfieldma.us/library [78475] -> "../data/townSites2/Deerfield/www.deerfieldma.us/library" [1]
+2017-01-02 02:06:31 URL:http://www.tiltonlibrary.org/ [108715] -> "../data/townSites2/Deerfield/www.deerfieldma.us/library/links/tilton-library-official-website" [1]
+2017-01-02 02:06:34 URL:http://www.deerfieldma.us/police-department [83118] -> "../data/townSites2/Deerfield/www.deerfieldma.us/police-department" [1]
+2017-01-02 02:06:35 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/annual_report_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:06:36 URL:http://www.mass.gov/eopss/crime-prev-personal-sfty/traffic-safety/cps/ [92420] -> "../data/townSites2/Deerfield/www.deerfieldma.us/police-department/links/child-safety-seats" [1]
+2017-01-02 02:06:37 URL:http://www.massrmv.com/rmv/forms/accident.htm [26245/26245] -> "../data/townSites2/Deerfield/www.deerfieldma.us/police-department/links/crash-operator-report-forms" [1]
+2017-01-02 02:06:38 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/20161212-1218.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:06:39 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/20161219-1225.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:06:40 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/20161205-1211.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:06:42 URL:http://www.mass.gov/eopss/crime-prev-personal-sfty/personal-sfty/sexual-and-dom-viol/ [102081] -> "../data/townSites2/Deerfield/www.deerfieldma.us/police-department/links/domestic-violence" [1]
+2017-01-02 02:06:43 URL:https://www.deadiversion.usdoj.gov/drug_disposal/takeback/index.html [27346/27346] -> "../data/townSites2/Deerfield/www.deerfieldma.us/police-department/links/drop-boxes-drugs" [1]
+2017-01-02 02:06:45 URL:http://www.mass.gov/eopss/firearms-reg-and-laws/frb/firearms-forms-and-applications.html [87029] -> "../data/townSites2/Deerfield/www.deerfieldma.us/police-department/links/firearms-forms-applications" [1]
+2017-01-02 02:06:46 URL:http://www.mass.gov/eopss/firearms-reg-and-laws/ [91719] -> "../data/townSites2/Deerfield/www.deerfieldma.us/police-department/links/firearms-registration-laws" [1]
+2017-01-02 02:06:48 URL:https://identitytheft.gov/ [3948/3948] -> "../data/townSites2/Deerfield/www.deerfieldma.us/police-department/links/identity-theft" [1]
+2017-01-02 02:06:49 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/identity_theft_guide.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:06:51 URL:http://www.massachusettsgenerallaws.com/ [100057/100057] -> "../data/townSites2/Deerfield/www.deerfieldma.us/police-department/links/ma-general-laws" [1]
+2017-01-02 02:06:53 URL:http://www.massrmv.com/ [95458/95458] -> "../data/townSites2/Deerfield/www.deerfieldma.us/police-department/links/ma-registry-motor-vehicles" [1]
+2017-01-02 02:06:54 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/november_14_-_21_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:06:54 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/20161121-1127.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:06:55 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/20161128-1204.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:06:56 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/20161107-1113.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:06:57 URL:http://www.mass.gov/eopss/agencies/sorb/ [90965] -> "../data/townSites2/Deerfield/www.deerfieldma.us/police-department/links/sex-offender-registry-board-sorb" [1]
+2017-01-02 02:06:59 URL:http://www.deerfieldma.us/public-health-nurse [74764] -> "../data/townSites2/Deerfield/www.deerfieldma.us/public-health-nurse" [1]
+2017-01-02 02:07:01 URL:https://www.cdc.gov/ [64483/64483] -> "../data/townSites2/Deerfield/www.deerfieldma.us/public-health-nurse/links/center-disease-control" [1]
+2017-01-02 02:07:02 URL:https://www.tickreport.com/ [12806] -> "../data/townSites2/Deerfield/www.deerfieldma.us/public-health-nurse/links/find-tick" [1]
+2017-01-02 02:07:05 URL:http://makesmokinghistory.org/ [75898] -> "../data/townSites2/Deerfield/www.deerfieldma.us/public-health-nurse/links/make-smoking-history" [1]
+2017-01-02 02:07:07 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/medication_management.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:07:08 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/regional_nursing.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:07:10 URL:http://tickencounter.org/ [85467] -> "../data/townSites2/Deerfield/www.deerfieldma.us/public-health-nurse/links/tick-encounter-resource-center" [1]
+2017-01-02 02:07:13 URL:http://www.deerfieldma.us/home/recreation [86134] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/recreation" [1]
+2017-01-02 02:07:15 URL:http://www.deerfieldma.us/home/recreation/pages/adult-programs [72667] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/recreation/pages/adult-programs" [1]
+2017-01-02 02:07:16 URL:http://www.deerfieldma.us/home/recreation/pages/craft-classes [71476] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/recreation/pages/craft-classes" [1]
+2017-01-02 02:07:18 URL:http://www.deerfieldma.us/recreation/pages/discount-tickets [71596] -> "../data/townSites2/Deerfield/www.deerfieldma.us/recreation/pages/discount-tickets" [1]
+2017-01-02 02:07:20 URL:http://www.deerfieldma.us/recreation/pages/policies [72127] -> "../data/townSites2/Deerfield/www.deerfieldma.us/recreation/pages/policies" [1]
+2017-01-02 02:07:21 URL:http://www.deerfieldma.us/recreation/pages/scholarship-information [71434] -> "../data/townSites2/Deerfield/www.deerfieldma.us/recreation/pages/scholarship-information" [1]
+2017-01-02 02:07:23 URL:http://www.deerfieldma.us/home/recreation/pages/special-events [72369] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/recreation/pages/special-events" [1]
+2017-01-02 02:07:24 URL:http://www.deerfieldma.us/recreation/pages/summer-programs [71816] -> "../data/townSites2/Deerfield/www.deerfieldma.us/recreation/pages/summer-programs" [1]
+2017-01-02 02:07:26 URL:http://www.deerfieldma.us/home/recreation/pages/youth-activities [72650] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/recreation/pages/youth-activities" [1]
+2017-01-02 02:07:28 URL:http://www.deerfieldma.us/home/recreation/pages/youth-sports-information [71800] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/recreation/pages/youth-sports-information" [1]
+2017-01-02 02:07:30 URL:http://www.deerfieldma.us/school-department [85977] -> "../data/townSites2/Deerfield/www.deerfieldma.us/school-department" [1]
+2017-01-02 02:07:33 URL:http://www.deerfieldma.us/school-department/pages/school-links [71347] -> "../data/townSites2/Deerfield/www.deerfieldma.us/school-department/links/additional-links" [1]
+2017-01-02 02:07:35 URL:http://www.deerfieldma.us/senior-center [88975] -> "../data/townSites2/Deerfield/www.deerfieldma.us/senior-center" [1]
+2017-01-02 02:07:36 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/december_newsletter_4_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:07:37 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/janauary_2017_newsletter.pub_6.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:07:38 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/november_newsletter82016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:07:40 URL:http://www.mass.gov/elders/ [93362] -> "../data/townSites2/Deerfield/www.deerfieldma.us/senior-center/links/office-elder-affairs" [1]
+2017-01-02 02:07:41 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/scsc_trip_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:07:42 URL:http://www.deerfieldma.us/senior-center/pages/schedule-activities [72575] -> "../data/townSites2/Deerfield/www.deerfieldma.us/senior-center/pages/schedule-activities" [1]
+2017-01-02 02:07:43 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/trips.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:07:44 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/news.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:07:46 URL:http://www.deerfieldma.us/south-deerfield-fire-district [75156] -> "../data/townSites2/Deerfield/www.deerfieldma.us/south-deerfield-fire-district" [1]
+2017-01-02 02:07:48 URL:http://www.deerfieldma.us/fire-department/pages/informational-documents [71972] -> "../data/townSites2/Deerfield/www.deerfieldma.us/fire-department/pages/informational-documents" [1]
+2017-01-02 02:07:49 URL:http://www.mass.gov/eopss/agencies/dfs/ [114551] -> "../data/townSites2/Deerfield/www.deerfieldma.us/fire-department/links/mass-department-fire-services" [1]
+2017-01-02 02:07:51 URL:http://www.fcburnpermits.com/ [4202] -> "../data/townSites2/Deerfield/www.deerfieldma.us/fire-department/links/open-air-burning-permits" [1]
+2017-01-02 02:07:53 URL:http://www.deerfieldma.us/south-deerfield-water-supply-district [76050] -> "../data/townSites2/Deerfield/www.deerfieldma.us/south-deerfield-water-supply-district" [1]
+2017-01-02 02:07:54 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/consumer_confidence_6-21-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:07:56 URL:http://www.deerfieldma.us/town-clerk [75319] -> "../data/townSites2/Deerfield/www.deerfieldma.us/town-clerk" [1]
+2017-01-02 02:07:57 URL:http://www.sec.state.ma.us/ELE/eleifv/howabs.htm [71761/71761] -> "../data/townSites2/Deerfield/www.deerfieldma.us/town-clerk/links/absentee-ballots" [1]
+2017-01-02 02:07:58 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/animal_control_bylaw.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:07:59 URL:http://www.deerfieldma.us/town-clerk/pages/annual-town-meeting-warrants [72232] -> "../data/townSites2/Deerfield/www.deerfieldma.us/town-clerk/pages/annual-town-meeting-warrants" [1]
+2017-01-02 02:08:02 URL:https://unipaygold.unibank.com/default.aspx [101065/101065] -> "../data/townSites2/Deerfield/www.deerfieldma.us/town-clerk/links/online-payments" [1]
+2017-01-02 02:08:04 URL:http://www.deerfieldma.us/town-clerk/pages/open-meeting-public-records-law [74438] -> "../data/townSites2/Deerfield/www.deerfieldma.us/town-clerk/pages/open-meeting-public-records-law" [1]
+2017-01-02 02:08:05 URL:http://ecode360.com/DE0989?needHash=true [44194] -> "../data/townSites2/Deerfield/www.deerfieldma.us/town-clerk/links/town-bylaws" [1]
+2017-01-02 02:08:06 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/town_clerk_fees_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:08:07 URL:http://www.deerfieldma.us/town-clerk/pages/transfer-station-stickers [72144] -> "../data/townSites2/Deerfield/www.deerfieldma.us/town-clerk/pages/transfer-station-stickers" [1]
+2017-01-02 02:08:09 URL:http://www.sec.state.ma.us/ele/eleifv/howreg.htm [68525/68525] -> "../data/townSites2/Deerfield/www.deerfieldma.us/town-clerk/links/voter-registration" [1]
+2017-01-02 02:08:10 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/zoning_bylaw_change.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:08:11 URL:http://www.deerfieldma.us/transfer-station [74787] -> "../data/townSites2/Deerfield/www.deerfieldma.us/transfer-station" [1]
+2017-01-02 02:08:13 URL:http://www.deerfieldma.us/collector-treasurer [74086] -> "../data/townSites2/Deerfield/www.deerfieldma.us/transfer-station/links/collector-treasurer" [1]
+2017-01-02 02:08:14 URL:http://www.franklincountywastedistrict.org/index.html [73636/73636] -> "../data/townSites2/Deerfield/www.deerfieldma.us/transfer-station/links/franklin-county-solid-waste-management-district" [1]
+2017-01-02 02:08:16 URL:http://www.deerfieldma.us/transfer-station/pages/pay-you-throw-buying-trash-bags [71445] -> "../data/townSites2/Deerfield/www.deerfieldma.us/transfer-station/pages/pay-you-throw-buying-trash-bags" [1]
+2017-01-02 02:08:18 URL:http://www.deerfieldma.us/transfer-station/pages/recycling-information [72060] -> "../data/townSites2/Deerfield/www.deerfieldma.us/transfer-station/pages/recycling-information" [1]
+2017-01-02 02:08:19 URL:http://www.deerfieldma.us/transfer-station/pages/transfer-station-regulations [73869] -> "../data/townSites2/Deerfield/www.deerfieldma.us/transfer-station/pages/transfer-station-regulations" [1]
+2017-01-02 02:08:21 URL:http://www.deerfieldma.us/tree-warden [73099] -> "../data/townSites2/Deerfield/www.deerfieldma.us/tree-warden" [1]
+2017-01-02 02:08:23 URL:http://www.deerfieldma.us/upper-pioneer-valley-veterans-services-district [76792] -> "../data/townSites2/Deerfield/www.deerfieldma.us/upper-pioneer-valley-veterans-services-district" [1]
+2017-01-02 02:08:24 URL:http://greenfield-ma.gov/p/326/Additional-Links-of-Interest [43945/43945] -> "../data/townSites2/Deerfield/www.deerfieldma.us/upper-pioneer-valley-veterans-services-district/links/additional-links-interest" [1]
+2017-01-02 02:08:26 URL:http://greenfield-ma.gov/p/318/Elected-Officials [44085/44085] -> "../data/townSites2/Deerfield/www.deerfieldma.us/upper-pioneer-valley-veterans-services-district/links/federal-state-and-local-legislators" [1]
+2017-01-02 02:08:28 URL:http://www.deerfieldma.us/upper-pioneer-valley-veterans-services-district/slideshows/pictures-williams-s-pydych-service [78144] -> "../data/townSites2/Deerfield/www.deerfieldma.us/upper-pioneer-valley-veterans-services-district/slideshows/pictures-williams-s-pydych-service" [1]
+2017-01-02 02:08:29 URL:http://www.mass.gov/veterans/ [98975] -> "../data/townSites2/Deerfield/www.deerfieldma.us/upper-pioneer-valley-veterans-services-district/links/state-programs" [1]
+2017-01-02 02:08:31 URL:http://www.va.gov/ [47093/47093] -> "../data/townSites2/Deerfield/www.deerfieldma.us/upper-pioneer-valley-veterans-services-district/links/us-department-veterans-affairs" [1]
+2017-01-02 02:08:32 URL:http://www.mass.gov/treasury/veterans/ [61680] -> "../data/townSites2/Deerfield/www.deerfieldma.us/upper-pioneer-valley-veterans-services-district/links/veterans-bonus-division" [1]
+2017-01-02 02:08:34 URL:http://greenfield-ma.gov/p/128/Exemptions [42983/42983] -> "../data/townSites2/Deerfield/www.deerfieldma.us/upper-pioneer-valley-veterans-services-district/links/veterans-tax-exemptions" [1]
+2017-01-02 02:08:36 URL:http://www.deerfieldma.us/wastewater-treatement [75318] -> "../data/townSites2/Deerfield/www.deerfieldma.us/wastewater-treatement" [1]
+2017-01-02 02:08:37 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/sewerordinance.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:08:39 URL:http://www.deerfieldma.us/wastewater-treatement/pages/drinking-water [72130] -> "../data/townSites2/Deerfield/www.deerfieldma.us/wastewater-treatement/pages/drinking-water" [1]
+2017-01-02 02:08:40 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/industrial_sewer_connection_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:08:42 URL:http://www.mass.gov/eea/agencies/massdep/water/wastewater/wastewater-treatment-plants.html [190335] -> "../data/townSites2/Deerfield/www.deerfieldma.us/wastewater-treatement/links/mass-dep-wastewater-site" [1]
+2017-01-02 02:08:44 URL:http://www.mwpca.org/ [19759] -> "../data/townSites2/Deerfield/www.deerfieldma.us/wastewater-treatement/links/massachusetts-water-pollution-control-association-mwpca" [1]
+2017-01-02 02:08:46 URL:https://www.sunnyportal.com/Templates/PublicPageOverview.aspx?plant=0d333c8b-3ed2-478b-84a4-5f755f1a6b5d&splang= [52241/52241] -> "../data/townSites2/Deerfield/www.deerfieldma.us/wastewater-treatement/links/online-dashboard-solar-array-old-deerfield-plant" [1]
+2017-01-02 02:08:48 URL:http://www.deerfieldma.us/wastewater-treatement/pages/residential-sewer-issues [72101] -> "../data/townSites2/Deerfield/www.deerfieldma.us/wastewater-treatement/pages/residential-sewer-issues" [1]
+2017-01-02 02:08:49 URL:http://www.deerfieldma.us/wastewater-treatement/pages/sewer-billing-information [72081] -> "../data/townSites2/Deerfield/www.deerfieldma.us/wastewater-treatement/pages/sewer-billing-information" [1]
+2017-01-02 02:08:51 URL:http://www.deerfieldma.us/wastewater-treatement/pages/south-deerfield-wastewater-treatment-plant [75610] -> "../data/townSites2/Deerfield/www.deerfieldma.us/wastewater-treatement/pages/south-deerfield-wastewater-treatment-plant" [1]
+2017-01-02 02:08:53 URL:http://www.deerfieldma.us/boards [81894] -> "../data/townSites2/Deerfield/www.deerfieldma.us/boards" [1]
+2017-01-02 02:08:55 URL:http://www.deerfieldma.us/agricultural-commission-0 [77056] -> "../data/townSites2/Deerfield/www.deerfieldma.us/agricultural-commission-0" [1]
+2017-01-02 02:08:57 URL:https://www.farmland.org/ [29095] -> "../data/townSites2/Deerfield/www.deerfieldma.us/agricultural-commission/links/american-farmland-trust" [1]
+2017-01-02 02:09:00 URL:http://www.buylocalfood.org/ [103533] -> "../data/townSites2/Deerfield/www.deerfieldma.us/agricultural-commission/links/community-involved-sustaining-agriculture-cisa" [1]
+2017-01-02 02:09:01 URL:http://www.massagcom.org/ [6383/6383] -> "../data/townSites2/Deerfield/www.deerfieldma.us/agricultural-commission/links/massachusetts-agricultural-commissions" [1]
+2017-01-02 02:09:03 URL:http://www.mass.gov/eea/agencies/agr/ [174029] -> "../data/townSites2/Deerfield/www.deerfieldma.us/agricultural-commission/links/massachusetts-department-agricultural-resources-mdar" [1]
+2017-01-02 02:09:05 URL:http://mfbf.net/ [58461/58461] -> "../data/townSites2/Deerfield/www.deerfieldma.us/agricultural-commission/links/massachusetts-farm-bureau-federation-inc" [1]
+2017-01-02 02:09:07 URL:http://ecode360.com/DE0989?needHash=true [44194] -> "../data/townSites2/Deerfield/www.deerfieldma.us/agricultural-commission/links/right-farm-bylaw-see-ch-4" [1]
+2017-01-02 02:09:13 URL:https://www.usda.gov/wps/portal/usda/usdahome [46197/46197] -> "../data/townSites2/Deerfield/www.deerfieldma.us/agricultural-commission/links/united-states-department-agriculture-usda" [1]
+2017-01-02 02:09:14 URL:http://www.deerfieldma.us/board-health [76173] -> "../data/townSites2/Deerfield/www.deerfieldma.us/board-health" [1]
+2017-01-02 02:09:16 URL:http://www.deerfieldma.us/board-health/pages/applications [71878] -> "../data/townSites2/Deerfield/www.deerfieldma.us/board-health/pages/applications" [1]
+2017-01-02 02:09:18 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/finalkmdecision.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:09:20 URL:http://www.deerfieldma.us/board-health/pages/instructions-homemade-mosquito-trap [71450] -> "../data/townSites2/Deerfield/www.deerfieldma.us/board-health/pages/instructions-homemade-mosquito-trap" [1]
+2017-01-02 02:09:22 URL:http://www.deerfieldma.us/boards/boards-with-agendas [68370] -> "../data/townSites2/Deerfield/www.deerfieldma.us/boards/boards-with-agendas" [1]
+2017-01-02 02:09:24 URL:http://www.deerfieldma.us/boards/boards-with-minutes [69615] -> "../data/townSites2/Deerfield/www.deerfieldma.us/boards/boards-with-minutes" [1]
+2017-01-02 02:09:26 URL:http://www.deerfieldma.us/capital-improvements-planning-committee [85354] -> "../data/townSites2/Deerfield/www.deerfieldma.us/capital-improvements-planning-committee" [1]
+2017-01-02 02:09:28 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/capital_improvements_plan_approved_fy_2008-2010.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:09:29 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/fy_12_capital_plan_summary_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:09:31 URL:http://www.deerfieldma.us/community-preservation-committee [71630] -> "../data/townSites2/Deerfield/www.deerfieldma.us/community-preservation-committee" [1]
+2017-01-02 02:09:32 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/cpc_app_2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:09:35 URL:http://ecode360.com/search/DE0989?query=community%20preservation [90286] -> "../data/townSites2/Deerfield/www.deerfieldma.us/community-preservation-committee/links/community-preservation-act" [1]
+2017-01-02 02:09:39 URL:http://www.communitypreservation.org/ [24097] -> "../data/townSites2/Deerfield/www.deerfieldma.us/community-preservation-committee/links/community-preservation-coalition" [1]
+2017-01-02 02:09:43 URL:http://www.deerfieldma.us/conservation-commission [90387] -> "../data/townSites2/Deerfield/www.deerfieldma.us/conservation-commission" [1]
+2017-01-02 02:09:47 URL:https://msc.fema.gov/portal/ [45707] -> "../data/townSites2/Deerfield/www.deerfieldma.us/conservation-commission/links/fema-flood-maps" [1]
+2017-01-02 02:09:49 URL:http://www.deerfieldma.us/conservation-commission/pages/forms-applications [71691] -> "../data/townSites2/Deerfield/www.deerfieldma.us/conservation-commission/pages/forms-applications" [1]
+2017-01-02 02:09:51 URL:http://www.mass.gov/eea/agencies/massdep/ [216422] -> "../data/townSites2/Deerfield/www.deerfieldma.us/conservation-commission/links/ma-department-environmental-protection-dep" [1]
+2017-01-02 02:09:55 URL:http://www.deerfieldma.us/cultural-council [87820] -> "../data/townSites2/Deerfield/www.deerfieldma.us/cultural-council" [1]
+2017-01-02 02:09:57 URL:http://www.massculturalcouncil.org/ [40316/40316] -> "../data/townSites2/Deerfield/www.deerfieldma.us/cultural-council/links/massachusetts-cultural-council" [1]
+2017-01-02 02:09:59 URL:http://www.deerfieldma.us/energy-resources-committee [86141] -> "../data/townSites2/Deerfield/www.deerfieldma.us/energy-resources-committee" [1]
+2017-01-02 02:10:01 URL:https://350.org/ [54993] -> "../data/townSites2/Deerfield/www.deerfieldma.us/energy-resources-committee/links/350org" [1]
+2017-01-02 02:10:03 URL:https://www.ready.gov/ [34570] -> "../data/townSites2/Deerfield/www.deerfieldma.us/energy-resources-committee/links/fema-emergency-supply-list" [1]
+2017-01-02 02:10:05 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/energy_audit_poster.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:10:08 URL:http://www.deerfieldma.us/finance-committee [87199] -> "../data/townSites2/Deerfield/www.deerfieldma.us/finance-committee" [1]
+2017-01-02 02:10:11 URL:http://www.deerfieldma.us/historical-commission [91321] -> "../data/townSites2/Deerfield/www.deerfieldma.us/historical-commission" [1]
+2017-01-02 02:10:12 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/aa_policy_letter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:10:13 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/dhc_accountability_policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:10:14 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/brona_simon_letter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:10:17 URL:http://www.deerfieldma.us/open-space-recreation-committee [75211] -> "../data/townSites2/Deerfield/www.deerfieldma.us/open-space-recreation-committee" [1]
+2017-01-02 02:10:19 URL:http://www.deerfieldma.us/open-space-committee/pages/links-interest [71105] -> "../data/townSites2/Deerfield/www.deerfieldma.us/open-space-committee/pages/links-interest" [1]
+2017-01-02 02:10:20 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/final_osrpsurvey_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:10:23 URL:http://www.deerfieldma.us/open-space-committee/pages/pocumtuck-ridge-information [71135] -> "../data/townSites2/Deerfield/www.deerfieldma.us/open-space-committee/pages/pocumtuck-ridge-information" [1]
+2017-01-02 02:10:26 URL:http://www.deerfieldma.us/personnel-board [87578] -> "../data/townSites2/Deerfield/www.deerfieldma.us/personnel-board" [1]
+2017-01-02 02:10:28 URL:http://www.deerfieldma.us/planning-board [88078] -> "../data/townSites2/Deerfield/www.deerfieldma.us/planning-board" [1]
+2017-01-02 02:10:29 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/housing_production_plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:10:30 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/deerfield_stormwater_regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:10:32 URL:http://www.deerfieldma.us/planning-board/pages/helpful-links [70950] -> "../data/townSites2/Deerfield/www.deerfieldma.us/planning-board/pages/helpful-links" [1]
+2017-01-02 02:10:34 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/site_plan_review.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:10:35 URL:http://www.deerfieldma.us/selectboard [89022] -> "../data/townSites2/Deerfield/www.deerfieldma.us/selectboard" [1]
+2017-01-02 02:10:37 URL:http://www.deerfieldma.us/selectboard/pages/annual-town-reports [72276] -> "../data/townSites2/Deerfield/www.deerfieldma.us/selectboard/pages/annual-town-reports" [1]
+2017-01-02 02:10:37 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/dor_report_on_ta_position-oct_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:10:38 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/liquor_license_availability.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:10:40 URL:http://www.massculturalcouncil.org/ [40316/40316] -> "../data/townSites2/Deerfield/www.deerfieldma.us/selectboard/links/ma-cultural-council" [1]
+2017-01-02 02:10:42 URL:http://www.deerfieldma.us/selectboard/pages/oxford-rfp-documents [72682] -> "../data/townSites2/Deerfield/www.deerfieldma.us/selectboard/pages/oxford-rfp-documents" [1]
+2017-01-02 02:10:43 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/scems_ima_leases.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:10:44 URL:http://www.deerfieldma.us/selectboard/pages/selectboard-policies [71782] -> "../data/townSites2/Deerfield/www.deerfieldma.us/selectboard/pages/selectboard-policies" [1]
+2017-01-02 02:10:46 URL:http://www.deerfieldma.us/selectboard/pages/sustainability-links [71974] -> "../data/townSites2/Deerfield/www.deerfieldma.us/selectboard/pages/sustainability-links" [1]
+2017-01-02 02:10:47 URL:http://www.deerfieldma.us/home/administration [74587] -> "../data/townSites2/Deerfield/www.deerfieldma.us/selectboard/links/town-administration" [1]
+2017-01-02 02:10:49 URL:http://ecode360.com/DE0989?needHash=true [44194] -> "../data/townSites2/Deerfield/www.deerfieldma.us/selectboard/links/town-bylaws" [1]
+2017-01-02 02:10:51 URL:http://www.deerfieldma.us/sewer-study-committee [89465] -> "../data/townSites2/Deerfield/www.deerfieldma.us/sewer-study-committee" [1]
+2017-01-02 02:10:53 URL:http://www.deerfieldma.us/tri-town-beach-commission [77599] -> "../data/townSites2/Deerfield/www.deerfieldma.us/tri-town-beach-commission" [1]
+2017-01-02 02:10:54 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/tritown_beach_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:10:57 URL:http://www.deerfieldma.us/zoning-board-appeals [88359] -> "../data/townSites2/Deerfield/www.deerfieldma.us/zoning-board-appeals" [1]
+2017-01-02 02:10:58 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/deerfield_zoning_bylaw.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:10:59 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/zba_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:11:03 URL:https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40a [74960/74960] -> "../data/townSites2/Deerfield/www.deerfieldma.us/zoning-board-appeals/links/zoning-act" [1]
+2017-01-02 02:11:04 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/zoning_map.jpg 200 OK
+unlink: No such file or directory
+2017-01-02 02:11:07 URL:http://www.deerfieldma.us/where [84306] -> "../data/townSites2/Deerfield/www.deerfieldma.us/where" [1]
+2017-01-02 02:11:09 URL:http://www.deerfieldma.us/police-department/pages/weekly-logs [78905] -> "../data/townSites2/Deerfield/www.deerfieldma.us/police-department/pages/weekly-logs" [1]
+2017-01-02 02:11:10 URL:http://www.deerfieldma.us/south-deerfield-fire-district [75156] -> "../data/townSites2/Deerfield/www.deerfieldma.us/fire-department.1" [1]
+2017-01-02 02:11:11 URL:http://www.deerfieldma.us/property-assessors [80262] -> "../data/townSites2/Deerfield/www.deerfieldma.us/assessor.1" [1]
+2017-01-02 02:11:12 URL:http://www.deerfieldma.us/home/recreation [86134] -> "../data/townSites2/Deerfield/www.deerfieldma.us/recreation.1" [1]
+2017-01-02 02:11:14 URL:http://www.deerfieldma.us/people/brian-nartowicz [70877] -> "../data/townSites2/Deerfield/www.deerfieldma.us/people/brian-nartowicz" [1]
+2017-01-02 02:11:15 URL:http://www.deerfieldma.us/home/pages/local-business-directory [72235] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/pages/local-business-directory" [1]
+2017-01-02 02:11:17 URL:http://www.deerfieldma.us/home/news/new-zumba-session-starts-january-9-1 [68836] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/news/new-zumba-session-starts-january-9-1" [1]
+2017-01-02 02:11:18 URL:http://www.deerfieldma.us/home/news/deerfield-transfer-station-only-accepts-checks-payment-0 [68703] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/news/deerfield-transfer-station-only-accepts-checks-payment-0" [1]
+2017-01-02 02:11:20 URL:http://www.deerfieldma.us/home/news/town-trash-bag-availability-0 [69041] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/news/town-trash-bag-availability-0" [1]
+2017-01-02 02:11:21 URL:http://www.deerfieldma.us/home/news/january-9-special-town-meeting-has-been-cancelled [67691] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/news/january-9-special-town-meeting-has-been-cancelled" [1]
+2017-01-02 02:11:23 URL:http://www.deerfieldma.us/home/news/message-treasurercollector [68117] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/news/message-treasurercollector" [1]
+2017-01-02 02:11:24 URL:http://www.deerfieldma.us/node/1/news [71359] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/1/news" [1]
+2017-01-02 02:11:26 URL:http://www.deerfieldma.us/calendar-by-event-type/16%2B20%2B17%2B19/day/2017-01-02 [72255] -> "../data/townSites2/Deerfield/www.deerfieldma.us/calendar-by-event-type/16+20+17+19/day/2017-01-02" [1]
+2017-01-02 02:11:28 URL:http://www.deerfieldma.us/home/events/15193 [67886] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/events/15193" [1]
+2017-01-02 02:11:30 URL:http://www.deerfieldma.us/calendar-by-event-type/16%2B20%2B17%2B19/day/2017-01-05 [72267] -> "../data/townSites2/Deerfield/www.deerfieldma.us/calendar-by-event-type/16+20+17+19/day/2017-01-05" [1]
+2017-01-02 02:11:31 URL:http://www.deerfieldma.us/home/events/15163 [68066] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/events/15163" [1]
+2017-01-02 02:11:33 URL:http://www.deerfieldma.us/calendar-by-event-type/16%2B20%2B17%2B19/day/2017-01-11 [72333] -> "../data/townSites2/Deerfield/www.deerfieldma.us/calendar-by-event-type/16+20+17+19/day/2017-01-11" [1]
+2017-01-02 02:11:34 URL:http://www.deerfieldma.us/home/events/15173 [68056] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/events/15173" [1]
+2017-01-02 02:11:36 URL:http://www.deerfieldma.us/calendar-by-event-type/16%2B20%2B17%2B19/day/2017-01-12 [72266] -> "../data/townSites2/Deerfield/www.deerfieldma.us/calendar-by-event-type/16+20+17+19/day/2017-01-12" [1]
+2017-01-02 02:11:38 URL:http://www.deerfieldma.us/sewer-study-committee/events/15333 [69104] -> "../data/townSites2/Deerfield/www.deerfieldma.us/sewer-study-committee/events/15333" [1]
+2017-01-02 02:11:39 URL:http://www.deerfieldma.us/calendar-by-event-type/16%2B20%2B17%2B19/day/2017-01-16 [72288] -> "../data/townSites2/Deerfield/www.deerfieldma.us/calendar-by-event-type/16+20+17+19/day/2017-01-16" [1]
+2017-01-02 02:11:40 URL:http://www.deerfieldma.us/home/events/15203 [67915] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/events/15203" [1]
+2017-01-02 02:11:42 URL:http://www.deerfieldma.us/calendar-by-event-type/16%2B20%2B17%2B19/day/2017-01-25 [72592] -> "../data/townSites2/Deerfield/www.deerfieldma.us/calendar-by-event-type/16+20+17+19/day/2017-01-25" [1]
+2017-01-02 02:11:44 URL:http://www.deerfieldma.us/capital-improvements-planning-committee/events/15413 [71572] -> "../data/townSites2/Deerfield/www.deerfieldma.us/capital-improvements-planning-committee/events/15413" [1]
+2017-01-02 02:11:45 URL:http://www.deerfieldma.us/home/events/15183 [68048] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/events/15183" [1]
+2017-01-02 02:11:48 URL:http://www.deerfieldma.us/calendar-by-event-type/16%2B20%2B17%2B19/month [118525] -> "../data/townSites2/Deerfield/www.deerfieldma.us/calendar-by-event-type/16+20+17+19/month" [1]
+2017-01-02 02:11:49 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/one_or_two_family_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:11:50 URL:http://www.deerfieldma.us/home/pages/employment-opportunities [68598] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/pages/employment-opportunities" [1]
+2017-01-02 02:11:52 URL:http://www.deerfieldma.us/home/pages/local-regional-and-state-resources [68447] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/pages/local-regional-and-state-resources" [1]
+2017-01-02 02:11:53 URL:http://www.deerfieldma.us/home/pages/complete-streets [68318] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/pages/complete-streets" [1]
+2017-01-02 02:11:55 URL:http://www.deerfieldma.us/minutes-and-agendas [72245] -> "../data/townSites2/Deerfield/www.deerfieldma.us/minutes-and-agendas" [1]
+2017-01-02 02:11:56 URL:http://www.deerfieldma.us/home/pages/emergency-services [69517] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/pages/emergency-services" [1]
+2017-01-02 02:11:58 URL:http://www.deerfieldma.us/bids [66445] -> "../data/townSites2/Deerfield/www.deerfieldma.us/bids" [1]
+2017-01-02 02:11:59 URL:http://www.deerfieldma.us/home/pages/license-permit-applications [73881] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/pages/license-permit-applications" [1]
+2017-01-02 02:12:02 URL:http://www.deerfieldma.us/webforms/contact-us [76764/76764] -> "../data/townSites2/Deerfield/www.deerfieldma.us/webforms/contact-us" [1]
+2017-01-02 02:12:04 URL:http://www.deerfieldma.us/home/pages/disclaimer-privacy-statement [71307] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/pages/disclaimer-privacy-statement" [1]
+2017-01-02 02:12:05 URL:http://www.deerfieldma.us/about-deerfield [74657] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/256" [1]
+2017-01-02 02:12:06 URL:http://www.deerfieldma.us/print/256 [9342] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/256" [1]
+2017-01-02 02:12:06 URL: http://www.deerfieldma.us/node/256/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:12:08 URL:http://www.deerfieldma.us/news [72200] -> "../data/townSites2/Deerfield/www.deerfieldma.us/news" [1]
+2017-01-02 02:12:10 URL:http://www.deerfieldma.us/news/1 [72278] -> "../data/townSites2/Deerfield/www.deerfieldma.us/news/1" [1]
+2017-01-02 02:12:11 URL:http://www.deerfieldma.us/accountant [73266] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/484" [1]
+2017-01-02 02:12:12 URL:http://www.deerfieldma.us/print/484 [7557] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/484" [1]
+2017-01-02 02:12:14 URL:http://www.deerfieldma.us/user/55/contact [70151] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/55/contact" [1]
+2017-01-02 02:12:15 URL: http://www.deerfieldma.us/node/484/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:12:16 URL:http://www.deerfieldma.us/home/administration [74587] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/213" [1]
+2017-01-02 02:12:17 URL:http://www.deerfieldma.us/print/213 [8247] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/213" [1]
+2017-01-02 02:12:19 URL:http://www.deerfieldma.us/user/41/contact [70169] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/41/contact" [1]
+2017-01-02 02:12:20 URL: http://www.deerfieldma.us/node/213/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:12:23 URL:http://www.deerfieldma.us/administration/pages/permits-applications [70786/70786] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/216" [1]
+2017-01-02 02:12:24 URL:http://www.deerfieldma.us/print/216 [6993] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/216" [1]
+2017-01-02 02:12:25 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/one_day_liquor.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:12:26 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/one_day_all_alcoholic.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:12:29 URL:http://www.deerfieldma.us/administration/pages/tag-sale-details [70270/70270] -> "../data/townSites2/Deerfield/www.deerfieldma.us/administration/pages/tag-sale-details" [1]
+2017-01-02 02:12:29 URL:http://www.deerfieldma.us/property-assessors [80262] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/486" [1]
+2017-01-02 02:12:30 URL:http://www.deerfieldma.us/print/486 [11632] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/486" [1]
+2017-01-02 02:12:31 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/deerfield_current_valuations_by_owner.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:12:33 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/deerfield_current_valuations_by_location.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:12:35 URL:http://www.deerfieldma.us/assessor/faq/motor-vehicle-faqs [78860] -> "../data/townSites2/Deerfield/www.deerfieldma.us/assessor/faq/motor-vehicle-faqs" [1]
+2017-01-02 02:12:36 URL:http://www.deerfieldma.us/assessor/files/motor-vehicle-excise-abatement-application [71882] -> "../data/townSites2/Deerfield/www.deerfieldma.us/assessor/files/motor-vehicle-excise-abatement-application" [1]
+2017-01-02 02:12:38 URL:http://www.deerfieldma.us/user/56/contact [70235] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/56/contact" [1]
+2017-01-02 02:12:39 URL: http://www.deerfieldma.us/node/486/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:12:40 URL:http://www.deerfieldma.us/node/486/faq [68320] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/486/faq" [1]
+2017-01-02 02:12:42 URL:http://www.deerfieldma.us/assessor/faq/real-estate-faqs [81824] -> "../data/townSites2/Deerfield/www.deerfieldma.us/assessor/faq/real-estate-faqs" [1]
+2017-01-02 02:12:43 URL:http://www.deerfieldma.us/assessor/faq/personal-exemptions-faqs [73150] -> "../data/townSites2/Deerfield/www.deerfieldma.us/assessor/faq/personal-exemptions-faqs" [1]
+2017-01-02 02:12:45 URL:http://www.deerfieldma.us/assessor/faq/personal-property-faqs [78793] -> "../data/townSites2/Deerfield/www.deerfieldma.us/assessor/faq/personal-property-faqs" [1]
+2017-01-02 02:12:46 URL:http://www.deerfieldma.us/assessor/pages/assessors-duties [78612] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/494" [1]
+2017-01-02 02:12:47 URL:http://www.deerfieldma.us/print/494 [13414] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/494" [1]
+2017-01-02 02:12:48 URL:http://www.deerfieldma.us/assessor/pages/forms-documents [76531] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/500" [1]
+2017-01-02 02:12:49 URL:http://www.deerfieldma.us/print/500 [11182] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/500" [1]
+2017-01-02 02:12:50 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/assessors_office_fees.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:12:51 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/2016_tax_rates.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:12:52 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/addrchgfrm2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:12:53 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/application_inserts_for_multiple_parcels.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:12:54 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/application_inserts_for_multiple_parcels_excel.xls 200 OK
+unlink: No such file or directory
+2017-01-02 02:12:55 URL:http://www.deerfieldma.us/assessor/pages/information-required-documentation [73851] -> "../data/townSites2/Deerfield/www.deerfieldma.us/assessor/pages/information-required-documentation" [1]
+2017-01-02 02:12:56 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/property_tax_exemptions.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:12:58 URL:http://www.deerfieldma.us/assessor/pages/motor-vehicle-information-required-documentation [73025] -> "../data/townSites2/Deerfield/www.deerfieldma.us/assessor/pages/motor-vehicle-information-required-documentation" [1]
+2017-01-02 02:13:02 URL:http://www.deerfieldma.us/assessor/pages/helpful-terms [84639] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/493" [1]
+2017-01-02 02:13:03 URL:http://www.deerfieldma.us/print/493 [19001] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/493" [1]
+2017-01-02 02:13:04 URL:http://www.deerfieldma.us/assessor/pages/important-dates [73192] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/495" [1]
+2017-01-02 02:13:05 URL:http://www.deerfieldma.us/print/495 [7611] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/495" [1]
+2017-01-02 02:13:08 URL:http://www.deerfieldma.us/assessor/pages/tax-calculator [94119] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/509" [1]
+2017-01-02 02:13:09 URL:http://www.deerfieldma.us/print/509 [28723] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/509" [1]
+2017-01-02 02:13:10 URL:http://www.deerfieldma.us/assessor/pages/town-deerfield-continues-real-estate-inspections [72485] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/515" [1]
+2017-01-02 02:13:11 URL:http://www.deerfieldma.us/print/515 [7138] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/515" [1]
+2017-01-02 02:13:13 URL:http://www.deerfieldma.us/cemetery-department [73815] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/523" [1]
+2017-01-02 02:13:14 URL:http://www.deerfieldma.us/print/523 [7624] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/523" [1]
+2017-01-02 02:13:16 URL:http://www.deerfieldma.us/user/22/contact [70211] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/22/contact" [1]
+2017-01-02 02:13:17 URL: http://www.deerfieldma.us/node/523/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:13:18 URL:http://www.deerfieldma.us/cemetery-department/pages/cemetery-list [70809] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/524" [1]
+2017-01-02 02:13:19 URL:http://www.deerfieldma.us/print/524 [6571] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/524" [1]
+2017-01-02 02:13:21 URL:http://www.deerfieldma.us/cemetery-department/pages/fees [70572] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/525" [1]
+2017-01-02 02:13:22 URL:http://www.deerfieldma.us/print/525 [6320] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/525" [1]
+2017-01-02 02:13:23 URL:http://www.deerfieldma.us/collector-treasurer [74086] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/497" [1]
+2017-01-02 02:13:24 URL:http://www.deerfieldma.us/print/497 [8210] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/497" [1]
+2017-01-02 02:13:26 URL:http://www.deerfieldma.us/user/42/contact [70189] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/42/contact" [1]
+2017-01-02 02:13:28 URL:http://www.deerfieldma.us/user/43/contact [70177] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/43/contact" [1]
+2017-01-02 02:13:29 URL: http://www.deerfieldma.us/node/497/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:13:30 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/sewer_rate_fy17_mailer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:13:31 URL:http://www.deerfieldma.us/collector-treasurer/pages/motor-vehicle-excise-taxes [71548] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/531" [1]
+2017-01-02 02:13:33 URL:http://www.deerfieldma.us/print/531 [6648] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/531" [1]
+2017-01-02 02:13:34 URL:http://www.deerfieldma.us/collector-treasurer/pages/open-meeting-public-records-law [74179] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/527" [1]
+2017-01-02 02:13:35 URL:http://www.deerfieldma.us/print/527 [9321] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/527" [1]
+2017-01-02 02:13:36 URL:http://www.deerfieldma.us/deerfield-area-fire-protection-district [74774] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/2583" [1]
+2017-01-02 02:13:38 URL:http://www.deerfieldma.us/print/2583 [7726] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/2583" [1]
+2017-01-02 02:13:38 URL: http://www.deerfieldma.us/node/2583/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:13:40 URL:http://www.deerfieldma.us/deerfield-fire-water-district [75108] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/2493" [1]
+2017-01-02 02:13:41 URL:http://www.deerfieldma.us/print/2493 [10526] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/2493" [1]
+2017-01-02 02:13:45 URL:http://www.deerfieldma.us/user/203/contact [70214] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/203/contact" [1]
+2017-01-02 02:13:46 URL: http://www.deerfieldma.us/node/2493/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:13:48 URL:http://www.deerfieldma.us/node/2493/news [66161] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/2493/news" [1]
+2017-01-02 02:13:50 URL:http://www.deerfieldma.us/deerfield-fire-water-district/news/two-water-districts-are-separate-town-governments [70216] -> "../data/townSites2/Deerfield/www.deerfieldma.us/deerfield-fire-water-district/news/two-water-districts-are-separate-town-governments" [1]
+2017-01-02 02:13:52 URL:http://www.deerfieldma.us/emergency-medical-services [85882] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/120" [1]
+2017-01-02 02:13:54 URL:http://www.deerfieldma.us/print/120 [8336] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/120" [1]
+2017-01-02 02:13:57 URL:http://www.deerfieldma.us/user/38/contact [70197] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/38/contact" [1]
+2017-01-02 02:13:59 URL:http://www.deerfieldma.us/user/37/contact [70155] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/37/contact" [1]
+2017-01-02 02:14:00 URL: http://www.deerfieldma.us/node/120/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:14:02 URL:http://www.deerfieldma.us/node/120/events/month [86643] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/120/events/month" [1]
+2017-01-02 02:14:04 URL:http://www.deerfieldma.us/node/120/events/month/2017-01 [86688] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/120/events/month/2017-01" [1]
+2017-01-02 02:14:05 URL:http://www.deerfieldma.us/node/120/minutes [66708] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/120/minutes" [1]
+2017-01-02 02:14:06 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2016-08-08_-_scems_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:14:07 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/scems_2015-06-04.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:14:09 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/scems_2015-03-19.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:14:11 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/scems_2015-01-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:14:13 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/scems_2014-12-18.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:14:14 URL:http://www.deerfieldma.us/emergency-medical-services/pages/directors-reports [72633] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/128" [1]
+2017-01-02 02:14:15 URL:http://www.deerfieldma.us/print/128 [8198] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/128" [1]
+2017-01-02 02:14:16 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/jul_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:14:17 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/dec_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:14:18 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/oct_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:14:19 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/sept_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:14:20 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/aug_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:14:21 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/nov_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:14:23 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/june_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:14:24 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/apr_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:14:25 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/mar_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:14:26 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/feb_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:14:27 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/jan_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:14:29 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/dec_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:14:30 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/nov_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:14:31 URL:http://www.deerfieldma.us/highway-department [72940] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/44" [1]
+2017-01-02 02:14:32 URL:http://www.deerfieldma.us/print/44 [8153] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/44" [1]
+2017-01-02 02:14:35 URL:http://www.deerfieldma.us/user/23/contact [70183] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/23/contact" [1]
+2017-01-02 02:14:36 URL: http://www.deerfieldma.us/node/44/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:14:37 URL:http://www.deerfieldma.us/inspection-services [77304] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/51" [1]
+2017-01-02 02:14:39 URL:http://www.deerfieldma.us/print/51 [8711] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/51" [1]
+2017-01-02 02:14:42 URL:http://www.deerfieldma.us/user/60/contact [70243] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/60/contact" [1]
+2017-01-02 02:14:44 URL:http://www.deerfieldma.us/user/21/contact [70219] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/21/contact" [1]
+2017-01-02 02:14:48 URL:http://www.deerfieldma.us/user/24/contact [70141] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/24/contact" [1]
+2017-01-02 02:14:50 URL:http://www.deerfieldma.us/user/25/contact [70155] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/25/contact" [1]
+2017-01-02 02:14:52 URL:http://www.deerfieldma.us/user/26/contact [70197] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/26/contact" [1]
+2017-01-02 02:14:53 URL: http://www.deerfieldma.us/node/51/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:14:54 URL:http://www.deerfieldma.us/node/51/faq [69434] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/51/faq" [1]
+2017-01-02 02:14:56 URL:http://www.deerfieldma.us/inspection-services/faq/when-building-permit-necessary [72666] -> "../data/townSites2/Deerfield/www.deerfieldma.us/inspection-services/faq/when-building-permit-necessary" [1]
+2017-01-02 02:14:57 URL:http://www.deerfieldma.us/inspection-services/faq/why-should-i-get-permit [71946] -> "../data/townSites2/Deerfield/www.deerfieldma.us/inspection-services/faq/why-should-i-get-permit" [1]
+2017-01-02 02:14:59 URL:http://www.deerfieldma.us/inspection-services/faq/do-i-need-obtain-building-permit [71645] -> "../data/townSites2/Deerfield/www.deerfieldma.us/inspection-services/faq/do-i-need-obtain-building-permit" [1]
+2017-01-02 02:15:01 URL:http://www.deerfieldma.us/inspection-services/faq/can-i-begin-work-once-i-submit-my-application [71290] -> "../data/townSites2/Deerfield/www.deerfieldma.us/inspection-services/faq/can-i-begin-work-once-i-submit-my-application" [1]
+2017-01-02 02:15:03 URL:http://www.deerfieldma.us/inspection-services/faq/how-long-does-it-take-obtain-permit [71586] -> "../data/townSites2/Deerfield/www.deerfieldma.us/inspection-services/faq/how-long-does-it-take-obtain-permit" [1]
+2017-01-02 02:15:04 URL:http://www.deerfieldma.us/inspection-services/pages/fee-schedules [71894] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/72" [1]
+2017-01-02 02:15:05 URL:http://www.deerfieldma.us/print/72 [6883] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/72" [1]
+2017-01-02 02:15:06 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/electrical_permit_fees.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:15:07 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/gas_plumbing_fees.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:15:08 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/inspection_fees.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:15:09 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/septic_system_fees.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:15:10 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/weights_measures_fees.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:15:12 URL:http://www.deerfieldma.us/inspection-services/pages/permit-applications [73284] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/55" [1]
+2017-01-02 02:15:13 URL:http://www.deerfieldma.us/print/55 [8280] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/55" [1]
+2017-01-02 02:15:14 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/commercial_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:15:16 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/demolition_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:15:17 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/driveway_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:15:19 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/electrical_permit_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:15:21 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/gas_permit_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:15:22 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/institutional_ep_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:15:24 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/one_or_two_family_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:15:26 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/plumbing_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:15:27 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/shed_sign_fence.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:15:29 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/sheet_metal_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:15:30 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/swimming_pool_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:15:32 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/trench_permit_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:15:34 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/wood_stove_checklist.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:15:35 URL:http://www.deerfieldma.us/library [78475] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/2003" [1]
+2017-01-02 02:15:36 URL:http://www.deerfieldma.us/print/2003 [10009] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/2003" [1]
+2017-01-02 02:15:38 URL:http://www.deerfieldma.us/user/93/contact [70197] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/93/contact" [1]
+2017-01-02 02:15:38 URL: http://www.deerfieldma.us/node/2003/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:15:40 URL:http://www.deerfieldma.us/police-department [83118] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/90" [1]
+2017-01-02 02:15:41 URL:http://www.deerfieldma.us/print/90 [15604] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/90" [1]
+2017-01-02 02:15:43 URL:http://www.deerfieldma.us/user/27/contact [70195] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/27/contact" [1]
+2017-01-02 02:15:45 URL:http://www.deerfieldma.us/user/28/contact [70169] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/28/contact" [1]
+2017-01-02 02:15:48 URL:http://www.deerfieldma.us/user/29/contact [70195] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/29/contact" [1]
+2017-01-02 02:15:50 URL:http://www.deerfieldma.us/user/30/contact [70171] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/30/contact" [1]
+2017-01-02 02:15:52 URL:http://www.deerfieldma.us/user/31/contact [70211] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/31/contact" [1]
+2017-01-02 02:15:54 URL:http://www.deerfieldma.us/user/32/contact [70257] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/32/contact" [1]
+2017-01-02 02:15:56 URL:http://www.deerfieldma.us/user/33/contact [70157] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/33/contact" [1]
+2017-01-02 02:15:58 URL:http://www.deerfieldma.us/user/34/contact [70247] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/34/contact" [1]
+2017-01-02 02:16:00 URL:http://www.deerfieldma.us/user/453/contact [70200] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/453/contact" [1]
+2017-01-02 02:16:03 URL:http://www.deerfieldma.us/user/443/contact [70220] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/443/contact" [1]
+2017-01-02 02:16:04 URL: http://www.deerfieldma.us/node/90/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:05 URL:http://www.deerfieldma.us/public-health-nurse [74764] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/112" [1]
+2017-01-02 02:16:06 URL:http://www.deerfieldma.us/print/112 [9622] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/112" [1]
+2017-01-02 02:16:08 URL:http://www.deerfieldma.us/user/36/contact [70163] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/36/contact" [1]
+2017-01-02 02:16:09 URL: http://www.deerfieldma.us/node/112/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:10 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/deerfield_flu_clinics.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:11 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/all_flu_clinics_poster_2016_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:12 URL:http://www.deerfieldma.us/home/recreation [86134] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/723" [1]
+2017-01-02 02:16:13 URL:http://www.deerfieldma.us/print/723 [9261] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/723" [1]
+2017-01-02 02:16:14 URL: http://www.deerfieldma.us/node/723/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:16 URL:http://www.deerfieldma.us/node/723/events/month [87461] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/723/events/month" [1]
+2017-01-02 02:16:17 URL:http://www.deerfieldma.us/node/723/events/month/2017-01 [87530] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/723/events/month/2017-01" [1]
+2017-01-02 02:16:19 URL:http://www.deerfieldma.us/home/recreation/pages/adult-programs [72667] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/1333" [1]
+2017-01-02 02:16:20 URL:http://www.deerfieldma.us/print/1333 [7591] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/1333" [1]
+2017-01-02 02:16:20 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/zumba.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:21 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/pilates_enrollment_sheet.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:23 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/summer_concerts_2016_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:24 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/frontier_track_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:24 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/golf_ladies_2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:26 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/family_fun_nights.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:27 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/mini_golf_tournament.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:28 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/wine_canvas.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:29 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/nautilus_cardio.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:31 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/indoor_walking.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:32 URL:http://www.deerfieldma.us/home/recreation/pages/craft-classes [71476] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/1473" [1]
+2017-01-02 02:16:33 URL:http://www.deerfieldma.us/print/1473 [6455] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/1473" [1]
+2017-01-02 02:16:35 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/santas_workshop_flyer_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:36 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/craft_class.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:37 URL:http://www.deerfieldma.us/recreation/pages/discount-tickets [71596] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/1263" [1]
+2017-01-02 02:16:38 URL:http://www.deerfieldma.us/print/1263 [6538] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/1263" [1]
+2017-01-02 02:16:39 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/six_flags_order_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:40 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/umass_discount_tickets.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:41 URL:http://www.deerfieldma.us/recreation/pages/policies [72127] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/973" [1]
+2017-01-02 02:16:42 URL:http://www.deerfieldma.us/print/973 [7074] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/973" [1]
+2017-01-02 02:16:43 URL:http://www.deerfieldma.us/recreation/pages/cori-policy [74905] -> "../data/townSites2/Deerfield/www.deerfieldma.us/recreation/pages/cori-policy" [1]
+2017-01-02 02:16:44 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/facility_use_policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:45 URL:http://www.deerfieldma.us/recreation/pages/family-policy [71314] -> "../data/townSites2/Deerfield/www.deerfieldma.us/recreation/pages/family-policy" [1]
+2017-01-02 02:16:47 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/accident_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:48 URL:http://www.deerfieldma.us/recreation/pages/behavior-policy [71528] -> "../data/townSites2/Deerfield/www.deerfieldma.us/recreation/pages/behavior-policy" [1]
+2017-01-02 02:16:49 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/deerfield_recreation_image_release_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:50 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/othermedinspolicy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:50 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/sportsconsent.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:51 URL:http://www.deerfieldma.us/recreation/pages/scholarship-information [71434] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/1173" [1]
+2017-01-02 02:16:52 URL:http://www.deerfieldma.us/print/1173 [6445] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/1173" [1]
+2017-01-02 02:16:53 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/scholarship_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:54 URL:http://www.deerfieldma.us/home/recreation/pages/special-events [72369] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/803" [1]
+2017-01-02 02:16:56 URL:http://www.deerfieldma.us/print/803 [7325] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/803" [1]
+2017-01-02 02:16:57 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/parents_night_out_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:58 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/mad_science_spooktacular_flyer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:16:59 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/movie_flyer.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:17:01 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/santas_workshop_mr._mrs_claus-seniors.pdf 200 OK
+unlink: No such file or directory
+http://www.deerfieldma.us/home/recreation/files/santas-workshop-2016:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:17:03 URL:http://www.deerfieldma.us/recreation/pages/summer-programs [71816] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/1233" [1]
+2017-01-02 02:17:03 URL:http://www.deerfieldma.us/print/1233 [6799] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/1233" [1]
+http://www.deerfieldma.us/recreation/files/2016-summer-field-hockey-clinic-information:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:17:05 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/summer_program_registration_form_2016_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:17:06 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/summer_councilor_cit_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:17:07 URL:http://www.deerfieldma.us/home/recreation/pages/youth-activities [72650] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/1513" [1]
+2017-01-02 02:17:08 URL:http://www.deerfieldma.us/print/1513 [7564] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/1513" [1]
+2017-01-02 02:17:09 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/field_hockey_info_form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:17:10 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/parents_night_out.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:17:11 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/cookies_canvas.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:17:12 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/ice_skating_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:17:14 URL:http://www.deerfieldma.us/home/recreation/pages/youth-sports-information [71800] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/1053" [1]
+2017-01-02 02:17:15 URL:http://www.deerfieldma.us/print/1053 [6828] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/1053" [1]
+2017-01-02 02:17:17 URL:http://www.deerfieldma.us/home/recreation/pages/youth-softball [71828] -> "../data/townSites2/Deerfield/www.deerfieldma.us/recreation/pages/youth-softball" [1]
+2017-01-02 02:17:19 URL:http://www.deerfieldma.us/home/recreation/pages/soccer [71540] -> "../data/townSites2/Deerfield/www.deerfieldma.us/recreation/pages/soccer" [1]
+http://www.deerfieldma.us/recreation/pages/field-hockey:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:17:22 URL:http://www.deerfieldma.us/home/recreation/pages/skiing-skating [71220] -> "../data/townSites2/Deerfield/www.deerfieldma.us/recreation/pages/skiing-skating" [1]
+2017-01-02 02:17:24 URL:http://www.deerfieldma.us/home/recreation/pages/basketball [71323] -> "../data/townSites2/Deerfield/www.deerfieldma.us/recreation/pages/basketball" [1]
+2017-01-02 02:17:26 URL:http://www.deerfieldma.us/home/recreation/pages/youth-baseball [72249] -> "../data/townSites2/Deerfield/www.deerfieldma.us/recreation/pages/youth-baseball" [1]
+2017-01-02 02:17:27 URL:http://www.deerfieldma.us/school-department [85977] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/2163" [1]
+2017-01-02 02:17:28 URL:http://www.deerfieldma.us/print/2163 [10132] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/2163" [1]
+2017-01-02 02:17:29 URL: http://www.deerfieldma.us/node/2163/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:17:30 URL:http://www.deerfieldma.us/node/2163/events/month [86390] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/2163/events/month" [1]
+2017-01-02 02:17:32 URL:http://www.deerfieldma.us/node/2163/events/month/2017-01 [86471] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/2163/events/month/2017-01" [1]
+2017-01-02 02:17:34 URL:http://www.deerfieldma.us/school-department/pages/school-links [71347] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/2193" [1]
+2017-01-02 02:17:35 URL:http://www.deerfieldma.us/print/2193 [7243] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/2193" [1]
+2017-01-02 02:17:36 URL:http://www.deerfieldma.us/senior-center [88975] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/142" [1]
+2017-01-02 02:17:37 URL:http://www.deerfieldma.us/print/142 [10994] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/142" [1]
+2017-01-02 02:17:38 URL:http://www.deerfieldma.us/senior-center/pages/newsletter-archive [72832] -> "../data/townSites2/Deerfield/www.deerfieldma.us/senior-center/pages/newsletter-archive" [1]
+2017-01-02 02:17:41 URL:http://www.deerfieldma.us/user/39/contact [70177] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/39/contact" [1]
+2017-01-02 02:17:43 URL:http://www.deerfieldma.us/user/40/contact [70147] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/40/contact" [1]
+2017-01-02 02:17:47 URL: http://www.deerfieldma.us/node/142/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:17:48 URL:http://www.deerfieldma.us/node/142/faq [67540] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/142/faq" [1]
+2017-01-02 02:17:50 URL:http://www.deerfieldma.us/senior-center/faq/health-information [72736] -> "../data/townSites2/Deerfield/www.deerfieldma.us/senior-center/faq/health-information" [1]
+2017-01-02 02:17:51 URL:http://www.deerfieldma.us/senior-center/faq/transportation-information [72951] -> "../data/townSites2/Deerfield/www.deerfieldma.us/senior-center/faq/transportation-information" [1]
+2017-01-02 02:17:52 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/cooling_center_policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:17:54 URL:http://www.deerfieldma.us/node/142/news [68208] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/142/news" [1]
+2017-01-02 02:17:55 URL:http://www.deerfieldma.us/senior-center/news/interested-volunteering [71754] -> "../data/townSites2/Deerfield/www.deerfieldma.us/senior-center/news/interested-volunteering" [1]
+2017-01-02 02:17:57 URL:http://www.deerfieldma.us/senior-center/news/funding-notes-tai-chi-program [71270] -> "../data/townSites2/Deerfield/www.deerfieldma.us/senior-center/news/funding-notes-tai-chi-program" [1]
+2017-01-02 02:17:59 URL:http://www.deerfieldma.us/node/142/events/month [87488] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/142/events/month" [1]
+2017-01-02 02:18:00 URL:http://www.deerfieldma.us/node/142/events/month/2017-01 [87569] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/142/events/month/2017-01" [1]
+2017-01-02 02:18:02 URL:http://www.deerfieldma.us/senior-center/pages/schedule-activities [72575] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/145" [1]
+2017-01-02 02:18:03 URL:http://www.deerfieldma.us/print/145 [7662] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/145" [1]
+2017-01-02 02:18:04 URL:http://www.deerfieldma.us/south-deerfield-fire-district [75156] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/2643" [1]
+2017-01-02 02:18:05 URL:http://www.deerfieldma.us/print/2643 [10816] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/2643" [1]
+2017-01-02 02:18:07 URL:http://www.deerfieldma.us/user/213/contact [70188] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/213/contact" [1]
+2017-01-02 02:18:09 URL:http://www.deerfieldma.us/user/223/contact [70222] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/223/contact" [1]
+2017-01-02 02:18:10 URL: http://www.deerfieldma.us/node/2643/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:18:11 URL:http://www.deerfieldma.us/fire-department/pages/informational-documents [71972] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/2703" [1]
+2017-01-02 02:18:12 URL:http://www.deerfieldma.us/print/2703 [7570] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/2703" [1]
+2017-01-02 02:18:13 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/sdfd_poster_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:18:14 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/sdfd_fire_safety_for_older_adults.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:18:15 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/cooking_fire_burn_safety_tips.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:18:16 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/beat_the_beep.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:18:17 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/beat-the-beep-pamphlet.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:18:18 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/carbon_monoxide.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:18:19 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/carbon_monoxide_alarms.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:18:20 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/10-chimney-and-woodstovefiresafety.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:18:21 URL:http://www.deerfieldma.us/south-deerfield-water-supply-district [76050] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/2543" [1]
+2017-01-02 02:18:22 URL:http://www.deerfieldma.us/print/2543 [11449] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/2543" [1]
+2017-01-02 02:18:23 URL: http://www.deerfieldma.us/node/2543/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:18:24 URL:http://www.deerfieldma.us/node/2543/news [67010] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/2543/news" [1]
+2017-01-02 02:18:26 URL:http://www.deerfieldma.us/south-deerfield-water-supply-district/news/two-water-districts-are-separate-town-governments [70957] -> "../data/townSites2/Deerfield/www.deerfieldma.us/south-deerfield-water-supply-district/news/two-water-districts-are-separate-town-governments" [1]
+2017-01-02 02:18:27 URL:http://www.deerfieldma.us/town-clerk [75319] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/169" [1]
+2017-01-02 02:18:28 URL:http://www.deerfieldma.us/print/169 [8707] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/169" [1]
+2017-01-02 02:18:30 URL:http://www.deerfieldma.us/user/58/contact [70173] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/58/contact" [1]
+2017-01-02 02:18:32 URL:http://www.deerfieldma.us/user/383/contact [70174] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/383/contact" [1]
+2017-01-02 02:18:33 URL: http://www.deerfieldma.us/node/169/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:18:34 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/raffle-bazaar_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:18:35 URL:http://www.deerfieldma.us/town-clerk/pages/annual-town-meeting-warrants [72232] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/189" [1]
+2017-01-02 02:18:36 URL:http://www.deerfieldma.us/print/189 [7069] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/189" [1]
+2017-01-02 02:18:37 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/stm_1-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:18:38 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/atm_4-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:18:39 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/atm_4-14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:18:40 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/atm_4-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:18:41 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/atm_4-10.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:18:42 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/atm_4-09.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:18:42 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/stm_6-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:18:44 URL:http://www.deerfieldma.us/town-clerk/pages/open-meeting-public-records-law [74438] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/181" [1]
+2017-01-02 02:18:45 URL:http://www.deerfieldma.us/print/181 [9173] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/181" [1]
+2017-01-02 02:18:46 URL:http://www.deerfieldma.us/town-clerk/pages/transfer-station-stickers [72144] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/638" [1]
+2017-01-02 02:18:46 URL:http://www.deerfieldma.us/print/638 [6732] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/638" [1]
+2017-01-02 02:18:48 URL:http://www.deerfieldma.us/transfer-station [74787] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/529" [1]
+2017-01-02 02:18:49 URL:http://www.deerfieldma.us/print/529 [8134] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/529" [1]
+2017-01-02 02:18:50 URL: http://www.deerfieldma.us/node/529/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:18:51 URL:http://www.deerfieldma.us/node/529/news [67139] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/529/news" [1]
+2017-01-02 02:18:53 URL:http://www.deerfieldma.us/transfer-station/news/transfer-station-closing-100-pm-today-1229-due-weather [70851] -> "../data/townSites2/Deerfield/www.deerfieldma.us/transfer-station/news/transfer-station-closing-100-pm-today-1229-due-weather" [1]
+2017-01-02 02:18:54 URL:http://www.deerfieldma.us/transfer-station/pages/pay-you-throw-buying-trash-bags [71445] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/577" [1]
+2017-01-02 02:18:54 URL:http://www.deerfieldma.us/print/577 [6709] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/577" [1]
+2017-01-02 02:18:56 URL:http://www.deerfieldma.us/transfer-station/pages/recycling-information [72060] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/579" [1]
+2017-01-02 02:18:57 URL:http://www.deerfieldma.us/print/579 [7422] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/579" [1]
+2017-01-02 02:18:58 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/bulk_item_fees_-_revised_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:18:59 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/fcswmd.02.22.16.town_newsletters.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:18:59 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/all_town_battery_graphic_2014_events.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:19:01 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/8_5_x_11_poster_fcswmd_4-15-131.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:19:02 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/why_recycle_b_to_p_back.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:19:03 URL:http://www.deerfieldma.us/transfer-station/pages/transfer-station-regulations [73869] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/572" [1]
+2017-01-02 02:19:04 URL:http://www.deerfieldma.us/print/572 [9194] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/572" [1]
+2017-01-02 02:19:05 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/transfer_station_regulations_for_2015-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:19:06 URL:http://www.deerfieldma.us/tree-warden [73099] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/605" [1]
+2017-01-02 02:19:07 URL:http://www.deerfieldma.us/print/605 [7352] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/605" [1]
+2017-01-02 02:19:07 URL: http://www.deerfieldma.us/node/605/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:19:08 URL:http://www.deerfieldma.us/upper-pioneer-valley-veterans-services-district [76792] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/607" [1]
+2017-01-02 02:19:09 URL:http://www.deerfieldma.us/print/607 [9481] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/607" [1]
+2017-01-02 02:19:11 URL:http://www.deerfieldma.us/user/62/contact [70179] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/62/contact" [1]
+2017-01-02 02:19:13 URL:http://www.deerfieldma.us/user/63/contact [70171] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/63/contact" [1]
+2017-01-02 02:19:14 URL: http://www.deerfieldma.us/node/607/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:19:15 URL:http://www.deerfieldma.us/upper-pioneer-valley-veterans-services-district/slideshows/pictures-williams-s-pydych-service [78144] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/616" [1]
+2017-01-02 02:19:16 URL:http://www.deerfieldma.us/print/616 [13227] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/616" [1]
+2017-01-02 02:19:17 URL:http://www.deerfieldma.us/wastewater-treatement [75318] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/617" [1]
+2017-01-02 02:19:18 URL:http://www.deerfieldma.us/print/617 [9352] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/617" [1]
+2017-01-02 02:19:20 URL:http://www.deerfieldma.us/user/66/contact [70405] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/66/contact" [1]
+2017-01-02 02:19:22 URL:http://www.deerfieldma.us/user/65/contact [70143] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/65/contact" [1]
+2017-01-02 02:19:23 URL: http://www.deerfieldma.us/node/617/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:19:24 URL:http://www.deerfieldma.us/wastewater-treatement/pages/drinking-water [72130] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/629" [1]
+2017-01-02 02:19:25 URL:http://www.deerfieldma.us/print/629 [6473] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/629" [1]
+2017-01-02 02:19:26 URL:http://www.deerfieldma.us/wastewater-treatement/pages/residential-sewer-issues [72101] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/624" [1]
+2017-01-02 02:19:27 URL:http://www.deerfieldma.us/print/624 [6630] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/624" [1]
+2017-01-02 02:19:28 URL:http://www.deerfieldma.us/wastewater-treatement/pages/article-21-inflow-reduction-program [73392] -> "../data/townSites2/Deerfield/www.deerfieldma.us/wastewater-treatement/pages/article-21-inflow-reduction-program" [1]
+2017-01-02 02:19:29 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/inflopamphlet.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:19:30 URL:http://www.deerfieldma.us/wastewater-treatement/pages/sewer-billing-information [72081] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/627" [1]
+2017-01-02 02:19:31 URL:http://www.deerfieldma.us/print/627 [6502] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/627" [1]
+2017-01-02 02:19:32 URL:http://www.deerfieldma.us/wastewater-treatement/pages/south-deerfield-wastewater-treatment-plant [75610] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/625" [1]
+2017-01-02 02:19:33 URL:http://www.deerfieldma.us/print/625 [10320] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/625" [1]
+2017-01-02 02:19:35 URL:http://www.deerfieldma.us/agricultural-commission [75548] -> "../data/townSites2/Deerfield/www.deerfieldma.us/agricultural-commission.1" [1]
+2017-01-02 02:19:36 URL:http://www.deerfieldma.us/agricultural-commission-0 [77056] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/3123" [1]
+2017-01-02 02:19:37 URL:http://www.deerfieldma.us/print/3123 [9257] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/3123" [1]
+2017-01-02 02:19:38 URL: http://www.deerfieldma.us/node/3123/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:19:40 URL:http://www.deerfieldma.us/node/3123/minutes [67658] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/3123/minutes" [1]
+2017-01-02 02:19:41 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/agcomm_02-08-12.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:19:41 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/agcomm_01-11-12.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:19:42 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/dfld_ag_comm_mins_2-9-11.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:19:43 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/dfld_ag_comm_mins_1-19-11.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:19:45 URL:http://www.deerfieldma.us/board-health [76173] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/12" [1]
+2017-01-02 02:19:46 URL:http://www.deerfieldma.us/print/12 [8904] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/12" [1]
+2017-01-02 02:19:47 URL:http://www.deerfieldma.us/user/153/contact [70166] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/153/contact" [1]
+2017-01-02 02:19:50 URL:http://www.deerfieldma.us/user/173/contact [70178] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/173/contact" [1]
+2017-01-02 02:19:51 URL:http://www.deerfieldma.us/user/163/contact [70214] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/163/contact" [1]
+2017-01-02 02:19:52 URL: http://www.deerfieldma.us/node/12/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:19:53 URL:http://www.deerfieldma.us/board-health/pages/mosquito-information [71019] -> "../data/townSites2/Deerfield/www.deerfieldma.us/board-health/pages/mosquito-information" [1]
+2017-01-02 02:19:55 URL:http://www.deerfieldma.us/board-health/pages/kinder-morgan-documents [70991] -> "../data/townSites2/Deerfield/www.deerfieldma.us/board-health/pages/kinder-morgan-documents" [1]
+2017-01-02 02:19:56 URL:http://www.deerfieldma.us/node/12/news [66856] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/12/news" [1]
+2017-01-02 02:19:58 URL:http://www.deerfieldma.us/board-health/news/message-deerfield-health-agent [70785] -> "../data/townSites2/Deerfield/www.deerfieldma.us/board-health/news/message-deerfield-health-agent" [1]
+2017-01-02 02:19:59 URL:http://www.deerfieldma.us/board-health/pages/applications [71878] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/15" [1]
+2017-01-02 02:20:00 URL:http://www.deerfieldma.us/print/15 [7423] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/15" [1]
+2017-01-02 02:20:01 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/offal_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:20:02 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/perc_test_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:20:04 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/rec_camp_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:20:05 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/sample_food_reg.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:20:07 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/liquor_license.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:20:08 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/temp_food_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:20:10 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/temp_food_craft_fair.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:20:11 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/tobacco_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:20:13 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/well_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:20:14 URL:http://www.deerfieldma.us/board-health/pages/instructions-homemade-mosquito-trap [71450] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/649" [1]
+2017-01-02 02:20:15 URL:http://www.deerfieldma.us/print/649 [7061] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/649" [1]
+2017-01-02 02:20:17 URL:http://www.deerfieldma.us/node/534/agenda [66717] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/534/agenda" [1]
+2017-01-02 02:20:18 URL:http://www.deerfieldma.us/node/540/agenda [66703] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/540/agenda" [1]
+2017-01-02 02:20:20 URL:http://www.deerfieldma.us/node/563/agenda [66710] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/563/agenda" [1]
+2017-01-02 02:20:22 URL:http://www.deerfieldma.us/node/587/agenda [65709] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/587/agenda" [1]
+2017-01-02 02:20:23 URL:http://www.deerfieldma.us/node/300/agenda [65711] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/300/agenda" [1]
+2017-01-02 02:20:24 URL:http://www.deerfieldma.us/node/190/agenda [66905] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/190/agenda" [1]
+2017-01-02 02:20:26 URL:http://www.deerfieldma.us/node/8423/agenda [65792] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/8423/agenda" [1]
+2017-01-02 02:20:27 URL:http://www.deerfieldma.us/node/157/agenda [66781] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/157/agenda" [1]
+2017-01-02 02:20:29 URL:http://www.deerfieldma.us/node/534/minutes [66678] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/534/minutes" [1]
+2017-01-02 02:20:30 URL:http://www.deerfieldma.us/node/540/minutes [66743] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/540/minutes" [1]
+2017-01-02 02:20:31 URL:http://www.deerfieldma.us/node/554/minutes [66747] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/554/minutes" [1]
+2017-01-02 02:20:33 URL:http://www.deerfieldma.us/node/563/minutes [66774] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/563/minutes" [1]
+2017-01-02 02:20:34 URL:http://www.deerfieldma.us/node/587/minutes [65705] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/587/minutes" [1]
+2017-01-02 02:20:35 URL:http://www.deerfieldma.us/node/409/minutes [67235] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/409/minutes" [1]
+2017-01-02 02:20:37 URL:http://www.deerfieldma.us/node/665/minutes [66970] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/665/minutes" [1]
+2017-01-02 02:20:38 URL:http://www.deerfieldma.us/node/300/minutes [66043] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/300/minutes" [1]
+2017-01-02 02:20:40 URL:http://www.deerfieldma.us/node/190/minutes [66822] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/190/minutes" [1]
+2017-01-02 02:20:41 URL:http://www.deerfieldma.us/node/220/minutes [67722] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/220/minutes" [1]
+2017-01-02 02:20:43 URL:http://www.deerfieldma.us/node/8423/minutes [65756] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/8423/minutes" [1]
+2017-01-02 02:20:44 URL:http://www.deerfieldma.us/node/283/minutes [66819] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/283/minutes" [1]
+2017-01-02 02:20:46 URL:http://www.deerfieldma.us/node/157/minutes [66905] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/157/minutes" [1]
+2017-01-02 02:20:47 URL:http://www.deerfieldma.us/capital-improvements-planning-committee [85354] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/534.1" [1]
+2017-01-02 02:20:47 URL:http://www.deerfieldma.us/print/534 [7606] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/534" [1]
+2017-01-02 02:20:48 URL: http://www.deerfieldma.us/node/534/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:20:50 URL:http://www.deerfieldma.us/node/534/events/month [91395] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/534/events/month" [1]
+2017-01-02 02:20:52 URL:http://www.deerfieldma.us/node/534/events/day/2017-01-25 [69881] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/534/events/day/2017-01-25" [1]
+2017-01-02 02:20:53 URL:http://www.deerfieldma.us/node/534/events/month/2017-01 [91456] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/534/events/month/2017-01" [1]
+2017-01-02 02:20:55 URL:http://www.deerfieldma.us/capital-improvements-planning-committee/agenda/cipc-meeting-1 [71587] -> "../data/townSites2/Deerfield/www.deerfieldma.us/capital-improvements-planning-committee/agenda/cipc-meeting-1" [1]
+2017-01-02 02:20:56 URL: http://www.deerfieldma.us/sites/deerfieldma/files/agendas/2016-12-28-_agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:20:57 URL: http://www.deerfieldma.us/sites/deerfieldma/files/agendas/2016-12-07-_agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:20:58 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2016-01-27_-_capital_improvement_planning_committee_-_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:20:59 URL:http://www.deerfieldma.us/community-preservation-committee [71630] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/14443" [1]
+2017-01-02 02:21:00 URL:http://www.deerfieldma.us/print/14443 [7549] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/14443" [1]
+2017-01-02 02:21:01 URL: http://www.deerfieldma.us/node/14443/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:21:02 URL:http://www.deerfieldma.us/conservation-commission [90387] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/540.1" [1]
+2017-01-02 02:21:03 URL:http://www.deerfieldma.us/print/540 [8830] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/540" [1]
+2017-01-02 02:21:03 URL: http://www.deerfieldma.us/node/540/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:21:05 URL:http://www.deerfieldma.us/node/540/events/month [86820] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/540/events/month" [1]
+2017-01-02 02:21:07 URL:http://www.deerfieldma.us/node/540/events/month/2017-01 [86853] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/540/events/month/2017-01" [1]
+2017-01-02 02:21:08 URL: http://www.deerfieldma.us/sites/deerfieldma/files/agendas/cc_agenda_12-15-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:21:08 URL: http://www.deerfieldma.us/sites/deerfieldma/files/agendas/cc_agenda_11-17-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:21:09 URL: http://www.deerfieldma.us/sites/deerfieldma/files/agendas/cc_agenda_10-27-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:21:10 URL: http://www.deerfieldma.us/sites/deerfieldma/files/agendas/cc_agenda_9-22-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:21:11 URL: http://www.deerfieldma.us/sites/deerfieldma/files/agendas/cc_agenda_8-25-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:21:12 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/cc_minutes_6-23-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:21:13 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/cc_minutes_5-26-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:21:13 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/cc_minutes_5-5-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:21:14 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/cc_minutes_4-28-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:21:15 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/cc_minutes_3-24-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:21:16 URL:http://www.deerfieldma.us/conservation-commission/pages/forms-applications [71691] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/553" [1]
+2017-01-02 02:21:17 URL:http://www.deerfieldma.us/print/553 [7321] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/553" [1]
+2017-01-02 02:21:18 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/concomm_applicant_instructions_2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:21:19 URL:http://www.deerfieldma.us/cultural-council [87820] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/554.1" [1]
+2017-01-02 02:21:20 URL:http://www.deerfieldma.us/print/554 [8486] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/554" [1]
+2017-01-02 02:21:22 URL:http://www.deerfieldma.us/user/61/contact [70245] -> "../data/townSites2/Deerfield/www.deerfieldma.us/user/61/contact" [1]
+2017-01-02 02:21:23 URL: http://www.deerfieldma.us/node/554/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:21:25 URL:http://www.deerfieldma.us/node/554/events/month [86402] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/554/events/month" [1]
+2017-01-02 02:21:26 URL:http://www.deerfieldma.us/node/554/events/month/2017-01 [86483] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/554/events/month/2017-01" [1]
+2017-01-02 02:21:27 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/lcc_2015-10-27.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:21:28 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/lcc_2014-12-03.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:21:29 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/lcc_2013-11-12.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:21:30 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/lcc_2012-07-12.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:21:32 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/lcc_2011-11-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:21:33 URL:http://www.deerfieldma.us/energy-resources-committee [86141] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/563.1" [1]
+2017-01-02 02:21:34 URL:http://www.deerfieldma.us/print/563 [8491] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/563" [1]
+2017-01-02 02:21:34 URL: http://www.deerfieldma.us/node/563/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:21:37 URL:http://www.deerfieldma.us/node/563/events/month [86789] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/563/events/month" [1]
+2017-01-02 02:21:38 URL:http://www.deerfieldma.us/node/563/events/month/2017-01 [86858] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/563/events/month/2017-01" [1]
+2017-01-02 02:21:40 URL:http://www.deerfieldma.us/energy-resources-committee/agenda/deerfield-energy-resources-committee [71423] -> "../data/townSites2/Deerfield/www.deerfieldma.us/energy-resources-committee/agenda/deerfield-energy-resources-committee" [1]
+2017-01-02 02:21:42 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2015-03-26_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:21:43 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2015-02-26_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:21:45 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/11-19-14_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:21:46 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/10-23-14_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:21:48 URL:http://www.deerfieldma.us/finance-committee [87199] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/587.1" [1]
+2017-01-02 02:21:49 URL:http://www.deerfieldma.us/print/587 [7868] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/587" [1]
+2017-01-02 02:21:50 URL: http://www.deerfieldma.us/node/587/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:21:53 URL:http://www.deerfieldma.us/node/587/events/month [85846] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/587/events/month" [1]
+2017-01-02 02:21:57 URL:http://www.deerfieldma.us/node/587/events/month/2017-01 [85839] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/587/events/month/2017-01" [1]
+2017-01-02 02:21:58 URL: http://www.deerfieldma.us/sites/deerfieldma/files/agendas/2016.11.09.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:00 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2016-09-14_-_minutes_-_joint_meeting_of_cipc_fincomm_and_selectboard.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:01 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2016-06-21_-_fincom.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:03 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2016-04-21_fincom_meeting_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:04 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2016-04-05.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:05 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2016-03-29.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:06 URL:http://www.deerfieldma.us/historical-commission [91321] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/409.1" [1]
+2017-01-02 02:22:07 URL:http://www.deerfieldma.us/print/409 [12585] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/409" [1]
+2017-01-02 02:22:08 URL: http://www.deerfieldma.us/node/409/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:11 URL:http://www.deerfieldma.us/node/409/events/month [86832] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/409/events/month" [1]
+2017-01-02 02:22:15 URL:http://www.deerfieldma.us/node/409/events/month/2017-01 [86805] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/409/events/month/2017-01" [1]
+2017-01-02 02:22:16 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2016-08-08_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:17 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2016-07-11_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:18 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2016-6-13_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:19 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2016-5-9_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:20 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2016-4-11_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:21 URL:http://www.deerfieldma.us/open-space-recreation-committee [75211] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/665.1" [1]
+2017-01-02 02:22:22 URL:http://www.deerfieldma.us/print/665 [7558] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/665" [1]
+2017-01-02 02:22:23 URL: http://www.deerfieldma.us/node/665/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:24 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/20120509.doc 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:25 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/open_space_committee_2-3-10.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:26 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/open_space_committee_7-20-09.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:27 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/open_space_committee_2-23-09.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:29 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/open_space_committee_1-26-09.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:30 URL:http://www.deerfieldma.us/open-space-committee/pages/links-interest [71105] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/672" [1]
+2017-01-02 02:22:31 URL:http://www.deerfieldma.us/print/672 [6814] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/672" [1]
+2017-01-02 02:22:32 URL:http://www.deerfieldma.us/open-space-committee/pages/pocumtuck-ridge-information [71135] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/713" [1]
+2017-01-02 02:22:33 URL:http://www.deerfieldma.us/print/713 [6929] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/713" [1]
+2017-01-02 02:22:35 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/open_space_of_pocumtuck.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:36 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/final_pocumtuck_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:38 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/topographic_map_of_pocumtuck.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:39 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/natural_communities_of_pocumtuck.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:44 URL:http://www.deerfieldma.us/personnel-board [87578] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/300.1" [1]
+2017-01-02 02:22:45 URL:http://www.deerfieldma.us/print/300 [8057] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/300" [1]
+2017-01-02 02:22:46 URL: http://www.deerfieldma.us/node/300/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:48 URL:http://www.deerfieldma.us/node/300/events/month [85756] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/300/events/month" [1]
+2017-01-02 02:22:50 URL:http://www.deerfieldma.us/node/300/events/month/2017-01 [85889] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/300/events/month/2017-01" [1]
+2017-01-02 02:22:51 URL: http://www.deerfieldma.us/sites/deerfieldma/files/agendas/2016-12-05.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:52 URL: http://www.deerfieldma.us/sites/deerfieldma/files/agendas/2016-11-14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:53 URL: http://www.deerfieldma.us/sites/deerfieldma/files/agendas/2016-07-11-.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:55 URL: http://www.deerfieldma.us/sites/deerfieldma/files/agendas/2016-05-09.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:57 URL: http://www.deerfieldma.us/sites/deerfieldma/files/agendas/2016-04-04.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:22:58 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/05-16-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:23:00 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/05-09-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:23:02 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/03-21-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:23:04 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/03-07-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:23:05 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/02-01-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:23:09 URL:http://www.deerfieldma.us/planning-board [88078] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/190.1" [1]
+2017-01-02 02:23:10 URL:http://www.deerfieldma.us/print/190 [8494] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/190" [1]
+2017-01-02 02:23:11 URL: http://www.deerfieldma.us/node/190/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:23:15 URL:http://www.deerfieldma.us/node/190/events/month [86893] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/190/events/month" [1]
+2017-01-02 02:23:16 URL:http://www.deerfieldma.us/node/190/events/month/2017-01 [86962] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/190/events/month/2017-01" [1]
+2017-01-02 02:23:19 URL:http://www.deerfieldma.us/planning-board/agenda/planning-board-meeting-0 [71656] -> "../data/townSites2/Deerfield/www.deerfieldma.us/planning-board/agenda/planning-board-meeting-0" [1]
+2017-01-02 02:23:21 URL: http://www.deerfieldma.us/sites/deerfieldma/files/agendas/2016-12-05-_pb_agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:23:22 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2016-07-11-_minutes_-_planning_board_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:23:24 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2016-06-06_-_minutes_-_planning_board.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:23:25 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2016-05-09_-_minutes_-_planning_board.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:23:26 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2016-04-04_-_minutes_-_planning_board.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:23:28 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/pb_minutes_3-7.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:23:31 URL:http://www.deerfieldma.us/planning-board/pages/helpful-links [70950] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/199" [1]
+2017-01-02 02:23:32 URL:http://www.deerfieldma.us/print/199 [6388] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/199" [1]
+2017-01-02 02:23:33 URL:http://www.deerfieldma.us/selectboard [89022] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/220.1" [1]
+2017-01-02 02:23:34 URL:http://www.deerfieldma.us/print/220 [8824] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/220" [1]
+2017-01-02 02:23:36 URL: http://www.deerfieldma.us/node/220/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:23:37 URL:http://www.deerfieldma.us/node/220/blog [67514] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/220/blog" [1]
+2017-01-02 02:23:39 URL:http://www.deerfieldma.us/selectboard/blog/blog-entry-july-20-2016 [72567] -> "../data/townSites2/Deerfield/www.deerfieldma.us/selectboard/blog/blog-entry-july-20-2016" [1]
+2017-01-02 02:23:40 URL:http://www.deerfieldma.us/node/220/events/month [87675] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/220/events/month" [1]
+2017-01-02 02:23:42 URL:http://www.deerfieldma.us/node/220/events/month/2017-01 [87752] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/220/events/month/2017-01" [1]
+2017-01-02 02:23:43 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/11.23.16.sb_.minutes.decision.offer_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:23:44 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2016-11-16_-_bos_-_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:23:46 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2016-11-01_-_bos_-_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:23:47 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2016-10-26_-_bos_-_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:23:48 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2016-10-19_-_bos_-_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:23:50 URL:http://www.deerfieldma.us/selectboard/pages/annual-town-reports [72276] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/235" [1]
+2017-01-02 02:23:51 URL:http://www.deerfieldma.us/print/235 [7031] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/235" [1]
+2017-01-02 02:23:52 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/2015_annual_report_-_master_document.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:23:54 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/2014_atr_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:23:55 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/2013_atr.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:23:57 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/2012_atr.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:23:58 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/2011_atr.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:24:00 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/2010_atr.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:24:01 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/2009_atr.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:24:03 URL:http://www.deerfieldma.us/selectboard/pages/oxford-rfp-documents [72682] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/234" [1]
+2017-01-02 02:24:04 URL:http://www.deerfieldma.us/print/234 [7468] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/234" [1]
+2017-01-02 02:24:05 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/c-105_conformed.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:24:07 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/phase_ii_esa_rpt_071021b.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:24:09 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/oxford_property_appraisal_20140827.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:24:11 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/cains_gw_rpt_021408.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:24:12 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/15_jewett_ave_ph_i.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:24:13 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/oxford_property_appendix.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:24:15 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/oxford_property_analysis.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:24:16 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/zoning_4700.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:24:17 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/deerfield_complete_streets_and_livability_plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:24:21 URL:http://www.deerfieldma.us/selectboard/pages/selectboard-policies [71782] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/640" [1]
+2017-01-02 02:24:22 URL:http://www.deerfieldma.us/print/640 [6533] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/640" [1]
+2017-01-02 02:24:24 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/comprehensive_streetlight_policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:24:25 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/special_municipal_employee_policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:24:27 URL:http://www.deerfieldma.us/selectboard/pages/sustainability-links [71974] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/641" [1]
+2017-01-02 02:24:28 URL:http://www.deerfieldma.us/print/641 [6727] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/641" [1]
+2017-01-02 02:24:29 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/sustainable_franklin_county_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:24:32 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/sustainable_franklin_county_2013_appendices.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:24:33 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/sustainable_franklin_county_executive_summary.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:24:35 URL:http://www.deerfieldma.us/sewer-study-committee [89465] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/8423.1" [1]
+2017-01-02 02:24:36 URL:http://www.deerfieldma.us/print/8423 [10229] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/8423" [1]
+2017-01-02 02:24:37 URL: http://www.deerfieldma.us/node/8423/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:24:40 URL:http://www.deerfieldma.us/node/8423/events/month [90210] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/8423/events/month" [1]
+2017-01-02 02:24:42 URL:http://www.deerfieldma.us/node/8423/events/day/2017-01-12 [69023] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/8423/events/day/2017-01-12" [1]
+2017-01-02 02:24:44 URL:http://www.deerfieldma.us/node/8423/events/month/2017-01 [90243] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/8423/events/month/2017-01" [1]
+2017-01-02 02:24:46 URL:http://www.deerfieldma.us/sewer-study-committee/agenda/sewer-study-committee-meeting-2 [69412] -> "../data/townSites2/Deerfield/www.deerfieldma.us/sewer-study-committee/agenda/sewer-study-committee-meeting-2" [1]
+2017-01-02 02:24:47 URL: http://www.deerfieldma.us/sites/deerfieldma/files/agendas/2016-12-15_-_ssc_-_posting_and_agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:24:48 URL: http://www.deerfieldma.us/sites/deerfieldma/files/agendas/2016-08-25_-_ssc_-_posting_and_agenda_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:24:49 URL: http://www.deerfieldma.us/sites/deerfieldma/files/agendas/2016-07-25_-_ssc_-_posting_and_agenda.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:24:50 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/scc_9.22.16_approved_meeting_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:24:51 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/scc_8.25.16_approved_meeting_minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:24:52 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2016-08-02_-_minutes_-_sewer_study_committee.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:24:54 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2016-07-28_-_minutes_-_sewer_study_committee.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:24:55 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2016-07-25_-_minutes_-_sewer_study_committee.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:24:59 URL:http://www.deerfieldma.us/tri-town-beach-commission [77599] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/283.1" [1]
+2017-01-02 02:25:00 URL:http://www.deerfieldma.us/print/283 [8408] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/283" [1]
+2017-01-02 02:25:00 URL: http://www.deerfieldma.us/node/283/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:25:02 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2016-05-16_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:25:03 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2016-04-19.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:25:05 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2015-06-22.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:25:06 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2015-06-10.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:25:07 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/2015-06-08.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:25:11 URL:http://www.deerfieldma.us/zoning-board-appeals [88359] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/157.1" [1]
+2017-01-02 02:25:12 URL:http://www.deerfieldma.us/print/157 [8748] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/157" [1]
+2017-01-02 02:25:13 URL: http://www.deerfieldma.us/node/157/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:25:16 URL:http://www.deerfieldma.us/node/157/events/month [86846] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/157/events/month" [1]
+2017-01-02 02:25:18 URL:http://www.deerfieldma.us/node/157/events/month/2017-01 [86911] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/157/events/month/2017-01" [1]
+2017-01-02 02:25:19 URL: http://www.deerfieldma.us/sites/deerfieldma/files/agendas/12-15-2016_posting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:25:21 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/05-05-16_by_ben_wadham.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:25:23 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/zba_minutes_3-31.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:25:24 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/zba_minutes_1-21.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:25:27 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/12-17-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:25:28 URL: http://www.deerfieldma.us/sites/deerfieldma/files/minutes/11-19-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:25:29 URL:http://www.deerfieldma.us/where/a [70583] -> "../data/townSites2/Deerfield/www.deerfieldma.us/where/a" [1]
+2017-01-02 02:25:31 URL:http://www.deerfieldma.us/where/b [68525] -> "../data/townSites2/Deerfield/www.deerfieldma.us/where/b" [1]
+2017-01-02 02:25:33 URL:http://www.deerfieldma.us/where/c [68745] -> "../data/townSites2/Deerfield/www.deerfieldma.us/where/c" [1]
+2017-01-02 02:25:35 URL:http://www.deerfieldma.us/where/d [70983] -> "../data/townSites2/Deerfield/www.deerfieldma.us/where/d" [1]
+2017-01-02 02:25:37 URL:http://www.deerfieldma.us/where/f [69416] -> "../data/townSites2/Deerfield/www.deerfieldma.us/where/f" [1]
+2017-01-02 02:25:38 URL:http://www.deerfieldma.us/where/g [68608] -> "../data/townSites2/Deerfield/www.deerfieldma.us/where/g" [1]
+2017-01-02 02:25:40 URL:http://www.deerfieldma.us/where/i [68890] -> "../data/townSites2/Deerfield/www.deerfieldma.us/where/i" [1]
+2017-01-02 02:25:42 URL:http://www.deerfieldma.us/where/l [68552] -> "../data/townSites2/Deerfield/www.deerfieldma.us/where/l" [1]
+2017-01-02 02:25:43 URL:http://www.deerfieldma.us/where/m [69448] -> "../data/townSites2/Deerfield/www.deerfieldma.us/where/m" [1]
+2017-01-02 02:25:45 URL:http://www.deerfieldma.us/where/o [68907] -> "../data/townSites2/Deerfield/www.deerfieldma.us/where/o" [1]
+2017-01-02 02:25:47 URL:http://www.deerfieldma.us/where/p [68803] -> "../data/townSites2/Deerfield/www.deerfieldma.us/where/p" [1]
+2017-01-02 02:25:48 URL:http://www.deerfieldma.us/where/r [69537] -> "../data/townSites2/Deerfield/www.deerfieldma.us/where/r" [1]
+2017-01-02 02:25:50 URL:http://www.deerfieldma.us/where/s [69408] -> "../data/townSites2/Deerfield/www.deerfieldma.us/where/s" [1]
+2017-01-02 02:25:51 URL:http://www.deerfieldma.us/where/t [69864] -> "../data/townSites2/Deerfield/www.deerfieldma.us/where/t" [1]
+2017-01-02 02:25:53 URL:http://www.deerfieldma.us/where/v [68618] -> "../data/townSites2/Deerfield/www.deerfieldma.us/where/v" [1]
+2017-01-02 02:25:55 URL:http://www.deerfieldma.us/where/w [68653] -> "../data/townSites2/Deerfield/www.deerfieldma.us/where/w" [1]
+2017-01-02 02:25:56 URL:http://www.mass.gov/hed/community/energy/cold-relief-information.html [61671] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/links/fuel-assistance-cold-relief" [1]
+2017-01-02 02:25:57 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/grievance_procedure.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:25:59 URL:http://www.deerfieldma.us/public-health-nurse [74764] -> "../data/townSites2/Deerfield/www.deerfieldma.us/public-health-nurse/links/public-health-nurse" [1]
+2017-01-02 02:26:01 URL:http://www.deerfieldma.us/police-department/pages/weekly-logs [78905] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/326" [1]
+2017-01-02 02:26:03 URL:http://www.deerfieldma.us/print/326 [12314] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/326" [1]
+2017-01-02 02:26:05 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/20161031-1106.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:07 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/20161024-1030.pdf.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:10 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/20161017-1023.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:12 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/20161010-1016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:13 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/2016-1003-1009.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:14 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/20160926-1002.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:15 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/20160919-0925.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:16 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/20160912-0918.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:17 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/20160905-0911.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:18 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/20160829-20160904.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:20 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/20160822-0828.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:21 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/20160815-0821.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:22 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/2016-0808-0814.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:23 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/20160801-0807.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:24 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/20160725-0731_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:26 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/20160718-0724.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:27 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/20160711-0717.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:28 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/20160704-0710.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:29 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/20160627-0703.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:30 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/2016-0620-0626_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:31 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/20160613-0619.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:34 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/20160606-0612.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:36 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/20160530-0605.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:37 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/5-23_5-29.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:38 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/5-16_5-22.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:39 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/5-9_5-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:40 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/5-2_5-9.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:41 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/4-25_to_5-1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:42 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/4-18_4-24.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:43 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/4-11_4-17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:45 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/4-4_4-10.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:48 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/3-28_4-3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:49 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/3-21_3-27.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:50 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/3-14_3-20.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:51 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/3-7_3-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:52 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/2-29_3-6.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:53 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/2-22_2-28.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:54 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/2-15_2-21.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:55 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/2-8_2-14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:56 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/2-1_2-7.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:57 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/1-25_1-31.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:58 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/1-18_1-24.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:59 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/1-11_1-17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:00 URL:http://www.deerfieldma.us/people/brian-nartowicz [70877] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/2503" [1]
+2017-01-02 02:27:01 URL:http://www.deerfieldma.us/print/2503 [7447] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/2503" [1]
+2017-01-02 02:27:03 URL:http://www.deerfieldma.us/home/pages/local-business-directory [72235] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/3133" [1]
+2017-01-02 02:27:04 URL:http://www.deerfieldma.us/print/3133 [10515] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/3133" [1]
+2017-01-02 02:27:05 URL:http://www.deerfieldma.us/home/news/new-zumba-session-starts-january-9-1 [68836] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/15453" [1]
+2017-01-02 02:27:06 URL:http://www.deerfieldma.us/print/15453 [7207] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/15453" [1]
+2017-01-02 02:27:08 URL:http://www.deerfieldma.us/home/news/deerfield-transfer-station-only-accepts-checks-payment-0 [68703] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/15443" [1]
+2017-01-02 02:27:09 URL:http://www.deerfieldma.us/print/15443 [7212] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/15443" [1]
+2017-01-02 02:27:11 URL:http://www.deerfieldma.us/home/news/town-trash-bag-availability-0 [69041] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/15433" [1]
+2017-01-02 02:27:12 URL:http://www.deerfieldma.us/print/15433 [7377] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/15433" [1]
+2017-01-02 02:27:17 URL:http://www.deerfieldma.us/home/news/january-9-special-town-meeting-has-been-cancelled [67691] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/15303" [1]
+2017-01-02 02:27:18 URL:http://www.deerfieldma.us/print/15303 [6224] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/15303" [1]
+2017-01-02 02:27:20 URL:http://www.deerfieldma.us/home/news/message-treasurercollector [68117] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/14953" [1]
+2017-01-02 02:27:21 URL:http://www.deerfieldma.us/print/14953 [6543] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/14953" [1]
+2017-01-02 02:27:22 URL: http://www.deerfieldma.us/node/1/news/feed 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:24 URL:http://www.deerfieldma.us/home/news/fuel-assistance-cold-relief [67916] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/news/fuel-assistance-cold-relief" [1]
+2017-01-02 02:27:26 URL:http://www.deerfieldma.us/home/news/town-trash-bag-availability [69038] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/news/town-trash-bag-availability" [1]
+2017-01-02 02:27:29 URL:http://www.deerfieldma.us/home/news/deerfield-transfer-station-only-accepts-checks-payment [68709] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/news/deerfield-transfer-station-only-accepts-checks-payment" [1]
+2017-01-02 02:27:32 URL:http://www.deerfieldma.us/home/news/new-zumba-session-starts-january-9 [68831] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/news/new-zumba-session-starts-january-9" [1]
+2017-01-02 02:27:35 URL:http://www.deerfieldma.us/calendar-by-event-type/16%2B20%2B17%2B19 [118449] -> "../data/townSites2/Deerfield/www.deerfieldma.us/calendar-by-event-type/16+20+17+19.1" [1]
+2017-01-02 02:27:37 URL:http://www.deerfieldma.us/calendar-by-event-type/16%2B20%2B17%2B19/day [72174] -> "../data/townSites2/Deerfield/www.deerfieldma.us/calendar-by-event-type/16+20+17+19/day.1" [1]
+2017-01-02 02:27:39 URL:http://www.deerfieldma.us/calendar-by-event-type/16%2B20%2B17%2B19/week [72599] -> "../data/townSites2/Deerfield/www.deerfieldma.us/calendar-by-event-type/16+20+17+19/week" [1]
+2017-01-02 02:27:41 URL:http://www.deerfieldma.us/calendar-by-event-type/16%2B20%2B17%2B19/year [175555] -> "../data/townSites2/Deerfield/www.deerfieldma.us/calendar-by-event-type/16+20+17+19/year" [1]
+2017-01-02 02:27:43 URL:http://www.deerfieldma.us/calendar-by-event-type/16%2B20%2B17%2B19/day/2017-01-01 [71853] -> "../data/townSites2/Deerfield/www.deerfieldma.us/calendar-by-event-type/16+20+17+19/day/2017-01-01" [1]
+2017-01-02 02:27:45 URL:http://www.deerfieldma.us/calendar-by-event-type/16%2B20%2B17%2B19/day/2017-01-03 [71842] -> "../data/townSites2/Deerfield/www.deerfieldma.us/calendar-by-event-type/16+20+17+19/day/2017-01-03" [1]
+2017-01-02 02:27:48 URL:http://www.deerfieldma.us/home/events/15193 [67886] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/15193" [1]
+2017-01-02 02:27:50 URL:http://www.deerfieldma.us/print/15193 [6373] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/15193" [1]
+2017-01-02 02:27:51 URL:http://www.deerfieldma.us/calendar-by-event-type/16%2B20%2B17%2B19/day/2017-01-04 [71856] -> "../data/townSites2/Deerfield/www.deerfieldma.us/calendar-by-event-type/16+20+17+19/day/2017-01-04" [1]
+2017-01-02 02:27:53 URL:http://www.deerfieldma.us/calendar-by-event-type/16%2B20%2B17%2B19/day/2017-01-06 [71821] -> "../data/townSites2/Deerfield/www.deerfieldma.us/calendar-by-event-type/16+20+17+19/day/2017-01-06" [1]
+2017-01-02 02:27:54 URL:http://www.deerfieldma.us/home/events/15163 [68066] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/15163" [1]
+2017-01-02 02:27:55 URL:http://www.deerfieldma.us/print/15163 [6549] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/15163" [1]
+2017-01-02 02:27:59 URL:http://www.deerfieldma.us/calendar-by-event-type/16%2B20%2B17%2B19/day/2017-01-10 [71831] -> "../data/townSites2/Deerfield/www.deerfieldma.us/calendar-by-event-type/16+20+17+19/day/2017-01-10" [1]
+2017-01-02 02:28:01 URL:http://www.deerfieldma.us/home/events/15173 [68056] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/15173" [1]
+2017-01-02 02:28:02 URL:http://www.deerfieldma.us/print/15173 [6551] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/15173" [1]
+2017-01-02 02:28:04 URL:http://www.deerfieldma.us/calendar-by-event-type/16%2B20%2B17%2B19/day/2017-01-13 [71822] -> "../data/townSites2/Deerfield/www.deerfieldma.us/calendar-by-event-type/16+20+17+19/day/2017-01-13" [1]
+2017-01-02 02:28:05 URL:http://www.deerfieldma.us/sewer-study-committee/events/15333 [69104] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/15333" [1]
+2017-01-02 02:28:06 URL:http://www.deerfieldma.us/print/15333 [7368] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/15333" [1]
+2017-01-02 02:28:07 URL:http://www.deerfieldma.us/calendar-by-event-type/16%2B20%2B17%2B19/day/2017-01-15 [71906] -> "../data/townSites2/Deerfield/www.deerfieldma.us/calendar-by-event-type/16+20+17+19/day/2017-01-15" [1]
+2017-01-02 02:28:09 URL:http://www.deerfieldma.us/calendar-by-event-type/16%2B20%2B17%2B19/day/2017-01-17 [71831] -> "../data/townSites2/Deerfield/www.deerfieldma.us/calendar-by-event-type/16+20+17+19/day/2017-01-17" [1]
+2017-01-02 02:28:10 URL:http://www.deerfieldma.us/home/events/15203 [67915] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/15203" [1]
+2017-01-02 02:28:12 URL:http://www.deerfieldma.us/print/15203 [6454] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/15203" [1]
+2017-01-02 02:28:14 URL:http://www.deerfieldma.us/calendar-by-event-type/16%2B20%2B17%2B19/day/2017-01-24 [71907] -> "../data/townSites2/Deerfield/www.deerfieldma.us/calendar-by-event-type/16+20+17+19/day/2017-01-24" [1]
+2017-01-02 02:28:15 URL:http://www.deerfieldma.us/calendar-by-event-type/16%2B20%2B17%2B19/day/2017-01-26 [71856] -> "../data/townSites2/Deerfield/www.deerfieldma.us/calendar-by-event-type/16+20+17+19/day/2017-01-26" [1]
+2017-01-02 02:28:17 URL:http://www.deerfieldma.us/capital-improvements-planning-committee/events/15413 [71572] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/15413" [1]
+2017-01-02 02:28:18 URL:http://www.deerfieldma.us/print/15413 [7197] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/15413" [1]
+2017-01-02 02:28:22 URL:http://www.deerfieldma.us/home/events/15183 [68048] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/15183" [1]
+2017-01-02 02:28:24 URL:http://www.deerfieldma.us/print/15183 [6551] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/15183" [1]
+2017-01-02 02:28:25 URL: http://www.deerfieldma.us/calendar-by-event-type/feed/16%2B20%2B17%2B19/2017-01 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:29 URL:http://www.deerfieldma.us/calendar-by-event-type/16%2B20%2B17%2B19/month/2016-12 [169418] -> "../data/townSites2/Deerfield/www.deerfieldma.us/calendar-by-event-type/16+20+17+19/month/2016-12" [1]
+2017-01-02 02:28:30 URL:http://www.deerfieldma.us/calendar-by-event-type/16%2B20%2B17%2B19/month/2017-02 [90048] -> "../data/townSites2/Deerfield/www.deerfieldma.us/calendar-by-event-type/16+20+17+19/month/2017-02" [1]
+2017-01-02 02:28:32 URL:http://www.deerfieldma.us/home/pages/employment-opportunities [68598] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/4233" [1]
+2017-01-02 02:28:33 URL:http://www.deerfieldma.us/print/4233 [7033] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/4233" [1]
+2017-01-02 02:28:34 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/deerfield_employment_application_rvsd_08-12-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:35 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/ta.job_.posting.ad_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:35 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/ta.pos_.desc_.01.2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:36 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/equipment_operator_job_posting.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:38 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/equipment_operator_job_description.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:39 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/scems_emt_advert_sept_2016_0.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:40 URL:http://www.deerfieldma.us/home/pages/local-regional-and-state-resources [68447] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/2433" [1]
+2017-01-02 02:28:41 URL:http://www.deerfieldma.us/print/2433 [6848] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/2433" [1]
+2017-01-02 02:28:42 URL:http://www.deerfieldma.us/home/pages/complete-streets [68318] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/4303" [1]
+2017-01-02 02:28:43 URL:http://www.deerfieldma.us/print/4303 [6671] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/4303" [1]
+2017-01-02 02:28:45 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/nn_deerfield_pavement_markings_map_11x17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:46 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/deerfield_charrette_photos_for_web.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:47 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/deerfield_final_for_web.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:48 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/deerfield_intro_for_web.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:49 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/draft_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:50 URL:http://www.deerfieldma.us/home/pages/emergency-services [69517] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/12763" [1]
+2017-01-02 02:28:51 URL:http://www.deerfieldma.us/print/12763 [7854] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/12763" [1]
+2017-01-02 02:28:53 URL:http://www.deerfieldma.us/bids/closed [66703] -> "../data/townSites2/Deerfield/www.deerfieldma.us/bids/closed" [1]
+2017-01-02 02:28:54 URL:http://www.deerfieldma.us/bids/all [66688] -> "../data/townSites2/Deerfield/www.deerfieldma.us/bids/all" [1]
+2017-01-02 02:28:55 URL:http://www.deerfieldma.us/home/pages/license-permit-applications [73881] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/632" [1]
+2017-01-02 02:28:56 URL:http://www.deerfieldma.us/print/632 [12288] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/632" [1]
+2017-01-02 02:28:57 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/commercial_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:58 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/demolition_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:59 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/driveway_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:00 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/electrical_permit_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:01 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/gas_permit_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:02 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/institutional_ep_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:03 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/plumbing_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:03 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/swimming_pool_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:04 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/shed_sign_fence.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:05 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/sheet_metal_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:06 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/wood_stove_checklist.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:08 URL:http://www.deerfieldma.us/home/pages/fee-schedules [68340] -> "../data/townSites2/Deerfield/www.deerfieldma.us/home/pages/fee-schedules" [1]
+2017-01-02 02:29:09 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/trench_permit_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:10 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/installers_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:11 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/tobacco_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:12 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/cv_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:12 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/mobile_fs_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:13 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/rec_camp_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:14 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/well_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:15 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/fs_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:16 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/offal_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:17 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/temp_food_app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:18 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/temp_food_craft_fair.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:18 URL: http://www.deerfieldma.us/sites/deerfieldma/files/uploads/liquor_license.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:21 URL:http://www.deerfieldma.us/webforms/contact-us [76752/76752] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/2" [1]
+2017-01-02 02:29:22 URL:http://www.deerfieldma.us/print/2 [15734/15734] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/2" [1]
+2017-01-02 02:29:23 URL:http://www.deerfieldma.us/home/pages/disclaimer-privacy-statement [71307] -> "../data/townSites2/Deerfield/www.deerfieldma.us/node/253" [1]
+2017-01-02 02:29:24 URL:http://www.deerfieldma.us/print/253 [9686] -> "../data/townSites2/Deerfield/www.deerfieldma.us/print/253" [1]
+Found 3 broken links.
+
+http://www.deerfieldma.us/recreation/pages/field-hockey
+http://www.deerfieldma.us/home/recreation/files/santas-workshop-2016
+http://www.deerfieldma.us/recreation/files/2016-summer-field-hockey-clinic-information
+
+FINISHED --2017-01-02 02:29:24--
+Total wall clock time: 24m 31s
+Downloaded: 598 files, 35M in 1m 54s (318 KB/s)

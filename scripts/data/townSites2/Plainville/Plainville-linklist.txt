@@ -1,0 +1,24 @@
+2017-01-02 00:49:15 URL:http://www.plainville.ma.us/ [1228] -> "../data/townSites2/Plainville/www.plainville.ma.us/index.html" [1]
+2017-01-02 00:49:16 URL:http://www.plainville.ma.us/Pages/index [29980] -> "../data/townSites2/Plainville/www.plainville.ma.us/Pages/index" [1]
+2017-01-02 00:49:18 URL:http://www.plainville.ma.us/Pages/PlainvilleMA_Webdocs/about [23169] -> "../data/townSites2/Plainville/www.plainville.ma.us/Pages/PlainvilleMA_Webdocs/about" [1]
+2017-01-02 00:49:19 URL:http://www.plainville.ma.us/Pages/PlainvilleMA_Webdocs/deptindex [29050] -> "../data/townSites2/Plainville/www.plainville.ma.us/Pages/PlainvilleMA_Webdocs/deptindex" [1]
+2017-01-02 00:49:19 URL:http://www.plainville.ma.us/Pages/PlainvilleMA_Webdocs/directions [21598] -> "../data/townSites2/Plainville/www.plainville.ma.us/Pages/PlainvilleMA_Webdocs/directions" [1]
+2017-01-02 00:49:20 URL:http://www.plainville.ma.us/Pages/PlainvilleMA_BComm/index [29129] -> "../data/townSites2/Plainville/www.plainville.ma.us/Pages/PlainvilleMA_BComm/index" [1]
+2017-01-02 00:49:22 URL:http://www.plainville.ma.us/Pages/PlainvilleMA_BComm/charter [32562] -> "../data/townSites2/Plainville/www.plainville.ma.us/Pages/PlainvilleMA_BComm/charter" [1]
+2017-01-02 00:49:23 URL:http://www.plainville.ma.us/Pages/PlainvilleMA_Webdocs/links [26423] -> "../data/townSites2/Plainville/www.plainville.ma.us/Pages/PlainvilleMA_Webdocs/links" [1]
+2017-01-02 00:49:24 URL:http://www.plainville.ma.us/Pages/PlainvilleMA_Clerk/meeting [50488] -> "../data/townSites2/Plainville/www.plainville.ma.us/Pages/PlainvilleMA_Clerk/meeting" [1]
+2017-01-02 00:49:25 URL:http://www.plainville.ma.us/Pages/PlainvilleMA_Webdocs/comments [29606] -> "../data/townSites2/Plainville/www.plainville.ma.us/Pages/PlainvilleMA_Webdocs/comments" [1]
+2017-01-02 00:49:26 URL:http://www.plainville.ma.us/subscriber [28878] -> "../data/townSites2/Plainville/www.plainville.ma.us/subscriber" [1]
+2017-01-02 00:49:33 URL:http://www.plainville.ma.us/Pages/PlainvilleMA_News/ [31810] -> "../data/townSites2/Plainville/www.plainville.ma.us/Pages/PlainvilleMA_News/index.html" [1]
+2017-01-02 00:49:35 URL:http://www.plainville.ma.us/Pages/PlainvilleMA_EmpOpps/ [23499] -> "../data/townSites2/Plainville/www.plainville.ma.us/Pages/PlainvilleMA_EmpOpps/index.html" [1]
+2017-01-02 00:49:36 URL:http://www.plainville.ma.us/Pages/penn/ [31115] -> "../data/townSites2/Plainville/www.plainville.ma.us/Pages/penn/index.html" [1]
+2017-01-02 00:49:36 URL: http://www.plainville.ma.us/Icons/0 200 OK
+unlink: No such file or directory
+2017-01-02 00:49:38 URL:http://www.plainville.ma.us/Pages/PlainvilleMA_WebDocs/moreabout [26556] -> "../data/townSites2/Plainville/www.plainville.ma.us/Pages/PlainvilleMA_WebDocs/moreabout" [1]
+2017-01-02 00:49:38 URL: http://www.plainville.ma.us/Pages/2016%20Presidential%20Election%20Information.docx 200 OK
+unlink: No such file or directory
+Found no broken links.
+
+FINISHED --2017-01-02 00:49:38--
+Total wall clock time: 24s
+Downloaded: 15 files, 405K in 9.0s (45.3 KB/s)

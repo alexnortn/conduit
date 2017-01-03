@@ -1,0 +1,1413 @@
+2017-01-02 01:06:29 URL:http://www.townofconway.com/ [69972] -> "../data/townSites2/Conway/www.townofconway.com/index.html" [1]
+2017-01-02 01:06:29 URL: http://www.townofconway.com/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/admin/xmlrpc.php:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:06:32 URL: http://www.townofconway.com/wp-json/ 200 OK
+unlink: No such file or directory
+2017-01-02 01:06:32 URL: http://www.townofconway.com/admin/wp-includes/wlwmanifest.xml 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:06:37 URL:http://www.townofconway.com/towncalendar/ [57564] -> "../data/townSites2/Conway/www.townofconway.com/towncalendar/index.html" [1]
+2017-01-02 01:06:37 URL:http://www.townofconway.com/subscribe/ [56366] -> "../data/townSites2/Conway/www.townofconway.com/subscribe/index.html" [1]
+2017-01-02 01:06:38 URL:http://www.townofconway.com/photos/ [64367] -> "../data/townSites2/Conway/www.townofconway.com/photos/index.html" [1]
+2017-01-02 01:06:39 URL:http://www.townofconway.com/cdn-cgi/l/email-protection [4217] -> "../data/townSites2/Conway/www.townofconway.com/cdn-cgi/l/email-protection" [1]
+2017-01-02 01:06:40 URL:http://www.townofconway.com/about/ [61089] -> "../data/townSites2/Conway/www.townofconway.com/about/index.html" [1]
+2017-01-02 01:06:40 URL:http://www.townofconway.com/towncalendar/reserve/ [69688] -> "../data/townSites2/Conway/www.townofconway.com/towncalendar/reserve/index.html" [1]
+2017-01-02 01:06:41 URL:http://www.townofconway.com/parks-recreation-trails-calendar/ [57053] -> "../data/townSites2/Conway/www.townofconway.com/parks-recreation-trails-calendar/index.html" [1]
+2017-01-02 01:06:42 URL:http://www.townofconway.com/parks-recreation-trails-calendar/reserve-parks-rec/ [58150] -> "../data/townSites2/Conway/www.townofconway.com/parks-recreation-trails-calendar/reserve-parks-rec/index.html" [1]
+2017-01-02 01:06:43 URL:http://www.townofconway.com/committees/ [59852] -> "../data/townSites2/Conway/www.townofconway.com/committees/index.html" [1]
+2017-01-02 01:06:44 URL:http://www.townofconway.com/committees/ad-hoc-committees/ [57075] -> "../data/townSites2/Conway/www.townofconway.com/committees/ad-hoc-committees/index.html" [1]
+2017-01-02 01:06:45 URL:http://www.townofconway.com/committees/ad-hoc-committees/250th-committee/ [58060] -> "../data/townSites2/Conway/www.townofconway.com/committees/ad-hoc-committees/250th-committee/index.html" [1]
+2017-01-02 01:06:45 URL:http://www.townofconway.com/committees/ad-hoc-committees/pipeline-task-force/ [62442] -> "../data/townSites2/Conway/www.townofconway.com/committees/ad-hoc-committees/pipeline-task-force/index.html" [1]
+2017-01-02 01:06:46 URL:http://www.townofconway.com/committees/ad-hoc-committees/town-park-ad-hoc-committee/ [58601] -> "../data/townSites2/Conway/www.townofconway.com/committees/ad-hoc-committees/town-park-ad-hoc-committee/index.html" [1]
+2017-01-02 01:06:47 URL:http://www.townofconway.com/committees/agricultural-commission/ [59210] -> "../data/townSites2/Conway/www.townofconway.com/committees/agricultural-commission/index.html" [1]
+2017-01-02 01:06:48 URL:http://www.townofconway.com/committees/agricultural-commission/minutes/ [57514] -> "../data/townSites2/Conway/www.townofconway.com/committees/agricultural-commission/minutes/index.html" [1]
+2017-01-02 01:06:51 URL:http://www.townofconway.com/committees/broadband-committee/ [58161] -> "../data/townSites2/Conway/www.townofconway.com/committees/broadband-committee/index.html" [1]
+2017-01-02 01:06:52 URL:http://www.townofconway.com/committees/capital-improvements-planning-committee/ [56857] -> "../data/townSites2/Conway/www.townofconway.com/committees/capital-improvements-planning-committee/index.html" [1]
+2017-01-02 01:06:54 URL:http://www.townofconway.com/committees/community-preservation/ [64437] -> "../data/townSites2/Conway/www.townofconway.com/committees/community-preservation/index.html" [1]
+2017-01-02 01:06:56 URL:http://www.townofconway.com/committees/conservation-commission/ [66591] -> "../data/townSites2/Conway/www.townofconway.com/committees/conservation-commission/index.html" [1]
+2017-01-02 01:06:58 URL:http://www.townofconway.com/committees/council-on-aging/ [59625] -> "../data/townSites2/Conway/www.townofconway.com/committees/council-on-aging/index.html" [1]
+2017-01-02 01:06:59 URL:http://www.townofconway.com/committees/cultural-council/ [59528] -> "../data/townSites2/Conway/www.townofconway.com/committees/cultural-council/index.html" [1]
+2017-01-02 01:07:01 URL:http://www.townofconway.com/committees/festival-of-the-hills/ [57114] -> "../data/townSites2/Conway/www.townofconway.com/committees/festival-of-the-hills/index.html" [1]
+2017-01-02 01:07:04 URL:http://www.townofconway.com/committees/finance-committee/ [64043] -> "../data/townSites2/Conway/www.townofconway.com/committees/finance-committee/index.html" [1]
+2017-01-02 01:07:05 URL:http://www.townofconway.com/committees/historical-commission/ [56863] -> "../data/townSites2/Conway/www.townofconway.com/committees/historical-commission/index.html" [1]
+2017-01-02 01:07:06 URL:http://www.townofconway.com/committees/housing-committee/ [57954] -> "../data/townSites2/Conway/www.townofconway.com/committees/housing-committee/index.html" [1]
+2017-01-02 01:07:07 URL:http://www.townofconway.com/committees/open-space-committee/ [59356] -> "../data/townSites2/Conway/www.townofconway.com/committees/open-space-committee/index.html" [1]
+2017-01-02 01:07:07 URL:http://www.townofconway.com/committees/parks-recreation/ [72882] -> "../data/townSites2/Conway/www.townofconway.com/committees/parks-recreation/index.html" [1]
+2017-01-02 01:07:10 URL:http://www.townofconway.com/committees/parks-recreation/parks-improvement-project/ [62827] -> "../data/townSites2/Conway/www.townofconway.com/committees/parks-recreation/parks-improvement-project/index.html" [1]
+2017-01-02 01:07:11 URL:http://www.townofconway.com/committees/personnel-committee/ [56737] -> "../data/townSites2/Conway/www.townofconway.com/committees/personnel-committee/index.html" [1]
+2017-01-02 01:07:12 URL:http://www.townofconway.com/committees/school-committee/ [57970] -> "../data/townSites2/Conway/www.townofconway.com/committees/school-committee/index.html" [1]
+2017-01-02 01:07:13 URL:http://www.townofconway.com/committees/wastewater-committee/ [67110] -> "../data/townSites2/Conway/www.townofconway.com/committees/wastewater-committee/index.html" [1]
+2017-01-02 01:07:14 URL:http://www.townofconway.com/conway-youth-sports/ [59420] -> "../data/townSites2/Conway/www.townofconway.com/conway-youth-sports/index.html" [1]
+2017-01-02 01:07:15 URL:http://www.townofconway.com/departments/ [56591] -> "../data/townSites2/Conway/www.townofconway.com/departments/index.html" [1]
+2017-01-02 01:07:15 URL:http://www.townofconway.com/departments/ambulance/ [59445] -> "../data/townSites2/Conway/www.townofconway.com/departments/ambulance/index.html" [1]
+2017-01-02 01:07:16 URL:http://www.townofconway.com/departments/assessors/ [61461] -> "../data/townSites2/Conway/www.townofconway.com/departments/assessors/index.html" [1]
+2017-01-02 01:07:16 URL:http://www.townofconway.com/departments/board-of-health/ [62796] -> "../data/townSites2/Conway/www.townofconway.com/departments/board-of-health/index.html" [1]
+2017-01-02 01:07:17 URL:http://www.townofconway.com/departments/board-of-health/fees/ [59880] -> "../data/townSites2/Conway/www.townofconway.com/departments/board-of-health/fees/index.html" [1]
+2017-01-02 01:07:20 URL:http://www.townofconway.com/departments/board-of-health/message-from-your-board-of-health/ [58103] -> "../data/townSites2/Conway/www.townofconway.com/departments/board-of-health/message-from-your-board-of-health/index.html" [1]
+2017-01-02 01:07:21 URL:http://www.townofconway.com/departments/board-of-health/perc-tests/ [61052] -> "../data/townSites2/Conway/www.townofconway.com/departments/board-of-health/perc-tests/index.html" [1]
+2017-01-02 01:07:24 URL:http://www.townofconway.com/departments/board-of-health/septic-systems/ [63386] -> "../data/townSites2/Conway/www.townofconway.com/departments/board-of-health/septic-systems/index.html" [1]
+2017-01-02 01:07:24 URL:http://www.townofconway.com/departments/board-of-health/title5/ [58571] -> "../data/townSites2/Conway/www.townofconway.com/departments/board-of-health/title5/index.html" [1]
+2017-01-02 01:07:25 URL:http://www.townofconway.com/departments/emergency-preparedness/ [69708] -> "../data/townSites2/Conway/www.townofconway.com/departments/emergency-preparedness/index.html" [1]
+2017-01-02 01:07:26 URL:http://www.townofconway.com/departments/highway-department/ [68219] -> "../data/townSites2/Conway/www.townofconway.com/departments/highway-department/index.html" [1]
+2017-01-02 01:07:30 URL:http://www.townofconway.com/departments/planning-board/ [61421] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/index.html" [1]
+2017-01-02 01:07:31 URL:http://www.townofconway.com/departments/planning-board/1969-2/ [57362] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/index.html" [1]
+2017-01-02 01:07:33 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2017/ [58344] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2017/index.html" [1]
+2017-01-02 01:07:37 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2016/ [60112] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2016/index.html" [1]
+2017-01-02 01:07:39 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2015/ [60797] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2015/index.html" [1]
+2017-01-02 01:07:40 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/ [61486] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/index.html" [1]
+2017-01-02 01:07:41 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2013/ [60321] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2013/index.html" [1]
+2017-01-02 01:07:42 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2012/ [57545] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2012/index.html" [1]
+2017-01-02 01:07:43 URL:http://www.townofconway.com/departments/planning-board/rose-field-planning/ [60158] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/rose-field-planning/index.html" [1]
+2017-01-02 01:07:44 URL:http://www.townofconway.com/departments/selectboard/ [62660] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/index.html" [1]
+2017-01-02 01:07:46 URL:http://www.townofconway.com/departments/selectboard/agendas/ [57503] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/agendas/index.html" [1]
+2017-01-02 01:07:47 URL:http://www.townofconway.com/departments/selectboard/agendas/fy-2017/ [59146] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/agendas/fy-2017/index.html" [1]
+2017-01-02 01:07:47 URL:http://www.townofconway.com/departments/selectboard/minutes/ [57496] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/index.html" [1]
+2017-01-02 01:07:50 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2017/ [59311] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2017/index.html" [1]
+2017-01-02 01:07:51 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2016/ [61607] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2016/index.html" [1]
+2017-01-02 01:07:52 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/ [63756] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/index.html" [1]
+2017-01-02 01:07:52 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/ [63572] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/index.html" [1]
+2017-01-02 01:07:53 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2013-minutes/ [63222] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2013-minutes/index.html" [1]
+2017-01-02 01:07:53 URL:http://www.townofconway.com/departments/selectboard/minutes/selectboard-minutes-fy2012/ [62934] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/selectboard-minutes-fy2012/index.html" [1]
+2017-01-02 01:07:56 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2011/ [63510] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2011/index.html" [1]
+2017-01-02 01:07:57 URL:http://www.townofconway.com/departments/selectboard/minutes/fy2010/ [62799] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy2010/index.html" [1]
+2017-01-02 01:07:57 URL:http://www.townofconway.com/departments/selectboard/minutes/fy2009/ [63159] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy2009/index.html" [1]
+2017-01-02 01:07:58 URL:http://www.townofconway.com/departments/selectboard/minutes/fy2008/ [62061] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy2008/index.html" [1]
+2017-01-02 01:07:59 URL:http://www.townofconway.com/departments/selectboard/minutes/fy2007/ [62202] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy2007/index.html" [1]
+2017-01-02 01:08:02 URL:http://www.townofconway.com/departments/town-clerk/ [64589] -> "../data/townSites2/Conway/www.townofconway.com/departments/town-clerk/index.html" [1]
+2017-01-02 01:08:06 URL:http://www.townofconway.com/departments/treasurer/ [60348] -> "../data/townSites2/Conway/www.townofconway.com/departments/treasurer/index.html" [1]
+2017-01-02 01:08:08 URL:http://www.townofconway.com/departments/zoning-board-of-appeals/ [57724] -> "../data/townSites2/Conway/www.townofconway.com/departments/zoning-board-of-appeals/index.html" [1]
+2017-01-02 01:08:09 URL:http://www.townofconway.com/contact/ [97964] -> "../data/townSites2/Conway/www.townofconway.com/contact/index.html" [1]
+2017-01-02 01:08:10 URL:http://www.townofconway.com/employment-volunteer/ [58873] -> "../data/townSites2/Conway/www.townofconway.com/employment-volunteer/index.html" [1]
+2017-01-02 01:08:15 URL:http://www.festivalofthehills.com/ [82247/82247] -> "../data/townSites2/Conway/www.townofconway.com/festival-of-the-hills/index.html" [1]
+2017-01-02 01:08:16 URL:http://www.townofconway.com/forms-downloads/ [61452] -> "../data/townSites2/Conway/www.townofconway.com/forms-downloads/index.html" [1]
+2017-01-02 01:08:17 URL:http://www.townofconway.com/httpashfield-orglinks/ [60317] -> "../data/townSites2/Conway/www.townofconway.com/httpashfield-orglinks/index.html" [1]
+2017-01-02 01:08:17 URL:http://www.townofconway.com/hours/ [60132] -> "../data/townSites2/Conway/www.townofconway.com/hours/index.html" [1]
+2017-01-02 01:08:21 URL:https://unipaygold.unibank.com/default.aspx [101065/101065] -> "../data/townSites2/Conway/www.townofconway.com/online-bill-pay/index.html" [1]
+2017-01-02 01:08:22 URL:http://www.townofconway.com/transfer-station/ [60323] -> "../data/townSites2/Conway/www.townofconway.com/transfer-station/index.html" [1]
+2017-01-02 01:08:23 URL:http://www.townofconway.com/transfer-station/recycling-guide/ [57084] -> "../data/townSites2/Conway/www.townofconway.com/transfer-station/recycling-guide/index.html" [1]
+2017-01-02 01:08:24 URL:http://www.townofconway.com/transfer-station/recycling-tips/ [56771] -> "../data/townSites2/Conway/www.townofconway.com/transfer-station/recycling-tips/index.html" [1]
+2017-01-02 01:08:25 URL:http://www.townofconway.com/ask-us/ [59917] -> "../data/townSites2/Conway/www.townofconway.com/ask-us/index.html" [1]
+2017-01-02 01:08:28 URL:http://www.townofconway.com/category/general-town-news/ [58460] -> "../data/townSites2/Conway/www.townofconway.com/category/general-town-news/index.html" [1]
+2017-01-02 01:08:28 URL:http://www.townofconway.com/2016/12/holiday-transfer-station-hours-closed-1225-and-11-open-1226-12/ [57458] -> "../data/townSites2/Conway/www.townofconway.com/2016/12/holiday-transfer-station-hours-closed-1225-and-11-open-1226-12/index.html" [1]
+2017-01-02 01:08:29 URL:http://www.townofconway.com/2016/12/riverbend-meadow-proposal-open-space-committee/ [57573] -> "../data/townSites2/Conway/www.townofconway.com/2016/12/riverbend-meadow-proposal-open-space-committee/index.html" [1]
+2017-01-02 01:08:29 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/12/South-River-Meadow-Abridged-Presentation-Renamed-12_13_16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:08:30 URL:http://www.townofconway.com/2016/12/right-to-farm-forum-wed-january-18/ [57385] -> "../data/townSites2/Conway/www.townofconway.com/2016/12/right-to-farm-forum-wed-january-18/index.html" [1]
+2017-01-02 01:08:30 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/12/RTFflyer-01-18-17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:08:31 URL:http://www.townofconway.com/category/highway-department/ [56081] -> "../data/townSites2/Conway/www.townofconway.com/category/highway-department/index.html" [1]
+2017-01-02 01:08:32 URL:http://www.townofconway.com/category/highway-department/job-opening/ [56467] -> "../data/townSites2/Conway/www.townofconway.com/category/highway-department/job-opening/index.html" [1]
+2017-01-02 01:08:32 URL:http://www.townofconway.com/2016/10/5022/ [57743] -> "../data/townSites2/Conway/www.townofconway.com/2016/10/5022/index.html" [1]
+2017-01-02 01:08:33 URL:http://www.townofconway.com/category/agricultural-commission/ [56190] -> "../data/townSites2/Conway/www.townofconway.com/category/agricultural-commission/index.html" [1]
+2017-01-02 01:08:34 URL:http://www.townofconway.com/category/concomm/ [56158] -> "../data/townSites2/Conway/www.townofconway.com/category/concomm/index.html" [1]
+2017-01-02 01:08:35 URL:http://www.townofconway.com/category/parks-recreation/ [56170] -> "../data/townSites2/Conway/www.townofconway.com/category/parks-recreation/index.html" [1]
+2017-01-02 01:08:35 URL:http://www.townofconway.com/category/selectboard/ [56105] -> "../data/townSites2/Conway/www.townofconway.com/category/selectboard/index.html" [1]
+2017-01-02 01:08:38 URL:http://www.townofconway.com/category/town-clerk/ [56098] -> "../data/townSites2/Conway/www.townofconway.com/category/town-clerk/index.html" [1]
+2017-01-02 01:08:39 URL:http://www.townofconway.com/category/zoning-board-of-appeals/ [56189] -> "../data/townSites2/Conway/www.townofconway.com/category/zoning-board-of-appeals/index.html" [1]
+2017-01-02 01:08:39 URL:http://www.townofconway.com/2016/10/the-town-of-conway-is-seeking-volunteers/ [60364] -> "../data/townSites2/Conway/www.townofconway.com/2016/10/the-town-of-conway-is-seeking-volunteers/index.html" [1]
+2017-01-02 01:08:40 URL:http://www.townofconway.com/2016/08/get-emergency-alerts-on-your-cell-phones/ [57567] -> "../data/townSites2/Conway/www.townofconway.com/2016/08/get-emergency-alerts-on-your-cell-phones/index.html" [1]
+2017-01-02 01:08:40 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/08/Press-release-on-cell-phone-warnings.docx 200 OK
+unlink: No such file or directory
+2017-01-02 01:08:41 URL:http://www.townofconway.com/category/board-of-health/ [56520] -> "../data/townSites2/Conway/www.townofconway.com/category/board-of-health/index.html" [1]
+2017-01-02 01:08:41 URL:http://www.townofconway.com/2016/06/transfer-station-announces-new-wednesday-hours/ [57461] -> "../data/townSites2/Conway/www.townofconway.com/2016/06/transfer-station-announces-new-wednesday-hours/index.html" [1]
+2017-01-02 01:08:43 URL:http://www.townofconway.com/category/fire-department/ [56090] -> "../data/townSites2/Conway/www.townofconway.com/category/fire-department/index.html" [1]
+2017-01-02 01:08:46 URL:http://www.townofconway.com/2016/06/do-you-want-to-be-a-firefighter/ [58286] -> "../data/townSites2/Conway/www.townofconway.com/2016/06/do-you-want-to-be-a-firefighter/index.html" [1]
+2017-01-02 01:08:47 URL:http://www.townofconway.com/2016/04/free-wellness-clinics-with-town-nurse/ [58585] -> "../data/townSites2/Conway/www.townofconway.com/2016/04/free-wellness-clinics-with-town-nurse/index.html" [1]
+2017-01-02 01:08:48 URL:http://www.townofconway.com/2016/02/recycle-your-cell-phones-and-batteries-heres-how/ [58049] -> "../data/townSites2/Conway/www.townofconway.com/2016/02/recycle-your-cell-phones-and-batteries-heres-how/index.html" [1]
+2017-01-02 01:08:48 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/02/All-town-BATTERY-graphic-2014-events.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:08:48 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/02/FCSWMD.02.22.16.town-newsletters.doc 200 OK
+unlink: No such file or directory
+2017-01-02 01:08:49 URL:http://www.townofconway.com/page/2/ [70055] -> "../data/townSites2/Conway/www.townofconway.com/page/2/index.html" [1]
+2017-01-02 01:08:50 URL:http://www.townofconway.com/2016/12/ [56697] -> "../data/townSites2/Conway/www.townofconway.com/2016/12/index.html" [1]
+2017-01-02 01:08:50 URL:http://www.townofconway.com/2016/10/ [56359] -> "../data/townSites2/Conway/www.townofconway.com/2016/10/index.html" [1]
+2017-01-02 01:08:51 URL:http://www.townofconway.com/2016/08/ [56137] -> "../data/townSites2/Conway/www.townofconway.com/2016/08/index.html" [1]
+2017-01-02 01:08:52 URL:http://www.townofconway.com/2016/06/ [56334] -> "../data/townSites2/Conway/www.townofconway.com/2016/06/index.html" [1]
+2017-01-02 01:08:52 URL:http://www.townofconway.com/2016/04/ [56123] -> "../data/townSites2/Conway/www.townofconway.com/2016/04/index.html" [1]
+2017-01-02 01:08:53 URL:http://www.townofconway.com/2016/02/ [56406] -> "../data/townSites2/Conway/www.townofconway.com/2016/02/index.html" [1]
+2017-01-02 01:08:54 URL:http://www.townofconway.com/2016/01/ [56161] -> "../data/townSites2/Conway/www.townofconway.com/2016/01/index.html" [1]
+2017-01-02 01:08:56 URL:http://www.townofconway.com/2015/11/ [56174] -> "../data/townSites2/Conway/www.townofconway.com/2015/11/index.html" [1]
+2017-01-02 01:08:57 URL:http://www.townofconway.com/2015/09/ [56417] -> "../data/townSites2/Conway/www.townofconway.com/2015/09/index.html" [1]
+2017-01-02 01:08:58 URL:http://www.townofconway.com/2015/06/ [56085] -> "../data/townSites2/Conway/www.townofconway.com/2015/06/index.html" [1]
+2017-01-02 01:08:59 URL:http://www.townofconway.com/2015/04/ [56695] -> "../data/townSites2/Conway/www.townofconway.com/2015/04/index.html" [1]
+2017-01-02 01:08:59 URL:http://www.townofconway.com/2015/02/ [56136] -> "../data/townSites2/Conway/www.townofconway.com/2015/02/index.html" [1]
+2017-01-02 01:09:00 URL:http://www.townofconway.com/2015/01/ [56129] -> "../data/townSites2/Conway/www.townofconway.com/2015/01/index.html" [1]
+2017-01-02 01:09:01 URL:http://www.townofconway.com/category/ambulance/ [56058] -> "../data/townSites2/Conway/www.townofconway.com/category/ambulance/index.html" [1]
+2017-01-02 01:09:01 URL:http://www.townofconway.com/category/board-of-assessors/ [56158] -> "../data/townSites2/Conway/www.townofconway.com/category/board-of-assessors/index.html" [1]
+2017-01-02 01:09:02 URL:http://www.townofconway.com/category/council-on-aging/ [56148] -> "../data/townSites2/Conway/www.townofconway.com/category/council-on-aging/index.html" [1]
+2017-01-02 01:09:05 URL:http://www.townofconway.com/category/uncategorized/ [56109] -> "../data/townSites2/Conway/www.townofconway.com/category/uncategorized/index.html" [1]
+2017-01-02 01:09:07 URL:http://www.townofconway.com/admin/wp-login.php [3344] -> "../data/townSites2/Conway/www.townofconway.com/admin/wp-login.php" [1]
+2017-01-02 01:09:08 URL:http://www.townofconway.com/calendar/setup/index.php [2043] -> "../data/townSites2/Conway/www.townofconway.com/calendar/setup/index.php" [1]
+http://www.townofconway.com/towncalendar/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:09:12 URL:http://www.townofconway.com/towncalendar/reserve/ [69688] -> "../data/townSites2/Conway/www.townofconway.com/towncalendar/towncalendar/reserve" [1]
+2017-01-02 01:09:12 URL:http://www.townofconway.com/calendar/cal.php [2245] -> "../data/townSites2/Conway/www.townofconway.com/calendar/cal.php" [1]
+http://www.townofconway.com/subscribe/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/photos/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:09:15 URL: http://www.townofconway.com/admin/wp-content/uploads/2010/01/shoot_ii-5.jpeg 200 OK
+unlink: No such file or directory
+2017-01-02 01:09:15 URL: http://www.townofconway.com/admin/wp-content/uploads/2010/01/conway-1.jpeg 200 OK
+unlink: No such file or directory
+2017-01-02 01:09:16 URL: http://www.townofconway.com/admin/wp-content/uploads/2010/01/shoot_ii-9.jpeg 200 OK
+unlink: No such file or directory
+2017-01-02 01:09:16 URL: http://www.townofconway.com/admin/wp-content/uploads/2010/01/shoot_ii-2.jpeg 200 OK
+unlink: No such file or directory
+2017-01-02 01:09:16 URL: http://www.townofconway.com/admin/wp-content/uploads/2010/01/shoot_ii-7.jpeg 200 OK
+unlink: No such file or directory
+2017-01-02 01:09:17 URL: http://www.townofconway.com/admin/wp-content/uploads/2010/01/conway-14.jpeg 200 OK
+unlink: No such file or directory
+2017-01-02 01:09:17 URL: http://www.townofconway.com/admin/wp-content/uploads/2010/01/conway-13.jpeg 200 OK
+unlink: No such file or directory
+2017-01-02 01:09:17 URL: http://www.townofconway.com/admin/wp-content/uploads/2010/01/shoot_ii-8.jpeg 200 OK
+unlink: No such file or directory
+2017-01-02 01:09:18 URL: http://www.townofconway.com/admin/wp-content/uploads/2010/01/conway-12.jpeg 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/about/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:09:19 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Conway-FAQs.pdf 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/towncalendar/reserve/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:09:21 URL:http://www.townofconway.com/towncalendar/reserve/town-hall-use-rates-4/ [57135] -> "../data/townSites2/Conway/www.townofconway.com/towncalendar/reserve/town-hall-use-rates-4/index.html" [1]
+2017-01-02 01:09:21 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Meeting-Notice-form.pdf 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/parks-recreation-trails-calendar/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/parks-recreation-trails-calendar/reserve-parks-rec/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/committees/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:09:25 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Guide-for-Town-Appointees-and-Elected-Officials-10-22-15.pdf 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/committees/ad-hoc-committees/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/committees/ad-hoc-committees/250th-committee/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:09:28 URL:http://www.townofconway.com/committees/ad-hoc-committees/250th-committee/information-for-the-2017-conway-town-history-and-the-new-genealogy-website/ [57928] -> "../data/townSites2/Conway/www.townofconway.com/committees/ad-hoc-committees/250th-committee/information-for-the-2017-conway-town-history-and-the-new-genealogy-website/index.html" [1]
+http://www.townofconway.com/committees/ad-hoc-committees/pipeline-task-force/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:09:29 URL: http://www.townofconway.com/admin/wp-content/uploads/2014/11/NED-proposed-Main-Line-Valve-Location-Conway_Shelburne-Falls-Road.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:09:30 URL: http://www.townofconway.com/admin/wp-content/uploads/2014/11/Proposed-NED-Horizontal-Directional-Drilling-plan-for-Conway.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:09:30 URL: http://www.townofconway.com/admin/wp-content/uploads/2014/11/Proposed-Path-of-Pipeline-Through-Conway-submitted-by-Kinder-Morgan-Nov-20-2015-color.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:09:30 URL: http://www.townofconway.com/admin/wp-content/uploads/2014/11/Proposed-Path-of-Pipeline-Through-Conway-submitted-by-Kinder-Morgan-Nov-20-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:09:31 URL: http://www.townofconway.com/admin/wp-content/uploads/2014/11/FRCOG-Scoping-Comments-Information-Study-Requests-Final-9-23-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:09:31 URL: http://www.townofconway.com/admin/wp-content/uploads/2014/11/Conway-Ad-Hoc-Pipeline-Task-Force-FERC-submission-September-9-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:09:34 URL:http://www.townofconway.com/committees/ad-hoc-committees/pipeline-task-force/conway-ad-hoc-pipeline-task-force-submission-to-ma-efsb_august-12-2015_scan/ [57953] -> "../data/townSites2/Conway/www.townofconway.com/committees/ad-hoc-committees/pipeline-task-force/conway-ad-hoc-pipeline-task-force-submission-to-ma-efsb_august-12-2015_scan/index.html" [1]
+2017-01-02 01:09:35 URL:http://www.townofconway.com/committees/ad-hoc-committees/pipeline-task-force/conway-biomap2/ [57526] -> "../data/townSites2/Conway/www.townofconway.com/committees/ad-hoc-committees/pipeline-task-force/conway-biomap2/index.html" [1]
+2017-01-02 01:09:36 URL:http://www.townofconway.com/committees/ad-hoc-committees/pipeline-task-force/ferc-letter-july-30-2015-with-attachment-conway-concomm/ [57817] -> "../data/townSites2/Conway/www.townofconway.com/committees/ad-hoc-committees/pipeline-task-force/ferc-letter-july-30-2015-with-attachment-conway-concomm/index.html" [1]
+2017-01-02 01:09:37 URL:http://www.townofconway.com/committees/ad-hoc-committees/pipeline-task-force/pipeline-safety-trust-landowners-guide-to-pipelines-2014/ [57821] -> "../data/townSites2/Conway/www.townofconway.com/committees/ad-hoc-committees/pipeline-task-force/pipeline-safety-trust-landowners-guide-to-pipelines-2014/index.html" [1]
+2017-01-02 01:09:37 URL:http://www.townofconway.com/committees/ad-hoc-committees/pipeline-task-force/ferc-manual-by-carolyn-elefant-2010/ [57670] -> "../data/townSites2/Conway/www.townofconway.com/committees/ad-hoc-committees/pipeline-task-force/ferc-manual-by-carolyn-elefant-2010/index.html" [1]
+http://www.townofconway.com/committees/ad-hoc-committees/town-park-ad-hoc-committee/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:09:41 URL:http://www.townofconway.com/town-park-task-force-design-plan-draft-9-8-14/ [56563] -> "../data/townSites2/Conway/www.townofconway.com/2014/09/proposal-for-the-creation-of-the-conway-town-park/town-park-task-force-design-plan-draft-9-8-14/index.html" [1]
+http://www.townofconway.com/committees/agricultural-commission/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/committees/agricultural-commission/minutes/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:09:43 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/10/Ag-Comm-Minutes-8-13-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:09:43 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/10/Ag-Comm-Minutes-7-9-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:09:44 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/10/Ag-Comm-Minutes-6-17-15.pdf 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/committees/broadband-committee/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/committees/capital-improvements-planning-committee/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:09:47 URL: http://www.townofconway.com/committees/community-preservation/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/committees/community-preservation/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:09:49 URL:http://www.townofconway.com/committees/community-preservation/fact-sheet-2014/ [57151] -> "../data/townSites2/Conway/www.townofconway.com/committees/community-preservation/fact-sheet-2014/index.html" [1]
+2017-01-02 01:09:49 URL:http://www.townofconway.com/committees/community-preservation/cpc-minutes-pg1-11-5-12/ [57210] -> "../data/townSites2/Conway/www.townofconway.com/committees/community-preservation/cpc-minutes-pg1-11-5-12/index.html" [1]
+2017-01-02 01:09:50 URL:http://www.townofconway.com/committees/community-preservation/cpc-minutes-pg2-11-5-12/ [57211] -> "../data/townSites2/Conway/www.townofconway.com/committees/community-preservation/cpc-minutes-pg2-11-5-12/index.html" [1]
+2017-01-02 01:09:51 URL:http://www.townofconway.com/committees/community-preservation/cpc-minutes-pg1-10-3-12/ [57211] -> "../data/townSites2/Conway/www.townofconway.com/committees/community-preservation/cpc-minutes-pg1-10-3-12/index.html" [1]
+2017-01-02 01:09:51 URL: http://www.townofconway.com/committees/conservation-commission/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/committees/conservation-commission/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:09:53 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/MA-Wetlands-Protection-Act-Brochure.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:09:53 URL: http://www.townofconway.com/committees/council-on-aging/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/committees/council-on-aging/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:09:54 URL:http://www.townofconway.com/2015/04/home-modification-loans-are-available-to-conway-residents/ [57899] -> "../data/townSites2/Conway/www.townofconway.com/2015/04/home-modification-loans-are-available-to-conway-residents/index.html" [1]
+http://www.townofconway.com/committees/cultural-council/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/committees/festival-of-the-hills/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:09:57 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/01/Conway-Festival-of-the-Hills-Scholarship-Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:09:58 URL: http://www.townofconway.com/committees/finance-committee/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/committees/finance-committee/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:09:59 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Fin-Com-Minutes-Approved.2016.03.14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:00 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Fin-Com-Minutes-Approved.2016.02.29.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:00 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/2016-02-22-Fin-Com-Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:01 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/2016-01-11-Fin-Com-Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:01 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/2015-12-07-Fin-Com-Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:01 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/2014-03-31-Fin-Com-Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:02 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/2014-02-24-Fin-Com-Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:02 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/2014-02-18-Fin-Com-Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:02 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/2013-11-11-Fin-Com-Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:03 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/2013-10-28-Fin-Com-Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:03 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/2013-09-12-Fin-Com-Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:04 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Fin-Com-Minutes.2013.04.25.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:04 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Fin-Com-Minutes.2013.04.22.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:04 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Fin-Com-Minutes.2013.04.08.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:04 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Fin-Com-Minutes.2013.04.01.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:05 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Fin-Com-Minutes.2013.03.25.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:05 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Fin-Com-Minutes.2013.03.18.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:05 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Fin-Com-Minutes.2013.03.11.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:06 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Fin-Com-Minutes.2013.03.04.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:06 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Fin-Com-Minutes.2013.02.25.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:07 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Fin-Com-Minutes.2013.02.11.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:07 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Fin-Com-Minutes.2013.02.04.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:07 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Fin-Com-Minutes.2013.01.07.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:07 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Fin-Com-Minutes-2012-12-10.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:08 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Fin-Com-Minutes-2012-11-12.pdf 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/committees/historical-commission/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/committees/housing-committee/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:10:10 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/05/Senior-Housing-Detail-Plan-for-6-7-16.pdf 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/committees/open-space-committee/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:10:12 URL:http://www.townofconway.com/committees/open-space-committee/conway-osrp-2013-final-compiled/ [57237] -> "../data/townSites2/Conway/www.townofconway.com/committees/open-space-committee/conway-osrp-2013-final-compiled/index.html" [1]
+2017-01-02 01:10:13 URL: http://www.townofconway.com/committees/parks-recreation/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/committees/parks-recreation/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:10:15 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Conway_Historic_Trails.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:15 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/CGSTrail-pdf.pdf 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/committees/parks-recreation/parks-improvement-project/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:10:16 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/04/ParkConstructionSchedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:17 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/04/ConwayFieldPlansFinal.pdf 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/committees/personnel-committee/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/committees/school-committee/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/committees/wastewater-committee/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:10:20 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/04/Conway-Wastewater-Feasibility-Report04282016-May-2016.pdf 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/conway-youth-sports/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:10:22 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/07/2016-Full-Form-basketball.pdf 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/departments/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/departments/ambulance/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:10:25 URL: http://www.townofconway.com/departments/assessors/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/departments/assessors/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:10:27 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/GIS-website-instructions-.doc 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:27 URL:http://www.townofconway.com/departments/assessors/re-tax-faqs-2/ [57158] -> "../data/townSites2/Conway/www.townofconway.com/departments/assessors/re-tax-faqs-2/index.html" [1]
+2017-01-02 01:10:27 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/History-of-Tax-Rates-in-Conway-by-Fiscal-Year-1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:28 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Local-Tax-Rate-Comparison.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:28 URL:http://www.townofconway.com/departments/assessors/fy14-tax-rates_10-year-change_rev-2/ [57403] -> "../data/townSites2/Conway/www.townofconway.com/departments/assessors/fy14-tax-rates_10-year-change_rev-2/index.html" [1]
+2017-01-02 01:10:29 URL:http://www.townofconway.com/departments/assessors/a-proposition-2-1-2-primer/ [57195] -> "../data/townSites2/Conway/www.townofconway.com/departments/assessors/a-proposition-2-1-2-primer/index.html" [1]
+2017-01-02 01:10:32 URL:http://www.townofconway.com/departments/assessors/senior-exemption-information-sheet/ [57279] -> "../data/townSites2/Conway/www.townofconway.com/departments/assessors/senior-exemption-information-sheet/index.html" [1]
+2017-01-02 01:10:33 URL:http://www.townofconway.com/departments/assessors/senior-exemption-application/ [57211] -> "../data/townSites2/Conway/www.townofconway.com/departments/assessors/senior-exemption-application/index.html" [1]
+2017-01-02 01:10:33 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Ch-61A61B-form-2_09-25-13.xls 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:35 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/How-to-Apply-for-Abatement.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:35 URL: http://www.townofconway.com/departments/board-of-health/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/departments/board-of-health/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:10:37 URL:http://www.townofconway.com/2015/06/avoid-food-poisoning/ [57450] -> "../data/townSites2/Conway/www.townofconway.com/2015/06/avoid-food-poisoning/index.html" [1]
+http://www.townofconway.com/departments/board-of-health/fees/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/departments/board-of-health/message-from-your-board-of-health/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/departments/board-of-health/perc-tests/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/departments/board-of-health/septic-systems/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/departments/board-of-health/title5/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:10:45 URL: http://www.townofconway.com/departments/emergency-preparedness/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/departments/emergency-preparedness/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:10:47 URL: http://www.townofconway.com/departments/highway-department/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/departments/highway-department/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:10:50 URL: http://www.townofconway.com/departments/planning-board/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/departments/planning-board/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:10:51 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/specialpermitAppl.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:52 URL:http://www.townofconway.com/departments/planning-board/riverbend-park-proposal/ [57183] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/riverbend-park-proposal/index.html" [1]
+2017-01-02 01:10:52 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Conway-Zoning-Map-11_07_13.pdf 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/departments/planning-board/1969-2/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/departments/planning-board/1969-2/fy-2017/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:10:55 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/08/Minutes-PB-12-1-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:55 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/08/Minutes-PB-11-3-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:55 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/08/Minutes-PB-10-6-16-corrected.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:56 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/08/Minutes-PB-9-15-2016-1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:56 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/08/PB-9-1-2016-minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:56 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/08/Minutes-PB-8-18-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:57 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/08/Minutes-PB-7-21-2016.pdf 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/departments/planning-board/1969-2/fy-2016/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:10:59 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/08/Minutes-PB-6-16-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:59 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/08/Minutes-PB-5-19-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:10:59 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/08/Minutes-PB-5-5-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:11:00 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/08/Minutes-PB-4-21-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:11:00 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/08/Minutes-PB-4-7-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:11:01 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/08/Minutes-PB-3-17-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:11:01 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/08/Minutes-PB-3-3-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:11:02 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/08/Minutes-PB-2-18-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:11:02 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/08/Minutes-PB-2-4-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:11:02 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/08/Minutes-PB-1-28-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:11:03 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/08/Minutes-PB-1-21-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:11:03 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/08/Minutes-PB-1-7-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:11:04 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/08/Minutes-PB-12-17-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:11:04 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/08/Minutes-PB-12-3-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:11:05 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/08/Minutes-PB-11-5-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:11:05 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/08/Minutes-PB-10-15-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:11:05 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/08/Minutes-PB-10-1-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:11:05 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/08/Minutes-PB-9-17-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:11:06 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/08/Minutes-PB-9-3-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:11:06 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/08/Minutes-PB-8-20-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:11:07 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/08/Minutes-PB-7-23-15.pdf 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/departments/planning-board/1969-2/fy-2015/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:11:11 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-6-29-15/ [57872] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-6-29-15/index.html" [1]
+2017-01-02 01:11:11 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-6-18-15/ [57872] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-6-18-15/index.html" [1]
+2017-01-02 01:11:12 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-5-21-15/ [57872] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-5-21-15/index.html" [1]
+2017-01-02 01:11:15 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-5-7-15/ [57863] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-5-7-15/index.html" [1]
+2017-01-02 01:11:16 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-4-16-15/ [57870] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-4-16-15/index.html" [1]
+2017-01-02 01:11:19 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-4-2-15/ [57866] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-4-2-15/index.html" [1]
+2017-01-02 01:11:22 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-3-19-15/ [57872] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-3-19-15/index.html" [1]
+2017-01-02 01:11:25 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-public-hearing-3-19-15/ [57976] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-public-hearing-3-19-15/index.html" [1]
+2017-01-02 01:11:28 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-3-5-15/ [57866] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-3-5-15/index.html" [1]
+2017-01-02 01:11:29 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-2-19-15/ [57873] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-2-19-15/index.html" [1]
+2017-01-02 01:11:33 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-1-29-15/ [57876] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-1-29-15/index.html" [1]
+2017-01-02 01:11:34 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-1-15-15/ [57875] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-1-15-15/index.html" [1]
+2017-01-02 01:11:38 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-12-18-14/ [57882] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-12-18-14/index.html" [1]
+2017-01-02 01:11:38 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-12-4-14/ [57876] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-12-4-14/index.html" [1]
+2017-01-02 01:11:39 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-11-19-14/ [57883] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-11-19-14/index.html" [1]
+2017-01-02 01:11:43 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-11-6-14/ [57876] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-11-6-14/index.html" [1]
+2017-01-02 01:11:46 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-10-16-14/ [57883] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-10-16-14/index.html" [1]
+2017-01-02 01:11:49 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-10-2-14/ [57875] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-10-2-14/index.html" [1]
+2017-01-02 01:11:52 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-9-18-14/ [57874] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-9-18-14/index.html" [1]
+2017-01-02 01:11:53 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-8-21-14/ [57877] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-8-21-14/index.html" [1]
+2017-01-02 01:11:56 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-7-17-14-2/ [57881] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2015/minutes-pb-7-17-14-2/index.html" [1]
+http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:11:59 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-6-5-14/ [57865] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-6-5-14/index.html" [1]
+2017-01-02 01:12:00 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-6-2-14-joint-with-bos/ [57969] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-6-2-14-joint-with-bos/index.html" [1]
+2017-01-02 01:12:01 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-5-15-14/ [57872] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-5-15-14/index.html" [1]
+2017-01-02 01:12:02 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-5-7-14/ [57864] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-5-7-14/index.html" [1]
+2017-01-02 01:12:06 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-4-17-14/ [57870] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-4-17-14/index.html" [1]
+2017-01-02 01:12:07 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-4-10-14-special-mtg/ [57954] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-4-10-14-special-mtg/index.html" [1]
+2017-01-02 01:12:08 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-4-3-14/ [57866] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-4-3-14/index.html" [1]
+2017-01-02 01:12:09 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-3-20-14-regular-mtg/ [57956] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-3-20-14-regular-mtg/index.html" [1]
+2017-01-02 01:12:10 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-3-20-14-special-mtg/ [57956] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-3-20-14-special-mtg/index.html" [1]
+2017-01-02 01:12:10 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-3-6-14/ [57865] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-3-6-14/index.html" [1]
+2017-01-02 01:12:11 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-2-27-2014-zoning-hearing/ [57993] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-2-27-2014-zoning-hearing/index.html" [1]
+2017-01-02 01:12:12 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-2-20-14/ [57873] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-2-20-14/index.html" [1]
+2017-01-02 01:12:13 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-2-6-14/ [57869] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-2-6-14/index.html" [1]
+2017-01-02 01:12:14 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-1-16-14/ [57876] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-1-16-14/index.html" [1]
+2017-01-02 01:12:15 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-12-19-13/ [57883] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-12-19-13/index.html" [1]
+2017-01-02 01:12:15 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-11-21-13/ [57883] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-11-21-13/index.html" [1]
+2017-01-02 01:12:16 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-11-7-13/ [57876] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-11-7-13/index.html" [1]
+2017-01-02 01:12:17 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-10-17-13/ [57883] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-10-17-13/index.html" [1]
+2017-01-02 01:12:18 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-10-3-13/ [57876] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-10-3-13/index.html" [1]
+2017-01-02 01:12:18 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-9-19-13/ [57875] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-9-19-13/index.html" [1]
+2017-01-02 01:12:19 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-9-5-13/ [57869] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-9-5-13/index.html" [1]
+2017-01-02 01:12:20 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-8-15-2013/ [57890] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-8-15-2013/index.html" [1]
+2017-01-02 01:12:20 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-7-18-13/ [57876] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-7-18-13/index.html" [1]
+http://www.townofconway.com/departments/planning-board/1969-2/fy-2013/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:12:22 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-6-6-13/ [57869] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-6-6-13/index.html" [1]
+2017-01-02 01:12:23 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-5-23-13/ [57876] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-5-23-13/index.html" [1]
+2017-01-02 01:12:24 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-5-2-13/ [57869] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-5-2-13/index.html" [1]
+2017-01-02 01:12:25 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-4-18-13/ [57876] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-4-18-13/index.html" [1]
+2017-01-02 01:12:26 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2013/minutes-pb-4-4-13/ [57869] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2013/minutes-pb-4-4-13/index.html" [1]
+2017-01-02 01:12:28 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2013/minutes-pb-3-21-13/ [57876] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2013/minutes-pb-3-21-13/index.html" [1]
+2017-01-02 01:12:30 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-3-5-13-2/ [57891] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-3-5-13-2/index.html" [1]
+2017-01-02 01:12:31 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-2-21-13/ [57876] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-2-21-13/index.html" [1]
+2017-01-02 01:12:31 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-2-7-13/ [57871] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-2-7-13/index.html" [1]
+2017-01-02 01:12:34 URL:http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-1-3-2013/ [57883] -> "../data/townSites2/Conway/www.townofconway.com/departments/planning-board/1969-2/fy-2014/minutes-pb-1-3-2013/index.html" [1]
+2017-01-02 01:12:34 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/11/Mins-PB-meeting-12-20.pdf 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/departments/planning-board/1969-2/fy-2012/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/departments/planning-board/rose-field-planning/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:12:37 URL: http://www.townofconway.com/admin/wp-content/uploads/2014/04/Compiled-plans.docx 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:38 URL: http://www.townofconway.com/admin/wp-content/uploads/2014/04/01-Conway-SiteAnalysis-Pg1-5.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:38 URL: http://www.townofconway.com/admin/wp-content/uploads/2014/04/01-Conway-SiteAnalysis-Pg6-10.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:38 URL: http://www.townofconway.com/admin/wp-content/uploads/2014/04/02-Conway-Use-Overlays.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:39 URL: http://www.townofconway.com/admin/wp-content/uploads/2014/04/06-Conway-Final-Concept-for-CPA-Combined-Boards-11x17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:39 URL: http://www.townofconway.com/admin/wp-content/uploads/2014/04/Downtown.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:40 URL: http://www.townofconway.com/admin/wp-content/uploads/2014/04/ShelburneFallsRd.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:40 URL: http://www.townofconway.com/admin/wp-content/uploads/2014/04/ROSE-FIELD-CONCEPTUAL-PLAN.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:41 URL: http://www.townofconway.com/admin/wp-content/uploads/2014/04/FRCOG-Handout-3-13-14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:41 URL: http://www.townofconway.com/admin/wp-content/uploads/2014/04/Rose_wetlands_TNCONTOPO2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:42 URL: http://www.townofconway.com/admin/wp-content/uploads/2014/04/RoseFieldTaxMap.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:42 URL: http://www.townofconway.com/departments/selectboard/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/departments/selectboard/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:12:44 URL:http://www.townofconway.com/departments/selectboard/location-for-ball-field-unit/ [57163] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/location-for-ball-field-unit/index.html" [1]
+2017-01-02 01:12:45 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/MacDonald-Resigns-Again.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:46 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Letter-Headlines-Forcier-20131025-Merged.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:46 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/MacDonald-Resolution.pdf 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/departments/selectboard/agendas/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/departments/selectboard/agendas/fy-2017/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:12:49 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/09/SB-Agenda-12-28-16.docx 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:49 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/09/agenda-12-19-16.docx 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:50 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/09/SB-Agenda-12-12-16.docx 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:50 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/09/SB-Agenda-12-05-16.docx 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:50 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/09/SB-Agenda-11-28-16.docx 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:50 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/09/SB-Agenda-11-21-16.docx 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:51 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/09/SB-Agenda-11-14-16.docx 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:51 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/09/SB-Agenda-10-31-16.docx 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:52 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/09/SB-agenda-10-24-16.docx 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:52 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/09/SB-Agenda-10-17-16.docx 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:52 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/09/SB-agenda-10-03-16-1.docx 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:53 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/09/Agenda-09-26-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:54 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/09/SB-Agenda-09-19-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:54 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/09/agenda-09-06-16.pdf 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/departments/selectboard/minutes/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/departments/selectboard/minutes/fy-2017/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:12:57 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/08/SB-minutes-12-19-16-DRAFT.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:57 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/08/SB-minutes-12-05-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:58 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/08/SB-minutes-12-12-16-.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:58 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/08/SB-Minutes-11-28-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:59 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/08/FY17-All-Committee-Mtg-10-24-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:59 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/08/SB-minutes-10-17-16-1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:59 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/08/SB-Minutes-10-03-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:12:59 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/08/SB-Minutes-09-26-16-.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:00 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/08/SB-Minutes-09-19-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:01 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/08/SB-Minutes-09-06-16-DRAFT_rev.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:01 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/08/SB-Minutes-08-22-16-DRAFT_rev.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:02 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/08/SB-Minutes-08-08-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:02 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/08/SB-Minutes-07-25-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:02 URL: http://www.townofconway.com/admin/wp-content/uploads/2016/08/SB-Minutes-07-11-16.pdf 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/departments/selectboard/minutes/fy-2016/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:13:04 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-06-27-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:04 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-06-13-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:05 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-05-31-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:05 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-05-16-16..pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:05 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-05-09-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:06 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-05-06-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:06 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-05-02-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:06 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-04-19-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:07 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-04-04-16-1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:07 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-03-28-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:07 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-03-21-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:08 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-03-07-16..pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:08 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-02-29-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:09 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-02-22-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:09 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-02-16-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:09 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-02-08-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:10 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-02-01-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:10 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-01-25-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:10 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-01-11-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:11 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-12-28-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:11 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-12-14-15..pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:11 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-11-30-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:12 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-11-16-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:12 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-11-02-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:12 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-10-19-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:13 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-10-05-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:13 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-09-21-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:13 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-09-08-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:14 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-08-24-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:14 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-08-10-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:14 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-07-27-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:13:15 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/07/SB-Minutes-07-13-15-2.pdf 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/departments/selectboard/minutes/fy-2015/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:13:16 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-06-29-15/ [57862] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-06-29-15/index.html" [1]
+2017-01-02 01:13:18 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-06-15-15/ [57862] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-06-15-15/index.html" [1]
+2017-01-02 01:13:18 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-06-01-15/ [57861] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-06-01-15/index.html" [1]
+2017-01-02 01:13:19 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-05-26-15/ [57861] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-05-26-15/index.html" [1]
+2017-01-02 01:13:20 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-05-20-15/ [57862] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-05-20-15/index.html" [1]
+2017-01-02 01:13:20 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-05-18-15/ [57861] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-05-18-15/index.html" [1]
+2017-01-02 01:13:21 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-05-04-15/ [57861] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-05-04-15/index.html" [1]
+2017-01-02 01:13:22 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-04-21-15/ [57860] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-04-21-15/index.html" [1]
+2017-01-02 01:13:22 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-4-13-15/ [57856] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-4-13-15/index.html" [1]
+2017-01-02 01:13:23 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-4-6-15/ [57849] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-4-6-15/index.html" [1]
+2017-01-02 01:13:23 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-3-30-15/ [57856] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-3-30-15/index.html" [1]
+2017-01-02 01:13:24 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-3-16-15/ [57855] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-3-16-15/index.html" [1]
+2017-01-02 01:13:25 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-3-2-15/ [57849] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-3-2-15/index.html" [1]
+2017-01-02 01:13:26 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-2-23-15/ [57855] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-2-23-15/index.html" [1]
+2017-01-02 01:13:27 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-02-17-15-2/ [57888] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-02-17-15-2/index.html" [1]
+2017-01-02 01:13:27 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-01-26-15/ [57866] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-01-26-15/index.html" [1]
+2017-01-02 01:13:29 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-01-20-15/ [57865] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-01-20-15/index.html" [1]
+2017-01-02 01:13:30 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-1-12-15/ [57858] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-1-12-15/index.html" [1]
+2017-01-02 01:13:32 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-12-29-14/ [57865] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-12-29-14/index.html" [1]
+2017-01-02 01:13:33 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-12-22-14/ [57866] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-12-22-14/index.html" [1]
+2017-01-02 01:13:34 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-12-15-14/ [57866] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-12-15-14/index.html" [1]
+2017-01-02 01:13:34 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-12-1-14/ [57859] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-12-1-14/index.html" [1]
+2017-01-02 01:13:35 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-11-24-14/ [57866] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-11-24-14/index.html" [1]
+2017-01-02 01:13:35 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-11-17-14/ [57870] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-11-17-14/index.html" [1]
+2017-01-02 01:13:36 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-11-03-14/ [57866] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-11-03-14/index.html" [1]
+2017-01-02 01:13:37 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-10-20-14/ [57864] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-10-20-14/index.html" [1]
+2017-01-02 01:13:38 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-10-17-14/ [57865] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-10-17-14/index.html" [1]
+2017-01-02 01:13:38 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-10-14-14/ [57865] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-10-14-14/index.html" [1]
+2017-01-02 01:13:39 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-10-06-14/ [57865] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-10-06-14/index.html" [1]
+2017-01-02 01:13:40 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-09-29-14/ [57865] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-09-29-14/index.html" [1]
+2017-01-02 01:13:40 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-09-22-14/ [57865] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-09-22-14/index.html" [1]
+2017-01-02 01:13:43 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-2014-09-15/ [57879] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-2014-09-15/index.html" [1]
+2017-01-02 01:13:44 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-2014-09-08/ [57879] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-2014-09-08/index.html" [1]
+2017-01-02 01:13:44 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-2014-08-28/ [57879] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-2014-08-28/index.html" [1]
+2017-01-02 01:13:45 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-2014-08-25/ [57879] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-2014-08-25/index.html" [1]
+2017-01-02 01:13:45 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-2014-08-11/ [57880] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-2014-08-11/index.html" [1]
+2017-01-02 01:13:46 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/minutes-08-11-14-rev2/ [57880] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/minutes-08-11-14-rev2/index.html" [1]
+2017-01-02 01:13:48 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-2014-07-28/ [57879] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-2014-07-28/index.html" [1]
+2017-01-02 01:13:49 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-07-21-14/ [57865] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-07-21-14/index.html" [1]
+2017-01-02 01:13:50 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-07-14-14/ [57865] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2015/sb-minutes-07-14-14/index.html" [1]
+http://www.townofconway.com/departments/selectboard/minutes/fy-2014/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:13:51 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-06-30-14/ [57844] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-06-30-14/index.html" [1]
+2017-01-02 01:13:52 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-06-23-14/ [57844] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-06-23-14/index.html" [1]
+2017-01-02 01:13:53 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-06-16-14/ [57843] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-06-16-14/index.html" [1]
+2017-01-02 01:13:53 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-06-09-14/ [57844] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-06-09-14/index.html" [1]
+2017-01-02 01:13:54 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-06-02-14/ [57844] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-06-02-14/index.html" [1]
+2017-01-02 01:13:54 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-05-27-14/ [57844] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-05-27-14/index.html" [1]
+2017-01-02 01:13:55 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-05-19-14/ [57844] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-05-19-14/index.html" [1]
+2017-01-02 01:13:56 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-05-12-14/ [57844] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-05-12-14/index.html" [1]
+2017-01-02 01:13:57 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-05-05-14/ [57844] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-05-05-14/index.html" [1]
+2017-01-02 01:13:57 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-04-22-14/ [57843] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-04-22-14/index.html" [1]
+2017-01-02 01:13:58 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-04-16-14/ [57844] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-04-16-14/index.html" [1]
+2017-01-02 01:13:59 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-04-14-14/ [57844] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-04-14-14/index.html" [1]
+2017-01-02 01:14:00 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-04-07-14/ [57844] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-04-07-14/index.html" [1]
+2017-01-02 01:14:00 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-03-24-14/ [57842] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-03-24-14/index.html" [1]
+2017-01-02 01:14:01 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-03-19-14/ [57842] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-03-19-14/index.html" [1]
+2017-01-02 01:14:02 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-03-17-14/ [57842] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-03-17-14/index.html" [1]
+2017-01-02 01:14:03 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-03-10-14/ [57842] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-03-10-14/index.html" [1]
+2017-01-02 01:14:03 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-03-03-14/ [57842] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-03-03-14/index.html" [1]
+2017-01-02 01:14:04 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-02-24-14/ [57842] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-02-24-14/index.html" [1]
+2017-01-02 01:14:05 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-02-10-14/ [57842] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-02-10-14/index.html" [1]
+2017-01-02 01:14:06 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-01-27-14-2/ [57847] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-01-27-14-2/index.html" [1]
+2017-01-02 01:14:06 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-01-27-14/ [57842] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-01-27-14/index.html" [1]
+2017-01-02 01:14:07 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-01-21-14-2/ [57847] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-01-21-14-2/index.html" [1]
+2017-01-02 01:14:07 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-01-13-14/ [57844] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-01-13-14/index.html" [1]
+2017-01-02 01:14:08 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-12-30-13/ [57844] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-12-30-13/index.html" [1]
+2017-01-02 01:14:09 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-12-23-13/ [57844] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-12-23-13/index.html" [1]
+2017-01-02 01:14:09 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-12-16-13/ [57844] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-12-16-13/index.html" [1]
+2017-01-02 01:14:10 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-12-02-13/ [57844] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-12-02-13/index.html" [1]
+2017-01-02 01:14:13 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-11-18-13/ [57844] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-11-18-13/index.html" [1]
+2017-01-02 01:14:14 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-11-14-13/ [57845] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-11-14-13/index.html" [1]
+2017-01-02 01:14:15 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-11-04-13/ [57845] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-11-04-13/index.html" [1]
+2017-01-02 01:14:16 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-10-21-13/ [57845] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-10-21-13/index.html" [1]
+2017-01-02 01:14:16 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-10-07-13-2/ [57850] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-10-07-13-2/index.html" [1]
+2017-01-02 01:14:17 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-09-23-13-2/ [57849] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-09-23-13-2/index.html" [1]
+2017-01-02 01:14:18 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-09-09-13-2/ [57849] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-09-09-13-2/index.html" [1]
+2017-01-02 01:14:18 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-08-26-13-2/ [57849] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-08-26-13-2/index.html" [1]
+2017-01-02 01:14:19 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-08-12-13-2/ [57849] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-08-12-13-2/index.html" [1]
+2017-01-02 01:14:20 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-07-29-30-2/ [57849] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-07-29-30-2/index.html" [1]
+2017-01-02 01:14:21 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-07-15-13-3/ [57849] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-07-15-13-3/index.html" [1]
+2017-01-02 01:14:22 URL:http://www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-07-01-13/ [57844] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy-2014/minutes-07-01-13/index.html" [1]
+http://www.townofconway.com/departments/selectboard/minutes/fy-2013-minutes/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:14:23 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/Response-to-the-AG-Complaint-of-Edward-MacDonald-20130218.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:24 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/Response-to-the-AG-Complaint-of-Kathleen-McKiernan-20130506.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:24 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/SB-Minutes-6-28-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:24 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/SB-Minutes-6-24-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:25 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/SB-Minutes-6-17-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:25 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/SB-Minutes-6-10-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:26 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/SB-Minutes-6-3-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:26 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/SB-Minutes-5-28-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:26 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/SB-Minutes-5-20-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:27 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/SB-Minutes-5-6-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:27 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/SB-Minutes-4-29-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:27 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/SB-Minutes-4-22-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:28 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/SB-Minutes-4-16-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:28 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/SB-Minutes-4-8-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:28 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/SB-Minutes-3-18-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:29 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/SB-Minutes-3-11-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:29 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/SB-Minutes-3-4-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:29 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/SB-Minutes-2-25-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:29 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/2-19-13-SB-Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:30 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/2-11-13-SB-Minutes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:30 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/SB-Minutes-2-4-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:30 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/SB-Minutes-1-28-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:31 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/SB-Minutes-1-22-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:31 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/SB-Minutes-1-14-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:31 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/Meeting-Minutes-January-7-2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:32 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/min-Dec-2620121.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:32 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/min-Dec-17-20121.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:32 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/min-Dec-1020121.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:33 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/min-Dec-3-20121.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:33 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/min-Nov-19-2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:33 URL: http://www.townofconway.com/admin/wp-content/uploads/2012/07/min-Nov-13-2012.pdf 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/departments/selectboard/minutes/selectboard-minutes-fy2012/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/departments/selectboard/minutes/fy-2011/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:14:36 URL: http://www.townofconway.com/admin/wp-content/uploads/2010/07/min-Mar-7-2011.pdf 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/departments/selectboard/minutes/fy2010/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:14:37 URL: http://www.townofconway.com/selectminutes/20100517.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:38 URL: http://www.townofconway.com/selectminutes/20100510.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:38 URL: http://www.townofconway.com/selectminutes/20100503.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:38 URL: http://www.townofconway.com/selectminutes/20100426.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:39 URL: http://www.townofconway.com/selectminutes/20100420.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:39 URL: http://www.townofconway.com/selectminutes/20100412.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:39 URL: http://www.townofconway.com/selectminutes/20100405.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:40 URL: http://www.townofconway.com/selectminutes/20100329.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:40 URL: http://www.townofconway.com/selectminutes/20100322.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:40 URL: http://www.townofconway.com/selectminutes/20100315.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:41 URL: http://www.townofconway.com/selectminutes/20100308.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:41 URL: http://www.townofconway.com/selectminutes/20100301.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:41 URL: http://www.townofconway.com/selectminutes/20100223.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:42 URL: http://www.townofconway.com/selectminutes/20100208.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:42 URL: http://www.townofconway.com/selectminutes/20100125.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:42 URL: http://www.townofconway.com/selectminutes/20100119.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:43 URL: http://www.townofconway.com/selectminutes/20100111.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:43 URL: http://www.townofconway.com/selectminutes/20100104.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:43 URL: http://www.townofconway.com/selectminutes/20091221.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:44 URL: http://www.townofconway.com/selectminutes/20091214.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:44 URL: http://www.townofconway.com/selectminutes/20091207.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:45 URL: http://www.townofconway.com/selectminutes/20091130.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:45 URL: http://www.townofconway.com/selectminutes/20091123.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:45 URL: http://www.townofconway.com/selectminutes/20091116.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:46 URL: http://www.townofconway.com/selectminutes/20091109.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:46 URL: http://www.townofconway.com/selectminutes/20091102.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:47 URL: http://www.townofconway.com/selectminutes/20091026.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:47 URL: http://www.townofconway.com/selectminutes/20091019.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:47 URL: http://www.townofconway.com/selectminutes/20091013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:48 URL: http://www.townofconway.com/selectminutes/20091005.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:48 URL: http://www.townofconway.com/selectminutes/20090928.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:48 URL: http://www.townofconway.com/selectminutes/20090921.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:48 URL: http://www.townofconway.com/selectminutes/20090914.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:49 URL: http://www.townofconway.com/selectminutes/20090908.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:49 URL: http://www.townofconway.com/selectminutes/20090831.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:50 URL: http://www.townofconway.com/selectminutes/20090817.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:50 URL: http://www.townofconway.com/selectminutes/20090803.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:50 URL: http://www.townofconway.com/selectminutes/20090727.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:51 URL: http://www.townofconway.com/selectminutes/20090720.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:51 URL: http://www.townofconway.com/selectminutes/20090713.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:51 URL: http://www.townofconway.com/selectminutes/20090706.pdf 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/departments/selectboard/minutes/fy2009/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:14:53 URL: http://www.townofconway.com/selectminutes/20080707.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:53 URL: http://www.townofconway.com/selectminutes/20080721.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:54 URL: http://www.townofconway.com/selectminutes/20080804.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:54 URL: http://www.townofconway.com/selectminutes/20080818.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:54 URL: http://www.townofconway.com/selectminutes/20080902.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:54 URL: http://www.townofconway.com/selectminutes/20080908.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:55 URL: http://www.townofconway.com/selectminutes/20080915.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:55 URL: http://www.townofconway.com/selectminutes/20080922.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:55 URL: http://www.townofconway.com/selectminutes/20080929.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:55 URL: http://www.townofconway.com/selectminutes/20081006.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:56 URL: http://www.townofconway.com/selectminutes/20081014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:56 URL: http://www.townofconway.com/selectminutes/20081020.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:57 URL: http://www.townofconway.com/selectminutes/20081027.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:58 URL: http://www.townofconway.com/selectminutes/20081103.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:58 URL: http://www.townofconway.com/selectminutes/20081110.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:58 URL: http://www.townofconway.com/selectminutes/20081117.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:59 URL: http://www.townofconway.com/selectminutes/20081127.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:59 URL: http://www.townofconway.com/selectminutes/20081201.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:14:59 URL: http://www.townofconway.com/selectminutes/20081208.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:00 URL: http://www.townofconway.com/selectminutes/20081215.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:00 URL: http://www.townofconway.com/selectminutes/20081222.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:00 URL: http://www.townofconway.com/selectminutes/20081229.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:01 URL: http://www.townofconway.com/selectminutes/20090105.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:01 URL: http://www.townofconway.com/selectminutes/20090112.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:01 URL: http://www.townofconway.com/selectminutes/20090120.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:02 URL: http://www.townofconway.com/selectminutes/20090126.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:02 URL: http://www.townofconway.com/selectminutes/20090202.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:02 URL: http://www.townofconway.com/selectminutes/20090209.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:03 URL: http://www.townofconway.com/selectminutes/20090217.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:03 URL: http://www.townofconway.com/selectminutes/20090223.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:03 URL: http://www.townofconway.com/selectminutes/20090302.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:04 URL: http://www.townofconway.com/selectminutes/20090309.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:04 URL: http://www.townofconway.com/selectminutes/20090316.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:04 URL: http://www.townofconway.com/selectminutes/20090323.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:05 URL: http://www.townofconway.com/selectminutes/20090330.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:05 URL: http://www.townofconway.com/selectminutes/20090406.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:05 URL: http://www.townofconway.com/selectminutes/20090413.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:06 URL: http://www.townofconway.com/selectminutes/20090421.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:06 URL: http://www.townofconway.com/selectminutes/20090427.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:06 URL: http://www.townofconway.com/selectminutes/20090504.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:06 URL: http://www.townofconway.com/selectminutes/20090511.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:06 URL: http://www.townofconway.com/selectminutes/20090518.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:07 URL: http://www.townofconway.com/selectminutes/20090526.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:07 URL: http://www.townofconway.com/selectminutes/20090601.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:07 URL: http://www.townofconway.com/selectminutes/20090608.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:07 URL: http://www.townofconway.com/selectminutes/20090615.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:08 URL: http://www.townofconway.com/selectminutes/20090622.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:08 URL: http://www.townofconway.com/selectminutes/20090629.pdf 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/departments/selectboard/minutes/fy2008/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:15:10 URL: http://www.townofconway.com/selectminutes/20070709.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:10 URL: http://www.townofconway.com/selectminutes/20070723.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:10 URL: http://www.townofconway.com/selectminutes/20070806.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:10 URL: http://www.townofconway.com/selectminutes/20070904.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:11 URL: http://www.townofconway.com/selectminutes/20070910.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:11 URL: http://www.townofconway.com/selectminutes/20070917.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:11 URL: http://www.townofconway.com/selectminutes/20070924.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:12 URL: http://www.townofconway.com/selectminutes/20070926.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:12 URL: http://www.townofconway.com/selectminutes/20071001.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:12 URL: http://www.townofconway.com/selectminutes/20071015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:13 URL: http://www.townofconway.com/selectminutes/20071022.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:13 URL: http://www.townofconway.com/selectminutes/20071029.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:13 URL: http://www.townofconway.com/selectminutes/20071203.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:13 URL: http://www.townofconway.com/selectminutes/20071210.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:14 URL: http://www.townofconway.com/selectminutes/20071217.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:14 URL: http://www.townofconway.com/selectminutes/20080102.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:14 URL: http://www.townofconway.com/selectminutes/20080107.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:15 URL: http://www.townofconway.com/selectminutes/20080114.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:15 URL: http://www.townofconway.com/selectminutes/20080122.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:15 URL: http://www.townofconway.com/selectminutes/20080128.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:16 URL: http://www.townofconway.com/selectminutes/20080204.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:16 URL: http://www.townofconway.com/selectminutes/20080211.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:16 URL: http://www.townofconway.com/selectminutes/20080219.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:16 URL: http://www.townofconway.com/selectminutes/20080225.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:17 URL: http://www.townofconway.com/selectminutes/20080303.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:17 URL: http://www.townofconway.com/selectminutes/20080310.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:18 URL: http://www.townofconway.com/selectminutes/20080317.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:18 URL: http://www.townofconway.com/selectminutes/20080324.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:18 URL: http://www.townofconway.com/selectminutes/20080331.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:18 URL: http://www.townofconway.com/selectminutes/20080407.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:19 URL: http://www.townofconway.com/selectminutes/20080422.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:19 URL: http://www.townofconway.com/selectminutes/20080428.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:19 URL: http://www.townofconway.com/selectminutes/20080505.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:20 URL: http://www.townofconway.com/selectminutes/20080512.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:20 URL: http://www.townofconway.com/selectminutes/20080519.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:20 URL: http://www.townofconway.com/selectminutes/20080527.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:21 URL: http://www.townofconway.com/selectminutes/20080609.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:21 URL: http://www.townofconway.com/selectminutes/20080623.pdf 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/departments/selectboard/minutes/fy2007/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:15:23 URL:http://www.townofconway.com/departments/selectboard/minutes/fy2007/08-20-07/ [57808] -> "../data/townSites2/Conway/www.townofconway.com/departments/selectboard/minutes/fy2007/08-20-07/index.html" [1]
+http://www.townofconway.com/departments/town-clerk/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/admin/wp-content/uploads/2010/02/Meeting-Notice-posting-form.pdf:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/departments/treasurer/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/departments/zoning-board-of-appeals/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/contact/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:15:30 URL:http://www.townofconway.com/ask-us/ [59917] -> "../data/townSites2/Conway/www.townofconway.com/ask-us.1" [1]
+http://www.townofconway.com/employment-volunteer/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:15:32 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Laborer-Job-Description.doc 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/forms-downloads/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:15:33 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/bid-register-letterhead.doc 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:34 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Conway-TH-Re-Bid-EIFS-Specs-7-18-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:34 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Conway-TH-Re-Bid-DRAWINGS-7-18-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:34 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/General-Bylaws-rev.-May-2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:35 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Zoning-Bylaws-revised-zoning-05-11-15-cert-Dclean.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:36 URL:http://www.townofconway.com/forms-downloads/zba-petition-for-variance/ [56819] -> "../data/townSites2/Conway/www.townofconway.com/forms-downloads/zba-petition-for-variance/index.html" [1]
+2017-01-02 01:15:36 URL:http://www.townofconway.com/forms-downloads/conway-town-report-fy-2014/ [56826] -> "../data/townSites2/Conway/www.townofconway.com/forms-downloads/conway-town-report-fy-2014/index.html" [1]
+2017-01-02 01:15:37 URL:http://www.townofconway.com/forms-downloads/minutes-of-annual-town-meeting-05-11-15-fy16_3/ [56965] -> "../data/townSites2/Conway/www.townofconway.com/forms-downloads/minutes-of-annual-town-meeting-05-11-15-fy16_3/index.html" [1]
+2017-01-02 01:15:38 URL:http://www.townofconway.com/forms-downloads/stm-minutes/ [56837] -> "../data/townSites2/Conway/www.townofconway.com/forms-downloads/stm-minutes/index.html" [1]
+2017-01-02 01:15:38 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Conway-Annual-Town-Meeting-Minutes-05-09-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:39 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Germain-Scholarship-Application-for-2016-17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:39 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/2016version-schol.application-.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:39 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/01/Conway-Firemens-Auxiliary-Scholarship-Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:40 URL: http://www.townofconway.com/admin/wp-content/uploads/2015/01/Conway-Sportsmans-Club-Scholarship-Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:40 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/2016-GSFABA-Scholarship-Guidelines-and-Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:40 URL:http://www.townofconway.com/forms-downloads/financial-policies-procedures-manual_/ [56904] -> "../data/townSites2/Conway/www.townofconway.com/forms-downloads/financial-policies-procedures-manual_/index.html" [1]
+2017-01-02 01:15:41 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Ch61RofFRpolicy_FINAL.docx 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/httpashfield-orglinks/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/hours/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:15:43 URL: http://www.townofconway.com/admin/wp-content/uploads/2009/10/Office-Hours-Meeting-Schedules.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:15:44 URL: http://www.townofconway.com/transfer-station/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/transfer-station/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/transfer-station/recycling-guide/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/transfer-station/recycling-tips/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/ask-us/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:15:49 URL: http://www.townofconway.com/category/general-town-news/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/category/general-town-news/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:15:50 URL:http://www.townofconway.com/2016/02/change-in-veterans-services-outreach/ [57654] -> "../data/townSites2/Conway/www.townofconway.com/2016/02/change-in-veterans-services-outreach/index.html" [1]
+2017-01-02 01:15:51 URL:http://www.townofconway.com/category/general-town-news/page/2/ [58508] -> "../data/townSites2/Conway/www.townofconway.com/category/general-town-news/page/2/index.html" [1]
+http://www.townofconway.com/2016/12/holiday-transfer-station-hours-closed-1225-and-11-open-1226-12/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/2016/12/riverbend-meadow-proposal-open-space-committee/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/2016/12/right-to-farm-forum-wed-january-18/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:15:55 URL: http://www.townofconway.com/category/highway-department/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/category/highway-department/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:15:57 URL: http://www.townofconway.com/category/highway-department/job-opening/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/category/highway-department/job-opening/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/2016/10/5022/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:16:00 URL: http://www.townofconway.com/category/agricultural-commission/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/category/agricultural-commission/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:16:01 URL: http://www.townofconway.com/category/concomm/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/category/concomm/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:16:04 URL: http://www.townofconway.com/category/parks-recreation/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/category/parks-recreation/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:16:06 URL: http://www.townofconway.com/category/selectboard/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/category/selectboard/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:16:08 URL: http://www.townofconway.com/category/town-clerk/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/category/town-clerk/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:16:10 URL: http://www.townofconway.com/category/zoning-board-of-appeals/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/category/zoning-board-of-appeals/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/2016/10/the-town-of-conway-is-seeking-volunteers/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/2016/08/get-emergency-alerts-on-your-cell-phones/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:16:14 URL: http://www.townofconway.com/category/board-of-health/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/category/board-of-health/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/2016/06/transfer-station-announces-new-wednesday-hours/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:16:18 URL: http://www.townofconway.com/category/fire-department/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/category/fire-department/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/2016/06/do-you-want-to-be-a-firefighter/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/2016/04/free-wellness-clinics-with-town-nurse/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/2016/02/recycle-your-cell-phones-and-batteries-heres-how/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/page/2/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:16:24 URL:http://www.townofconway.com/page/3/ [69993] -> "../data/townSites2/Conway/www.townofconway.com/page/3/index.html" [1]
+http://www.townofconway.com/2016/12/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:16:26 URL:http://www.townofconway.com/2016/ [58088] -> "../data/townSites2/Conway/www.townofconway.com/2016/index.html" [1]
+http://www.townofconway.com/2016/10/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/2016/08/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/2016/06/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/2016/04/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/2016/02/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/2016/01/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:16:34 URL:http://www.townofconway.com/2016/01/hilltown-churches-food-pantry-distribution-schedule/ [58578] -> "../data/townSites2/Conway/www.townofconway.com/2016/01/hilltown-churches-food-pantry-distribution-schedule/index.html" [1]
+http://www.townofconway.com/2015/11/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:16:35 URL:http://www.townofconway.com/2015/ [57813] -> "../data/townSites2/Conway/www.townofconway.com/2015/index.html" [1]
+2017-01-02 01:16:36 URL:http://www.townofconway.com/2015/11/take-a-look-at-conways-graphic-information-system/ [57986] -> "../data/townSites2/Conway/www.townofconway.com/2015/11/take-a-look-at-conways-graphic-information-system/index.html" [1]
+http://www.townofconway.com/2015/09/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:16:40 URL:http://www.townofconway.com/2015/09/conway-emergency-management-now-on-facebook/ [57539] -> "../data/townSites2/Conway/www.townofconway.com/2015/09/conway-emergency-management-now-on-facebook/index.html" [1]
+2017-01-02 01:16:43 URL:http://www.townofconway.com/2015/09/when-is-an-electrical-license-or-permit-required/ [57634] -> "../data/townSites2/Conway/www.townofconway.com/2015/09/when-is-an-electrical-license-or-permit-required/index.html" [1]
+http://www.townofconway.com/2015/06/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+http://www.townofconway.com/2015/04/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:16:46 URL:http://www.townofconway.com/2015/04/housing-rehab-loans-for-low-and-moderate-income-homeowners/ [58487] -> "../data/townSites2/Conway/www.townofconway.com/2015/04/housing-rehab-loans-for-low-and-moderate-income-homeowners/index.html" [1]
+2017-01-02 01:16:47 URL:http://www.townofconway.com/2015/04/assistance-for-residents-at-risk-of-homelessness/ [57820] -> "../data/townSites2/Conway/www.townofconway.com/2015/04/assistance-for-residents-at-risk-of-homelessness/index.html" [1]
+http://www.townofconway.com/2015/02/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:16:49 URL:http://www.townofconway.com/2015/02/conway-ambulance-is-looking-for-emts/ [58304] -> "../data/townSites2/Conway/www.townofconway.com/2015/02/conway-ambulance-is-looking-for-emts/index.html" [1]
+http://www.townofconway.com/2015/01/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:16:50 URL:http://www.townofconway.com/2015/01/quilting-group-welcomes-new-members/ [57225] -> "../data/townSites2/Conway/www.townofconway.com/2015/01/quilting-group-welcomes-new-members/index.html" [1]
+2017-01-02 01:16:51 URL: http://www.townofconway.com/category/ambulance/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/category/ambulance/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:16:53 URL: http://www.townofconway.com/category/board-of-assessors/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/category/board-of-assessors/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:16:55 URL: http://www.townofconway.com/category/council-on-aging/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/category/council-on-aging/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:16:57 URL: http://www.townofconway.com/category/uncategorized/feed/ 200 OK
+unlink: No such file or directory
+http://www.townofconway.com/category/uncategorized/%7Bpath%7D:
+Remote file does not exist -- broken link!!!
+Found 120 broken links.
+
+http://www.townofconway.com/committees/capital-improvements-planning-committee/%7Bpath%7D
+http://www.townofconway.com/conway-youth-sports/%7Bpath%7D
+http://www.townofconway.com/photos/%7Bpath%7D
+http://www.townofconway.com/committees/cultural-council/%7Bpath%7D
+http://www.townofconway.com/2015/09/%7Bpath%7D
+http://www.townofconway.com/departments/selectboard/minutes/fy-2015/%7Bpath%7D
+http://www.townofconway.com/subscribe/%7Bpath%7D
+http://www.townofconway.com/hours/%7Bpath%7D
+http://www.townofconway.com/committees/festival-of-the-hills/%7Bpath%7D
+http://www.townofconway.com/committees/ad-hoc-committees/pipeline-task-force/%7Bpath%7D
+http://www.townofconway.com/departments/board-of-health/septic-systems/%7Bpath%7D
+http://www.townofconway.com/departments/selectboard/minutes/fy-2014/%7Bpath%7D
+http://www.townofconway.com/category/selectboard/%7Bpath%7D
+http://www.townofconway.com/2015/06/%7Bpath%7D
+http://www.townofconway.com/category/parks-recreation/%7Bpath%7D
+http://www.townofconway.com/2016/12/riverbend-meadow-proposal-open-space-committee/%7Bpath%7D
+http://www.townofconway.com/2015/11/%7Bpath%7D
+http://www.townofconway.com/departments/board-of-health/title5/%7Bpath%7D
+http://www.townofconway.com/departments/planning-board/1969-2/fy-2016/%7Bpath%7D
+http://www.townofconway.com/2016/10/%7Bpath%7D
+http://www.townofconway.com/departments/selectboard/minutes/fy-2011/%7Bpath%7D
+http://www.townofconway.com/contact/%7Bpath%7D
+http://www.townofconway.com/departments/town-clerk/%7Bpath%7D
+http://www.townofconway.com/category/agricultural-commission/%7Bpath%7D
+http://www.townofconway.com/departments/selectboard/minutes/fy2008/%7Bpath%7D
+http://www.townofconway.com/committees/%7Bpath%7D
+http://www.townofconway.com/committees/agricultural-commission/minutes/%7Bpath%7D
+http://www.townofconway.com/committees/community-preservation/%7Bpath%7D
+http://www.townofconway.com/httpashfield-orglinks/%7Bpath%7D
+http://www.townofconway.com/2016/04/%7Bpath%7D
+http://www.townofconway.com/departments/planning-board/1969-2/fy-2013/%7Bpath%7D
+http://www.townofconway.com/category/general-town-news/%7Bpath%7D
+http://www.townofconway.com/departments/board-of-health/perc-tests/%7Bpath%7D
+http://www.townofconway.com/about/%7Bpath%7D
+http://www.townofconway.com/departments/board-of-health/message-from-your-board-of-health/%7Bpath%7D
+http://www.townofconway.com/transfer-station/recycling-guide/%7Bpath%7D
+http://www.townofconway.com/departments/selectboard/agendas/%7Bpath%7D
+http://www.townofconway.com/committees/finance-committee/%7Bpath%7D
+http://www.townofconway.com/departments/board-of-health/%7Bpath%7D
+http://www.townofconway.com/departments/emergency-preparedness/%7Bpath%7D
+http://www.townofconway.com/2016/01/%7Bpath%7D
+http://www.townofconway.com/committees/housing-committee/%7Bpath%7D
+http://www.townofconway.com/committees/historical-commission/%7Bpath%7D
+http://www.townofconway.com/category/concomm/%7Bpath%7D
+http://www.townofconway.com/transfer-station/recycling-tips/%7Bpath%7D
+http://www.townofconway.com/employment-volunteer/%7Bpath%7D
+http://www.townofconway.com/committees/parks-recreation/parks-improvement-project/%7Bpath%7D
+http://www.townofconway.com/departments/selectboard/minutes/fy-2016/%7Bpath%7D
+http://www.townofconway.com/towncalendar/%7Bpath%7D
+http://www.townofconway.com/departments/highway-department/%7Bpath%7D
+http://www.townofconway.com/committees/ad-hoc-committees/%7Bpath%7D
+http://www.townofconway.com/towncalendar/reserve/%7Bpath%7D
+http://www.townofconway.com/departments/%7Bpath%7D
+http://www.townofconway.com/departments/planning-board/1969-2/%7Bpath%7D
+http://www.townofconway.com/committees/conservation-commission/%7Bpath%7D
+http://www.townofconway.com/departments/selectboard/agendas/fy-2017/%7Bpath%7D
+http://www.townofconway.com/2016/08/%7Bpath%7D
+http://www.townofconway.com/departments/treasurer/%7Bpath%7D
+http://www.townofconway.com/committees/school-committee/%7Bpath%7D
+http://www.townofconway.com/departments/planning-board/1969-2/fy-2017/%7Bpath%7D
+http://www.townofconway.com/category/uncategorized/%7Bpath%7D
+http://www.townofconway.com/committees/broadband-committee/%7Bpath%7D
+http://www.townofconway.com/2015/04/%7Bpath%7D
+http://www.townofconway.com/2016/10/5022/%7Bpath%7D
+http://www.townofconway.com/departments/selectboard/minutes/fy2009/%7Bpath%7D
+http://www.townofconway.com/category/town-clerk/%7Bpath%7D
+http://www.townofconway.com/parks-recreation-trails-calendar/%7Bpath%7D
+http://www.townofconway.com/2016/06/transfer-station-announces-new-wednesday-hours/%7Bpath%7D
+http://www.townofconway.com/2016/08/get-emergency-alerts-on-your-cell-phones/%7Bpath%7D
+http://www.townofconway.com/category/ambulance/%7Bpath%7D
+http://www.townofconway.com/departments/planning-board/1969-2/fy-2014/%7Bpath%7D
+http://www.townofconway.com/departments/ambulance/%7Bpath%7D
+http://www.townofconway.com/admin/wp-content/uploads/2010/02/Meeting-Notice-posting-form.pdf
+http://www.townofconway.com/2016/02/recycle-your-cell-phones-and-batteries-heres-how/%7Bpath%7D
+http://www.townofconway.com/2015/01/%7Bpath%7D
+http://www.townofconway.com/departments/zoning-board-of-appeals/%7Bpath%7D
+http://www.townofconway.com/2016/02/%7Bpath%7D
+http://www.townofconway.com/category/fire-department/%7Bpath%7D
+http://www.townofconway.com/committees/wastewater-committee/%7Bpath%7D
+http://www.townofconway.com/departments/selectboard/minutes/selectboard-minutes-fy2012/%7Bpath%7D
+http://www.townofconway.com/departments/selectboard/minutes/fy-2017/%7Bpath%7D
+http://www.townofconway.com/ask-us/%7Bpath%7D
+http://www.townofconway.com/departments/selectboard/%7Bpath%7D
+http://www.townofconway.com/committees/ad-hoc-committees/250th-committee/%7Bpath%7D
+http://www.townofconway.com/committees/council-on-aging/%7Bpath%7D
+http://www.townofconway.com/departments/selectboard/minutes/%7Bpath%7D
+http://www.townofconway.com/committees/personnel-committee/%7Bpath%7D
+http://www.townofconway.com/category/zoning-board-of-appeals/%7Bpath%7D
+http://www.townofconway.com/2016/12/right-to-farm-forum-wed-january-18/%7Bpath%7D
+http://www.townofconway.com/forms-downloads/%7Bpath%7D
+http://www.townofconway.com/2016/12/%7Bpath%7D
+http://www.townofconway.com/page/2/%7Bpath%7D
+http://www.townofconway.com/2016/12/holiday-transfer-station-hours-closed-1225-and-11-open-1226-12/%7Bpath%7D
+http://www.townofconway.com/admin/xmlrpc.php
+http://www.townofconway.com/category/board-of-assessors/%7Bpath%7D
+http://www.townofconway.com/departments/assessors/%7Bpath%7D
+http://www.townofconway.com/category/highway-department/%7Bpath%7D
+http://www.townofconway.com/2016/06/%7Bpath%7D
+http://www.townofconway.com/departments/board-of-health/fees/%7Bpath%7D
+http://www.townofconway.com/committees/agricultural-commission/%7Bpath%7D
+http://www.townofconway.com/departments/planning-board/%7Bpath%7D
+http://www.townofconway.com/%7Bpath%7D
+http://www.townofconway.com/departments/planning-board/1969-2/fy-2015/%7Bpath%7D
+http://www.townofconway.com/transfer-station/%7Bpath%7D
+http://www.townofconway.com/2016/10/the-town-of-conway-is-seeking-volunteers/%7Bpath%7D
+http://www.townofconway.com/committees/parks-recreation/%7Bpath%7D
+http://www.townofconway.com/committees/ad-hoc-committees/town-park-ad-hoc-committee/%7Bpath%7D
+http://www.townofconway.com/2015/02/%7Bpath%7D
+http://www.townofconway.com/departments/selectboard/minutes/fy-2013-minutes/%7Bpath%7D
+http://www.townofconway.com/departments/selectboard/minutes/fy2007/%7Bpath%7D
+http://www.townofconway.com/category/board-of-health/%7Bpath%7D
+http://www.townofconway.com/category/highway-department/job-opening/%7Bpath%7D
+http://www.townofconway.com/departments/selectboard/minutes/fy2010/%7Bpath%7D
+http://www.townofconway.com/departments/planning-board/rose-field-planning/%7Bpath%7D
+http://www.townofconway.com/departments/planning-board/1969-2/fy-2012/%7Bpath%7D
+http://www.townofconway.com/2016/06/do-you-want-to-be-a-firefighter/%7Bpath%7D
+http://www.townofconway.com/committees/open-space-committee/%7Bpath%7D
+http://www.townofconway.com/2016/04/free-wellness-clinics-with-town-nurse/%7Bpath%7D
+http://www.townofconway.com/parks-recreation-trails-calendar/reserve-parks-rec/%7Bpath%7D
+http://www.townofconway.com/category/council-on-aging/%7Bpath%7D
+
+FINISHED --2017-01-02 01:16:58--
+Total wall clock time: 10m 30s
+Downloaded: 301 files, 17M in 20s (854 KB/s)

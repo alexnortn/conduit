@@ -1,0 +1,1509 @@
+2017-01-02 08:36:29 URL:http://www.townofwales.net/ [50261] -> "../data/townSites2/Wales/www.townofwales.net/index.html" [1]
+2017-01-02 08:36:29 URL: http://www.townofwales.net/templates/pears/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 08:36:33 URL:http://www.townofwales.net/index.php/aboutwales [35834] -> "../data/townSites2/Wales/www.townofwales.net/index.php/aboutwales" [1]
+2017-01-02 08:36:35 URL:http://www.townofwales.net/index.php/aboutwales/history [35939] -> "../data/townSites2/Wales/www.townofwales.net/index.php/aboutwales/history" [1]
+2017-01-02 08:36:37 URL:http://www.townofwales.net/index.php/aboutwales/citizenship-award [33864] -> "../data/townSites2/Wales/www.townofwales.net/index.php/aboutwales/citizenship-award" [1]
+2017-01-02 08:36:39 URL:http://www.townofwales.net/index.php/aboutwales/codered [26531] -> "../data/townSites2/Wales/www.townofwales.net/index.php/aboutwales/codered" [1]
+2017-01-02 08:36:42 URL:http://www.townofwales.net/index.php/aboutwales/links [25110] -> "../data/townSites2/Wales/www.townofwales.net/index.php/aboutwales/links" [1]
+2017-01-02 08:36:44 URL:http://www.townofwales.net/index.php/departments [22427] -> "../data/townSites2/Wales/www.townofwales.net/index.php/departments" [1]
+2017-01-02 08:36:45 URL:http://www.townofwales.net/index.php/departments/police [29650] -> "../data/townSites2/Wales/www.townofwales.net/index.php/departments/police" [1]
+2017-01-02 08:36:48 URL:http://www.townofwales.net/index.php/departments/fire [26681] -> "../data/townSites2/Wales/www.townofwales.net/index.php/departments/fire" [1]
+2017-01-02 08:36:53 URL:http://www.townofwales.net/index.php/departments/clerk [37884] -> "../data/townSites2/Wales/www.townofwales.net/index.php/departments/clerk" [1]
+2017-01-02 08:36:56 URL:http://www.townofwales.net/index.php/departments/taxcollector [26683] -> "../data/townSites2/Wales/www.townofwales.net/index.php/departments/taxcollector" [1]
+2017-01-02 08:36:58 URL:http://www.townofwales.net/index.php/departments/library [34603] -> "../data/townSites2/Wales/www.townofwales.net/index.php/departments/library" [1]
+2017-01-02 08:37:00 URL:http://www.townofwales.net/index.php/departments/seniorcenter [36137] -> "../data/townSites2/Wales/www.townofwales.net/index.php/departments/seniorcenter" [1]
+2017-01-02 08:37:04 URL:http://www.townofwales.net/index.php/departments/animalcontrol [30117] -> "../data/townSites2/Wales/www.townofwales.net/index.php/departments/animalcontrol" [1]
+2017-01-02 08:37:06 URL:http://www.townofwales.net/index.php/departments/transferstation [24622] -> "../data/townSites2/Wales/www.townofwales.net/index.php/departments/transferstation" [1]
+2017-01-02 08:37:08 URL:http://www.townofwales.net/index.php/bc [22368] -> "../data/townSites2/Wales/www.townofwales.net/index.php/bc" [1]
+2017-01-02 08:37:11 URL:http://www.townofwales.net/index.php/bc/select [41504] -> "../data/townSites2/Wales/www.townofwales.net/index.php/bc/select" [1]
+2017-01-02 08:37:14 URL:http://www.townofwales.net/index.php/bc/finance [35888] -> "../data/townSites2/Wales/www.townofwales.net/index.php/bc/finance" [1]
+2017-01-02 08:37:16 URL:http://www.townofwales.net/index.php/bc/health [24525] -> "../data/townSites2/Wales/www.townofwales.net/index.php/bc/health" [1]
+2017-01-02 08:37:18 URL:http://www.townofwales.net/index.php/bc/assessors [31175] -> "../data/townSites2/Wales/www.townofwales.net/index.php/bc/assessors" [1]
+2017-01-02 08:37:20 URL:http://www.townofwales.net/index.php/bc/school [31920] -> "../data/townSites2/Wales/www.townofwales.net/index.php/bc/school" [1]
+2017-01-02 08:37:25 URL:http://www.townofwales.net/index.php/bc/planning [41945] -> "../data/townSites2/Wales/www.townofwales.net/index.php/bc/planning" [1]
+2017-01-02 08:37:27 URL:http://www.townofwales.net/index.php/bc/cipc [33772] -> "../data/townSites2/Wales/www.townofwales.net/index.php/bc/cipc" [1]
+2017-01-02 08:37:29 URL:http://www.townofwales.net/index.php/bc/tv [23758] -> "../data/townSites2/Wales/www.townofwales.net/index.php/bc/tv" [1]
+2017-01-02 08:37:31 URL:http://www.townofwales.net/index.php/calendar [46531] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar" [1]
+2017-01-02 08:37:34 URL:http://www.townofwales.net/index.php/calendar/calendar [47114] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar" [1]
+2017-01-02 08:37:36 URL:http://www.townofwales.net/index.php/calendar/sc-calendar [42737] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar" [1]
+2017-01-02 08:37:39 URL:http://www.townofwales.net/index.php/forms [30013] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms" [1]
+2017-01-02 08:37:43 URL:http://www.townofwales.net/index.php/forms/general [35153] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/general" [1]
+2017-01-02 08:37:48 URL:http://www.townofwales.net/index.php/forms/townclerk [31093] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/townclerk" [1]
+2017-01-02 08:37:50 URL:http://www.townofwales.net/index.php/forms/bos [21500] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/bos" [1]
+2017-01-02 08:37:56 URL:http://www.townofwales.net/index.php/forms/finance [41622] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/finance" [1]
+2017-01-02 08:37:58 URL:http://www.townofwales.net/index.php/forms/planning-board [23350] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/planning-board" [1]
+2017-01-02 08:38:03 URL:http://www.townofwales.net/index.php/forms/5main [40486] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/5main" [1]
+2017-01-02 08:38:05 URL:http://www.townofwales.net/index.php/forms/more [28313] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/more" [1]
+2017-01-02 08:38:08 URL:http://www.townofwales.net/index.php/contact [58672] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact" [1]
+2017-01-02 08:38:10 URL:http://www.townofwales.net/index.php/login [21042] -> "../data/townSites2/Wales/www.townofwales.net/index.php/login" [1]
+2017-01-02 08:38:13 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6492/48%7C47%7C65/new-years-holiday-office-closed [26927] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6492/48|47|65/new-years-holiday-office-closed" [1]
+2017-01-02 08:38:15 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6512/48%7C47%7C65/clerks-office-closing-at-noon [26956] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6512/48|47|65/clerks-office-closing-at-noon" [1]
+2017-01-02 08:38:18 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6129/48%7C47%7C65/coa-meeting [28029] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6129/48|47|65/coa-meeting" [1]
+2017-01-02 08:38:21 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6513/48%7C47%7C65/library-trustees [26893] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6513/48|47|65/library-trustees" [1]
+2017-01-02 08:38:23 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6151/48%7C47%7C65/board-of-health [28970] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6151/48|47|65/board-of-health" [1]
+2017-01-02 08:38:26 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6247/48%7C47%7C65/recreation-committee [27965] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6247/48|47|65/recreation-committee" [1]
+2017-01-02 08:38:29 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6105/48%7C47%7C65/finance-committee [28792] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6105/48|47|65/finance-committee" [1]
+2017-01-02 08:38:31 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6493/48%7C47%7C65/mlk-birthday-office-closed [26900] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6493/48|47|65/mlk-birthday-office-closed" [1]
+2017-01-02 08:38:34 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6430/48%7C47%7C65/board-of-health [28970] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6430/48|47|65/board-of-health" [1]
+2017-01-02 08:38:38 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6152/48%7C47%7C65/board-of-health [28971] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6152/48|47|65/board-of-health" [1]
+2017-01-02 08:38:43 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6130/48%7C47%7C65/coa-meeting [28030] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6130/48|47|65/coa-meeting" [1]
+2017-01-02 08:38:44 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2076-marijuana-dispensaries-draft-regulations-nov-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:38:47 URL:http://www.townofwales.net/index.php/posted-positions [26163] -> "../data/townSites2/Wales/www.townofwales.net/index.php/posted-positions" [1]
+2017-01-02 08:38:48 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2051-wales-official-roads-draft-111016 200 OK
+unlink: No such file or directory
+2017-01-02 08:38:50 URL:http://www.townofwales.net/index.php/police [29538] -> "../data/townSites2/Wales/www.townofwales.net/index.php/police" [1]
+2017-01-02 08:38:52 URL:http://www.townofwales.net/index.php/fire-department [26656] -> "../data/townSites2/Wales/www.townofwales.net/index.php/fire-department" [1]
+2017-01-02 08:38:57 URL:http://www.townofwales.net/index.php/minutes [55868] -> "../data/townSites2/Wales/www.townofwales.net/index.php/minutes" [1]
+2017-01-02 08:39:00 URL:http://www.townofwales.net/index.php/paybillsonline [26585] -> "../data/townSites2/Wales/www.townofwales.net/index.php/paybillsonline" [1]
+2017-01-02 08:39:02 URL:http://www.townofwales.net/index.php/transferstation [24510] -> "../data/townSites2/Wales/www.townofwales.net/index.php/transferstation" [1]
+2017-01-02 08:39:04 URL:http://www.townofwales.net/index.php/permits [23294] -> "../data/townSites2/Wales/www.townofwales.net/index.php/permits" [1]
+2017-01-02 08:39:05 URL:http://www.townofwales.net/cdn-cgi/l/email-protection [4216] -> "../data/townSites2/Wales/www.townofwales.net/cdn-cgi/l/email-protection" [1]
+http://www.townofwales.net/index.php/aboutwales/aboutwales:
+Remote file does not exist -- broken link!!!
+http://www.townofwales.net/index.php/aboutwales/history/aboutwales/history:
+Remote file does not exist -- broken link!!!
+http://www.townofwales.net/index.php/aboutwales/citizenship-award/aboutwales/citizenship-award:
+Remote file does not exist -- broken link!!!
+2017-01-02 08:39:10 URL: http://www.townofwales.net/images/stories/downloads/David%20W%20Worth%20Citzenship%20Award.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:12 URL:http://www.townofwales.net/index.php/aboutwales/citizenship-award/103-2011-citizenship-award [23222] -> "../data/townSites2/Wales/www.townofwales.net/index.php/aboutwales/citizenship-award/103-2011-citizenship-award" [1]
+2017-01-02 08:39:14 URL:http://www.townofwales.net/index.php/aboutwales/citizenship-award/87-2010-citizenship-award [21744] -> "../data/townSites2/Wales/www.townofwales.net/index.php/aboutwales/citizenship-award/87-2010-citizenship-award" [1]
+2017-01-02 08:39:16 URL:http://www.townofwales.net/index.php/aboutwales/citizenship-award/83-2009-citizenship-award [22205] -> "../data/townSites2/Wales/www.townofwales.net/index.php/aboutwales/citizenship-award/83-2009-citizenship-award" [1]
+2017-01-02 08:39:18 URL:http://www.townofwales.net/index.php/aboutwales/citizenship-award/84-2008-citizenship-award [23586] -> "../data/townSites2/Wales/www.townofwales.net/index.php/aboutwales/citizenship-award/84-2008-citizenship-award" [1]
+http://www.townofwales.net/index.php/aboutwales/codered/aboutwales/codered:
+Remote file does not exist -- broken link!!!
+http://www.townofwales.net/index.php/aboutwales/links/aboutwales/links:
+Remote file does not exist -- broken link!!!
+http://www.townofwales.net/index.php/departments/departments:
+Remote file does not exist -- broken link!!!
+http://www.townofwales.net/index.php/departments/police/departments/police:
+Remote file does not exist -- broken link!!!
+2017-01-02 08:39:22 URL: http://www.townofwales.net/images/stories/downloads/House%20Check%20Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:23 URL: http://www.townofwales.net/images/stories/downloads/ltc-fid-card-app-revised-05-19-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:23 URL: http://www.townofwales.net/images/stories/downloads/Emergency%20Contact.pdf 200 OK
+unlink: No such file or directory
+http://www.townofwales.net/images/stories/downloads/frb_change_address.pdf:
+Remote file does not exist -- broken link!!!
+http://www.townofwales.net/index.php/departments/fire/departments/fire:
+Remote file does not exist -- broken link!!!
+http://www.townofwales.net/images/stories/downloads/emergency%20contact%20info.pdf:
+Remote file does not exist -- broken link!!!
+http://www.townofwales.net/images/stories/downloads/emergency%20contact%20info.doc:
+Remote file does not exist -- broken link!!!
+2017-01-02 08:39:27 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1942-tanker-chassis-specifications 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:28 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1940-apparatus-specifications-for-wales-tanker 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:29 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1941-tanker-bid-info 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:29 URL: http://www.townofwales.net/images/Patch_site_P1020558.JPG 200 OK
+unlink: No such file or directory
+http://www.townofwales.net/index.php/departments/clerk/departments/clerk:
+Remote file does not exist -- broken link!!!
+2017-01-02 08:39:34 URL:http://www.townofwales.net/index.php/forms/townclerk/cat_view/51-town-clerk/69-campaign-finance-reports [24399] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/townclerk/cat_view/51-town-clerk/69-campaign-finance-reports" [1]
+2017-01-02 08:39:36 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2073-absentee-ballot-application-2016-by-a-family-member 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:36 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2072-2014-wales-election-results 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:37 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2037-warrant-for-presidantial-election 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:38 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2002-state-primary-9-8-16-results 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:39 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1968-absentee-ballots-available-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:40 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1806-local-election-results-5-31-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:40 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1705-2016-primary-election-results 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:41 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1426-5-26-2015-elections 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:42 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1425-5-27-2014-election-results 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:43 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1424-6-25-2013-elections 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:44 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1423-5-29-2012-elections 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:45 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1422-5-31-2011-elections 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:46 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1421-5-25-2010-elections 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:46 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1415-5-26-2009-election 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:47 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1414-5-27-2008-election 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:48 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1413-5-29-2007-election 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:49 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1412-5-30-2006-election 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:50 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1411-5-31-2005-election 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:51 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1865-5-26-2015-election-results 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:52 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1908-special-warrant-sept-2014 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:53 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2056-dropping-off-petitions-after-office-hours-instructions 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:54 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1967-letter-to-the-editor 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:55 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1963-mail-in-voter-registration-form 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:55 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1608-your-enrollment-as-a-voter-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:56 URL: http://www.townofwales.net/index.php/forms/general/doc_download/912-information-for-dog-owners 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:57 URL: http://www.townofwales.net/index.php/forms/general/doc_download/765-town-clerk-duties 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:58 URL: http://www.townofwales.net/index.php/forms/general/doc_download/763-how-to-contact-your-state-and-federal-representatives 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:59 URL: http://www.townofwales.net/index.php/forms/general/doc_download/672-how-an-idea-becomes-a-law-in-massachusetts 200 OK
+unlink: No such file or directory
+2017-01-02 08:39:59 URL: http://www.townofwales.net/index.php/forms/general/doc_download/559-town-clerk-fees 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:00 URL: http://www.townofwales.net/index.php/forms/general/doc_download/544-faqs-about-the-annual-street-list-form 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:01 URL: http://www.townofwales.net/index.php/forms/general/doc_download/535-bylaws-for-the-town-of-wales-where-to-find-them-on-the-website 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:02 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1810-2016-5-18-annual-town-meeting-minutes 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:03 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1398-2014-9-23-special-town-meeting-minutes 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:04 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1397-2013-3-6-special-town-meeting-minutes 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:05 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1395-2014-5-21-annual-town-meeting-minutes 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:06 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1394-2013-5-15-annual-town-meeting-minutes 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:06 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1393-2015-5-20-annual-town-meeting-minutes 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:07 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1392-2012-5-16-annual-town-meeting-minutes 200 OK
+unlink: No such file or directory
+http://www.townofwales.net/index.php/departments/taxcollector/departments/taxcollector:
+Remote file does not exist -- broken link!!!
+http://www.townofwales.net/index.php/departments/library/departments/library:
+Remote file does not exist -- broken link!!!
+2017-01-02 08:40:12 URL: http://www.townofwales.net/index.php/forms/more/doc_download/1749-2015-library-long-range-plan 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:13 URL: http://www.townofwales.net/images/stories/downloads/library%20card%20app.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:13 URL: http://www.townofwales.net/images/stories/downloads/BORROWERS%20POLICY.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:14 URL: http://www.townofwales.net/images/stories/downloads/Overdue_Policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:14 URL: http://www.townofwales.net/images/stories/downloads/childrens%20policy.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:15 URL: http://www.townofwales.net/images/stories/downloads/Library%20unattended%20child%20policy.doc.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:16 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2096-library-trustees-1-3-17-agenda 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:16 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2079-library-trustees-agenda-12-5-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:17 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1997-library-trusttes-agenda-for-9-12-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:18 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1976-library-trustees-8-16-16-agenda 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:19 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1947-library-trustee-agenda-for-7-18-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:20 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1927-meeting-notice-6-20-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:21 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1800-library-5-23-16-agenda 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:22 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1749-2015-library-long-range-plan 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:23 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1730-library-trustees-agenda-32116 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:24 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1639-library-trustees-2-2-16-agenda 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:25 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1620-10-13-15-agenda 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:26 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1619-9-14-15-agenda 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:26 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1618-12082015minutes 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:27 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1617-11-9-15-minutes 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:28 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1616-10-13-15-min 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:29 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1601-library-trustees-1-5-16-agenda 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:30 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1582-library-trustees-12-8-15-agenda2 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:30 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1500-07272015-minutes 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:31 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1839-library-minutes-june-and-july-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:32 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1409-library-trustees-7-20-15-agenda 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:33 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1396-library-trustees-7-6-15-agenda 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:33 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1389-library-trustees-meeting-and-agenda-for-6-29-15 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:34 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1355-library-trustees-5-26-15-agenda 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:35 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1232-library-minutes-for-120-218-and-312014 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:36 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1216-library-trustees-meeting-2-11-15-agenda 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:37 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1177-library-agenda-1-5-15 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:38 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1008-library-trustees-agenda-8-4-2014 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:41 URL: http://www.townofwales.net/index.php/forms/general/doc_download/971-library-trustee-meeting-6-9-2014-agenda 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:42 URL: http://www.townofwales.net/index.php/forms/general/doc_download/950-library-trustees-5-12-14-agenda 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:43 URL: http://www.townofwales.net/index.php/forms/general/doc_download/921-board-of-library-trustees-meetin-4-14-14 200 OK
+unlink: No such file or directory
+http://www.townofwales.net/index.php/departments/seniorcenter/departments/seniorcenter:
+Remote file does not exist -- broken link!!!
+2017-01-02 08:40:46 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/month_calendar/2017/01/- [42812] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/month_calendar/2017/01/-" [1]
+2017-01-02 08:40:47 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2082-coa-agenda-december-6-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:47 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1993-coa-meeting-and-agenda-september-6-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:48 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1807-coa-meeting-6-7-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:49 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1742-coa-meeting-4-4-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:50 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1553-coa-meeting-11-3-15 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:51 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1529-coa-meeting-a-agenda-10-6-15 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:51 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1341-holland-community-center-invites-residents-from-wales-and-brimfield-to-join-them 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:52 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1340-tyler-wolanin-from-senator-anne-gobis-office 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:53 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1339-coa-meeting-and-agenda-5-5-15 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:53 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1310-coa-meeting-agenda-april-7-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:54 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1305-the-wales-senior-center-is-teaming-up-with-collette-travel-to-bring-you-the-best-trips-at-the-best-price 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:55 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1304-brown-bag-lunches 200 OK
+unlink: No such file or directory
+2017-01-02 08:40:59 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1256-march-coa-meeting-agenda-2015-1 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:00 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1184-shine-counselor 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:00 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1175-notice-of-meeting-1615 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:01 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1150-notice-of-meeting-12214 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:02 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1146-we-can-help 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:03 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1117-mini-gym-is-open 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:04 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1078-chair-dancing- 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:05 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1074-lunch- 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:06 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1073-new-foot-care-clinic-monthly 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:06 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1072-chair-massages 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:07 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1071-van-is-comingdrivers-needed 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:08 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1070-food-pantry 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:09 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1067-breakfast 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:09 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1034-tai-chi 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:10 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1033-chair-yoga 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:11 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1031-free-blood-pressure-clinic 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:12 URL: http://www.townofwales.net/index.php/forms/general/doc_download/984-joint-coa-bos-meeting-6-16-14 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:13 URL: http://www.townofwales.net/index.php/forms/general/doc_download/974-emergency-meeting-coa-and-bos-6-11-14 200 OK
+unlink: No such file or directory
+http://www.townofwales.net/index.php/departments/animalcontrol/departments/animalcontrol:
+Remote file does not exist -- broken link!!!
+2017-01-02 08:41:15 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1306-dog-licensing-procedure 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:16 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1263-brimfield-rabies-clinic-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:17 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1005-protecting-against-rabies 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:18 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1004-dog-information-and-license-form 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:18 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1003-animal-intake-form 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:20 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1002-kennel-inspection-form 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:21 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1001-animal-bite-form 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:22 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1000-town-of-wales-dog-bylaws 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:23 URL: http://www.townofwales.net/index.php/forms/general/doc_download/999-massachusetts-animal-control-laws 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:24 URL: http://www.townofwales.net/index.php/forms/general/doc_download/995-what-is-a-municipal-animal-inspector 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:25 URL: http://www.townofwales.net/index.php/forms/general/doc_download/832-animal-control-fees-as-of-2013 200 OK
+unlink: No such file or directory
+http://www.townofwales.net/index.php/departments/transferstation/departments/transferstation:
+Remote file does not exist -- broken link!!!
+2017-01-02 08:41:26 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1021-wales-transfer-station-fee-schedule 200 OK
+unlink: No such file or directory
+http://www.townofwales.net/index.php/bc/bc:
+Remote file does not exist -- broken link!!!
+http://www.townofwales.net/index.php/bc/select/bc/select:
+Remote file does not exist -- broken link!!!
+2017-01-02 08:41:30 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2095-board-of-selectmen-agenda-12272016 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:31 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2094-board-of-selectmen-agenda-12232016-special-meeting 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:31 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2085-board-of-selectmen-agenda-12132016 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:32 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2081-board-of-selectmen-special-agenda-12072016 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:33 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2062-bos-agenda-10182016-2 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:34 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2061-bos-agenda-10182016 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:35 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2059-bos-agenda-for-11-23-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:35 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2053-board-of-selectmen-agenda-11292016 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:37 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2050-board-of-selectmen-agenda-11152016 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:38 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2041-bos-agenda-11-01-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:39 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2040-bos-agenda-10-18-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:40 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2017-bos-agenda-for-10-4-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:40 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2007-bos-agenda-for-9-20-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:41 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2003-bos-meeting-9-17-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:42 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2001-3-vehicles-up-for-bid-9-20-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:43 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1989-bos-agenda-for-sep-6-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:44 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1986-bos-agenda-for-30-aug-2016-3 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:45 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1981-bos-agenda-2-for-8-23-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:45 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1973-bos-agenda-8-9-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:47 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1972-bos-agenda-08-23-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:48 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1971-bos-agenda-ex-sess-for-8-30-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:49 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1969-bos-agenda-08-09-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:50 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1956-request-for-geotechnical-survey-bids 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:51 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1949-bos-agenda-for-07-26-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:52 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1946-bos-agenda-2-for-07-14-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:53 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1945-bos-agenda-for-07-14-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:54 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1936-bos-agenda-3-for-6-28-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:54 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1935-bos-agenda-2-for-6-28-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:56 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1932-bos-agenda-for-6-28-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:57 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1915-bos-agenda-6-16-2016-revised 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:58 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2063-bos-minutes-8102016 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:59 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1990-bos-minutes-aug-30 200 OK
+unlink: No such file or directory
+2017-01-02 08:41:59 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1983-draft-minutes-aug-10 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:00 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1925-minutes-41916 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:01 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1924-minutes-51616 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:02 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1923-minutes5316 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:02 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1922-minutes-32216 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:03 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1921-minutes-22316 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:04 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1920-minutes-3816 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:05 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1919-minutes-2916 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:05 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1728-minutes11216 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:06 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1727-minutes122915 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:09 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1726-minutes12115 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:10 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1725-minutes11415 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:11 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1724-minutes100615 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:11 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1723-minutes-92215 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:12 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1722-minutes-81115 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:13 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1721-minutes-71415 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:14 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1492-minutes-63015 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:14 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1491-minutes-61615 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:16 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1489-minutes-6315 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:17 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1488-minutes-52715 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:18 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1487-minutes-es-42815 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:19 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1486-minutes-es-42115-2 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:21 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1485-minutes-5515 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:21 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1484-minutes-42115 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:22 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1483-minutes-4715 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:23 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1482-minutes-32415 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:24 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1481-minutes-31015 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:24 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1480-minutes-22415 200 OK
+unlink: No such file or directory
+http://www.townofwales.net/index.php/bc/finance/bc/finance:
+Remote file does not exist -- broken link!!!
+2017-01-02 08:42:26 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/2089-fincom-budget-letter-for-fy18 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:27 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/2086-wales-fy18-budget-schedule 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:28 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/2087-fy18-budget-request-form-excel 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:29 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/2088-fy18-budget-request-form-pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:30 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/628-reserve-fund-request-form 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:30 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/1370-departmental-transfer-form 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:31 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2075-fy16-certified-budget 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:32 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1770-fy17-final-budget-pdf 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:33 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1769-fy17-final-budget-excel 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:33 URL: http://www.townofwales.net/index.php/forms/general/doc_download/86-balance-sheet-special-revenues-trust-funds-fy10 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:34 URL: http://www.townofwales.net/index.php/forms/general/doc_download/17-debt-schedule-fy12 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:35 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1819-caucus-warrant-2014 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:36 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1818-caucus-warrant-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:37 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1817-caucus-warrant-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:38 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1816-caucus-results-2014 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:38 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1815--caucus-list-for-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:39 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1814-caucus-list-for-2014 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:40 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1812-caucus-list-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:42 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1784-2016-annual-report 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:43 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1767-2016-atm-warrant 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:45 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1333-2015-annual-report 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:46 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1332-2015-warrant-a-fy16-proposed-budget 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:47 URL: http://www.townofwales.net/index.php/forms/general/doc_download/962-atm-warrant-articles-fy15 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:48 URL: http://www.townofwales.net/index.php/forms/general/doc_download/956-2014-annual-report 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:48 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1863-2014-town-warrant 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:49 URL: http://www.townofwales.net/index.php/forms/general/doc_download/687-2013-annual-report 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:51 URL: http://www.townofwales.net/index.php/forms/general/doc_download/412-2012-annual-report 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:51 URL: http://www.townofwales.net/index.php/forms/general/doc_download/358-atm-warrant-fy13 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:52 URL: http://www.townofwales.net/index.php/forms/general/doc_download/16-atm-warrant-fy10 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:53 URL: http://www.townofwales.net/index.php/forms/general/doc_download/5-atm-warrant-fy12 200 OK
+unlink: No such file or directory
+2017-01-02 08:42:54 URL: http://www.townofwales.net/index.php/forms/general/doc_download/4-atm-warrant-fy11 200 OK
+unlink: No such file or directory
+http://www.townofwales.net/index.php/bc/health/bc/health:
+Remote file does not exist -- broken link!!!
+2017-01-02 08:42:57 URL:http://www.townofwales.net/index.php/forms/cat_view/49-permits-applications-a-other-forms [25321] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/cat_view/49-permits-applications-a-other-forms" [1]
+http://www.townofwales.net/index.php/bc/assessors/bc/assessors:
+Remote file does not exist -- broken link!!!
+2017-01-02 08:42:59 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1433-index-to-tax-maps 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:09 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1434-tax-map-1 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:10 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1435-tax-map-2 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:11 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1436-tax-map-3 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:12 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1437-tax-map-4 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:12 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1438-tax-map-5 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:13 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1439-tax-map-6 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:14 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1441-tax-map-8 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:15 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1442-tax-map-9 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:16 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1443-tax-map-10 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:17 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1444-tax-map-11 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:18 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1445-tax-map-12 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:18 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1446-tax-map-13 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:19 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1450-tax-map-15c 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:20 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1451-tax-map-15d 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:21 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1452-tax-map-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:22 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1453-tax-map-17 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:23 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1454-tax-map-18 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:24 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1455-tax-map-19 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:25 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1457-tax-map-21 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:26 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1458-tax-map-22 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:26 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1459-tax-map-23 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:27 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1957-taxmap7-revised-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:28 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1958-taxmap14-revised-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:29 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1959-taxmap15a-revised-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:32 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1960-taxmap15b-revised-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:32 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1961-taxmap20-revised-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:33 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1962-taxmap24-revised-2016 200 OK
+unlink: No such file or directory
+http://www.townofwales.net/index.php/bc/school/bc/school:
+Remote file does not exist -- broken link!!!
+2017-01-02 08:43:35 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1902-wales-window-january-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:36 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1793-wsc-agenda-5-18-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:36 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1792-wsc-change-in-meeting-time-5-18-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:37 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1773-wales-window-may-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:38 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1738-wsc-meeting-minutes-2-10-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:39 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1737-wales-window-april-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:40 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1698-wales-window-march-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:41 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1640-wales-window-february-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:42 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1614-wsc-agenda-1-20-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:42 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1585-wsc-meeting-cancellation-12-16-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:43 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1579-wales-window-december-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:44 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1552-wales-window-november-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:45 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1526-wales-window-october-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:46 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1377-wsc-agenda-6-17-15 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:47 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1367-wales-window-june-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:48 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1337-wales-window-may-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:48 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1302-wales-window-april-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:49 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1251-wales-window-march-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:50 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1214-wsc-agenda-2-11-15 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:51 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1204-wales-window-february-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:52 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1167-wales-window-january-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:53 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1166-wales-window-december-2014 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:53 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1155-wsc-meeting-cancellation-12-17-14 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:54 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1128-wsc-agenda-11-19-2014 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:55 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1114-wales-window-november-2014 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:55 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1089-wales-window-october-2014 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:56 URL: http://www.townofwales.net/index.php/forms/general/doc_download/967-wales-window-june-2014 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:57 URL: http://www.townofwales.net/index.php/forms/general/doc_download/940-wales-window-may-2014 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:57 URL: http://www.townofwales.net/index.php/forms/general/doc_download/907-wales-window-april-2014 200 OK
+unlink: No such file or directory
+2017-01-02 08:43:58 URL: http://www.townofwales.net/index.php/forms/general/doc_download/861-wales-window-march-2014 200 OK
+unlink: No such file or directory
+http://www.townofwales.net/index.php/bc/planning/bc/planning:
+Remote file does not exist -- broken link!!!
+2017-01-02 08:44:00 URL: http://www.townofwales.net/index.php/forms/general/doc_download/72-septic-information 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:01 URL: http://www.townofwales.net/index.php/forms/general/doc_download/67-planning-board-form-a-plan-not-needing-approval 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:03 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2093-planning-board-agenda-12-28-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:04 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2090-planning-board-agenda-12-15-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:04 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2055-planning-board-agenda-for-11-21-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:05 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2029-planning-board-agenda-for-10-17-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:07 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2012-planning-board-agenda-9-26-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:07 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1999-performance-hearing-notice-for-9-20-16-meeting-wales 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:08 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1998-planning-board-agenda-9-12-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:09 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1984-planning-board-agenda-8-22-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:11 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1966-planning-board-agenda-8-8-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:12 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1950-wales-planning-board-agenda-7-25-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:12 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1943-planning-board-agenda-7-11-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:13 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1934-planning-board-agenda-6-27-16-cancelled 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:14 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1930-planning-board-agenda-6-27-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:15 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1913-planning-board-agenda-6-13-16-revised- 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:15 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1911-planning-board-agenda-6-13-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:16 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1892-special-meeting-planning-board-5-8-14 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:17 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1798-planning-board-agenda-5-23-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:18 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1760-planning-board-agenda-4-25-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:19 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1746-planning-board-agenda-4-11-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:20 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1739-planning-board-agenda-4-5-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:20 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1729-planning-board-agenda-3-28-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:21 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1717-public-hearing-agenda-3-21-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:22 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1709-planning-board-agenda-3-14-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:22 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1652-planning-board-agenda-2-22-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:23 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1650-planning-board-agenda-2-15-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:24 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1647-planning-board-meeting-cancelled-2-8-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:25 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1642-planning-board-agenda-2-8-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:25 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1626-planning-board-agenda-1-25-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:26 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2060-planning-board-minutes-10-26-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:27 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2045-planning-board-minutes-9-26-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:28 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2019-91216-mtg-minutes 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:30 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2010-aug-22-2016-mtg-minutes 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:31 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1988-pb-minutes-8-8-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:32 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1978-pb-minutes-7-25-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:32 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1964-planning-board-minutes-july-11-2016- 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:33 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1944-planning-board-minutes-6-13-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:34 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1933-planning-board-minutes-4-25-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:35 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1928-planning-board-minutes-5-23-16- 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:36 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1907-pb-letter-used-car-dealers-license-silva 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:37 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1776-planning-board-minutes-3-28-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:38 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1715-planning-board-minutes-2-22-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:38 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1695-planning-board-minutes-1-25-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:40 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1694-planning-board-minutes-1-11-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:41 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1613-12-28-15-no-quorum 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:41 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1612-planning-board-minutes-12-14-15 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:42 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1593-planning-board-minutes-11-23-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:43 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1578-planning-board-minutes-11-16-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:44 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1577-planning-board-minutes-11-9-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:44 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1560-planning-board-minutes-10-26-15 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:45 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1548-planning-board-meeting-minutes-9-28-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:46 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1532-planning-board-minutes-9-14-15 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:47 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1531-planning-board-minutes-8-24-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:48 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1498-planning-board-minutes-august-10-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:49 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1471-planning-board-minutes-july-27-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:50 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1470-planning-board-minutes-july-13-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:51 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1407-planning-board-minutes-june-22-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:51 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1388-planning-board-minutes-june-8-2015-attachment-2 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:52 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1387-planning-board-minutes-june-8-2015-attachment-1 200 OK
+unlink: No such file or directory
+http://www.townofwales.net/index.php/bc/cipc/bc/cipc:
+Remote file does not exist -- broken link!!!
+2017-01-02 08:44:54 URL: http://www.townofwales.net/index.php/forms/more/doc_download/561-fy14-capital-planning-schedule-updated-22613 200 OK
+unlink: No such file or directory
+2017-01-02 08:44:54 URL: http://www.townofwales.net/index.php/forms/doc_download/417-cipc-request-form 200 OK
+unlink: No such file or directory
+http://www.townofwales.net/index.php/bc/tv/bc/tv:
+Remote file does not exist -- broken link!!!
+2017-01-02 08:45:00 URL:http://www.townofwales.net/index.php/calendar/eventsbyyear/2017/- [46967] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyyear/2017/-" [1]
+2017-01-02 08:45:03 URL:http://www.townofwales.net/index.php/calendar/monthcalendar/2017/1/- [46600] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/monthcalendar/2017/1/-" [1]
+2017-01-02 08:45:05 URL:http://www.townofwales.net/index.php/calendar/eventsbyweek/2017/01/01/- [27923] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyweek/2017/01/01/-" [1]
+2017-01-02 08:45:08 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/2/- [25585] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/2/-" [1]
+2017-01-02 08:45:11 URL:http://www.townofwales.net/index.php/calendar/eventsbycategory/- [46510] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbycategory/-" [1]
+2017-01-02 08:45:14 URL:http://www.townofwales.net/index.php/calendar/search_form/- [24670] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/search_form/-" [1]
+2017-01-02 08:45:17 URL:http://www.townofwales.net/index.php/calendar/monthcalendar/2016/12/- [58480] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/monthcalendar/2016/12/-" [1]
+2017-01-02 08:45:20 URL:http://www.townofwales.net/index.php/calendar/monthcalendar/2017/2/- [42673] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/monthcalendar/2017/2/-" [1]
+2017-01-02 08:45:24 URL:http://www.townofwales.net/index.php/calendar/eventsbyweek/2017/1/1/- [27917] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyweek/2017/1/1/-" [1]
+2017-01-02 08:45:26 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/1/- [25245] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/1/-" [1]
+2017-01-02 08:45:28 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6492/-/new-years-holiday-office-closed [26856] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6492/-/new-years-holiday-office-closed" [1]
+2017-01-02 08:45:31 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/3/- [26514] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/3/-" [1]
+2017-01-02 08:45:33 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6512/-/clerks-office-closing-at-noon [26885] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6512/-/clerks-office-closing-at-noon" [1]
+2017-01-02 08:45:36 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6129/-/coa-meeting [27958] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6129/-/coa-meeting" [1]
+2017-01-02 08:45:38 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6513/-/library-trustees [26822] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6513/-/library-trustees" [1]
+2017-01-02 08:45:40 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/4/- [25550] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/4/-" [1]
+2017-01-02 08:45:43 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6151/-/board-of-health [28899] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6151/-/board-of-health" [1]
+2017-01-02 08:45:45 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/5/- [25249] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/5/-" [1]
+2017-01-02 08:45:48 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/6/- [25245] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/6/-" [1]
+2017-01-02 08:45:50 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/7/- [25249] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/7/-" [1]
+2017-01-02 08:45:53 URL:http://www.townofwales.net/index.php/calendar/eventsbyweek/2017/1/8/- [26429] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyweek/2017/1/8/-" [1]
+2017-01-02 08:45:57 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/8/- [25243] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/8/-" [1]
+2017-01-02 08:46:01 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/9/- [25246] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/9/-" [1]
+2017-01-02 08:46:04 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/10/- [25566] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/10/-" [1]
+2017-01-02 08:46:06 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6247/-/recreation-committee [27894] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6247/-/recreation-committee" [1]
+2017-01-02 08:46:09 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/11/- [25256] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/11/-" [1]
+2017-01-02 08:46:12 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/12/- [25560] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/12/-" [1]
+2017-01-02 08:46:14 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6105/-/finance-committee [28721] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6105/-/finance-committee" [1]
+2017-01-02 08:46:17 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/13/- [25250] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/13/-" [1]
+2017-01-02 08:46:19 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/14/- [25254] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/14/-" [1]
+2017-01-02 08:46:21 URL:http://www.townofwales.net/index.php/calendar/eventsbyweek/2017/1/15/- [26433] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyweek/2017/1/15/-" [1]
+2017-01-02 08:46:24 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/15/- [25249] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/15/-" [1]
+2017-01-02 08:46:26 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/16/- [25569] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/16/-" [1]
+2017-01-02 08:46:33 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6493/-/mlk-birthday-office-closed [26829] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6493/-/mlk-birthday-office-closed" [1]
+2017-01-02 08:46:36 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/17/- [25252] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/17/-" [1]
+2017-01-02 08:46:38 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/18/- [25556] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/18/-" [1]
+2017-01-02 08:46:41 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6430/-/board-of-health [28899] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6430/-/board-of-health" [1]
+2017-01-02 08:46:45 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/19/- [25254] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/19/-" [1]
+2017-01-02 08:46:48 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/20/- [25250] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/20/-" [1]
+2017-01-02 08:46:53 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/21/- [25254] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/21/-" [1]
+2017-01-02 08:46:55 URL:http://www.townofwales.net/index.php/calendar/eventsbyweek/2017/1/22/- [25121] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyweek/2017/1/22/-" [1]
+2017-01-02 08:46:58 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/22/- [25249] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/22/-" [1]
+2017-01-02 08:47:01 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/23/- [25250] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/23/-" [1]
+2017-01-02 08:47:03 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/24/- [25252] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/24/-" [1]
+2017-01-02 08:47:07 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/25/- [25256] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/25/-" [1]
+2017-01-02 08:47:10 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/26/- [25254] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/26/-" [1]
+2017-01-02 08:47:12 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/27/- [25250] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/27/-" [1]
+2017-01-02 08:47:15 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/28/- [25254] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/28/-" [1]
+2017-01-02 08:47:17 URL:http://www.townofwales.net/index.php/calendar/eventsbyweek/2017/1/29/- [25769] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyweek/2017/1/29/-" [1]
+2017-01-02 08:47:19 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/29/- [25249] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/29/-" [1]
+2017-01-02 08:47:21 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/30/- [25250] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/30/-" [1]
+2017-01-02 08:47:24 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/31/- [25251] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/31/-" [1]
+2017-01-02 08:47:27 URL:http://www.townofwales.net/index.php/calendar/monthcalendar/2017/1/65 [38906] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/monthcalendar/2017/1/65" [1]
+2017-01-02 08:47:29 URL:http://www.townofwales.net/index.php/calendar/monthcalendar/2017/1/48 [45859] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/monthcalendar/2017/1/48" [1]
+2017-01-02 08:47:32 URL:http://www.townofwales.net/index.php/calendar/monthcalendar/2017/1/47 [38845] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/monthcalendar/2017/1/47" [1]
+2017-01-02 08:47:35 URL:http://www.townofwales.net/index.php/calendar/calendar/calendar/calendar [47168] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/calendar/calendar" [1]
+2017-01-02 08:47:38 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyyear/2017/- [48027] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyyear/2017/-" [1]
+2017-01-02 08:47:40 URL:http://www.townofwales.net/index.php/calendar/calendar/monthcalendar/2017/1/- [47183] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/monthcalendar/2017/1/-" [1]
+2017-01-02 08:47:43 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyweek/2017/01/01/- [28182] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyweek/2017/01/01/-" [1]
+2017-01-02 08:47:45 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/2/- [25745] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/2/-" [1]
+2017-01-02 08:47:48 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbycategory/- [47130] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbycategory/-" [1]
+2017-01-02 08:47:54 URL:http://www.townofwales.net/index.php/calendar/calendar/search_form/- [24803] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/search_form/-" [1]
+2017-01-02 08:47:57 URL:http://www.townofwales.net/index.php/calendar/calendar/monthcalendar/2016/12/- [59198] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/monthcalendar/2016/12/-" [1]
+2017-01-02 08:48:00 URL:http://www.townofwales.net/index.php/calendar/calendar/monthcalendar/2017/2/- [43193] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/monthcalendar/2017/2/-" [1]
+2017-01-02 08:48:04 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyweek/2017/1/1/- [28176] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyweek/2017/1/1/-" [1]
+2017-01-02 08:48:06 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/1/- [25387] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/1/-" [1]
+2017-01-02 08:48:08 URL:http://www.townofwales.net/index.php/calendar/calendar/eventdetail/6492/-/new-years-holiday-office-closed [26998] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventdetail/6492/-/new-years-holiday-office-closed" [1]
+2017-01-02 08:48:11 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/3/- [26710] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/3/-" [1]
+2017-01-02 08:48:14 URL:http://www.townofwales.net/index.php/calendar/calendar/eventdetail/6512/-/clerks-office-closing-at-noon [27027] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventdetail/6512/-/clerks-office-closing-at-noon" [1]
+2017-01-02 08:48:17 URL:http://www.townofwales.net/index.php/calendar/calendar/eventdetail/6129/-/coa-meeting [28136] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventdetail/6129/-/coa-meeting" [1]
+2017-01-02 08:48:19 URL:http://www.townofwales.net/index.php/calendar/calendar/eventdetail/6513/-/library-trustees [26964] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventdetail/6513/-/library-trustees" [1]
+2017-01-02 08:48:21 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/4/- [25710] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/4/-" [1]
+2017-01-02 08:48:24 URL:http://www.townofwales.net/index.php/calendar/calendar/eventdetail/6151/-/board-of-health [29077] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventdetail/6151/-/board-of-health" [1]
+2017-01-02 08:48:27 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/5/- [25391] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/5/-" [1]
+2017-01-02 08:48:29 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/6/- [25387] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/6/-" [1]
+2017-01-02 08:48:31 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/7/- [25391] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/7/-" [1]
+2017-01-02 08:48:34 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyweek/2017/1/8/- [26625] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyweek/2017/1/8/-" [1]
+2017-01-02 08:48:36 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/8/- [25385] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/8/-" [1]
+2017-01-02 08:48:38 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/9/- [25388] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/9/-" [1]
+2017-01-02 08:48:41 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/10/- [25726] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/10/-" [1]
+2017-01-02 08:48:44 URL:http://www.townofwales.net/index.php/calendar/calendar/eventdetail/6247/-/recreation-committee [28072] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventdetail/6247/-/recreation-committee" [1]
+2017-01-02 08:48:46 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/11/- [25398] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/11/-" [1]
+2017-01-02 08:48:51 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/12/- [25720] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/12/-" [1]
+2017-01-02 08:48:54 URL:http://www.townofwales.net/index.php/calendar/calendar/eventdetail/6105/-/finance-committee [28899] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventdetail/6105/-/finance-committee" [1]
+2017-01-02 08:48:57 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/13/- [25392] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/13/-" [1]
+2017-01-02 08:48:59 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/14/- [25396] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/14/-" [1]
+2017-01-02 08:49:03 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyweek/2017/1/15/- [26629] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyweek/2017/1/15/-" [1]
+2017-01-02 08:49:06 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/15/- [25391] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/15/-" [1]
+2017-01-02 08:49:08 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/16/- [25729] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/16/-" [1]
+2017-01-02 08:49:10 URL:http://www.townofwales.net/index.php/calendar/calendar/eventdetail/6493/-/mlk-birthday-office-closed [26971] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventdetail/6493/-/mlk-birthday-office-closed" [1]
+2017-01-02 08:49:13 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/17/- [25394] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/17/-" [1]
+2017-01-02 08:49:15 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/18/- [25716] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/18/-" [1]
+2017-01-02 08:49:17 URL:http://www.townofwales.net/index.php/calendar/calendar/eventdetail/6430/-/board-of-health [29077] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventdetail/6430/-/board-of-health" [1]
+2017-01-02 08:49:20 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/19/- [25396] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/19/-" [1]
+2017-01-02 08:49:22 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/20/- [25392] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/20/-" [1]
+2017-01-02 08:49:24 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/21/- [25396] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/21/-" [1]
+2017-01-02 08:49:27 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyweek/2017/1/22/- [25263] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyweek/2017/1/22/-" [1]
+2017-01-02 08:49:29 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/22/- [25391] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/22/-" [1]
+2017-01-02 08:49:31 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/23/- [25392] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/23/-" [1]
+2017-01-02 08:49:34 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/24/- [25394] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/24/-" [1]
+2017-01-02 08:49:36 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/25/- [25398] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/25/-" [1]
+2017-01-02 08:49:39 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/26/- [25396] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/26/-" [1]
+2017-01-02 08:49:41 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/27/- [25392] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/27/-" [1]
+2017-01-02 08:49:46 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/28/- [25396] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/28/-" [1]
+2017-01-02 08:49:48 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyweek/2017/1/29/- [25938] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyweek/2017/1/29/-" [1]
+2017-01-02 08:49:50 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/29/- [25391] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/29/-" [1]
+2017-01-02 08:49:53 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/30/- [25392] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/30/-" [1]
+2017-01-02 08:49:55 URL:http://www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/31/- [25393] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/eventsbyday/2017/1/31/-" [1]
+2017-01-02 08:49:57 URL:http://www.townofwales.net/index.php/calendar/calendar/monthcalendar/2017/1/65 [39390] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/monthcalendar/2017/1/65" [1]
+2017-01-02 08:50:00 URL:http://www.townofwales.net/index.php/calendar/calendar/monthcalendar/2017/1/48 [46424] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/monthcalendar/2017/1/48" [1]
+2017-01-02 08:50:03 URL:http://www.townofwales.net/index.php/calendar/calendar/monthcalendar/2017/1/47 [39329] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/calendar/monthcalendar/2017/1/47" [1]
+2017-01-02 08:50:05 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/calendar/sc-calendar [42800] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/calendar/sc-calendar" [1]
+2017-01-02 08:50:07 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyyear/2017/- [37502] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyyear/2017/-" [1]
+2017-01-02 08:50:10 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/monthcalendar/2017/1/- [42806] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/monthcalendar/2017/1/-" [1]
+2017-01-02 08:50:14 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyweek/2017/01/01/- [26002] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyweek/2017/01/01/-" [1]
+2017-01-02 08:50:16 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/2/- [25411] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/2/-" [1]
+2017-01-02 08:50:18 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbycategory/- [36029] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbycategory/-" [1]
+2017-01-02 08:50:21 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/search_form/- [24824] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/search_form/-" [1]
+2017-01-02 08:50:23 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/monthcalendar/2016/12/- [42855] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/monthcalendar/2016/12/-" [1]
+2017-01-02 08:50:26 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/monthcalendar/2017/2/- [41970] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/monthcalendar/2017/2/-" [1]
+2017-01-02 08:50:28 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyweek/2017/1/1/- [25996] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyweek/2017/1/1/-" [1]
+2017-01-02 08:50:30 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/1/- [25411] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/1/-" [1]
+2017-01-02 08:50:32 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/3/- [25413] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/3/-" [1]
+2017-01-02 08:50:35 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/4/- [25772] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/4/-" [1]
+2017-01-02 08:50:37 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventdetail/6046/-/food-pantry [28028] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventdetail/6046/-/food-pantry" [1]
+2017-01-02 08:50:39 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/5/- [25415] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/5/-" [1]
+2017-01-02 08:50:42 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/6/- [25411] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/6/-" [1]
+2017-01-02 08:50:44 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/7/- [25415] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/7/-" [1]
+2017-01-02 08:50:49 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyweek/2017/1/8/- [25996] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyweek/2017/1/8/-" [1]
+2017-01-02 08:50:51 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/8/- [25409] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/8/-" [1]
+2017-01-02 08:50:54 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/9/- [25412] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/9/-" [1]
+2017-01-02 08:51:04 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/10/- [25417] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/10/-" [1]
+2017-01-02 08:51:07 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/11/- [25778] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/11/-" [1]
+2017-01-02 08:51:09 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventdetail/6047/-/food-pantry [28028] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventdetail/6047/-/food-pantry" [1]
+2017-01-02 08:51:12 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/12/- [25420] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/12/-" [1]
+2017-01-02 08:51:14 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/13/- [25416] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/13/-" [1]
+2017-01-02 08:51:21 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/14/- [25420] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/14/-" [1]
+2017-01-02 08:51:23 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyweek/2017/1/15/- [26001] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyweek/2017/1/15/-" [1]
+2017-01-02 08:51:25 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/15/- [25415] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/15/-" [1]
+2017-01-02 08:51:28 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/16/- [25416] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/16/-" [1]
+2017-01-02 08:51:29 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/17/- [25418] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/17/-" [1]
+2017-01-02 08:51:32 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/18/- [25778] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/18/-" [1]
+2017-01-02 08:51:35 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventdetail/6048/-/food-pantry [28028] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventdetail/6048/-/food-pantry" [1]
+2017-01-02 08:51:37 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/19/- [25420] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/19/-" [1]
+2017-01-02 08:51:39 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/20/- [25416] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/20/-" [1]
+2017-01-02 08:51:42 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/21/- [25420] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/21/-" [1]
+2017-01-02 08:51:44 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyweek/2017/1/22/- [26002] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyweek/2017/1/22/-" [1]
+2017-01-02 08:51:53 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/22/- [25415] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/22/-" [1]
+2017-01-02 08:51:56 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/23/- [25416] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/23/-" [1]
+2017-01-02 08:51:58 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/24/- [25418] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/24/-" [1]
+2017-01-02 08:52:01 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/25/- [25778] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/25/-" [1]
+2017-01-02 08:52:06 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventdetail/6049/-/food-pantry [28028] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventdetail/6049/-/food-pantry" [1]
+2017-01-02 08:52:09 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/26/- [25420] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/26/-" [1]
+2017-01-02 08:52:11 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/27/- [25416] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/27/-" [1]
+2017-01-02 08:52:14 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/28/- [25420] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/28/-" [1]
+2017-01-02 08:52:18 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyweek/2017/1/29/- [26003] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyweek/2017/1/29/-" [1]
+2017-01-02 08:52:20 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/29/- [25415] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/29/-" [1]
+2017-01-02 08:52:23 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/30/- [25416] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/30/-" [1]
+2017-01-02 08:52:25 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/31/- [25417] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/eventsbyday/2017/1/31/-" [1]
+2017-01-02 08:52:29 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/monthcalendar/2017/1/59 [39308] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/monthcalendar/2017/1/59" [1]
+2017-01-02 08:52:32 URL:http://www.townofwales.net/index.php/calendar/sc-calendar/monthcalendar/2017/1/58 [42637] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/sc-calendar/monthcalendar/2017/1/58" [1]
+2017-01-02 08:52:34 URL:http://www.townofwales.net/index.php/forms/forms [30031] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/forms" [1]
+2017-01-02 08:52:37 URL:http://www.townofwales.net/index.php/forms/search_form [27725] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/search_form" [1]
+2017-01-02 08:52:42 URL:http://www.townofwales.net/index.php/forms/cat_view/43-general-information [36585] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/cat_view/43-general-information" [1]
+2017-01-02 08:52:44 URL:http://www.townofwales.net/index.php/forms/cat_view/39-board-of-selectmen [23445] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/cat_view/39-board-of-selectmen" [1]
+2017-01-02 08:52:48 URL:http://www.townofwales.net/index.php/forms/cat_view/51-town-clerk [32548] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/cat_view/51-town-clerk" [1]
+2017-01-02 08:52:53 URL:http://www.townofwales.net/index.php/forms/cat_view/40-finance-committee [42962] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/cat_view/40-finance-committee" [1]
+2017-01-02 08:52:57 URL:http://www.townofwales.net/index.php/forms/cat_view/79-5-main-street-committee [41980] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/cat_view/79-5-main-street-committee" [1]
+2017-01-02 08:53:03 URL:http://www.townofwales.net/index.php/forms/cat_view/55-school-committee [45250] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/cat_view/55-school-committee" [1]
+2017-01-02 08:53:08 URL:http://www.townofwales.net/index.php/forms/cat_view/64-capital-improvements-planning-committee [43138] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/cat_view/64-capital-improvements-planning-committee" [1]
+2017-01-02 08:53:13 URL:http://www.townofwales.net/index.php/forms/cat_view/66-regional-events [44043] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/cat_view/66-regional-events" [1]
+2017-01-02 08:53:18 URL:http://www.townofwales.net/index.php/forms/cat_view/52-senior-center-docs [50792] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/cat_view/52-senior-center-docs" [1]
+2017-01-02 08:53:22 URL:http://www.townofwales.net/index.php/forms/cat_view/44-board-of-health [31652] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/cat_view/44-board-of-health" [1]
+2017-01-02 08:53:25 URL:http://www.townofwales.net/index.php/forms/cat_view/78-planning-board [25072] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/cat_view/78-planning-board" [1]
+2017-01-02 08:53:28 URL:http://www.townofwales.net/index.php/forms/cat_view/91-assessor-tax-maps [39116] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/cat_view/91-assessor-tax-maps" [1]
+2017-01-02 08:53:35 URL:http://www.townofwales.net/index.php/forms/cat_view/61-library-docs [43072] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/cat_view/61-library-docs" [1]
+2017-01-02 08:53:44 URL:http://www.townofwales.net/index.php/forms/cat_view/56-miscellaneous [39631] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/cat_view/56-miscellaneous" [1]
+2017-01-02 08:53:47 URL:http://www.townofwales.net/index.php/forms/cat_view/97-board-of-registrars [28223] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/cat_view/97-board-of-registrars" [1]
+2017-01-02 08:53:50 URL:http://www.townofwales.net/index.php/forms/general/cat_view/43-general-information [35250] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/general/cat_view/43-general-information" [1]
+2017-01-02 08:53:53 URL:http://www.townofwales.net/index.php/forms/general/cat_view/51-town-clerk [31061] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/general/cat_view/51-town-clerk" [1]
+2017-01-02 08:53:58 URL:http://www.townofwales.net/index.php/forms/general/cat_view/56-miscellaneous [38408] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/general/cat_view/56-miscellaneous" [1]
+2017-01-02 08:54:02 URL:http://www.townofwales.net/index.php/forms/general/forms/general [28472] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/general/forms/general" [1]
+2017-01-02 08:54:04 URL:http://www.townofwales.net/index.php/forms/general/search_form [25894] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/general/search_form" [1]
+2017-01-02 08:54:08 URL:http://www.townofwales.net/index.php/forms/general/cat_view/43-general-information/71-annual-reports-warrants-and-minutes [35282] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/general/cat_view/43-general-information/71-annual-reports-warrants-and-minutes" [1]
+2017-01-02 08:54:10 URL:http://www.townofwales.net/index.php/forms/general/cat_view/43-general-information/70-financial-documents [25209] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/general/cat_view/43-general-information/70-financial-documents" [1]
+2017-01-02 08:54:13 URL:http://www.townofwales.net/index.php/forms/fincomforms [30049] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/fincomforms" [1]
+2017-01-02 08:54:15 URL:http://www.townofwales.net/index.php/forms/general/cat_view/43-general-information/95-posted-positions [26291] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/general/cat_view/43-general-information/95-posted-positions" [1]
+2017-01-02 08:54:22 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1753-bylaws-total-document-8-3-15 200 OK
+unlink: No such file or directory
+2017-01-02 08:54:23 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1713-lake-george-study-committee-4-4-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:54:24 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1580-stuff-a-cruiser-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:54:24 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1576-santa-breakfast-flyer-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:54:26 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1345-town-wide-cleanup-day-5-16-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:54:26 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1180-hours-of-operation-as-of-11-25-14 200 OK
+unlink: No such file or directory
+2017-01-02 08:54:27 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1179-total-zoning-bylaws-as-of-12-30-14 200 OK
+unlink: No such file or directory
+2017-01-02 08:54:28 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1101-veterans-agent-announcement 200 OK
+unlink: No such file or directory
+2017-01-02 08:54:29 URL: http://www.townofwales.net/index.php/forms/general/doc_download/948-2013-fish-kill-documentation 200 OK
+unlink: No such file or directory
+2017-01-02 08:54:30 URL: http://www.townofwales.net/index.php/forms/general/doc_download/941-union-road-and-woodland-heights-plans 200 OK
+unlink: No such file or directory
+2017-01-02 08:54:31 URL: http://www.townofwales.net/index.php/forms/general/doc_download/736-website-disclaimer-doc 200 OK
+unlink: No such file or directory
+2017-01-02 08:54:31 URL: http://www.townofwales.net/index.php/forms/general/doc_download/77-tax-collector-information 200 OK
+unlink: No such file or directory
+2017-01-02 08:54:32 URL: http://www.townofwales.net/index.php/forms/general/doc_download/40-wales-personnel-handbook 200 OK
+unlink: No such file or directory
+2017-01-02 08:54:33 URL: http://www.townofwales.net/index.php/forms/general/doc_download/26-wales-2010-financial-mgmt-review 200 OK
+unlink: No such file or directory
+2017-01-02 08:54:35 URL:http://www.townofwales.net/index.php/forms/townclerk/forms/townclerk [28556] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/townclerk/forms/townclerk" [1]
+2017-01-02 08:54:37 URL:http://www.townofwales.net/index.php/forms/townclerk/search_form [25910] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/townclerk/search_form" [1]
+2017-01-02 08:54:40 URL:http://www.townofwales.net/index.php/forms/townclerk/cat_view/51-town-clerk/89-town-clerk-minutes [26352] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/townclerk/cat_view/51-town-clerk/89-town-clerk-minutes" [1]
+2017-01-02 08:54:43 URL:http://www.townofwales.net/index.php/forms/townclerk/cat_view/51-town-clerk/77-animal-control [28657] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/townclerk/cat_view/51-town-clerk/77-animal-control" [1]
+2017-01-02 08:54:46 URL:http://www.townofwales.net/index.php/forms/townclerk/cat_view/51-town-clerk/90-elections [34333] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/townclerk/cat_view/51-town-clerk/90-elections" [1]
+2017-01-02 08:54:47 URL: http://www.townofwales.net/index.php/forms/townclerk/doc_download/2056-dropping-off-petitions-after-office-hours-instructions 200 OK
+unlink: No such file or directory
+2017-01-02 08:54:48 URL: http://www.townofwales.net/index.php/forms/townclerk/doc_download/1967-letter-to-the-editor 200 OK
+unlink: No such file or directory
+2017-01-02 08:54:49 URL: http://www.townofwales.net/index.php/forms/townclerk/doc_download/1963-mail-in-voter-registration-form 200 OK
+unlink: No such file or directory
+2017-01-02 08:54:49 URL: http://www.townofwales.net/index.php/forms/townclerk/doc_download/1608-your-enrollment-as-a-voter-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:54:50 URL: http://www.townofwales.net/index.php/forms/townclerk/doc_download/912-information-for-dog-owners 200 OK
+unlink: No such file or directory
+2017-01-02 08:54:52 URL: http://www.townofwales.net/index.php/forms/townclerk/doc_download/765-town-clerk-duties 200 OK
+unlink: No such file or directory
+2017-01-02 08:54:53 URL: http://www.townofwales.net/index.php/forms/townclerk/doc_download/763-how-to-contact-your-state-and-federal-representatives 200 OK
+unlink: No such file or directory
+2017-01-02 08:54:54 URL: http://www.townofwales.net/index.php/forms/townclerk/doc_download/672-how-an-idea-becomes-a-law-in-massachusetts 200 OK
+unlink: No such file or directory
+2017-01-02 08:54:55 URL: http://www.townofwales.net/index.php/forms/townclerk/doc_download/559-town-clerk-fees 200 OK
+unlink: No such file or directory
+2017-01-02 08:54:55 URL: http://www.townofwales.net/index.php/forms/townclerk/doc_download/544-faqs-about-the-annual-street-list-form 200 OK
+unlink: No such file or directory
+2017-01-02 08:54:56 URL: http://www.townofwales.net/index.php/forms/townclerk/doc_download/535-bylaws-for-the-town-of-wales-where-to-find-them-on-the-website 200 OK
+unlink: No such file or directory
+2017-01-02 08:54:58 URL:http://www.townofwales.net/index.php/forms/bos/forms/bos [28304] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/bos/forms/bos" [1]
+2017-01-02 08:55:01 URL:http://www.townofwales.net/index.php/forms/bos/search_form [25862] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/bos/search_form" [1]
+2017-01-02 08:55:05 URL:http://www.townofwales.net/index.php/forms/bos/cat_view/39-board-of-selectmen/92-bos-agendas-and-other-postings [42502] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/bos/cat_view/39-board-of-selectmen/92-bos-agendas-and-other-postings" [1]
+2017-01-02 08:55:10 URL:http://www.townofwales.net/index.php/forms/bos/cat_view/39-board-of-selectmen/93-bos-minutes [39641] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/bos/cat_view/39-board-of-selectmen/93-bos-minutes" [1]
+2017-01-02 08:55:12 URL:http://www.townofwales.net/index.php/forms/finance/forms/finance [28472] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/finance/forms/finance" [1]
+2017-01-02 08:55:14 URL:http://www.townofwales.net/index.php/forms/finance/search_form [25894] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/finance/search_form" [1]
+2017-01-02 08:55:15 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/2084-test 200 OK
+unlink: No such file or directory
+2017-01-02 08:55:16 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/2058-fincom-agenda-20161123 200 OK
+unlink: No such file or directory
+2017-01-02 08:55:16 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/2052-finance-committee-agenda-11-17-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:55:17 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/2020-finance-committee-agenda-10-13-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:55:18 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/1995-fincom-agenda-09-08-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:55:19 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/1811-fincom-agenda-06-09-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:55:20 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/1781-fincom-agenda-and-public-hearing-5-11-10 200 OK
+unlink: No such file or directory
+2017-01-02 08:55:21 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/1750-fincom-agenda-20160411 200 OK
+unlink: No such file or directory
+2017-01-02 08:55:21 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/1720-fincom-agenda-03-24-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:55:22 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/1685-fincom-agenda-2-11-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:55:23 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/1684-fincom-minutes-1-14-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:55:24 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/1683-fincom-minutes-12-10-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:55:25 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/1682-fincom-agenda-12-10-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:55:25 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/1681-fincom-minutes-11-12-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:55:26 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/1680-fincom-agenda-11-12-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:55:28 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/1679-fincom-agenda-10-8-2015-no-mtng 200 OK
+unlink: No such file or directory
+2017-01-02 08:55:28 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/1678-fincom-minutes-9-10-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:55:29 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/1677-fincom-agenda-9-10-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:55:30 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/1676-fincom-minutes-8-13-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:55:31 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/1675-fincom-agenda-8-13-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:55:33 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/1674-fincom-bos-joint-meeting-minutes-7-14-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:55:33 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/1673-fincom-minutes-7-9-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:55:34 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/1672-fincom-agenda-7-9-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:55:35 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/1671-fincom-minutes-6-11-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:55:36 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/1670-fincom-agenda-6-11-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:55:36 URL: http://www.townofwales.net/index.php/forms/finance/doc_download/1669-fincom-minutes-5-12-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:55:39 URL:http://www.townofwales.net/index.php/forms/planning-board/forms/planning-board [28766] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/planning-board/forms/planning-board" [1]
+2017-01-02 08:55:41 URL:http://www.townofwales.net/index.php/forms/planning-board/search_form [25950] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/planning-board/search_form" [1]
+2017-01-02 08:55:48 URL:http://www.townofwales.net/index.php/forms/planning-board/cat_view/78-planning-board/87-planning-board-agendas-a-other-postings [43939] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/planning-board/cat_view/78-planning-board/87-planning-board-agendas-a-other-postings" [1]
+2017-01-02 08:55:54 URL:http://www.townofwales.net/index.php/forms/planning-board/cat_view/78-planning-board/88-planning-board-minutes [43254] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/planning-board/cat_view/78-planning-board/88-planning-board-minutes" [1]
+2017-01-02 08:55:56 URL: http://www.townofwales.net/index.php/forms/planning-board/doc_download/2035-planning-board-agenda-for-10-26-16 200 OK
+unlink: No such file or directory
+http://www.townofwales.net/index.php/forms/5main/forms/5main:
+Remote file does not exist -- broken link!!!
+2017-01-02 08:56:00 URL:http://www.townofwales.net/index.php/forms/5main/search_form [25878] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/5main/search_form" [1]
+2017-01-02 08:56:03 URL:http://www.townofwales.net/index.php/forms/5main/cat_view/79-5-main-street-committee/86-submitted-survey-responses [28090] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/5main/cat_view/79-5-main-street-committee/86-submitted-survey-responses" [1]
+2017-01-02 08:56:03 URL: http://www.townofwales.net/index.php/forms/5main/doc_download/1693-five-main-street-committee-meeting-3-1-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:56:04 URL: http://www.townofwales.net/index.php/forms/5main/doc_download/1689-5-main-st-property-flood-a-wetlands-map 200 OK
+unlink: No such file or directory
+2017-01-02 08:56:05 URL: http://www.townofwales.net/index.php/forms/5main/doc_view/1689-5-main-st-property-flood-a-wetlands-map 200 OK
+unlink: No such file or directory
+2017-01-02 08:56:06 URL: http://www.townofwales.net/index.php/forms/5main/doc_download/1649-five-main-street-committee-meeting-2-16-2016 200 OK
+unlink: No such file or directory
+2017-01-02 08:56:07 URL: http://www.townofwales.net/index.php/forms/5main/doc_download/1638-5-main-street-committee-meeting-and-agenda2-2-16 200 OK
+unlink: No such file or directory
+2017-01-02 08:56:07 URL: http://www.townofwales.net/index.php/forms/5main/doc_download/1513-5-main-street-committee-9-28-15 200 OK
+unlink: No such file or directory
+2017-01-02 08:56:08 URL: http://www.townofwales.net/index.php/forms/5main/doc_download/1462-5-main-committee-meeting-and-agenda-8-6-15 200 OK
+unlink: No such file or directory
+2017-01-02 08:56:09 URL: http://www.townofwales.net/index.php/forms/5main/doc_download/1343-5-main-committee-meeting-and-agenda-5-11-15 200 OK
+unlink: No such file or directory
+2017-01-02 08:56:10 URL: http://www.townofwales.net/index.php/forms/5main/doc_download/1342-5-main-committee-meeting-and-agenda-5-8-15 200 OK
+unlink: No such file or directory
+2017-01-02 08:56:11 URL: http://www.townofwales.net/index.php/forms/5main/doc_download/1326-5-main-committee-meeting-and-agenda-4-23-15 200 OK
+unlink: No such file or directory
+2017-01-02 08:56:11 URL: http://www.townofwales.net/index.php/forms/5main/doc_download/1313-5-main-committee-meeting-and-agenda-4-9-15 200 OK
+unlink: No such file or directory
+2017-01-02 08:56:12 URL: http://www.townofwales.net/index.php/forms/5main/doc_download/1285-5-main-committee-agenda-3-19-15 200 OK
+unlink: No such file or directory
+2017-01-02 08:56:13 URL: http://www.townofwales.net/index.php/forms/5main/doc_download/1281-5-main-st-assessors-doc-before-purchase 200 OK
+unlink: No such file or directory
+2017-01-02 08:56:14 URL: http://www.townofwales.net/index.php/forms/5main/doc_download/1280-minutes-2-19-15-third-meeting 200 OK
+unlink: No such file or directory
+2017-01-02 08:56:15 URL: http://www.townofwales.net/index.php/forms/5main/doc_download/1279-minutes-1-21-15-first-meeting 200 OK
+unlink: No such file or directory
+2017-01-02 08:56:16 URL: http://www.townofwales.net/index.php/forms/5main/doc_download/1264-5-main-st-committee-agenda-3-5-15 200 OK
+unlink: No such file or directory
+2017-01-02 08:56:17 URL: http://www.townofwales.net/index.php/forms/5main/doc_download/1249-5-main-s-quitclaim-deed 200 OK
+unlink: No such file or directory
+2017-01-02 08:56:17 URL: http://www.townofwales.net/index.php/forms/5main/doc_download/1245-5-main-minutes-jan-29-2015 200 OK
+unlink: No such file or directory
+2017-01-02 08:56:18 URL: http://www.townofwales.net/index.php/forms/5main/doc_download/1229-5-main-st-committee-1-27-15-agenda 200 OK
+unlink: No such file or directory
+2017-01-02 08:56:19 URL: http://www.townofwales.net/index.php/forms/5main/doc_download/1225-5-main-committee-meeting-and-agenda-2-19-15 200 OK
+unlink: No such file or directory
+2017-01-02 08:56:20 URL: http://www.townofwales.net/index.php/forms/5main/doc_download/1207-rescheduled-meeting-5-main-committee-agenda-1-29-15 200 OK
+unlink: No such file or directory
+2017-01-02 08:56:20 URL: http://www.townofwales.net/index.php/forms/5main/doc_download/1197-5-main-committee-meeting-and-agenda-1-27-15 200 OK
+unlink: No such file or directory
+2017-01-02 08:56:21 URL: http://www.townofwales.net/index.php/forms/5main/doc_download/1196-5-main-committee-site-visit-1-24-15 200 OK
+unlink: No such file or directory
+2017-01-02 08:56:22 URL: http://www.townofwales.net/index.php/forms/5main/doc_download/1194-5-main-st-committee12115-agenda 200 OK
+unlink: No such file or directory
+2017-01-02 08:56:23 URL: http://www.townofwales.net/index.php/forms/5main/doc_download/1121-5-main-st-committee-members-needed 200 OK
+unlink: No such file or directory
+2017-01-02 08:56:25 URL:http://www.townofwales.net/index.php/forms/more/forms/more [28346] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/more/forms/more" [1]
+2017-01-02 08:56:27 URL:http://www.townofwales.net/index.php/forms/more/search_form [25870] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/more/search_form" [1]
+2017-01-02 08:56:30 URL:http://www.townofwales.net/index.php/forms/more/cat_view/43-general-information [35040] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/more/cat_view/43-general-information" [1]
+2017-01-02 08:56:32 URL:http://www.townofwales.net/index.php/forms/more/cat_view/39-board-of-selectmen [21605] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/more/cat_view/39-board-of-selectmen" [1]
+2017-01-02 08:56:35 URL:http://www.townofwales.net/index.php/forms/more/cat_view/51-town-clerk [30908] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/more/cat_view/51-town-clerk" [1]
+2017-01-02 08:56:40 URL:http://www.townofwales.net/index.php/forms/more/cat_view/40-finance-committee [41602] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/more/cat_view/40-finance-committee" [1]
+2017-01-02 08:56:43 URL:http://www.townofwales.net/index.php/forms/more/cat_view/79-5-main-street-committee [40510] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/more/cat_view/79-5-main-street-committee" [1]
+2017-01-02 08:56:48 URL:http://www.townofwales.net/index.php/forms/more/cat_view/55-school-committee [43910] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/more/cat_view/55-school-committee" [1]
+2017-01-02 08:56:51 URL:http://www.townofwales.net/index.php/forms/more/cat_view/64-capital-improvements-planning-committee [41758] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/more/cat_view/64-capital-improvements-planning-committee" [1]
+2017-01-02 08:56:55 URL:http://www.townofwales.net/index.php/forms/more/cat_view/66-regional-events [42668] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/more/cat_view/66-regional-events" [1]
+2017-01-02 08:57:00 URL:http://www.townofwales.net/index.php/forms/more/cat_view/52-senior-center-docs [49412] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/more/cat_view/52-senior-center-docs" [1]
+2017-01-02 08:57:03 URL:http://www.townofwales.net/index.php/forms/more/cat_view/44-board-of-health [30017] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/more/cat_view/44-board-of-health" [1]
+2017-01-02 08:57:05 URL:http://www.townofwales.net/index.php/forms/more/cat_view/78-planning-board [23262] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/more/cat_view/78-planning-board" [1]
+2017-01-02 08:57:08 URL:http://www.townofwales.net/index.php/forms/more/cat_view/91-assessor-tax-maps [37691] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/more/cat_view/91-assessor-tax-maps" [1]
+2017-01-02 08:57:10 URL:http://www.townofwales.net/index.php/forms/more/cat_view/49-permits-applications-a-other-forms [23521] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/more/cat_view/49-permits-applications-a-other-forms" [1]
+2017-01-02 08:57:14 URL:http://www.townofwales.net/index.php/forms/more/cat_view/61-library-docs [41692] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/more/cat_view/61-library-docs" [1]
+2017-01-02 08:57:18 URL:http://www.townofwales.net/index.php/forms/more/cat_view/56-miscellaneous [38156] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/more/cat_view/56-miscellaneous" [1]
+2017-01-02 08:57:21 URL:http://www.townofwales.net/index.php/forms/more/cat_view/97-board-of-registrars [26498] -> "../data/townSites2/Wales/www.townofwales.net/index.php/forms/more/cat_view/97-board-of-registrars" [1]
+http://www.townofwales.net/index.php/contact/contact:
+Remote file does not exist -- broken link!!!
+2017-01-02 08:57:25 URL:http://www.townofwales.net/index.php/contact/12-contacts/18-town-clerk [22348] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/18-town-clerk" [1]
+2017-01-02 08:57:27 URL:http://www.townofwales.net/index.php/contact/12-contacts/1-board-of-selectmen [22345] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/1-board-of-selectmen" [1]
+2017-01-02 08:57:30 URL:http://www.townofwales.net/index.php/contact/12-contacts/17-tax-collector [22379] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/17-tax-collector" [1]
+2017-01-02 08:57:34 URL:http://www.townofwales.net/index.php/contact/12-contacts/2-accountant [22394] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/2-accountant" [1]
+2017-01-02 08:57:36 URL:http://www.townofwales.net/index.php/contact/12-contacts/19-treasurer [22072] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/19-treasurer" [1]
+2017-01-02 08:57:38 URL:http://www.townofwales.net/index.php/contact/12-contacts/16-police-department [22541] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/16-police-department" [1]
+2017-01-02 08:57:41 URL:http://www.townofwales.net/index.php/contact/12-contacts/11-fire-department [22124] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/11-fire-department" [1]
+2017-01-02 08:57:43 URL:http://www.townofwales.net/index.php/contact/12-contacts/38-vacant [21238] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/38-vacant" [1]
+2017-01-02 08:57:45 URL:http://www.townofwales.net/index.php/contact/12-contacts/37-john-cozens [21278] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/37-john-cozens" [1]
+2017-01-02 08:57:48 URL:http://www.townofwales.net/index.php/contact/12-contacts/10-emergency-management [22490] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/10-emergency-management" [1]
+2017-01-02 08:57:50 URL:http://www.townofwales.net/index.php/contact/12-contacts/35-erin-hastings [21009] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/35-erin-hastings" [1]
+2017-01-02 08:57:52 URL:http://www.townofwales.net/index.php/contact/12-contacts/36-bruce-cadieux [22250] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/36-bruce-cadieux" [1]
+2017-01-02 08:57:54 URL:http://www.townofwales.net/index.php/contact/12-contacts/20-finance-committee [20296] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/20-finance-committee" [1]
+2017-01-02 08:57:57 URL:http://www.townofwales.net/index.php/contact/12-contacts/39-vacant [21324] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/39-vacant" [1]
+2017-01-02 08:57:59 URL:http://www.townofwales.net/index.php/contact/12-contacts/25-scdirector [22342] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/25-scdirector" [1]
+2017-01-02 08:58:02 URL:http://www.townofwales.net/index.php/contact/12-contacts/8-councilonaging [21709] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/8-councilonaging" [1]
+2017-01-02 08:58:04 URL:http://www.townofwales.net/index.php/contact/12-contacts/40-john-comerford [20857] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/40-john-comerford" [1]
+2017-01-02 08:58:06 URL:http://www.townofwales.net/index.php/contact/12-contacts/4-board-of-assessors [22443] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/4-board-of-assessors" [1]
+2017-01-02 08:58:11 URL:http://www.townofwales.net/index.php/contact/12-contacts/31-nancybaer [22337] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/31-nancybaer" [1]
+2017-01-02 08:58:15 URL:http://www.townofwales.net/index.php/contact/12-contacts/34-not-set [21591] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/34-not-set" [1]
+2017-01-02 08:58:18 URL:http://www.townofwales.net/index.php/contact/12-contacts/30-aco [22319] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/30-aco" [1]
+2017-01-02 08:58:20 URL:http://www.townofwales.net/index.php/contact/12-contacts/12-board-of-health [22361] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/12-board-of-health" [1]
+2017-01-02 08:58:22 URL:http://www.townofwales.net/index.php/contact/12-contacts/15-zoning-board-of-appeals [19455] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/15-zoning-board-of-appeals" [1]
+2017-01-02 08:58:24 URL:http://www.townofwales.net/index.php/contact/12-contacts/14-planning-board [22276] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/14-planning-board" [1]
+2017-01-02 08:58:26 URL:http://www.townofwales.net/index.php/contact/12-contacts/5-building-inspector [22498] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/5-building-inspector" [1]
+2017-01-02 08:58:28 URL:http://www.townofwales.net/index.php/contact/12-contacts/6-gas-and-plumbing-inspector [19209] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/6-gas-and-plumbing-inspector" [1]
+2017-01-02 08:58:30 URL:http://www.townofwales.net/index.php/contact/12-contacts/7-electrical-inspector [19522] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/7-electrical-inspector" [1]
+2017-01-02 08:58:32 URL:http://www.townofwales.net/index.php/contact/12-contacts/9-conservation-committee [22408] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/9-conservation-committee" [1]
+2017-01-02 08:58:34 URL:http://www.townofwales.net/index.php/contact/12-contacts/13-park-commission [22331] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/13-park-commission" [1]
+2017-01-02 08:58:36 URL:http://www.townofwales.net/index.php/contact/12-contacts/21-recreation-committee [19427] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/21-recreation-committee" [1]
+2017-01-02 08:58:38 URL:http://www.townofwales.net/index.php/contact/12-contacts/22-tree-warden [19450] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/22-tree-warden" [1]
+2017-01-02 08:58:40 URL:http://www.townofwales.net/index.php/contact/12-contacts/23-transfer-station [22432] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/23-transfer-station" [1]
+2017-01-02 08:58:42 URL:http://www.townofwales.net/index.php/contact/12-contacts/24-wales-local-access [22144] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/24-wales-local-access" [1]
+2017-01-02 08:58:45 URL:http://www.townofwales.net/index.php/contact/12-contacts/26-cemetery [21316] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/26-cemetery" [1]
+2017-01-02 08:58:47 URL:http://www.townofwales.net/index.php/contact/12-contacts/27-school [22385] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/27-school" [1]
+2017-01-02 08:58:49 URL:http://www.townofwales.net/index.php/contact/12-contacts/32-webmaster [21869] -> "../data/townSites2/Wales/www.townofwales.net/index.php/contact/12-contacts/32-webmaster" [1]
+2017-01-02 08:58:57 URL:http://www.townofwales.net/index.php/login/login [21059] -> "../data/townSites2/Wales/www.townofwales.net/index.php/login/login" [1]
+2017-01-02 08:58:59 URL:http://www.townofwales.net/index.php/component/resetpassword/ [20065] -> "../data/townSites2/Wales/www.townofwales.net/index.php/component/resetpassword/index.html" [1]
+2017-01-02 08:59:02 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6492/48%7C47%7C65/new-years-holiday-office-closed/calendar [26954] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6492/48|47|65/new-years-holiday-office-closed/calendar" [1]
+2017-01-02 08:59:04 URL:http://www.townofwales.net/index.php/calendar/eventsbyyear/2017/48%7C47%7C65 [47416] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyyear/2017/48|47|65" [1]
+2017-01-02 08:59:07 URL:http://www.townofwales.net/index.php/calendar/monthcalendar/2017/1/48%7C47%7C65 [47000] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/monthcalendar/2017/1/48|47|65" [1]
+2017-01-02 08:59:09 URL:http://www.townofwales.net/index.php/calendar/eventsbyweek/2017/01/01/48%7C47%7C65 [28064] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyweek/2017/01/01/48|47|65" [1]
+2017-01-02 08:59:12 URL:http://www.townofwales.net/index.php/calendar/eventsbyday/2017/1/2/48%7C47%7C65 [25677] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbyday/2017/1/2/48|47|65" [1]
+2017-01-02 08:59:14 URL:http://www.townofwales.net/index.php/calendar/eventsbycategory/48%7C47%7C65 [46983] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventsbycategory/48|47|65" [1]
+2017-01-02 08:59:16 URL:http://www.townofwales.net/index.php/calendar/search_form/48%7C47%7C65 [24691] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/search_form/48|47|65" [1]
+2017-01-02 08:59:19 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6512/48%7C47%7C65/clerks-office-closing-at-noon/calendar [26983] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6512/48|47|65/clerks-office-closing-at-noon/calendar" [1]
+2017-01-02 08:59:21 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6129/48%7C47%7C65/coa-meeting/calendar [28056] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6129/48|47|65/coa-meeting/calendar" [1]
+2017-01-02 08:59:24 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6128/-/coa-meeting [27959] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6128/-/coa-meeting" [1]
+2017-01-02 08:59:28 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6130/-/coa-meeting [27959] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6130/-/coa-meeting" [1]
+2017-01-02 08:59:30 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6513/48%7C47%7C65/library-trustees/calendar [26920] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6513/48|47|65/library-trustees/calendar" [1]
+2017-01-02 08:59:32 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6151/48%7C47%7C65/board-of-health/calendar [28997] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6151/48|47|65/board-of-health/calendar" [1]
+2017-01-02 08:59:35 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6429/-/board-of-health [28895] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6429/-/board-of-health" [1]
+2017-01-02 08:59:37 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6247/48%7C47%7C65/recreation-committee/calendar [27992] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6247/48|47|65/recreation-committee/calendar" [1]
+2017-01-02 08:59:51 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6246/-/recreation-committee [27895] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6246/-/recreation-committee" [1]
+2017-01-02 08:59:54 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6248/-/recreation-committee [27895] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6248/-/recreation-committee" [1]
+2017-01-02 08:59:56 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6105/48%7C47%7C65/finance-committee/calendar [28819] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6105/48|47|65/finance-committee/calendar" [1]
+2017-01-02 08:59:59 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6104/-/finance-committee [28737] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6104/-/finance-committee" [1]
+2017-01-02 09:00:03 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6106/-/finance-committee [28722] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6106/-/finance-committee" [1]
+2017-01-02 09:00:08 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6493/48%7C47%7C65/mlk-birthday-office-closed/calendar [26927] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6493/48|47|65/mlk-birthday-office-closed/calendar" [1]
+2017-01-02 09:00:22 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6430/48%7C47%7C65/board-of-health/calendar [28997] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6430/48|47|65/board-of-health/calendar" [1]
+2017-01-02 09:00:24 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6152/-/board-of-health [28900] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6152/-/board-of-health" [1]
+2017-01-02 09:00:27 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6152/48%7C47%7C65/board-of-health/calendar [28998] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6152/48|47|65/board-of-health/calendar" [1]
+2017-01-02 09:00:30 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6431/-/board-of-health [28900] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6431/-/board-of-health" [1]
+2017-01-02 09:00:32 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6130/48%7C47%7C65/coa-meeting/calendar [28057] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6130/48|47|65/coa-meeting/calendar" [1]
+2017-01-02 09:00:35 URL:http://www.townofwales.net/index.php/calendar/eventdetail/6131/-/coa-meeting [27956] -> "../data/townSites2/Wales/www.townofwales.net/index.php/calendar/eventdetail/6131/-/coa-meeting" [1]
+2017-01-02 09:00:37 URL:http://www.townofwales.net/index.php/posted-positions/posted-positions [28570] -> "../data/townSites2/Wales/www.townofwales.net/index.php/posted-positions/posted-positions" [1]
+2017-01-02 09:00:41 URL:http://www.townofwales.net/index.php/posted-positions/search_form [25890] -> "../data/townSites2/Wales/www.townofwales.net/index.php/posted-positions/search_form" [1]
+2017-01-02 09:00:42 URL: http://www.townofwales.net/index.php/posted-positions/doc_download/1938-planning-board-position 200 OK
+unlink: No such file or directory
+2017-01-02 09:00:43 URL: http://www.townofwales.net/index.php/posted-positions/doc_download/1937-building-inspector-position-posting 200 OK
+unlink: No such file or directory
+2017-01-02 09:00:44 URL: http://www.townofwales.net/index.php/posted-positions/doc_download/1012-commitee-posting-for-zba 200 OK
+unlink: No such file or directory
+http://www.townofwales.net/index.php/police/police:
+Remote file does not exist -- broken link!!!
+http://www.townofwales.net/index.php/fire-department/fire-department:
+Remote file does not exist -- broken link!!!
+http://www.townofwales.net/index.php/minutes/minutes:
+Remote file does not exist -- broken link!!!
+2017-01-02 09:00:49 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2089-fincom-budget-letter-for-fy18 200 OK
+unlink: No such file or directory
+2017-01-02 09:00:50 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2088-fy18-budget-request-form-pdf 200 OK
+unlink: No such file or directory
+2017-01-02 09:00:50 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2087-fy18-budget-request-form-excel 200 OK
+unlink: No such file or directory
+2017-01-02 09:00:51 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2086-wales-fy18-budget-schedule 200 OK
+unlink: No such file or directory
+2017-01-02 09:00:52 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2084-test 200 OK
+unlink: No such file or directory
+2017-01-02 09:00:52 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2058-fincom-agenda-20161123 200 OK
+unlink: No such file or directory
+2017-01-02 09:00:53 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2052-finance-committee-agenda-11-17-2016 200 OK
+unlink: No such file or directory
+2017-01-02 09:00:54 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2020-finance-committee-agenda-10-13-16 200 OK
+unlink: No such file or directory
+2017-01-02 09:00:55 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1995-fincom-agenda-09-08-16 200 OK
+unlink: No such file or directory
+2017-01-02 09:00:56 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1811-fincom-agenda-06-09-16 200 OK
+unlink: No such file or directory
+2017-01-02 09:00:57 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1781-fincom-agenda-and-public-hearing-5-11-10 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:13 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1750-fincom-agenda-20160411 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:14 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1720-fincom-agenda-03-24-16 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:14 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1685-fincom-agenda-2-11-2016 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:15 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1684-fincom-minutes-1-14-2016 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:16 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1683-fincom-minutes-12-10-2015 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:17 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1682-fincom-agenda-12-10-2015 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:17 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1681-fincom-minutes-11-12-2015 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:18 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1680-fincom-agenda-11-12-2015 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:19 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1679-fincom-agenda-10-8-2015-no-mtng 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:20 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1678-fincom-minutes-9-10-2015 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:21 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1677-fincom-agenda-9-10-2015 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:21 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1676-fincom-minutes-8-13-2015 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:22 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1675-fincom-agenda-8-13-2015 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:23 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1674-fincom-bos-joint-meeting-minutes-7-14-2015 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:24 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1673-fincom-minutes-7-9-2015 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:25 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1672-fincom-agenda-7-9-2015 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:26 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1671-fincom-minutes-6-11-2015 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:26 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1670-fincom-agenda-6-11-2015 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:27 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1669-fincom-minutes-5-12-2015 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:28 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2080-cipc-agenda-for-12-5-16 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:29 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2039-cipc-agenda-11-07-2016 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:30 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2015-cipc-agenda-10-24-2016 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:31 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1733-cipc-agenda-3-31-2016 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:32 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1731-cipc-agenda-3-28-16 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:33 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1269-cipc-agenda-3-11-15 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:34 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1226-cipc-agenda-2-25-15 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:34 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1105-cipc-agenda-10-29-14 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:35 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1028-cipc-agenda-8-27-14 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:36 URL: http://www.townofwales.net/index.php/forms/general/doc_download/986-cipc-agenda-6-25-14 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:37 URL: http://www.townofwales.net/index.php/forms/general/doc_download/963-cipc-agenda-5-28-14 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:38 URL: http://www.townofwales.net/index.php/forms/general/doc_download/889-cipc-agenda-3-26-14 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:39 URL: http://www.townofwales.net/index.php/forms/general/doc_download/859-cipc-agenda-2-26-14 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:40 URL: http://www.townofwales.net/index.php/forms/general/doc_download/818-cipc-agenda-12-11-13 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:41 URL: http://www.townofwales.net/index.php/forms/general/doc_download/795-cipc-agenda10-23-13 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:42 URL: http://www.townofwales.net/index.php/forms/general/doc_download/770-cipc-agenda-9-25-13 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:48 URL: http://www.townofwales.net/index.php/forms/general/doc_download/721-cipc-notice-of-meeting-a-agenda-7-10-13 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:49 URL: http://www.townofwales.net/index.php/forms/general/doc_download/644-cipc-meeting-agenda-4-1-13 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:50 URL: http://www.townofwales.net/index.php/forms/general/doc_download/620-cipc-meeting-march-19 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:52 URL: http://www.townofwales.net/index.php/forms/general/doc_download/603-cipc-request-form-town-vault 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:56 URL: http://www.townofwales.net/index.php/forms/general/doc_download/602-cipc-request-form-firedept 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:57 URL: http://www.townofwales.net/index.php/forms/general/doc_download/601-cipc-request-form-library 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:57 URL: http://www.townofwales.net/index.php/forms/general/doc_download/584-public-informational-meeting-feb-27 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:58 URL: http://www.townofwales.net/index.php/forms/general/doc_download/583-cipc-meeting-a-agenda-2-25-13 200 OK
+unlink: No such file or directory
+2017-01-02 09:01:59 URL: http://www.townofwales.net/index.php/forms/general/doc_download/570-cipc-notice-of-meeting-2-6-13 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:00 URL: http://www.townofwales.net/index.php/forms/general/doc_download/561-fy14-capital-planning-schedule-updated-22613 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:01 URL: http://www.townofwales.net/index.php/forms/general/doc_download/557-cipc-meeting-1-29-13 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:02 URL: http://www.townofwales.net/index.php/forms/general/doc_download/543-capital-improve-planning-agenda-12-26-12 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:03 URL: http://www.townofwales.net/index.php/forms/general/doc_download/519-capital-improve-planning-agenda-11-28-12 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:04 URL: http://www.townofwales.net/index.php/forms/general/doc_download/479-capital-improvements-planning-committee-10-22-121 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:04 URL: http://www.townofwales.net/index.php/forms/general/doc_download/722-boh-meeting-a-agenda-7-10-13 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:05 URL: http://www.townofwales.net/index.php/forms/general/doc_download/588-boh-minutes-10212 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:06 URL: http://www.townofwales.net/index.php/forms/general/doc_download/436-emergency-meeting-by-board-of-health-with-wales-brookside-village-8-21-12 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:07 URL: http://www.townofwales.net/index.php/forms/general/doc_download/193-minutes-10-18-2011 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:08 URL: http://www.townofwales.net/index.php/forms/general/doc_download/192-minutes-10-4-2011 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:08 URL: http://www.townofwales.net/index.php/forms/general/doc_download/194-minutes-9-20-2011 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:09 URL: http://www.townofwales.net/index.php/forms/general/doc_download/196-minutes-9-6-2011 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:10 URL: http://www.townofwales.net/index.php/forms/general/doc_download/142-minutes-8-16-2011 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:11 URL: http://www.townofwales.net/index.php/forms/general/doc_download/129-minutes-7-19-2011 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:13 URL: http://www.townofwales.net/index.php/forms/general/doc_download/133-minutes-6-7-2011 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:15 URL: http://www.townofwales.net/index.php/forms/general/doc_download/132-minutes-5-17-2011 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:16 URL: http://www.townofwales.net/index.php/forms/general/doc_download/131-minutes-4-19-2011 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:17 URL: http://www.townofwales.net/index.php/forms/general/doc_download/130-minutes-4-5-2011 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:18 URL: http://www.townofwales.net/index.php/forms/general/doc_download/155-minutes-31511 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:19 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2048-wales-school-committee-agenda-for-11-16-16 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:20 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2025-free-or-reduced-school-lunch 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:22 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2024-wsc-agenda-for-10-19-16 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:23 URL: http://www.townofwales.net/index.php/forms/general/doc_download/2004-wsc-agenda-for-9-21-16 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:24 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1980-wsc-standing-meetings-for-fy-17 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:24 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1916-sc-minutes-may-18-2016 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:25 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1912-wales-school-committee-agenda-for-6-15-16 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:26 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1797-sc-minutes-april-13-2016-executive-session-minutes 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:27 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1774-sc-minutes-march-2016-a-public-hearing 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:30 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1748-wes-agenda-for-4-13-16 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:30 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1740-wales-sc-minutes-february-2016 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:31 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1719-wales-sc-agenda-for-executive-session-4-13-16 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:32 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1711-wales-school-committee-agenda-3-16-16 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:33 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1707-turf-project-committee-3-7-16 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:34 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1699-sc-minutes-january-2016 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:35 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1651-public-hearing-on-fy17-elementary-school-proposed-budget-on-3-16-16 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:36 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1843-sc-minutes-february-2016 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:37 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1644-wes-agenda-2-10-16 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:38 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1641-sc-minutes-november-2015 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:39 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1630-wales-school-committee-executive-session-2-10-16 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:39 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1573-sc-minutes-october-2015 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:40 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1569-wales-agenda-11-18-15 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:41 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1554-wales-elementary-school-improvement-council-meeting-11-2-2015 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:42 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1551-sc-minutes-september-2015 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:43 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1901-wales-school-committee-meeting-10-5-15 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:44 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1525-sc-minutes-june-2015 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:44 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1523-wales-school-advisory-committee-5-20-15 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:45 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1509-wes-school-committee-agenda-9-16-15 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:46 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1384-sc-minutes-may-2015 200 OK
+unlink: No such file or directory
+2017-01-02 09:02:47 URL: http://www.townofwales.net/index.php/forms/general/doc_download/1369-notice-of-meeting-cancellation-6-2-15-tshs-5-29-15-1 200 OK
+unlink: No such file or directory
+http://www.townofwales.net/index.php/paybillsonline/paybillsonline:
+Remote file does not exist -- broken link!!!
+http://www.townofwales.net/index.php/transferstation/transferstation:
+Remote file does not exist -- broken link!!!
+2017-01-02 09:02:52 URL:http://www.townofwales.net/index.php/permits/permits [28192] -> "../data/townSites2/Wales/www.townofwales.net/index.php/permits/permits" [1]
+2017-01-02 09:02:54 URL:http://www.townofwales.net/index.php/permits/search_form [25818] -> "../data/townSites2/Wales/www.townofwales.net/index.php/permits/search_form" [1]
+2017-01-02 09:02:57 URL:http://www.townofwales.net/index.php/permits/cat_view/49-permits-applications-a-other-forms/81-board-of-assessors [26003] -> "../data/townSites2/Wales/www.townofwales.net/index.php/permits/cat_view/49-permits-applications-a-other-forms/81-board-of-assessors" [1]
+2017-01-02 09:03:01 URL:http://www.townofwales.net/index.php/permits/cat_view/49-permits-applications-a-other-forms/82-planning-board [22724] -> "../data/townSites2/Wales/www.townofwales.net/index.php/permits/cat_view/49-permits-applications-a-other-forms/82-planning-board" [1]
+2017-01-02 09:03:05 URL:http://www.townofwales.net/index.php/permits/cat_view/49-permits-applications-a-other-forms/80-board-of-health [23832] -> "../data/townSites2/Wales/www.townofwales.net/index.php/permits/cat_view/49-permits-applications-a-other-forms/80-board-of-health" [1]
+2017-01-02 09:03:07 URL:http://www.townofwales.net/index.php/permits/cat_view/49-permits-applications-a-other-forms/83-building-insector [26212] -> "../data/townSites2/Wales/www.townofwales.net/index.php/permits/cat_view/49-permits-applications-a-other-forms/83-building-insector" [1]
+2017-01-02 09:03:10 URL:http://www.townofwales.net/index.php/permits/cat_view/49-permits-applications-a-other-forms/84-electrical-a-plumbing [23957] -> "../data/townSites2/Wales/www.townofwales.net/index.php/permits/cat_view/49-permits-applications-a-other-forms/84-electrical-a-plumbing" [1]
+2017-01-02 09:03:13 URL:http://www.townofwales.net/index.php/permits/cat_view/49-permits-applications-a-other-forms/85-other [23335] -> "../data/townSites2/Wales/www.townofwales.net/index.php/permits/cat_view/49-permits-applications-a-other-forms/85-other" [1]
+Found 33 broken links.
+
+http://www.townofwales.net/images/stories/downloads/frb_change_address.pdf
+http://www.townofwales.net/index.php/aboutwales/links/aboutwales/links
+http://www.townofwales.net/images/stories/downloads/emergency%20contact%20info.pdf
+http://www.townofwales.net/index.php/paybillsonline/paybillsonline
+http://www.townofwales.net/index.php/bc/health/bc/health
+http://www.townofwales.net/index.php/departments/clerk/departments/clerk
+http://www.townofwales.net/index.php/aboutwales/aboutwales
+http://www.townofwales.net/index.php/bc/finance/bc/finance
+http://www.townofwales.net/index.php/bc/select/bc/select
+http://www.townofwales.net/index.php/police/police
+http://www.townofwales.net/images/stories/downloads/emergency%20contact%20info.doc
+http://www.townofwales.net/index.php/forms/5main/forms/5main
+http://www.townofwales.net/index.php/aboutwales/citizenship-award/aboutwales/citizenship-award
+http://www.townofwales.net/index.php/contact/contact
+http://www.townofwales.net/index.php/departments/animalcontrol/departments/animalcontrol
+http://www.townofwales.net/index.php/aboutwales/codered/aboutwales/codered
+http://www.townofwales.net/index.php/transferstation/transferstation
+http://www.townofwales.net/index.php/departments/transferstation/departments/transferstation
+http://www.townofwales.net/index.php/aboutwales/history/aboutwales/history
+http://www.townofwales.net/index.php/departments/library/departments/library
+http://www.townofwales.net/index.php/departments/taxcollector/departments/taxcollector
+http://www.townofwales.net/index.php/minutes/minutes
+http://www.townofwales.net/index.php/bc/school/bc/school
+http://www.townofwales.net/index.php/bc/planning/bc/planning
+http://www.townofwales.net/index.php/bc/bc
+http://www.townofwales.net/index.php/departments/police/departments/police
+http://www.townofwales.net/index.php/bc/cipc/bc/cipc
+http://www.townofwales.net/index.php/fire-department/fire-department
+http://www.townofwales.net/index.php/bc/assessors/bc/assessors
+http://www.townofwales.net/index.php/departments/fire/departments/fire
+http://www.townofwales.net/index.php/bc/tv/bc/tv
+http://www.townofwales.net/index.php/departments/departments
+http://www.townofwales.net/index.php/departments/seniorcenter/departments/seniorcenter
+
+FINISHED --2017-01-02 09:03:13--
+Total wall clock time: 26m 47s
+Downloaded: 360 files, 10M in 4.0s (2.51 MB/s)

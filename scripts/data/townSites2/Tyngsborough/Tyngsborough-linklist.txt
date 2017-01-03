@@ -1,0 +1,348 @@
+2017-01-02 07:28:47 URL:http://www.tyngsboroughma.gov/ [21756] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/index.html" [1]
+http://www.tyngsboroughma.gov/wpress/xmlrpc.php:
+Remote file does not exist -- broken link!!!
+2017-01-02 07:28:50 URL: http://www.tyngsboroughma.gov/wp-json/ 200 OK
+unlink: No such file or directory
+2017-01-02 07:28:50 URL: http://www.tyngsboroughma.gov/wpress/wp-includes/wlwmanifest.xml 200 OK
+unlink: No such file or directory
+2017-01-02 07:28:54 URL:http://www.tyngsboroughma.gov/contact-us/ [17712] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/contact-us/index.html" [1]
+2017-01-02 07:28:58 URL:http://www.tyngsboroughma.gov/site-map/ [43950] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/site-map/index.html" [1]
+2017-01-02 07:29:01 URL:http://www.tyngsboroughma.gov/our-town/about-tyngsborough/ [21947] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/our-town/about-tyngsborough/index.html" [1]
+2017-01-02 07:29:04 URL:http://www.tyngsboroughma.gov/our-town/town-facts/ [19609] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/our-town/town-facts/index.html" [1]
+2017-01-02 07:29:07 URL:http://www.tyngsboroughma.gov/our-town/important-numbers/ [23225] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/our-town/important-numbers/index.html" [1]
+2017-01-02 07:29:10 URL:http://www.tyngsboroughma.gov/our-town/maps-and-directions/ [18297] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/our-town/maps-and-directions/index.html" [1]
+2017-01-02 07:29:15 URL:http://www.tyngsboroughma.gov/government/departments/administration/ [37185] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/administration/index.html" [1]
+2017-01-02 07:29:16 URL:http://www.tyngsboroughma.gov/government/departments/ [37894] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/index.html" [1]
+2017-01-02 07:29:20 URL:http://www.tyngsboroughma.gov/government/meeting-minutes/ [31573] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/meeting-minutes/index.html" [1]
+2017-01-02 07:29:23 URL:http://www.tyngsboroughma.gov/government/important-documents/ [37398] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/important-documents/index.html" [1]
+2017-01-02 07:29:26 URL:http://www.tyngsboroughma.gov/government/public-records-requests/ [24570] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/public-records-requests/index.html" [1]
+2017-01-02 07:29:29 URL:http://www.tyngsboroughma.gov/education/public-schools/ [18941] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/education/public-schools/index.html" [1]
+2017-01-02 07:29:32 URL:http://www.tyngsboroughma.gov/education/private-schools/ [18667] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/education/private-schools/index.html" [1]
+2017-01-02 07:29:37 URL:http://www.tyngsboroughma.gov/education/organizations-alumni/ [17976] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/education/organizations/index.html" [1]
+2017-01-02 07:29:42 URL:http://www.tyngsboroughma.gov/government/departments/tyngsborough-tv/ [33794] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/community/tyngsborough-tv/index.html" [1]
+2017-01-02 07:29:45 URL:http://www.tyngsboroughma.gov/community/community-links/ [22122] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/community/community-links/index.html" [1]
+2017-01-02 07:29:48 URL:http://www.tyngsboroughma.gov/community/state-leaders/ [21340] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/community/state-leaders/index.html" [1]
+2017-01-02 07:29:53 URL:http://www.tyngsboroughma.gov/old-town-hall/ [30296] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/old-town-hall" [1]
+2017-01-02 07:29:58 URL:http://www.tyngsboroughma.gov/our-town/jobs/ [20657] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/business/jobs/index.html" [1]
+2017-01-02 07:30:02 URL:http://www.tyngsboroughma.gov/business-resources/the-master-plan/ [18353] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/business/the-master-plan/index.html" [1]
+2017-01-02 07:30:07 URL:http://www.tyngsboroughma.gov/business-resources/chamber-of-commerce/ [18308] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/business/chamber-of-commerce/index.html" [1]
+2017-01-02 07:30:10 URL:http://www.tyngsboroughma.gov/business-resources/ [21420] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/business-resources/index.html" [1]
+2017-01-02 07:30:10 URL: http://www.tyngsboroughma.gov/wpress/wp-content/uploads/nivoslider4wp_files/4_s.jpeg 200 OK
+unlink: No such file or directory
+2017-01-02 07:30:13 URL:http://www.tyngsboroughma.gov/emergencynotification/ [22130] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/emergencynotification/index.html" [1]
+2017-01-02 07:30:14 URL:http://www.tyngsboroughma.gov/news-updates/regular-trash-pickup-on-monday-january-2-2017/ [18508] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/news-updates/regular-trash-pickup-on-monday-january-2-2017/index.html" [1]
+2017-01-02 07:30:15 URL:http://www.tyngsboroughma.gov/uncategorized/update-missed-trash-pickup/ [18719] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/uncategorized/update-missed-trash-pickup/index.html" [1]
+2017-01-02 07:30:16 URL:http://www.tyngsboroughma.gov/news-updates/missed-trash-pickup/ [19069] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/news-updates/missed-trash-pickup/index.html" [1]
+2017-01-02 07:30:17 URL: http://www.tyngsboroughma.gov/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 07:30:20 URL:http://www.tyngsboroughma.gov/category/news-updates/ [23825] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/category/news-updates/index.html" [1]
+2017-01-02 07:30:23 URL:http://www.tyngsboroughma.gov/town-calendar/ [21895] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/town-calendar/index.html" [1]
+2017-01-02 07:30:27 URL:http://www.tyngsboroughma.gov/site-credits/ [19267] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/site-credits/index.html" [1]
+2017-01-02 07:30:29 URL: http://www.tyngsboroughma.gov/contact-us/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 07:30:30 URL: http://www.tyngsboroughma.gov/site-map/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 07:30:33 URL:http://www.tyngsboroughma.gov/category/uncategorized/ [19042] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/category/uncategorized/index.html" [1]
+2017-01-02 07:30:37 URL:http://www.tyngsboroughma.gov/uncategorized/road-resurfacing-monday-august-22nd-long-pond-road-and-parham-road/ [19145] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/uncategorized/road-resurfacing-monday-august-22nd-long-pond-road-and-parham-road/index.html" [1]
+2017-01-02 07:30:40 URL:http://www.tyngsboroughma.gov/uncategorized/sewer-construction-and-road-closure-updates-phase-1-updated/ [19316] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/uncategorized/sewer-construction-and-road-closure-updates-phase-1-updated/index.html" [1]
+2017-01-02 07:30:43 URL:http://www.tyngsboroughma.gov/bridge/ [22662] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/bridge/index.html" [1]
+2017-01-02 07:30:46 URL:http://www.tyngsboroughma.gov/agenda-downloads/ [37236] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/agenda-downloads/index.html" [1]
+2017-01-02 07:30:49 URL:http://www.tyngsboroughma.gov/application-downloads/ [47538] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/application-downloads/index.html" [1]
+2017-01-02 07:30:53 URL:http://www.tyngsboroughma.gov/board-of-selectmen-meeting-agenda-march-9-2011/ [17896] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/board-of-selectmen-meeting-agenda-march-9-2011/index.html" [1]
+2017-01-02 07:30:53 URL:http://www.tyngsboroughma.gov/business-resources/chamber-of-commerce/ [18308] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/business-resources/chamber-of-commerce/index.html" [1]
+2017-01-02 07:30:54 URL:http://www.tyngsboroughma.gov/business-resources/the-master-plan/ [18353] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/business-resources/the-master-plan/index.html" [1]
+2017-01-02 07:30:58 URL:http://www.tyngsboroughma.gov/cable-survey/ [18641] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/cable-survey/index.html" [1]
+2017-01-02 07:31:01 URL:http://www.tyngsboroughma.gov/emergencynotification/codered-faq/ [24636] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/emergencynotification/codered-faq/index.html" [1]
+2017-01-02 07:31:04 URL:http://cne.coderedweb.com/error.aspx?ErrorText=Access%20to%20this%20feature%20is%20Expired!&GroupID= [10012/10012] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/codered/index.html" [1]
+2017-01-02 07:31:07 URL:http://www.tyngsboroughma.gov/community/ [21384] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/community/index.html" [1]
+2017-01-02 07:31:10 URL:http://www.tyngsboroughma.gov/community/media-coverage/ [21543] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/community/media-coverage/index.html" [1]
+2017-01-02 07:31:13 URL:http://www.tyngsboroughma.gov/disclaimer/ [22227] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/disclaimer/index.html" [1]
+2017-01-02 07:31:16 URL:http://www.tyngsboroughma.gov/education/ [18213] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/education/index.html" [1]
+2017-01-02 07:31:17 URL:http://www.tyngsboroughma.gov/education/organizations-alumni/ [17976] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/education/organizations-alumni/index.html" [1]
+2017-01-02 07:31:20 URL:http://www.tyngsboroughma.gov/education/organizations-alumni/class-of-1963/ [33146] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/education/organizations-alumni/class-of-1963/index.html" [1]
+2017-01-02 07:31:23 URL:http://www.tyngsboroughma.gov/education/organizations-alumni/winslow-school-alumni/ [19842] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/education/organizations-alumni/winslow-school-alumni/index.html" [1]
+2017-01-02 07:31:26 URL:http://www.tyngsboroughma.gov/emergency/ [24877] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/emergency/index.html" [1]
+2017-01-02 07:31:29 URL:http://www.tyngsboroughma.gov/employment-contracts/ [24135] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/employment-contracts/index.html" [1]
+2017-01-02 07:31:33 URL:http://www.tyngsboroughma.gov/online-feedback/ [19371] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/feedback/index.html" [1]
+2017-01-02 07:31:36 URL:http://www.tyngsboroughma.gov/first-parish-meetinghouse/ [21126] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/first-parish-meetinghouse/index.html" [1]
+2017-01-02 07:31:39 URL:http://www.tyngsboroughma.gov/government/departments/administration/ [37185] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/index.html" [1]
+2017-01-02 07:31:42 URL:http://www.tyngsboroughma.gov/government/departments/accountant/ [30381] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/accountant/index.html" [1]
+2017-01-02 07:31:43 URL:http://www.tyngsboroughma.gov/government/departments/administration/ [37185] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/administration/index.html" [1]
+2017-01-02 07:31:46 URL:http://www.tyngsboroughma.gov/government/departments/administration/ambulance-study-committee/ [21528] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/administration/ambulance-study-committee/index.html" [1]
+2017-01-02 07:31:49 URL:http://www.tyngsboroughma.gov/government/departments/administration/bids-and-rfps/ [21771] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/administration/bids-and-rfps/index.html" [1]
+2017-01-02 07:31:52 URL:http://www.tyngsboroughma.gov/government/departments/administration/board-of-selectmen-meeting-agendas-and-packet-materials/ [25493] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/administration/board-of-selectmen-meeting-agendas-and-packet-materials/index.html" [1]
+2017-01-02 07:31:56 URL:http://www.tyngsboroughma.gov/government/departments/administration/energy-aggregation-information/ [23713] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/administration/energy-aggregation-information/index.html" [1]
+2017-01-02 07:31:59 URL:http://www.tyngsboroughma.gov/government/departments/administration/government-study-commission/ [22967] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/administration/government-study-commission/index.html" [1]
+2017-01-02 07:32:02 URL:http://www.tyngsboroughma.gov/government/departments/administration/old-town-hall-historic-renovation-committee/ [20867] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/administration/old-town-hall-historic-renovation-committee/index.html" [1]
+2017-01-02 07:32:06 URL:http://www.tyngsboroughma.gov/government/departments/administration/road-repair-andor-maintenance-program/ [21296] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/administration/road-repair-andor-maintenance-program/index.html" [1]
+2017-01-02 07:32:09 URL:http://www.tyngsboroughma.gov/government/departments/administration/selectmens-correspondence/ [22584] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/administration/selectmens-correspondence/index.html" [1]
+2017-01-02 07:32:12 URL:http://www.tyngsboroughma.gov/government/departments/administration/street-acceptance-program/ [23961] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/administration/street-acceptance-program/index.html" [1]
+2017-01-02 07:32:15 URL:http://www.tyngsboroughma.gov/government/departments/administration/town-buildings-master-plan/ [22813] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/administration/town-buildings-master-plan/index.html" [1]
+2017-01-02 07:32:18 URL:http://www.tyngsboroughma.gov/government/departments/affordable-housing/ [31973] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/affordable-housing/index.html" [1]
+2017-01-02 07:32:21 URL:http://www.tyngsboroughma.gov/government/departments/animal-control/ [18693] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/animal-control/index.html" [1]
+2017-01-02 07:32:23 URL:http://www.tyngsboroughma.gov/government/departments/assessor/ [35881] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/assessor/index.html" [1]
+2017-01-02 07:32:26 URL:http://www.tyngsboroughma.gov/government/departments/building/ [37514] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/building/index.html" [1]
+2017-01-02 07:32:29 URL:http://www.tyngsboroughma.gov/government/departments/building/building-permits-for-residential-decks/ [22253] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/building/building-permits-for-residential-decks/index.html" [1]
+2017-01-02 07:32:32 URL:http://www.tyngsboroughma.gov/government/departments/building/building-fees-electrical/ [18132] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/building/building-fees-electrical/index.html" [1]
+2017-01-02 07:32:36 URL:http://www.tyngsboroughma.gov/government/departments/building/fees-building/ [19546] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/building/fees-building/index.html" [1]
+2017-01-02 07:32:39 URL:http://www.tyngsboroughma.gov/government/departments/building/frequently-asked-questions-building/ [20778] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/building/frequently-asked-questions-building/index.html" [1]
+2017-01-02 07:32:42 URL:http://www.tyngsboroughma.gov/government/departments/building/public-safety-advisory-on-potential-roof-collapses/ [18344] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/building/public-safety-advisory-on-potential-roof-collapses/index.html" [1]
+2017-01-02 07:32:45 URL:http://www.tyngsboroughma.gov/government/departments/capital-asset-management-committee/ [33494] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/capital-asset-management-committee/index.html" [1]
+2017-01-02 07:32:48 URL:http://www.tyngsboroughma.gov/government/departments/cemetery-commission/ [31036] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/cemetery-commission/index.html" [1]
+2017-01-02 07:32:51 URL:http://www.tyngsboroughma.gov/government/departments/town-clerk/ [32902] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/town-clerk/index.html" [1]
+2017-01-02 07:32:54 URL:http://www.tyngsboroughma.gov/government/departments/town-clerk/campaign-finance-reports/ [22002] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/town-clerk/campaign-finance-reports/index.html" [1]
+2017-01-02 07:32:57 URL:http://www.tyngsboroughma.gov/government/departments/town-clerk/codes-regulations/ [23768] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/town-clerk/codes-regulations/index.html" [1]
+2017-01-02 07:33:00 URL:http://www.tyngsboroughma.gov/government/departments/town-clerk/obtaining-a-marriage-licencse/ [23483] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/town-clerk/obtaining-a-marriage-licencse/index.html" [1]
+2017-01-02 07:33:03 URL:http://www.tyngsboroughma.gov/government/departments/town-clerk/open-meeting-law/ [20425] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/town-clerk/open-meeting-law/index.html" [1]
+2017-01-02 07:33:06 URL:http://www.tyngsboroughma.gov/government/departments/town-clerk/public-records-law/ [19540] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/town-clerk/public-records-law/index.html" [1]
+2017-01-02 07:33:09 URL:http://www.tyngsboroughma.gov/government/departments/town-clerk/voter-information-and-election/ [27471] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/town-clerk/voter-information-and-election/index.html" [1]
+2017-01-02 07:33:13 URL:http://www.tyngsboroughma.gov/government/departments/town-clerk/voter-information-and-election/election-results/ [20199] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/town-clerk/voter-information-and-election/election-results/index.html" [1]
+2017-01-02 07:33:16 URL:http://www.tyngsboroughma.gov/government/departments/collector/ [32065] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/collector/index.html" [1]
+2017-01-02 07:33:19 URL:http://www.tyngsboroughma.gov/government/departments/cpc/ [33115] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/cpc/index.html" [1]
+2017-01-02 07:33:22 URL:http://www.tyngsboroughma.gov/government/departments/conservation/ [38765] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/conservation/index.html" [1]
+2017-01-02 07:33:25 URL:http://www.tyngsboroughma.gov/government/departments/conservation/fee-schedule-conservation-commission/ [21358] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/conservation/fee-schedule-conservation-commission/index.html" [1]
+2017-01-02 07:33:28 URL:http://www.tyngsboroughma.gov/government/departments/conservation/sherburne/ [20429] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/conservation/sherburne/index.html" [1]
+2017-01-02 07:33:32 URL:http://www.tyngsboroughma.gov/government/departments/coa/ [35976] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/coa/index.html" [1]
+2017-01-02 07:33:35 URL:http://www.tyngsboroughma.gov/government/departments/emergency/ [33249] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/emergency/index.html" [1]
+2017-01-02 07:33:38 URL:http://www.tyngsboroughma.gov/government/departments/fincom/ [33274] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/fincom/index.html" [1]
+2017-01-02 07:33:41 URL:http://www.tyngsboroughfirerescue.com/ [9045] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/fire/index.html" [1]
+2017-01-02 07:33:42 URL:http://www.tyngsboroughma.gov/government/departments/health/ [44658] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/health/index.html" [1]
+2017-01-02 07:33:44 URL:http://www.tyngsboroughma.gov/government/departments/health/bulky-list/ [20724] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/health/bulky-list/index.html" [1]
+2017-01-02 07:33:48 URL:http://www.tyngsboroughma.gov/government/departments/health/flu/ [25519] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/health/flu/index.html" [1]
+2017-01-02 07:33:51 URL: http://www.tyngsboroughma.gov/download/applications/health/boh_Licensed%20Septic%20Haulers%202013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:33:54 URL: http://www.tyngsboroughma.gov/download/applications/health/boh_Licenses%20Septic%20Installers%202013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:33:57 URL:http://www.tyngsboroughma.gov/government/departments/health/mosquito-information/ [20980] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/health/mosquito-information/index.html" [1]
+2017-01-02 07:34:01 URL:http://www.tyngsboroughma.gov/government/departments/health/private-wells-faq/ [20674] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/health/private-wells-faq/index.html" [1]
+2017-01-02 07:34:04 URL:http://www.tyngsboroughma.gov/government/departments/health/water-tests-requirement-for-new-wells/ [21584] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/health/water-tests-requirement-for-new-wells/index.html" [1]
+2017-01-02 07:34:05 URL:http://www.tyngsboroughma.gov/government/departments/highway/ [38344] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/highway/index.html" [1]
+2017-01-02 07:34:08 URL:http://www.tyngsboroughma.gov/government/departments/highway/winter-parking/ [25360] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/highway/winter-parking/index.html" [1]
+2017-01-02 07:34:11 URL:http://www.tyngsboroughma.gov/government/departments/historical-commission/ [31943] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/historical-commission/index.html" [1]
+2017-01-02 07:34:14 URL:http://www.tyngsboroha.org/Home.aspx [7301/7301] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/housing-authority/index.html" [1]
+2017-01-02 07:34:17 URL:http://www.tyngsboroughma.gov/government/departments/information-technology/ [30173] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/information-technology/index.html" [1]
+2017-01-02 07:34:21 URL:http://www.tynglib.org/ [44318] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/library/index.html" [1]
+2017-01-02 07:34:23 URL:http://www.tyngsboroughma.gov/government/departments/planning/ [33924] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/planning/index.html" [1]
+2017-01-02 07:34:28 URL:http://www.tyngsboropolice.com/ [19740] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/police/index.html" [1]
+2017-01-02 07:34:31 URL:http://www.tyngsboroughma.gov/government/departments/recreation/ [31542] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/recreation/index.html" [1]
+2017-01-02 07:34:33 URL:http://www.tyngsboroughma.gov/government/departments/recreation/programs-recreation-parks/ [19492] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/recreation/programs-recreation-parks/index.html" [1]
+2017-01-02 07:34:34 URL:http://www.tyngsboroughma.gov/government/departments/recycling/ [30119] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/recycling/index.html" [1]
+2017-01-02 07:34:37 URL:http://www.tyngsboroughma.gov/government/departments/sewer/ [35092] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/sewer/index.html" [1]
+2017-01-02 07:34:40 URL:http://www.tyngsboroughma.gov/government/departments/sewer/inflow-infiltration-memo/ [21201] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/sewer/inflow-infiltration-memo/index.html" [1]
+2017-01-02 07:34:44 URL:http://www.tyngsboroughma.gov/government/departments/sewer/phase-1-west-sewer-construction-2016-2017/ [22916] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/sewer/phase-1-west-sewer-construction-2016-2017/index.html" [1]
+2017-01-02 07:34:47 URL:http://www.tyngsboroughma.gov/government/departments/sewer/what-not-to-flush-online-guide/ [22239] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/sewer/what-not-to-flush-online-guide/index.html" [1]
+2017-01-02 07:34:51 URL:http://www.tyngsboroughma.gov/sherburne/ [9840] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/sherburne-nature-center-trails/index.html" [1]
+2017-01-02 07:34:53 URL:http://www.tyngsboroughma.gov/government/departments/treasurer/ [31026] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/treasurer/index.html" [1]
+2017-01-02 07:34:57 URL:http://www.tyngsboroughma.gov/government/departments/treasurer/hippa-notice/ [26295] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/treasurer/hippa-notice/index.html" [1]
+2017-01-02 07:34:58 URL:http://www.tyngsboroughma.gov/government/departments/tyngsborough-tv/ [33794] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/tyngsborough-tv/index.html" [1]
+2017-01-02 07:35:01 URL:http://www.tyngsboroughma.gov/government/departments/veteranservices/ [33925] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/veteranservices/index.html" [1]
+2017-01-02 07:35:04 URL:http://www.tyngsboroughma.gov/government/departments/veteranservices/va_laws_benefits/ [19099] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/veteranservices/va_laws_benefits/index.html" [1]
+2017-01-02 07:35:08 URL:http://www.tyngsboroughma.gov/government/departments/veteranservices/veterans_state_programs/ [18452] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/veteranservices/veterans_state_programs/index.html" [1]
+2017-01-02 07:35:11 URL:http://www.tyngsboroughma.gov/government/departments/veteranservices/va-medical-services/ [20174] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/veteranservices/va-medical-services/index.html" [1]
+2017-01-02 07:35:14 URL:http://www.tyngsboroughma.gov/government/departments/water-district/ [30619] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/water-district/index.html" [1]
+2017-01-02 07:35:18 URL:http://www.tyngsboroughma.gov/government/departments/zba/ [33284] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/departments/zba/index.html" [1]
+2017-01-02 07:35:21 URL:http://www.tyngsboroughma.gov/government/important-documents/frost-road-park-regulations/ [23052] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/important-documents/frost-road-park-regulations/index.html" [1]
+2017-01-02 07:35:24 URL:http://www.tyngsboroughma.gov/government/meeting-minutes/ambulance-study-committee-minutes/ [23563] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/meeting-minutes/ambulance-study-committee-minutes/index.html" [1]
+2017-01-02 07:35:28 URL:http://www.tyngsboroughma.gov/government/meeting-minutes/board-of-fire-engineers-minutes/ [24163] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/meeting-minutes/board-of-fire-engineers-minutes/index.html" [1]
+2017-01-02 07:35:29 URL:http://www.tyngsboroughma.gov/government/meeting-minutes/board-of-health-minutes/ [42665] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/meeting-minutes/board-of-health-minutes/index.html" [1]
+2017-01-02 07:35:33 URL:http://www.tyngsboroughma.gov/government/meeting-minutes/bos-executive-minutes/ [57159] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/meeting-minutes/bos-executive-minutes/index.html" [1]
+2017-01-02 07:35:37 URL:http://www.tyngsboroughma.gov/government/meeting-minutes/bos-minutes/ [104655] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/meeting-minutes/bos-minutes/index.html" [1]
+2017-01-02 07:35:40 URL:http://www.tyngsboroughma.gov/government/meeting-minutes/bos-minutes/flint-pond-comm-minutes/ [20429] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/meeting-minutes/bos-minutes/flint-pond-comm-minutes/index.html" [1]
+2017-01-02 07:35:44 URL:http://www.tyngsboroughma.gov/government/meeting-minutes/camc-minutes/ [24578] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/meeting-minutes/camc-minutes/index.html" [1]
+2017-01-02 07:35:48 URL:http://www.tyngsboroughma.gov/government/meeting-minutes/cpc-minutes/ [33744] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/meeting-minutes/cpc-minutes/index.html" [1]
+2017-01-02 07:35:51 URL:http://www.tyngsboroughma.gov/government/meeting-minutes/concom-minutes/ [66332] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/meeting-minutes/concom-minutes/index.html" [1]
+2017-01-02 07:35:56 URL:http://www.tyngsboroughma.gov/government/meeting-minutes/finance-commitee-minutes/ [41849] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/meeting-minutes/finance-commitee-minutes/index.html" [1]
+2017-01-02 07:35:59 URL:http://www.tyngsboroughma.gov/government/meeting-minutes/government-study-commission-minutes/ [27601] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/meeting-minutes/government-study-commission-minutes/index.html" [1]
+2017-01-02 07:36:01 URL:http://www.tyngsboroughma.gov/government/meeting-minutes/historical-commission-minutes/ [24018] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/meeting-minutes/historical-commission-minutes/index.html" [1]
+2017-01-02 07:36:05 URL:http://www.tyngsboroughma.gov/government/meeting-minutes/insurance-committee-minutes/ [23245] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/meeting-minutes/insurance-committee-minutes/index.html" [1]
+2017-01-02 07:36:08 URL:http://www.tyngsboroughma.gov/government/meeting-minutes/old-town-hall-historic-renovation-committee-minutes/ [34250] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/meeting-minutes/old-town-hall-historic-renovation-committee-minutes/index.html" [1]
+2017-01-02 07:36:12 URL:http://www.tyngsboroughma.gov/government/meeting-minutes/planbrd-minutes/ [67230] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/meeting-minutes/planbrd-minutes/index.html" [1]
+2017-01-02 07:36:16 URL:http://www.tyngsboroughma.gov/government/meeting-minutes/sewer-commission-minutes/ [52984] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/meeting-minutes/sewer-commission-minutes/index.html" [1]
+2017-01-02 07:36:21 URL:http://www.tyngsboroughma.gov/government/meeting-minutes/town-meeting-minutes/ [28120] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/meeting-minutes/town-meeting-minutes/index.html" [1]
+2017-01-02 07:36:30 URL:http://www.tyngsboroughma.gov/government/meeting-minutes/zba-minutes/ [45335] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/meeting-minutes/zba-minutes/index.html" [1]
+2017-01-02 07:36:34 URL:http://www.tyngsboroughma.gov/government/town-meeting/ [38314] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/town-meeting/index.html" [1]
+2017-01-02 07:36:38 URL:http://www.tyngsboroughma.gov/government-downloads/ [43502] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government-downloads/index.html" [1]
+2017-01-02 07:36:41 URL:http://www.tyngsboroughma.gov/government-downloads/kinder-morgan-tennessee-gas-pipeline-information/ [25236] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government-downloads/kinder-morgan-tennessee-gas-pipeline-information/index.html" [1]
+2017-01-02 07:36:44 URL:http://www.tyngsboroughma.gov/list-of-farms-in-tyngsborough/ [17731] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/list-of-farms-in-tyngsborough/index.html" [1]
+2017-01-02 07:36:47 URL:http://tyngsboroughma.pegcentral.com/ [28477] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/meetings-on-demand/index.html" [1]
+2017-01-02 07:36:52 URL:http://www.tyngsboroughma.gov/minutes-downloads/ [248657] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/minutes-downloads/index.html" [1]
+2017-01-02 07:36:53 URL:http://www.tyngsboroughma.gov/old-town-hall/ [30296] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/old-town-hall/index.html" [1]
+2017-01-02 07:36:57 URL:http://www.tyngsboroughma.gov/old-town-hall/old-town-hall-renovation-photos-batch-6/ [37397] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/old-town-hall/old-town-hall-renovation-photos-batch-6/index.html" [1]
+2017-01-02 07:37:01 URL:http://www.tyngsboroughma.gov/old-town-hall/mock-ups/ [17298] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/old-town-hall/mock-ups/index.html" [1]
+2017-01-02 07:37:04 URL:http://www.tyngsboroughma.gov/old-town-hall/old-town-hall-construction-update/ [22885] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/old-town-hall/old-town-hall-construction-update/index.html" [1]
+2017-01-02 07:37:07 URL:http://www.tyngsboroughma.gov/old-town-hall/old-town-hall-photos/ [20449] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/old-town-hall/old-town-hall-photos/index.html" [1]
+2017-01-02 07:37:11 URL:http://www.tyngsboroughma.gov/old-town-hall/photos-week-1/ [33270] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/old-town-hall/photos-week-1/index.html" [1]
+2017-01-02 07:37:14 URL:http://www.tyngsboroughma.gov/old-town-hall/old-town-hall-renovation-photos-week-2/ [28077] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/old-town-hall/old-town-hall-renovation-photos-week-2/index.html" [1]
+2017-01-02 07:37:17 URL:http://www.tyngsboroughma.gov/old-town-hall/old-town-hall-renovation-photos-week-3/ [29539] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/old-town-hall/old-town-hall-renovation-photos-week-3/index.html" [1]
+2017-01-02 07:37:21 URL:http://www.tyngsboroughma.gov/old-town-hall/old-town-hall-renovation-photos-week-4/ [40953] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/old-town-hall/old-town-hall-renovation-photos-week-4/index.html" [1]
+2017-01-02 07:37:24 URL:http://www.tyngsboroughma.gov/old-town-hall/old-town-hall-renovation-tree-comes-down/ [24919] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/old-town-hall/old-town-hall-renovation-tree-comes-down/index.html" [1]
+2017-01-02 07:37:29 URL:http://www.tyngsboroughma.gov/old-town-hall/old-town-hall-photos-batch-5/ [53499] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/old-town-hall/old-town-hall-photos-batch-5/index.html" [1]
+2017-01-02 07:37:30 URL:http://www.tyngsboroughma.gov/online-feedback/ [19371] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/online-feedback/index.html" [1]
+2017-01-02 07:37:32 URL:http://www.tyngsboroughma.gov/our-town/about-tyngsborough/ [21947] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/our-town/index.html" [1]
+2017-01-02 07:37:33 URL:http://www.tyngsboroughma.gov/our-town/jobs/ [20657] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/our-town/jobs/index.html" [1]
+2017-01-02 07:37:39 URL:http://www.tyngsboroughma.gov/our-town/town-facts/ [19609] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/our-town/town-statistics/index.html" [1]
+2017-01-02 07:37:43 URL:http://www.tyngsboroughma.gov/pawtucket/ [20883] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/pawtucket/index.html" [1]
+2017-01-02 07:37:44 URL:http://www.tyngsboroughma.gov/pay/ [17169] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/pay/index.html" [1]
+2017-01-02 07:37:48 URL:http://www.tyngsboroughma.gov/photo-contest-2016/ [20982] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/photo-contest-2016/index.html" [1]
+2017-01-02 07:37:54 URL:http://www.tyngsboroughma.gov/planning-board-agendas/ [18595] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/planning-board-agendas/index.html" [1]
+2017-01-02 07:37:59 URL:http://www.tyngsboroughma.gov/privacy/ [22876] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/privacy/index.html" [1]
+2017-01-02 07:38:05 URL:http://www.tyngsboroughma.gov/live/ [19322] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/live/index.html" [1]
+2017-01-02 07:38:10 URL:http://www.tyngsboroughma.gov/snow/ [23005] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/snow/index.html" [1]
+2017-01-02 07:38:16 URL:http://www.tyngsboroughma.gov/cleanup-signup/ [18081] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/cleanup-signup/index.html" [1]
+2017-01-02 07:38:20 URL:http://www.tyngsboroughma.gov/gis/ [19294] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/gis/index.html" [1]
+2017-01-02 07:38:22 URL: http://www.tyngsboroughma.gov/our-town/about-tyngsborough/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 07:38:26 URL:http://www.tyngsboroughma.gov/bridge/ [22662] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/bridge.1" [1]
+2017-01-02 07:38:29 URL: http://www.tyngsboroughma.gov/our-town/town-facts/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 07:38:31 URL: http://www.tyngsboroughma.gov/our-town/important-numbers/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 07:38:34 URL: http://www.tyngsboroughma.gov/our-town/maps-and-directions/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 07:38:36 URL: http://www.tyngsboroughma.gov/government/departments/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 07:38:39 URL:http://www.tyngsboroughma.gov/recycling/ [8313] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/recycling" [1]
+2017-01-02 07:38:42 URL: http://www.tyngsboroughma.gov/government/meeting-minutes/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 07:38:45 URL:http://www.tyngsboroughma.gov/government/meeting-minutes/cpc-minutes/ [33744] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/government/meeting-minutes/cpc-minute/index.html" [1]
+2017-01-02 07:38:48 URL: http://www.tyngsboroughma.gov/government/important-documents/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 07:38:50 URL: http://www.tyngsboroughma.gov/download/government/clerk/clerk_regulations_town_bylaws.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:38:53 URL: http://www.tyngsboroughma.gov/download/government/planning/planbrd_zoning_bylaws.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:38:53 URL: http://www.tyngsboroughma.gov/wpress/wp-content/uploads/2009/12/Tyngsborough-Road-Map-2016-08.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:38:55 URL: http://www.tyngsboroughma.gov/download/download/contracts/Personel%20By-Law.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:02 URL:http://www.tyngsboroughma.gov/recycling/recycling-bylaw [12386] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/recycling/recycling-bylaw" [1]
+2017-01-02 07:39:05 URL: http://www.tyngsboroughma.gov/download/government/conservation/concom_regulations_2010_Stormwater.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:10 URL: http://www.tyngsboroughma.gov/download/applications/sewer_applications/CWMP_Report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:13 URL: http://www.tyngsboroughma.gov/download/documents/2015/Tyngs-RoadMap.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:16 URL: http://www.tyngsboroughma.gov/download/documents/2015/2015%20ATR%20Final%20.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:19 URL: http://www.tyngsboroughma.gov/download/documents/2015/2014_AnnualTownReport.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:21 URL: http://www.tyngsboroughma.gov/download/documents/2014/2013_AnnualTownReport.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:25 URL: http://www.tyngsboroughma.gov/download/documents/2013/2012_AnnualTownReport.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:29 URL: http://www.tyngsboroughma.gov/download/documents/2011/2011%20Annual%20Town%20Report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:32 URL: http://www.tyngsboroughma.gov/download/documents/2011/2010%20annual%20report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:35 URL: http://www.tyngsboroughma.gov/download/documents/2011/2009%20Annual%20Town%20Reports.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:36 URL: http://www.tyngsboroughma.gov/wpress/wp-content/uploads/2009/12/2015-Gross-Earnings-Report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:36 URL: http://www.tyngsboroughma.gov/wpress/wp-content/uploads/2016/04/June-28-2016-Special-Town-Meeting-Warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:36 URL: http://www.tyngsboroughma.gov/wpress/wp-content/uploads/2016/04/2016-Annual-Spring-Town-Meeting-Guide-Book.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:38 URL: http://www.tyngsboroughma.gov/download/documents/2015/2014_AnnualGrossWages.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:41 URL: http://www.tyngsboroughma.gov/download/documents/2015/2015-06-02_ATM-STM_PostedWarrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:43 URL: http://www.tyngsboroughma.gov/download/documents/2015/2015-06-02_FinanceCommitteeReport_and_Annual&SpecialTownMeetingGuide.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:46 URL: http://www.tyngsboroughma.gov/download/documents/2015/2015-06-02_FinanceCommitteeReport_and_Annual&SpecialTownMeetingGuideSupplement.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:48 URL: http://www.tyngsboroughma.gov/download/documents/2014/2013_AnnualGrossWages.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:50 URL: http://www.tyngsboroughma.gov/download/documents/2014/2014-05-20_ATM_STM_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:53 URL: http://www.tyngsboroughma.gov/download/documents/2014/2014-05-20_FinanceCommitteeReport_&_ATM_STM-Guide.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:56 URL: http://www.tyngsboroughma.gov/download/documents/2014/2014-05-20_FinanceCommitteeReport_&_ATM_STM-Suppliment.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:39:58 URL: http://www.tyngsboroughma.gov/download/documents/2013/2012_AnnualGrossWages.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:00 URL: http://www.tyngsboroughma.gov/download/documents/2013/2013-05-21_ATM_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:02 URL: http://www.tyngsboroughma.gov/download/documents/2013/2013-05-21_STM_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:05 URL: http://www.tyngsboroughma.gov/download/documents/2013/2013-05-21_FinanceCommitteeReport_&_ATM_STM_Guide.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:07 URL: http://www.tyngsboroughma.gov/download/documents/2012/2011_atr_Annual%20Gross%20Wages.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:09 URL: http://www.tyngsboroughma.gov/download/documents/2012/ATM%20Warrant%20Posted%205-1-2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:12 URL: http://www.tyngsboroughma.gov/download/documents/2012/STM%20Warrant%20Posted%205-1-2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:15 URL: http://www.tyngsboroughma.gov/download/documents/2012/FinCom%20Report%20and%20ATM-STM%20Guide%205-15-2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:17 URL: http://www.tyngsboroughma.gov/download/documents/2011/2010%20Gross%20Wage%20Report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:20 URL: http://www.tyngsboroughma.gov/download/documents/2011/2011-06-07_ATM_STM_warrants.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:22 URL: http://www.tyngsboroughma.gov/download/documents/2011/2011-06-07_FinanceCommitteeReport.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:24 URL: http://www.tyngsboroughma.gov/download/documents/2011/2011_CapitalAssetReport.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:28 URL: http://www.tyngsboroughma.gov/download/documents/2011/Insurance%20Committee%20Final%20Report_2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:30 URL: http://www.tyngsboroughma.gov/download/government/fincom_2010_finance_report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:33 URL: http://www.tyngsboroughma.gov/download/government/20100518_Articles%20ATM_STM_warrant.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:35 URL: http://www.tyngsboroughma.gov/download/government/SFPC.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:37 URL: http://www.tyngsboroughma.gov/download/government/edc_development_plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:40 URL: http://www.tyngsboroughma.gov/download/government/edc_summary_development_plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:43 URL: http://www.tyngsboroughma.gov/download/government/master_plan_tyngsborough.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:47 URL: http://www.tyngsboroughma.gov/download/government/town_center_master_plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:51 URL: http://www.tyngsboroughma.gov/download/documents/2013/tyngsborough%20affordable%20housing%20production%20plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:53 URL: http://www.tyngsboroughma.gov/download/documents/2016/950-CMR-32-00-2017-Edition-final%20(1).pdf 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:56 URL: http://www.tyngsboroughma.gov/education/public-schools/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 07:40:58 URL: http://www.tyngsboroughma.gov/education/private-schools/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 07:41:01 URL: http://www.tyngsboroughma.gov/community/community-links/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 07:41:03 URL:http://www.tyngsboroughma.gov/recycling/ [8313] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/recycling/index.html" [1]
+2017-01-02 07:41:06 URL: http://www.tyngsboroughma.gov/community/state-leaders/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 07:41:07 URL: http://www.tyngsboroughma.gov/business-resources/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 07:41:10 URL: http://www.tyngsboroughma.gov/emergencynotification/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 07:41:13 URL:http://www.tyngsboroughma.gov/emergencynotification/codered-faq/ [24636] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/codered/codered-faq/index.html" [1]
+2017-01-02 07:41:15 URL: http://www.tyngsboroughma.gov/news-updates/regular-trash-pickup-on-monday-january-2-2017/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 07:41:17 URL: http://www.tyngsboroughma.gov/uncategorized/update-missed-trash-pickup/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 07:41:20 URL: http://www.tyngsboroughma.gov/news-updates/missed-trash-pickup/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 07:41:25 URL:http://www.tyngsboroughma.gov/news-updates/request-for-interest-rfi-for-six-6-town-properties/ [19828] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/news-updates/request-for-interest-rfi-for-six-6-town-properties/index.html" [1]
+2017-01-02 07:41:27 URL: http://www.tyngsboroughma.gov/category/news-updates/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 07:41:34 URL:http://www.tyngsboroughma.gov/news-updates/missed-trash-pickup/ [19069] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/news-updates/missed-trash-pickup/index.html" [1]
+2017-01-02 07:41:35 URL:http://www.tyngsboroughma.gov/news-updates/request-for-interest-rfi-for-six-6-town-properties// [19828] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/news-updates/request-for-interest-rfi-for-six-6-town-properties/index.html" [1]
+2017-01-02 07:41:40 URL:http://www.tyngsboroughma.gov/news-updates/trash-and-recycling-pickup-on-12262016/ [18610] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/news-updates/trash-and-recycling-pickup-on-12262016/index.html" [1]
+2017-01-02 07:41:45 URL:http://www.tyngsboroughma.gov/news-updates/committee-vacancy-alternate-planning-board-member-nov-2016/ [18965] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/news-updates/committee-vacancy-alternate-planning-board-member-nov-2016/index.html" [1]
+2017-01-02 07:41:49 URL:http://www.tyngsboroughma.gov/news-updates/yard-waste-collection-dates-2016/ [18964] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/news-updates/yard-waste-collection-dates-2016/index.html" [1]
+2017-01-02 07:41:54 URL:http://www.tyngsboroughma.gov/news-updates/notice-roadway-drainage-reconstruction-for-mascuppic-trail-from-parham-to-palmetto/ [22378] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/news-updates/notice-roadway-drainage-reconstruction-for-mascuppic-trail-from-parham-to-palmetto/index.html" [1]
+2017-01-02 07:41:55 URL:http://www.tyngsboroughma.gov/news-updates/notice-roadway-drainage-reconstruction-for-mascuppic-trail-from-parham-to-palmetto// [22378] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/news-updates/notice-roadway-drainage-reconstruction-for-mascuppic-trail-from-parham-to-palmetto/index.html" [1]
+2017-01-02 07:42:00 URL:http://www.tyngsboroughma.gov/news-updates/flint-pond-treated-on-tuesday-july-5th/ [19211] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/news-updates/flint-pond-treated-on-tuesday-july-5th/index.html" [1]
+2017-01-02 07:42:05 URL:http://www.tyngsboroughma.gov/category/news-updates/page/2/ [24119] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/category/news-updates/page/2/index.html" [1]
+2017-01-02 07:42:07 URL: http://www.tyngsboroughma.gov/town-calendar/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 07:42:10 URL: http://www.tyngsboroughma.gov/site-credits/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 07:42:13 URL:http://www.tyngsboroughma.gov/privacy/ [22876] -> "../data/townSites2/Tyngsborough/www.tyngsboroughma.gov/privacy.1" [1]
+Found 1 broken link.
+
+http://www.tyngsboroughma.gov/wpress/xmlrpc.php
+
+FINISHED --2017-01-02 07:42:13--
+Total wall clock time: 13m 28s
+Downloaded: 191 files, 5.0M in 20s (250 KB/s)

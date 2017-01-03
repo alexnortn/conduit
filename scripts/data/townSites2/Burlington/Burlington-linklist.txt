@@ -1,0 +1,689 @@
+2017-01-01 22:17:53 URL:http://www.burlington.org/ [40693/40693] -> "../data/townSites2/Burlington/www.burlington.org/index.html" [1]
+2017-01-01 22:17:53 URL: http://www.burlington.org/_images_/translate.PNG 200 OK
+unlink: No such file or directory
+2017-01-01 22:17:54 URL:http://www.burlington.org/index.php [40693/40693] -> "../data/townSites2/Burlington/www.burlington.org/index.php" [1]
+2017-01-01 22:17:55 URL:http://www.burlington.org/residents/index.php [32567/32567] -> "../data/townSites2/Burlington/www.burlington.org/residents/index.php" [1]
+2017-01-01 22:17:56 URL:http://www.burlington.org/residents/burlington_public_transit.php [34167/34167] -> "../data/townSites2/Burlington/www.burlington.org/residents/burlington_public_transit.php" [1]
+2017-01-01 22:17:57 URL:http://www.burlington.org/residents/community_connections.php [34330/34330] -> "../data/townSites2/Burlington/www.burlington.org/residents/community_connections.php" [1]
+2017-01-01 22:17:57 URL:http://www.burlington.org/community_development/conservation_areas.php [43130/43130] -> "../data/townSites2/Burlington/www.burlington.org/community_development/conservation_areas.php" [1]
+2017-01-01 22:17:58 URL:http://www.burlington.org/residents/connect-cty.php [32928/32928] -> "../data/townSites2/Burlington/www.burlington.org/residents/connect-cty.php" [1]
+2017-01-01 22:17:59 URL:http://www.burlington.org/community_development/state_fuel_assistance.php [38163/38163] -> "../data/townSites2/Burlington/www.burlington.org/community_development/state_fuel_assistance.php" [1]
+2017-01-01 22:18:00 URL:http://www.burlington.org/residents/health_human_services.php [35767/35767] -> "../data/townSites2/Burlington/www.burlington.org/residents/health_human_services.php" [1]
+2017-01-01 22:18:00 URL:http://www.burlington.org/departments/library/index.php [32492/32492] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/index.php" [1]
+2017-01-01 22:18:01 URL:http://www.burlington.org/residents/on-line_bill_pay.php [34014/34014] -> "../data/townSites2/Burlington/www.burlington.org/residents/on-line_bill_pay.php" [1]
+2017-01-01 22:18:02 URL:http://www.burlington.org/residents/public_services.php [34913/34913] -> "../data/townSites2/Burlington/www.burlington.org/residents/public_services.php" [1]
+2017-01-01 22:18:03 URL:http://www.burlington.org/community_development/recreation/index.php [25584/25584] -> "../data/townSites2/Burlington/www.burlington.org/community_development/recreation/index.php" [1]
+2017-01-01 22:18:03 URL: http://www.burlington.org/burlington/residents/uploads/Resguide.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:18:04 URL:http://www.burlington.org/community_development/schools.php [33657/33657] -> "../data/townSites2/Burlington/www.burlington.org/community_development/schools.php" [1]
+2017-01-01 22:18:05 URL:http://www.burlington.org/departments/dpw.php [35803/35803] -> "../data/townSites2/Burlington/www.burlington.org/departments/dpw.php" [1]
+2017-01-01 22:18:06 URL:http://www.burlington.org/businesstest/index.php [32606/32606] -> "../data/townSites2/Burlington/www.burlington.org/businesstest/index.php" [1]
+2017-01-01 22:18:06 URL:http://www.burlington.org/businesstest/where_is_burlington.php [33321/33321] -> "../data/townSites2/Burlington/www.burlington.org/businesstest/where_is_burlington.php" [1]
+2017-01-01 22:18:07 URL:http://www.burlington.org/businesstest/business_climate.php [35927/35927] -> "../data/townSites2/Burlington/www.burlington.org/businesstest/business_climate.php" [1]
+2017-01-01 22:18:07 URL: http://www.burlington.org/burlington/businesstest/uploads/GuideNB.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:18:08 URL: http://www.burlington.org/town_government/town_clerk/docs/DBAForm012814.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:18:08 URL:http://www.burlington.org/town_government/town_clerk/town_government/business_certificates.php [37252/37252] -> "../data/townSites2/Burlington/www.burlington.org/town_government/town_clerk/town_government/business_certificates.php" [1]
+2017-01-01 22:18:09 URL:http://www.burlington.org/residents/annual_report.php [34755/34755] -> "../data/townSites2/Burlington/www.burlington.org/residents/annual_report.php" [1]
+2017-01-01 22:18:10 URL:http://www.burlington.org/town_government/town_clerk/bylaws.php [84437/84437] -> "../data/townSites2/Burlington/www.burlington.org/town_government/town_clerk/bylaws.php" [1]
+2017-01-01 22:18:11 URL:http://www.burlington.org/town_government/index.php [33981/33981] -> "../data/townSites2/Burlington/www.burlington.org/town_government/index.php" [1]
+2017-01-01 22:18:12 URL:http://www.burlington.org/town_government/accounting.php [33484/33484] -> "../data/townSites2/Burlington/www.burlington.org/town_government/accounting.php" [1]
+2017-01-01 22:18:12 URL:http://www.burlington.org/town_government/administrationtest.php [39118/39118] -> "../data/townSites2/Burlington/www.burlington.org/town_government/administrationtest.php" [1]
+2017-01-01 22:18:13 URL:http://www.burlington.org/town_government/assessors.php [35021/35021] -> "../data/townSites2/Burlington/www.burlington.org/town_government/assessors.php" [1]
+2017-01-01 22:18:14 URL:http://www.burlington.org/town_government/boards_and_commissions.php [41194/41194] -> "../data/townSites2/Burlington/www.burlington.org/town_government/boards_and_commissions.php" [1]
+2017-01-01 22:18:14 URL: http://www.burlington.org/Elected%20Officials%20List.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:18:15 URL:http://www.burlington.org/town_government/human_resources/index.php [35402/35402] -> "../data/townSites2/Burlington/www.burlington.org/town_government/human_resources/index.php" [1]
+2017-01-01 22:18:16 URL:http://www.burlington.org/town_government/tax.php [39756/39756] -> "../data/townSites2/Burlington/www.burlington.org/town_government/tax.php" [1]
+2017-01-01 22:18:16 URL:http://www.burlington.org/town_government/treasurer.php [34044/34044] -> "../data/townSites2/Burlington/www.burlington.org/town_government/treasurer.php" [1]
+2017-01-01 22:18:17 URL:http://www.burlington.org/town_government/budgets.php [75077/75077] -> "../data/townSites2/Burlington/www.burlington.org/town_government/budgets.php" [1]
+2017-01-01 22:18:18 URL:http://www.burlington.org/town_government/town_clerk/index.php [37410/37410] -> "../data/townSites2/Burlington/www.burlington.org/town_government/town_clerk/index.php" [1]
+2017-01-01 22:18:18 URL:http://www.burlington.org/departments/town_meeting/index.php [39855/39855] -> "../data/townSites2/Burlington/www.burlington.org/departments/town_meeting/index.php" [1]
+2017-01-01 22:18:19 URL:http://www.burlington.org/departments/index.php [33525/33525] -> "../data/townSites2/Burlington/www.burlington.org/departments/index.php" [1]
+2017-01-01 22:18:20 URL:http://www.burlington.org/departments/department_list.php [41301/41301] -> "../data/townSites2/Burlington/www.burlington.org/departments/department_list.php" [1]
+2017-01-01 22:18:21 URL:http://www.burlington.org/residents/archives.php [36676/36676] -> "../data/townSites2/Burlington/www.burlington.org/residents/archives.php" [1]
+2017-01-01 22:18:22 URL:http://www.burlington.org/departments/community_development/board_of_appeals.php [39753/39753] -> "../data/townSites2/Burlington/www.burlington.org/departments/community_development/board_of_appeals.php" [1]
+2017-01-01 22:18:23 URL:http://www.burlington.org/departments/building/index.php [35313/35313] -> "../data/townSites2/Burlington/www.burlington.org/departments/building/index.php" [1]
+2017-01-01 22:18:25 URL:http://www.burlington.org/community_development/conservation.php [38123/38123] -> "../data/townSites2/Burlington/www.burlington.org/community_development/conservation.php" [1]
+2017-01-01 22:18:27 URL:http://www.burlington.org/residents/council_on_aging/index.php [36540/36540] -> "../data/townSites2/Burlington/www.burlington.org/residents/council_on_aging/index.php" [1]
+2017-01-01 22:18:28 URL:http://www.burlington.org/departments/emergency_management/index.php [34234/34234] -> "../data/townSites2/Burlington/www.burlington.org/departments/emergency_management/index.php" [1]
+2017-01-01 22:18:29 URL:http://www.burlington.org/departments/fire/index.php [36311/36311] -> "../data/townSites2/Burlington/www.burlington.org/departments/fire/index.php" [1]
+2017-01-01 22:18:30 URL:http://www.burlington.org/departments/board_of_health/index.php [40063/40063] -> "../data/townSites2/Burlington/www.burlington.org/departments/board_of_health/index.php" [1]
+2017-01-01 22:18:31 URL:http://www.burlington.org/residents/housing_authority.php [36497/36497] -> "../data/townSites2/Burlington/www.burlington.org/residents/housing_authority.php" [1]
+2017-01-01 22:18:32 URL:http://www.burlington.org/community_development/index.php [32965/32965] -> "../data/townSites2/Burlington/www.burlington.org/community_development/index.php" [1]
+2017-01-01 22:18:33 URL:http://www.burlington.org/community_development/planning.php [38643/38643] -> "../data/townSites2/Burlington/www.burlington.org/community_development/planning.php" [1]
+2017-01-01 22:18:35 URL:http://www.burlington.org/departments/police/index.php [25577/25577] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/index.php" [1]
+2017-01-01 22:18:36 URL:http://www.burlington.org/community_development/sealer_of_weights_and_measures.php [32699/32699] -> "../data/townSites2/Burlington/www.burlington.org/community_development/sealer_of_weights_and_measures.php" [1]
+2017-01-01 22:18:37 URL:http://www.burlington.org/community_development/veterans_services.php [38137/38137] -> "../data/townSites2/Burlington/www.burlington.org/community_development/veterans_services.php" [1]
+2017-01-01 22:18:38 URL:http://www.burlington.org/residents/community_life_center/index.php [37470/37470] -> "../data/townSites2/Burlington/www.burlington.org/residents/community_life_center/index.php" [1]
+2017-01-01 22:18:39 URL:http://www.burlington.org/town_government/town_clerk/request_for_information.php [40944/40944] -> "../data/townSites2/Burlington/www.burlington.org/town_government/town_clerk/request_for_information.php" [1]
+2017-01-01 22:18:39 URL:http://www.burlington.org/town_government/town_clerk/looking_for_a_form_or_document.php [36920/36920] -> "../data/townSites2/Burlington/www.burlington.org/town_government/town_clerk/looking_for_a_form_or_document.php" [1]
+2017-01-01 22:18:40 URL:http://www.burlington.org/calendar.php [25248/25248] -> "../data/townSites2/Burlington/www.burlington.org/calendar.php" [1]
+2017-01-01 22:18:41 URL:http://www.burlington.org/town_government/purchasing_analyst.php [43805/43805] -> "../data/townSites2/Burlington/www.burlington.org/town_government/purchasing_analyst.php" [1]
+2017-01-01 22:18:42 URL:http://www.burlington.org/town_government/disability_access_commission/index.php [40017/40017] -> "../data/townSites2/Burlington/www.burlington.org/town_government/disability_access_commission/index.php" [1]
+2017-01-01 22:18:44 URL:http://www.burlington.org/residents/grand_view_farm/index.php [33265/33265] -> "../data/townSites2/Burlington/www.burlington.org/residents/grand_view_farm/index.php" [1]
+2017-01-01 22:18:45 URL: http://www.burlington.org/departments/docs/Trash%20and%20Recycle%20Calendar%202016-2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:18:46 URL:http://www.burlington.org/town_government/town_clerk/town_government/voter_information.php [57335/57335] -> "../data/townSites2/Burlington/www.burlington.org/town_government/town_clerk/town_government/voter_information.php" [1]
+2017-01-01 22:18:47 URL:http://www.burlington.org/residents/schools/burlington_public_schools/index.php [27646/27646] -> "../data/townSites2/Burlington/www.burlington.org/residents/schools/burlington_public_schools/index.php" [1]
+2017-01-01 22:18:49 URL:http://www.burlington.org/community_development/master_plan_information/index.php [39301/39301] -> "../data/townSites2/Burlington/www.burlington.org/community_development/master_plan_information/index.php" [1]
+2017-01-01 22:18:55 URL:http://www.burlington.org/town_government/town_clerk/PublicRecordsLaw.php [37120/37120] -> "../data/townSites2/Burlington/www.burlington.org/town_government/town_clerk/PublicRecordsLaw.php" [1]
+2017-01-01 22:18:56 URL: http://www.burlington.org/docs/flu%20clinic%20psa%202016.docx 200 OK
+unlink: No such file or directory
+2017-01-01 22:19:03 URL:http://www.burlington.org/calendar_app/index.html [86303/86303] -> "../data/townSites2/Burlington/www.burlington.org/calendar_app/index.html" [1]
+2017-01-01 22:19:14 URL:http://www.burlington.org/news_detail_T2_R27.php [30488/30488] -> "../data/townSites2/Burlington/www.burlington.org/news_detail_T2_R27.php" [1]
+2017-01-01 22:19:15 URL:http://www.burlington.org/news_detail_T2_R26.php [30503/30503] -> "../data/townSites2/Burlington/www.burlington.org/news_detail_T2_R26.php" [1]
+2017-01-01 22:19:16 URL:http://www.burlington.org/news_detail_T2_R28.php [30441/30441] -> "../data/townSites2/Burlington/www.burlington.org/news_detail_T2_R28.php" [1]
+2017-01-01 22:19:17 URL:http://www.burlington.org/news_detail_T2_R16.php [30408/30408] -> "../data/townSites2/Burlington/www.burlington.org/news_detail_T2_R16.php" [1]
+2017-01-01 22:19:18 URL:http://www.burlington.org/news_list.php [36010/36010] -> "../data/townSites2/Burlington/www.burlington.org/news_list.php" [1]
+2017-01-01 22:19:20 URL:http://www.burlington.org/new_departments/trash_and_recycle.php [35608/35608] -> "../data/townSites2/Burlington/www.burlington.org/new_departments/trash_and_recycle.php" [1]
+2017-01-01 22:19:21 URL:http://www.burlington.org/residents/schedule.php [33371/33371] -> "../data/townSites2/Burlington/www.burlington.org/residents/schedule.php" [1]
+2017-01-01 22:19:21 URL:http://www.burlington.org/residents/fares.php [35111/35111] -> "../data/townSites2/Burlington/www.burlington.org/residents/fares.php" [1]
+2017-01-01 22:19:22 URL: http://www.burlington.org/residents/uploads/pass_application_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:19:23 URL:http://www.burlington.org/residents/frequently_asked_questions.php [33421/33421] -> "../data/townSites2/Burlington/www.burlington.org/residents/frequently_asked_questions.php" [1]
+2017-01-01 22:19:24 URL:http://www.burlington.org/residents/contact_us.php [32401/32401] -> "../data/townSites2/Burlington/www.burlington.org/residents/contact_us.php" [1]
+2017-01-01 22:19:24 URL: http://www.burlington.org/residents/docs/Christmas_Mall2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:19:24 URL: http://www.burlington.org/residents/uploads/Condo_Apt.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:19:25 URL:http://www.burlington.org/residents/clubs_and_organizations.php [41115/41115] -> "../data/townSites2/Burlington/www.burlington.org/residents/clubs_and_organizations.php" [1]
+2017-01-01 22:19:26 URL:http://www.burlington.org/residents/grand_view_farm/rate_sheet.php [40939/40939] -> "../data/townSites2/Burlington/www.burlington.org/residents/grand_view_farm/rate_sheet.php" [1]
+2017-01-01 22:19:28 URL:http://www.burlington.org/residents/grand_view_farm/GVslide_show.php [43046/43046] -> "../data/townSites2/Burlington/www.burlington.org/residents/grand_view_farm/GVslide_show.php" [1]
+2017-01-01 22:19:28 URL:http://www.burlington.org/residents/grand_view_farm/faq.php [33541/33541] -> "../data/townSites2/Burlington/www.burlington.org/residents/grand_view_farm/faq.php" [1]
+2017-01-01 22:19:29 URL: http://www.burlington.org/burlington/residents/uploads/Rest_Shop_Hotels.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:19:30 URL:http://www.burlington.org/residents/houses_of_worship.php [38156/38156] -> "../data/townSites2/Burlington/www.burlington.org/residents/houses_of_worship.php" [1]
+2017-01-01 22:19:31 URL:http://www.burlington.org/residents/newspapers.php [34723/34723] -> "../data/townSites2/Burlington/www.burlington.org/residents/newspapers.php" [1]
+2017-01-01 22:19:32 URL:http://www.burlington.org/residents/uploads/Hotel_rest_shop.htm [33405/33405] -> "../data/townSites2/Burlington/www.burlington.org/residents/uploads/Hotel_rest_shop.htm" [1]
+2017-01-01 22:19:33 URL:http://www.burlington.org/community_development/bylaw_and_policies.php [36593/36593] -> "../data/townSites2/Burlington/www.burlington.org/community_development/bylaw_and_policies.php" [1]
+2017-01-01 22:19:34 URL:http://www.burlington.org/community_development/meetings.php [45197/45197] -> "../data/townSites2/Burlington/www.burlington.org/community_development/meetings.php" [1]
+2017-01-01 22:19:38 URL:http://www.burlington.org/community_development/do_i_need_to_file.php [37774/37774] -> "../data/townSites2/Burlington/www.burlington.org/community_development/do_i_need_to_file.php" [1]
+2017-01-01 22:19:40 URL:http://www.burlington.org/community_development/forms_and_applications.php [37242/37242] -> "../data/townSites2/Burlington/www.burlington.org/community_development/forms_and_applications.php" [1]
+2017-01-01 22:19:42 URL:http://www.burlington.org/community_development/bcs.php [36878/36878] -> "../data/townSites2/Burlington/www.burlington.org/community_development/bcs.php" [1]
+2017-01-01 22:19:43 URL:http://www.burlington.org/community_development/get_involved.php [36804/36804] -> "../data/townSites2/Burlington/www.burlington.org/community_development/get_involved.php" [1]
+2017-01-01 22:19:44 URL:http://www.burlington.org/community_development/outings.php [34074/34074] -> "../data/townSites2/Burlington/www.burlington.org/community_development/outings.php" [1]
+2017-01-01 22:19:46 URL:http://www.burlington.org/community_development/open_space_recreation_plan.php [36306/36306] -> "../data/townSites2/Burlington/www.burlington.org/community_development/open_space_recreation_plan.php" [1]
+2017-01-01 22:19:47 URL:http://www.burlington.org/community_development/faq.php [42232/42232] -> "../data/townSites2/Burlington/www.burlington.org/community_development/faq.php" [1]
+2017-01-01 22:19:48 URL:http://www.burlington.org/community_development/stormwater_management.php [37428/37428] -> "../data/townSites2/Burlington/www.burlington.org/community_development/stormwater_management.php" [1]
+2017-01-01 22:19:51 URL:http://www.burlington.org/community_development/living_with_wetlands.php [41710/41710] -> "../data/townSites2/Burlington/www.burlington.org/community_development/living_with_wetlands.php" [1]
+2017-01-01 22:19:52 URL:http://www.burlington.org/community_development/fema_floodplain.php [35758/35758] -> "../data/townSites2/Burlington/www.burlington.org/community_development/fema_floodplain.php" [1]
+2017-01-01 22:19:53 URL:http://www.burlington.org/community_development/landlocked_forest_deer_hunt2015.php [32319/32319] -> "../data/townSites2/Burlington/www.burlington.org/community_development/landlocked_forest_deer_hunt2015.php" [1]
+2017-01-01 22:19:54 URL: http://www.burlington.org/community_development/docs/ConsAreas_CLICK.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:19:55 URL: http://www.burlington.org/community_development/docs/saw_mill_11x17.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:19:55 URL: http://www.burlington.org/community_development/docs/mill_pond_11x17.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:19:56 URL: http://www.burlington.org/community_development/docs/littles_11x17.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:19:56 URL: http://www.burlington.org/community_development/docs/Pine_Glen.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:19:57 URL: http://www.burlington.org/community_development/docs/marion_11x17.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:19:58 URL:http://www.burlington.org/residents/connect_cty_faq.php [38845/38845] -> "../data/townSites2/Burlington/www.burlington.org/residents/connect_cty_faq.php" [1]
+2017-01-01 22:19:59 URL:http://www.burlington.org/community_development/deceased_veterans_-_burlington.php [34707/34707] -> "../data/townSites2/Burlington/www.burlington.org/community_development/deceased_veterans_-_burlington.php" [1]
+2017-01-01 22:20:01 URL:http://www.burlington.org/community_development/chapter_115.php [38381/38381] -> "../data/townSites2/Burlington/www.burlington.org/community_development/chapter_115.php" [1]
+2017-01-01 22:20:02 URL:http://www.burlington.org/community_development/town_of_burlington_veterans_service_organizations.php [33294/33294] -> "../data/townSites2/Burlington/www.burlington.org/community_development/town_of_burlington_veterans_service_organizations.php" [1]
+2017-01-01 22:20:03 URL:http://www.burlington.org/community_development/events.php [45539/45539] -> "../data/townSites2/Burlington/www.burlington.org/community_development/events.php" [1]
+2017-01-01 22:20:04 URL:http://www.burlington.org/community_development/initial_applications.php [37347/37347] -> "../data/townSites2/Burlington/www.burlington.org/community_development/initial_applications.php" [1]
+2017-01-01 22:20:06 URL:http://www.burlington.org/community_development/returning_applicants.php [34695/34695] -> "../data/townSites2/Burlington/www.burlington.org/community_development/returning_applicants.php" [1]
+2017-01-01 22:20:08 URL:http://www.burlington.org/community_development/town_of_burlington_flag.php [32375/32375] -> "../data/townSites2/Burlington/www.burlington.org/community_development/town_of_burlington_flag.php" [1]
+2017-01-01 22:20:13 URL:http://www.burlington.org/residents/council_on_aging/coa_boardtest.php [35883/35883] -> "../data/townSites2/Burlington/www.burlington.org/residents/council_on_aging/coa_boardtest.php" [1]
+2017-01-01 22:20:14 URL:http://www.burlington.org/residents/council_on_aging/where_are_we.php [35882/35882] -> "../data/townSites2/Burlington/www.burlington.org/residents/council_on_aging/where_are_we.php" [1]
+2017-01-01 22:20:15 URL:http://www.burlington.org/residents/council_on_aging/monthly_newsletter.php [35564/35564] -> "../data/townSites2/Burlington/www.burlington.org/residents/council_on_aging/monthly_newsletter.php" [1]
+2017-01-01 22:20:16 URL:http://www.burlington.org/residents/council_on_aging/financial_assistance.php [36252/36252] -> "../data/townSites2/Burlington/www.burlington.org/residents/council_on_aging/financial_assistance.php" [1]
+2017-01-01 22:20:18 URL:http://www.burlington.org/residents/council_on_aging/shine.php [36579/36579] -> "../data/townSites2/Burlington/www.burlington.org/residents/council_on_aging/shine.php" [1]
+2017-01-01 22:20:19 URL:http://www.burlington.org/residents/council_on_aging/alzheimers_support_group.php [35827/35827] -> "../data/townSites2/Burlington/www.burlington.org/residents/council_on_aging/alzheimers_support_group.php" [1]
+2017-01-01 22:20:20 URL:http://www.burlington.org/residents/council_on_aging/legal_aid.php [34869/34869] -> "../data/townSites2/Burlington/www.burlington.org/residents/council_on_aging/legal_aid.php" [1]
+2017-01-01 22:20:21 URL:http://www.burlington.org/residents/council_on_aging/transportation.php [39407/39407] -> "../data/townSites2/Burlington/www.burlington.org/residents/council_on_aging/transportation.php" [1]
+2017-01-01 22:20:22 URL:http://www.burlington.org/residents/council_on_aging/outreach.php [36202/36202] -> "../data/townSites2/Burlington/www.burlington.org/residents/council_on_aging/outreach.php" [1]
+2017-01-01 22:20:23 URL:http://www.burlington.org/residents/council_on_aging/lunch.php [36513/36513] -> "../data/townSites2/Burlington/www.burlington.org/residents/council_on_aging/lunch.php" [1]
+2017-01-01 22:20:24 URL:http://www.burlington.org/residents/council_on_aging/yellow_alert.php [36395/36395] -> "../data/townSites2/Burlington/www.burlington.org/residents/council_on_aging/yellow_alert.php" [1]
+2017-01-01 22:20:25 URL:http://www.burlington.org/residents/council_on_aging/workshops.php [36081/36081] -> "../data/townSites2/Burlington/www.burlington.org/residents/council_on_aging/workshops.php" [1]
+2017-01-01 22:20:26 URL:http://www.burlington.org/residents/community_life_center/upcoming_programs.php [32815/32815] -> "../data/townSites2/Burlington/www.burlington.org/residents/community_life_center/upcoming_programs.php" [1]
+2017-01-01 22:20:26 URL:http://www.burlington.org/residents/community_life_center/services_we_provide.php [39204/39204] -> "../data/townSites2/Burlington/www.burlington.org/residents/community_life_center/services_we_provide.php" [1]
+2017-01-01 22:20:27 URL:http://www.burlington.org/residents/community_life_center/staff.php [32801/32801] -> "../data/townSites2/Burlington/www.burlington.org/residents/community_life_center/staff.php" [1]
+2017-01-01 22:20:28 URL:http://www.burlington.org/residents/community_life_center/byfs_board.php [32821/32821] -> "../data/townSites2/Burlington/www.burlington.org/residents/community_life_center/byfs_board.php" [1]
+2017-01-01 22:20:29 URL:http://www.burlington.org/residents/community_life_center/financial_assistance.php [32851/32851] -> "../data/townSites2/Burlington/www.burlington.org/residents/community_life_center/financial_assistance.php" [1]
+2017-01-01 22:20:30 URL:http://www.burlington.org/residents/community_life_center/coalition_for_a_healthy_burlington.php [33140/33140] -> "../data/townSites2/Burlington/www.burlington.org/residents/community_life_center/coalition_for_a_healthy_burlington.php" [1]
+2017-01-01 22:20:31 URL:http://www.burlington.org/new_departments/library/about/index.php [25552/25552] -> "../data/townSites2/Burlington/www.burlington.org/new_departments/library/about/index.php" [1]
+2017-01-01 22:20:31 URL:http://www.burlington.org/new_departments/library/inter_library_loan.php [28951/28951] -> "../data/townSites2/Burlington/www.burlington.org/new_departments/library/inter_library_loan.php" [1]
+2017-01-01 22:20:32 URL:http://www.burlington.org/departments/library/daytime_book_group.php [29149/29149] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/daytime_book_group.php" [1]
+2017-01-01 22:20:33 URL:http://www.burlington.org/departments/library/book_discussion_groups.php [34539/34539] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/book_discussion_groups.php" [1]
+2017-01-01 22:20:34 URL:http://www.burlington.org/departments/library/book_club_kits.php [27871/27871] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/book_club_kits.php" [1]
+2017-01-01 22:20:34 URL:http://www.burlington.org/departments/library/suggested_reads.php [27516/27516] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/suggested_reads.php" [1]
+2017-01-01 22:20:35 URL:http://www.burlington.org/departments/library/circulation/index.php [25792/25792] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/circulation/index.php" [1]
+2017-01-01 22:20:36 URL:http://www.burlington.org/departments/library/adult_programs1.php [30483/30483] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/adult_programs1.php" [1]
+2017-01-01 22:20:37 URL:http://www.burlington.org/departments/library/about/volunteers.php [28284/28284] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/about/volunteers.php" [1]
+2017-01-01 22:20:37 URL:http://www.burlington.org/departments/library/foreign_affairs_discussion_group.php [29410/29410] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/foreign_affairs_discussion_group.php" [1]
+2017-01-01 22:20:38 URL:http://www.burlington.org/departments/library/children/index.php [30139/30139] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/children/index.php" [1]
+2017-01-01 22:20:39 URL:http://www.burlington.org/departments/library/children/youth_services1.php [36469/36469] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/children/youth_services1.php" [1]
+2017-01-01 22:20:39 URL:http://www.burlington.org/departments/library/children/story_time.php [30367/30367] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/children/story_time.php" [1]
+2017-01-01 22:20:40 URL:http://www.burlington.org/departments/library/children/programs.php [31256/31256] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/children/programs.php" [1]
+2017-01-01 22:20:41 URL:http://www.burlington.org/departments/library/children/kids_cards.php [27112/27112] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/children/kids_cards.php" [1]
+2017-01-01 22:20:42 URL:http://www.burlington.org/departments/library/teens/index.php [37672/37672] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/teens/index.php" [1]
+2017-01-01 22:20:42 URL:http://www.burlington.org/new_departments/library/teens/teen_advisory_group.php [31003/31003] -> "../data/townSites2/Burlington/www.burlington.org/new_departments/library/teens/teen_advisory_group.php" [1]
+2017-01-01 22:20:43 URL:http://www.burlington.org/departments/library/teens/college.php [29280/29280] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/teens/college.php" [1]
+2017-01-01 22:20:44 URL:http://www.burlington.org/departments/library/teens/jobs.php [31719/31719] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/teens/jobs.php" [1]
+2017-01-01 22:20:45 URL:http://www.burlington.org/new_departments/library/teens/homework_helps.php [39505/39505] -> "../data/townSites2/Burlington/www.burlington.org/new_departments/library/teens/homework_helps.php" [1]
+2017-01-01 22:20:45 URL:http://www.burlington.org/departments/library/reference/index.php [25786/25786] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/reference/index.php" [1]
+2017-01-01 22:20:46 URL:http://www.burlington.org/departments/library/reference/databases.php [71289/71289] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/reference/databases.php" [1]
+2017-01-01 22:20:47 URL:http://www.burlington.org/departments/library/reference/find_articles.php [30725/30725] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/reference/find_articles.php" [1]
+2017-01-01 22:20:47 URL:http://www.burlington.org/departments/library/reference/search_other_libraries.php [29132/29132] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/reference/search_other_libraries.php" [1]
+2017-01-01 22:20:48 URL:http://www.burlington.org/departments/library/reference/ask_a_librarian.php [28628/28628] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/reference/ask_a_librarian.php" [1]
+2017-01-01 22:20:49 URL:http://www.burlington.org/departments/library/reference/newspapers.php [34096/34096] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/reference/newspapers.php" [1]
+2017-01-01 22:20:50 URL:http://www.burlington.org/departments/library/reference/magazines.php [70400/70400] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/reference/magazines.php" [1]
+2017-01-01 22:20:51 URL:http://www.burlington.org/departments/library/reference/subject_guides.php [30291/30291] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/reference/subject_guides.php" [1]
+2017-01-01 22:20:52 URL:http://www.burlington.org/departments/library/services1.php [25755/25755] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/services1.php" [1]
+2017-01-01 22:20:52 URL:http://www.burlington.org/new_departments/library/reference/book-a-librarian.php [29025/29025] -> "../data/townSites2/Burlington/www.burlington.org/new_departments/library/reference/book-a-librarian.php" [1]
+2017-01-01 22:20:53 URL:http://www.burlington.org/departments/library/circulation/library_card.php [29682/29682] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/circulation/library_card.php" [1]
+2017-01-01 22:20:54 URL:http://www.burlington.org/departments/library/circulation/teacher_card.php [27855/27855] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/circulation/teacher_card.php" [1]
+2017-01-01 22:20:55 URL:http://www.burlington.org/departments/library/circulation/homebound.php [27766/27766] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/circulation/homebound.php" [1]
+2017-01-01 22:20:55 URL:http://www.burlington.org/departments/library/circulation/food_for_fines.php [46407/46407] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/circulation/food_for_fines.php" [1]
+2017-01-01 22:20:56 URL:http://www.burlington.org/departments/library/circulation/museum_passes.php [30798/30798] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/circulation/museum_passes.php" [1]
+2017-01-01 22:20:57 URL:http://www.burlington.org/departments/library/about/exhibits.php [30319/30319] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/about/exhibits.php" [1]
+2017-01-01 22:20:57 URL:http://www.burlington.org/departments/library/about/meeting_rooms.php [27656/27656] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/about/meeting_rooms.php" [1]
+2017-01-01 22:20:58 URL:http://www.burlington.org/departments/library/notary.php [26932/26932] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/notary.php" [1]
+2017-01-01 22:20:59 URL:http://www.burlington.org/new_departments/library/print_from_anywhere.php [28497/28497] -> "../data/townSites2/Burlington/www.burlington.org/new_departments/library/print_from_anywhere.php" [1]
+2017-01-01 22:20:59 URL:http://www.burlington.org/departments/library/friends1.php [25642/25642] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/friends1.php" [1]
+2017-01-01 22:21:00 URL:http://www.burlington.org/departments/library/about.php [30730/30730] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/about.php" [1]
+2017-01-01 22:21:02 URL:http://www.burlington.org/departments/library/book_sales.php [28029/28029] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/book_sales.php" [1]
+2017-01-01 22:21:02 URL: http://www.burlington.org/2016%20Fall%20Newsletter.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:21:03 URL:http://www.burlington.org/departments/library/membership.php [28539/28539] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/membership.php" [1]
+2017-01-01 22:21:04 URL:http://www.burlington.org/departments/library/get_library_hours_and_directions.php [29351/29351] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/get_library_hours_and_directions.php" [1]
+2017-01-01 22:21:05 URL:http://www.burlington.org/departments/library/elibrary.php [34247/34247] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/elibrary.php" [1]
+2017-01-01 22:21:06 URL:http://www.burlington.org/departments/library/calendar.php [27701/27701] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/calendar.php" [1]
+2017-01-01 22:21:08 URL:http://www.burlington.org/departments/library/mission_statement.php [27097/27097] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/mission_statement.php" [1]
+2017-01-01 22:21:09 URL:http://www.burlington.org/departments/library/about/policies.php [29640/29640] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/about/policies.php" [1]
+2017-01-01 22:21:12 URL:http://www.burlington.org/departments/library/about/staff.php [31170/31170] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/about/staff.php" [1]
+2017-01-01 22:21:16 URL:http://www.burlington.org/new_departments/library/about/trustees.php [29179/29179] -> "../data/townSites2/Burlington/www.burlington.org/new_departments/library/about/trustees.php" [1]
+2017-01-01 22:21:20 URL:http://www.burlington.org/departments/library/about/history.php [34463/34463] -> "../data/townSites2/Burlington/www.burlington.org/departments/library/about/history.php" [1]
+2017-01-01 22:21:20 URL: http://www.burlington.org/departments/library/docs/page%20post%2012-15-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:21:21 URL: http://www.burlington.org/docs/12-22-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:21:21 URL: http://www.burlington.org/residents/docs/Website_FAQs.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:21:22 URL: http://www.burlington.org/town_government/docs/2015%20BURLINGTON%20MA%20ANNUAL%20REPORT.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:21:23 URL:http://www.burlington.org/residents/mission_statement.php [37907/37907] -> "../data/townSites2/Burlington/www.burlington.org/residents/mission_statement.php" [1]
+2017-01-01 22:21:24 URL:http://www.burlington.org/residents/history_of_the_town_of_burlington_archives.php [43219/43219] -> "../data/townSites2/Burlington/www.burlington.org/residents/history_of_the_town_of_burlington_archives.php" [1]
+2017-01-01 22:21:27 URL:http://www.burlington.org/residents/archives_services.php [49688/49688] -> "../data/townSites2/Burlington/www.burlington.org/residents/archives_services.php" [1]
+2017-01-01 22:21:28 URL:http://www.burlington.org/residents/how_you_can_help.php [36698/36698] -> "../data/townSites2/Burlington/www.burlington.org/residents/how_you_can_help.php" [1]
+2017-01-01 22:21:29 URL:http://www.burlington.org/residents/this_week_s_burlington_photo.php [35558/35558] -> "../data/townSites2/Burlington/www.burlington.org/residents/this_week_s_burlington_photo.php" [1]
+2017-01-01 22:21:30 URL:http://www.burlington.org/residents/collecting_focus.php [38202/38202] -> "../data/townSites2/Burlington/www.burlington.org/residents/collecting_focus.php" [1]
+2017-01-01 22:21:31 URL:http://www.burlington.org/residents/location.php [37699/37699] -> "../data/townSites2/Burlington/www.burlington.org/residents/location.php" [1]
+2017-01-01 22:21:32 URL:http://www.burlington.org/ [40693/40693] -> "../data/townSites2/Burlington/www.burlington.org/residents/uploads/Glance15.pdf" [1]
+2017-01-01 22:21:34 URL:http://www.burlington.org/ [40693/40693] -> "../data/townSites2/Burlington/www.burlington.org/Who_do_I_Talk_To_About_1_15.pdf" [1]
+2017-01-01 22:21:35 URL:http://www.burlington.org/community_development/recreation/programs.php [21951/21951] -> "../data/townSites2/Burlington/www.burlington.org/community_development/recreation/programs.php" [1]
+2017-01-01 22:21:36 URL:http://www.burlington.org/community_development/recreation/forms.php [21942/21942] -> "../data/townSites2/Burlington/www.burlington.org/community_development/recreation/forms.php" [1]
+2017-01-01 22:21:37 URL:http://www.burlington.org/community_development/recreation/downloadable_forms.php [25379/25379] -> "../data/townSites2/Burlington/www.burlington.org/community_development/recreation/downloadable_forms.php" [1]
+2017-01-01 22:21:39 URL:http://www.burlington.org/community_development/recreation/work_order.php [24732/24732] -> "../data/townSites2/Burlington/www.burlington.org/community_development/recreation/work_order.php" [1]
+2017-01-01 22:21:40 URL:http://www.burlington.org/community_development/recreation/facilities.php [21957/21957] -> "../data/townSites2/Burlington/www.burlington.org/community_development/recreation/facilities.php" [1]
+2017-01-01 22:21:41 URL:http://www.burlington.org/community_development/recreation/recreation_center.php [24155/24155] -> "../data/townSites2/Burlington/www.burlington.org/community_development/recreation/recreation_center.php" [1]
+2017-01-01 22:21:42 URL:http://www.burlington.org/community_development/recreation/parks.php [25996/25996] -> "../data/townSites2/Burlington/www.burlington.org/community_development/recreation/parks.php" [1]
+2017-01-01 22:21:43 URL:http://www.burlington.org/community_development/recreation/schools.php [25329/25329] -> "../data/townSites2/Burlington/www.burlington.org/community_development/recreation/schools.php" [1]
+2017-01-01 22:21:44 URL:http://www.burlington.org/community_development/recreation/about.php [21839/21839] -> "../data/townSites2/Burlington/www.burlington.org/community_development/recreation/about.php" [1]
+2017-01-01 22:21:45 URL:http://www.burlington.org/community_development/recreation/contact.php [22497/22497] -> "../data/townSites2/Burlington/www.burlington.org/community_development/recreation/contact.php" [1]
+2017-01-01 22:21:45 URL:http://www.burlington.org/community_development/recreation/staff_profiles.php [25911/25911] -> "../data/townSites2/Burlington/www.burlington.org/community_development/recreation/staff_profiles.php" [1]
+2017-01-01 22:21:46 URL:http://www.burlington.org/community_development/recreation/recreation_commission.php [22721/22721] -> "../data/townSites2/Burlington/www.burlington.org/community_development/recreation/recreation_commission.php" [1]
+2017-01-01 22:21:47 URL:http://www.burlington.org/community_development/recreation/mission_statement.php [22688/22688] -> "../data/townSites2/Burlington/www.burlington.org/community_development/recreation/mission_statement.php" [1]
+2017-01-01 22:21:48 URL:http://www.burlington.org/community_development/recreation/rec_therapy.php [26119/26119] -> "../data/townSites2/Burlington/www.burlington.org/community_development/recreation/rec_therapy.php" [1]
+2017-01-01 22:21:49 URL:http://www.burlington.org/community_development/recreation/dog_park.php [25130/25130] -> "../data/townSites2/Burlington/www.burlington.org/community_development/recreation/dog_park.php" [1]
+2017-01-01 22:21:50 URL:http://www.burlington.org/community_development/recreation/burlington_goes_to_the_dogs.php [24534/24534] -> "../data/townSites2/Burlington/www.burlington.org/community_development/recreation/burlington_goes_to_the_dogs.php" [1]
+2017-01-01 22:21:50 URL: http://www.burlington.org/RecProgramGuides/Winter%202017.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:21:51 URL:http://www.burlington.org/community_development/recreation/trips.php [21942/21942] -> "../data/townSites2/Burlington/www.burlington.org/community_development/recreation/trips.php" [1]
+2017-01-01 22:21:51 URL:http://www.burlington.org/community_development/recreation/day_trips.php [26176/26176] -> "../data/townSites2/Burlington/www.burlington.org/community_development/recreation/day_trips.php" [1]
+2017-01-01 22:21:52 URL:http://www.burlington.org/community_development/recreation/overnight_trips.php [24029/24029] -> "../data/townSites2/Burlington/www.burlington.org/community_development/recreation/overnight_trips.php" [1]
+2017-01-01 22:21:52 URL: http://www.burlington.org/50th%20Anniversary.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:21:53 URL:http://www.burlington.org/departments/schools/burlington_public_schools/schools_calendar.php [27219/27219] -> "../data/townSites2/Burlington/www.burlington.org/departments/schools/burlington_public_schools/schools_calendar.php" [1]
+2017-01-01 22:21:54 URL:http://www.burlington.org/town_government/school_committee.php [44066/44066] -> "../data/townSites2/Burlington/www.burlington.org/town_government/school_committee.php" [1]
+2017-01-01 22:21:54 URL: http://www.burlington.org/community_development/docs/Final%20School%20Budget.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:21:55 URL: http://www.burlington.org/community_development/docs/Shawsheen%20Budget%20Doc.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:21:55 URL:http://www.burlington.org/departments/constructionProjects.php [38337/38337] -> "../data/townSites2/Burlington/www.burlington.org/departments/constructionProjects.php" [1]
+2017-01-01 22:21:56 URL: http://www.burlington.org/Yard_Waste_Map_Burlington_WEBSITE.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:21:57 URL:http://www.burlington.org/departments/WaterSewerBilling.php [36682/36682] -> "../data/townSites2/Burlington/www.burlington.org/departments/WaterSewerBilling.php" [1]
+2017-01-01 22:21:58 URL:http://www.burlington.org/departments/street_lights.php [33975/33975] -> "../data/townSites2/Burlington/www.burlington.org/departments/street_lights.php" [1]
+2017-01-01 22:21:59 URL:http://www.burlington.org/departments/traffic_light.php [34964/34964] -> "../data/townSites2/Burlington/www.burlington.org/departments/traffic_light.php" [1]
+2017-01-01 22:22:00 URL:http://www.burlington.org/departments/snow_removal.php [35969/35969] -> "../data/townSites2/Burlington/www.burlington.org/departments/snow_removal.php" [1]
+2017-01-01 22:22:01 URL:http://www.burlington.org/departments/PermitsApplications.php [33884/33884] -> "../data/townSites2/Burlington/www.burlington.org/departments/PermitsApplications.php" [1]
+2017-01-01 22:22:02 URL:http://www.burlington.org/departments/RulesRegs.php [33182/33182] -> "../data/townSites2/Burlington/www.burlington.org/departments/RulesRegs.php" [1]
+2017-01-01 22:22:02 URL: http://www.burlington.org/departments/docs/Yard%20waste%20days%20by%20street.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:02 URL: http://www.burlington.org/departments/docs/Yard%20Waste%20Map%20Burlington.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:03 URL:http://www.burlington.org/departments/administration.php [36843/36843] -> "../data/townSites2/Burlington/www.burlington.org/departments/administration.php" [1]
+2017-01-01 22:22:04 URL:http://www.burlington.org/departments/cemetary.php [35467/35467] -> "../data/townSites2/Burlington/www.burlington.org/departments/cemetary.php" [1]
+2017-01-01 22:22:05 URL:http://www.burlington.org/departments/engineeringDiv.php [33962/33962] -> "../data/townSites2/Burlington/www.burlington.org/departments/engineeringDiv.php" [1]
+2017-01-01 22:22:05 URL:http://www.burlington.org/departments/highway.php [34479/34479] -> "../data/townSites2/Burlington/www.burlington.org/departments/highway.php" [1]
+2017-01-01 22:22:06 URL:http://www.burlington.org/departments/drinking_water.php [35571/35571] -> "../data/townSites2/Burlington/www.burlington.org/departments/drinking_water.php" [1]
+2017-01-01 22:22:06 URL:http://www.burlington.org/departments/ConstUpdate.php [33219/33219] -> "../data/townSites2/Burlington/www.burlington.org/departments/ConstUpdate.php" [1]
+2017-01-01 22:22:08 URL:http://www.burlington.org/ [40693/40693] -> "../data/townSites2/Burlington/www.burlington.org/clerk/index.html" [1]
+2017-01-01 22:22:09 URL:http://www.burlington.org/businesstest/stats_and_facts.php [33904/33904] -> "../data/townSites2/Burlington/www.burlington.org/businesstest/stats_and_facts.php" [1]
+2017-01-01 22:22:10 URL:http://www.burlington.org/businesstest/doing_business_in_burlington.php [35405/35405] -> "../data/townSites2/Burlington/www.burlington.org/businesstest/doing_business_in_burlington.php" [1]
+2017-01-01 22:22:10 URL:http://www.burlington.org/businesstest/business_resources_and_links.php [34729/34729] -> "../data/townSites2/Burlington/www.burlington.org/businesstest/business_resources_and_links.php" [1]
+2017-01-01 22:22:11 URL:http://www.burlington.org/businesstest/burlingtonNews.php [37051/37051] -> "../data/townSites2/Burlington/www.burlington.org/businesstest/burlingtonNews.php" [1]
+2017-01-01 22:22:12 URL:http://www.burlington.org/new_businesstest/photo_show.php [35534/35534] -> "../data/townSites2/Burlington/www.burlington.org/new_businesstest/photo_show.php" [1]
+2017-01-01 22:22:12 URL:http://www.burlington.org/businesstest/contact_us.php [34534/34534] -> "../data/townSites2/Burlington/www.burlington.org/businesstest/contact_us.php" [1]
+2017-01-01 22:22:13 URL: http://www.burlington.org/businesstest/images/Bonefish_Opening.JPG 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:13 URL: http://www.burlington.org/businesstest/docs/Microsoft_vacating_a_Kendall_Square_office__sending_workers_to_Burlington___BetaBoston.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:13 URL: http://www.burlington.org/businesstest/docs/A_Skate_Shop_Like_No_Other.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:14 URL: http://www.burlington.org/businesstest/docs/Destination__Burlington.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:14 URL: http://www.burlington.org/businesstest/docs/Software_company_opens_new_headquarters___North___The_Boston_Globe.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:15 URL: http://www.burlington.org/businesstest/docs/Foliage_Accelerating_Expansion_in_the_Bay_Area.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:15 URL:http://www.burlington.org/town_government/town_clerk/town_government/vital_recordstest.php [38860/38860] -> "../data/townSites2/Burlington/www.burlington.org/town_government/town_clerk/town_government/vital_recordstest.php" [1]
+2017-01-01 22:22:16 URL:http://www.burlington.org/town_government/town_clerk/town_government/check_your_voter_registration.php [36648/36648] -> "../data/townSites2/Burlington/www.burlington.org/town_government/town_clerk/town_government/check_your_voter_registration.php" [1]
+2017-01-01 22:22:17 URL:http://www.burlington.org/town_government/town_clerk/burial_agent_permits.php [35116/35116] -> "../data/townSites2/Burlington/www.burlington.org/town_government/town_clerk/burial_agent_permits.php" [1]
+2017-01-01 22:22:18 URL: http://www.burlington.org/Burlington2016V2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:18 URL:http://www.burlington.org/town_government/town_clerk/town_government/dog_licenses.php [36005/36005] -> "../data/townSites2/Burlington/www.burlington.org/town_government/town_clerk/town_government/dog_licenses.php" [1]
+2017-01-01 22:22:19 URL: http://www.burlington.org/town_government/town_clerk/uploads/SCHEDULE_OF_FEES.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:20 URL:http://www.burlington.org/town_government/town_clerk/town_government/jp_lists.php [43454/43454] -> "../data/townSites2/Burlington/www.burlington.org/town_government/town_clerk/town_government/jp_lists.php" [1]
+2017-01-01 22:22:20 URL:http://www.burlington.org/town_government/town_clerk/town_government/marriage_license_information.php [37001/37001] -> "../data/townSites2/Burlington/www.burlington.org/town_government/town_clerk/town_government/marriage_license_information.php" [1]
+2017-01-01 22:22:21 URL:http://www.burlington.org/town_government/town_clerk/town_government/notary_public.php [36166/36166] -> "../data/townSites2/Burlington/www.burlington.org/town_government/town_clerk/town_government/notary_public.php" [1]
+2017-01-01 22:22:21 URL: http://www.burlington.org/burlington/town_government/town_clerk/uploads/Holiday13_18.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:22 URL: http://www.burlington.org/departments/community_development/docs/App_for_WEB.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:22 URL: http://www.burlington.org/town_government/town_clerk/docs/DBA%20List%20for%20Web.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:22 URL: http://www.burlington.org/town_government/town_clerk/docs/New%20DBA%20by%20Date%20for%20Web.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:23 URL: http://www.burlington.org/residents/docs/2014AnnualReport.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:24 URL:http://www.burlington.org/ [40693/40693] -> "../data/townSites2/Burlington/www.burlington.org/Town Center" [1]
+2017-01-01 22:22:25 URL: http://www.burlington.org/16_01GBylaws.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:25 URL: http://www.burlington.org/15_09GBylaws.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:25 URL: http://www.burlington.org/GBylaws01_15a.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:26 URL: http://www.burlington.org/document_center/GBylaws05_14.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:26 URL: http://www.burlington.org/document_center/GBylaws04_14.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:27 URL: http://www.burlington.org/document_center/GBylaws11_13.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:27 URL: http://www.burlington.org/document_center/GBylaws08_13.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:27 URL: http://www.burlington.org/Zoning_Bylaws__September_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:28 URL: http://www.burlington.org/Zoning_BylawsMay_2015f.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:28 URL: http://www.burlington.org/WebZBylaws12_14.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:28 URL: http://www.burlington.org/document_center/Zoning_Bylaws_05_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:29 URL: http://www.burlington.org/document_center/Zoning_Bylaws_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:29 URL: http://www.burlington.org/document_center/Zoning_Bylaws_amended_through_January_2012_final.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:29 URL: http://www.burlington.org/document_center/PrecinctMapweb.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:30 URL: http://www.burlington.org/Street_Index_for_Polls.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:30 URL: http://www.burlington.org/community_development/docs/TownCenterDistrictMap.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:31 URL: http://www.burlington.org/document_center/Zoning_Map.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:31 URL: http://www.burlington.org/document_center/Zoning_Map_Changes.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:32 URL:http://www.burlington.org/town_government/town_audits.php [38710/38710] -> "../data/townSites2/Burlington/www.burlington.org/town_government/town_audits.php" [1]
+2017-01-01 22:22:33 URL:http://www.burlington.org/town_government/credit_rating/index.php [33920/33920] -> "../data/townSites2/Burlington/www.burlington.org/town_government/credit_rating/index.php" [1]
+2017-01-01 22:22:33 URL:http://www.burlington.org/town_government/capital_improvement_program/index.php [34209/34209] -> "../data/townSites2/Burlington/www.burlington.org/town_government/capital_improvement_program/index.php" [1]
+2017-01-01 22:22:34 URL:http://www.burlington.org/town_government/current_boardtest.php [36682/36682] -> "../data/townSites2/Burlington/www.burlington.org/town_government/current_boardtest.php" [1]
+2017-01-01 22:22:36 URL:http://www.burlington.org/town_government/agenda_and_meeting_minutes.php [475476/475476] -> "../data/townSites2/Burlington/www.burlington.org/town_government/agenda_and_meeting_minutes.php" [1]
+2017-01-01 22:22:37 URL:http://www.burlington.org/town_government/mission_statement.php [35672/35672] -> "../data/townSites2/Burlington/www.burlington.org/town_government/mission_statement.php" [1]
+2017-01-01 22:22:37 URL:http://www.burlington.org/town_government/annual_town_report.php [34964/34964] -> "../data/townSites2/Burlington/www.burlington.org/town_government/annual_town_report.php" [1]
+2017-01-01 22:22:38 URL: http://www.burlington.org/town_government/uploads/Alcohol_Rules_Regs_1_11_16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:38 URL: http://www.burlington.org/AMC%20Alcohol%20RulesRegsAMC%20FINAL%20as%20amended%20approved%20%208.15.16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:38 URL: http://www.burlington.org/ServerPolicy_adopt_9_06%20(1).pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:39 URL: http://www.burlington.org/burlington/town_government/uploads/GLApp1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:42 URL:http://www.burlington.org/town_government/whats_new.php [34652/34652] -> "../data/townSites2/Burlington/www.burlington.org/town_government/whats_new.php" [1]
+2017-01-01 22:22:43 URL:http://www.burlington.org/town_government/electricity_program.php [44046/44046] -> "../data/townSites2/Burlington/www.burlington.org/town_government/electricity_program.php" [1]
+2017-01-01 22:22:44 URL:http://www.burlington.org/town_government/contact_us.php [34335/34335] -> "../data/townSites2/Burlington/www.burlington.org/town_government/contact_us.php" [1]
+2017-01-01 22:22:45 URL: http://www.burlington.org/town_government/uploads/BURLINGTON_TAX_RATE_SHEET.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:45 URL:http://www.burlington.org/town_government/motor_vehicle_information.php [40074/40074] -> "../data/townSites2/Burlington/www.burlington.org/town_government/motor_vehicle_information.php" [1]
+2017-01-01 22:22:46 URL: http://www.burlington.org/town_government/uploads/FAQ_FINAL.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:47 URL:http://www.burlington.org/town_government/assessor_maps.php [39393/39393] -> "../data/townSites2/Burlington/www.burlington.org/town_government/assessor_maps.php" [1]
+2017-01-01 22:22:48 URL:http://www.burlington.org/town_government/realestate_abatements.php [36374/36374] -> "../data/townSites2/Burlington/www.burlington.org/town_government/realestate_abatements.php" [1]
+2017-01-01 22:22:49 URL:http://www.burlington.org/town_government/agenda_and_minutes.php [454856/454856] -> "../data/townSites2/Burlington/www.burlington.org/town_government/agenda_and_minutes.php" [1]
+2017-01-01 22:22:49 URL: http://www.burlington.org/Exemption_Tax_Relief_Chart.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:50 URL:http://www.burlington.org/town_government/valuation_tax_information.php [49447/49447] -> "../data/townSites2/Burlington/www.burlington.org/town_government/valuation_tax_information.php" [1]
+2017-01-01 22:22:51 URL:http://www.burlington.org/town_government/applications_brochures_and_forms.php [39269/39269] -> "../data/townSites2/Burlington/www.burlington.org/town_government/applications_brochures_and_forms.php" [1]
+2017-01-01 22:22:52 URL:http://www.burlington.org/town_government/helpful_links.php [34753/34753] -> "../data/townSites2/Burlington/www.burlington.org/town_government/helpful_links.php" [1]
+2017-01-01 22:22:52 URL: http://www.burlington.org/burlington/town_government/uploads/Org_chart.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:52 URL: http://www.burlington.org/Elected%20Officials%20List2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:53 URL:http://www.burlington.org/town_government/assessorsbd.php [39317/39317] -> "../data/townSites2/Burlington/www.burlington.org/town_government/assessorsbd.php" [1]
+2017-01-01 22:22:54 URL:http://www.burlington.org/departments/board_of_health/electedboard.php [35668/35668] -> "../data/townSites2/Burlington/www.burlington.org/departments/board_of_health/electedboard.php" [1]
+2017-01-01 22:22:55 URL:http://www.burlington.org/town_government/shawsheen_tech_hs_committee.php [40871/40871] -> "../data/townSites2/Burlington/www.burlington.org/town_government/shawsheen_tech_hs_committee.php" [1]
+2017-01-01 22:22:55 URL: http://www.burlington.org/Appointed%20Committee%20List.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:22:56 URL:http://www.burlington.org/town_government/disability_access_commission/handicapped_parking_police_dept_appeal_form.php [37757/37757] -> "../data/townSites2/Burlington/www.burlington.org/town_government/disability_access_commission/handicapped_parking_police_dept_appeal_form.php" [1]
+2017-01-01 22:22:57 URL:http://www.burlington.org/town_government/disability_access_commission/news_and_events.php [40856/40856] -> "../data/townSites2/Burlington/www.burlington.org/town_government/disability_access_commission/news_and_events.php" [1]
+2017-01-01 22:22:58 URL:http://www.burlington.org/town_government/disability_access_commission/handicapped_parking_placard_application.php [37742/37742] -> "../data/townSites2/Burlington/www.burlington.org/town_government/disability_access_commission/handicapped_parking_placard_application.php" [1]
+2017-01-01 22:22:59 URL:http://www.burlington.org/town_government/disability_access_commission/disability_related_resources.php [37351/37351] -> "../data/townSites2/Burlington/www.burlington.org/town_government/disability_access_commission/disability_related_resources.php" [1]
+2017-01-01 22:23:00 URL:http://www.burlington.org/town_government/disability_access_commission/transportation.php [34852/34852] -> "../data/townSites2/Burlington/www.burlington.org/town_government/disability_access_commission/transportation.php" [1]
+2017-01-01 22:23:00 URL:http://www.burlington.org/town_government/disability_access_commission/information_for_business.php [36270/36270] -> "../data/townSites2/Burlington/www.burlington.org/town_government/disability_access_commission/information_for_business.php" [1]
+2017-01-01 22:23:01 URL:http://www.burlington.org/town_government/disability_access_commission/dac_symbol.php [35902/35902] -> "../data/townSites2/Burlington/www.burlington.org/town_government/disability_access_commission/dac_symbol.php" [1]
+2017-01-01 22:23:02 URL:http://www.burlington.org/town_government/disability_access_commission/request_for_funds_for_accessibility_projects.php [33559/33559] -> "../data/townSites2/Burlington/www.burlington.org/town_government/disability_access_commission/request_for_funds_for_accessibility_projects.php" [1]
+2017-01-01 22:23:02 URL:http://www.burlington.org/town_government/grandview_farm/index.php [36633/36633] -> "../data/townSites2/Burlington/www.burlington.org/town_government/grandview_farm/index.php" [1]
+2017-01-01 22:23:03 URL:http://www.burlington.org/town_government/grandview_farm/meetings.php [36781/36781] -> "../data/townSites2/Burlington/www.burlington.org/town_government/grandview_farm/meetings.php" [1]
+2017-01-01 22:23:04 URL:http://www.burlington.org/town_government/grandview_farm/photos.php [35855/35855] -> "../data/townSites2/Burlington/www.burlington.org/town_government/grandview_farm/photos.php" [1]
+2017-01-01 22:23:05 URL:http://www.burlington.org/town_government/grandview_farm/history.php [40994/40994] -> "../data/townSites2/Burlington/www.burlington.org/town_government/grandview_farm/history.php" [1]
+2017-01-01 22:23:06 URL:http://www.burlington.org/town_government/grandview_farm/past_events.php [43522/43522] -> "../data/townSites2/Burlington/www.burlington.org/town_government/grandview_farm/past_events.php" [1]
+2017-01-01 22:23:07 URL:http://www.burlington.org/town_government/grandview_farm/sponsors.php [63831/63831] -> "../data/townSites2/Burlington/www.burlington.org/town_government/grandview_farm/sponsors.php" [1]
+2017-01-01 22:23:08 URL:http://www.burlington.org/town_government/grandview_farm/news_2013.php [40011/40011] -> "../data/townSites2/Burlington/www.burlington.org/town_government/grandview_farm/news_2013.php" [1]
+2017-01-01 22:23:09 URL:http://www.burlington.org/town_government/grandview_farm/warrant_articles.php [43356/43356] -> "../data/townSites2/Burlington/www.burlington.org/town_government/grandview_farm/warrant_articles.php" [1]
+2017-01-01 22:23:10 URL:http://www.burlington.org/town_government/information_systems_advisory_(isac).php [39341/39341] -> "../data/townSites2/Burlington/www.burlington.org/town_government/information_systems_advisory_(isac).php" [1]
+2017-01-01 22:23:10 URL:http://www.burlington.org/town_government/ways_and_means.php [43350/43350] -> "../data/townSites2/Burlington/www.burlington.org/town_government/ways_and_means.php" [1]
+2017-01-01 22:23:11 URL: http://www.burlington.org/town_government/docs/COMMITTEE_HANDBOOK.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:11 URL: http://www.burlington.org/town_government/docs/open_meeting_law_gl_c_30a_18_25.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:11 URL: http://www.burlington.org/town_government/docs/oml_guide.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:12 URL: http://www.burlington.org/town_government/docs/SummaryConflictInterestLawMunicipalEmployees.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:12 URL:http://www.burlington.org/town_government/Employment.php [35389/35389] -> "../data/townSites2/Burlington/www.burlington.org/town_government/Employment.php" [1]
+2017-01-01 22:23:13 URL:http://www.burlington.org/town_government/human_resources/new_employees.php [91539/91539] -> "../data/townSites2/Burlington/www.burlington.org/town_government/human_resources/new_employees.php" [1]
+2017-01-01 22:23:14 URL:http://www.burlington.org/town_government/benefits.php [37764/37764] -> "../data/townSites2/Burlington/www.burlington.org/town_government/benefits.php" [1]
+2017-01-01 22:23:14 URL:http://www.burlington.org/town_government/human_resources/contracts_and_salary_tables.php [34073/34073] -> "../data/townSites2/Burlington/www.burlington.org/town_government/human_resources/contracts_and_salary_tables.php" [1]
+2017-01-01 22:23:15 URL:http://www.burlington.org/town_government/human_resources/workplace_posters.php [75876/75876] -> "../data/townSites2/Burlington/www.burlington.org/town_government/human_resources/workplace_posters.php" [1]
+2017-01-01 22:23:16 URL:http://www.burlington.org/town_government/human_resources/employee_discounts.php [43816/43816] -> "../data/townSites2/Burlington/www.burlington.org/town_government/human_resources/employee_discounts.php" [1]
+2017-01-01 22:23:17 URL: http://www.burlington.org/town_government/docs/Unclaimed_monies.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:18 URL:http://www.burlington.org/ [40693/40693] -> "../data/townSites2/Burlington/www.burlington.org/Burlington Town Center" [1]
+2017-01-01 22:23:19 URL: http://www.burlington.org/Budget%20Document%20Final%20FY17%20for%20Website.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:19 URL: http://www.burlington.org/Budget_Document_FINAL.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:19 URL: http://www.burlington.org/SchoolBud1.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:19 URL: http://www.burlington.org/SchoolBud2.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:20 URL: http://www.burlington.org/SchoolBud3.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:20 URL: http://www.burlington.org/SchoolBud4.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:20 URL: http://www.burlington.org/SchoolBud5.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:21 URL: http://www.burlington.org/20150401174333949.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:21 URL: http://www.burlington.org/Budget_Document_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:21 URL: http://www.burlington.org/Budget_Document_FY_14.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:22 URL: http://www.burlington.org/2013Budget.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:22 URL: http://www.burlington.org/document_center/2012Budget.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:23 URL: http://www.burlington.org/document_center/2011Budget.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:23 URL:http://www.burlington.org/town_government/town_clerk/quick_form.php [36199/36199] -> "../data/townSites2/Burlington/www.burlington.org/town_government/town_clerk/quick_form.php" [1]
+2017-01-01 22:23:24 URL: http://www.burlington.org/town_government/town_clerk/docs/BurlingtonAirBti.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:24 URL: http://www.burlington.org/town_government/town_clerk/docs/Voting_Prep_Class.zip 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:24 URL: http://www.burlington.org/town_government/docs/TMM-Public%20List.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:25 URL:http://www.burlington.org/town_government/town_meeting_statistics.php [55097/55097] -> "../data/townSites2/Burlington/www.burlington.org/town_government/town_meeting_statistics.php" [1]
+2017-01-01 22:23:26 URL:http://www.burlington.org/town_government/warrants_minutes_and_rollcalls.php [144454/144454] -> "../data/townSites2/Burlington/www.burlington.org/town_government/warrants_minutes_and_rollcalls.php" [1]
+2017-01-01 22:23:26 URL: http://www.burlington.org/town_government/docs/Handbook2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:27 URL: http://www.burlington.org/town_government/docs/Attendance_2011_2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:27 URL: http://www.burlington.org/town_government/docs/Attendance%202014-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:27 URL: http://www.burlington.org/town_government/docs/Street_Index_Polls.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:28 URL: http://www.burlington.org/town_government/docs/686AMEND.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:28 URL:http://www.burlington.org/departments/community_development/permits.php [36392/36392] -> "../data/townSites2/Burlington/www.burlington.org/departments/community_development/permits.php" [1]
+2017-01-01 22:23:29 URL:http://www.burlington.org/new_departments/community_development/current_projects.php [36436/36436] -> "../data/townSites2/Burlington/www.burlington.org/new_departments/community_development/current_projects.php" [1]
+2017-01-01 22:23:30 URL:http://www.burlington.org/departments/community_development/agenda.php [32520/32520] -> "../data/townSites2/Burlington/www.burlington.org/departments/community_development/agenda.php" [1]
+2017-01-01 22:23:31 URL:http://www.burlington.org/departments/community_development/building.php [33550/33550] -> "../data/townSites2/Burlington/www.burlington.org/departments/community_development/building.php" [1]
+2017-01-01 22:23:31 URL: http://www.burlington.org/departments/community_development/docs/BOA_FAQ.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:31 URL: http://www.burlington.org/departments/community_development/docs/variance16.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:32 URL: http://www.burlington.org/departments/community_development/docs/variances.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:33 URL:http://www.burlington.org/departments/building/permits.php [38021/38021] -> "../data/townSites2/Burlington/www.burlington.org/departments/building/permits.php" [1]
+2017-01-01 22:23:33 URL: http://www.burlington.org/document_center/GBylaws08_12.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:34 URL:http://www.burlington.org/residents/council_on_aging/fuel_assistance1.php [35831/35831] -> "../data/townSites2/Burlington/www.burlington.org/residents/council_on_aging/fuel_assistance1.php" [1]
+2017-01-01 22:23:35 URL:http://www.burlington.org/residents/council_on_aging/nutruition.php [35429/35429] -> "../data/townSites2/Burlington/www.burlington.org/residents/council_on_aging/nutruition.php" [1]
+2017-01-01 22:23:35 URL:http://www.burlington.org/residents/council_on_aging/salvation_army.php [35013/35013] -> "../data/townSites2/Burlington/www.burlington.org/residents/council_on_aging/salvation_army.php" [1]
+2017-01-01 22:23:36 URL:http://www.burlington.org/residents/council_on_aging/tax_assistance.php [35118/35118] -> "../data/townSites2/Burlington/www.burlington.org/residents/council_on_aging/tax_assistance.php" [1]
+2017-01-01 22:23:37 URL:http://www.burlington.org/departments/emergency_management/contact_information.php [32676/32676] -> "../data/townSites2/Burlington/www.burlington.org/departments/emergency_management/contact_information.php" [1]
+2017-01-01 22:23:38 URL:http://www.burlington.org/departments/emergency_management/useful_links.php [32500/32500] -> "../data/townSites2/Burlington/www.burlington.org/departments/emergency_management/useful_links.php" [1]
+2017-01-01 22:23:39 URL:http://www.burlington.org/departments/fire/Applications_Forms.php [37726/37726] -> "../data/townSites2/Burlington/www.burlington.org/departments/fire/Applications_Forms.php" [1]
+2017-01-01 22:23:40 URL:http://www.burlington.org/departments/fire/contact_information.php [47295/47295] -> "../data/townSites2/Burlington/www.burlington.org/departments/fire/contact_information.php" [1]
+2017-01-01 22:23:41 URL:http://www.burlington.org/departments/fire/divisions.php [34860/34860] -> "../data/townSites2/Burlington/www.burlington.org/departments/fire/divisions.php" [1]
+2017-01-01 22:23:42 URL:http://www.burlington.org/departments/fire/administration.php [37306/37306] -> "../data/townSites2/Burlington/www.burlington.org/departments/fire/administration.php" [1]
+2017-01-01 22:23:43 URL:http://www.burlington.org/departments/fire/dispatch.php [35159/35159] -> "../data/townSites2/Burlington/www.burlington.org/departments/fire/dispatch.php" [1]
+2017-01-01 22:23:44 URL:http://www.burlington.org/departments/fire/emergency_management.php [36726/36726] -> "../data/townSites2/Burlington/www.burlington.org/departments/fire/emergency_management.php" [1]
+2017-01-01 22:23:45 URL:http://www.burlington.org/departments/fire/emergency_medical_services.php [35281/35281] -> "../data/townSites2/Burlington/www.burlington.org/departments/fire/emergency_medical_services.php" [1]
+2017-01-01 22:23:46 URL:http://www.burlington.org/departments/fire/fire_prevention.php [36553/36553] -> "../data/townSites2/Burlington/www.burlington.org/departments/fire/fire_prevention.php" [1]
+2017-01-01 22:23:47 URL:http://www.burlington.org/departments/fire/maintenance.php [35312/35312] -> "../data/townSites2/Burlington/www.burlington.org/departments/fire/maintenance.php" [1]
+2017-01-01 22:23:48 URL:http://www.burlington.org/departments/fire/training.php [35643/35643] -> "../data/townSites2/Burlington/www.burlington.org/departments/fire/training.php" [1]
+2017-01-01 22:23:49 URL:http://www.burlington.org/departments/fire/faq.php [34634/34634] -> "../data/townSites2/Burlington/www.burlington.org/departments/fire/faq.php" [1]
+2017-01-01 22:23:50 URL:http://www.burlington.org/departments/fire/fire_hydrants.php [36244/36244] -> "../data/townSites2/Burlington/www.burlington.org/departments/fire/fire_hydrants.php" [1]
+2017-01-01 22:23:51 URL:http://www.burlington.org/departments/fire/links.php [35743/35743] -> "../data/townSites2/Burlington/www.burlington.org/departments/fire/links.php" [1]
+2017-01-01 22:23:52 URL:http://www.burlington.org/departments/fire/shift_rosters.php [42091/42091] -> "../data/townSites2/Burlington/www.burlington.org/departments/fire/shift_rosters.php" [1]
+2017-01-01 22:23:52 URL:http://www.burlington.org/departments/fire/special_programs.php [34745/34745] -> "../data/townSites2/Burlington/www.burlington.org/departments/fire/special_programs.php" [1]
+2017-01-01 22:23:53 URL:http://www.burlington.org/departments/fire/juvenile_firesetters_intervention_program.php [34928/34928] -> "../data/townSites2/Burlington/www.burlington.org/departments/fire/juvenile_firesetters_intervention_program.php" [1]
+2017-01-01 22:23:54 URL:http://www.burlington.org/departments/fire/student_awareness_of_fire_education.php [34935/34935] -> "../data/townSites2/Burlington/www.burlington.org/departments/fire/student_awareness_of_fire_education.php" [1]
+2017-01-01 22:23:55 URL:http://www.burlington.org/departments/fire/senior_awareness_of_fire_education.php [34899/34899] -> "../data/townSites2/Burlington/www.burlington.org/departments/fire/senior_awareness_of_fire_education.php" [1]
+2017-01-01 22:23:56 URL: http://www.burlington.org/departments/fire/images/FIREST_1.JPG 200 OK
+unlink: No such file or directory
+2017-01-01 22:23:57 URL:http://www.burlington.org/departments/board_of_health/meet_the_staff.php [34762/34762] -> "../data/townSites2/Burlington/www.burlington.org/departments/board_of_health/meet_the_staff.php" [1]
+2017-01-01 22:23:59 URL:http://www.burlington.org/departments/board_of_health/director.php [36508/36508] -> "../data/townSites2/Burlington/www.burlington.org/departments/board_of_health/director.php" [1]
+2017-01-01 22:24:00 URL:http://www.burlington.org/departments/board_of_health/environmental_engineer.php [37268/37268] -> "../data/townSites2/Burlington/www.burlington.org/departments/board_of_health/environmental_engineer.php" [1]
+2017-01-01 22:24:01 URL:http://www.burlington.org/departments/board_of_health/health_agent.php [36034/36034] -> "../data/townSites2/Burlington/www.burlington.org/departments/board_of_health/health_agent.php" [1]
+2017-01-01 22:24:02 URL:http://www.burlington.org/departments/board_of_health/public_health_nurse.php [45856/45856] -> "../data/townSites2/Burlington/www.burlington.org/departments/board_of_health/public_health_nurse.php" [1]
+2017-01-01 22:24:03 URL:http://www.burlington.org/departments/board_of_health/contract_health_inspectors.php [36025/36025] -> "../data/townSites2/Burlington/www.burlington.org/departments/board_of_health/contract_health_inspectors.php" [1]
+2017-01-01 22:24:04 URL:http://www.burlington.org/departments/board_of_health/bvrc_calendar_of_events.php [46173/46173] -> "../data/townSites2/Burlington/www.burlington.org/departments/board_of_health/bvrc_calendar_of_events.php" [1]
+2017-01-01 22:24:05 URL:http://www.burlington.org/departments/board_of_health/regulations_and_permits.php [39113/39113] -> "../data/townSites2/Burlington/www.burlington.org/departments/board_of_health/regulations_and_permits.php" [1]
+2017-01-01 22:24:06 URL:http://www.burlington.org/departments/board_of_health/food_service_establishments.php/ [38762/38762] -> "../data/townSites2/Burlington/www.burlington.org/departments/board_of_health/food_service_establishments.php/index.html" [1]
+2017-01-01 22:24:07 URL:http://www.burlington.org/departments/board_of_health/programs.php [42480/42480] -> "../data/townSites2/Burlington/www.burlington.org/departments/board_of_health/programs.php" [1]
+2017-01-01 22:24:08 URL:http://www.burlington.org/departments/board_of_health/business_programs_and_information.php [36193/36193] -> "../data/townSites2/Burlington/www.burlington.org/departments/board_of_health/business_programs_and_information.php" [1]
+2017-01-01 22:24:09 URL:http://www.burlington.org/departments/board_of_health/mrc_info.php [41975/41975] -> "../data/townSites2/Burlington/www.burlington.org/departments/board_of_health/mrc_info.php" [1]
+2017-01-01 22:24:12 URL:http://www.burlington.org/departments/board_of_health/product_recall.php [40390/40390] -> "../data/townSites2/Burlington/www.burlington.org/departments/board_of_health/product_recall.php" [1]
+2017-01-01 22:24:13 URL:http://www.burlington.org/departments/board_of_health/boh_photo_gallery.php [42666/42666] -> "../data/townSites2/Burlington/www.burlington.org/departments/board_of_health/boh_photo_gallery.php" [1]
+2017-01-01 22:24:14 URL:http://www.burlington.org/departments/board_of_health/honor_roll.php [40954/40954] -> "../data/townSites2/Burlington/www.burlington.org/departments/board_of_health/honor_roll.php" [1]
+2017-01-01 22:24:16 URL: http://www.burlington.org/departments/board_of_health/docs/BP-COA-Nurse-Library.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:24:21 URL:http://www.burlington.org/departments/board_of_health/meeting_list.php [39457/39457] -> "../data/townSites2/Burlington/www.burlington.org/departments/board_of_health/meeting_list.php" [1]
+2017-01-01 22:24:23 URL:http://www.burlington.org/departments/board_of_health/boh_agendas_minutes.php [371096/371096] -> "../data/townSites2/Burlington/www.burlington.org/departments/board_of_health/boh_agendas_minutes.php" [1]
+2017-01-01 22:24:24 URL: http://www.burlington.org/Zoning%20Determination_Information%20Request%20Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:24:25 URL:http://www.burlington.org/community_development/projects_under_review.php [35934/35934] -> "../data/townSites2/Burlington/www.burlington.org/community_development/projects_under_review.php" [1]
+2017-01-01 22:24:27 URL:http://www.burlington.org/community_development/approved_projects15.php [457249/457249] -> "../data/townSites2/Burlington/www.burlington.org/community_development/approved_projects15.php" [1]
+2017-01-01 22:24:28 URL:http://www.burlington.org/community_development/agendas_and_minutes.php [43062/43062] -> "../data/townSites2/Burlington/www.burlington.org/community_development/agendas_and_minutes.php" [1]
+2017-01-01 22:24:28 URL: http://www.burlington.org/burlington/community_development/uploads/FeeSchedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:24:29 URL:http://www.burlington.org/community_development/filing_an_application.php [114748/114748] -> "../data/townSites2/Burlington/www.burlington.org/community_development/filing_an_application.php" [1]
+2017-01-01 22:24:30 URL: http://www.burlington.org/Meeting%20Schedule%202017.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:24:31 URL:http://www.burlington.org/community_development/pdd_zoning_bylaws.php [35656/35656] -> "../data/townSites2/Burlington/www.burlington.org/community_development/pdd_zoning_bylaws.php" [1]
+2017-01-01 22:24:31 URL:http://www.burlington.org/community_development/rules_and_regulations.php [34881/34881] -> "../data/townSites2/Burlington/www.burlington.org/community_development/rules_and_regulations.php" [1]
+2017-01-01 22:24:32 URL:http://www.burlington.org/community_development/maps.php [36201/36201] -> "../data/townSites2/Burlington/www.burlington.org/community_development/maps.php" [1]
+2017-01-01 22:24:33 URL:http://www.burlington.org/community_development/contact_us.php [38946/38946] -> "../data/townSites2/Burlington/www.burlington.org/community_development/contact_us.php" [1]
+2017-01-01 22:24:34 URL:http://www.burlington.org/community_development/town_center_overlay.php [36911/36911] -> "../data/townSites2/Burlington/www.burlington.org/community_development/town_center_overlay.php" [1]
+2017-01-01 22:24:34 URL:http://www.burlington.org/departments/police/about.php [24337/24337] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/about.php" [1]
+2017-01-01 22:24:35 URL:http://www.burlington.org/departments/police/recruitment.php [24710/24710] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/recruitment.php" [1]
+2017-01-01 22:24:36 URL:http://www.burlington.org/departments/police/divisions/index.php [27447/27447] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/divisions/index.php" [1]
+2017-01-01 22:24:36 URL:http://www.burlington.org/departments/police/divisions/patrol.php [25484/25484] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/divisions/patrol.php" [1]
+2017-01-01 22:24:37 URL:http://www.burlington.org/departments/police/divisions/detectives.php [24727/24727] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/divisions/detectives.php" [1]
+2017-01-01 22:24:38 URL:http://www.burlington.org/departments/police/divisions/domestic_violence.php [25013/25013] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/divisions/domestic_violence.php" [1]
+2017-01-01 22:24:39 URL:http://www.burlington.org/departments/police/divisions/traffic.php [25124/25124] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/divisions/traffic.php" [1]
+2017-01-01 22:24:40 URL:http://www.burlington.org/departments/police/divisions/child_safety.php [23795/23795] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/divisions/child_safety.php" [1]
+2017-01-01 22:24:41 URL:http://www.burlington.org/departments/police/divisions/radar_trailer_request.php [26249/26249] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/divisions/radar_trailer_request.php" [1]
+2017-01-01 22:24:41 URL:http://www.burlington.org/departments/police/divisions/community_service.php [24408/24408] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/divisions/community_service.php" [1]
+2017-01-01 22:24:42 URL:http://www.burlington.org/departments/police/divisions/information_technology.php [23951/23951] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/divisions/information_technology.php" [1]
+2017-01-01 22:24:43 URL:http://www.burlington.org/departments/police/divisions/crime_analysis.php [25115/25115] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/divisions/crime_analysis.php" [1]
+2017-01-01 22:24:44 URL:http://www.burlington.org/departments/police/divisions/records.php [27057/27057] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/divisions/records.php" [1]
+2017-01-01 22:24:45 URL:http://www.burlington.org/departments/police/divisions/bike_unit.php [28387/28387] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/divisions/bike_unit.php" [1]
+2017-01-01 22:24:45 URL:http://www.burlington.org/departments/police/contacts/index.php [46779/46779] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/contacts/index.php" [1]
+2017-01-01 22:24:46 URL:http://www.burlington.org/departments/police/contacts/complaint_procedure.php [27277/27277] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/contacts/complaint_procedure.php" [1]
+2017-01-01 22:24:47 URL:http://www.burlington.org/departments/police/police_logs/index.php [24875/24875] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/police_logs/index.php" [1]
+2017-01-01 22:24:47 URL:http://www.burlington.org/departments/police/police_logs/2016_police_logs.php [30010/30010] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/police_logs/2016_police_logs.php" [1]
+2017-01-01 22:24:48 URL:http://www.burlington.org/departments/police/police_logs/2015_police_logs.php [30033/30033] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/police_logs/2015_police_logs.php" [1]
+2017-01-01 22:24:49 URL:http://www.burlington.org/departments/police/police_logs/2014_police_logs.php [34294/34294] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/police_logs/2014_police_logs.php" [1]
+2017-01-01 22:24:50 URL:http://www.burlington.org/departments/police/lynch/index.php [25746/25746] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/lynch/index.php" [1]
+2017-01-01 22:24:51 URL:http://www.burlington.org/departments/police/forms.php [24836/24836] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/forms.php" [1]
+2017-01-01 22:24:51 URL:http://www.burlington.org/departments/police/events.php [23135/23135] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/events.php" [1]
+2017-01-01 22:24:52 URL:http://www.burlington.org/departments/police/community_events.php [27105/27105] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/community_events.php" [1]
+2017-01-01 22:24:53 URL:http://www.burlington.org/departments/police/law_enforcement_events.php [23136/23136] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/law_enforcement_events.php" [1]
+2017-01-01 22:24:54 URL:http://www.burlington.org/departments/police/request_report.php [38363/38363] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/request_report.php" [1]
+2017-01-01 22:24:54 URL:http://www.burlington.org/departments/police/ticket_appeals.php [24506/24506] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/ticket_appeals.php" [1]
+2017-01-01 22:24:55 URL:http://www.burlington.org/departments/police/in_a_mv_crash.php [29375/29375] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/in_a_mv_crash.php" [1]
+2017-01-01 22:24:56 URL:http://www.burlington.org/departments/police/firearms_licensing.php [28176/28176] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/firearms_licensing.php" [1]
+2017-01-01 22:24:57 URL:http://www.burlington.org/departments/police/divisions/fingerprinting.php [25245/25245] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/divisions/fingerprinting.php" [1]
+2017-01-01 22:24:57 URL:http://www.burlington.org/new_departments/police/sex_offenders.php [25194/25194] -> "../data/townSites2/Burlington/www.burlington.org/new_departments/police/sex_offenders.php" [1]
+2017-01-01 22:24:58 URL: http://www.burlington.org/20160314133659908.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:24:59 URL:http://www.burlington.org/departments/police/police_details.php [26346/26346] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/police_details.php" [1]
+2017-01-01 22:24:59 URL:http://www.burlington.org/departments/police/elder_services.php [25334/25334] -> "../data/townSites2/Burlington/www.burlington.org/departments/police/elder_services.php" [1]
+2017-01-01 22:25:00 URL: http://www.burlington.org/community_development/docs/Burlington_Sealer_fees.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:00 URL: http://www.burlington.org/community_development/docs/VA%20Resource%20Guide%2005%2025%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:01 URL:http://www.burlington.org/residents/community_life_center/marijuana_andiit_s_impact_on_the_adolescent_brain.php [33130/33130] -> "../data/townSites2/Burlington/www.burlington.org/residents/community_life_center/marijuana_andiit_s_impact_on_the_adolescent_brain.php" [1]
+2017-01-01 22:25:01 URL: http://www.burlington.org/town_government/docs/30B_effective%20110716.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:02 URL: http://www.burlington.org/town_government/docs/30%2039M_effective%20110716.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:02 URL: http://www.burlington.org/town_government/docs/7C_effective%20110716.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:02 URL: http://www.burlington.org/town_government/docs/149_effective%20110716.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:03 URL: http://www.burlington.org/town_government/docs/OPM%20Bidders%20List.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:04 URL:http://www.burlington.org/town_government/17d-491-0015_installation_of_hvac_at_police_station.php [34019/34019] -> "../data/townSites2/Burlington/www.burlington.org/town_government/17d-491-0015_installation_of_hvac_at_police_station.php" [1]
+2017-01-01 22:25:04 URL:http://www.burlington.org/town_government/17c-491-0016_human_services_bldg_auxillary_fire_sprinkler_pump.php [34092/34092] -> "../data/townSites2/Burlington/www.burlington.org/town_government/17c-491-0016_human_services_bldg_auxillary_fire_sprinkler_pump.php" [1]
+2017-01-01 22:25:05 URL: http://www.burlington.org/town_government/docs/Prevailng%20Wage.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:06 URL:http://www.burlington.org/town_government/17s-220-0006_four_stage_breathing_air_compressor.php [34421/34421] -> "../data/townSites2/Burlington/www.burlington.org/town_government/17s-220-0006_four_stage_breathing_air_compressor.php" [1]
+2017-01-01 22:25:07 URL:http://www.burlington.org/town_government/17s-192-0007_request_for_qualification_opm_project_services_for_33_and_61_center_street.php [35156/35156] -> "../data/townSites2/Burlington/www.burlington.org/town_government/17s-192-0007_request_for_qualification_opm_project_services_for_33_and_61_center_street.php" [1]
+2017-01-01 22:25:07 URL:http://www.burlington.org/town_government/17c-631-0003_simonds_park_wall_project_phase_ii.php [34704/34704] -> "../data/townSites2/Burlington/www.burlington.org/town_government/17c-631-0003_simonds_park_wall_project_phase_ii.php" [1]
+2017-01-01 22:25:08 URL:http://www.burlington.org/town_government/17s-220-0001_opm_for_new_fire_station.php [33606/33606] -> "../data/townSites2/Burlington/www.burlington.org/town_government/17s-220-0001_opm_for_new_fire_station.php" [1]
+2017-01-01 22:25:09 URL:http://www.burlington.org/town_government/17d-220-0012_design_services_for_fire_station_no_2.php [34586/34586] -> "../data/townSites2/Burlington/www.burlington.org/town_government/17d-220-0012_design_services_for_fire_station_no_2.php" [1]
+2017-01-01 22:25:10 URL:http://www.burlington.org/town_government/17c-631-0013_repairofreganparkbasketballpark.php [34301/34301] -> "../data/townSites2/Burlington/www.burlington.org/town_government/17c-631-0013_repairofreganparkbasketballpark.php" [1]
+2017-01-01 22:25:10 URL: http://www.burlington.org/town_government/docs/bidders_list_Simonds_Park_16C_631_0004.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:10 URL: http://www.burlington.org/town_government/town_clerk/docs/Expiring%20Terms%20-%20Elected%20Officials.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:11 URL: http://www.burlington.org/town_government/town_clerk/docs/Expiring%20Town%20Meeting%20Terms.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:11 URL: http://www.burlington.org/town_government/town_clerk/docs/Calendar%20Calculator2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:13 URL:http://www.burlington.org/town_government/town_clerk/past_election_results.php [95052/95052] -> "../data/townSites2/Burlington/www.burlington.org/town_government/town_clerk/past_election_results.php" [1]
+2017-01-01 22:25:14 URL:http://www.burlington.org/town_government/town_clerk/campaign_finance.php [36813/36813] -> "../data/townSites2/Burlington/www.burlington.org/town_government/town_clerk/campaign_finance.php" [1]
+2017-01-01 22:25:15 URL:http://www.burlington.org/town_government/town_clerk/CampaignReports/index.php [52002/52002] -> "../data/townSites2/Burlington/www.burlington.org/town_government/town_clerk/CampaignReports/index.php" [1]
+2017-01-01 22:25:15 URL: http://www.burlington.org/town_government/town_clerk/docs/2015-16%20English%20Mail-in.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:16 URL: http://www.burlington.org/town_government/town_clerk/docs/ABSapp2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:16 URL: http://www.burlington.org/town_government/town_clerk/docs/ABSfamily2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:17 URL: http://www.burlington.org/town_government/town_clerk/docs/pollworkerappl.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:17 URL: http://www.burlington.org/town_government/town_clerk/docs/StreetsPrecMap.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:19 URL:http://www.burlington.org/ [40693/40693] -> "../data/townSites2/Burlington/www.burlington.org/Voter.htm" [1]
+2017-01-01 22:25:19 URL: http://www.burlington.org/town_government/town_clerk/docs/M102_edit.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:19 URL: http://www.burlington.org/town_government/town_clerk/docs/instr_cpf_m102.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:20 URL: http://www.burlington.org/town_government/town_clerk/docs/cpf_101.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:20 URL:http://www.burlington.org/residents/schools/find_your_school/index.php [22534/22534] -> "../data/townSites2/Burlington/www.burlington.org/residents/schools/find_your_school/index.php" [1]
+2017-01-01 22:25:21 URL:http://www.burlington.org/departments/schools/burlington_high_school/index.php [28137/28137] -> "../data/townSites2/Burlington/www.burlington.org/departments/schools/burlington_high_school/index.php" [1]
+2017-01-01 22:25:22 URL:http://www.burlington.org/departments/schools/find_your_school/burlington_early_childhood_center/index.php [23795/23795] -> "../data/townSites2/Burlington/www.burlington.org/departments/schools/find_your_school/burlington_early_childhood_center/index.php" [1]
+2017-01-01 22:25:23 URL:http://www.burlington.org/departments/schools/burlington_public_schools/administration.php [28481/28481] -> "../data/townSites2/Burlington/www.burlington.org/departments/schools/burlington_public_schools/administration.php" [1]
+2017-01-01 22:25:23 URL:http://www.burlington.org/departments/schools/burlington_public_schools/registration_forms.php [30731/30731] -> "../data/townSites2/Burlington/www.burlington.org/departments/schools/burlington_public_schools/registration_forms.php" [1]
+2017-01-01 22:25:24 URL:http://www.burlington.org/departments/schools/burlington_public_schools/calendars_and_events.php [28852/28852] -> "../data/townSites2/Burlington/www.burlington.org/departments/schools/burlington_public_schools/calendars_and_events.php" [1]
+2017-01-01 22:25:25 URL:http://www.burlington.org/departments/schools/burlington_public_schools/community.php [31037/31037] -> "../data/townSites2/Burlington/www.burlington.org/departments/schools/burlington_public_schools/community.php" [1]
+2017-01-01 22:25:26 URL:http://www.burlington.org/departments/schools/burlington_public_schools/let_s_talk.php [27276/27276] -> "../data/townSites2/Burlington/www.burlington.org/departments/schools/burlington_public_schools/let_s_talk.php" [1]
+2017-01-01 22:25:26 URL: http://www.burlington.org/15_16_BPS_Staff_Master_Telephone_List.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:27 URL:http://www.burlington.org/departments/schools/burlington_public_schools/school_committee.php [28523/28523] -> "../data/townSites2/Burlington/www.burlington.org/departments/schools/burlington_public_schools/school_committee.php" [1]
+2017-01-01 22:25:27 URL:http://www.burlington.org/departments/schools/burlington_public_schools/policies.php [33374/33374] -> "../data/townSites2/Burlington/www.burlington.org/departments/schools/burlington_public_schools/policies.php" [1]
+2017-01-01 22:25:28 URL:http://www.burlington.org/departments/schools/burlington_public_schools/finance_and_operations.php [31259/31259] -> "../data/townSites2/Burlington/www.burlington.org/departments/schools/burlington_public_schools/finance_and_operations.php" [1]
+2017-01-01 22:25:29 URL:http://www.burlington.org/departments/schools/burlington_public_schools/human_resources.php [32811/32811] -> "../data/townSites2/Burlington/www.burlington.org/departments/schools/burlington_public_schools/human_resources.php" [1]
+2017-01-01 22:25:30 URL:http://www.burlington.org/departments/schools/burlington_public_schools/food_services.php [31733/31733] -> "../data/townSites2/Burlington/www.burlington.org/departments/schools/burlington_public_schools/food_services.php" [1]
+2017-01-01 22:25:31 URL:http://www.burlington.org/departments/schools/burlington_public_schools/curriculum_and_instruction.php [27777/27777] -> "../data/townSites2/Burlington/www.burlington.org/departments/schools/burlington_public_schools/curriculum_and_instruction.php" [1]
+2017-01-01 22:25:32 URL:http://www.burlington.org/departments/schools/burlington_public_schools/special_education.php [32482/32482] -> "../data/townSites2/Burlington/www.burlington.org/departments/schools/burlington_public_schools/special_education.php" [1]
+2017-01-01 22:25:32 URL:http://www.burlington.org/departments/schools/burlington_public_schools/english_language_learners.php [29691/29691] -> "../data/townSites2/Burlington/www.burlington.org/departments/schools/burlington_public_schools/english_language_learners.php" [1]
+2017-01-01 22:25:33 URL:http://www.burlington.org/departments/schools/burlington_public_schools/technology.php [28460/28460] -> "../data/townSites2/Burlington/www.burlington.org/departments/schools/burlington_public_schools/technology.php" [1]
+2017-01-01 22:25:34 URL:http://www.burlington.org/departments/schools/burlington_public_schools/athletics.php [29922/29922] -> "../data/townSites2/Burlington/www.burlington.org/departments/schools/burlington_public_schools/athletics.php" [1]
+2017-01-01 22:25:35 URL:http://www.burlington.org/schools_calendar.php [14294/14294] -> "../data/townSites2/Burlington/www.burlington.org/schools_calendar.php" [1]
+2017-01-01 22:25:36 URL:http://www.burlington.org/residents/schools/index.php [21192/21192] -> "../data/townSites2/Burlington/www.burlington.org/residents/schools/index.php" [1]
+2017-01-01 22:25:36 URL: http://www.burlington.org/community_development/master_plan_information/docs/SC%20Member%20List_2_9_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:36 URL: http://www.burlington.org/community_development/master_plan_information/docs/Public%20Workshop%20Abridged%2022%20Sept%202016.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:37 URL: http://www.burlington.org/community_development/master_plan_information/docs/Steering%20Committee%20-%2023%20March.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:37 URL: http://www.burlington.org/community_development/master_plan_information/docs/2015_06_17_Steering_Committee_.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:37 URL: http://www.burlington.org/community_development/master_plan_information/docs/Steering_Committee_061715.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:38 URL: http://www.burlington.org/community_development/master_plan_information/docs/VPS_results.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:38 URL: http://www.burlington.org/community_development/master_plan_information/docs/Burlington_Image_of_the_Town.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:39 URL: http://www.burlington.org/community_development/master_plan_information/docs/Schedule_Market_Study_Goals_VPS_10_21_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:39 URL: http://www.burlington.org/community_development/master_plan_information/docs/Framingham_Land_Use_Master_Plan_Sept_2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:39 URL: http://www.burlington.org/community_development/master_plan_information/docs/Hi_Res_Full_Northampton.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:40 URL: http://www.burlington.org/community_development/master_plan_information/docs/Goals___Strategies_Element_3_12_1993.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:40 URL: http://www.burlington.org/community_development/master_plan_information/docs/Economic_Development_Strategies_Plan_8_1993.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:41 URL: http://www.burlington.org/community_development/master_plan_information/docs/Land_Use_Element_10_7_1993.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:41 URL: http://www.burlington.org/community_development/master_plan_information/docs/Transportation_master_plan_element_8_1994.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:41 URL: http://www.burlington.org/community_development/master_plan_information/docs/Housing_Element_5_1997.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:42 URL: http://www.burlington.org/docs/TailingsList7.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:42 URL: http://www.burlington.org/docs/2014Survey.pdf 200 OK
+unlink: No such file or directory
+2017-01-01 22:25:42 URL:http://www.burlington.org/news_detail_T2_R17.php [30783/30783] -> "../data/townSites2/Burlington/www.burlington.org/news_detail_T2_R17.php" [1]
+2017-01-01 22:25:43 URL:http://www.burlington.org/news_detail_T2_R15.php [30402/30402] -> "../data/townSites2/Burlington/www.burlington.org/news_detail_T2_R15.php" [1]
+Found no broken links.
+
+FINISHED --2017-01-01 22:25:43--
+Total wall clock time: 7m 51s
+Downloaded: 396 files, 15M in 1m 12s (213 KB/s)

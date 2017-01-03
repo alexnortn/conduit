@@ -1,0 +1,46 @@
+2017-01-02 00:23:18 URL:http://www.webster-ma.gov/ [62486] -> "../data/townSites2/Webster/www.webster-ma.gov/index.html" [1]
+2017-01-02 00:23:18 URL: http://www.webster-ma.gov/templates/jsn_epic_pro/favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:19 URL: http://www.webster-ma.gov/tmp/jsn_epic_pro_css_842e9770ec83db081ee32240f9a567a1.php 200 OK
+../data/townSites2/Webster/www.webster-ma.gov/tmp/jsn_epic_pro_css_842e9770ec83db081ee32240f9a567a1.php: No such file or directory
+unlink: No such file or directory
+2017-01-02 00:23:19 URL: http://www.webster-ma.gov/tmp/jsn_epic_pro_javascript_988d0d2501a23afd06624eabd6b371fd.php 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:24 URL:http://www.webster-ma.gov/index.php [62495] -> "../data/townSites2/Webster/www.webster-ma.gov/index.php" [1]
+2017-01-02 00:23:25 URL: http://www.webster-ma.gov/documents/hr/Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:25 URL: http://www.webster-ma.gov/documents/hr/FSA%20Notice.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:26 URL: http://www.webster-ma.gov/documents/hr/CORI.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:26 URL: http://www.webster-ma.gov/documents/hr/HIPPA%20Privacy%20Rule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:27 URL: http://www.webster-ma.gov/documents/hr/CHIP%20Notice.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:27 URL: http://www.webster-ma.gov/documents/zoning/Webster%20Zoning%20Map%20CLRhalf%20size.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:27 URL: http://www.webster-ma.gov/documents/report/Town%20Report%202013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:28 URL: http://www.webster-ma.gov/documents/report/Town%20Report%202014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:28 URL: http://www.webster-ma.gov/documents/report/Town%20Report%202015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:28 URL: http://www.webster-ma.gov/documents/TOW%20Charter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:29 URL: http://www.webster-ma.gov/documents/MasterPlan/Final%20Webster%20Master%20Plan%202014_update_07-11-14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:29 URL: http://www.webster-ma.gov/documents/dpw/highway/Transfer%20Station.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:29 URL: http://www.webster-ma.gov/ccr/ccr2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:30 URL: http://www.webster-ma.gov/documents/assessor/assessor%20notice.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:30 URL: http://www.webster-ma.gov/documents/Holiday%20Schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:23:31 URL: http://www.webster-ma.gov/documents/fd/smoke%20alarms.pdf 200 OK
+unlink: No such file or directory
+Found no broken links.
+
+FINISHED --2017-01-02 00:23:31--
+Total wall clock time: 17s
+Downloaded: 2 files, 122K in 1.4s (89.2 KB/s)

@@ -1,0 +1,715 @@
+2017-01-02 02:20:19 URL:http://www.mansfieldma.com/ [83450/83450] -> "../data/townSites2/Mansfield/www.mansfieldma.com/index.html" [1]
+http://www.mansfieldma.com/xmlrpc.php:
+Remote file does not exist -- broken link!!!
+2017-01-02 02:20:21 URL: http://www.mansfieldma.com/feed/ 200 OK
+unlink: No such file or directory
+2017-01-02 02:20:23 URL: http://www.mansfieldma.com/wp-json/ 200 OK
+unlink: No such file or directory
+2017-01-02 02:20:24 URL: http://www.mansfieldma.com/wp-includes/wlwmanifest.xml 200 OK
+unlink: No such file or directory
+2017-01-02 02:20:27 URL:http://www.mansfieldma.com/documents-and-forms/ [69181] -> "../data/townSites2/Mansfield/www.mansfieldma.com/documents-and-forms/index.html" [1]
+2017-01-02 02:20:31 URL:http://www.mansfieldma.com/town-government/departments/human-resources/available-positions/ [65029] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/human-resources/available-positions/index.html" [1]
+2017-01-02 02:20:34 URL:http://www.mansfieldma.com/about-us/ [63925] -> "../data/townSites2/Mansfield/www.mansfieldma.com/about-us/index.html" [1]
+2017-01-02 02:20:38 URL:http://www.mansfieldma.com/about-us/social-media/ [63484] -> "../data/townSites2/Mansfield/www.mansfieldma.com/about-us/social-media/index.html" [1]
+2017-01-02 02:20:41 URL:http://www.mansfieldma.com/about-us/social-media/facebook/ [81850] -> "../data/townSites2/Mansfield/www.mansfieldma.com/about-us/social-media/facebook/index.html" [1]
+2017-01-02 02:20:44 URL:http://www.mansfieldma.com/about-us/social-media/twitter/ [63724] -> "../data/townSites2/Mansfield/www.mansfieldma.com/about-us/social-media/twitter/index.html" [1]
+2017-01-02 02:20:49 URL:http://www.mansfieldma.com/about-us/history-of-mansfield/ [94033] -> "../data/townSites2/Mansfield/www.mansfieldma.com/about-us/history-of-mansfield/index.html" [1]
+2017-01-02 02:20:53 URL:http://www.mansfieldma.com/about-us/local-and-state-government-officials/ [72203] -> "../data/townSites2/Mansfield/www.mansfieldma.com/about-us/local-and-state-government-officials/index.html" [1]
+2017-01-02 02:20:57 URL:http://www.mansfieldma.com/mansfield-residents/ [64633] -> "../data/townSites2/Mansfield/www.mansfieldma.com/mansfield-residents/index.html" [1]
+2017-01-02 02:21:00 URL:http://www.mansfieldma.com/mansfield-residents/adopt-a-hydrant/ [64695] -> "../data/townSites2/Mansfield/www.mansfieldma.com/mansfield-residents/adopt-a-hydrant/index.html" [1]
+2017-01-02 02:21:04 URL:http://www.mansfieldma.com/mansfield-residents/building-permits/ [69430] -> "../data/townSites2/Mansfield/www.mansfieldma.com/mansfield-residents/building-permits/index.html" [1]
+2017-01-02 02:21:08 URL:http://www.mansfieldma.com/town-government/departments/building-zoning-and-planning/conservation/ [73559] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/building-zoning-and-planning/conservation/index.html" [1]
+2017-01-02 02:21:11 URL:http://www.mansfieldma.com/mansfield-residents/downtown-parking/ [66089] -> "../data/townSites2/Mansfield/www.mansfieldma.com/mansfield-residents/downtown-parking/index.html" [1]
+2017-01-02 02:21:15 URL:http://www.mansfieldma.com/town-government/departments/building-zoning-and-planning/department-public-health/ [71576] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/building-zoning-and-planning/department-public-health/index.html" [1]
+2017-01-02 02:21:19 URL:http://www.mansfieldma.com/mansfield-residents/mbta-parking/ [69604] -> "../data/townSites2/Mansfield/www.mansfieldma.com/mansfield-residents/mbta-parking/index.html" [1]
+2017-01-02 02:21:22 URL:http://www.mansfieldma.com/mansfield-residents/online-payments/ [70640] -> "../data/townSites2/Mansfield/www.mansfieldma.com/mansfield-residents/online-payments/index.html" [1]
+2017-01-02 02:21:26 URL:http://www.mansfieldma.com/town-government/departments/parks-and-recreation/ [70594] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/parks-and-recreation/index.html" [1]
+2017-01-02 02:21:29 URL:http://www.mansfieldma.com/mansfield-residents/recycling-collection/ [70103] -> "../data/townSites2/Mansfield/www.mansfieldma.com/mansfield-residents/recycling-collection/index.html" [1]
+2017-01-02 02:21:33 URL:http://www.mansfieldma.com/mansfield-residents/recycling-collection/single-stream-automated-recycling/ [67219] -> "../data/townSites2/Mansfield/www.mansfieldma.com/mansfield-residents/recycling-collection/single-stream-automated-recycling/index.html" [1]
+2017-01-02 02:21:37 URL:http://www.mansfieldma.com/mansfield-residents/recycling-collection/mansfield-green/ [67231] -> "../data/townSites2/Mansfield/www.mansfieldma.com/mansfield-residents/recycling-collection/mansfield-green/index.html" [1]
+2017-01-02 02:21:41 URL:http://www.mansfieldma.com/mansfield-residents/trash-pickup/ [66865] -> "../data/townSites2/Mansfield/www.mansfieldma.com/mansfield-residents/trash-pickup/index.html" [1]
+2017-01-02 02:21:46 URL:http://www.mansfieldma.com/town-government/departments/veterans-services/ [70105] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/veterans-services/index.html" [1]
+2017-01-02 02:21:50 URL:http://www.mansfieldma.com/town-government/departments/department-of-public-works/water/ [68311] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/department-of-public-works/water/index.html" [1]
+2017-01-02 02:21:56 URL:http://www.mansfieldma.com/businesses/ [69801] -> "../data/townSites2/Mansfield/www.mansfieldma.com/businesses/index.html" [1]
+2017-01-02 02:22:02 URL:http://www.mansfieldma.com/financial-updates/ [67940] -> "../data/townSites2/Mansfield/www.mansfieldma.com/financial-updates/index.html" [1]
+2017-01-02 02:22:07 URL:http://www.mansfieldma.com/town-government/ [73611] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/index.html" [1]
+2017-01-02 02:22:11 URL:http://www.mansfieldma.com/town-government/departments/ [82140] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/index.html" [1]
+2017-01-02 02:22:16 URL:http://www.mansfieldma.com/town-government/departments/town-manager/ [66708] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/town-manager/index.html" [1]
+2017-01-02 02:22:19 URL:http://www.mansfieldma.com/town-government/departments/town-clerk/ [70077] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/town-clerk/index.html" [1]
+2017-01-02 02:22:22 URL:http://www.mansfieldma.com/town-government/departments/department-of-finance/ [63454] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/department-of-finance/index.html" [1]
+2017-01-02 02:22:27 URL:http://www.mansfieldma.com/town-government/departments/department-of-finance/town-accountant/ [68532] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/department-of-finance/town-accountant/index.html" [1]
+2017-01-02 02:22:32 URL:http://www.mansfieldma.com/town-government/departments/department-of-finance/town-assessor/ [68470] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/department-of-finance/town-assessor/index.html" [1]
+2017-01-02 02:22:36 URL:http://www.mansfieldma.com/town-government/departments/department-of-finance/treasurercollector/ [68486] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/department-of-finance/treasurercollector/index.html" [1]
+2017-01-02 02:22:40 URL:http://www.mansfieldma.com/town-government/departments/department-of-finance/information-technologies/ [66513] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/department-of-finance/information-technologies/index.html" [1]
+2017-01-02 02:22:46 URL:http://www.mansfieldma.com/town-government/departments/department-of-public-works/ [71675] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/department-of-public-works/index.html" [1]
+2017-01-02 02:22:49 URL:http://www.mansfieldma.com/town-government/departments/department-of-public-works/highway-division/ [66086] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/department-of-public-works/highway-division/index.html" [1]
+2017-01-02 02:22:54 URL:http://www.mansfieldma.com/town-government/departments/department-of-public-works/town-engineer/ [69488] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/department-of-public-works/town-engineer/index.html" [1]
+2017-01-02 02:22:58 URL:http://www.mansfieldma.com/town-government/departments/building-zoning-and-planning/ [63873] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/building-zoning-and-planning/index.html" [1]
+2017-01-02 02:23:05 URL:http://www.mansfieldma.com/town-government/departments/building-zoning-and-planning/building-department/ [66751] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/building-zoning-and-planning/building-department/index.html" [1]
+2017-01-02 02:23:10 URL:http://www.mansfieldma.com/town-government/departments/building-zoning-and-planning/planningzoning/ [74409] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/building-zoning-and-planning/planningzoning/index.html" [1]
+2017-01-02 02:23:15 URL:http://www.mansfieldma.com/town-government/departments/public-library/ [66892] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/public-library/index.html" [1]
+2017-01-02 02:23:20 URL:http://www.mansfieldma.com/town-government/departments/council-on-aging/ [66708] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/council-on-aging/index.html" [1]
+2017-01-02 02:23:24 URL:http://www.mansfieldma.com/town-government/departments/human-resources/ [71887] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/human-resources/index.html" [1]
+2017-01-02 02:23:29 URL:http://www.mansfieldma.com/town-government/departments/human-resources/ada-coordinator/ [69026] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/human-resources/ada-coordinator/index.html" [1]
+2017-01-02 02:23:33 URL:http://www.mansfieldma.com/town-government/elected-mansfield-officials/ [73759] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/elected-mansfield-officials/index.html" [1]
+2017-01-02 02:23:37 URL:http://www.mansfieldma.com/town-government/elected-mansfield-officials/board-of-selectmen/ [71900] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/elected-mansfield-officials/board-of-selectmen/index.html" [1]
+2017-01-02 02:23:41 URL:http://www.mansfieldma.com/town-government/elected-mansfield-officials/school-committee/ [66035] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/elected-mansfield-officials/school-committee/index.html" [1]
+2017-01-02 02:23:45 URL:http://www.mansfieldma.com/town-government/elected-mansfield-officials/town-moderator/ [67374] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/elected-mansfield-officials/town-moderator/index.html" [1]
+2017-01-02 02:23:49 URL:http://www.mansfieldma.com/town-government/elected-mansfield-officials/housing-authority/ [70814] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/elected-mansfield-officials/housing-authority/index.html" [1]
+2017-01-02 02:23:52 URL:http://www.mansfieldma.com/town-government/appointed-officials/ [83450] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/appointed-officials/index.html" [1]
+2017-01-02 02:23:56 URL:http://www.mansfieldma.com/town-government/appointed-officials/airport-commission/ [74298] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/appointed-officials/airport-commission/index.html" [1]
+2017-01-02 02:24:00 URL:http://www.mansfieldma.com/town-government/appointed-officials/animal-welfare/ [71613] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/appointed-officials/animal-welfare/index.html" [1]
+2017-01-02 02:24:04 URL:http://www.mansfieldma.com/town-government/appointed-officials/audit-committee/ [68869] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/appointed-officials/audit-committee/index.html" [1]
+2017-01-02 02:24:09 URL:http://www.mansfieldma.com/town-government/appointed-officials/cable-access-corporation/ [68994] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/appointed-officials/cable-access-corporation/index.html" [1]
+2017-01-02 02:24:13 URL:http://www.mansfieldma.com/town-government/appointed-officials/constables/ [66807] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/appointed-officials/constables/index.html" [1]
+2017-01-02 02:24:17 URL:http://www.mansfieldma.com/town-government/appointed-officials/craac/ [70462] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/appointed-officials/craac/index.html" [1]
+2017-01-02 02:24:21 URL:http://www.mansfieldma.com/town-government/appointed-officials/fales-oil-site-review-committee/ [66857] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/appointed-officials/fales-oil-site-review-committee/index.html" [1]
+2017-01-02 02:24:26 URL:http://www.mansfieldma.com/town-government/appointed-officials/finance-committee/ [68258] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/appointed-officials/finance-committee/index.html" [1]
+2017-01-02 02:24:29 URL:http://www.mansfieldma.com/town-government/appointed-officials/historical-commission/ [69406] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/appointed-officials/historical-commission/index.html" [1]
+2017-01-02 02:24:34 URL:http://www.mansfieldma.com/town-government/appointed-officials/industrial-development-commission/ [68645] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/appointed-officials/industrial-development-commission/index.html" [1]
+2017-01-02 02:24:38 URL:http://www.mansfieldma.com/town-government/appointed-officials/keep-mansfield-beautiful/ [70903] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/appointed-officials/keep-mansfield-beautiful/index.html" [1]
+2017-01-02 02:24:43 URL:http://www.mansfieldma.com/town-government/appointed-officials/mansfield-local-cultural-council/ [68983] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/appointed-officials/mansfield-local-cultural-council/index.html" [1]
+2017-01-02 02:24:47 URL:http://www.mansfieldma.com/town-government/appointed-officials/_committee-copy/ [68540] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/appointed-officials/_committee-copy/index.html" [1]
+2017-01-02 02:24:50 URL:http://www.mansfieldma.com/town-government/appointed-officials/mbta-advisory-board/ [67625] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/appointed-officials/mbta-advisory-board/index.html" [1]
+2017-01-02 02:24:55 URL:http://www.mansfieldma.com/town-government/appointed-officials/municipal-building-committee/ [69658] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/appointed-officials/municipal-building-committee/index.html" [1]
+2017-01-02 02:25:00 URL:http://www.mansfieldma.com/town-government/appointed-officials/non-profit-gift-fund-committee/ [68694] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/appointed-officials/non-profit-gift-fund-committee/index.html" [1]
+2017-01-02 02:25:04 URL:http://www.mansfieldma.com/town-government/appointed-officials/srpedd/ [68362] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/appointed-officials/srpedd/index.html" [1]
+2017-01-02 02:25:09 URL:http://www.mansfieldma.com/town-government/appointed-officials/tax-increment-financing-advisory-committee/ [70481] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/appointed-officials/tax-increment-financing-advisory-committee/index.html" [1]
+2017-01-02 02:25:13 URL:http://www.mansfieldma.com/town-government/appointed-officials/world-war-ii-scholarship-committee/ [67326] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/appointed-officials/world-war-ii-scholarship-committee/index.html" [1]
+2017-01-02 02:25:17 URL:http://www.mansfieldma.com/town-government/appointed-officials/zoning-board-appeals/ [68721] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/appointed-officials/zoning-board-appeals/index.html" [1]
+2017-01-02 02:25:21 URL:http://www.mansfieldma.com/town-government/how-to-apply-for-a-board/ [69309] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/how-to-apply-for-a-board/index.html" [1]
+2017-01-02 02:25:27 URL:http://www.mansfieldma.com/schools/ [64197] -> "../data/townSites2/Mansfield/www.mansfieldma.com/schools/index.html" [1]
+2017-01-02 02:25:31 URL:http://www.mansfieldma.com/public-safety/ [66190] -> "../data/townSites2/Mansfield/www.mansfieldma.com/public-safety/index.html" [1]
+2017-01-02 02:25:35 URL:http://www.mansfieldma.com/public-safety/police-2/ [63722] -> "../data/townSites2/Mansfield/www.mansfieldma.com/public-safety/police-2/index.html" [1]
+2017-01-02 02:25:39 URL:http://www.mansfieldma.com/public-safety/fire/ [71080] -> "../data/townSites2/Mansfield/www.mansfieldma.com/public-safety/fire/index.html" [1]
+2017-01-02 02:25:43 URL:http://www.mansfieldma.com/public-safety/emergency-management-agency/ [66154] -> "../data/townSites2/Mansfield/www.mansfieldma.com/public-safety/emergency-management-agency/index.html" [1]
+2017-01-02 02:25:47 URL:http://www.mansfieldma.com/public-safety/when-to-dial-911/ [63950] -> "../data/townSites2/Mansfield/www.mansfieldma.com/public-safety/when-to-dial-911/index.html" [1]
+2017-01-02 02:25:51 URL:http://www.mansfieldma.com/public-safety/safe-haven/ [67976] -> "../data/townSites2/Mansfield/www.mansfieldma.com/public-safety/safe-haven/index.html" [1]
+2017-01-02 02:25:54 URL:http://www.mansfieldma.com/contact-us/ [70446] -> "../data/townSites2/Mansfield/www.mansfieldma.com/contact-us/index.html" [1]
+http://www.mansfieldma.com/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+2017-01-02 02:25:56 URL: http://www.mansfieldma.com/wp-content/uploads/2016/03/RFP_Town_Counsel_Services_2016_rev.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:25:57 URL: http://www.mansfieldma.com/wp-content/uploads/2016/03/PB_SRPEDD_Representative.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:25:57 URL: http://www.mansfieldma.com/wp-content/uploads/2016/03/Agreement_Establishing_MFN_Regional_Wastewater_District.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:25:57 URL: http://www.mansfieldma.com/wp-content/uploads/2016/03/Chocolate_Factory_Plans_SP_Filing_2-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:25:58 URL: http://www.mansfieldma.com/wp-content/uploads/2016/03/Fiscal_Impact_Analysis_Chocolate_Factory.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:25:58 URL: http://www.mansfieldma.com/wp-content/uploads/2016/03/The_Chocolate_Factory_Adaptive_Reuse_Presentation_04-14-2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:25:58 URL: http://www.mansfieldma.com/wp-content/uploads/2016/03/Chocolate_Factory_MASTER_Plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:25:59 URL: http://www.mansfieldma.com/wp-content/uploads/2016/03/Mansfield_Cost_Savings_Incentive_Program_-_FINAL.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:04 URL:http://www.mansfieldma.com/town-government/departments/department-of-public-works/highway-division/road-construction/ [69626] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/department-of-public-works/highway-division/road-construction/index.html" [1]
+2017-01-02 02:26:05 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Asian_Longhorned_Beetle.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:10 URL:http://www.mansfieldma.com/public-safety/fire/ambulancefire-report-request/ [68066] -> "../data/townSites2/Mansfield/www.mansfieldma.com/public-safety/fire/ambulancefire-report-request/index.html" [1]
+2017-01-02 02:26:14 URL:http://www.mansfieldma.com/public-safety/fire/ambulancefire-billing-information/ [68374] -> "../data/townSites2/Mansfield/www.mansfieldma.com/public-safety/fire/ambulancefire-billing-information/index.html" [1]
+2017-01-02 02:26:14 URL: http://www.mansfieldma.com/wp-content/uploads/2016/03/2015_Water_Quality_Report_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:15 URL: http://www.mansfieldma.com/wp-content/uploads/2016/03/What_is_a_Cross-connection.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:19 URL:http://www.mansfieldma.com/wp-login.php [4299] -> "../data/townSites2/Mansfield/www.mansfieldma.com/wp-login.php" [1]
+2017-01-02 02:26:19 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/TownManager_Contract_2016_2019.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:19 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/DPW_-_AFSCME_Contract_2013-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:20 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/DPW-AFSCME-MOA-2016-2019.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:20 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/Supervisory_-_USW_Contract_2015-2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:20 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/USW_Non-Supervisory_CONTRACT_FY14-17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:20 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/NonSupervisory_SideLetter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:21 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/2011-2014_Mansfield_Police_Contract.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:21 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/Police_2014-2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:21 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/FireFighters_Contract_July_2011_-_June_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:21 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/MOA-2014-2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:22 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/MMED_AFSCME_Contract_2013-2016_final_signed.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:22 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/MMED-AFSCME-MOA-2016-2019.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:23 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/SPEA_Contract_2014-2017.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:23 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/IBEW_Professionals_2013-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:24 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/IBEW_Financial_Asst._2013-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:24 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/Teachers_2010-2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:24 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/The_Strategic_Plan_Priorities_5-1-2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:24 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/Xfinity_License_FINAL_4-29-15.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:25 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/Xfinity_Indemnification_Appendix_B.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:25 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/standard-and-poors-bond-rating-4-8-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:26 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/Agreement_Establishing_MFN_Regional_Wastewater_District.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:26 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/VFW_HIGH_SCHOOL_20130502.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:26 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/VFW_MIDDLE_SCHOOL_20130502.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:27 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/VFW_TEACHER_AWARD_20130502.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:27 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/Application_ZBA.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:28 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Water_Regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:28 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/WATER_REBATE_FORM.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:34 URL:http://www.mansfieldma.com/town-government/departments/human-resources/employee-benfits/ [80690] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/human-resources/employee-benfits/index.html" [1]
+2017-01-02 02:26:38 URL:http://www.mansfieldma.com/town-government/departments/human-resources/ [71887/71887] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/human-resources.1" [1]
+2017-01-02 02:26:41 URL:http://www.mansfieldma.com/town-government/departments/human-resources/police-fire-details-officers-2/ [68806] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/human-resources/police-fire-details-officers-2/index.html" [1]
+2017-01-02 02:26:46 URL:http://www.mansfieldma.com/town-government/departments/human-resources/police-fire-details-officers/ [66838] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/human-resources/police-fire-details-officers/index.html" [1]
+2017-01-02 02:26:50 URL:http://www.mansfieldma.com/town-government/departments/human-resources/retiree-benefits/ [66356] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/human-resources/retiree-benefits/index.html" [1]
+2017-01-02 02:26:52 URL:http://www.mansfieldma.com/about-us/history-of-mansfield/ [94033/94033] -> "../data/townSites2/Mansfield/www.mansfieldma.com/history-of-mansfield/index.html" [1]
+2017-01-02 02:26:53 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Residential-Building-Permit-Application-Packet2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:53 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Commercial-Building-Permit-ApplicationPacket2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:54 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Electrical_Permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:54 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/gasappl_i.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:54 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/MechSheetmetal_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:55 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/plmgappl_i.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:55 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Roffing_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:55 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Solid-Fuel-Burning-Permit_Application-Package.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:56 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Tent_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:56 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/SWIMMING-POOL-APPLICATION-rev2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:57 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Sign_Permit_application_package.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:57 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Debris-Disposal-Affidavit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:57 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Permit-Amendment-Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:58 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Site-Plan-Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:58 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Workers_Comp_Affidavit_Builders.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:58 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/NEW-BUILDING-REQUEST_2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:59 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/NewElectricalInspection.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:26:59 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Plumbing_Gas_Inspection-Request-form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:00 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/BuldingPermit_FeeSchedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:00 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/mechanical_permit_fee_schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:00 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/ResidentialElectricalPermit_FeeSchedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:01 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/ResidentialPlumbingPermit_FeeSchedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:01 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Commercial_Res3Unit_ElectricalPermit_FeeSchedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:01 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Commercial_PlumbigGasPermit_FeeSchedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:05 URL:http://www.mansfieldma.com/town-government/departments/building-zoning-and-planning/conservation/when-to-consult-the-commission/ [67348] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/building-zoning-and-planning/conservation/when-to-consult-the-commission/index.html" [1]
+2017-01-02 02:27:10 URL:http://www.mansfieldma.com/town-government/departments/building-zoning-and-planning/conservation/facts-conservation-commission/ [67901] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/building-zoning-and-planning/conservation/facts-conservation-commission/index.html" [1]
+2017-01-02 02:27:10 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/MEETING_SCHEDULE_FOR_2016_FOR_WEB.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:11 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/Draft_OS-R_plan_w._Maps_10-30-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:11 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/MassDEP_Stormwater_Management_Standards.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:12 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/MansfieldWetlandProtection_Bylaw.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:12 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/TOM_Wetlands_Protection_Regulations_2014.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:12 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/NoticeOfIntent_NOI_FilingPacket.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:13 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/RequestForDeterminationOfApplicability_RDA_FilingPacket.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:14 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/Bylaw_fee_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:19 URL:http://www.mansfieldma.com/town-government/departments/building-zoning-and-planning/conservation/conservation-areas/ [72345] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/building-zoning-and-planning/conservation/conservation-areas/index.html" [1]
+2017-01-02 02:27:25 URL:http://www.mansfieldma.com/town-government/departments/building-zoning-and-planning/conservation/regulations-for-hunting/ [70744] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/building-zoning-and-planning/conservation/regulations-for-hunting/index.html" [1]
+2017-01-02 02:27:26 URL: http://www.mansfieldma.com/wp-content/uploads/2015/11/ApplicationRegulations_DowntownParkingPermit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:27 URL: http://www.mansfieldma.com/wp-content/uploads/2015/11/Downtown-Parking-draft.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:33 URL:http://www.mansfieldma.com/town-government/departments/building-zoning-and-planning/department-public-health/about-us/ [66007] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/building-zoning-and-planning/department-public-health/about-us/index.html" [1]
+2017-01-02 02:27:33 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/COLD_AND_FLU_SEASON_Facts.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:33 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/lyme_sheet.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:34 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/west_nile_virus.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:37 URL:http://www.mansfieldma.com/town-government/departments/building-zoning-and-planning/department-public-health/mosquito-control/ [70845] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/building-zoning-and-planning/department-public-health/mosquito-control/index.html" [1]
+2017-01-02 02:27:38 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/eee.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:42 URL:http://www.mansfieldma.com/town-government/departments/building-zoning-and-planning/department-public-health/household-hazardous-waste/ [71636] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/building-zoning-and-planning/department-public-health/household-hazardous-waste/index.html" [1]
+2017-01-02 02:27:46 URL:http://www.mansfieldma.com/town-government/departments/building-zoning-and-planning/department-public-health/title-v-septic-systems/ [69265] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/building-zoning-and-planning/department-public-health/title-v-septic-systems/index.html" [1]
+2017-01-02 02:27:51 URL:http://www.mansfieldma.com/town-government/departments/building-zoning-and-planning/department-public-health/public-health-faqs/ [68637] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/building-zoning-and-planning/department-public-health/public-health-faqs/index.html" [1]
+2017-01-02 02:27:51 URL: http://www.mansfieldma.com/wp-content/uploads/2015/11/train_station_parking_space-with-zone-number-without-aerial-3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:52 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/CHS-Info-Sheet.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:52 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Pickleball-Winter-I-17-RegForm.docx 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:52 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Winter.Spring-17-BB-Reg-Form.doc 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:53 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/2016-2017-VB-Reg-Form.doc 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:53 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Karate-Winter-I-Reg17.docx 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:53 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Winter-I-17-RegForm.docx 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:54 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Fall-II-Reg16-3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:54 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/P-Bruins-Jan-13-15-Registration.doc 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:55 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/2016-MASS-PARKS.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:55 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/2016ProgramGuide-1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:27:55 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/MansfieldYouthSportsAssociations_update2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:00 URL:http://www.mansfieldma.com/mansfield-residents/recycling-collection/mansfield-green/ [67231/67231] -> "../data/townSites2/Mansfield/www.mansfieldma.com/mansfield-residents/mansfield-green/index.html" [1]
+2017-01-02 02:28:00 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/TrashCollectionStreetListings_by_Street.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:00 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/TrashCollectionStreetListings_by_Day.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:04 URL:http://www.mansfieldma.com/town-government/departments/veterans-services/notice-veterans-widowers-veterans/ [64612] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/veterans-services/notice-veterans-widowers-veterans/index.html" [1]
+2017-01-02 02:28:05 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/New_2014_Annual_Water_Quality_Report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:05 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/What_is_a_Cross-connection.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:05 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/FY17_Gen_Fund_Overall_Summary.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:06 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/fy17_Gen_Fund_Rev_Summary_as_voted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:06 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/fy17_Gen_Fund_Exp_Summary_as_voted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:06 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/FY17_GEN_FUND_EXP_DETAIL_AS_VOTED.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:07 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/fy17_sewer_revenue_AS_VOTED.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:07 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/fy17_sewer_exp_summary_as_voted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:07 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/FY17_SEWER_EXP_DETAIL_AS_VOTED.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:07 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/fy17_water_revenue_AS_VOTED.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:08 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/fy17_water_exp_summary_as_voted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:08 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/FY17_WATER_EXP_DETAIL_AS_VOTED.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:09 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/fy17_airport_exp_summary_as_voted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:09 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/FY17_AIRPORT_EXP_DETAIL_AS_VOTED.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:09 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/fy17_parking_revenue_AS_VOTED.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:10 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/fy17_parking_exp_summary_as_voted.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:10 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/FY17_PARKING_EXP_DETAIL_AS_VOTED.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:10 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/Mansfield_Final_Report_Org_Fin_Study.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:10 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/Mansfield_operational_study_timeline__82213.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:11 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/Mansfield_transmittal_letter_Org_Study.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:11 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Public_Records_Requests_Instructions_and_Form-1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:11 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/ROAD-DEFECT-INCIDENT-REPORT-1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:15 URL:http://www.mansfieldma.com/town-government/departments/town-clerk/about-us-2/ [65566] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/town-clerk/about-us-2/index.html" [1]
+2017-01-02 02:28:20 URL:http://www.mansfieldma.com/town-government/departments/town-clerk/registrar-of-voters/ [68531] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/town-clerk/registrar-of-voters/index.html" [1]
+2017-01-02 02:28:26 URL:http://www.mansfieldma.com/town-government/departments/town-clerk/town-meeting-information/ [66642] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/town-clerk/town-meeting-information/index.html" [1]
+2017-01-02 02:28:27 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/open_meeting_law.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:27 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/MEETING_NOTICE_FORM.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:28 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/mansfield_town_meeting_guide.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:29 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/citizens_guide_to_town_meeting1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:29 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Public_Records_Requests_Instructions_and_Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:30 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/board_application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:30 URL: http://www.mansfieldma.com/wp-content/uploads/2016/03/State-Election-11.8.16-Results-Official.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:30 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/State_Primary_Election_9_9_14_official_Results.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:30 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/State_Election_Results_11-4-14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:31 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/2014_RESULTS-Annual_Town_Election_5.13.14_v2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:31 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/The_Strategic_Plan__5-1-12.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:31 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/FY14_MMED_Report_on_the_Examination_of_Basic_Financial_Statements_Final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:31 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Mansfield_FY14_Report_on_the_Basic_Financial_Statements_-_Final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:32 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/MANSFIELD_2014_SINGLE_AUDIT_REPORT_-_FINAL.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:32 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/2013_MMED_Report_on_Examination_of_Basic_Financial_Statements_-_Final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:32 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Mansfield_MA_FY_2013_Report_on_Examination_of_Basic_Financial_Statements_-_Final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:33 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/MANSFIELD_MA_2013_SINGLE_AUDIT_REPORT_-_FINAL.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:33 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/2012_MMED_Financial_Statement_Package_FINAL_VERSION.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:33 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/MANSFIELD_FY_2012_-_REPORT_ON_EXAMINATION_OF_BASIC_FINANCIAL_STATEMENTS.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:34 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/MANSFIELD_2012_-_SINGLE_AUDIT_REPORT.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:37 URL:http://www.mansfieldma.com/town-government/departments/department-of-finance/town-assessor/about-us/ [65421] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/department-of-finance/town-assessor/about-us/index.html" [1]
+2017-01-02 02:28:38 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Abutters_Certification_Form.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:38 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Qualifications_for_Real_Estate_Exemptions.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:38 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Instructions_for_Filing_Excise_Tax_Abatements.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:39 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Motor_Vehicle_-_Trailer_Values.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:39 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Request_to_Change_Mailing_Address_for_Billing.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:39 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/tax_abatement_procedure.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:39 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Statutory__Exemptions.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:43 URL:http://www.mansfieldma.com/town-government/departments/department-of-finance/town-assessor/385-2/ [66513] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/department-of-finance/town-assessor/385-2/index.html" [1]
+2017-01-02 02:28:46 URL:http://www.mansfieldma.com/town-government/departments/department-of-finance/treasurercollector/about-us-2/ [65382] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/department-of-finance/treasurercollector/about-us-2/index.html" [1]
+2017-01-02 02:28:50 URL:http://www.mansfieldma.com/town-government/departments/department-of-finance/information-technologies/about-us-2/ [63972] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/department-of-finance/information-technologies/about-us-2/index.html" [1]
+2017-01-02 02:28:50 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Past_Projects.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:51 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Business_Recycling_Brochure.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:51 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Memorial_Hall_Final_Assessment_Report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:51 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/I_and_I_Notice.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:51 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Agreement_Establishing_MFN_Regional_Wastewater_District.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:51 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Mansfield_FEIR-CWMP_Report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:52 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Mansfield_FEIR-CWMP_Appendices.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:52 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/CWMP_BOS_Presentation_11-12-14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:52 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Mailbox_policy_letter.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:56 URL:http://www.mansfieldma.com/town-government/departments/department-of-public-works/town-engineer/about-us/ [66119] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/department-of-public-works/town-engineer/about-us/index.html" [1]
+2017-01-02 02:28:56 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/NMain-Oakland_EngDrawings_2014-09-Final.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:28:57 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Architect_Plan.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:00 URL:http://www.mansfieldma.com/town-government/departments/department-of-public-works/town-engineer/how-do-i-tie-into-town-sewer/ [66447] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/department-of-public-works/town-engineer/how-do-i-tie-into-town-sewer/index.html" [1]
+2017-01-02 02:29:00 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/sewer_extension_regs.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:01 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Drainlayers_Licence_Sewer_Regulations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:01 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/2016_Drainlayer-s_List.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:01 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Permeability_Testing__Example.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:01 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Engineering_Report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:02 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Subdivision_Checklist.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:02 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Site_Plan_Checklist.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:02 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/StormwaterManagement_ByLaw.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:03 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/stormwater_phase_II_permit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:03 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Annual_Report.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:03 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/SolutionToPollution-1-.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:04 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/AfterTheStorm-1-.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:07 URL:http://www.mansfieldma.com/town-government/departments/building-zoning-and-planning/building-department/dig-safe/ [68419] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/building-zoning-and-planning/building-department/dig-safe/index.html" [1]
+2017-01-02 02:29:11 URL:http://www.mansfieldma.com/town-government/departments/building-zoning-and-planning/building-department/faq-on-permitting/ [68942] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/building-zoning-and-planning/building-department/faq-on-permitting/index.html" [1]
+2017-01-02 02:29:14 URL:http://www.mansfieldma.com/town-government/departments/building-zoning-and-planning/building-department/public-notice/ [66418] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/building-zoning-and-planning/building-department/public-notice/index.html" [1]
+2017-01-02 02:29:17 URL:http://www.mansfieldma.com/town-government/departments/building-zoning-and-planning/planningzoning/1285-2/ [65748] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/building-zoning-and-planning/planningzoning/1285-2/index.html" [1]
+2017-01-02 02:29:17 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/Form_A_Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:18 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/Form_A-Subdivision_Fee_Schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:18 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/Preliminary_Subdivision_Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:18 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/Definitive_Subdivision_Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:19 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/Special_Permit_Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:19 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/Special_Permit_Fee_Schedule.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:19 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/Mansfield_Final_Report_only_5.27.141.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:20 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/UMass_Platform_Survey_20131.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:20 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/Townwide_vision.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:20 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/Mapping_Exercise.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:21 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/Prioritized_Elements.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:21 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/Public_comments.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:21 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/2008_Mansfield_Master_Plan1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:21 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/The_Strategic_Plan__5-1-12.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:22 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/Strategic_Plan_Update_December_2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:22 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/Map_1.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:22 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/Map_2.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:23 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/Map_3.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:23 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/Map_4.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:23 URL: http://www.mansfieldma.com/wp-content/uploads/2016/07/mansfield_buildout.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:27 URL:http://www.mansfieldma.com/town-government/departments/building-zoning-and-planning/planningzoning/planning-zoning-maps/ [69662] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/building-zoning-and-planning/planningzoning/planning-zoning-maps/index.html" [1]
+2017-01-02 02:29:31 URL:http://www.mansfieldma.com/town-government/departments/building-zoning-and-planning/planningzoning/flood-insurance-map/ [74424] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/building-zoning-and-planning/planningzoning/flood-insurance-map/index.html" [1]
+2017-01-02 02:29:34 URL:http://www.mansfieldma.com/town-government/departments/human-resources/about-us-2/ [66547] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/human-resources/about-us-2/index.html" [1]
+2017-01-02 02:29:34 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/FAQ_Retirement_.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:38 URL:http://www.mansfieldma.com/town-government/departments/human-resources/information-regarding-affordable-care-act-aca/ [73403] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/departments/human-resources/information-regarding-affordable-care-act-aca/index.html" [1]
+2017-01-02 02:29:39 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Conflict-of-Interest-Law-for-Municipal-Employees-Version-7-revised-Nov-14-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:39 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/BeneficiaryDesignationforAandS6.13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:39 URL: http://www.mansfieldma.com/wp-content/uploads/2016/11/HIPAA-Notice-2016.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:39 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/ADA-Coordinator-Job-Description.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:40 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/ADA-Greivance-Procedure.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:40 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/ADA-Public-Notice.pdf 200 OK
+unlink: No such file or directory
+http://www.mansfieldma.com/town-government/elected-mansfield-officials/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+2017-01-02 02:29:46 URL:http://www.mansfieldma.com/town-government/elected-mansfield-officials/board-of-selectmen/bos-about-us/ [70330] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/elected-mansfield-officials/board-of-selectmen/bos-about-us/index.html" [1]
+2017-01-02 02:29:46 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/BOS-Goals-and-Objectives-2016.docx 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:46 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/BRING_YOUR_OWN_BOTTLE_REGULATIONS_-_draft_9-6-13.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:46 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Bike_Path_Parking_from_East_St_to_Church_St.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:47 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Event_Permit_Application.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:29:47 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/SpecialEventSummary.pdf 200 OK
+unlink: No such file or directory
+http://www.mansfieldma.com/town-government/elected-mansfield-officials/board-of-selectmen/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+http://www.mansfieldma.com/town-government/elected-mansfield-officials/school-committee/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+2017-01-02 02:29:51 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/citizens_guide_to_town_meeting.pdf 200 OK
+unlink: No such file or directory
+http://www.mansfieldma.com/town-government/elected-mansfield-officials/town-moderator/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+2017-01-02 02:29:56 URL:http://www.mansfieldma.com/town-government/elected-mansfield-officials/housing-authority/history-of-mansfield-housing-authority/ [68766] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/elected-mansfield-officials/housing-authority/history-of-mansfield-housing-authority/index.html" [1]
+2017-01-02 02:30:00 URL:http://www.mansfieldma.com/town-government/elected-mansfield-officials/housing-authority/housing-units-managed-by-mansfield-housing-authority/ [68313] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/elected-mansfield-officials/housing-authority/housing-units-managed-by-mansfield-housing-authority/index.html" [1]
+2017-01-02 02:30:00 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/emergappinstruct.rtf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:00 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/prioritychecklist.rtf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:00 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/emergapp.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:01 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/housingsearchform.rtf 200 OK
+unlink: No such file or directory
+http://www.mansfieldma.com/town-government/elected-mansfield-officials/housing-authority/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+http://www.mansfieldma.com/town-government/appointed-officials/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+2017-01-02 02:30:04 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/Airport-Restaurant-RFP-Ad.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:05 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/Notice-of-Tree-Cutting-Operations.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:05 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/Noise_Abatement_Procedure.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:05 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/Minimum_Standard_and_requirements_7-12.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:06 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/STORMWATER_POLLUTION_PREVENTION_PLAN.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:06 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/AMPU_2010_TEXT.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:07 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/AMPU_2010_ALLl_71_73.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:07 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/AMPU_2010_ALLl_74_77.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:07 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/AMPU_2010_ALLl_78_81.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:07 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/AMPU_2010_ALLl_82_85.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:08 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/AMPU_2010_ALLl_99_103.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:08 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/AMPU_2010_ALLl_104_106.pdf 200 OK
+unlink: No such file or directory
+http://www.mansfieldma.com/town-government/appointed-officials/airport-commission/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+http://www.mansfieldma.com/town-government/appointed-officials/animal-welfare/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+http://www.mansfieldma.com/town-government/appointed-officials/audit-committee/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+2017-01-02 02:30:13 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/Mansfield_Comcast-Renewal_Public_Hearing_Notice.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:13 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/Mansfield_Final_Signature_License_submission_GB_01_29_2013_.pdf 200 OK
+unlink: No such file or directory
+http://www.mansfieldma.com/town-government/appointed-officials/cable-access-corporation/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+http://www.mansfieldma.com/town-government/appointed-officials/constables/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+http://www.mansfieldma.com/town-government/appointed-officials/craac/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+http://www.mansfieldma.com/town-government/appointed-officials/fales-oil-site-review-committee/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+http://www.mansfieldma.com/town-government/appointed-officials/finance-committee/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+http://www.mansfieldma.com/town-government/appointed-officials/historical-commission/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+http://www.mansfieldma.com/town-government/appointed-officials/industrial-development-commission/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+http://www.mansfieldma.com/town-government/appointed-officials/keep-mansfield-beautiful/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+http://www.mansfieldma.com/town-government/appointed-officials/mansfield-local-cultural-council/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+http://www.mansfieldma.com/town-government/appointed-officials/_committee-copy/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+http://www.mansfieldma.com/town-government/appointed-officials/mbta-advisory-board/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+2017-01-02 02:30:31 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/2016_0427_PSPW_Presentation_R.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:31 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/2015_MBC_annual_report.pdf 200 OK
+unlink: No such file or directory
+http://www.mansfieldma.com/town-government/appointed-officials/municipal-building-committee/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+http://www.mansfieldma.com/town-government/appointed-officials/non-profit-gift-fund-committee/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+http://www.mansfieldma.com/town-government/appointed-officials/srpedd/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+2017-01-02 02:30:39 URL:http://www.mansfieldma.com/town-government/appointed-officials/tax-increment-financing-advisory-committee/eoac-tif/ [68063] -> "../data/townSites2/Mansfield/www.mansfieldma.com/town-government/appointed-officials/tax-increment-financing-advisory-committee/eoac-tif/index.html" [1]
+http://www.mansfieldma.com/town-government/appointed-officials/tax-increment-financing-advisory-committee/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+http://www.mansfieldma.com/town-government/appointed-officials/world-war-ii-scholarship-committee/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+2017-01-02 02:30:43 URL: http://www.mansfieldma.com/wp-content/uploads/2016/09/ZBA_Application_-2-.pdf 200 OK
+unlink: No such file or directory
+http://www.mansfieldma.com/town-government/appointed-officials/zoning-board-appeals/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+http://www.mansfieldma.com/town-government/how-to-apply-for-a-board/'%20+%20linkurl%20+%20':
+Remote file does not exist -- broken link!!!
+2017-01-02 02:30:51 URL:http://www.mansfieldma.com/public-safety/fire/fire-roster/ [67736] -> "../data/townSites2/Mansfield/www.mansfieldma.com/public-safety/fire/fire-roster/index.html" [1]
+2017-01-02 02:30:51 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/26F.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:30:55 URL:http://www.mansfieldma.com/public-safety/fire/fire-safety-and-prevention-links/ [70186] -> "../data/townSites2/Mansfield/www.mansfieldma.com/public-safety/fire/fire-safety-and-prevention-links/index.html" [1]
+2017-01-02 02:30:59 URL:http://www.mansfieldma.com/public-safety/fire/fire-safety-and-prevention-links/smoke-detector-inspections/ [67993] -> "../data/townSites2/Mansfield/www.mansfieldma.com/public-safety/fire/fire-safety-and-prevention-links/smoke-detector-inspections/index.html" [1]
+2017-01-02 02:31:03 URL:http://www.mansfieldma.com/public-safety/fire/fire-safety-and-prevention-links/new-homes-or-additions/ [68053] -> "../data/townSites2/Mansfield/www.mansfieldma.com/public-safety/fire/fire-safety-and-prevention-links/new-homes-or-additions/index.html" [1]
+2017-01-02 02:31:06 URL:http://www.mansfieldma.com/public-safety/fire/fire-safe/ [69457] -> "../data/townSites2/Mansfield/www.mansfieldma.com/public-safety/fire/fire-safe/index.html" [1]
+2017-01-02 02:31:07 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/CO-Guide.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:07 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/IK.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:10 URL:http://www.mansfieldma.com/public-safety/fire/sharps/ [69239] -> "../data/townSites2/Mansfield/www.mansfieldma.com/public-safety/fire/sharps/index.html" [1]
+2017-01-02 02:31:14 URL:http://www.mansfieldma.com/public-safety/fire/fire-facts/ [68964] -> "../data/townSites2/Mansfield/www.mansfieldma.com/public-safety/fire/fire-facts/index.html" [1]
+2017-01-02 02:31:17 URL:http://www.mansfieldma.com/public-safety/fire/fire-safety-and-prevention-links/oil-burner-installation/ [67749] -> "../data/townSites2/Mansfield/www.mansfieldma.com/public-safety/fire/fire-safety-and-prevention-links/oil-burner-installation/index.html" [1]
+2017-01-02 02:31:21 URL:http://www.mansfieldma.com/public-safety/fire/open-burning/ [72804] -> "../data/townSites2/Mansfield/www.mansfieldma.com/public-safety/fire/open-burning/index.html" [1]
+2017-01-02 02:31:25 URL:http://www.mansfieldma.com/public-safety/fire/notice-of-privacy-practices/ [81063] -> "../data/townSites2/Mansfield/www.mansfieldma.com/public-safety/fire/notice-of-privacy-practices/index.html" [1]
+2017-01-02 02:31:29 URL:http://www.mansfieldma.com/public-safety/emergency-management-agency/about-us-2/ [65794] -> "../data/townSites2/Mansfield/www.mansfieldma.com/public-safety/emergency-management-agency/about-us-2/index.html" [1]
+2017-01-02 02:31:31 URL:http://www.mansfieldma.com/public-safety/police-2/ [63722/63722] -> "../data/townSites2/Mansfield/www.mansfieldma.com/public-safety/police/index.html" [1]
+2017-01-02 02:31:31 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Final-Paving-Notice-North-Main-St-Oakland-Project-11-3-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:32 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Train-Station-North-Main-St-Oakland-St-Detour-Map-A.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:32 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Train-Station-North-Main-St-Oakland-St-Detour-Map-B.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:32 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Webb-Place-Utility-and-Road-Improvements-Notice-10-18-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:33 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Webb-Pl-South-Main-Water-Notice.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:33 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Library-COA-Driveways-Parking-Area-Paving-Notice.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:33 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/School-Street-Final-Paving-Notice-10-12-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:34 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/School-St-Paving-Detour-Map.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:34 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Safe-Route-to-School-Project-7-20-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:34 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/CenterOfTown_StripingMeetingNotice.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:35 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/North-Main-St-Street-Repaving-Notice-3-23-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:35 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/North-Main-by-Foxboro-Final-Paving-Notice-6-9-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:36 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/School-St-Final-Paving-Notice-6-9-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:36 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/School-Elm-St-Repaving-Notice-5-3-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:36 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/West-Street-Water-Main-Drainage-Work-Notice-5-18-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:37 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/West-St-Detour-Map-Tremont-to-Pine.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:37 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Eastman-St-Sewer-Installation-Road-Work-Notice-6-20-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:37 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Chip-Sealing-Various-Roads-CY-16-7-14-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:38 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/NorthMainStCorridorImprovementsNotice.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:38 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/HampshireSt_OxfordRd__RepavingNotice81616.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:38 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Willow_Street_Culvert_Repair_Notice_8-24-16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 02:31:38 URL: http://www.mansfieldma.com/wp-content/uploads/2015/12/Willow_Detour-Map-8-24-16.pdf 200 OK
+unlink: No such file or directory
+Found 29 broken links.
+
+http://www.mansfieldma.com/town-government/elected-mansfield-officials/board-of-selectmen/'%20+%20linkurl%20+%20'
+http://www.mansfieldma.com/town-government/appointed-officials/craac/'%20+%20linkurl%20+%20'
+http://www.mansfieldma.com/town-government/appointed-officials/mansfield-local-cultural-council/'%20+%20linkurl%20+%20'
+http://www.mansfieldma.com/town-government/how-to-apply-for-a-board/'%20+%20linkurl%20+%20'
+http://www.mansfieldma.com/town-government/appointed-officials/cable-access-corporation/'%20+%20linkurl%20+%20'
+http://www.mansfieldma.com/town-government/appointed-officials/fales-oil-site-review-committee/'%20+%20linkurl%20+%20'
+http://www.mansfieldma.com/town-government/appointed-officials/audit-committee/'%20+%20linkurl%20+%20'
+http://www.mansfieldma.com/town-government/appointed-officials/municipal-building-committee/'%20+%20linkurl%20+%20'
+http://www.mansfieldma.com/town-government/appointed-officials/zoning-board-appeals/'%20+%20linkurl%20+%20'
+http://www.mansfieldma.com/town-government/appointed-officials/industrial-development-commission/'%20+%20linkurl%20+%20'
+http://www.mansfieldma.com/town-government/appointed-officials/constables/'%20+%20linkurl%20+%20'
+http://www.mansfieldma.com/town-government/elected-mansfield-officials/school-committee/'%20+%20linkurl%20+%20'
+http://www.mansfieldma.com/town-government/appointed-officials/mbta-advisory-board/'%20+%20linkurl%20+%20'
+http://www.mansfieldma.com/town-government/elected-mansfield-officials/town-moderator/'%20+%20linkurl%20+%20'
+http://www.mansfieldma.com/town-government/appointed-officials/world-war-ii-scholarship-committee/'%20+%20linkurl%20+%20'
+http://www.mansfieldma.com/town-government/elected-mansfield-officials/'%20+%20linkurl%20+%20'
+http://www.mansfieldma.com/town-government/appointed-officials/historical-commission/'%20+%20linkurl%20+%20'
+http://www.mansfieldma.com/town-government/appointed-officials/'%20+%20linkurl%20+%20'
+http://www.mansfieldma.com/'%20+%20linkurl%20+%20'
+http://www.mansfieldma.com/town-government/appointed-officials/non-profit-gift-fund-committee/'%20+%20linkurl%20+%20'
+http://www.mansfieldma.com/xmlrpc.php
+http://www.mansfieldma.com/town-government/appointed-officials/keep-mansfield-beautiful/'%20+%20linkurl%20+%20'
+http://www.mansfieldma.com/town-government/appointed-officials/animal-welfare/'%20+%20linkurl%20+%20'
+http://www.mansfieldma.com/town-government/appointed-officials/finance-committee/'%20+%20linkurl%20+%20'
+http://www.mansfieldma.com/town-government/appointed-officials/_committee-copy/'%20+%20linkurl%20+%20'
+http://www.mansfieldma.com/town-government/elected-mansfield-officials/housing-authority/'%20+%20linkurl%20+%20'
+http://www.mansfieldma.com/town-government/appointed-officials/tax-increment-financing-advisory-committee/'%20+%20linkurl%20+%20'
+http://www.mansfieldma.com/town-government/appointed-officials/srpedd/'%20+%20linkurl%20+%20'
+http://www.mansfieldma.com/town-government/appointed-officials/airport-commission/'%20+%20linkurl%20+%20'
+
+FINISHED --2017-01-02 02:31:38--
+Total wall clock time: 11m 20s
+Downloaded: 134 files, 8.8M in 56s (161 KB/s)

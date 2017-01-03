@@ -1,0 +1,12 @@
+2017-01-02 00:16:47 URL:http://www.lanesborough-ma.gov/ [42388/42388] -> "../data/townSites2/Lanesborough/www.lanesborough-ma.gov/index.html" [1]
+2017-01-02 00:16:47 URL: http://www.lanesborough-ma.gov/repository/designs/images/GO_favicon.ico 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:47 URL: http://www.lanesborough-ma.gov/vertical/sites/%7B35069B63-55EF-4033-982E-FE5C4BF36433%7D/uploads/GENERAL_BYLAWS.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 00:16:48 URL: http://www.lanesborough-ma.gov/vertical/sites/%7B35069B63-55EF-4033-982E-FE5C4BF36433%7D/uploads/Zoning_Bylaw_4-16-15_%28FINAL_FOR_WEBSITE%29.pdf 200 OK
+unlink: No such file or directory
+Found no broken links.
+
+FINISHED --2017-01-02 00:16:48--
+Total wall clock time: 2.0s
+Downloaded: 1 files, 41K in 0.2s (185 KB/s)

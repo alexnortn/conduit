@@ -1,0 +1,9 @@
+2017-01-02 06:16:26 URL:http://www.townofheath.org/ [41165] -> "../data/townSites2/Heath/www.townofheath.org/index.html" [1]
+2017-01-02 06:16:27 URL:http://www.townofheath.org/xmlrpc.php [42/42] -> "../data/townSites2/Heath/www.townofheath.org/xmlrpc.php" [1]
+2017-01-02 06:16:27 URL: http://www.townofheath.org/wp-includes/wlwmanifest.xml 200 OK
+unlink: No such file or directory
+Found no broken links.
+
+FINISHED --2017-01-02 06:16:27--
+Total wall clock time: 2.1s
+Downloaded: 2 files, 40K in 0.08s (500 KB/s)

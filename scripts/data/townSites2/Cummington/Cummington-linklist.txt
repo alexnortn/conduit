@@ -1,0 +1,113 @@
+2017-01-02 01:17:00 URL:http://www.cummington-ma.gov/ [49369] -> "../data/townSites2/Cummington/www.cummington-ma.gov/index.html" [1]
+2017-01-02 01:17:00 URL:http://www.cummington-ma.gov/index.php [49358] -> "../data/townSites2/Cummington/www.cummington-ma.gov/index.php" [1]
+2017-01-02 01:17:02 URL:http://www.cummington-ma.gov/DDGAssets/Misc/Calendar.php [85702] -> "../data/townSites2/Cummington/www.cummington-ma.gov/DDGAssets/Misc/Calendar.php" [1]
+2017-01-02 01:17:04 URL:http://www.cummington-ma.gov/Maps.php [28052] -> "../data/townSites2/Cummington/www.cummington-ma.gov/Maps.php" [1]
+2017-01-02 01:17:06 URL:http://www.cummington-ma.gov/Gallery.php [32883] -> "../data/townSites2/Cummington/www.cummington-ma.gov/Gallery.php" [1]
+2017-01-02 01:17:06 URL:http://www.cummington-ma.gov/History.php [31277] -> "../data/townSites2/Cummington/www.cummington-ma.gov/History.php" [1]
+2017-01-02 01:17:07 URL:http://www.cummington-ma.gov/Profile.php [33717] -> "../data/townSites2/Cummington/www.cummington-ma.gov/Profile.php" [1]
+2017-01-02 01:17:08 URL:http://www.cummington-ma.gov/Permits.php [29116] -> "../data/townSites2/Cummington/www.cummington-ma.gov/Permits.php" [1]
+2017-01-02 01:17:10 URL:http://www.cummington-ma.gov/TownReports.php [24412] -> "../data/townSites2/Cummington/www.cummington-ma.gov/TownReports.php" [1]
+2017-01-02 01:17:12 URL:http://www.cummington-ma.gov/TownGovList.php [31619] -> "../data/townSites2/Cummington/www.cummington-ma.gov/TownGovList.php" [1]
+2017-01-02 01:17:13 URL:http://www.cummington-ma.gov/Phone.php [424351] -> "../data/townSites2/Cummington/www.cummington-ma.gov/Phone.php" [1]
+2017-01-02 01:17:14 URL:http://www.cummington-ma.gov/DDGAssets/Blog/Blog.php [70171] -> "../data/townSites2/Cummington/www.cummington-ma.gov/DDGAssets/Blog/Blog.php" [1]
+2017-01-02 01:17:15 URL:http://www.cummington-ma.gov/SiteMap.php [34941] -> "../data/townSites2/Cummington/www.cummington-ma.gov/SiteMap.php" [1]
+2017-01-02 01:17:16 URL:http://www.cummington-ma.gov/911.php [26052] -> "../data/townSites2/Cummington/www.cummington-ma.gov/911.php" [1]
+2017-01-02 01:17:18 URL:http://www.cummington-ma.gov/Weather.php [24583] -> "../data/townSites2/Cummington/www.cummington-ma.gov/Weather.php" [1]
+2017-01-02 01:17:18 URL:http://www.cummington-ma.gov/MADel.php [25343] -> "../data/townSites2/Cummington/www.cummington-ma.gov/MADel.php" [1]
+2017-01-02 01:17:19 URL:http://www.cummington-ma.gov/USDel.php [26422] -> "../data/townSites2/Cummington/www.cummington-ma.gov/USDel.php" [1]
+2017-01-02 01:17:20 URL: http://www.cummington-ma.gov/DDGAssets/Content/GWM12:16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:20 URL: http://www.cummington-ma.gov/DDGAssets/Content/BOHTake:LeaveShed12:16.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:21 URL: http://www.cummington-ma.gov/DDGAssets/Content/RoadClosings2016-17.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:22 URL:http://www.cummington-ma.gov/DDGAssets/Contact/sContact.php [53066] -> "../data/townSites2/Cummington/www.cummington-ma.gov/DDGAssets/Contact/sContact.php" [1]
+2017-01-02 01:17:23 URL: http://www.cummington-ma.gov/SiteAssets/Adobe/basemap6_2003.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:23 URL: http://www.cummington-ma.gov/SiteAssets/Adobe/map4ortho.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:23 URL: http://www.cummington-ma.gov/SiteAssets/Adobe/naturallands6_2003.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:24 URL: http://www.cummington-ma.gov/SiteAssets/Adobe/openspace6_2003.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:24 URL: http://www.cummington-ma.gov/SiteAssets/Adobe/suitability6_2003.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:25 URL: http://www.cummington-ma.gov/SiteAssets/Adobe/topo_flood_etc6_2006.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:26 URL: http://www.cummington-ma.gov/SiteAssets/Adobe/zoning6_2003.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:27 URL:http://www.cummington-ma.gov/Kingman.php [27950] -> "../data/townSites2/Cummington/www.cummington-ma.gov/Kingman.php" [1]
+2017-01-02 01:17:29 URL:http://www.cummington-ma.gov/BryantHomestead.php [75955] -> "../data/townSites2/Cummington/www.cummington-ma.gov/BryantHomestead.php" [1]
+http://www.cummington-ma.gov/Selectmen.php:
+Remote file does not exist -- broken link!!!
+http://www.cummington-ma.gov/Finance.php:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:17:31 URL: http://www.cummington-ma.gov/SiteAssets/Docs/Town/PetitiontotheBoardofSelectmenV6.doc 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:31 URL:http://www.cummington-ma.gov/SiteAssets/Docs/Town/SelectBoardFees.htm [13130/13130] -> "../data/townSites2/Cummington/www.cummington-ma.gov/SiteAssets/Docs/Town/SelectBoardFees.htm" [1]
+2017-01-02 01:17:32 URL:http://www.cummington-ma.gov/SiteAssets/Docs/Town/BoardofHealthFees.htm [13801/13801] -> "../data/townSites2/Cummington/www.cummington-ma.gov/SiteAssets/Docs/Town/BoardofHealthFees.htm" [1]
+2017-01-02 01:17:33 URL:http://www.cummington-ma.gov/SiteAssets/Docs/Town/AnimalControlFees.htm [8283/8283] -> "../data/townSites2/Cummington/www.cummington-ma.gov/SiteAssets/Docs/Town/AnimalControlFees.htm" [1]
+2017-01-02 01:17:34 URL: http://www.cummington-ma.gov/SiteAssets/Docs/Town/Whenisapermitnecessary.doc 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:35 URL: http://www.cummington-ma.gov/SiteAssets/Docs/Town/HowToObtainaBuildingPermit.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:35 URL: http://www.cummington-ma.gov/DDGAssets/Board/OFFICEOFTAXCOLLECTOR.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:36 URL: http://www.cummington-ma.gov/DDGAssets/Board/Instructionsfor1-2FamilyPermitApplication.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:36 URL: http://www.cummington-ma.gov/DDGAssets/Board/Form1-12Family.doc 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:37 URL: http://www.cummington-ma.gov/DDGAssets/Board/Form2-ResidentialReno.doc 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:37 URL: http://www.cummington-ma.gov/DDGAssets/Board/woodstove.doc 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:38 URL: http://www.cummington-ma.gov/DDGAssets/Board/Form4swimmingpool.doc 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:38 URL: http://www.cummington-ma.gov/DDGAssets/Board/CommercialApplication.doc 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:38 URL: http://www.cummington-ma.gov/SiteAssets/Docs/Town/InsBuildingDebris.doc 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:39 URL: http://www.cummington-ma.gov/SiteAssets/Docs/Town/Energyrequirementsfor12familyhomes.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:39 URL: http://www.cummington-ma.gov/DDGAssets/Board/TentApp8:14.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:40 URL: http://www.cummington-ma.gov/DDGAssets/Board/Zoningpermit.doc 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:40 URL: http://www.cummington-ma.gov/DDGAssets/Board/OutdoorWoodHydronicHeater.pdf 200 OK
+unlink: No such file or directory
+http://www.cummington-ma.gov/Boards.php29:
+Remote file does not exist -- broken link!!!
+2017-01-02 01:17:41 URL: http://www.cummington-ma.gov/SiteAssets/Docs/Town/InsGasForm.doc 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:42 URL:http://www.cummington-ma.gov/SiteAssets/Docs/Town/InsGasFees.htm [3025/3025] -> "../data/townSites2/Cummington/www.cummington-ma.gov/SiteAssets/Docs/Town/InsGasFees.htm" [1]
+2017-01-02 01:17:43 URL: http://www.cummington-ma.gov/SiteAssets/Docs/Town/InsPlumbingForm.doc 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:44 URL:http://www.cummington-ma.gov/SiteAssets/Docs/Town/InsPlumbingFees.htm [2445/2445] -> "../data/townSites2/Cummington/www.cummington-ma.gov/SiteAssets/Docs/Town/InsPlumbingFees.htm" [1]
+2017-01-02 01:17:45 URL:http://www.cummington-ma.gov/SiteAssets/Docs/Town/InsWiringFees.htm [4325/4325] -> "../data/townSites2/Cummington/www.cummington-ma.gov/SiteAssets/Docs/Town/InsWiringFees.htm" [1]
+2017-01-02 01:17:46 URL: http://www.cummington-ma.gov/SiteAssets/Docs/Town/InsWiringform.doc 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:47 URL:http://www.cummington-ma.gov/SiteAssets/Docs/Town/CommunityHouseRules.htm [6888/6888] -> "../data/townSites2/Cummington/www.cummington-ma.gov/SiteAssets/Docs/Town/CommunityHouseRules.htm" [1]
+2017-01-02 01:17:47 URL: http://www.cummington-ma.gov/SiteAssets/Docs/Town/CommunityHouseForm.doc 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:47 URL: http://www.cummington-ma.gov/SiteAssets/Docs/Town/PoliceParkPermit.doc 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:47 URL: http://www.cummington-ma.gov/DDGAssets/Board/ApplicforSpecPer,Var,PACKET2011-1220.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:48 URL: http://www.cummington-ma.gov/SiteAssets/Docs/Town/TownReportFy2011.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:48 URL: http://www.cummington-ma.gov/SiteAssets/Docs/Town/TownReportFy2012.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:49 URL: http://www.cummington-ma.gov/SiteAssets/Docs/Town/TownReportFy2013.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:49 URL: http://www.cummington-ma.gov/SiteAssets/Docs/Town/TownReportFy2015.pdf 200 OK
+unlink: No such file or directory
+2017-01-02 01:17:51 URL:http://www.cummington-ma.gov//TownGovList.php [31613] -> "../data/townSites2/Cummington/www.cummington-ma.gov/TownGovList.php" [1]
+Found 3 broken links.
+
+http://www.cummington-ma.gov/Finance.php
+http://www.cummington-ma.gov/Boards.php29
+http://www.cummington-ma.gov/Selectmen.php
+
+FINISHED --2017-01-02 01:17:51--
+Total wall clock time: 52s
+Downloaded: 28 files, 1.2M in 5.1s (243 KB/s)
